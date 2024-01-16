@@ -149,3 +149,4 @@ html/*.txt
 data/*/*.xml
 data/*/*.rdf
 html/images/favicons
+*.ipynb
