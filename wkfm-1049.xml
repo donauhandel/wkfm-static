@@ -123,16 +123,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46559">
-                     <persName>
-                        <forename>Karl Joseph</forename>
-                        <surname>Hilbert</surname>
-                     </persName>
-                     <death><date>1762</date></death>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-1049.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1049</note><note target="wkfm-1050.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1050</note></noteGrp></person>
-                <person xml:id="wkfm__10641">
+    <back><listPerson><person xml:id="wkfm__10641">
                      <persName>
                         <forename>Karl Joseph</forename>
                         <surname>Moser</surname>
@@ -145,6 +136,15 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 466 (23. Februar 1706).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0235.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0235</note><note target="wkfm-0236.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0236</note><note target="wkfm-1049.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1049</note><note target="wkfm-1209.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1209</note><note target="wkfm-1210.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1210</note><note target="wkfm-1255.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1255</note><note target="wkfm-1256.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1256</note></noteGrp></person>
+                <person xml:id="wkfm__46559">
+                     <persName>
+                        <forename>Karl Joseph</forename>
+                        <surname>Hilbert</surname>
+                     </persName>
+                     <death><date>1762</date></death>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-1049.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1049</note><note target="wkfm-1050.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1050</note></noteGrp></person>
                 <person xml:id="wkfm__46560">
                      <persName>
                         <forename>Johann Adam</forename>

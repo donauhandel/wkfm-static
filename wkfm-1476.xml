@@ -86,7 +86,17 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47406">
+    <back><listPerson><person xml:id="wkfm__13222" sameAs="#wkfm__8119 ">
+                     <persName>
+                        <forename>Niklas</forename>
+                        <forename type="alt">Nikolaus</forename>
+                        <surname>Salliet</surname>
+                     </persName>
+                     <death><date>1758</date></death>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-1475.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1475</note><note target="wkfm-1476.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1476</note></noteGrp></person>
+                <person xml:id="wkfm__47406">
                      <persName>
                         <forename>Joseph Niklas</forename>
                         <surname>Salliet</surname>
@@ -97,16 +107,6 @@
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 508 (4. August 1725).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1476.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1476</note></noteGrp></person>
-                <person xml:id="wkfm__13222" sameAs="#wkfm__8119 ">
-                     <persName>
-                        <forename>Niklas</forename>
-                        <forename type="alt">Nikolaus</forename>
-                        <surname>Salliet</surname>
-                     </persName>
-                     <death><date>1758</date></death>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-1475.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1475</note><note target="wkfm-1476.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1476</note></noteGrp></person>
                 <person xml:id="wkfm__47405">
                      <persName>
                         <forename>Peter</forename>

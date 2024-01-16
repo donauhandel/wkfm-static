@@ -115,14 +115,17 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46510">
+    <back><listPerson><person xml:id="wkfm__46512" sameAs="#wkfm__11115 ">
                      <persName>
-                        <forename>Hieronymus</forename>
-                        <surname>Helmsteiner</surname>
-                        <surname type="alt">Helmbsteiner</surname>
+                        <forename>Anna Maria Elisabetha</forename>
+                        <surname>Strasserin</surname>
                      </persName>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-1017.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1017</note></noteGrp></person>
+                <person xml:id="wkfm__46514">
+                     <persName>
+                        <forename>Maria Magdalena</forename>
+                        <surname>Helmsteiner</surname>
+                     </persName>
                <noteGrp><note target="wkfm-1017.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1017</note></noteGrp></person>
                 <person xml:id="wkfm__46513">
                      <persName>
@@ -132,17 +135,14 @@
                      <occupation>Richter zu Maria Hilf</occupation>
                      <occupation type="aemter">Richter</occupation>
                <noteGrp><note target="wkfm-1017.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1017</note></noteGrp></person>
-                <person xml:id="wkfm__46514">
+                <person xml:id="wkfm__46510">
                      <persName>
-                        <forename>Maria Magdalena</forename>
+                        <forename>Hieronymus</forename>
                         <surname>Helmsteiner</surname>
+                        <surname type="alt">Helmbsteiner</surname>
                      </persName>
-               <noteGrp><note target="wkfm-1017.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1017</note></noteGrp></person>
-                <person xml:id="wkfm__46512" sameAs="#wkfm__11115 ">
-                     <persName>
-                        <forename>Anna Maria Elisabetha</forename>
-                        <surname>Strasserin</surname>
-                     </persName>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1017.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1017</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

@@ -90,7 +90,14 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46382">
+    <back><listPerson><person xml:id="wkfm__46384">
+                     <persName>
+                        <forename>Anna Maria</forename>
+                        <surname>Reitzin</surname>
+                        <surname type="alt">Gropp</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0906.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0906</note></noteGrp></person>
+                <person xml:id="wkfm__46382">
                      <persName>
                         <forename>Johann Friedrich</forename>
                         <surname>Gropp</surname>
@@ -98,12 +105,5 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0905.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0905</note><note target="wkfm-0906.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0906</note></noteGrp></person>
-                <person xml:id="wkfm__46384">
-                     <persName>
-                        <forename>Anna Maria</forename>
-                        <surname>Reitzin</surname>
-                        <surname type="alt">Gropp</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-0906.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0906</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

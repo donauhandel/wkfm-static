@@ -92,15 +92,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43897">
-                     <persName>
-                        <forename>None</forename>
-                        <surname>Pillitschotti</surname>
-                     </persName>
-                     <death><date>1778</date></death>
-                     <occupation>Handelsfrau</occupation>
-               <noteGrp><note target="wkfm-0186.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0186</note></noteGrp></person>
-                <person xml:id="wkfm__43896">
+    <back><listPerson><person xml:id="wkfm__43896">
                      <persName>
                         <forename>Ignaz</forename>
                         <forename type="alt">Ignaz Matthias</forename>
@@ -112,5 +104,13 @@
                         <bibl>Huchler, Bürgeraufnahmen, 484 (April 1730).</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0186.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0186</note><note target="wkfm-0187.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0187</note></noteGrp></person>
+                <person xml:id="wkfm__43897">
+                     <persName>
+                        <forename>None</forename>
+                        <surname>Pillitschotti</surname>
+                     </persName>
+                     <death><date>1778</date></death>
+                     <occupation>Handelsfrau</occupation>
+               <noteGrp><note target="wkfm-0186.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0186</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

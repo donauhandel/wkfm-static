@@ -106,7 +106,20 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47422">
+    <back><listPerson><person xml:id="wkfm__21800">
+                     <persName>
+                        <forename>Matthias</forename>
+                        <surname>Stockinger</surname>
+                     </persName>
+                     <death><date>1758</date></death>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+                     <occupation type="aemter">Vorsteher der bürgerl. Handelsleute</occupation>
+                     <listBibl>
+                        <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 539 (14. März 1711).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-1497.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1497</note><note target="wkfm-1498.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1498</note></noteGrp></person>
+                <person xml:id="wkfm__47422">
                      <persName>
                         <forename>Georg Albrecht</forename>
                         <surname>Eberhard</surname>
@@ -126,18 +139,5 @@
                         <surname type="alt">Herzogin</surname>
                      </persName>
                <noteGrp><note target="wkfm-1498.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1498</note></noteGrp></person>
-                <person xml:id="wkfm__21800">
-                     <persName>
-                        <forename>Matthias</forename>
-                        <surname>Stockinger</surname>
-                     </persName>
-                     <death><date>1758</date></death>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-                     <occupation type="aemter">Vorsteher der bürgerl. Handelsleute</occupation>
-                     <listBibl>
-                        <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 539 (14. März 1711).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-1497.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1497</note><note target="wkfm-1498.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1498</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

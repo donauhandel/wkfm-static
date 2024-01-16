@@ -92,15 +92,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47576">
-                     <persName>
-                        <forename>Franz</forename>
-                        <surname>Schwarzleithner</surname>
-                     </persName>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-               <noteGrp><note target="wkfm-1671.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1671</note><note target="wkfm-1672.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1672</note><note target="wkfm-1689.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1689</note><note target="wkfm-1690.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1690</note></noteGrp></person>
-                <person xml:id="wkfm__8487">
+    <back><listPerson><person xml:id="wkfm__8487">
                      <persName>
                         <forename>Joseph</forename>
                         <surname>Schwarzleithner</surname>
@@ -109,5 +101,13 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                <noteGrp><note target="wkfm-1671.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1671</note><note target="wkfm-1672.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1672</note><note target="wkfm-1690.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1690</note></noteGrp></person>
+                <person xml:id="wkfm__47576">
+                     <persName>
+                        <forename>Franz</forename>
+                        <surname>Schwarzleithner</surname>
+                     </persName>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+               <noteGrp><note target="wkfm-1671.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1671</note><note target="wkfm-1672.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1672</note><note target="wkfm-1689.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1689</note><note target="wkfm-1690.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1690</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

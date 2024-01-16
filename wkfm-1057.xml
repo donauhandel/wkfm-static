@@ -111,7 +111,16 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46571" sameAs="#wkfm__30333 ">
+    <back><listPerson><person xml:id="wkfm__46570">
+                     <persName>
+                        <forename>Joseph</forename>
+                        <surname>Helmsteiner</surname>
+                     </persName>
+                     <death><date>1781</date></death>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-1057.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1057</note></noteGrp></person>
+                <person xml:id="wkfm__46571" sameAs="#wkfm__30333 ">
                      <persName>
                         <forename>Joseph Maria</forename>
                         <surname>Riva</surname>
@@ -122,14 +131,5 @@
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1057.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1057</note><note target="wkfm-1439.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1439</note><note target="wkfm-1440.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1440</note></noteGrp></person>
-                <person xml:id="wkfm__46570">
-                     <persName>
-                        <forename>Joseph</forename>
-                        <surname>Helmsteiner</surname>
-                     </persName>
-                     <death><date>1781</date></death>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-1057.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1057</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

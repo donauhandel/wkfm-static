@@ -103,18 +103,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43871">
-                     <persName>
-                        <forename>Anton Joseph</forename>
-                        <surname>Illing</surname>
-                     </persName>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-                     <listBibl>
-                        <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 420 (Februar 1727).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-0233.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0233</note><note target="wkfm-1081.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1081</note><note target="wkfm-1082.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1082</note></noteGrp></person>
-                <person xml:id="wkfm__27912" sameAs="#wkfm__30184 ">
+    <back><listPerson><person xml:id="wkfm__27912" sameAs="#wkfm__30184 ">
                      <persName>
                         <forename>Johann Ignaz</forename>
                         <surname>Babitsch</surname>
@@ -128,5 +117,16 @@
                         <bibl>&amp;lt;div&amp;gt;Huchler, Bürgeraufnahmen, 343 (Dezember 1735).&amp;lt;/div&amp;gt;&amp;lt;div&amp;gt;Harrer-Lucienfeld, Wien, seiner Häuser, Bd. 2.4, S. 770.&amp;lt;br&amp;gt;&amp;lt;/div&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0233.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0233</note><note target="wkfm-0234.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0234</note><note target="wkfm-0648.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0648</note><note target="wkfm-1179.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1179</note></noteGrp></person>
+                <person xml:id="wkfm__43871">
+                     <persName>
+                        <forename>Anton Joseph</forename>
+                        <surname>Illing</surname>
+                     </persName>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+                     <listBibl>
+                        <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 420 (Februar 1727).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0233.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0233</note><note target="wkfm-1081.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1081</note><note target="wkfm-1082.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1082</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

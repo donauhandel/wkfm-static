@@ -109,16 +109,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46574" sameAs="#wkfm__25688 ">
-                     <persName>
-                        <forename>Joseph</forename>
-                        <surname>Härtl</surname>
-                     </persName>
-                     <death><date>1804</date></death>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-1061.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1061</note></noteGrp></person>
-                <person xml:id="wkfm__10600">
+    <back><listPerson><person xml:id="wkfm__10600">
                      <persName>
                         <forename>Norbert</forename>
                         <surname>Härtl</surname>
@@ -136,6 +127,15 @@
                         <surname>Härtl</surname>
                         <surname type="alt">Hardtel</surname>
                      </persName>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-1061.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1061</note></noteGrp></person>
+                <person xml:id="wkfm__46574" sameAs="#wkfm__25688 ">
+                     <persName>
+                        <forename>Joseph</forename>
+                        <surname>Härtl</surname>
+                     </persName>
+                     <death><date>1804</date></death>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1061.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1061</note></noteGrp></person>

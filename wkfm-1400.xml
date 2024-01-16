@@ -98,17 +98,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__23214">
-                     <persName>
-                        <forename>Sebastian</forename>
-                        <surname>Ruffini</surname>
-                        <surname type="alt">von Rufin</surname>
-                        <surname type="alt">Rufin</surname>
-                     </persName>
-                     <occupation>Tuchhändler</occupation>
-                     <occupation type="kaufmannsklasse">hofbefreit</occupation>
-               <noteGrp><note target="wkfm-1399.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1399</note><note target="wkfm-1400.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1400</note></noteGrp></person>
-                <person xml:id="wkfm__43793">
+    <back><listPerson><person xml:id="wkfm__43793">
                      <persName>
                         <forename>Johann Jakob</forename>
                         <surname>Appold</surname>
@@ -120,5 +110,15 @@
                         <bibl>&amp;lt;div&amp;gt;Huchler, Bürgeraufnahmen, 340 (September 1740).&amp;lt;/div&amp;gt;&amp;lt;div&amp;gt;Harrer-Lucienfeld, Wien, seiner Häuser, Bd. 1.1, S. 207&amp;lt;br&amp;gt;&amp;lt;/div&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0046.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0046</note><note target="wkfm-0047.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0047</note><note target="wkfm-0282.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0282</note><note target="wkfm-1399.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1399</note><note target="wkfm-1400.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1400</note></noteGrp></person>
+                <person xml:id="wkfm__23214">
+                     <persName>
+                        <forename>Sebastian</forename>
+                        <surname>Ruffini</surname>
+                        <surname type="alt">von Rufin</surname>
+                        <surname type="alt">Rufin</surname>
+                     </persName>
+                     <occupation>Tuchhändler</occupation>
+                     <occupation type="kaufmannsklasse">hofbefreit</occupation>
+               <noteGrp><note target="wkfm-1399.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1399</note><note target="wkfm-1400.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1400</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

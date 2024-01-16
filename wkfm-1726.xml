@@ -86,15 +86,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__6601">
-                     <persName>
-                        <forename>Marx</forename>
-                        <surname>Sprinzl</surname>
-                     </persName>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-               <noteGrp><note target="wkfm-1726.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1726</note></noteGrp></person>
-                <person xml:id="wkfm__46960">
+    <back><listPerson><person xml:id="wkfm__46960">
                      <persName>
                         <forename>Jakobina</forename>
                         <surname>Winklerin</surname>
@@ -103,5 +95,13 @@
                      <occupation>Handelsfrau</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                <noteGrp><note target="wkfm-1725.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1725</note><note target="wkfm-1726.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1726</note></noteGrp></person>
+                <person xml:id="wkfm__6601">
+                     <persName>
+                        <forename>Marx</forename>
+                        <surname>Sprinzl</surname>
+                     </persName>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+               <noteGrp><note target="wkfm-1726.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1726</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

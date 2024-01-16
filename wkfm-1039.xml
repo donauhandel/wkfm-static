@@ -128,12 +128,6 @@
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 415 (September 1747).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1039.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1039</note><note target="wkfm-1040.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1040</note></noteGrp></person>
-                <person xml:id="wkfm__46546">
-                     <persName>
-                        <forename>Johann Matthias</forename>
-                        <surname>Hölzl</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-1039.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1039</note></noteGrp></person>
                 <person xml:id="wkfm__30180">
                      <persName>
                         <forename>Bartholomäus</forename>
@@ -147,5 +141,11 @@
                         <bibl>Huchler, Bürgeraufnahmen, 356 (September 1739 &amp;#34;Courtini&amp;#34;).&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0447.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0447</note><note target="wkfm-0448.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0448</note><note target="wkfm-1039.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1039</note></noteGrp></person>
+                <person xml:id="wkfm__46546">
+                     <persName>
+                        <forename>Johann Matthias</forename>
+                        <surname>Hölzl</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-1039.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1039</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

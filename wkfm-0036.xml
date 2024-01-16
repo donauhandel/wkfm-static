@@ -94,7 +94,14 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__23558">
+    <back><listPerson><person xml:id="wkfm__43792">
+                     <persName>
+                        <forename>None</forename>
+                        <surname>None</surname>
+                     </persName>
+                     <occupation>Handelsfrau</occupation>
+               <noteGrp><note target="wkfm-0036.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0036</note></noteGrp></person>
+                <person xml:id="wkfm__23558">
                      <persName>
                         <forename>Matthias</forename>
                         <surname>Ankerl</surname>
@@ -107,12 +114,5 @@
                         <bibl>Huchler, Bürgeraufnahmen, 340 (Juli 1730).</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0036.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0036</note><note target="wkfm-0037.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0037</note></noteGrp></person>
-                <person xml:id="wkfm__43792">
-                     <persName>
-                        <forename>None</forename>
-                        <surname>None</surname>
-                     </persName>
-                     <occupation>Handelsfrau</occupation>
-               <noteGrp><note target="wkfm-0036.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0036</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

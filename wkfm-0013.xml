@@ -90,15 +90,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43787">
-                     <persName>
-                        <forename>Paul</forename>
-                        <surname>Sorbait</surname>
-                        <surname type="alt">de Sorbait</surname>
-                     </persName>
-                     <occupation>Handelsmann</occupation>
-               <noteGrp><note target="wkfm-0013.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0013</note><note target="wkfm-1567.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1567</note><note target="wkfm-1568.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1568</note></noteGrp></person>
-                <person xml:id="wkfm__43786">
+    <back><listPerson><person xml:id="wkfm__43786">
                      <persName>
                         <forename>Johann Peter</forename>
                         <surname>Au</surname>
@@ -106,5 +98,13 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0012.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0012</note><note target="wkfm-0013.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0013</note></noteGrp></person>
+                <person xml:id="wkfm__43787">
+                     <persName>
+                        <forename>Paul</forename>
+                        <surname>Sorbait</surname>
+                        <surname type="alt">de Sorbait</surname>
+                     </persName>
+                     <occupation>Handelsmann</occupation>
+               <noteGrp><note target="wkfm-0013.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0013</note><note target="wkfm-1567.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1567</note><note target="wkfm-1568.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1568</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

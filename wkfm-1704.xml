@@ -95,7 +95,14 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47512">
+    <back><listPerson><person xml:id="wkfm__47514">
+                     <persName>
+                        <forename>Jakob Michael</forename>
+                        <surname>Smitmer</surname>
+                     </persName>
+                     <occupation>Hofjuwelier, Wechsler/Bankier</occupation>
+               <noteGrp><note target="wkfm-1621.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1621</note><note target="wkfm-1622.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1622</note><note target="wkfm-1704.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1704</note></noteGrp></person>
+                <person xml:id="wkfm__47512">
                      <persName>
                         <forename>Franz Michael</forename>
                         <surname>Smitmer</surname>
@@ -104,13 +111,6 @@
                      <listBibl>
                         <bibl>Mittenzwei, Zwischen Gestern und Morgen, 126 (Familienverbindungen).&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
-               <noteGrp><note target="wkfm-1621.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1621</note><note target="wkfm-1622.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1622</note><note target="wkfm-1704.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1704</note></noteGrp></person>
-                <person xml:id="wkfm__47514">
-                     <persName>
-                        <forename>Jakob Michael</forename>
-                        <surname>Smitmer</surname>
-                     </persName>
-                     <occupation>Hofjuwelier, Wechsler/Bankier</occupation>
                <noteGrp><note target="wkfm-1621.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1621</note><note target="wkfm-1622.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1622</note><note target="wkfm-1704.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1704</note></noteGrp></person>
                 <person xml:id="wkfm__47518">
                      <persName>

@@ -92,13 +92,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46417">
-                     <persName>
-                        <forename>None</forename>
-                        <surname>None</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-0643.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0643</note></noteGrp></person>
-                <person xml:id="wkfm__40592">
+    <back><listPerson><person xml:id="wkfm__40592">
                      <persName>
                         <forename>Johann Karl</forename>
                         <surname>Endtner</surname>
@@ -111,5 +105,11 @@
                         <bibl>Huchler, Bürgeraufnahmen, 371 (April 1730).&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0643.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0643</note><note target="wkfm-0644.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0644</note></noteGrp></person>
+                <person xml:id="wkfm__46417">
+                     <persName>
+                        <forename>None</forename>
+                        <surname>None</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0643.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0643</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

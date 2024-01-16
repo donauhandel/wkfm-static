@@ -114,19 +114,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__24248">
-                     <persName>
-                        <forename>Johann Michael</forename>
-                        <surname>Götz</surname>
-                     </persName>
-                     <death><date>1773?</date></death>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-                     <listBibl>
-                        <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 390 (Dezember 1735).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-0883.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0883</note><note target="wkfm-0884.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0884</note><note target="wkfm-1635.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1635</note><note target="wkfm-1649.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1649</note></noteGrp></person>
-                <person xml:id="wkfm__33707">
+    <back><listPerson><person xml:id="wkfm__33707">
                      <persName>
                         <forename>Johann Andre</forename>
                         <surname>Schweinzer</surname>
@@ -149,5 +137,17 @@
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 429 (14. März 1711: &amp;#34;Mathias&amp;#34;).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0345.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0345</note><note target="wkfm-0346.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0346</note><note target="wkfm-0475.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0475</note><note target="wkfm-0476.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0476</note><note target="wkfm-0579.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0579</note><note target="wkfm-0580.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0580</note><note target="wkfm-1263.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1263</note><note target="wkfm-1635.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1635</note></noteGrp></person>
+                <person xml:id="wkfm__24248">
+                     <persName>
+                        <forename>Johann Michael</forename>
+                        <surname>Götz</surname>
+                     </persName>
+                     <death><date>1773?</date></death>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+                     <listBibl>
+                        <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 390 (Dezember 1735).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0883.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0883</note><note target="wkfm-0884.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0884</note><note target="wkfm-1635.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1635</note><note target="wkfm-1649.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1649</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

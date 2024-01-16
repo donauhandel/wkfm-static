@@ -105,16 +105,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47082">
-                     <persName>
-                        <forename>Joseph</forename>
-                        <surname>Uhl</surname>
-                     </persName>
-                     <death><date>1736</date></death>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-0711.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0711</note><note target="wkfm-0712.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0712</note><note target="wkfm-0763.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0763</note></noteGrp></person>
-                <person xml:id="wkfm__47125">
+    <back><listPerson><person xml:id="wkfm__47125">
                      <persName>
                         <forename>Franz Thomas</forename>
                         <surname>Uhl</surname>
@@ -125,6 +116,15 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 548 (Februar 1737).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0763.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0763</note></noteGrp></person>
+                <person xml:id="wkfm__47082">
+                     <persName>
+                        <forename>Joseph</forename>
+                        <surname>Uhl</surname>
+                     </persName>
+                     <death><date>1736</date></death>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-0711.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0711</note><note target="wkfm-0712.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0712</note><note target="wkfm-0763.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0763</note></noteGrp></person>
                 <person xml:id="wkfm__47127">
                      <persName>
                         <forename>None</forename>

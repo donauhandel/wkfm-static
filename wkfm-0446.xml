@@ -101,14 +101,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46145">
-                     <persName>
-                        <forename>Eleonora</forename>
-                        <surname>Lettnerin</surname>
-                        <surname type="alt">Klebinder</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-0446.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0446</note></noteGrp></person>
-                <person xml:id="wkfm__35115">
+    <back><listPerson><person xml:id="wkfm__35115">
                      <persName>
                         <forename>Franz</forename>
                         <surname>Klebinder</surname>
@@ -121,5 +114,12 @@
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 430 (September 1739).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0445.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0445</note><note target="wkfm-0446.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0446</note></noteGrp></person>
+                <person xml:id="wkfm__46145">
+                     <persName>
+                        <forename>Eleonora</forename>
+                        <surname>Lettnerin</surname>
+                        <surname type="alt">Klebinder</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0446.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0446</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

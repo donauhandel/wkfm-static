@@ -128,22 +128,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__37608">
-                     <persName>
-                        <forename>Joachim Andre</forename>
-                        <surname>Press</surname>
-                     </persName>
-                     <occupation>Buchhalter und Prokurist bei Johann Gottlob Hess</occupation>
-               <noteGrp><note target="wkfm-1015.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1015</note></noteGrp></person>
-                <person xml:id="wkfm__6849">
-                     <persName>
-                        <forename>Erdmann</forename>
-                        <surname>Tech</surname>
-                     </persName>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-               <noteGrp><note target="wkfm-0581.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0581</note><note target="wkfm-0582.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0582</note><note target="wkfm-1015.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1015</note><note target="wkfm-1016.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1016</note></noteGrp></person>
-                <person xml:id="wkfm__26689" sameAs="#wkfm__27506 wkfm__31306 wkfm__31325 ">
+    <back><listPerson><person xml:id="wkfm__26689" sameAs="#wkfm__27506 wkfm__31306 wkfm__31325 ">
                      <persName>
                         <forename>Johann Gottlob</forename>
                         <surname>Hess</surname>
@@ -158,5 +143,20 @@
                      </persName>
                      <occupation>Buchhalter und Prokurist bei Hess und Tech und bei Johann Gottlob Hess</occupation>
                <noteGrp><note target="wkfm-1015.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1015</note></noteGrp></person>
+                <person xml:id="wkfm__37608">
+                     <persName>
+                        <forename>Joachim Andre</forename>
+                        <surname>Press</surname>
+                     </persName>
+                     <occupation>Buchhalter und Prokurist bei Johann Gottlob Hess</occupation>
+               <noteGrp><note target="wkfm-1015.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1015</note></noteGrp></person>
+                <person xml:id="wkfm__6849">
+                     <persName>
+                        <forename>Erdmann</forename>
+                        <surname>Tech</surname>
+                     </persName>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+               <noteGrp><note target="wkfm-0581.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0581</note><note target="wkfm-0582.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0582</note><note target="wkfm-1015.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1015</note><note target="wkfm-1016.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1016</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>
