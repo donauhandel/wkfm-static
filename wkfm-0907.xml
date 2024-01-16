@@ -106,7 +106,13 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46385">
+    <back><listPerson><person xml:id="wkfm__46387">
+                     <persName>
+                        <forename>Maria Elisabeth</forename>
+                        <surname>Vethin</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0907.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0907</note></noteGrp></person>
+                <person xml:id="wkfm__46385">
                      <persName>
                         <forename>Andre</forename>
                         <surname>Gruber</surname>
@@ -114,12 +120,6 @@
                      </persName>
                      <occupation>Tuchhändler</occupation>
                      <occupation type="kaufmannsklasse">tuchlaubensverwandt/bürgerlich</occupation>
-               <noteGrp><note target="wkfm-0907.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0907</note></noteGrp></person>
-                <person xml:id="wkfm__46387">
-                     <persName>
-                        <forename>Maria Elisabeth</forename>
-                        <surname>Vethin</surname>
-                     </persName>
                <noteGrp><note target="wkfm-0907.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0907</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

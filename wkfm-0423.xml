@@ -147,7 +147,15 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46133">
+    <back><listPerson><person xml:id="wkfm__46134">
+                     <persName>
+                        <forename>Wolfgang</forename>
+                        <surname>Reisch</surname>
+                     </persName>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+               <noteGrp><note target="wkfm-0423.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0423</note><note target="wkfm-0424.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0424</note></noteGrp></person>
+                <person xml:id="wkfm__46133">
                      <persName>
                         <forename>Jakob</forename>
                         <surname>Zollikofer</surname>
@@ -156,14 +164,6 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                <noteGrp><note target="wkfm-0423.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0423</note></noteGrp></person>
-                <person xml:id="wkfm__46134">
-                     <persName>
-                        <forename>Wolfgang</forename>
-                        <surname>Reisch</surname>
-                     </persName>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-               <noteGrp><note target="wkfm-0423.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0423</note><note target="wkfm-0424.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0424</note></noteGrp></person>
                 <person xml:id="wkfm__46132">
                      <persName>
                         <forename>Eberhard Friedrich</forename>

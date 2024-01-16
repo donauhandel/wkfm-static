@@ -112,13 +112,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47579">
-                     <persName>
-                        <forename>Maria Magdalena</forename>
-                        <surname>Mayrhoferin</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-1673.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1673</note><note target="wkfm-1685.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1685</note></noteGrp></person>
-                <person xml:id="wkfm__47577">
+    <back><listPerson><person xml:id="wkfm__47577">
                      <persName>
                         <forename>Johann</forename>
                         <surname>Simmerl</surname>
@@ -127,5 +121,11 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1673.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1673</note><note target="wkfm-1674.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1674</note></noteGrp></person>
+                <person xml:id="wkfm__47579">
+                     <persName>
+                        <forename>Maria Magdalena</forename>
+                        <surname>Mayrhoferin</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-1673.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1673</note><note target="wkfm-1685.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1685</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

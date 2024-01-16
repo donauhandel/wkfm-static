@@ -114,19 +114,19 @@
                         <surname>Ristlisch</surname>
                      </persName>
                <noteGrp><note target="wkfm-0276.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0276</note></noteGrp></person>
-                <person xml:id="wkfm__43931">
-                     <persName>
-                        <forename>Maria Josepha</forename>
-                        <surname>Jenamy</surname>
-                        <surname type="alt">Jenamj</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-0276.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0276</note></noteGrp></person>
                 <person xml:id="wkfm__43932">
                      <persName>
                         <forename>Maria Anna</forename>
                         <surname>Peternaderin</surname>
                      </persName>
                      <occupation>Handelsfrau</occupation>
+               <noteGrp><note target="wkfm-0276.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0276</note></noteGrp></person>
+                <person xml:id="wkfm__43931">
+                     <persName>
+                        <forename>Maria Josepha</forename>
+                        <surname>Jenamy</surname>
+                        <surname type="alt">Jenamj</surname>
+                     </persName>
                <noteGrp><note target="wkfm-0276.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0276</note></noteGrp></person>
                 <person xml:id="wkfm__25660">
                      <persName>

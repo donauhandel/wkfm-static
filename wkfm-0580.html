@@ -15,12 +15,7 @@
       <link  href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
       <link  rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
       <link  rel="stylesheet" href="css/style.css" type="text/css">
-      <link  rel="stylesheet" href="css/micro-editor.css" type="text/css">
-      <style>
-                    .navBarNavDropdown ul li:nth-child(2) {
-                        display: none !important;
-                    }
-                </style><script src="https://cdnjs.cloudflare.com/ajax/libs/openseadragon/4.1.0/openseadragon.min.js"></script></head>
+      <link  rel="stylesheet" href="css/micro-editor.css" type="text/css"><script src="https://cdnjs.cloudflare.com/ajax/libs/openseadragon/4.1.0/openseadragon.min.js"></script></head>
    <body class="d-flex flex-column h-100">
       <header >
          <nav class="navbar navbar-expand-lg bg-body-tertiary">
@@ -58,117 +53,48 @@
                <div class="col-md-2 col-lg-2 col-sm-12" style="text-align:right">
                   <h1><a href="wkfm-0581.html"><i class="bi bi-chevron-right" title="weiter"></i></a></h1>
                </div>
-               <div id="editor-widget">
-                  <div  id="aot-navBarNavDropdown" class="navBarNavDropdown dropstart"><a title="Annotationen" href="#" data-bs-toggle="dropdown" data-bs-auto-close="outside" aria-expanded="false" role="button"><i class="bi bi-gear" title="Menü zur Anpassung der Anzeige"></i></a><ul class="dropdown-menu">
-                        <li class="dropdown-item">
-                           <full-size opt="fls"></full-size>
-                        </li>
-                        <li class="dropdown-item">
-                           <image-switch opt="es"></image-switch>
-                        </li>
-                        <li class="dropdown-item">
-                           <font-size opt="fs"></font-size>
-                        </li>
-                        <li class="dropdown-item">
-                           <font-family opt="ff"></font-family>
-                        </li>
-                        <li class="dropdown-item" style="border-top: 5px dashed lightgrey !important;">
-                           <annotation-slider opt="ef"></annotation-slider>
-                        </li>
-                        <li class="dropdown-item">
-                           <annotation-slider opt="prs"></annotation-slider>
-                        </li>
-                        <li class="dropdown-item">
-                           <annotation-slider opt="plc"></annotation-slider>
-                        </li>
-                        <li class="dropdown-item">
-                           <annotation-slider opt="wrk"></annotation-slider>
-                        </li>
-                        <li class="dropdown-item">
-                           <annotation-slider opt="org"></annotation-slider>
-                        </li>
-                     </ul>
-                  </div>
-               </div>
             </div>
             <div class="row">
                <div class="col">
-                  <div style="width: 100%; height: 100%" id="osd_viewer"></div>
+                  <div style="width: 100%; height: 800px" id="osd_viewer"></div>
                </div>
                <div class="col">
-                  
-                  <div id="div__61">
-                     <span  xmlns:local="http://dse-static.foo.bar" class="anchor-pb"></span><span  xmlns:local="http://dse-static.foo.bar" class="pb" source="#facs_80">80</span>
+                  <div class="transcript pb-5">
                      
                      
-                     <br  xmlns:local="http://dse-static.foo.bar">Societaets Contract und Interessenten
-                     <br  xmlns:local="http://dse-static.foo.bar">In obigen <span  xmlns:local="http://dse-static.foo.bar">Er</span> Instrument dd<span  xmlns:local="http://dse-static.foo.bar">to</span> 3<span  xmlns:local="http://dse-static.foo.bar">ten</span> Aug: 736 N<span  xmlns:local="http://dse-static.foo.bar">o</span> 1354 hat sich der
+                     
+                     
+                     <br  xmlns:local="http://dse-static.foo.bar"><h4 style="text-align:center; padding-top:1em;">Societaets Contract und Interessenten</h4>
+                     <hr>
+                     <br  xmlns:local="http://dse-static.foo.bar">In obigen <span  xmlns:local="http://dse-static.foo.bar">Er</span> Instrument dd<sup>to</sup> 3<sup>ten</sup> Aug: 736 N<sup>o</sup> 1354 hat sich der
                      <br  xmlns:local="http://dse-static.foo.bar"><span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__9344">Anton Matthias Kircher</span> erklähret, daß er den <span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__41599">Johann Peter Togniola</span>
                      <br  xmlns:local="http://dse-static.foo.bar">auf 1/3 des abfallenden Nuzens angenohmen habe.
-                     <br  xmlns:local="http://dse-static.foo.bar">Mitls weithern Instrument dd<span  xmlns:local="http://dse-static.foo.bar">to</span> 18<span  xmlns:local="http://dse-static.foo.bar">ten</span> 8br: 748 N<span  xmlns:local="http://dse-static.foo.bar">o</span> 1322 hat sich eben
+                     <br  xmlns:local="http://dse-static.foo.bar">Mitls weithern Instrument dd<sup>to</sup> 18<sup>ten</sup> 8br: 748 N<sup>o</sup> 1322 hat sich eben
                      <br  xmlns:local="http://dse-static.foo.bar">dieser <span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__9344">Kircher</span> erklähret, daß er entschlossen seine Handlung gänzlichen
                      <br  xmlns:local="http://dse-static.foo.bar">abzutretten und seinen Sohn <span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__46108">Joseph Kircher</span> seinen Schwiger-Sohn <span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__41599">Joh:
                         Peter Togniola</span> in selber zu associiren.
-                     <br  xmlns:local="http://dse-static.foo.bar">Heuraths Contract
-                     <br  xmlns:local="http://dse-static.foo.bar">Mitls anbringen de ps: 12<span  xmlns:local="http://dse-static.foo.bar">ten</span> Febr: 737 N<span  xmlns:local="http://dse-static.foo.bar">o</span> 2130 hat der <span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__41599">Togniola</span> 
-                     <br  xmlns:local="http://dse-static.foo.bar">mit der <span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__46258">Eva Maria Theresia Kircherin</span> untern 4<span  xmlns:local="http://dse-static.foo.bar">ten</span> 8br: 736
-                     <br  xmlns:local="http://dse-static.foo.bar">geschlossenen heurathscontract <span  xmlns:local="http://dse-static.foo.bar">N</span> in vidimus N<span  xmlns:local="http://dse-static.foo.bar">o</span> 2129 eingeleget krafft
+                     <br  xmlns:local="http://dse-static.foo.bar"><h4 style="text-align:center; padding-top:1em;">Heuraths Contract</h4>
+                     <hr>
+                     <br  xmlns:local="http://dse-static.foo.bar">Mitls anbringen de ps: 12<sup>ten</sup> Febr: 737 N<sup>o</sup> 2130 hat der <span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__41599">Togniola</span> 
+                     <br  xmlns:local="http://dse-static.foo.bar">mit der <span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__46258">Eva Maria Theresia Kircherin</span> untern 4<sup>ten</sup> 8br: 736
+                     <br  xmlns:local="http://dse-static.foo.bar">geschlossenen heurathscontract <span  xmlns:local="http://dse-static.foo.bar">N</span> in vidimus N<sup>o</sup> 2129 eingeleget krafft
                      <br  xmlns:local="http://dse-static.foo.bar">welchen 1000 fl heurathgutt nebst 2000 fl Widerlag auf überleben und
                      <br  xmlns:local="http://dse-static.foo.bar">der wehrender Ehe erwörbende <span  xmlns:local="http://dse-static.foo.bar">Gutt alß </span> oder ansonsten überkommenden
                      <br  xmlns:local="http://dse-static.foo.bar">alß ein gleiches gutt stipuliret worden.
-                     <br  xmlns:local="http://dse-static.foo.bar">Anmerckungen
+                     <br  xmlns:local="http://dse-static.foo.bar"><h4 style="text-align:center; padding-top:1em;">Anmerckungen</h4>
+                     <hr>
                      <br  xmlns:local="http://dse-static.foo.bar">Vermög Anzeige von burg: Handelstand ist der <span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__41599">Peter
                         Togniola</span> Ao 766 verstorben und ist die Anzeige 
                      <br  xmlns:local="http://dse-static.foo.bar">bey dem heuraths contract sub nro: 2129 1/2 aufbehalten.
                      
                      
+                     
                      </div>
-                  </div>
-            </div>
-            <p style="text-align:center;">
-               <div class="footnotes" id="note__1"><a name="fn1"><a href="#fna_1"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">1</span></a></a>Wiener Merkantilprotokoll Nr. 0346</div>
-               <div class="footnotes" id="note__2"><a name="fn2"><a href="#fna_2"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">2</span></a></a>Wiener Merkantilprotokoll Nr. 0475</div>
-               <div class="footnotes" id="note__3"><a name="fn3"><a href="#fna_3"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">3</span></a></a>Wiener Merkantilprotokoll Nr. 0476</div>
-               <div class="footnotes" id="note__4"><a name="fn4"><a href="#fna_4"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">4</span></a></a>Wiener Merkantilprotokoll Nr. 0580</div>
-               <div class="footnotes" id="note__1"><a name="fn5"><a href="#fna_5"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">5</span></a></a>Wiener Merkantilprotokoll Nr. 0346</div>
-               <div class="footnotes" id="note__2"><a name="fn6"><a href="#fna_6"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">6</span></a></a>Wiener Merkantilprotokoll Nr. 0475</div>
-               <div class="footnotes" id="note__3"><a name="fn7"><a href="#fna_7"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">7</span></a></a>Wiener Merkantilprotokoll Nr. 0476</div>
-               <div class="footnotes" id="note__4"><a name="fn8"><a href="#fna_8"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">8</span></a></a>Wiener Merkantilprotokoll Nr. 0579</div>
-               <div class="footnotes" id="note__5"><a name="fn9"><a href="#fna_9"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">9</span></a></a>Wiener Merkantilprotokoll Nr. 0580</div>
-               <div class="footnotes" id="note__1"><a name="fn10"><a href="#fna_10"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">10</span></a></a>Wiener Merkantilprotokoll Nr. 0580</div>
-               <div class="footnotes" id="note__1"><a name="fn11"><a href="#fna_11"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">11</span></a></a>Wiener Merkantilprotokoll Nr. 0345</div>
-               <div class="footnotes" id="note__2"><a name="fn12"><a href="#fna_12"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">12</span></a></a>Wiener Merkantilprotokoll Nr. 0346</div>
-               <div class="footnotes" id="note__3"><a name="fn13"><a href="#fna_13"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">13</span></a></a>Wiener Merkantilprotokoll Nr. 0475</div>
-               <div class="footnotes" id="note__4"><a name="fn14"><a href="#fna_14"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">14</span></a></a>Wiener Merkantilprotokoll Nr. 0476</div>
-               <div class="footnotes" id="note__5"><a name="fn15"><a href="#fna_15"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">15</span></a></a>Wiener Merkantilprotokoll Nr. 0579</div>
-               <div class="footnotes" id="note__6"><a name="fn16"><a href="#fna_16"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">16</span></a></a>Wiener Merkantilprotokoll Nr. 0580</div>
-               <div class="footnotes" id="note__7"><a name="fn17"><a href="#fna_17"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">17</span></a></a>Wiener Merkantilprotokoll Nr. 1263</div>
-               <div class="footnotes" id="note__8"><a name="fn18"><a href="#fna_18"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">18</span></a></a>Wiener Merkantilprotokoll Nr. 1635</div>
-            </p>
-         </div>
-         <div class="tei-back">
-            <div  xmlns:local="http://dse-static.foo.bar" class="modal fade" id="wkfm__46108" data-bs-keyboard="false" tabindex="-1" aria-labelledby="Kircher, Joseph" aria-hidden="true">
-               <div class="modal-dialog modal-dialog-centered">
-                  <div class="modal-content">
-                     <div class="modal-header">
-                        <h1 class="modal-title fs-5" id="staticBackdropLabel">Kircher, Joseph</h1><button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button></div>
-                     <div class="modal-body">
-                        <table class="table">
-                           <tbody>
-                              <tr>
-                                 <th></th>
-                                 <td>
-                                    Anzahl der Erwähnungen limitiert, klicke <a href="wkfm__46108.html">hier</a> für eine vollständige Auflistung
-                                    </td>
-                              </tr>
-                           </tbody>
-                        </table>
-                     </div>
-                     <div class="modal-footer"><button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button></div>
-                  </div>
+                  <div class="footnotes pt-5"></div>
                </div>
             </div>
-            
+         </div>
+         <div class="tei-back">
             <div  xmlns:local="http://dse-static.foo.bar" class="modal fade" id="wkfm__41599" data-bs-keyboard="false" tabindex="-1" aria-labelledby="Togniola, Johann Peter" aria-hidden="true">
                <div class="modal-dialog modal-dialog-centered">
                   <div class="modal-content">
@@ -181,6 +107,28 @@
                                  <th></th>
                                  <td>
                                     Anzahl der Erwähnungen limitiert, klicke <a href="wkfm__41599.html">hier</a> für eine vollständige Auflistung
+                                    </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </div>
+                     <div class="modal-footer"><button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button></div>
+                  </div>
+               </div>
+            </div>
+            
+            <div  xmlns:local="http://dse-static.foo.bar" class="modal fade" id="wkfm__46108" data-bs-keyboard="false" tabindex="-1" aria-labelledby="Kircher, Joseph" aria-hidden="true">
+               <div class="modal-dialog modal-dialog-centered">
+                  <div class="modal-content">
+                     <div class="modal-header">
+                        <h1 class="modal-title fs-5" id="staticBackdropLabel">Kircher, Joseph</h1><button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button></div>
+                     <div class="modal-body">
+                        <table class="table">
+                           <tbody>
+                              <tr>
+                                 <th></th>
+                                 <td>
+                                    Anzahl der Erwähnungen limitiert, klicke <a href="wkfm__46108.html">hier</a> für eine vollständige Auflistung
                                     </td>
                               </tr>
                            </tbody>

@@ -15,12 +15,7 @@
       <link  href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
       <link  rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
       <link  rel="stylesheet" href="css/style.css" type="text/css">
-      <link  rel="stylesheet" href="css/micro-editor.css" type="text/css">
-      <style>
-                    .navBarNavDropdown ul li:nth-child(2) {
-                        display: none !important;
-                    }
-                </style><script src="https://cdnjs.cloudflare.com/ajax/libs/openseadragon/4.1.0/openseadragon.min.js"></script></head>
+      <link  rel="stylesheet" href="css/micro-editor.css" type="text/css"><script src="https://cdnjs.cloudflare.com/ajax/libs/openseadragon/4.1.0/openseadragon.min.js"></script></head>
    <body class="d-flex flex-column h-100">
       <header >
          <nav class="navbar navbar-expand-lg bg-body-tertiary">
@@ -58,130 +53,70 @@
                <div class="col-md-2 col-lg-2 col-sm-12" style="text-align:right">
                   <h1><a href="wkfm-0424.html"><i class="bi bi-chevron-right" title="weiter"></i></a></h1>
                </div>
-               <div id="editor-widget">
-                  <div  id="aot-navBarNavDropdown" class="navBarNavDropdown dropstart"><a title="Annotationen" href="#" data-bs-toggle="dropdown" data-bs-auto-close="outside" aria-expanded="false" role="button"><i class="bi bi-gear" title="Menü zur Anpassung der Anzeige"></i></a><ul class="dropdown-menu">
-                        <li class="dropdown-item">
-                           <full-size opt="fls"></full-size>
-                        </li>
-                        <li class="dropdown-item">
-                           <image-switch opt="es"></image-switch>
-                        </li>
-                        <li class="dropdown-item">
-                           <font-size opt="fs"></font-size>
-                        </li>
-                        <li class="dropdown-item">
-                           <font-family opt="ff"></font-family>
-                        </li>
-                        <li class="dropdown-item" style="border-top: 5px dashed lightgrey !important;">
-                           <annotation-slider opt="ef"></annotation-slider>
-                        </li>
-                        <li class="dropdown-item">
-                           <annotation-slider opt="prs"></annotation-slider>
-                        </li>
-                        <li class="dropdown-item">
-                           <annotation-slider opt="plc"></annotation-slider>
-                        </li>
-                        <li class="dropdown-item">
-                           <annotation-slider opt="wrk"></annotation-slider>
-                        </li>
-                        <li class="dropdown-item">
-                           <annotation-slider opt="org"></annotation-slider>
-                        </li>
-                     </ul>
-                  </div>
-               </div>
             </div>
             <div class="row">
                <div class="col">
-                  <div style="width: 100%; height: 100%" id="osd_viewer"></div>
+                  <div style="width: 100%; height: 800px" id="osd_viewer"></div>
                </div>
                <div class="col">
-                  
-                  <div id="div__150">
-                     <span  xmlns:local="http://dse-static.foo.bar" class="anchor-pb"></span><span  xmlns:local="http://dse-static.foo.bar" class="pb" source="#facs_103">103</span>
+                  <div class="transcript pb-5">
+                     
+                     
                      
                      
                      <br  xmlns:local="http://dse-static.foo.bar">209
-                     <br  xmlns:local="http://dse-static.foo.bar">Nahmen und Class
+                     <br  xmlns:local="http://dse-static.foo.bar"><h4 style="text-align:center; padding-top:1em;">Nahmen und Class</h4>
+                     <hr>
                      <br  xmlns:local="http://dse-static.foo.bar"><span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__37955">Küner Jacob</span> kay: könig: Niderlagsverwanter
-                     <br  xmlns:local="http://dse-static.foo.bar">Firma ad Raggion
-                     <br  xmlns:local="http://dse-static.foo.bar"><span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__23520">Küner und Bender</span> laut Anbringen de ps: 28<span  xmlns:local="http://dse-static.foo.bar">ten</span> Apr: 732 N<span  xmlns:local="http://dse-static.foo.bar">o</span> 1901 und Oblatorien dd<span  xmlns:local="http://dse-static.foo.bar">to</span>
-                     <br  xmlns:local="http://dse-static.foo.bar">31<span  xmlns:local="http://dse-static.foo.bar">ten</span> Mart: d. a. N<span  xmlns:local="http://dse-static.foo.bar">o</span> 1109.
-                     <br  xmlns:local="http://dse-static.foo.bar"><span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__40640">Küner und Comp:</span> laut Anbringen de ps: 24<span  xmlns:local="http://dse-static.foo.bar">ten</span> 7br: 736 N<span  xmlns:local="http://dse-static.foo.bar">o</span> 1905 <span  xmlns:local="http://dse-static.foo.bar">und oblatorien ddto 10 May 747</span>
+                     <br  xmlns:local="http://dse-static.foo.bar"><h4 style="text-align:center; padding-top:1em;">Firma ad Raggion</h4>
+                     <hr>
+                     <br  xmlns:local="http://dse-static.foo.bar"><span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__23520">Küner und Bender</span> laut Anbringen de ps: 28<sup>ten</sup> Apr: 732 N<sup>o</sup> 1901 und Oblatorien dd<sup>to</sup>
+                     <br  xmlns:local="http://dse-static.foo.bar">31<sup>ten</sup> Mart: d. a. N<sup>o</sup> 1109.
+                     <br  xmlns:local="http://dse-static.foo.bar"><span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__40640">Küner und Comp:</span> laut Anbringen de ps: 24<sup>ten</sup> 7br: 736 N<sup>o</sup> 1905 <span  xmlns:local="http://dse-static.foo.bar">und oblatorien ddto 10 May 747</span>
                      <br  xmlns:local="http://dse-static.foo.bar"><span  xmlns:local="http://dse-static.foo.bar">No 1111</span>
-                     <br  xmlns:local="http://dse-static.foo.bar"><span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__40640">Küner und Comp:</span> laut oblatorien dd<span  xmlns:local="http://dse-static.foo.bar">to</span> 10<span  xmlns:local="http://dse-static.foo.bar">ten</span> May 747 N<span  xmlns:local="http://dse-static.foo.bar">o</span> 1111
-                     <br  xmlns:local="http://dse-static.foo.bar">Procura und Firmae Trager
-                     <br  xmlns:local="http://dse-static.foo.bar">Mitls obigen Anbringen de ps: 28<span  xmlns:local="http://dse-static.foo.bar">ten</span> Apr: 732 N<span  xmlns:local="http://dse-static.foo.bar">o</span> 1901 und oblatorien dd<span  xmlns:local="http://dse-static.foo.bar">to</span> 31<span  xmlns:local="http://dse-static.foo.bar">ten</span> Mart: d. a. N<span  xmlns:local="http://dse-static.foo.bar">o</span> 1109 ist 
+                     <br  xmlns:local="http://dse-static.foo.bar"><span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__40640">Küner und Comp:</span> laut oblatorien dd<sup>to</sup> 10<sup>ten</sup> May 747 N<sup>o</sup> 1111
+                     <br  xmlns:local="http://dse-static.foo.bar"><h4 style="text-align:center; padding-top:1em;">Procura und Firmae Trager</h4>
+                     <hr>
+                     <br  xmlns:local="http://dse-static.foo.bar">Mitls obigen Anbringen de ps: 28<sup>ten</sup> Apr: 732 N<sup>o</sup> 1901 und oblatorien dd<sup>to</sup> 31<sup>ten</sup> Mart: d. a. N<sup>o</sup> 1109 ist 
                      <br  xmlns:local="http://dse-static.foo.bar">die Firma der Raggion <span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__23520">Küner und Bender</span> von beeden sociis <span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__37955">Jacob Küner</span> und <span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__21476">Philipp Jacob 
                         Bender</span> respetive eingeleget und kund gemacht worden.
-                     <br  xmlns:local="http://dse-static.foo.bar">Mitls Anbringen de ps: 18<span  xmlns:local="http://dse-static.foo.bar">ten</span> May 747 N<span  xmlns:local="http://dse-static.foo.bar">o</span> 941 hat der <span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__37955">Küner</span> von der unter seinen
+                     <br  xmlns:local="http://dse-static.foo.bar">Mitls Anbringen de ps: 18<sup>ten</sup> May 747 N<sup>o</sup> 941 hat der <span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__37955">Küner</span> von der unter seinen
                      <br  xmlns:local="http://dse-static.foo.bar">alleinigen obligo erneuerten Raggion <span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__40640">Küner und Compagnie</span> die Firma dem <span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__46132">Eber-
                         hard Fridrich Wagner</span> und <span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__46133">Jacob Zollikhoffer</span> ertheilet und ein solches <span  xmlns:local="http://dse-static.foo.bar">mit</span> in 
-                     <br  xmlns:local="http://dse-static.foo.bar">obigen oblatorien dd<span  xmlns:local="http://dse-static.foo.bar">to</span> 10<span  xmlns:local="http://dse-static.foo.bar">ten</span> May 747 N<span  xmlns:local="http://dse-static.foo.bar">o</span> 1111 mit beygerukter Firma dieser beeden
+                     <br  xmlns:local="http://dse-static.foo.bar">obigen oblatorien dd<sup>to</sup> 10<sup>ten</sup> May 747 N<sup>o</sup> 1111 mit beygerukter Firma dieser beeden
                      <br  xmlns:local="http://dse-static.foo.bar">Firma Tragern kund gemacht.
-                     <br  xmlns:local="http://dse-static.foo.bar">Oblatorien und Avocatorien
-                     <br  xmlns:local="http://dse-static.foo.bar">Die Raggion <span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__23520">Küner und Bender</span> hat die <span  xmlns:local="http://dse-static.foo.bar">ob</span> untern 31<span  xmlns:local="http://dse-static.foo.bar">ten</span> Mart: 732 die oblatorien, <span  xmlns:local="http://dse-static.foo.bar"><abbr title="unclear">wie solch mit</abbr></span>
-                     <br  xmlns:local="http://dse-static.foo.bar">orig: sub N<span  xmlns:local="http://dse-static.foo.bar">o</span> 1109 <span  xmlns:local="http://dse-static.foo.bar">eingeleget</span> mitls obigen Anbringen de ps: 28<span  xmlns:local="http://dse-static.foo.bar">ten</span> Apr: 732 N<span  xmlns:local="http://dse-static.foo.bar">o</span> 1901 eingeleget worden
+                     <br  xmlns:local="http://dse-static.foo.bar"><h4 style="text-align:center; padding-top:1em;">Oblatorien und Avocatorien</h4>
+                     <hr>
+                     <br  xmlns:local="http://dse-static.foo.bar">Die Raggion <span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__23520">Küner und Bender</span> hat die <span  xmlns:local="http://dse-static.foo.bar">ob</span> untern 31<sup>ten</sup> Mart: 732 die oblatorien, <span  xmlns:local="http://dse-static.foo.bar"><abbr title="unclear">wie solch mit</abbr></span>
+                     <br  xmlns:local="http://dse-static.foo.bar">orig: sub N<sup>o</sup> 1109 <span  xmlns:local="http://dse-static.foo.bar">eingeleget</span> mitls obigen Anbringen de ps: 28<sup>ten</sup> Apr: 732 N<sup>o</sup> 1901 eingeleget worden
                      <br  xmlns:local="http://dse-static.foo.bar">dahin erlassen, daß die Raggion <span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__12421">Isenflam und Küner</span> sich unter gemelten dato geendiget, und
                      <br  xmlns:local="http://dse-static.foo.bar">der <span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__37955">Jacob Küner</span> das Negotium in Compagnie des <span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__21476">Philipp Jacob Bender</span> mit beederseitigen
                      <br  xmlns:local="http://dse-static.foo.bar">obligo und intee <span  xmlns:local="http://dse-static.foo.bar">zu p</span> unter der Raggion <span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__23520">Küner und Bender</span> zu prosequiren gesinnet seyn, keiner
                      <br  xmlns:local="http://dse-static.foo.bar">anderen Firma seye Glauben zu geben alß wie selbe von beeden sociis beygeruket.
-                     <br  xmlns:local="http://dse-static.foo.bar">Eben diese Raggion hat die untern 31<span  xmlns:local="http://dse-static.foo.bar">ten</span> Mart: 736 die avocatorien in orig: N<span  xmlns:local="http://dse-static.foo.bar">o</span> 1110 welche selbe mitls
-                     <br  xmlns:local="http://dse-static.foo.bar">Anbringen de ps: 9<span  xmlns:local="http://dse-static.foo.bar">ten</span> Mart: 736 N<span  xmlns:local="http://dse-static.foo.bar">o</span> 1904 eingeleget, dahin erlassen, daß ihre Handlungs
+                     <br  xmlns:local="http://dse-static.foo.bar">Eben diese Raggion hat die untern 31<sup>ten</sup> Mart: 736 die avocatorien in orig: N<sup>o</sup> 1110 welche selbe mitls
+                     <br  xmlns:local="http://dse-static.foo.bar">Anbringen de ps: 9<sup>ten</sup> Mart: 736 N<sup>o</sup> 1904 eingeleget, dahin erlassen, daß ihre Handlungs
                      <br  xmlns:local="http://dse-static.foo.bar">societaet mit nemlichen dato zu Ende gehe, und dem Stralico der <span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__37955">Küner</span> völlig über sich
                      <br  xmlns:local="http://dse-static.foo.bar">genohmen habe.
                      <br  xmlns:local="http://dse-static.foo.bar">Die Raggion <span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__40640">Küner und Comp:</span> hat die avocatorien und respective oblatorien wie solche mitls Anbringen
-                     <br  xmlns:local="http://dse-static.foo.bar">de ps: 18<span  xmlns:local="http://dse-static.foo.bar">ten</span> May 747 N<span  xmlns:local="http://dse-static.foo.bar">o</span> 941 in orig: N<span  xmlns:local="http://dse-static.foo.bar">o</span> 1111 eingeleget worden untern 10<span  xmlns:local="http://dse-static.foo.bar">ten</span> May 747 dahin erlassen
+                     <br  xmlns:local="http://dse-static.foo.bar">de ps: 18<sup>ten</sup> May 747 N<sup>o</sup> 941 in orig: N<sup>o</sup> 1111 eingeleget worden untern 10<sup>ten</sup> May 747 dahin erlassen
                      <br  xmlns:local="http://dse-static.foo.bar">daß <abbr  xmlns:local="http://dse-static.foo.bar" title="unclear">allschon 11 Jahr verflossen</abbr>, daß der <span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__37955">Jacob Küner</span> den <span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__46134">Wolfgang Riesch</span> in societaet annehmen, diese
                      <br  xmlns:local="http://dse-static.foo.bar">Societaet seye gegen von dem <span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__37955">Küner</span> <abbr  xmlns:local="http://dse-static.foo.bar" title="unclear">beschehner</abbr> Befridigung des <span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__46134">Riesch</span> und <abbr  xmlns:local="http://dse-static.foo.bar" title="unclear">Ubernehmung</abbr> des Stralico geendiget worden
                      <br  xmlns:local="http://dse-static.foo.bar">der <span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__37955">Küner</span> werde das negotium unter nemlicher Dita <span  xmlns:local="http://dse-static.foo.bar">und</span> jedoch mit seinen alleinigen obligo continuiren die Firma <span  xmlns:local="http://dse-static.foo.bar">0</span>
-                     <br  xmlns:local="http://dse-static.foo.bar">Fundi Ausweisung
-                     <br  xmlns:local="http://dse-static.foo.bar"><span  xmlns:local="http://dse-static.foo.bar">0</span><a name="fna_1" href="#fn1" title="Fortsetzung der obigen Rubrik, Zeile 34"><sup  xmlns:local="http://dse-static.foo.bar">1</sup></a> werde nebst dem <span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__37955">Küner</span> dessen Tochtermann <span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__46132">Eberhard Fridrich Wagner</span> und der
+                     <br  xmlns:local="http://dse-static.foo.bar"><h4 style="text-align:center; padding-top:1em;">Fundi Ausweisung</h4>
+                     <hr>
+                     <br  xmlns:local="http://dse-static.foo.bar"><span  xmlns:local="http://dse-static.foo.bar">0</span><a id="anchor_1" href="#note_1"><sup>1</sup></a> werde nebst dem <span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__37955">Küner</span> dessen Tochtermann <span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__46132">Eberhard Fridrich Wagner</span> und der
                      <br  xmlns:local="http://dse-static.foo.bar">in dem Negotio befindliche <span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__46133">Jacob Zollikhofer</span> wie solche in fine beygeruket führen
                      
                      
+                     
                      </div>
-                  </div>
-            </div>
-            <p style="text-align:center;">
-               <div class="footnotes" id="note__2"><a name="fn1"><a href="#fna_1"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">1</span></a></a>Fortsetzung der obigen Rubrik, Zeile 34</div>
-               <div class="footnotes" id="note__1"><a name="fn2"><a href="#fna_2"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">2</span></a></a>Wiener Merkantilprotokoll Nr. 0423</div>
-               <div class="footnotes" id="note__1"><a name="fn3"><a href="#fna_3"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">3</span></a></a>Wiener Merkantilprotokoll Nr. 0423</div>
-               <div class="footnotes" id="note__2"><a name="fn4"><a href="#fna_4"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">4</span></a></a>Wiener Merkantilprotokoll Nr. 0424</div>
-               <div class="footnotes" id="note__1"><a name="fn5"><a href="#fna_5"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">5</span></a></a>Wiener Merkantilprotokoll Nr. 0423</div>
-               <div class="footnotes" id="note__1"><a name="fn6"><a href="#fna_6"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">6</span></a></a>Wiener Merkantilprotokoll Nr. 0423</div>
-               <div class="footnotes" id="note__2"><a name="fn7"><a href="#fna_7"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">7</span></a></a>Wiener Merkantilprotokoll Nr. 0424</div>
-               <div class="footnotes" id="note__3"><a name="fn8"><a href="#fna_8"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">8</span></a></a>Wiener Merkantilprotokoll Nr. 1067</div>
-               <div class="footnotes" id="note__4"><a name="fn9"><a href="#fna_9"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">9</span></a></a>Wiener Merkantilprotokoll Nr. 1068</div>
-               <div class="footnotes" id="note__1"><a name="fn10"><a href="#fna_10"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">10</span></a></a>Wiener Merkantilprotokoll Nr. 0241</div>
-               <div class="footnotes" id="note__2"><a name="fn11"><a href="#fna_11"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">11</span></a></a>Wiener Merkantilprotokoll Nr. 0242</div>
-               <div class="footnotes" id="note__3"><a name="fn12"><a href="#fna_12"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">12</span></a></a>Wiener Merkantilprotokoll Nr. 0423</div>
-               <div class="footnotes" id="note__4"><a name="fn13"><a href="#fna_13"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">13</span></a></a>Wiener Merkantilprotokoll Nr. 0424</div>
-            </p>
-         </div>
-         <div class="tei-back">
-            <div  xmlns:local="http://dse-static.foo.bar" class="modal fade" id="wkfm__46133" data-bs-keyboard="false" tabindex="-1" aria-labelledby="Zollikofer, Jakob" aria-hidden="true">
-               <div class="modal-dialog modal-dialog-centered">
-                  <div class="modal-content">
-                     <div class="modal-header">
-                        <h1 class="modal-title fs-5" id="staticBackdropLabel">Zollikofer, Jakob</h1><button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button></div>
-                     <div class="modal-body">
-                        <table class="table">
-                           <tbody>
-                              <tr>
-                                 <th></th>
-                                 <td>
-                                    Anzahl der Erwähnungen limitiert, klicke <a href="wkfm__46133.html">hier</a> für eine vollständige Auflistung
-                                    </td>
-                              </tr>
-                           </tbody>
-                        </table>
-                     </div>
-                     <div class="modal-footer"><button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button></div>
+                  <div class="footnotes pt-5">
+                     <div class="footnotes" id="note__2"><a name="fn1"><a href="#fna_1"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">1</span></a></a>Fortsetzung der obigen Rubrik, Zeile 34</div>
                   </div>
                </div>
             </div>
-            
+         </div>
+         <div class="tei-back">
             <div  xmlns:local="http://dse-static.foo.bar" class="modal fade" id="wkfm__46134" data-bs-keyboard="false" tabindex="-1" aria-labelledby="Reisch, Wolfgang" aria-hidden="true">
                <div class="modal-dialog modal-dialog-centered">
                   <div class="modal-content">
@@ -194,6 +129,28 @@
                                  <th></th>
                                  <td>
                                     Anzahl der Erwähnungen limitiert, klicke <a href="wkfm__46134.html">hier</a> für eine vollständige Auflistung
+                                    </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </div>
+                     <div class="modal-footer"><button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button></div>
+                  </div>
+               </div>
+            </div>
+            
+            <div  xmlns:local="http://dse-static.foo.bar" class="modal fade" id="wkfm__46133" data-bs-keyboard="false" tabindex="-1" aria-labelledby="Zollikofer, Jakob" aria-hidden="true">
+               <div class="modal-dialog modal-dialog-centered">
+                  <div class="modal-content">
+                     <div class="modal-header">
+                        <h1 class="modal-title fs-5" id="staticBackdropLabel">Zollikofer, Jakob</h1><button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button></div>
+                     <div class="modal-body">
+                        <table class="table">
+                           <tbody>
+                              <tr>
+                                 <th></th>
+                                 <td>
+                                    Anzahl der Erwähnungen limitiert, klicke <a href="wkfm__46133.html">hier</a> für eine vollständige Auflistung
                                     </td>
                               </tr>
                            </tbody>

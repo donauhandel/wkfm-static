@@ -112,7 +112,16 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46822" sameAs="#wkfm__34236 ">
+    <back><listPerson><person xml:id="wkfm__10693">
+                     <persName>
+                        <forename>Joseph</forename>
+                        <surname>Lammer</surname>
+                     </persName>
+                     <death><date>1764</date></death>
+                     <occupation>Tuchhändler</occupation>
+                     <occupation type="kaufmannsklasse">hofbefreit</occupation>
+               <noteGrp><note target="wkfm-0439.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0439</note><note target="wkfm-0440.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0440</note><note target="wkfm-1159.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1159</note><note target="wkfm-1160.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1160</note></noteGrp></person>
+                <person xml:id="wkfm__46822" sameAs="#wkfm__34236 ">
                      <persName>
                         <forename>Maria Susanna</forename>
                         <surname>Stadlerin</surname>
@@ -133,15 +142,6 @@
                         <surname>Klezl</surname>
                      </persName>
                      <death><date>1755</date></death>
-                     <occupation>Tuchhändler</occupation>
-                     <occupation type="kaufmannsklasse">hofbefreit</occupation>
-               <noteGrp><note target="wkfm-0439.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0439</note><note target="wkfm-0440.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0440</note><note target="wkfm-1159.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1159</note><note target="wkfm-1160.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1160</note></noteGrp></person>
-                <person xml:id="wkfm__10693">
-                     <persName>
-                        <forename>Joseph</forename>
-                        <surname>Lammer</surname>
-                     </persName>
-                     <death><date>1764</date></death>
                      <occupation>Tuchhändler</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
                <noteGrp><note target="wkfm-0439.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0439</note><note target="wkfm-0440.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0440</note><note target="wkfm-1159.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1159</note><note target="wkfm-1160.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1160</note></noteGrp></person>

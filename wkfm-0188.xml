@@ -91,14 +91,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43900">
-                     <persName>
-                        <forename>None</forename>
-                        <surname>Praun</surname>
-                     </persName>
-                     <occupation>Handelsfrau</occupation>
-               <noteGrp><note target="wkfm-0188.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0188</note></noteGrp></person>
-                <person xml:id="wkfm__43899">
+    <back><listPerson><person xml:id="wkfm__43899">
                      <persName>
                         <forename>Johann Kaspar</forename>
                         <surname>Praun</surname>
@@ -109,5 +102,12 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 490 (April 1730).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0188.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0188</note><note target="wkfm-0189.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0189</note></noteGrp></person>
+                <person xml:id="wkfm__43900">
+                     <persName>
+                        <forename>None</forename>
+                        <surname>Praun</surname>
+                     </persName>
+                     <occupation>Handelsfrau</occupation>
+               <noteGrp><note target="wkfm-0188.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0188</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

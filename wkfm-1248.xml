@@ -86,16 +86,16 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46897">
-                     <persName>
-                        <forename>Benedikt</forename>
-                        <surname>Hösler</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-1248.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1248</note></noteGrp></person>
-                <person xml:id="wkfm__46898">
+    <back><listPerson><person xml:id="wkfm__46898">
                      <persName>
                         <forename>Christoph</forename>
                         <surname>Delacosta</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-1248.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1248</note></noteGrp></person>
+                <person xml:id="wkfm__46897">
+                     <persName>
+                        <forename>Benedikt</forename>
+                        <surname>Hösler</surname>
                      </persName>
                <noteGrp><note target="wkfm-1248.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1248</note></noteGrp></person>
                 <person xml:id="wkfm__25004">

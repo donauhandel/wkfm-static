@@ -136,7 +136,14 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47193">
+    <back><listPerson><person xml:id="wkfm__47195">
+                     <persName>
+                        <forename>Joseph Martin</forename>
+                        <surname>Seyrl</surname>
+                        <surname type="alt">Seyerl</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0809.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0809</note></noteGrp></person>
+                <person xml:id="wkfm__47193">
                      <persName>
                         <forename>Anton</forename>
                         <surname>Unterholzer</surname>
@@ -150,16 +157,6 @@
                         <surname>Pelser</surname>
                      </persName>
                <noteGrp><note target="wkfm-0809.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0809</note><note target="wkfm-1323.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1323</note></noteGrp></person>
-                <person xml:id="wkfm__43919">
-                     <persName>
-                        <forename>Franz Anton</forename>
-                        <forename type="alt">Franz</forename>
-                        <surname>Waizmann</surname>
-                     </persName>
-                     <death><date>1767</date></death>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-0224.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0224</note><note target="wkfm-0809.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0809</note><note target="wkfm-1803.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1803</note><note target="wkfm-1804.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1804</note></noteGrp></person>
                 <person xml:id="wkfm__46846">
                      <persName>
                         <forename>Johann</forename>
@@ -170,18 +167,21 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0809.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0809</note><note target="wkfm-1179.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1179</note></noteGrp></person>
-                <person xml:id="wkfm__47195">
-                     <persName>
-                        <forename>Joseph Martin</forename>
-                        <surname>Seyrl</surname>
-                        <surname type="alt">Seyerl</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-0809.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0809</note></noteGrp></person>
                 <person xml:id="wkfm__47194">
                      <persName>
                         <forename>Johann Georg</forename>
                         <surname>Unterholzer</surname>
                      </persName>
                <noteGrp><note target="wkfm-0809.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0809</note></noteGrp></person>
+                <person xml:id="wkfm__43919">
+                     <persName>
+                        <forename>Franz Anton</forename>
+                        <forename type="alt">Franz</forename>
+                        <surname>Waizmann</surname>
+                     </persName>
+                     <death><date>1767</date></death>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-0224.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0224</note><note target="wkfm-0809.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0809</note><note target="wkfm-1803.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1803</note><note target="wkfm-1804.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1804</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

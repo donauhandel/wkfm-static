@@ -90,13 +90,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46945">
-                     <persName>
-                        <forename>Anna Maria</forename>
-                        <surname>Serponte de Varena</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-1290.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1290</note></noteGrp></person>
-                <person xml:id="wkfm__46944">
+    <back><listPerson><person xml:id="wkfm__46944">
                      <persName>
                         <forename>Andre Friedrich</forename>
                         <surname>Mäzinger</surname>
@@ -104,5 +98,11 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1289.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1289</note><note target="wkfm-1290.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1290</note></noteGrp></person>
+                <person xml:id="wkfm__46945">
+                     <persName>
+                        <forename>Anna Maria</forename>
+                        <surname>Serponte de Varena</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-1290.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1290</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

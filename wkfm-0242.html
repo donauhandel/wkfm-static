@@ -15,12 +15,7 @@
       <link  href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
       <link  rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
       <link  rel="stylesheet" href="css/style.css" type="text/css">
-      <link  rel="stylesheet" href="css/micro-editor.css" type="text/css">
-      <style>
-                    .navBarNavDropdown ul li:nth-child(2) {
-                        display: none !important;
-                    }
-                </style><script src="https://cdnjs.cloudflare.com/ajax/libs/openseadragon/4.1.0/openseadragon.min.js"></script></head>
+      <link  rel="stylesheet" href="css/micro-editor.css" type="text/css"><script src="https://cdnjs.cloudflare.com/ajax/libs/openseadragon/4.1.0/openseadragon.min.js"></script></head>
    <body class="d-flex flex-column h-100">
       <header >
          <nav class="navbar navbar-expand-lg bg-body-tertiary">
@@ -58,82 +53,46 @@
                <div class="col-md-2 col-lg-2 col-sm-12" style="text-align:right">
                   <h1><a href="wkfm-0243.html"><i class="bi bi-chevron-right" title="weiter"></i></a></h1>
                </div>
-               <div id="editor-widget">
-                  <div  id="aot-navBarNavDropdown" class="navBarNavDropdown dropstart"><a title="Annotationen" href="#" data-bs-toggle="dropdown" data-bs-auto-close="outside" aria-expanded="false" role="button"><i class="bi bi-gear" title="Menü zur Anpassung der Anzeige"></i></a><ul class="dropdown-menu">
-                        <li class="dropdown-item">
-                           <full-size opt="fls"></full-size>
-                        </li>
-                        <li class="dropdown-item">
-                           <image-switch opt="es"></image-switch>
-                        </li>
-                        <li class="dropdown-item">
-                           <font-size opt="fs"></font-size>
-                        </li>
-                        <li class="dropdown-item">
-                           <font-family opt="ff"></font-family>
-                        </li>
-                        <li class="dropdown-item" style="border-top: 5px dashed lightgrey !important;">
-                           <annotation-slider opt="ef"></annotation-slider>
-                        </li>
-                        <li class="dropdown-item">
-                           <annotation-slider opt="prs"></annotation-slider>
-                        </li>
-                        <li class="dropdown-item">
-                           <annotation-slider opt="plc"></annotation-slider>
-                        </li>
-                        <li class="dropdown-item">
-                           <annotation-slider opt="wrk"></annotation-slider>
-                        </li>
-                        <li class="dropdown-item">
-                           <annotation-slider opt="org"></annotation-slider>
-                        </li>
-                     </ul>
-                  </div>
-               </div>
             </div>
             <div class="row">
                <div class="col">
-                  <div style="width: 100%; height: 100%" id="osd_viewer"></div>
+                  <div style="width: 100%; height: 800px" id="osd_viewer"></div>
                </div>
                <div class="col">
-                  
-                  <div id="div__49">
-                     <span  xmlns:local="http://dse-static.foo.bar" class="anchor-pb"></span><span  xmlns:local="http://dse-static.foo.bar" class="pb" source="#facs_188">188</span>
+                  <div class="transcript pb-5">
                      
                      
-                     <br  xmlns:local="http://dse-static.foo.bar">Societaets Contract und Interessenten
-                     <br  xmlns:local="http://dse-static.foo.bar">Mitls oblatorien dd<span  xmlns:local="http://dse-static.foo.bar">to</span> 2<span  xmlns:local="http://dse-static.foo.bar">ten</span> Janu: 751 N<span  xmlns:local="http://dse-static.foo.bar">o</span> 1102 hat der <span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__21476">Bender</span> kund
+                     
+                     
+                     <br  xmlns:local="http://dse-static.foo.bar"><h4 style="text-align:center; padding-top:1em;">Societaets Contract und Interessenten</h4>
+                     <hr>
+                     <br  xmlns:local="http://dse-static.foo.bar">Mitls oblatorien dd<sup>to</sup> 2<sup>ten</sup> Janu: 751 N<sup>o</sup> 1102 hat der <span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__21476">Bender</span> kund
                      <br  xmlns:local="http://dse-static.foo.bar">gemacht, daß er sich mit seinem Schwager <span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__43936">Johann Carl Mühl</span>
                      <br  xmlns:local="http://dse-static.foo.bar">associieret und denselben in seinem Negotio zum theil interessiert
-                     <br  xmlns:local="http://dse-static.foo.bar"><span  xmlns:local="http://dse-static.foo.bar">habe</span> habe. Anbey Mitls anbringen de ps: 23<span  xmlns:local="http://dse-static.foo.bar">ten</span> Junii 755 N<span  xmlns:local="http://dse-static.foo.bar">o</span> 1890 diese
+                     <br  xmlns:local="http://dse-static.foo.bar"><span  xmlns:local="http://dse-static.foo.bar">habe</span> habe. Anbey Mitls anbringen de ps: 23<sup>ten</sup> Junii 755 N<sup>o</sup> 1890 diese
                      <br  xmlns:local="http://dse-static.foo.bar">oblatorien mit dem beysaz eingeleget daß Ihro k. k. May: ihn
                      <br  xmlns:local="http://dse-static.foo.bar">von Einlegung des zwischen ihm und dem <span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__43936">Mühl</span> geschlossenen
-                     <br  xmlns:local="http://dse-static.foo.bar">Societaets Contract Vermög decret ddto 9<span  xmlns:local="http://dse-static.foo.bar">ten</span> May d. a. dispensiret
+                     <br  xmlns:local="http://dse-static.foo.bar">Societaets Contract Vermög decret ddto 9<sup>ten</sup> May d. a. dispensiret
                      <br  xmlns:local="http://dse-static.foo.bar">haben.
-                     <br  xmlns:local="http://dse-static.foo.bar">Heuraths Contract
-                     <br  xmlns:local="http://dse-static.foo.bar">Mitls Anbringen de ps: 28<span  xmlns:local="http://dse-static.foo.bar">ten</span> 9br: 737 N<span  xmlns:local="http://dse-static.foo.bar">o</span> 2088 hat der <span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__21476">Bender</span> den zu Regenspurg
-                     <br  xmlns:local="http://dse-static.foo.bar">mit der <span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__43937">Anna Susanna Christiana Mühlin</span> untern 12<span  xmlns:local="http://dse-static.foo.bar">ten</span> 8br: 737 errichteten
-                     <br  xmlns:local="http://dse-static.foo.bar">Heuraths Contract N<span  xmlns:local="http://dse-static.foo.bar">o</span> 2087 in Copia vidimata eingeleget, krafft welchen 1000 fl heurath
+                     <br  xmlns:local="http://dse-static.foo.bar"><h4 style="text-align:center; padding-top:1em;">Heuraths Contract</h4>
+                     <hr>
+                     <br  xmlns:local="http://dse-static.foo.bar">Mitls Anbringen de ps: 28<sup>ten</sup> 9br: 737 N<sup>o</sup> 2088 hat der <span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__21476">Bender</span> den zu Regenspurg
+                     <br  xmlns:local="http://dse-static.foo.bar">mit der <span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__43937">Anna Susanna Christiana Mühlin</span> untern 12<sup>ten</sup> 8br: 737 errichteten
+                     <br  xmlns:local="http://dse-static.foo.bar">Heuraths Contract N<sup>o</sup> 2087 in Copia vidimata eingeleget, krafft welchen 1000 fl heurath
                      <br  xmlns:local="http://dse-static.foo.bar">Gutt nebst 1000 fl Widerlag auf Überleben, anbey sowohl das gegenwärtige
                      <br  xmlns:local="http://dse-static.foo.bar">alß künftige Vermögen dergestalten alß ein gleiches Gutt pactiret worden
                      <br  xmlns:local="http://dse-static.foo.bar">das jedwedern bey Lebzeiten mit dem seinigen ganzlich frey nach dem Tod aber
                      <br  xmlns:local="http://dse-static.foo.bar">nur mit der Halbscheid <abbr  xmlns:local="http://dse-static.foo.bar" title="unclear">hievon</abbr> zu disponiren <abbr  xmlns:local="http://dse-static.foo.bar" title="unclear">bevorstehen</abbr> die andere halb
                      <br  xmlns:local="http://dse-static.foo.bar">scheid aber dem Überlebenden zufallen solle.
-                     <br  xmlns:local="http://dse-static.foo.bar">Anmerckungen
+                     <br  xmlns:local="http://dse-static.foo.bar"><h4 style="text-align:center; padding-top:1em;">Anmerckungen</h4>
+                     <hr>
+                     
                      
                      
                      </div>
-                  </div>
+                  <div class="footnotes pt-5"></div>
+               </div>
             </div>
-            <p style="text-align:center;">
-               <div class="footnotes" id="note__1"><a name="fn1"><a href="#fna_1"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">1</span></a></a>Wiener Merkantilprotokoll Nr. 0241</div>
-               <div class="footnotes" id="note__2"><a name="fn2"><a href="#fna_2"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">2</span></a></a>Wiener Merkantilprotokoll Nr. 0242</div>
-               <div class="footnotes" id="note__1"><a name="fn3"><a href="#fna_3"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">3</span></a></a>Wiener Merkantilprotokoll Nr. 0241</div>
-               <div class="footnotes" id="note__2"><a name="fn4"><a href="#fna_4"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">4</span></a></a>Wiener Merkantilprotokoll Nr. 0242</div>
-               <div class="footnotes" id="note__3"><a name="fn5"><a href="#fna_5"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">5</span></a></a>Wiener Merkantilprotokoll Nr. 0423</div>
-               <div class="footnotes" id="note__4"><a name="fn6"><a href="#fna_6"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">6</span></a></a>Wiener Merkantilprotokoll Nr. 0424</div>
-               <div class="footnotes" id="note__1"><a name="fn7"><a href="#fna_7"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">7</span></a></a>Wiener Merkantilprotokoll Nr. 0242</div>
-            </p>
          </div>
          <div class="tei-back">
             <div  xmlns:local="http://dse-static.foo.bar" class="modal fade" id="wkfm__43936" data-bs-keyboard="false" tabindex="-1" aria-labelledby="Mühl, Johann Karl" aria-hidden="true">

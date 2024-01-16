@@ -128,16 +128,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43806">
-                     <persName>
-                        <forename>Leopold Karl</forename>
-                        <surname>von Palm</surname>
-                     </persName>
-                     <occupation>Direktor der Gebrüder Palm</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-                     <occupation type="aemter">Freiherr</occupation>
-               <noteGrp><note target="wkfm-0068.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0068</note></noteGrp></person>
-                <person xml:id="wkfm__43805">
+    <back><listPerson><person xml:id="wkfm__43805">
                      <persName>
                         <forename>Franz Gottlieb</forename>
                         <surname>Palm</surname>
@@ -164,5 +155,14 @@
                         <bibl>Mittenzwei, Zwischen gestern und morgen, S. 116; Stökl, Protestantismus, 229. Ein Heinrich Stametz (der Vater?) ist erwähnt bei Senfelder, Gottesacker, 269.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0068.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0068</note><note target="wkfm-0069.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0069</note></noteGrp></person>
+                <person xml:id="wkfm__43806">
+                     <persName>
+                        <forename>Leopold Karl</forename>
+                        <surname>von Palm</surname>
+                     </persName>
+                     <occupation>Direktor der Gebrüder Palm</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+                     <occupation type="aemter">Freiherr</occupation>
+               <noteGrp><note target="wkfm-0068.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0068</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

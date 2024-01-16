@@ -94,14 +94,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46694">
-                     <persName>
-                        <forename>Maria Theresia</forename>
-                        <surname>Hartmannin</surname>
-                        <surname type="alt">Rossmann</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-1376.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1376</note></noteGrp></person>
-                <person xml:id="wkfm__46692" sameAs="#wkfm__18088 ">
+    <back><listPerson><person xml:id="wkfm__46692" sameAs="#wkfm__18088 ">
                      <persName>
                         <forename>Johann Christoph</forename>
                         <surname>Rossmann</surname>
@@ -109,5 +102,12 @@
                      <occupation>Leinwandhändler</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
                <noteGrp><note target="wkfm-1375.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1375</note><note target="wkfm-1376.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1376</note><note target="wkfm-1695.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1695</note></noteGrp></person>
+                <person xml:id="wkfm__46694">
+                     <persName>
+                        <forename>Maria Theresia</forename>
+                        <surname>Hartmannin</surname>
+                        <surname type="alt">Rossmann</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-1376.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1376</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

@@ -108,7 +108,15 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43803">
+    <back><listPerson><person xml:id="wkfm__9481" sameAs="#wkfm__8422 wkfm__21682 ">
+                     <persName>
+                        <forename>Lorenz Anton</forename>
+                        <surname>Premlechner</surname>
+                     </persName>
+                     <occupation>Tuchhändler</occupation>
+                     <occupation type="kaufmannsklasse">tuchlaubensverwandt/bürgerlich</occupation>
+               <noteGrp><note target="wkfm-0064.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0064</note><note target="wkfm-0065.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0065</note><note target="wkfm-0249.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0249</note></noteGrp></person>
+                <person xml:id="wkfm__43803">
                      <persName>
                         <forename>Johann Georg</forename>
                         <surname>Wändler</surname>
@@ -123,13 +131,5 @@
                      <occupation>Tuchhändler, Prokurist des Lorenz Anton Premlechner</occupation>
                      <occupation type="kaufmannsklasse">tuchlaubensverwandt/bürgerlich</occupation>
                <noteGrp><note target="wkfm-0064.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0064</note><note target="wkfm-0249.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0249</note></noteGrp></person>
-                <person xml:id="wkfm__9481" sameAs="#wkfm__8422 wkfm__21682 ">
-                     <persName>
-                        <forename>Lorenz Anton</forename>
-                        <surname>Premlechner</surname>
-                     </persName>
-                     <occupation>Tuchhändler</occupation>
-                     <occupation type="kaufmannsklasse">tuchlaubensverwandt/bürgerlich</occupation>
-               <noteGrp><note target="wkfm-0064.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0064</note><note target="wkfm-0065.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0065</note><note target="wkfm-0249.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0249</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

@@ -96,7 +96,14 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46282">
+    <back><listPerson><person xml:id="wkfm__46283">
+                     <persName>
+                        <forename>Elisabeth</forename>
+                        <surname>Falkin</surname>
+                        <surname type="alt">Tury</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0600.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0600</note></noteGrp></person>
+                <person xml:id="wkfm__46282">
                      <persName>
                         <forename>Franz Joseph</forename>
                         <surname>Tury</surname>
@@ -107,12 +114,5 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 548 (März 1742: &amp;#34;Turi&amp;#34;).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0599.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0599</note><note target="wkfm-0600.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0600</note></noteGrp></person>
-                <person xml:id="wkfm__46283">
-                     <persName>
-                        <forename>Elisabeth</forename>
-                        <surname>Falkin</surname>
-                        <surname type="alt">Tury</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-0600.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0600</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

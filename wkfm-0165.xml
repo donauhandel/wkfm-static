@@ -86,7 +86,14 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43889">
+    <back><listPerson><person xml:id="wkfm__8574">
+                     <persName>
+                        <forename>Joseph</forename>
+                        <surname>von Bernini</surname>
+                     </persName>
+                     <occupation>Handelsmann</occupation>
+               <noteGrp><note target="wkfm-0165.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0165</note></noteGrp></person>
+                <person xml:id="wkfm__43889">
                      <persName>
                         <forename>Hieronymus</forename>
                         <forename type="alt">Girolamo</forename>
@@ -97,13 +104,6 @@
                 <person xml:id="wkfm__43890">
                      <persName>
                         <forename>Stephan</forename>
-                        <surname>von Bernini</surname>
-                     </persName>
-                     <occupation>Handelsmann</occupation>
-               <noteGrp><note target="wkfm-0165.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0165</note></noteGrp></person>
-                <person xml:id="wkfm__8574">
-                     <persName>
-                        <forename>Joseph</forename>
                         <surname>von Bernini</surname>
                      </persName>
                      <occupation>Handelsmann</occupation>

@@ -102,7 +102,16 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__17087">
+    <back><listPerson><person xml:id="wkfm__46124">
+                     <persName>
+                        <forename>Franz Karl</forename>
+                        <surname>Consoni</surname>
+                        <surname type="alt"/>
+                     </persName>
+                     <occupation>Prokurist des Kaspar Consoni, Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+               <noteGrp><note target="wkfm-0407.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0407</note><note target="wkfm-0408.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0408</note></noteGrp></person>
+                <person xml:id="wkfm__17087">
                      <persName>
                         <forename>Kaspar</forename>
                         <forename type="alt">Kaspar Melichor Balthasar</forename>
@@ -112,14 +121,6 @@
                      <occupation>Prokurist bei Angelo Maria Consoni, Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                <noteGrp><note target="wkfm-0335.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0335</note><note target="wkfm-0336.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0336</note><note target="wkfm-0407.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0407</note><note target="wkfm-0408.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0408</note><note target="wkfm-0501.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0501</note><note target="wkfm-0502.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0502</note><note target="wkfm-0793.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0793</note></noteGrp></person>
-                <person xml:id="wkfm__18128" sameAs="#wkfm__19983 ">
-                     <persName>
-                        <forename>Angelo Maria</forename>
-                        <surname>Consoni</surname>
-                     </persName>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-               <noteGrp><note target="wkfm-0335.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0335</note><note target="wkfm-0336.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0336</note><note target="wkfm-0408.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0408</note></noteGrp></person>
                 <person xml:id="wkfm__8192">
                      <persName>
                         <forename>Joseph</forename>
@@ -131,14 +132,13 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                <noteGrp><note target="wkfm-0407.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0407</note><note target="wkfm-0408.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0408</note><note target="wkfm-0501.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0501</note><note target="wkfm-0502.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0502</note></noteGrp></person>
-                <person xml:id="wkfm__46124">
+                <person xml:id="wkfm__18128" sameAs="#wkfm__19983 ">
                      <persName>
-                        <forename>Franz Karl</forename>
+                        <forename>Angelo Maria</forename>
                         <surname>Consoni</surname>
-                        <surname type="alt"/>
                      </persName>
-                     <occupation>Prokurist des Kaspar Consoni, Handelsmann</occupation>
+                     <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-               <noteGrp><note target="wkfm-0407.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0407</note><note target="wkfm-0408.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0408</note></noteGrp></person>
+               <noteGrp><note target="wkfm-0335.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0335</note><note target="wkfm-0336.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0336</note><note target="wkfm-0408.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0408</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

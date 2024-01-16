@@ -100,7 +100,13 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__8188" sameAs="#wkfm__11386 wkfm__9399 ">
+    <back><listPerson><person xml:id="wkfm__46697">
+                     <persName>
+                        <forename>Johann Michael</forename>
+                        <surname>Symann</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-1379.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1379</note></noteGrp></person>
+                <person xml:id="wkfm__8188" sameAs="#wkfm__11386 wkfm__9399 ">
                      <persName>
                         <forename>Ludwig Anton</forename>
                         <surname>Visconti</surname>
@@ -119,12 +125,6 @@
                         <surname type="alt">Reitschl</surname>
                      </persName>
                      <occupation>Handelsmann</occupation>
-               <noteGrp><note target="wkfm-1379.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1379</note></noteGrp></person>
-                <person xml:id="wkfm__46697">
-                     <persName>
-                        <forename>Johann Michael</forename>
-                        <surname>Symann</surname>
-                     </persName>
                <noteGrp><note target="wkfm-1379.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1379</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

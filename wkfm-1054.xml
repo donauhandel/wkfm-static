@@ -90,7 +90,14 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46563" sameAs="#wkfm__20078 ">
+    <back><listPerson><person xml:id="wkfm__46565">
+                     <persName>
+                        <forename>Maria Josepha</forename>
+                        <surname>Heimerlin</surname>
+                        <surname type="alt">Huber</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-1054.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1054</note></noteGrp></person>
+                <person xml:id="wkfm__46563" sameAs="#wkfm__20078 ">
                      <persName>
                         <forename>Johann Georg</forename>
                         <surname>Hueber</surname>
@@ -98,12 +105,5 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1053.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1053</note><note target="wkfm-1054.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1054</note></noteGrp></person>
-                <person xml:id="wkfm__46565">
-                     <persName>
-                        <forename>Maria Josepha</forename>
-                        <surname>Heimerlin</surname>
-                        <surname type="alt">Huber</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-1054.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1054</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

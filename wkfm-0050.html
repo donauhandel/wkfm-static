@@ -15,12 +15,7 @@
       <link  href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
       <link  rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
       <link  rel="stylesheet" href="css/style.css" type="text/css">
-      <link  rel="stylesheet" href="css/micro-editor.css" type="text/css">
-      <style>
-                    .navBarNavDropdown ul li:nth-child(2) {
-                        display: none !important;
-                    }
-                </style><script src="https://cdnjs.cloudflare.com/ajax/libs/openseadragon/4.1.0/openseadragon.min.js"></script></head>
+      <link  rel="stylesheet" href="css/micro-editor.css" type="text/css"><script src="https://cdnjs.cloudflare.com/ajax/libs/openseadragon/4.1.0/openseadragon.min.js"></script></head>
    <body class="d-flex flex-column h-100">
       <header >
          <nav class="navbar navbar-expand-lg bg-body-tertiary">
@@ -58,119 +53,63 @@
                <div class="col-md-2 col-lg-2 col-sm-12" style="text-align:right">
                   <h1><a href="wkfm-0051.html"><i class="bi bi-chevron-right" title="weiter"></i></a></h1>
                </div>
-               <div id="editor-widget">
-                  <div  id="aot-navBarNavDropdown" class="navBarNavDropdown dropstart"><a title="Annotationen" href="#" data-bs-toggle="dropdown" data-bs-auto-close="outside" aria-expanded="false" role="button"><i class="bi bi-gear" title="Menü zur Anpassung der Anzeige"></i></a><ul class="dropdown-menu">
-                        <li class="dropdown-item">
-                           <full-size opt="fls"></full-size>
-                        </li>
-                        <li class="dropdown-item">
-                           <image-switch opt="es"></image-switch>
-                        </li>
-                        <li class="dropdown-item">
-                           <font-size opt="fs"></font-size>
-                        </li>
-                        <li class="dropdown-item">
-                           <font-family opt="ff"></font-family>
-                        </li>
-                        <li class="dropdown-item" style="border-top: 5px dashed lightgrey !important;">
-                           <annotation-slider opt="ef"></annotation-slider>
-                        </li>
-                        <li class="dropdown-item">
-                           <annotation-slider opt="prs"></annotation-slider>
-                        </li>
-                        <li class="dropdown-item">
-                           <annotation-slider opt="plc"></annotation-slider>
-                        </li>
-                        <li class="dropdown-item">
-                           <annotation-slider opt="wrk"></annotation-slider>
-                        </li>
-                        <li class="dropdown-item">
-                           <annotation-slider opt="org"></annotation-slider>
-                        </li>
-                     </ul>
-                  </div>
-               </div>
             </div>
             <div class="row">
                <div class="col">
-                  <div style="width: 100%; height: 100%" id="osd_viewer"></div>
+                  <div style="width: 100%; height: 800px" id="osd_viewer"></div>
                </div>
                <div class="col">
-                  
-                  <div id="div__108">
-                     <span  xmlns:local="http://dse-static.foo.bar" class="anchor-pb"></span><span  xmlns:local="http://dse-static.foo.bar" class="pb" source="#facs_45">45</span>
+                  <div class="transcript pb-5">
                      
                      
-                     <br  xmlns:local="http://dse-static.foo.bar">Nahmen und Class
+                     
+                     
+                     <br  xmlns:local="http://dse-static.foo.bar"><h4 style="text-align:center; padding-top:1em;">Nahmen und Class</h4>
+                     <hr>
                      <br  xmlns:local="http://dse-static.foo.bar"><span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__46293">Aichinger Johann Thadaeus</span> burgerlicher Handlsmann
-                     <br  xmlns:local="http://dse-static.foo.bar">Firma oder Raggion
-                     <br  xmlns:local="http://dse-static.foo.bar"><span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__43800">Johann Thadaeus Aichinger</span> laut Erklährung sine dato N<span  xmlns:local="http://dse-static.foo.bar">o</span> 24.
-                     <br  xmlns:local="http://dse-static.foo.bar">Procura und Firmae Trager
+                     <br  xmlns:local="http://dse-static.foo.bar"><h4 style="text-align:center; padding-top:1em;">Firma oder Raggion</h4>
+                     <hr>
+                     <br  xmlns:local="http://dse-static.foo.bar"><span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__43800">Johann Thadaeus Aichinger</span> laut Erklährung sine dato N<sup>o</sup> 24.
+                     <br  xmlns:local="http://dse-static.foo.bar"><h4 style="text-align:center; padding-top:1em;">Procura und Firmae Trager</h4>
+                     <hr>
                      <br  xmlns:local="http://dse-static.foo.bar">Mittels anbringen de ps: 15: Juli 785 hat <span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__46293">Johann Thadaeus Aichinger</span>
                      <br  xmlns:local="http://dse-static.foo.bar">angezeiget, daß er wegen Gesundtheits Umständen sich auf 6 Mo-
                      <br  xmlns:local="http://dse-static.foo.bar">nat verreisen müsse, und bis zu seiner Ankunft die Handlungs
                      <br  xmlns:local="http://dse-static.foo.bar">firma dem <span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="">Johann <abbr title="unclear">Lechleithner</abbr></span><abbr  xmlns:local="http://dse-static.foo.bar" title="unclear"> </abbr>associiertem Comp. des <span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="">Engelbert
                         Tschoften</span> übertragen habe, und hat diese firma seinem <span  xmlns:local="http://dse-static.foo.bar">ab </span>an-
-                     <br  xmlns:local="http://dse-static.foo.bar">bringen sub A beigelegt: Sub rubrica firmen von N<span  xmlns:local="http://dse-static.foo.bar">o</span> 1 bis 49 B
-                     <br  xmlns:local="http://dse-static.foo.bar">Oblatorien und Avocatorien
-                     <br  xmlns:local="http://dse-static.foo.bar">Fundi Ausweisung
+                     <br  xmlns:local="http://dse-static.foo.bar">bringen sub A beigelegt: Sub rubrica firmen von N<sup>o</sup> 1 bis 49 B
+                     <br  xmlns:local="http://dse-static.foo.bar"><h4 style="text-align:center; padding-top:1em;">Oblatorien und Avocatorien</h4>
+                     <hr>
+                     <br  xmlns:local="http://dse-static.foo.bar"><h4 style="text-align:center; padding-top:1em;">Fundi Ausweisung</h4>
+                     <hr>
                      <br  xmlns:local="http://dse-static.foo.bar">Der <span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__46293">Aichinger </span>hat seinen Handlungs Fundum folgender gestalten ausgewisen
-                     <br  xmlns:local="http://dse-static.foo.bar">1<span  xmlns:local="http://dse-static.foo.bar">mo</span> die Specification über das von seiner Ehewirthin <span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="">Elisabeth <abbr title="unclear">S Kubin</abbr></span>
-                     <br  xmlns:local="http://dse-static.foo.bar">erhaltener Erbtheil sine dato N<span  xmlns:local="http://dse-static.foo.bar">o</span> 1156 pr. 5503 fl
-                     <br  xmlns:local="http://dse-static.foo.bar">N<span  xmlns:local="http://dse-static.foo.bar">o</span> 1160 extra-
+                     <br  xmlns:local="http://dse-static.foo.bar">1<sup>mo</sup> die Specification über das von seiner Ehewirthin <span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="">Elisabeth <abbr title="unclear">S Kubin</abbr></span>
+                     <br  xmlns:local="http://dse-static.foo.bar">erhaltener Erbtheil sine dato N<sup>o</sup> 1156 pr. 5503 fl
+                     <br  xmlns:local="http://dse-static.foo.bar">N<sup>o</sup> 1160 extra-
                      <br  xmlns:local="http://dse-static.foo.bar">diert worden
                      <br  xmlns:local="http://dse-static.foo.bar">wie auch das von gedacht seiner Ehewirthin dahin ausgestelte
                      <br  xmlns:local="http://dse-static.foo.bar">Certiorirte orig: Instrument, daß sie diese 5503 fl an ihm
                      <br  xmlns:local="http://dse-static.foo.bar"><span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__43800">Aichinger </span>zu seiner Stabilirung gänzlichen uberlassen und 
-                     <br  xmlns:local="http://dse-static.foo.bar">übertragen habe dd<span  xmlns:local="http://dse-static.foo.bar">to</span> 20<span  xmlns:local="http://dse-static.foo.bar">ten</span> Febr: 747 N<span  xmlns:local="http://dse-static.foo.bar">o</span> 1161 eingeleget <abbr  xmlns:local="http://dse-static.foo.bar" title="unclear">sohin</abbr>
-                     <br  xmlns:local="http://dse-static.foo.bar">laut formulo jurandi de ps: 20<span  xmlns:local="http://dse-static.foo.bar">ten</span> Febr: 747 N<span  xmlns:local="http://dse-static.foo.bar">o</span> 1157 mit einem cörperlichen 
+                     <br  xmlns:local="http://dse-static.foo.bar">übertragen habe dd<sup>to</sup> 20<sup>ten</sup> Febr: 747 N<sup>o</sup> 1161 eingeleget <abbr  xmlns:local="http://dse-static.foo.bar" title="unclear">sohin</abbr>
+                     <br  xmlns:local="http://dse-static.foo.bar">laut formulo jurandi de ps: 20<sup>ten</sup> Febr: 747 N<sup>o</sup> 1157 mit einem cörperlichen 
                      <br  xmlns:local="http://dse-static.foo.bar">Eyd betheiert das seine Ehewirthin dise 5503 fl ererbet und ihm 
                      <br  xmlns:local="http://dse-static.foo.bar">eigenthumblich überlassen habe.
                      <br  xmlns:local="http://dse-static.foo.bar">Zu Completirung des Fundi hat der <span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__23514">Franz Anton Kallmünzer</span> das orig:
-                     <br  xmlns:local="http://dse-static.foo.bar">laut Instrument eingeleget dd<span  xmlns:local="http://dse-static.foo.bar">to</span> 15<span  xmlns:local="http://dse-static.foo.bar">ten</span> Febr. 747 pr 2500
+                     <br  xmlns:local="http://dse-static.foo.bar">laut Instrument eingeleget dd<sup>to</sup> 15<sup>ten</sup> Febr. 747 pr 2500
                      <br  xmlns:local="http://dse-static.foo.bar">Sa 8003 fl
                      <br  xmlns:local="http://dse-static.foo.bar">Anstatt dieses Kallmünzer: Caut: Instrument hat der Aichinger das orig: Caut: Instrument
-                     <br  xmlns:local="http://dse-static.foo.bar">darinnen von Joseph Schwarzleithner ausgestelet dd<span  xmlns:local="http://dse-static.foo.bar">to</span> 17<span  xmlns:local="http://dse-static.foo.bar">ten</span> Febr: 747 pr 2500 fl N<span  xmlns:local="http://dse-static.foo.bar">o</span> 1158 mitls des
-                     <br  xmlns:local="http://dse-static.foo.bar">Anbringen de ps: 11<span  xmlns:local="http://dse-static.foo.bar">ten</span> <abbr  xmlns:local="http://dse-static.foo.bar" title="unclear">Jun:</abbr> 748 N<span  xmlns:local="http://dse-static.foo.bar">o</span> 1159 eingeleget. worauf dem <span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__23514">Kalmünzer</span> gedacht <abbr  xmlns:local="http://dse-static.foo.bar" title="unclear">vonihm</abbr>
-                     <br  xmlns:local="http://dse-static.foo.bar">eingelegtes <abbr  xmlns:local="http://dse-static.foo.bar" title="unclear">exek.</abbr> Instrument zufolge Auflag dd<span  xmlns:local="http://dse-static.foo.bar">to</span>ps: 29<span  xmlns:local="http://dse-static.foo.bar">ten</span> Janu: 778 und quittung dd<span  xmlns:local="http://dse-static.foo.bar">to</span> 31<span  xmlns:local="http://dse-static.foo.bar">ten</span> 9br: <span  xmlns:local="http://dse-static.foo.bar">0</span>
+                     <br  xmlns:local="http://dse-static.foo.bar">darinnen von Joseph Schwarzleithner ausgestelet dd<sup>to</sup> 17<sup>ten</sup> Febr: 747 pr 2500 fl N<sup>o</sup> 1158 mitls des
+                     <br  xmlns:local="http://dse-static.foo.bar">Anbringen de ps: 11<sup>ten</sup> <abbr  xmlns:local="http://dse-static.foo.bar" title="unclear">Jun:</abbr> 748 N<sup>o</sup> 1159 eingeleget. worauf dem <span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__23514">Kalmünzer</span> gedacht <abbr  xmlns:local="http://dse-static.foo.bar" title="unclear">vonihm</abbr>
+                     <br  xmlns:local="http://dse-static.foo.bar">eingelegtes <abbr  xmlns:local="http://dse-static.foo.bar" title="unclear">exek.</abbr> Instrument zufolge Auflag dd<sup>to</sup>ps: 29<sup>ten</sup> Janu: 778 und quittung dd<sup>to</sup> 31<sup>ten</sup> 9br: <span  xmlns:local="http://dse-static.foo.bar">0</span>
+                     
                      
                      
                      </div>
-                  </div>
-            </div>
-            <p style="text-align:center;">
-               <div class="footnotes" id="note__1"><a name="fn1"><a href="#fna_1"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">1</span></a></a>Wiener Merkantilprotokoll Nr. 0050</div>
-               <div class="footnotes" id="note__2"><a name="fn2"><a href="#fna_2"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">2</span></a></a>Wiener Merkantilprotokoll Nr. 0051</div>
-               <div class="footnotes" id="note__3"><a name="fn3"><a href="#fna_3"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">3</span></a></a>Wiener Merkantilprotokoll Nr. 0607</div>
-               <div class="footnotes" id="note__1"><a name="fn4"><a href="#fna_4"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">4</span></a></a>Wiener Merkantilprotokoll Nr. 0050</div>
-               <div class="footnotes" id="note__2"><a name="fn5"><a href="#fna_5"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">5</span></a></a>Wiener Merkantilprotokoll Nr. 0425</div>
-               <div class="footnotes" id="note__3"><a name="fn6"><a href="#fna_6"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">6</span></a></a>Wiener Merkantilprotokoll Nr. 0426</div>
-               <div class="footnotes" id="note__4"><a name="fn7"><a href="#fna_7"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">7</span></a></a>Wiener Merkantilprotokoll Nr. 1695</div>
-            </p>
-         </div>
-         <div class="tei-back">
-            <div  xmlns:local="http://dse-static.foo.bar" class="modal fade" id="wkfm__46293" data-bs-keyboard="false" tabindex="-1" aria-labelledby="Aichinger, Johann Thaddäus" aria-hidden="true">
-               <div class="modal-dialog modal-dialog-centered">
-                  <div class="modal-content">
-                     <div class="modal-header">
-                        <h1 class="modal-title fs-5" id="staticBackdropLabel">Aichinger, Johann Thaddäus</h1><button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button></div>
-                     <div class="modal-body">
-                        <table class="table">
-                           <tbody>
-                              <tr>
-                                 <th></th>
-                                 <td>
-                                    Anzahl der Erwähnungen limitiert, klicke <a href="wkfm__46293.html">hier</a> für eine vollständige Auflistung
-                                    </td>
-                              </tr>
-                           </tbody>
-                        </table>
-                     </div>
-                     <div class="modal-footer"><button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button></div>
-                  </div>
+                  <div class="footnotes pt-5"></div>
                </div>
             </div>
-            
+         </div>
+         <div class="tei-back">
             <div  xmlns:local="http://dse-static.foo.bar" class="modal fade" id="wkfm__23514" data-bs-keyboard="false" tabindex="-1" aria-labelledby="Kollminzer, Franz Anton" aria-hidden="true">
                <div class="modal-dialog modal-dialog-centered">
                   <div class="modal-content">
@@ -183,6 +122,28 @@
                                  <th></th>
                                  <td>
                                     Anzahl der Erwähnungen limitiert, klicke <a href="wkfm__23514.html">hier</a> für eine vollständige Auflistung
+                                    </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </div>
+                     <div class="modal-footer"><button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button></div>
+                  </div>
+               </div>
+            </div>
+            
+            <div  xmlns:local="http://dse-static.foo.bar" class="modal fade" id="wkfm__46293" data-bs-keyboard="false" tabindex="-1" aria-labelledby="Aichinger, Johann Thaddäus" aria-hidden="true">
+               <div class="modal-dialog modal-dialog-centered">
+                  <div class="modal-content">
+                     <div class="modal-header">
+                        <h1 class="modal-title fs-5" id="staticBackdropLabel">Aichinger, Johann Thaddäus</h1><button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button></div>
+                     <div class="modal-body">
+                        <table class="table">
+                           <tbody>
+                              <tr>
+                                 <th></th>
+                                 <td>
+                                    Anzahl der Erwähnungen limitiert, klicke <a href="wkfm__46293.html">hier</a> für eine vollständige Auflistung
                                     </td>
                               </tr>
                            </tbody>

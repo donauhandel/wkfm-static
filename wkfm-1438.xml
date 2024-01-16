@@ -126,7 +126,15 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43802" sameAs="#wkfm__38592 wkfm__42025 ">
+    <back><listPerson><person xml:id="wkfm__46754">
+                     <persName>
+                        <forename>Valentin</forename>
+                        <surname>Ruard</surname>
+                     </persName>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+               <noteGrp><note target="wkfm-1437.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1437</note><note target="wkfm-1438.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1438</note></noteGrp></person>
+                <person xml:id="wkfm__43802" sameAs="#wkfm__38592 wkfm__42025 ">
                      <persName>
                         <forename>Johann Baptist</forename>
                         <surname>Ruard</surname>
@@ -140,13 +148,5 @@
                         <surname>Orsetin</surname>
                      </persName>
                <noteGrp><note target="wkfm-1438.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1438</note></noteGrp></person>
-                <person xml:id="wkfm__46754">
-                     <persName>
-                        <forename>Valentin</forename>
-                        <surname>Ruard</surname>
-                     </persName>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-               <noteGrp><note target="wkfm-1437.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1437</note><note target="wkfm-1438.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1438</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>
