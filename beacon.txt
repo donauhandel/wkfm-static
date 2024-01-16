@@ -1,0 +1,2 @@
+#FORMAT: BEACON
+#NAME:Digitale Edition des Merkantil und Wechselgericht Merkantilprotokoll
