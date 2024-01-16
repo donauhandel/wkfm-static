@@ -30,7 +30,9 @@
     <xsl:variable name="doc_title">
         <xsl:value-of select=".//tei:titleStmt/tei:title[1]/text()"/>
     </xsl:variable>
-
+    <xsl:variable name="facs-url">
+        <xsl:value-of select="data(.//tei:pb[1]/@corresp)"/>
+    </xsl:variable>
 
     <xsl:template match="/">
 
@@ -46,6 +48,7 @@
                         display: none !important;
                     }
                 </style>
+                <script src="https://cdnjs.cloudflare.com/ajax/libs/openseadragon/4.1.0/openseadragon.min.js"/>
             </head>
             <body class="d-flex flex-column h-100">
                 <xsl:call-template name="nav_bar"/>
@@ -93,7 +96,15 @@
                             </div>
                         </div>
                         
-                            <xsl:apply-templates select=".//tei:body"></xsl:apply-templates>
+                        <div class="row">
+                            <div class="col">
+                                <div style="width: 100%; height: 100%" id="osd_viewer"/>
+                            </div>
+                            <div class="col">
+                                <xsl:apply-templates select=".//tei:body"></xsl:apply-templates>
+                            </div>
+                        </div>
+                            
                         
 
                         <p style="text-align:center;">
@@ -126,11 +137,18 @@
                         </div>
                     </xsl:for-each>
                 </main>
-                <xsl:call-template name="html_footer"/>
-                <script src="https://unpkg.com/de-micro-editor@0.2.6/dist/de-editor.min.js"></script>
-                <script type="text/javascript" src="js/run.js"></script>
-                
-                <script type="text/javascript" src="js/osd_single.js"></script>
+                <xsl:call-template name="html_footer"/>                
+                <script type="text/javascript">
+                    var source = "<xsl:value-of select="$facs-url"/>";
+                    var viewer = OpenSeadragon({
+                    id: "osd_viewer",
+                    tileSources: {
+                    type: 'image',
+                    url: source
+                    },
+                    prefixUrl:"https://cdnjs.cloudflare.com/ajax/libs/openseadragon/2.4.1/images/",
+                    });
+                </script>
                 
             </body>
         </html>
