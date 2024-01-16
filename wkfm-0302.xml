@@ -122,13 +122,12 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43995">
+    <back><listPerson><person xml:id="wkfm__43993">
                      <persName>
-                        <forename>Anton</forename>
-                        <surname>Hirtmayr</surname>
+                        <forename>Maria Anna</forename>
+                        <surname>Sartorin</surname>
                      </persName>
-                     <occupation>Handelsmann</occupation>
-               <noteGrp><note target="wkfm-0302.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0302</note></noteGrp></person>
+               <noteGrp><note target="wkfm-0301.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0301</note><note target="wkfm-0302.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0302</note></noteGrp></person>
                 <person xml:id="wkfm__43994">
                      <persName>
                         <forename>Joseph</forename>
@@ -136,12 +135,6 @@
                      </persName>
                      <occupation>Handelsmann</occupation>
                <noteGrp><note target="wkfm-0302.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0302</note></noteGrp></person>
-                <person xml:id="wkfm__43993">
-                     <persName>
-                        <forename>Maria Anna</forename>
-                        <surname>Sartorin</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-0301.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0301</note><note target="wkfm-0302.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0302</note></noteGrp></person>
                 <person xml:id="wkfm__43992">
                      <persName>
                         <forename>Bernhard</forename>
@@ -149,5 +142,12 @@
                      </persName>
                      <occupation>Handelsmann</occupation>
                <noteGrp><note target="wkfm-0301.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0301</note><note target="wkfm-0302.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0302</note></noteGrp></person>
+                <person xml:id="wkfm__43995">
+                     <persName>
+                        <forename>Anton</forename>
+                        <surname>Hirtmayr</surname>
+                     </persName>
+                     <occupation>Handelsmann</occupation>
+               <noteGrp><note target="wkfm-0302.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0302</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

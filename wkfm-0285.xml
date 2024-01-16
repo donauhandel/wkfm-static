@@ -127,19 +127,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43968">
-                     <persName>
-                        <forename>Joseph</forename>
-                        <surname>Pillitschotti</surname>
-                     </persName>
-                     <death><date>1774</date></death>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-                     <listBibl>
-                        <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 484 (Dezember 1746).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-0285.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0285</note></noteGrp></person>
-                <person xml:id="wkfm__30347" sameAs="#wkfm__41603 ">
+    <back><listPerson><person xml:id="wkfm__30347" sameAs="#wkfm__41603 ">
                      <persName>
                         <forename>Anton</forename>
                         <surname>Pillitschotti</surname>
@@ -156,6 +144,18 @@
                         <surname>Albrecht</surname>
                      </persName>
                      <occupation type="aemter">Rentmeister</occupation>
+               <noteGrp><note target="wkfm-0285.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0285</note></noteGrp></person>
+                <person xml:id="wkfm__43968">
+                     <persName>
+                        <forename>Joseph</forename>
+                        <surname>Pillitschotti</surname>
+                     </persName>
+                     <death><date>1774</date></death>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+                     <listBibl>
+                        <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 484 (Dezember 1746).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
+                     </listBibl>
                <noteGrp><note target="wkfm-0285.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0285</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

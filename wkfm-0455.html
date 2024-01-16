@@ -20,8 +20,7 @@
                     .navBarNavDropdown ul li:nth-child(2) {
                         display: none !important;
                     }
-                </style>
-   </head>
+                </style><script src="https://cdnjs.cloudflare.com/ajax/libs/openseadragon/4.1.0/openseadragon.min.js"></script></head>
    <body class="d-flex flex-column h-100">
       <header >
          <nav class="navbar navbar-expand-lg bg-body-tertiary">
@@ -92,69 +91,53 @@
                   </div>
                </div>
             </div>
-            
-            <div id="div__54">
-               <span  xmlns:local="http://dse-static.foo.bar" class="anchor-pb"></span><span  xmlns:local="http://dse-static.foo.bar" class="pb" source="#facs_135">135</span>
-               
-               
-               <br  xmlns:local="http://dse-static.foo.bar">Nahmen und Class
-               <br  xmlns:local="http://dse-static.foo.bar"><span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__42662">Kurtz Franz Ignaz</span> burgerlicher Handlsmann
-               <br  xmlns:local="http://dse-static.foo.bar">Firma ad Raggion
-               <br  xmlns:local="http://dse-static.foo.bar"><span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__47256">Franz Ignatj Kurtz</span> laut Erklährung sine dato N<span  xmlns:local="http://dse-static.foo.bar">o</span> 223
-               <br  xmlns:local="http://dse-static.foo.bar">Procura und Firmae Trager
-               <br  xmlns:local="http://dse-static.foo.bar">Oblatorien und Avocatorien
-               <br  xmlns:local="http://dse-static.foo.bar">Fundi Ausweisung
-               <br  xmlns:local="http://dse-static.foo.bar">Der <span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__42662">Kurz</span> hat seinen Fundum mitls der orig: Specification sine dato
-               <br  xmlns:local="http://dse-static.foo.bar">N<span  xmlns:local="http://dse-static.foo.bar">o</span> 1299 ausgewisen in welchen selber als Eigenthumlich ansezet
-               <br  xmlns:local="http://dse-static.foo.bar">Eine Ehrenhafter: obligation pr 1000 fl
-               <br  xmlns:local="http://dse-static.foo.bar">Wagnerischen Wechselbrief pr 1500 fl
-               <br  xmlns:local="http://dse-static.foo.bar">det: Kofler: pr 400 fl
-               <br  xmlns:local="http://dse-static.foo.bar"><abbr  xmlns:local="http://dse-static.foo.bar" title="unclear">Curische</abbr> obligation pr 200 fl
-               <br  xmlns:local="http://dse-static.foo.bar">zusamen Eigenthum 3100 fl
-               <br  xmlns:local="http://dse-static.foo.bar">zu Completirung des übrigen hat der <span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__8109">Johann Michäl Niller</span>
-               <br  xmlns:local="http://dse-static.foo.bar">das orig: Cautions Instrument dd<span  xmlns:local="http://dse-static.foo.bar">to</span> 7<span  xmlns:local="http://dse-static.foo.bar">ten</span> Apr: 748 N<span  xmlns:local="http://dse-static.foo.bar">o</span> 1300
-               <br  xmlns:local="http://dse-static.foo.bar">eingeleget pr 5000 fl
-               <br  xmlns:local="http://dse-static.foo.bar">SummaSa 8000 fl
-               
-               
+            <div class="row">
+               <div class="col">
+                  <div style="width: 100%; height: 100%" id="osd_viewer"></div>
                </div>
-            
+               <div class="col">
+                  
+                  <div id="div__54">
+                     <span  xmlns:local="http://dse-static.foo.bar" class="anchor-pb"></span><span  xmlns:local="http://dse-static.foo.bar" class="pb" source="#facs_135">135</span>
+                     
+                     
+                     <br  xmlns:local="http://dse-static.foo.bar">Nahmen und Class
+                     <br  xmlns:local="http://dse-static.foo.bar"><span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__42662">Kurtz Franz Ignaz</span> burgerlicher Handlsmann
+                     <br  xmlns:local="http://dse-static.foo.bar">Firma ad Raggion
+                     <br  xmlns:local="http://dse-static.foo.bar"><span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__47256">Franz Ignatj Kurtz</span> laut Erklährung sine dato N<span  xmlns:local="http://dse-static.foo.bar">o</span> 223
+                     <br  xmlns:local="http://dse-static.foo.bar">Procura und Firmae Trager
+                     <br  xmlns:local="http://dse-static.foo.bar">Oblatorien und Avocatorien
+                     <br  xmlns:local="http://dse-static.foo.bar">Fundi Ausweisung
+                     <br  xmlns:local="http://dse-static.foo.bar">Der <span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__42662">Kurz</span> hat seinen Fundum mitls der orig: Specification sine dato
+                     <br  xmlns:local="http://dse-static.foo.bar">N<span  xmlns:local="http://dse-static.foo.bar">o</span> 1299 ausgewisen in welchen selber als Eigenthumlich ansezet
+                     <br  xmlns:local="http://dse-static.foo.bar">Eine Ehrenhafter: obligation pr 1000 fl
+                     <br  xmlns:local="http://dse-static.foo.bar">Wagnerischen Wechselbrief pr 1500 fl
+                     <br  xmlns:local="http://dse-static.foo.bar">det: Kofler: pr 400 fl
+                     <br  xmlns:local="http://dse-static.foo.bar"><abbr  xmlns:local="http://dse-static.foo.bar" title="unclear">Curische</abbr> obligation pr 200 fl
+                     <br  xmlns:local="http://dse-static.foo.bar">zusamen Eigenthum 3100 fl
+                     <br  xmlns:local="http://dse-static.foo.bar">zu Completirung des übrigen hat der <span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__8109">Johann Michäl Niller</span>
+                     <br  xmlns:local="http://dse-static.foo.bar">das orig: Cautions Instrument dd<span  xmlns:local="http://dse-static.foo.bar">to</span> 7<span  xmlns:local="http://dse-static.foo.bar">ten</span> Apr: 748 N<span  xmlns:local="http://dse-static.foo.bar">o</span> 1300
+                     <br  xmlns:local="http://dse-static.foo.bar">eingeleget pr 5000 fl
+                     <br  xmlns:local="http://dse-static.foo.bar">SummaSa 8000 fl
+                     
+                     
+                     </div>
+                  </div>
+            </div>
             <p style="text-align:center;">
                <div class="footnotes" id="note__1"><a name="fn1"><a href="#fna_1"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">1</span></a></a>Wiener Merkantilprotokoll Nr. 0455</div>
-               <div class="footnotes" id="note__2"><a name="fn2"><a href="#fna_2"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">2</span></a></a>Wiener Merkantilprotokoll Nr. 1433</div>
-               <div class="footnotes" id="note__3"><a name="fn3"><a href="#fna_3"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">3</span></a></a>Wiener Merkantilprotokoll Nr. 1681</div>
-               <div class="footnotes" id="note__4"><a name="fn4"><a href="#fna_4"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">4</span></a></a>Wiener Merkantilprotokoll Nr. 1693</div>
-               <div class="footnotes" id="note__1"><a name="fn5"><a href="#fna_5"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">5</span></a></a>Wiener Merkantilprotokoll Nr. 0455</div>
-               <div class="footnotes" id="note__2"><a name="fn6"><a href="#fna_6"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">6</span></a></a>Wiener Merkantilprotokoll Nr. 1305</div>
-               <div class="footnotes" id="note__3"><a name="fn7"><a href="#fna_7"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">7</span></a></a>Wiener Merkantilprotokoll Nr. 1306</div>
-               <div class="footnotes" id="note__4"><a name="fn8"><a href="#fna_8"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">8</span></a></a>Wiener Merkantilprotokoll Nr. 1433</div>
-               <div class="footnotes" id="note__5"><a name="fn9"><a href="#fna_9"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">9</span></a></a>Wiener Merkantilprotokoll Nr. 1443</div>
-               <div class="footnotes" id="note__6"><a name="fn10"><a href="#fna_10"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">10</span></a></a>Wiener Merkantilprotokoll Nr. 1449</div>
+               <div class="footnotes" id="note__2"><a name="fn2"><a href="#fna_2"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">2</span></a></a>Wiener Merkantilprotokoll Nr. 1305</div>
+               <div class="footnotes" id="note__3"><a name="fn3"><a href="#fna_3"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">3</span></a></a>Wiener Merkantilprotokoll Nr. 1306</div>
+               <div class="footnotes" id="note__4"><a name="fn4"><a href="#fna_4"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">4</span></a></a>Wiener Merkantilprotokoll Nr. 1433</div>
+               <div class="footnotes" id="note__5"><a name="fn5"><a href="#fna_5"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">5</span></a></a>Wiener Merkantilprotokoll Nr. 1443</div>
+               <div class="footnotes" id="note__6"><a name="fn6"><a href="#fna_6"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">6</span></a></a>Wiener Merkantilprotokoll Nr. 1449</div>
+               <div class="footnotes" id="note__1"><a name="fn7"><a href="#fna_7"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">7</span></a></a>Wiener Merkantilprotokoll Nr. 0455</div>
+               <div class="footnotes" id="note__2"><a name="fn8"><a href="#fna_8"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">8</span></a></a>Wiener Merkantilprotokoll Nr. 1433</div>
+               <div class="footnotes" id="note__3"><a name="fn9"><a href="#fna_9"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">9</span></a></a>Wiener Merkantilprotokoll Nr. 1681</div>
+               <div class="footnotes" id="note__4"><a name="fn10"><a href="#fna_10"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">10</span></a></a>Wiener Merkantilprotokoll Nr. 1693</div>
             </p>
          </div>
          <div class="tei-back">
-            <div  xmlns:local="http://dse-static.foo.bar" class="modal fade" id="wkfm__42662" data-bs-keyboard="false" tabindex="-1" aria-labelledby="Kurz, Franz Ignaz" aria-hidden="true">
-               <div class="modal-dialog modal-dialog-centered">
-                  <div class="modal-content">
-                     <div class="modal-header">
-                        <h1 class="modal-title fs-5" id="staticBackdropLabel">Kurz, Franz Ignaz</h1><button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button></div>
-                     <div class="modal-body">
-                        <table class="table">
-                           <tbody>
-                              <tr>
-                                 <th></th>
-                                 <td>
-                                    Anzahl der Erwähnungen limitiert, klicke <a href="wkfm__42662.html">hier</a> für eine vollständige Auflistung
-                                    </td>
-                              </tr>
-                           </tbody>
-                        </table>
-                     </div>
-                     <div class="modal-footer"><button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button></div>
-                  </div>
-               </div>
-            </div>
-            
             <div  xmlns:local="http://dse-static.foo.bar" class="modal fade" id="wkfm__8109" data-bs-keyboard="false" tabindex="-1" aria-labelledby="Niller, Johann Michael" aria-hidden="true">
                <div class="modal-dialog modal-dialog-centered">
                   <div class="modal-content">
@@ -176,6 +159,28 @@
                   </div>
                </div>
             </div>
+            
+            <div  xmlns:local="http://dse-static.foo.bar" class="modal fade" id="wkfm__42662" data-bs-keyboard="false" tabindex="-1" aria-labelledby="Kurz, Franz Ignaz" aria-hidden="true">
+               <div class="modal-dialog modal-dialog-centered">
+                  <div class="modal-content">
+                     <div class="modal-header">
+                        <h1 class="modal-title fs-5" id="staticBackdropLabel">Kurz, Franz Ignaz</h1><button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button></div>
+                     <div class="modal-body">
+                        <table class="table">
+                           <tbody>
+                              <tr>
+                                 <th></th>
+                                 <td>
+                                    Anzahl der Erwähnungen limitiert, klicke <a href="wkfm__42662.html">hier</a> für eine vollständige Auflistung
+                                    </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </div>
+                     <div class="modal-footer"><button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button></div>
+                  </div>
+               </div>
+            </div>
             </div>
       </main>
       <footer  class="footer mt-auto py-3 bg-body-tertiary">
@@ -185,5 +190,15 @@
                 new Darkmode().showWidget();
             }
             window.addEventListener('load', addDarkmodeWidget);
-        </script><script src="https://unpkg.com/de-micro-editor@0.2.6/dist/de-editor.min.js"></script><script type="text/javascript" src="js/run.js"></script><script type="text/javascript" src="js/osd_single.js"></script></body>
+        </script><script type="text/javascript">
+                    var source = "https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0455.jpg";
+                    var viewer = OpenSeadragon({
+                    id: "osd_viewer",
+                    tileSources: {
+                    type: 'image',
+                    url: source
+                    },
+                    prefixUrl:"https://cdnjs.cloudflare.com/ajax/libs/openseadragon/2.4.1/images/",
+                    });
+                </script></body>
 </html>

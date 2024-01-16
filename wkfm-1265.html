@@ -20,8 +20,7 @@
                     .navBarNavDropdown ul li:nth-child(2) {
                         display: none !important;
                     }
-                </style>
-   </head>
+                </style><script src="https://cdnjs.cloudflare.com/ajax/libs/openseadragon/4.1.0/openseadragon.min.js"></script></head>
    <body class="d-flex flex-column h-100">
       <header >
          <nav class="navbar navbar-expand-lg bg-body-tertiary">
@@ -92,31 +91,37 @@
                   </div>
                </div>
             </div>
-            
-            <div id="div__53">
-               <span  xmlns:local="http://dse-static.foo.bar" class="anchor-pb"></span><span  xmlns:local="http://dse-static.foo.bar" class="pb" source="#facs_81">81</span>
-               
-               
-               <br  xmlns:local="http://dse-static.foo.bar">626
-               <br  xmlns:local="http://dse-static.foo.bar">Nahmen und Class
-               <br  xmlns:local="http://dse-static.foo.bar"><span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__46919">Mayr Franz Benedict</span> burgerlicher Handlsmann
-               <br  xmlns:local="http://dse-static.foo.bar">Firma ad Raggion
-               <br  xmlns:local="http://dse-static.foo.bar"><span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__46920">Franz Benedict Mayr</span> laut Erklährung sine dato N<span  xmlns:local="http://dse-static.foo.bar">o</span> 582
-               <br  xmlns:local="http://dse-static.foo.bar">Procura und Firmae Trager
-               <br  xmlns:local="http://dse-static.foo.bar">Oblatorien und Avocatorien
-               <br  xmlns:local="http://dse-static.foo.bar">Fundi Ausweisung
-               <br  xmlns:local="http://dse-static.foo.bar">Der <span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__46919">Mayr</span> hat zu Ausweisung seines Fundi die orig: Inventur dd<span  xmlns:local="http://dse-static.foo.bar">to</span> 13<span  xmlns:local="http://dse-static.foo.bar">ten</span> Janu:
-               <br  xmlns:local="http://dse-static.foo.bar">738 N<span  xmlns:local="http://dse-static.foo.bar">o</span> 1616 eingeleget pr 4050 fl 55 x<span  xmlns:local="http://dse-static.foo.bar">r</span> wovon ihm die Helfte gehörig pr <span  xmlns:local="http://dse-static.foo.bar">2028 fl 55 x<span></span></span>r<span  xmlns:local="http://dse-static.foo.bar">2025</span>
-               <br  xmlns:local="http://dse-static.foo.bar">2025 fl 27 1/2 x<span  xmlns:local="http://dse-static.foo.bar">r</span>
-               <br  xmlns:local="http://dse-static.foo.bar">Dann ein von seiner Ehewirthin <span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__46921">Maria Clara</span> untern - Mart: 738
-               <br  xmlns:local="http://dse-static.foo.bar">ausgestelt certiorirtes orig: instrument N<span  xmlns:local="http://dse-static.foo.bar">o</span> 1617 das sie von der ihr gehörigen
-               <br  xmlns:local="http://dse-static.foo.bar"><span  xmlns:local="http://dse-static.foo.bar">ein</span> Halbscheid des Vermögens und der Handlung zur Sicherheit
-               <br  xmlns:local="http://dse-static.foo.bar">denen Creditoren gewidmet haben wolle 2000 fl
-               <br  xmlns:local="http://dse-static.foo.bar">Sa 4025 fl 27 1/2 x<span  xmlns:local="http://dse-static.foo.bar">r</span>
-               
-               
+            <div class="row">
+               <div class="col">
+                  <div style="width: 100%; height: 100%" id="osd_viewer"></div>
                </div>
-            
+               <div class="col">
+                  
+                  <div id="div__53">
+                     <span  xmlns:local="http://dse-static.foo.bar" class="anchor-pb"></span><span  xmlns:local="http://dse-static.foo.bar" class="pb" source="#facs_81">81</span>
+                     
+                     
+                     <br  xmlns:local="http://dse-static.foo.bar">626
+                     <br  xmlns:local="http://dse-static.foo.bar">Nahmen und Class
+                     <br  xmlns:local="http://dse-static.foo.bar"><span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__46919">Mayr Franz Benedict</span> burgerlicher Handlsmann
+                     <br  xmlns:local="http://dse-static.foo.bar">Firma ad Raggion
+                     <br  xmlns:local="http://dse-static.foo.bar"><span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__46920">Franz Benedict Mayr</span> laut Erklährung sine dato N<span  xmlns:local="http://dse-static.foo.bar">o</span> 582
+                     <br  xmlns:local="http://dse-static.foo.bar">Procura und Firmae Trager
+                     <br  xmlns:local="http://dse-static.foo.bar">Oblatorien und Avocatorien
+                     <br  xmlns:local="http://dse-static.foo.bar">Fundi Ausweisung
+                     <br  xmlns:local="http://dse-static.foo.bar">Der <span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__46919">Mayr</span> hat zu Ausweisung seines Fundi die orig: Inventur dd<span  xmlns:local="http://dse-static.foo.bar">to</span> 13<span  xmlns:local="http://dse-static.foo.bar">ten</span> Janu:
+                     <br  xmlns:local="http://dse-static.foo.bar">738 N<span  xmlns:local="http://dse-static.foo.bar">o</span> 1616 eingeleget pr 4050 fl 55 x<span  xmlns:local="http://dse-static.foo.bar">r</span> wovon ihm die Helfte gehörig pr <span  xmlns:local="http://dse-static.foo.bar">2028 fl 55 x<span></span></span>r<span  xmlns:local="http://dse-static.foo.bar">2025</span>
+                     <br  xmlns:local="http://dse-static.foo.bar">2025 fl 27 1/2 x<span  xmlns:local="http://dse-static.foo.bar">r</span>
+                     <br  xmlns:local="http://dse-static.foo.bar">Dann ein von seiner Ehewirthin <span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__46921">Maria Clara</span> untern - Mart: 738
+                     <br  xmlns:local="http://dse-static.foo.bar">ausgestelt certiorirtes orig: instrument N<span  xmlns:local="http://dse-static.foo.bar">o</span> 1617 das sie von der ihr gehörigen
+                     <br  xmlns:local="http://dse-static.foo.bar"><span  xmlns:local="http://dse-static.foo.bar">ein</span> Halbscheid des Vermögens und der Handlung zur Sicherheit
+                     <br  xmlns:local="http://dse-static.foo.bar">denen Creditoren gewidmet haben wolle 2000 fl
+                     <br  xmlns:local="http://dse-static.foo.bar">Sa 4025 fl 27 1/2 x<span  xmlns:local="http://dse-static.foo.bar">r</span>
+                     
+                     
+                     </div>
+                  </div>
+            </div>
             <p style="text-align:center;">
                <div class="footnotes" id="note__1"><a name="fn1"><a href="#fna_1"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">1</span></a></a>Wiener Merkantilprotokoll Nr. 1265</div>
                <div class="footnotes" id="note__1"><a name="fn2"><a href="#fna_2"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">2</span></a></a>Wiener Merkantilprotokoll Nr. 1265</div>
@@ -175,5 +180,15 @@
                 new Darkmode().showWidget();
             }
             window.addEventListener('load', addDarkmodeWidget);
-        </script><script src="https://unpkg.com/de-micro-editor@0.2.6/dist/de-editor.min.js"></script><script type="text/javascript" src="js/run.js"></script><script type="text/javascript" src="js/osd_single.js"></script></body>
+        </script><script type="text/javascript">
+                    var source = "https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1265.jpg";
+                    var viewer = OpenSeadragon({
+                    id: "osd_viewer",
+                    tileSources: {
+                    type: 'image',
+                    url: source
+                    },
+                    prefixUrl:"https://cdnjs.cloudflare.com/ajax/libs/openseadragon/2.4.1/images/",
+                    });
+                </script></body>
 </html>

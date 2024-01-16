@@ -20,8 +20,7 @@
                     .navBarNavDropdown ul li:nth-child(2) {
                         display: none !important;
                     }
-                </style>
-   </head>
+                </style><script src="https://cdnjs.cloudflare.com/ajax/libs/openseadragon/4.1.0/openseadragon.min.js"></script></head>
    <body class="d-flex flex-column h-100">
       <header >
          <nav class="navbar navbar-expand-lg bg-body-tertiary">
@@ -92,31 +91,37 @@
                   </div>
                </div>
             </div>
-            
-            <div id="div__46">
-               <span  xmlns:local="http://dse-static.foo.bar" class="anchor-pb"></span><span  xmlns:local="http://dse-static.foo.bar" class="pb" source="#facs_103">103</span>
-               
-               
-               <br  xmlns:local="http://dse-static.foo.bar">636
-               <br  xmlns:local="http://dse-static.foo.bar">Nahmen und Class
-               <br  xmlns:local="http://dse-static.foo.bar"><span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__46942">Munier Joseph</span> burgerlicher Handlsmann
-               <br  xmlns:local="http://dse-static.foo.bar">Firma ad Raggion
-               <br  xmlns:local="http://dse-static.foo.bar"><span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__46943">Joseph Munier</span> laut Erklährung sine dato N<span  xmlns:local="http://dse-static.foo.bar">o</span> 591 welche derselbe mitls
-               <br  xmlns:local="http://dse-static.foo.bar">Anbringen de ps: 11<span  xmlns:local="http://dse-static.foo.bar">ten</span> Junii 754 N<span  xmlns:local="http://dse-static.foo.bar">o</span> 592 eingeleget
-               <br  xmlns:local="http://dse-static.foo.bar">Procura und Firmae Trager
-               <br  xmlns:local="http://dse-static.foo.bar">Oblatorien und Avocatorien
-               <br  xmlns:local="http://dse-static.foo.bar">Fundi Ausweisung
-               <br  xmlns:local="http://dse-static.foo.bar">Der <span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__46942">Munier</span> hat zu ausweisung seines handlungsfundi den Extract
-               <br  xmlns:local="http://dse-static.foo.bar">aus seines Vatters untern 18<span  xmlns:local="http://dse-static.foo.bar">ten</span> 9br: 749 errichtet und untern 14<span  xmlns:local="http://dse-static.foo.bar">ten</span> Mart: 750
-               <br  xmlns:local="http://dse-static.foo.bar">publicirten testament in vidimus N<span  xmlns:local="http://dse-static.foo.bar">o</span> 1637 eingeleget kraft welchen <span  xmlns:local="http://dse-static.foo.bar">s</span> er selber §
-               <br  xmlns:local="http://dse-static.foo.bar">16t<span  xmlns:local="http://dse-static.foo.bar">ens</span> zum universal Erben gedacht seines Vatters instituiret worden
-               <br  xmlns:local="http://dse-static.foo.bar">wie auch eine von denen Vorstehern des burgerlichen Handlsstands untern 22<span  xmlns:local="http://dse-static.foo.bar">ten</span> Xbr:
-               <br  xmlns:local="http://dse-static.foo.bar">753 angesteltes attestatum N<span  xmlns:local="http://dse-static.foo.bar">o</span> 1638 das er <span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__46942">Munier</span> mehr dann den Institut-
-               <br  xmlns:local="http://dse-static.foo.bar">mäßigen Handlungs Fundum pr 8000 fl besize
-               
-               
+            <div class="row">
+               <div class="col">
+                  <div style="width: 100%; height: 100%" id="osd_viewer"></div>
                </div>
-            
+               <div class="col">
+                  
+                  <div id="div__46">
+                     <span  xmlns:local="http://dse-static.foo.bar" class="anchor-pb"></span><span  xmlns:local="http://dse-static.foo.bar" class="pb" source="#facs_103">103</span>
+                     
+                     
+                     <br  xmlns:local="http://dse-static.foo.bar">636
+                     <br  xmlns:local="http://dse-static.foo.bar">Nahmen und Class
+                     <br  xmlns:local="http://dse-static.foo.bar"><span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__46942">Munier Joseph</span> burgerlicher Handlsmann
+                     <br  xmlns:local="http://dse-static.foo.bar">Firma ad Raggion
+                     <br  xmlns:local="http://dse-static.foo.bar"><span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__46943">Joseph Munier</span> laut Erklährung sine dato N<span  xmlns:local="http://dse-static.foo.bar">o</span> 591 welche derselbe mitls
+                     <br  xmlns:local="http://dse-static.foo.bar">Anbringen de ps: 11<span  xmlns:local="http://dse-static.foo.bar">ten</span> Junii 754 N<span  xmlns:local="http://dse-static.foo.bar">o</span> 592 eingeleget
+                     <br  xmlns:local="http://dse-static.foo.bar">Procura und Firmae Trager
+                     <br  xmlns:local="http://dse-static.foo.bar">Oblatorien und Avocatorien
+                     <br  xmlns:local="http://dse-static.foo.bar">Fundi Ausweisung
+                     <br  xmlns:local="http://dse-static.foo.bar">Der <span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__46942">Munier</span> hat zu ausweisung seines handlungsfundi den Extract
+                     <br  xmlns:local="http://dse-static.foo.bar">aus seines Vatters untern 18<span  xmlns:local="http://dse-static.foo.bar">ten</span> 9br: 749 errichtet und untern 14<span  xmlns:local="http://dse-static.foo.bar">ten</span> Mart: 750
+                     <br  xmlns:local="http://dse-static.foo.bar">publicirten testament in vidimus N<span  xmlns:local="http://dse-static.foo.bar">o</span> 1637 eingeleget kraft welchen <span  xmlns:local="http://dse-static.foo.bar">s</span> er selber §
+                     <br  xmlns:local="http://dse-static.foo.bar">16t<span  xmlns:local="http://dse-static.foo.bar">ens</span> zum universal Erben gedacht seines Vatters instituiret worden
+                     <br  xmlns:local="http://dse-static.foo.bar">wie auch eine von denen Vorstehern des burgerlichen Handlsstands untern 22<span  xmlns:local="http://dse-static.foo.bar">ten</span> Xbr:
+                     <br  xmlns:local="http://dse-static.foo.bar">753 angesteltes attestatum N<span  xmlns:local="http://dse-static.foo.bar">o</span> 1638 das er <span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__46942">Munier</span> mehr dann den Institut-
+                     <br  xmlns:local="http://dse-static.foo.bar">mäßigen Handlungs Fundum pr 8000 fl besize
+                     
+                     
+                     </div>
+                  </div>
+            </div>
             <p style="text-align:center;">
                <div class="footnotes" id="note__1"><a name="fn1"><a href="#fna_1"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">1</span></a></a>Wiener Merkantilprotokoll Nr. 1287</div>
             </p>
@@ -152,5 +157,15 @@
                 new Darkmode().showWidget();
             }
             window.addEventListener('load', addDarkmodeWidget);
-        </script><script src="https://unpkg.com/de-micro-editor@0.2.6/dist/de-editor.min.js"></script><script type="text/javascript" src="js/run.js"></script><script type="text/javascript" src="js/osd_single.js"></script></body>
+        </script><script type="text/javascript">
+                    var source = "https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1287.jpg";
+                    var viewer = OpenSeadragon({
+                    id: "osd_viewer",
+                    tileSources: {
+                    type: 'image',
+                    url: source
+                    },
+                    prefixUrl:"https://cdnjs.cloudflare.com/ajax/libs/openseadragon/2.4.1/images/",
+                    });
+                </script></body>
 </html>

@@ -108,15 +108,12 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__25660">
+    <back><listPerson><person xml:id="wkfm__47377">
                      <persName>
-                        <forename>Franz</forename>
-                        <surname>Beda</surname>
+                        <forename>Johann Karl</forename>
+                        <surname>Ristlisch</surname>
                      </persName>
-                     <death><date>1776</date></death>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-0275.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0275</note><note target="wkfm-0276.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0276</note></noteGrp></person>
+               <noteGrp><note target="wkfm-0276.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0276</note></noteGrp></person>
                 <person xml:id="wkfm__43931">
                      <persName>
                         <forename>Maria Josepha</forename>
@@ -131,11 +128,14 @@
                      </persName>
                      <occupation>Handelsfrau</occupation>
                <noteGrp><note target="wkfm-0276.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0276</note></noteGrp></person>
-                <person xml:id="wkfm__47377">
+                <person xml:id="wkfm__25660">
                      <persName>
-                        <forename>Johann Karl</forename>
-                        <surname>Ristlisch</surname>
+                        <forename>Franz</forename>
+                        <surname>Beda</surname>
                      </persName>
-               <noteGrp><note target="wkfm-0276.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0276</note></noteGrp></person>
+                     <death><date>1776</date></death>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-0275.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0275</note><note target="wkfm-0276.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0276</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

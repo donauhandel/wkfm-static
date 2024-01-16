@@ -124,34 +124,23 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47168">
-                     <persName>
-                        <forename>Balthasar</forename>
-                        <surname>Vitius</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-0793.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0793</note></noteGrp></person>
-                <person xml:id="wkfm__47169">
-                     <persName>
-                        <forename>Franz Karl</forename>
-                        <surname>Sick</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-0793.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0793</note></noteGrp></person>
-                <person xml:id="wkfm__47170" sameAs="#wkfm__7347 ">
+    <back><listPerson><person xml:id="wkfm__47170" sameAs="#wkfm__7347 ">
                      <persName>
                         <forename>Johann Adam</forename>
                         <surname>Werner</surname>
                      </persName>
                <noteGrp><note target="wkfm-0793.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0793</note></noteGrp></person>
-                <person xml:id="wkfm__47165" sameAs="#wkfm__26310 ">
+                <person xml:id="wkfm__47168">
                      <persName>
-                        <forename>Joseph Niklas</forename>
+                        <forename>Balthasar</forename>
                         <surname>Vitius</surname>
                      </persName>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-                     <listBibl>
-                        <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 550 (Juni 1745).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
-                     </listBibl>
+               <noteGrp><note target="wkfm-0793.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0793</note></noteGrp></person>
+                <person xml:id="wkfm__47171" sameAs="#wkfm__7354 ">
+                     <persName>
+                        <forename>Sebastian</forename>
+                        <surname>Werner</surname>
+                     </persName>
                <noteGrp><note target="wkfm-0793.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0793</note></noteGrp></person>
                 <person xml:id="wkfm__17087">
                      <persName>
@@ -170,10 +159,21 @@
                      </persName>
                      <occupation>Handelsmann</occupation>
                <noteGrp><note target="wkfm-0793.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0793</note></noteGrp></person>
-                <person xml:id="wkfm__47171" sameAs="#wkfm__7354 ">
+                <person xml:id="wkfm__47165" sameAs="#wkfm__26310 ">
                      <persName>
-                        <forename>Sebastian</forename>
-                        <surname>Werner</surname>
+                        <forename>Joseph Niklas</forename>
+                        <surname>Vitius</surname>
+                     </persName>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+                     <listBibl>
+                        <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 550 (Juni 1745).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0793.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0793</note></noteGrp></person>
+                <person xml:id="wkfm__47169">
+                     <persName>
+                        <forename>Franz Karl</forename>
+                        <surname>Sick</surname>
                      </persName>
                <noteGrp><note target="wkfm-0793.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0793</note></noteGrp></person>
                 </listPerson></back></text>

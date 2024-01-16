@@ -105,7 +105,18 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47519">
+    <back><listPerson><person xml:id="wkfm__42309">
+                     <persName>
+                        <forename>Joseph Franz</forename>
+                        <surname>Gundian</surname>
+                     </persName>
+                     <occupation>Prokurist und Direktor der Firma Philipp Gundian sel. Erben, Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+                     <listBibl>
+                        <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 397 (12. April 1717).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0827.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0827</note><note target="wkfm-0828.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0828</note><note target="wkfm-1624.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1624</note></noteGrp></person>
+                <person xml:id="wkfm__47519">
                      <persName>
                         <forename>Johann Gottlieb</forename>
                         <surname>Schönthann</surname>
@@ -119,16 +130,5 @@
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 513 (Februar 1737: &amp;#34;Schenthan&amp;#34;). Zur Familie siehe von Pantz, Gewerken, 297-301.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1623.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1623</note><note target="wkfm-1624.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1624</note></noteGrp></person>
-                <person xml:id="wkfm__42309">
-                     <persName>
-                        <forename>Joseph Franz</forename>
-                        <surname>Gundian</surname>
-                     </persName>
-                     <occupation>Prokurist und Direktor der Firma Philipp Gundian sel. Erben, Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-                     <listBibl>
-                        <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 397 (12. April 1717).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-0827.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0827</note><note target="wkfm-0828.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0828</note><note target="wkfm-1624.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1624</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

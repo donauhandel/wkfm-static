@@ -139,6 +139,12 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 469 (Juli 1733).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0283.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0283</note><note target="wkfm-1315.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1315</note><note target="wkfm-1316.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1316</note></noteGrp></person>
+                <person xml:id="wkfm__46668">
+                     <persName>
+                        <forename>None</forename>
+                        <surname>Salvini</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-1316.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1316</note></noteGrp></person>
                 <person xml:id="wkfm__4528" sameAs="#wkfm__44892 ">
                      <persName>
                         <forename>Bartholomäus</forename>
@@ -154,11 +160,5 @@
 .&amp;lt;/div&amp;gt;&amp;lt;div&amp;gt;Harrer-Lucienfeld, Wien, seiner Häuser, Bd. 6.1, S. 210-211.&amp;lt;/div&amp;gt;&amp;lt;div&amp;gt;Huchler, Bürgeraufnahmen, 101 (13. Juli 1707).&amp;lt;br&amp;gt;&amp;lt;/div&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0122.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0122</note><note target="wkfm-0123.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0123</note><note target="wkfm-0287.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0287</note><note target="wkfm-1316.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1316</note></noteGrp></person>
-                <person xml:id="wkfm__46668">
-                     <persName>
-                        <forename>None</forename>
-                        <surname>Salvini</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-1316.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1316</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

@@ -20,8 +20,7 @@
                     .navBarNavDropdown ul li:nth-child(2) {
                         display: none !important;
                     }
-                </style>
-   </head>
+                </style><script src="https://cdnjs.cloudflare.com/ajax/libs/openseadragon/4.1.0/openseadragon.min.js"></script></head>
    <body class="d-flex flex-column h-100">
       <header >
          <nav class="navbar navbar-expand-lg bg-body-tertiary">
@@ -92,34 +91,40 @@
                   </div>
                </div>
             </div>
-            
-            <div id="div__50">
-               <span  xmlns:local="http://dse-static.foo.bar" class="anchor-pb"></span><span  xmlns:local="http://dse-static.foo.bar" class="pb" source="#facs_133">133</span>
-               
-               
-               <br  xmlns:local="http://dse-static.foo.bar">Nahmen und Class
-               <br  xmlns:local="http://dse-static.foo.bar"><span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__46148">Korber Joseph</span> burgerlicher Handlsmann
-               <br  xmlns:local="http://dse-static.foo.bar">Firma ad Raggion
-               <br  xmlns:local="http://dse-static.foo.bar"><span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__47255">Joseph Korber</span> laut Erklährung sine dato N<span  xmlns:local="http://dse-static.foo.bar">o</span> 222.
-               <br  xmlns:local="http://dse-static.foo.bar">Procura und Firmae Trager
-               <br  xmlns:local="http://dse-static.foo.bar">Oblatorien und Avocatorien
-               <br  xmlns:local="http://dse-static.foo.bar">Fundi Ausweisung
-               <br  xmlns:local="http://dse-static.foo.bar">Der <span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__46148">Korber</span> hat zu ausweisung seines Fundi ein von der <span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__46149">Johanna Tribau-
-                  merin</span> untern 2<span  xmlns:local="http://dse-static.foo.bar">ten</span> Febr: 743 ausgesteltes orig: attestatum N<span  xmlns:local="http://dse-static.foo.bar">o</span> 1301 daß er bey
-               <br  xmlns:local="http://dse-static.foo.bar">ihr in der Handlung stehen habe <span  xmlns:local="http://dse-static.foo.bar">3700 fl</span> 3700 fl
-               <br  xmlns:local="http://dse-static.foo.bar">Dann ein von eben derselben ausgesteltes orig: laut Instrument
-               <br  xmlns:local="http://dse-static.foo.bar">dd<span  xmlns:local="http://dse-static.foo.bar">to</span> 7 Febr: 743 N<span  xmlns:local="http://dse-static.foo.bar">o</span> 1302 daß sie biß zu beybringung der Certifi-
-               <br  xmlns:local="http://dse-static.foo.bar">catino deren von dem <span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__46148">Korber</span> einzunehmen habenden 4000 fl hafften wolle
-               <br  xmlns:local="http://dse-static.foo.bar">für 4000 fl
-               <br  xmlns:local="http://dse-static.foo.bar">SummaSa 7700 fl
-               <br  xmlns:local="http://dse-static.foo.bar">NB:
-               <br  xmlns:local="http://dse-static.foo.bar">Sub nro 1302 1/2 findet sich der beym ver-
-               <br  xmlns:local="http://dse-static.foo.bar">fall seiner Handlung erstettete Bericht, und
-               <br  xmlns:local="http://dse-static.foo.bar">Handlungs Billanz.
-               
-               
+            <div class="row">
+               <div class="col">
+                  <div style="width: 100%; height: 100%" id="osd_viewer"></div>
                </div>
-            
+               <div class="col">
+                  
+                  <div id="div__50">
+                     <span  xmlns:local="http://dse-static.foo.bar" class="anchor-pb"></span><span  xmlns:local="http://dse-static.foo.bar" class="pb" source="#facs_133">133</span>
+                     
+                     
+                     <br  xmlns:local="http://dse-static.foo.bar">Nahmen und Class
+                     <br  xmlns:local="http://dse-static.foo.bar"><span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__46148">Korber Joseph</span> burgerlicher Handlsmann
+                     <br  xmlns:local="http://dse-static.foo.bar">Firma ad Raggion
+                     <br  xmlns:local="http://dse-static.foo.bar"><span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__47255">Joseph Korber</span> laut Erklährung sine dato N<span  xmlns:local="http://dse-static.foo.bar">o</span> 222.
+                     <br  xmlns:local="http://dse-static.foo.bar">Procura und Firmae Trager
+                     <br  xmlns:local="http://dse-static.foo.bar">Oblatorien und Avocatorien
+                     <br  xmlns:local="http://dse-static.foo.bar">Fundi Ausweisung
+                     <br  xmlns:local="http://dse-static.foo.bar">Der <span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__46148">Korber</span> hat zu ausweisung seines Fundi ein von der <span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__46149">Johanna Tribau-
+                        merin</span> untern 2<span  xmlns:local="http://dse-static.foo.bar">ten</span> Febr: 743 ausgesteltes orig: attestatum N<span  xmlns:local="http://dse-static.foo.bar">o</span> 1301 daß er bey
+                     <br  xmlns:local="http://dse-static.foo.bar">ihr in der Handlung stehen habe <span  xmlns:local="http://dse-static.foo.bar">3700 fl</span> 3700 fl
+                     <br  xmlns:local="http://dse-static.foo.bar">Dann ein von eben derselben ausgesteltes orig: laut Instrument
+                     <br  xmlns:local="http://dse-static.foo.bar">dd<span  xmlns:local="http://dse-static.foo.bar">to</span> 7 Febr: 743 N<span  xmlns:local="http://dse-static.foo.bar">o</span> 1302 daß sie biß zu beybringung der Certifi-
+                     <br  xmlns:local="http://dse-static.foo.bar">catino deren von dem <span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__46148">Korber</span> einzunehmen habenden 4000 fl hafften wolle
+                     <br  xmlns:local="http://dse-static.foo.bar">für 4000 fl
+                     <br  xmlns:local="http://dse-static.foo.bar">SummaSa 7700 fl
+                     <br  xmlns:local="http://dse-static.foo.bar">NB:
+                     <br  xmlns:local="http://dse-static.foo.bar">Sub nro 1302 1/2 findet sich der beym ver-
+                     <br  xmlns:local="http://dse-static.foo.bar">fall seiner Handlung erstettete Bericht, und
+                     <br  xmlns:local="http://dse-static.foo.bar">Handlungs Billanz.
+                     
+                     
+                     </div>
+                  </div>
+            </div>
             <p style="text-align:center;">
                <div class="footnotes" id="note__1"><a name="fn1"><a href="#fna_1"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">1</span></a></a>Wiener Merkantilprotokoll Nr. 0453</div>
                <div class="footnotes" id="note__1"><a name="fn2"><a href="#fna_2"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">2</span></a></a>Wiener Merkantilprotokoll Nr. 0453</div>
@@ -178,5 +183,15 @@
                 new Darkmode().showWidget();
             }
             window.addEventListener('load', addDarkmodeWidget);
-        </script><script src="https://unpkg.com/de-micro-editor@0.2.6/dist/de-editor.min.js"></script><script type="text/javascript" src="js/run.js"></script><script type="text/javascript" src="js/osd_single.js"></script></body>
+        </script><script type="text/javascript">
+                    var source = "https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0453.jpg";
+                    var viewer = OpenSeadragon({
+                    id: "osd_viewer",
+                    tileSources: {
+                    type: 'image',
+                    url: source
+                    },
+                    prefixUrl:"https://cdnjs.cloudflare.com/ajax/libs/openseadragon/2.4.1/images/",
+                    });
+                </script></body>
 </html>

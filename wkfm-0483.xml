@@ -127,17 +127,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46176">
-                     <persName>
-                        <forename>Joseph</forename>
-                        <surname>Kraschink</surname>
-                        <surname type="alt">Kraschinkh</surname>
-                     </persName>
-                     <death><date>1781</date></death>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-0483.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0483</note></noteGrp></person>
-                <person xml:id="wkfm__13628">
+    <back><listPerson><person xml:id="wkfm__13628">
                      <persName>
                         <forename>Johann Georg</forename>
                         <surname>Reintaler</surname>
@@ -161,6 +151,16 @@
                         <forename>Jakob</forename>
                         <surname>Kraschink</surname>
                      </persName>
+               <noteGrp><note target="wkfm-0483.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0483</note></noteGrp></person>
+                <person xml:id="wkfm__46176">
+                     <persName>
+                        <forename>Joseph</forename>
+                        <surname>Kraschink</surname>
+                        <surname type="alt">Kraschinkh</surname>
+                     </persName>
+                     <death><date>1781</date></death>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0483.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0483</note></noteGrp></person>
                 <person xml:id="wkfm__46178">
                      <persName>

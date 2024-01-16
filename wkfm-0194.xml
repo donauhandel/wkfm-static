@@ -168,25 +168,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__8593">
-                     <persName>
-                        <forename>Johann Maria</forename>
-                        <surname>von Tinti</surname>
-                        <surname type="alt">Tinti</surname>
-                     </persName>
-                     <death><date>1733</date></death>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-               <noteGrp><note target="wkfm-0194.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0194</note><note target="wkfm-0195.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0195</note><note target="wkfm-0997.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0997</note><note target="wkfm-0998.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0998</note><note target="wkfm-1471.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1471</note><note target="wkfm-1472.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1472</note></noteGrp></person>
-                <person xml:id="wkfm__16922">
-                     <persName>
-                        <forename>Maximilian</forename>
-                        <forename type="alt">Johann Maximilian</forename>
-                        <surname>Hochmayr</surname>
-                     </persName>
-                     <occupation>Handelsmann, Prokurist des Johann Anton Bormastino d. J.</occupation>
-               <noteGrp><note target="wkfm-0194.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0194</note><note target="wkfm-0195.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0195</note><note target="wkfm-0777.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0777</note></noteGrp></person>
-                <person xml:id="wkfm__43904" sameAs="#wkfm__10646 ">
+    <back><listPerson><person xml:id="wkfm__43904" sameAs="#wkfm__10646 ">
                      <persName>
                         <forename>Franz Ferdinand</forename>
                         <surname>Klaninger von Klanberg</surname>
@@ -204,15 +186,24 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
                <noteGrp><note target="wkfm-0194.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0194</note><note target="wkfm-0195.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0195</note><note target="wkfm-1471.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1471</note><note target="wkfm-1472.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1472</note></noteGrp></person>
-                <person xml:id="wkfm__15300">
+                <person xml:id="wkfm__8593">
                      <persName>
-                        <forename>Johann Anton</forename>
-                        <surname>Bormastini</surname>
-                        <surname type="alt">Bormastino</surname>
+                        <forename>Johann Maria</forename>
+                        <surname>von Tinti</surname>
+                        <surname type="alt">Tinti</surname>
                      </persName>
-                     <occupation>Handelsmann, Prokurist für Johann Anton Bormastino d. J.</occupation>
+                     <death><date>1733</date></death>
+                     <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-               <noteGrp><note target="wkfm-0076.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0076</note><note target="wkfm-0077.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0077</note><note target="wkfm-0078.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0078</note><note target="wkfm-0079.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0079</note><note target="wkfm-0194.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0194</note><note target="wkfm-0791.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0791</note></noteGrp></person>
+               <noteGrp><note target="wkfm-0194.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0194</note><note target="wkfm-0195.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0195</note><note target="wkfm-0997.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0997</note><note target="wkfm-0998.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0998</note><note target="wkfm-1471.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1471</note><note target="wkfm-1472.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1472</note></noteGrp></person>
+                <person xml:id="wkfm__16922">
+                     <persName>
+                        <forename>Maximilian</forename>
+                        <forename type="alt">Johann Maximilian</forename>
+                        <surname>Hochmayr</surname>
+                     </persName>
+                     <occupation>Handelsmann, Prokurist des Johann Anton Bormastino d. J.</occupation>
+               <noteGrp><note target="wkfm-0194.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0194</note><note target="wkfm-0195.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0195</note><note target="wkfm-0777.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0777</note></noteGrp></person>
                 <person xml:id="wkfm__36354">
                      <persName>
                         <forename>Johann Anton</forename>
@@ -224,5 +215,14 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
                <noteGrp><note target="wkfm-0194.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0194</note><note target="wkfm-0195.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0195</note><note target="wkfm-1471.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1471</note><note target="wkfm-1472.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1472</note></noteGrp></person>
+                <person xml:id="wkfm__15300">
+                     <persName>
+                        <forename>Johann Anton</forename>
+                        <surname>Bormastini</surname>
+                        <surname type="alt">Bormastino</surname>
+                     </persName>
+                     <occupation>Handelsmann, Prokurist für Johann Anton Bormastino d. J.</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+               <noteGrp><note target="wkfm-0076.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0076</note><note target="wkfm-0077.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0077</note><note target="wkfm-0078.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0078</note><note target="wkfm-0079.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0079</note><note target="wkfm-0194.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0194</note><note target="wkfm-0791.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0791</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

@@ -119,7 +119,15 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46162">
+    <back><listPerson><person xml:id="wkfm__46161">
+                     <persName>
+                        <forename>Ferdinand</forename>
+                        <surname>Kerndler</surname>
+                     </persName>
+                     <occupation>Tuchhändler, Angestellter bei Franz Joseph Ferner</occupation>
+                     <occupation type="kaufmannsklasse">tuchlaubensverwandt/bürgerlich</occupation>
+               <noteGrp><note target="wkfm-0465.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0465</note></noteGrp></person>
+                <person xml:id="wkfm__46162">
                      <persName>
                         <forename>Johann Georg</forename>
                         <surname>Höcker</surname>
@@ -127,20 +135,18 @@
                      <occupation>Tuchhändler</occupation>
                      <occupation type="kaufmannsklasse">tuchlaubensverwandt/bürgerlich</occupation>
                <noteGrp><note target="wkfm-0465.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0465</note><note target="wkfm-1043.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1043</note><note target="wkfm-1044.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1044</note></noteGrp></person>
+                <person xml:id="wkfm__46164">
+                     <persName>
+                        <forename>Johann Willibald</forename>
+                        <surname>Schiettler</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0465.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0465</note></noteGrp></person>
                 <person xml:id="wkfm__46163">
                      <persName>
                         <forename>Thomas Franz</forename>
                         <surname>Höcker</surname>
                         <surname type="alt"/>
                      </persName>
-               <noteGrp><note target="wkfm-0465.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0465</note></noteGrp></person>
-                <person xml:id="wkfm__46161">
-                     <persName>
-                        <forename>Ferdinand</forename>
-                        <surname>Kerndler</surname>
-                     </persName>
-                     <occupation>Tuchhändler, Angestellter bei Franz Joseph Ferner</occupation>
-                     <occupation type="kaufmannsklasse">tuchlaubensverwandt/bürgerlich</occupation>
                <noteGrp><note target="wkfm-0465.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0465</note></noteGrp></person>
                 <person xml:id="wkfm__37670">
                      <persName>
@@ -151,11 +157,5 @@
                      <occupation>Tuchhändler</occupation>
                      <occupation type="kaufmannsklasse">tuchlaubensverwandt/bürgerlich</occupation>
                <noteGrp><note target="wkfm-0465.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0465</note><note target="wkfm-0671.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0671</note><note target="wkfm-0672.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0672</note></noteGrp></person>
-                <person xml:id="wkfm__46164">
-                     <persName>
-                        <forename>Johann Willibald</forename>
-                        <surname>Schiettler</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-0465.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0465</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

@@ -96,21 +96,21 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43611">
+    <back><listPerson><person xml:id="wkfm__12636">
+                     <persName>
+                        <forename>Franz Anton</forename>
+                        <surname>Wolf</surname>
+                     </persName>
+                     <occupation>Spiegelhändler</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-1717.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1717</note><note target="wkfm-1718.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1718</note></noteGrp></person>
+                <person xml:id="wkfm__43611">
                      <persName>
                         <forename>Johann Heinrich</forename>
                         <surname>Rang</surname>
                      </persName>
                      <death><date>1749</date></death>
                      <occupation>Handelsmann, Spiegelhändler</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-1717.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1717</note><note target="wkfm-1718.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1718</note></noteGrp></person>
-                <person xml:id="wkfm__12636">
-                     <persName>
-                        <forename>Franz Anton</forename>
-                        <surname>Wolf</surname>
-                     </persName>
-                     <occupation>Spiegelhändler</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1717.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1717</note><note target="wkfm-1718.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1718</note></noteGrp></person>
                 </listPerson></back></text>

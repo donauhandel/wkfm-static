@@ -111,15 +111,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47487">
-                     <persName>
-                        <forename>Maria Josepha</forename>
-                        <surname>Sallietin</surname>
-                        <surname type="alt">Stidl</surname>
-                        <surname type="alt">Sallietin</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-1582.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1582</note></noteGrp></person>
-                <person xml:id="wkfm__23508">
+    <back><listPerson><person xml:id="wkfm__23508">
                      <persName>
                         <forename>Joseph</forename>
                         <surname>Stidl</surname>
@@ -128,5 +120,13 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1581.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1581</note><note target="wkfm-1582.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1582</note></noteGrp></person>
+                <person xml:id="wkfm__47487">
+                     <persName>
+                        <forename>Maria Josepha</forename>
+                        <surname>Sallietin</surname>
+                        <surname type="alt">Stidl</surname>
+                        <surname type="alt">Sallietin</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-1582.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1582</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

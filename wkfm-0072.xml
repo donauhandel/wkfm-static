@@ -105,19 +105,19 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__9414">
+    <back><listPerson><person xml:id="wkfm__43817">
                      <persName>
-                        <forename>Paul</forename>
+                        <forename>Anton</forename>
                         <surname>Piecchenini</surname>
-                        <surname type="alt">Bichenini</surname>
                      </persName>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                <noteGrp><note target="wkfm-0072.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0072</note><note target="wkfm-0073.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0073</note></noteGrp></person>
-                <person xml:id="wkfm__43817">
+                <person xml:id="wkfm__9414">
                      <persName>
-                        <forename>Anton</forename>
+                        <forename>Paul</forename>
                         <surname>Piecchenini</surname>
+                        <surname type="alt">Bichenini</surname>
                      </persName>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>

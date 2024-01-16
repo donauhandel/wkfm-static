@@ -104,15 +104,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47356">
-                     <persName>
-                        <forename>Maria Anna</forename>
-                        <surname>Freisin [?]</surname>
-                        <surname type="alt">Freißin [?]</surname>
-                        <surname type="alt">Piller</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-0230.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0230</note></noteGrp></person>
-                <person xml:id="wkfm__22485">
+    <back><listPerson><person xml:id="wkfm__22485">
                      <persName>
                         <forename>Matthias</forename>
                         <surname>Piller</surname>
@@ -130,6 +122,14 @@
                         <surname>Rorwiser</surname>
                      </persName>
                      <occupation>Handelsmann</occupation>
+               <noteGrp><note target="wkfm-0230.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0230</note></noteGrp></person>
+                <person xml:id="wkfm__47356">
+                     <persName>
+                        <forename>Maria Anna</forename>
+                        <surname>Freisin [?]</surname>
+                        <surname type="alt">Freißin [?]</surname>
+                        <surname type="alt">Piller</surname>
+                     </persName>
                <noteGrp><note target="wkfm-0230.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0230</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

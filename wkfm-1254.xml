@@ -98,15 +98,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46902">
-                     <persName>
-                        <forename>Georg Wilhelm</forename>
-                        <surname>Plattensteiner</surname>
-                     </persName>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-               <noteGrp><note target="wkfm-1254.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1254</note></noteGrp></person>
-                <person xml:id="wkfm__8413" sameAs="#wkfm__21745 ">
+    <back><listPerson><person xml:id="wkfm__8413" sameAs="#wkfm__21745 ">
                      <persName>
                         <forename>Johann Cornelius</forename>
                         <surname>Marei</surname>
@@ -115,5 +107,13 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                <noteGrp><note target="wkfm-1253.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1253</note><note target="wkfm-1254.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1254</note></noteGrp></person>
+                <person xml:id="wkfm__46902">
+                     <persName>
+                        <forename>Georg Wilhelm</forename>
+                        <surname>Plattensteiner</surname>
+                     </persName>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+               <noteGrp><note target="wkfm-1254.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1254</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

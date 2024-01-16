@@ -20,8 +20,7 @@
                     .navBarNavDropdown ul li:nth-child(2) {
                         display: none !important;
                     }
-                </style>
-   </head>
+                </style><script src="https://cdnjs.cloudflare.com/ajax/libs/openseadragon/4.1.0/openseadragon.min.js"></script></head>
    <body class="d-flex flex-column h-100">
       <header >
          <nav class="navbar navbar-expand-lg bg-body-tertiary">
@@ -92,32 +91,38 @@
                   </div>
                </div>
             </div>
-            
-            <div id="div__48">
-               <span  xmlns:local="http://dse-static.foo.bar" class="anchor-pb"></span><span  xmlns:local="http://dse-static.foo.bar" class="pb" source="#facs_159">159</span>
-               
-               
-               <br  xmlns:local="http://dse-static.foo.bar">237
-               <br  xmlns:local="http://dse-static.foo.bar">Nahmen und Class
-               <br  xmlns:local="http://dse-static.foo.bar"><span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__41747">Kittler Johann</span> burgerlicher Handlsmann
-               <br  xmlns:local="http://dse-static.foo.bar">Firma ad Raggion
-               <br  xmlns:local="http://dse-static.foo.bar"><span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__47262">Johann Kittler</span> laut Erklährung sine dato N<span  xmlns:local="http://dse-static.foo.bar">o</span> 239 welche
-               <br  xmlns:local="http://dse-static.foo.bar">derselbe mitls Anbringen <span  xmlns:local="http://dse-static.foo.bar">No</span> de ps: 22<span  xmlns:local="http://dse-static.foo.bar">ten</span> Junii 754 N<span  xmlns:local="http://dse-static.foo.bar">o</span> 240 eingeleget
-               <br  xmlns:local="http://dse-static.foo.bar">Vermög Anbringen de ps: 21<span  xmlns:local="http://dse-static.foo.bar">ten</span> Aprilis 760 hat die <span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__46173">Johann Kittler sel. Wittib</span> ihre
-               <br  xmlns:local="http://dse-static.foo.bar">Firma eingelegt nro 240 1/2
-               <br  xmlns:local="http://dse-static.foo.bar">Procura und Firmae Trager
-               <br  xmlns:local="http://dse-static.foo.bar">Oblatorien und Avocatorien
-               <br  xmlns:local="http://dse-static.foo.bar">Fundi Ausweisung
-               <br  xmlns:local="http://dse-static.foo.bar">Der <span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__41747">Kittler</span> hat zu Ausweisung seines Fundi das <span  xmlns:local="http://dse-static.foo.bar">orig:</span> von seinem
-               <br  xmlns:local="http://dse-static.foo.bar">Vattern <span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__46117">Stephan Kittler</span> untern 14<span  xmlns:local="http://dse-static.foo.bar">ten</span> Junii 757 <span  xmlns:local="http://dse-static.foo.bar">No auf</span> samentliche
-               <br  xmlns:local="http://dse-static.foo.bar">Requisita ausgestelte orig: Cautions Instrument <span  xmlns:local="http://dse-static.foo.bar">ddto</span> N<span  xmlns:local="http://dse-static.foo.bar">o</span> 1330 einge-
-               <br  xmlns:local="http://dse-static.foo.bar">leget
-               <br  xmlns:local="http://dse-static.foo.bar">Hiebey befinden sich annoch 2 Anbringen wegen Annehmung des Supl: N<span  xmlns:local="http://dse-static.foo.bar">o</span>
-               <br  xmlns:local="http://dse-static.foo.bar">1331 et 1332
-               
-               
+            <div class="row">
+               <div class="col">
+                  <div style="width: 100%; height: 100%" id="osd_viewer"></div>
                </div>
-            
+               <div class="col">
+                  
+                  <div id="div__48">
+                     <span  xmlns:local="http://dse-static.foo.bar" class="anchor-pb"></span><span  xmlns:local="http://dse-static.foo.bar" class="pb" source="#facs_159">159</span>
+                     
+                     
+                     <br  xmlns:local="http://dse-static.foo.bar">237
+                     <br  xmlns:local="http://dse-static.foo.bar">Nahmen und Class
+                     <br  xmlns:local="http://dse-static.foo.bar"><span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__41747">Kittler Johann</span> burgerlicher Handlsmann
+                     <br  xmlns:local="http://dse-static.foo.bar">Firma ad Raggion
+                     <br  xmlns:local="http://dse-static.foo.bar"><span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__47262">Johann Kittler</span> laut Erklährung sine dato N<span  xmlns:local="http://dse-static.foo.bar">o</span> 239 welche
+                     <br  xmlns:local="http://dse-static.foo.bar">derselbe mitls Anbringen <span  xmlns:local="http://dse-static.foo.bar">No</span> de ps: 22<span  xmlns:local="http://dse-static.foo.bar">ten</span> Junii 754 N<span  xmlns:local="http://dse-static.foo.bar">o</span> 240 eingeleget
+                     <br  xmlns:local="http://dse-static.foo.bar">Vermög Anbringen de ps: 21<span  xmlns:local="http://dse-static.foo.bar">ten</span> Aprilis 760 hat die <span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__46173">Johann Kittler sel. Wittib</span> ihre
+                     <br  xmlns:local="http://dse-static.foo.bar">Firma eingelegt nro 240 1/2
+                     <br  xmlns:local="http://dse-static.foo.bar">Procura und Firmae Trager
+                     <br  xmlns:local="http://dse-static.foo.bar">Oblatorien und Avocatorien
+                     <br  xmlns:local="http://dse-static.foo.bar">Fundi Ausweisung
+                     <br  xmlns:local="http://dse-static.foo.bar">Der <span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__41747">Kittler</span> hat zu Ausweisung seines Fundi das <span  xmlns:local="http://dse-static.foo.bar">orig:</span> von seinem
+                     <br  xmlns:local="http://dse-static.foo.bar">Vattern <span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__46117">Stephan Kittler</span> untern 14<span  xmlns:local="http://dse-static.foo.bar">ten</span> Junii 757 <span  xmlns:local="http://dse-static.foo.bar">No auf</span> samentliche
+                     <br  xmlns:local="http://dse-static.foo.bar">Requisita ausgestelte orig: Cautions Instrument <span  xmlns:local="http://dse-static.foo.bar">ddto</span> N<span  xmlns:local="http://dse-static.foo.bar">o</span> 1330 einge-
+                     <br  xmlns:local="http://dse-static.foo.bar">leget
+                     <br  xmlns:local="http://dse-static.foo.bar">Hiebey befinden sich annoch 2 Anbringen wegen Annehmung des Supl: N<span  xmlns:local="http://dse-static.foo.bar">o</span>
+                     <br  xmlns:local="http://dse-static.foo.bar">1331 et 1332
+                     
+                     
+                     </div>
+                  </div>
+            </div>
             <p style="text-align:center;">
                <div class="footnotes" id="note__1"><a name="fn1"><a href="#fna_1"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">1</span></a></a>Wiener Merkantilprotokoll Nr. 0391</div>
                <div class="footnotes" id="note__2"><a name="fn2"><a href="#fna_2"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">2</span></a></a>Wiener Merkantilprotokoll Nr. 0392</div>
@@ -201,5 +206,15 @@
                 new Darkmode().showWidget();
             }
             window.addEventListener('load', addDarkmodeWidget);
-        </script><script src="https://unpkg.com/de-micro-editor@0.2.6/dist/de-editor.min.js"></script><script type="text/javascript" src="js/run.js"></script><script type="text/javascript" src="js/osd_single.js"></script></body>
+        </script><script type="text/javascript">
+                    var source = "https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0479.jpg";
+                    var viewer = OpenSeadragon({
+                    id: "osd_viewer",
+                    tileSources: {
+                    type: 'image',
+                    url: source
+                    },
+                    prefixUrl:"https://cdnjs.cloudflare.com/ajax/libs/openseadragon/2.4.1/images/",
+                    });
+                </script></body>
 </html>

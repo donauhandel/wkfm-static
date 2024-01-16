@@ -121,7 +121,20 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46953">
+    <back><listPerson><person xml:id="wkfm__46950">
+                     <persName>
+                        <forename>Arnold Philipp</forename>
+                        <surname>de Wenzelli</surname>
+                        <surname type="alt">von Wenzelli</surname>
+                     </persName>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">hofbefreit</occupation>
+                     <occupation type="aemter">Rat am NÖ Judicium Appellatorium Mercantile</occupation>
+                     <listBibl>
+                        <bibl>Staats- und Standeskalender 1723, 241.&amp;lt;br&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-1622.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1622</note><note target="wkfm-1711.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1711</note><note target="wkfm-1712.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1712</note></noteGrp></person>
+                <person xml:id="wkfm__46953">
                      <persName>
                         <forename>Dominicus</forename>
                         <surname>Barbuzzi</surname>
@@ -139,18 +152,5 @@
                      <occupation>Handelsmann, Wechsler</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
                <noteGrp><note target="wkfm-1711.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1711</note><note target="wkfm-1712.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1712</note></noteGrp></person>
-                <person xml:id="wkfm__46950">
-                     <persName>
-                        <forename>Arnold Philipp</forename>
-                        <surname>de Wenzelli</surname>
-                        <surname type="alt">von Wenzelli</surname>
-                     </persName>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">hofbefreit</occupation>
-                     <occupation type="aemter">Rat am NÖ Judicium Appellatorium Mercantile</occupation>
-                     <listBibl>
-                        <bibl>Staats- und Standeskalender 1723, 241.&amp;lt;br&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-1622.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1622</note><note target="wkfm-1711.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1711</note><note target="wkfm-1712.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1712</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

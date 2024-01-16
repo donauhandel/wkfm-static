@@ -128,15 +128,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47554">
-                     <persName>
-                        <forename>Johann</forename>
-                        <surname>Pernat</surname>
-                     </persName>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-               <noteGrp><note target="wkfm-1651.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1651</note><note target="wkfm-1652.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1652</note></noteGrp></person>
-                <person xml:id="wkfm__46153">
+    <back><listPerson><person xml:id="wkfm__46153">
                      <persName>
                         <forename>Claudio</forename>
                         <surname>Salliet</surname>
@@ -150,6 +142,14 @@
                         <surname>Salliet</surname>
                      </persName>
                      <death><date>1782</date></death>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+               <noteGrp><note target="wkfm-1651.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1651</note><note target="wkfm-1652.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1652</note></noteGrp></person>
+                <person xml:id="wkfm__47554">
+                     <persName>
+                        <forename>Johann</forename>
+                        <surname>Pernat</surname>
+                     </persName>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                <noteGrp><note target="wkfm-1651.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1651</note><note target="wkfm-1652.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1652</note></noteGrp></person>

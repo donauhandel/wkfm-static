@@ -20,8 +20,7 @@
                     .navBarNavDropdown ul li:nth-child(2) {
                         display: none !important;
                     }
-                </style>
-   </head>
+                </style><script src="https://cdnjs.cloudflare.com/ajax/libs/openseadragon/4.1.0/openseadragon.min.js"></script></head>
    <body class="d-flex flex-column h-100">
       <header >
          <nav class="navbar navbar-expand-lg bg-body-tertiary">
@@ -92,60 +91,44 @@
                   </div>
                </div>
             </div>
-            
-            <div id="div__51">
-               <span  xmlns:local="http://dse-static.foo.bar" class="anchor-pb"></span><span  xmlns:local="http://dse-static.foo.bar" class="pb" source="#facs_95">95</span>
-               
-               
-               <br  xmlns:local="http://dse-static.foo.bar">451
-               <br  xmlns:local="http://dse-static.foo.bar">Nahmen und Class
-               <br  xmlns:local="http://dse-static.foo.bar"><span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__46385">Grueber Andre</span> burgerlicher Tuchlaubens Verwanter
-               <br  xmlns:local="http://dse-static.foo.bar">Firma ad Raggion
-               <br  xmlns:local="http://dse-static.foo.bar"><span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__46386">Andreas Gruber</span> laut anbringen de ps: 27<span  xmlns:local="http://dse-static.foo.bar">ten</span> Febr: 755 N<span  xmlns:local="http://dse-static.foo.bar">o</span> 424
-               <br  xmlns:local="http://dse-static.foo.bar">Procura und Firmae Trager
-               <br  xmlns:local="http://dse-static.foo.bar">Oblatorien und Avocatorien
-               <br  xmlns:local="http://dse-static.foo.bar">Fundi Ausweisung
-               <br  xmlns:local="http://dse-static.foo.bar">Der <span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__46385">Grueber</span> hat mitls Anbringen de ps: 23<span  xmlns:local="http://dse-static.foo.bar">ten</span> Janu: 755 N<span  xmlns:local="http://dse-static.foo.bar">o</span> 1493
-               <br  xmlns:local="http://dse-static.foo.bar">seinen Fundum folgendermaßen ausgewisen nemlich daß selber
-               <br  xmlns:local="http://dse-static.foo.bar">vermög der in dem mit der <span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__46387">Maria Elisabeth Vethin</span> untern 18<span  xmlns:local="http://dse-static.foo.bar">ten</span> 8br:
-               <br  xmlns:local="http://dse-static.foo.bar">754 errichteten orig: Kaufcontract N<span  xmlns:local="http://dse-static.foo.bar">o</span> 1494 beygeruckten Quittung
-               <br  xmlns:local="http://dse-static.foo.bar">an handlungs Kaufschilling allschon abgeführet habe 6653 fl 9 x<span  xmlns:local="http://dse-static.foo.bar">r</span>
-               <br  xmlns:local="http://dse-static.foo.bar"><span  xmlns:local="http://dse-static.foo.bar">dann</span> anbey <span  xmlns:local="http://dse-static.foo.bar">einen bürgen</span> der Verkauferin einen bürgen pr 8000 fl
-               <br  xmlns:local="http://dse-static.foo.bar">gestellet habe.
-               <br  xmlns:local="http://dse-static.foo.bar">Hiebey befinden sich annoch 2 attestata wegen Annehmung des Sup:
-               <br  xmlns:local="http://dse-static.foo.bar">und <abbr  xmlns:local="http://dse-static.foo.bar" title="unclear">eine</abbr> quittirte <abbr  xmlns:local="http://dse-static.foo.bar" title="unclear">acten</abbr> Extradirungs Auflag N<span  xmlns:local="http://dse-static.foo.bar">o</span> 425, 1495 et 1496
-               
-               
+            <div class="row">
+               <div class="col">
+                  <div style="width: 100%; height: 100%" id="osd_viewer"></div>
                </div>
-            
+               <div class="col">
+                  
+                  <div id="div__51">
+                     <span  xmlns:local="http://dse-static.foo.bar" class="anchor-pb"></span><span  xmlns:local="http://dse-static.foo.bar" class="pb" source="#facs_95">95</span>
+                     
+                     
+                     <br  xmlns:local="http://dse-static.foo.bar">451
+                     <br  xmlns:local="http://dse-static.foo.bar">Nahmen und Class
+                     <br  xmlns:local="http://dse-static.foo.bar"><span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__46385">Grueber Andre</span> burgerlicher Tuchlaubens Verwanter
+                     <br  xmlns:local="http://dse-static.foo.bar">Firma ad Raggion
+                     <br  xmlns:local="http://dse-static.foo.bar"><span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__46386">Andreas Gruber</span> laut anbringen de ps: 27<span  xmlns:local="http://dse-static.foo.bar">ten</span> Febr: 755 N<span  xmlns:local="http://dse-static.foo.bar">o</span> 424
+                     <br  xmlns:local="http://dse-static.foo.bar">Procura und Firmae Trager
+                     <br  xmlns:local="http://dse-static.foo.bar">Oblatorien und Avocatorien
+                     <br  xmlns:local="http://dse-static.foo.bar">Fundi Ausweisung
+                     <br  xmlns:local="http://dse-static.foo.bar">Der <span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__46385">Grueber</span> hat mitls Anbringen de ps: 23<span  xmlns:local="http://dse-static.foo.bar">ten</span> Janu: 755 N<span  xmlns:local="http://dse-static.foo.bar">o</span> 1493
+                     <br  xmlns:local="http://dse-static.foo.bar">seinen Fundum folgendermaßen ausgewisen nemlich daß selber
+                     <br  xmlns:local="http://dse-static.foo.bar">vermög der in dem mit der <span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__46387">Maria Elisabeth Vethin</span> untern 18<span  xmlns:local="http://dse-static.foo.bar">ten</span> 8br:
+                     <br  xmlns:local="http://dse-static.foo.bar">754 errichteten orig: Kaufcontract N<span  xmlns:local="http://dse-static.foo.bar">o</span> 1494 beygeruckten Quittung
+                     <br  xmlns:local="http://dse-static.foo.bar">an handlungs Kaufschilling allschon abgeführet habe 6653 fl 9 x<span  xmlns:local="http://dse-static.foo.bar">r</span>
+                     <br  xmlns:local="http://dse-static.foo.bar"><span  xmlns:local="http://dse-static.foo.bar">dann</span> anbey <span  xmlns:local="http://dse-static.foo.bar">einen bürgen</span> der Verkauferin einen bürgen pr 8000 fl
+                     <br  xmlns:local="http://dse-static.foo.bar">gestellet habe.
+                     <br  xmlns:local="http://dse-static.foo.bar">Hiebey befinden sich annoch 2 attestata wegen Annehmung des Sup:
+                     <br  xmlns:local="http://dse-static.foo.bar">und <abbr  xmlns:local="http://dse-static.foo.bar" title="unclear">eine</abbr> quittirte <abbr  xmlns:local="http://dse-static.foo.bar" title="unclear">acten</abbr> Extradirungs Auflag N<span  xmlns:local="http://dse-static.foo.bar">o</span> 425, 1495 et 1496
+                     
+                     
+                     </div>
+                  </div>
+            </div>
             <p style="text-align:center;">
                <div class="footnotes" id="note__1"><a name="fn1"><a href="#fna_1"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">1</span></a></a>Wiener Merkantilprotokoll Nr. 0907</div>
                <div class="footnotes" id="note__1"><a name="fn2"><a href="#fna_2"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">2</span></a></a>Wiener Merkantilprotokoll Nr. 0907</div>
             </p>
          </div>
          <div class="tei-back">
-            <div  xmlns:local="http://dse-static.foo.bar" class="modal fade" id="wkfm__46387" data-bs-keyboard="false" tabindex="-1" aria-labelledby="Vethin, Maria Elisabeth" aria-hidden="true">
-               <div class="modal-dialog modal-dialog-centered">
-                  <div class="modal-content">
-                     <div class="modal-header">
-                        <h1 class="modal-title fs-5" id="staticBackdropLabel">Vethin, Maria Elisabeth</h1><button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button></div>
-                     <div class="modal-body">
-                        <table class="table">
-                           <tbody>
-                              <tr>
-                                 <th></th>
-                                 <td>
-                                    Anzahl der Erwähnungen limitiert, klicke <a href="wkfm__46387.html">hier</a> für eine vollständige Auflistung
-                                    </td>
-                              </tr>
-                           </tbody>
-                        </table>
-                     </div>
-                     <div class="modal-footer"><button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button></div>
-                  </div>
-               </div>
-            </div>
-            
             <div  xmlns:local="http://dse-static.foo.bar" class="modal fade" id="wkfm__46385" data-bs-keyboard="false" tabindex="-1" aria-labelledby="Gruber, Andre" aria-hidden="true">
                <div class="modal-dialog modal-dialog-centered">
                   <div class="modal-content">
@@ -167,6 +150,28 @@
                   </div>
                </div>
             </div>
+            
+            <div  xmlns:local="http://dse-static.foo.bar" class="modal fade" id="wkfm__46387" data-bs-keyboard="false" tabindex="-1" aria-labelledby="Vethin, Maria Elisabeth" aria-hidden="true">
+               <div class="modal-dialog modal-dialog-centered">
+                  <div class="modal-content">
+                     <div class="modal-header">
+                        <h1 class="modal-title fs-5" id="staticBackdropLabel">Vethin, Maria Elisabeth</h1><button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button></div>
+                     <div class="modal-body">
+                        <table class="table">
+                           <tbody>
+                              <tr>
+                                 <th></th>
+                                 <td>
+                                    Anzahl der Erwähnungen limitiert, klicke <a href="wkfm__46387.html">hier</a> für eine vollständige Auflistung
+                                    </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </div>
+                     <div class="modal-footer"><button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button></div>
+                  </div>
+               </div>
+            </div>
             </div>
       </main>
       <footer  class="footer mt-auto py-3 bg-body-tertiary">
@@ -176,5 +181,15 @@
                 new Darkmode().showWidget();
             }
             window.addEventListener('load', addDarkmodeWidget);
-        </script><script src="https://unpkg.com/de-micro-editor@0.2.6/dist/de-editor.min.js"></script><script type="text/javascript" src="js/run.js"></script><script type="text/javascript" src="js/osd_single.js"></script></body>
+        </script><script type="text/javascript">
+                    var source = "https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0907.jpg";
+                    var viewer = OpenSeadragon({
+                    id: "osd_viewer",
+                    tileSources: {
+                    type: 'image',
+                    url: source
+                    },
+                    prefixUrl:"https://cdnjs.cloudflare.com/ajax/libs/openseadragon/2.4.1/images/",
+                    });
+                </script></body>
 </html>

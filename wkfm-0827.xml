@@ -97,19 +97,19 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__16221">
-                     <persName>
-                        <forename>None</forename>
-                        <surname>None</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-0827.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0827</note><note target="wkfm-0828.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0828</note></noteGrp></person>
-                <person xml:id="wkfm__46305">
+    <back><listPerson><person xml:id="wkfm__46305">
                      <persName>
                         <forename>Michael</forename>
                         <surname>Mann</surname>
                      </persName>
                      <occupation>Prokurist der Firma Philipp Gundian sel. Erben</occupation>
                <noteGrp><note target="wkfm-0827.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0827</note></noteGrp></person>
+                <person xml:id="wkfm__16221">
+                     <persName>
+                        <forename>None</forename>
+                        <surname>None</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0827.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0827</note><note target="wkfm-0828.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0828</note></noteGrp></person>
                 <person xml:id="wkfm__42309">
                      <persName>
                         <forename>Joseph Franz</forename>

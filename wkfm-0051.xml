@@ -151,7 +151,14 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46293">
+    <back><listPerson><person xml:id="wkfm__46600">
+                     <persName>
+                        <forename>Anna Maria</forename>
+                        <surname>Ireysmuthin</surname>
+                        <surname type="alt">Aichinger</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0051.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0051</note></noteGrp></person>
+                <person xml:id="wkfm__46293">
                      <persName>
                         <forename>Johann Thaddäus</forename>
                         <surname>Aichinger</surname>
@@ -162,12 +169,5 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 337 (Februar 1747).&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0050.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0050</note><note target="wkfm-0051.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0051</note><note target="wkfm-0607.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0607</note></noteGrp></person>
-                <person xml:id="wkfm__46600">
-                     <persName>
-                        <forename>Anna Maria</forename>
-                        <surname>Ireysmuthin</surname>
-                        <surname type="alt">Aichinger</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-0051.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0051</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

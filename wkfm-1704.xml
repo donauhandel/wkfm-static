@@ -95,15 +95,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47518">
-                     <persName>
-                        <forename>Jakob</forename>
-                        <surname>Smitmer</surname>
-                        <surname type="alt">von Schmittmer</surname>
-                     </persName>
-                     <occupation>Handelsmann</occupation>
-               <noteGrp><note target="wkfm-1622.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1622</note><note target="wkfm-1704.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1704</note></noteGrp></person>
-                <person xml:id="wkfm__47512">
+    <back><listPerson><person xml:id="wkfm__47512">
                      <persName>
                         <forename>Franz Michael</forename>
                         <surname>Smitmer</surname>
@@ -120,5 +112,13 @@
                      </persName>
                      <occupation>Hofjuwelier, Wechsler/Bankier</occupation>
                <noteGrp><note target="wkfm-1621.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1621</note><note target="wkfm-1622.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1622</note><note target="wkfm-1704.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1704</note></noteGrp></person>
+                <person xml:id="wkfm__47518">
+                     <persName>
+                        <forename>Jakob</forename>
+                        <surname>Smitmer</surname>
+                        <surname type="alt">von Schmittmer</surname>
+                     </persName>
+                     <occupation>Handelsmann</occupation>
+               <noteGrp><note target="wkfm-1622.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1622</note><note target="wkfm-1704.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1704</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

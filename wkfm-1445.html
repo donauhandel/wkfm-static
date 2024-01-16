@@ -20,8 +20,7 @@
                     .navBarNavDropdown ul li:nth-child(2) {
                         display: none !important;
                     }
-                </style>
-   </head>
+                </style><script src="https://cdnjs.cloudflare.com/ajax/libs/openseadragon/4.1.0/openseadragon.min.js"></script></head>
    <body class="d-flex flex-column h-100">
       <header >
          <nav class="navbar navbar-expand-lg bg-body-tertiary">
@@ -92,54 +91,60 @@
                   </div>
                </div>
             </div>
-            
-            <div id="div__59">
-               <span  xmlns:local="http://dse-static.foo.bar" class="anchor-pb"></span><span  xmlns:local="http://dse-static.foo.bar" class="pb" source="#facs_93">93</span>
-               
-               
-               <br  xmlns:local="http://dse-static.foo.bar">715
-               <br  xmlns:local="http://dse-static.foo.bar">Nahmen und Class
-               <br  xmlns:local="http://dse-static.foo.bar"><span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__46765">Raindinger Matthias Anton</span> burgerlicher Handlsmann
-               <br  xmlns:local="http://dse-static.foo.bar">Firma ad Raggion
-               <br  xmlns:local="http://dse-static.foo.bar"><span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__46764">Mathias Antoni Raindinger</span> laut Erklährung sine dato N<span  xmlns:local="http://dse-static.foo.bar">o</span> 653 welche
-               <br  xmlns:local="http://dse-static.foo.bar">derselbe mitls Anbringen de ps: 18<span  xmlns:local="http://dse-static.foo.bar">ten</span> 7br: 753 N<span  xmlns:local="http://dse-static.foo.bar">o</span> 654 eingeleget
-               <br  xmlns:local="http://dse-static.foo.bar">Procura und Firmae Trager
-               <br  xmlns:local="http://dse-static.foo.bar">Oblatorien und Avocatorien
-               <br  xmlns:local="http://dse-static.foo.bar">Fundi Ausweisung
-               <br  xmlns:local="http://dse-static.foo.bar">Der <span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__46765">Raindinger</span> hat seinen Fundum mitls der Specification N<span  xmlns:local="http://dse-static.foo.bar">o</span> 1679 dahin
-               <br  xmlns:local="http://dse-static.foo.bar">ausgewisen, daß er vermög orig: Instrument von <span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__46766">Johann Georg Schinerer</span>
-               <br  xmlns:local="http://dse-static.foo.bar">dd<span  xmlns:local="http://dse-static.foo.bar">to</span> ult: Xbr: 749 <span  xmlns:local="http://dse-static.foo.bar">bey</span> N<span  xmlns:local="http://dse-static.foo.bar">o</span> 1680 bey selben an baar eingelegten und theils
-               <br  xmlns:local="http://dse-static.foo.bar">hievon abgefallenen und theils <abbr  xmlns:local="http://dse-static.foo.bar" title="unclear">in protem</abbr> salario <abbr  xmlns:local="http://dse-static.foo.bar" title="unclear">accordirten</abbr> Nuzen stehen
-               <br  xmlns:local="http://dse-static.foo.bar">habe 6089 fl 43 x<span  xmlns:local="http://dse-static.foo.bar">r</span>
-               <br  xmlns:local="http://dse-static.foo.bar">Zu Completirung des übrigen hat der <span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__46767">Matthias Pränkhl</span> das orig:
-               <br  xmlns:local="http://dse-static.foo.bar">Cautions Instrument dd<span  xmlns:local="http://dse-static.foo.bar">to</span> 3<span  xmlns:local="http://dse-static.foo.bar">ten</span> Febr: 750 N<span  xmlns:local="http://dse-static.foo.bar">o</span> 1681 eingeleget pr 1910 fl 17 x<span  xmlns:local="http://dse-static.foo.bar">r</span>
-               <br  xmlns:local="http://dse-static.foo.bar">Sa 8000 fl 0 x<span  xmlns:local="http://dse-static.foo.bar">r</span>
-               
-               
+            <div class="row">
+               <div class="col">
+                  <div style="width: 100%; height: 100%" id="osd_viewer"></div>
                </div>
-            
+               <div class="col">
+                  
+                  <div id="div__59">
+                     <span  xmlns:local="http://dse-static.foo.bar" class="anchor-pb"></span><span  xmlns:local="http://dse-static.foo.bar" class="pb" source="#facs_93">93</span>
+                     
+                     
+                     <br  xmlns:local="http://dse-static.foo.bar">715
+                     <br  xmlns:local="http://dse-static.foo.bar">Nahmen und Class
+                     <br  xmlns:local="http://dse-static.foo.bar"><span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__46765">Raindinger Matthias Anton</span> burgerlicher Handlsmann
+                     <br  xmlns:local="http://dse-static.foo.bar">Firma ad Raggion
+                     <br  xmlns:local="http://dse-static.foo.bar"><span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__46764">Mathias Antoni Raindinger</span> laut Erklährung sine dato N<span  xmlns:local="http://dse-static.foo.bar">o</span> 653 welche
+                     <br  xmlns:local="http://dse-static.foo.bar">derselbe mitls Anbringen de ps: 18<span  xmlns:local="http://dse-static.foo.bar">ten</span> 7br: 753 N<span  xmlns:local="http://dse-static.foo.bar">o</span> 654 eingeleget
+                     <br  xmlns:local="http://dse-static.foo.bar">Procura und Firmae Trager
+                     <br  xmlns:local="http://dse-static.foo.bar">Oblatorien und Avocatorien
+                     <br  xmlns:local="http://dse-static.foo.bar">Fundi Ausweisung
+                     <br  xmlns:local="http://dse-static.foo.bar">Der <span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__46765">Raindinger</span> hat seinen Fundum mitls der Specification N<span  xmlns:local="http://dse-static.foo.bar">o</span> 1679 dahin
+                     <br  xmlns:local="http://dse-static.foo.bar">ausgewisen, daß er vermög orig: Instrument von <span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__46766">Johann Georg Schinerer</span>
+                     <br  xmlns:local="http://dse-static.foo.bar">dd<span  xmlns:local="http://dse-static.foo.bar">to</span> ult: Xbr: 749 <span  xmlns:local="http://dse-static.foo.bar">bey</span> N<span  xmlns:local="http://dse-static.foo.bar">o</span> 1680 bey selben an baar eingelegten und theils
+                     <br  xmlns:local="http://dse-static.foo.bar">hievon abgefallenen und theils <abbr  xmlns:local="http://dse-static.foo.bar" title="unclear">in protem</abbr> salario <abbr  xmlns:local="http://dse-static.foo.bar" title="unclear">accordirten</abbr> Nuzen stehen
+                     <br  xmlns:local="http://dse-static.foo.bar">habe 6089 fl 43 x<span  xmlns:local="http://dse-static.foo.bar">r</span>
+                     <br  xmlns:local="http://dse-static.foo.bar">Zu Completirung des übrigen hat der <span  xmlns:local="http://dse-static.foo.bar" class="persons entity " id="" data-bs-toggle="modal" data-bs-target="#wkfm__46767">Matthias Pränkhl</span> das orig:
+                     <br  xmlns:local="http://dse-static.foo.bar">Cautions Instrument dd<span  xmlns:local="http://dse-static.foo.bar">to</span> 3<span  xmlns:local="http://dse-static.foo.bar">ten</span> Febr: 750 N<span  xmlns:local="http://dse-static.foo.bar">o</span> 1681 eingeleget pr 1910 fl 17 x<span  xmlns:local="http://dse-static.foo.bar">r</span>
+                     <br  xmlns:local="http://dse-static.foo.bar">Sa 8000 fl 0 x<span  xmlns:local="http://dse-static.foo.bar">r</span>
+                     
+                     
+                     </div>
+                  </div>
+            </div>
             <p style="text-align:center;">
-               <div class="footnotes" id="note__1"><a name="fn1"><a href="#fna_1"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">1</span></a></a>Wiener Merkantilprotokoll Nr. 1445</div>
-               <div class="footnotes" id="note__2"><a name="fn2"><a href="#fna_2"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">2</span></a></a>Wiener Merkantilprotokoll Nr. 1649</div>
+               <div class="footnotes" id="note__1"><a name="fn1"><a href="#fna_1"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">1</span></a></a>Wiener Merkantilprotokoll Nr. 0742</div>
+               <div class="footnotes" id="note__2"><a name="fn2"><a href="#fna_2"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">2</span></a></a>Wiener Merkantilprotokoll Nr. 1445</div>
                <div class="footnotes" id="note__1"><a name="fn3"><a href="#fna_3"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">3</span></a></a>Wiener Merkantilprotokoll Nr. 1445</div>
                <div class="footnotes" id="note__2"><a name="fn4"><a href="#fna_4"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">4</span></a></a>Wiener Merkantilprotokoll Nr. 1446</div>
-               <div class="footnotes" id="note__1"><a name="fn5"><a href="#fna_5"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">5</span></a></a>Wiener Merkantilprotokoll Nr. 0742</div>
-               <div class="footnotes" id="note__2"><a name="fn6"><a href="#fna_6"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">6</span></a></a>Wiener Merkantilprotokoll Nr. 1445</div>
+               <div class="footnotes" id="note__1"><a name="fn5"><a href="#fna_5"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">5</span></a></a>Wiener Merkantilprotokoll Nr. 1445</div>
+               <div class="footnotes" id="note__2"><a name="fn6"><a href="#fna_6"><span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">6</span></a></a>Wiener Merkantilprotokoll Nr. 1649</div>
             </p>
          </div>
          <div class="tei-back">
-            <div  xmlns:local="http://dse-static.foo.bar" class="modal fade" id="wkfm__46766" data-bs-keyboard="false" tabindex="-1" aria-labelledby="Schinerer, Johann Georg" aria-hidden="true">
+            <div  xmlns:local="http://dse-static.foo.bar" class="modal fade" id="wkfm__46767" data-bs-keyboard="false" tabindex="-1" aria-labelledby="Pränkl, Matthias" aria-hidden="true">
                <div class="modal-dialog modal-dialog-centered">
                   <div class="modal-content">
                      <div class="modal-header">
-                        <h1 class="modal-title fs-5" id="staticBackdropLabel">Schinerer, Johann Georg</h1><button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button></div>
+                        <h1 class="modal-title fs-5" id="staticBackdropLabel">Pränkl, Matthias</h1><button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button></div>
                      <div class="modal-body">
                         <table class="table">
                            <tbody>
                               <tr>
                                  <th></th>
                                  <td>
-                                    Anzahl der Erwähnungen limitiert, klicke <a href="wkfm__46766.html">hier</a> für eine vollständige Auflistung
+                                    Anzahl der Erwähnungen limitiert, klicke <a href="wkfm__46767.html">hier</a> für eine vollständige Auflistung
                                     </td>
                               </tr>
                            </tbody>
@@ -172,18 +177,18 @@
                </div>
             </div>
             
-            <div  xmlns:local="http://dse-static.foo.bar" class="modal fade" id="wkfm__46767" data-bs-keyboard="false" tabindex="-1" aria-labelledby="Pränkl, Matthias" aria-hidden="true">
+            <div  xmlns:local="http://dse-static.foo.bar" class="modal fade" id="wkfm__46766" data-bs-keyboard="false" tabindex="-1" aria-labelledby="Schinerer, Johann Georg" aria-hidden="true">
                <div class="modal-dialog modal-dialog-centered">
                   <div class="modal-content">
                      <div class="modal-header">
-                        <h1 class="modal-title fs-5" id="staticBackdropLabel">Pränkl, Matthias</h1><button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button></div>
+                        <h1 class="modal-title fs-5" id="staticBackdropLabel">Schinerer, Johann Georg</h1><button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button></div>
                      <div class="modal-body">
                         <table class="table">
                            <tbody>
                               <tr>
                                  <th></th>
                                  <td>
-                                    Anzahl der Erwähnungen limitiert, klicke <a href="wkfm__46767.html">hier</a> für eine vollständige Auflistung
+                                    Anzahl der Erwähnungen limitiert, klicke <a href="wkfm__46766.html">hier</a> für eine vollständige Auflistung
                                     </td>
                               </tr>
                            </tbody>
@@ -202,5 +207,15 @@
                 new Darkmode().showWidget();
             }
             window.addEventListener('load', addDarkmodeWidget);
-        </script><script src="https://unpkg.com/de-micro-editor@0.2.6/dist/de-editor.min.js"></script><script type="text/javascript" src="js/run.js"></script><script type="text/javascript" src="js/osd_single.js"></script></body>
+        </script><script type="text/javascript">
+                    var source = "https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1445.jpg";
+                    var viewer = OpenSeadragon({
+                    id: "osd_viewer",
+                    tileSources: {
+                    type: 'image',
+                    url: source
+                    },
+                    prefixUrl:"https://cdnjs.cloudflare.com/ajax/libs/openseadragon/2.4.1/images/",
+                    });
+                </script></body>
 </html>

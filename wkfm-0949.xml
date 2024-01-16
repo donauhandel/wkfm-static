@@ -108,13 +108,15 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46455">
+    <back><listPerson><person xml:id="wkfm__8186">
                      <persName>
-                        <forename>Anna Katharina</forename>
+                        <forename>Joseph</forename>
                         <surname>Höcksteiner</surname>
                      </persName>
-                     <occupation>Handelsfrau</occupation>
+                     <death><date>1737</date></death>
+                     <occupation>Handelsmann, Materialist</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
+                     <occupation type="aemter">Vorsteher der bürgerl. Handelsleute</occupation>
                <noteGrp><note target="wkfm-0949.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0949</note><note target="wkfm-0950.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0950</note></noteGrp></person>
                 <person xml:id="wkfm__46454">
                      <persName>
@@ -128,15 +130,13 @@
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 412 (April 1740).&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0949.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0949</note><note target="wkfm-0950.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0950</note></noteGrp></person>
-                <person xml:id="wkfm__8186">
+                <person xml:id="wkfm__46455">
                      <persName>
-                        <forename>Joseph</forename>
+                        <forename>Anna Katharina</forename>
                         <surname>Höcksteiner</surname>
                      </persName>
-                     <death><date>1737</date></death>
-                     <occupation>Handelsmann, Materialist</occupation>
+                     <occupation>Handelsfrau</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
-                     <occupation type="aemter">Vorsteher der bürgerl. Handelsleute</occupation>
                <noteGrp><note target="wkfm-0949.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0949</note><note target="wkfm-0950.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0950</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

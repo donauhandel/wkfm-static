@@ -108,19 +108,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43912">
-                     <persName>
-                        <forename>Ferdinand</forename>
-                        <surname>Pörner</surname>
-                        <surname type="alt">Borner</surname>
-                     </persName>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-                     <listBibl>
-                        <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 488 (Juni 1731).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-0210.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0210</note><note target="wkfm-0212.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0212</note><note target="wkfm-0739.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0739</note><note target="wkfm-0740.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0740</note></noteGrp></person>
-                <person xml:id="wkfm__47104">
+    <back><listPerson><person xml:id="wkfm__47104">
                      <persName>
                         <forename>Anna Maria Theresia</forename>
                         <surname>Tarolinin</surname>
@@ -138,5 +126,17 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 549 (Jänner 1732).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0212.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0212</note><note target="wkfm-0739.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0739</note><note target="wkfm-0740.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0740</note></noteGrp></person>
+                <person xml:id="wkfm__43912">
+                     <persName>
+                        <forename>Ferdinand</forename>
+                        <surname>Pörner</surname>
+                        <surname type="alt">Borner</surname>
+                     </persName>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+                     <listBibl>
+                        <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 488 (Juni 1731).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0210.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0210</note><note target="wkfm-0212.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0212</note><note target="wkfm-0739.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0739</note><note target="wkfm-0740.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0740</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

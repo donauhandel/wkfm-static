@@ -105,13 +105,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46358">
-                     <persName>
-                        <forename>Anna Maria</forename>
-                        <surname>Gunttlich</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-0889.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0889</note></noteGrp></person>
-                <person xml:id="wkfm__46356">
+    <back><listPerson><person xml:id="wkfm__46356">
                      <persName>
                         <forename>Johann Joseph</forename>
                         <surname>Gunttlich</surname>
@@ -119,6 +113,12 @@
                      <death><date>1762</date></death>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-0889.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0889</note></noteGrp></person>
+                <person xml:id="wkfm__46358">
+                     <persName>
+                        <forename>Anna Maria</forename>
+                        <surname>Gunttlich</surname>
+                     </persName>
                <noteGrp><note target="wkfm-0889.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0889</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>
