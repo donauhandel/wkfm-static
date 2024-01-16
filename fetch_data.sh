@@ -20,5 +20,5 @@ rm -rf ./krems-data-main
 add-attributes -g "data/editions/*.xml" -b "https://id.acdh.oeaw.ac.at/wkfm"
 denormalize-indices -f "./data/editions/*.xml" -i "./data/indices/*.xml" -m ".//*[@ref]/@ref" -x ".//tei:titleStmt/tei:title[1]/text()"
 
-echo "delete not mentioned persons"
-python delete_not_mentioned_persons.py
+# echo "delete not mentioned persons"
+# python delete_not_mentioned_persons.py

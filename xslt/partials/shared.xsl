@@ -14,10 +14,6 @@
         <xsl:value-of select="concat(name($currentNode), '__', $nodeCurrNr)"/>
     </xsl:function>
     
-    <xsl:template match="tei:pb">
-        <span class="anchor-pb"></span>
-        <span class="pb" source="{@facs}"><xsl:value-of select="./@n"/></span>
-    </xsl:template>
     <xsl:template match="tei:unclear">
         <abbr title="unclear"><xsl:apply-templates/></abbr>
     </xsl:template>
@@ -142,7 +138,7 @@
                         <span class="persons {substring-after(@rendition, '#')}" id="{@xml:id}">
                             <xsl:apply-templates/>
                             <xsl:for-each select="tokenize(@ref, ' ')">
-                                <sup class="entity" data-bs-toggle="modal" data-bs-target="{.}">
+                                <sup class="entity" data-bs-toggle="modal" data-bs-target="#{.}">
                                     <xsl:value-of select="position()"/>
                                 </sup>
                                 <xsl:if test="position() != last()">

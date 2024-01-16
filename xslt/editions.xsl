@@ -13,7 +13,6 @@
     <xsl:import href="./partials/html_navbar.xsl"/>
     <xsl:import href="./partials/html_head.xsl"/>
     <xsl:import href="./partials/html_footer.xsl"/>
-    <xsl:import href="./partials/aot-options.xsl"/>
 
     <xsl:variable name="prev">
         <xsl:value-of select="replace(tokenize(data(tei:TEI/@prev), '/')[last()], '.xml', '.html')"/>
@@ -43,18 +42,13 @@
                 <xsl:call-template name="html_head">
                     <xsl:with-param name="html_title" select="$doc_title"></xsl:with-param>
                 </xsl:call-template>
-                <style>
-                    .navBarNavDropdown ul li:nth-child(2) {
-                        display: none !important;
-                    }
-                </style>
+                
                 <script src="https://cdnjs.cloudflare.com/ajax/libs/openseadragon/4.1.0/openseadragon.min.js"/>
             </head>
             <body class="d-flex flex-column h-100">
                 <xsl:call-template name="nav_bar"/>
                 <main class="flex-shrink-0">
                     <div class="container">
-
 
                         <div class="row">
                             <div class="col-md-2 col-lg-2 col-sm-12">
@@ -91,45 +85,42 @@
                                     </h1>
                                 </xsl:if>
                             </div>
-                            <div id="editor-widget">
-                                <xsl:call-template name="annotation-options"></xsl:call-template>
-                            </div>
                         </div>
                         
                         <div class="row">
                             <div class="col">
-                                <div style="width: 100%; height: 100%" id="osd_viewer"/>
+                                <div style="width: 100%; height: 800px" id="osd_viewer"/>
                             </div>
                             <div class="col">
-                                <xsl:apply-templates select=".//tei:body"></xsl:apply-templates>
-                            </div>
-                        </div>
-                            
-                        
-
-                        <p style="text-align:center;">
-                            <xsl:for-each select=".//tei:note[not(./tei:p)]">
-                                <div class="footnotes" id="{local:makeId(.)}">
-                                    <xsl:element name="a">
-                                        <xsl:attribute name="name">
-                                            <xsl:text>fn</xsl:text>
-                                            <xsl:number level="any" format="1" count="tei:note"/>
-                                        </xsl:attribute>
-                                        <a>
-                                            <xsl:attribute name="href">
-                                                <xsl:text>#fna_</xsl:text>
-                                                <xsl:number level="any" format="1" count="tei:note"/>
-                                            </xsl:attribute>
-                                            <span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">
-                                                <xsl:number level="any" format="1" count="tei:note"/>
-                                            </span>
-                                        </a>
-                                    </xsl:element>
-                                    <xsl:apply-templates/>
+                                <div class="transcript pb-5">
+                                    <xsl:apply-templates select=".//tei:body"></xsl:apply-templates>
                                 </div>
-                            </xsl:for-each>
-                        </p>
-
+                                
+                                <div class="footnotes pt-5">
+                                    <xsl:for-each select=".//tei:body//tei:note[not(./tei:p)]">
+                                        <div class="footnotes" id="{local:makeId(.)}">
+                                            <xsl:element name="a">
+                                                <xsl:attribute name="name">
+                                                    <xsl:text>fn</xsl:text>
+                                                    <xsl:number level="any" format="1" count="tei:note"/>
+                                                </xsl:attribute>
+                                                <a>
+                                                    <xsl:attribute name="href">
+                                                        <xsl:text>#fna_</xsl:text>
+                                                        <xsl:number level="any" format="1" count="tei:note"/>
+                                                    </xsl:attribute>
+                                                    <span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">
+                                                        <xsl:number level="any" format="1" count="tei:note"/>
+                                                    </span>
+                                                </a>
+                                            </xsl:element>
+                                            <xsl:apply-templates/>
+                                        </div>
+                                    </xsl:for-each>
+                                </div>
+                            </div>
+                            
+                        </div>
                     </div>
                     <xsl:for-each select="//tei:back">
                         <div class="tei-back">
@@ -153,15 +144,25 @@
             </body>
         </html>
     </xsl:template>
-
-    <xsl:template match="tei:p">
-        <p id="{local:makeId(.)}" class="yes-index">
-            <xsl:apply-templates/>
-        </p>
+    
+    <xsl:template match="tei:hi[@style='superscript']">
+        <sup><xsl:apply-templates/></sup>
     </xsl:template>
-    <xsl:template match="tei:div">
-        <div id="{local:makeId(.)}">
-            <xsl:apply-templates/>
-        </div>
-    </xsl:template>  
+    
+    <xsl:template match="tei:seg[starts-with(@type, 'orighead')]">
+        <h4 style="text-align:center; padding-top:1em;"><xsl:apply-templates/></h4>
+        <hr/>
+    </xsl:template>
+   
+    
+    <xsl:template match="tei:note">
+        <xsl:for-each select=".">
+            <xsl:variable name="runningNumber">
+                <xsl:value-of select="position()"/>
+            </xsl:variable>
+            <a id="{'anchor_'||$runningNumber}" href="{'#note_'||$runningNumber}">
+                <sup><xsl:value-of select="$runningNumber"/></sup>
+            </a>
+        </xsl:for-each>
+    </xsl:template>
 </xsl:stylesheet>
