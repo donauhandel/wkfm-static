@@ -11,12 +11,14 @@ jobs:
       ANT_OPTS: -Xmx5g
     steps:
     - name: Perform Checkout
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
     - name: Install Saxon, Ant and Python
       run: |
         apt-get update && apt-get install openjdk-11-jre-headless ant -y --no-install-recommend
         ./shellscripts/script.sh
         pip install -r requirements.txt
+    - name: fetch data
+      run: ./fetch_data.sh
     - name: Build
       run: |
         ant
