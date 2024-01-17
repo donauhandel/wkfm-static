@@ -88,7 +88,20 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__9344" sameAs="#wkfm__15825 ">
+    <back><listPerson><person xml:id="wkfm__46108">
+                     <persName>
+                        <forename>Joseph</forename>
+                        <surname>Kircher</surname>
+                        <surname type="alt">Kirchner</surname>
+                     </persName>
+                     <death><date>1780?</date></death>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+                     <listBibl>
+                        <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 429 (Dezember 1748: &amp;#34;Kirchner&amp;#34;).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0346.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0346</note><note target="wkfm-0475.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0475</note><note target="wkfm-0476.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0476</note><note target="wkfm-0580.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0580</note></noteGrp></person>
+                <person xml:id="wkfm__9344" sameAs="#wkfm__15825 ">
                      <persName>
                         <forename>Anton Matthias</forename>
                         <surname>Kircher</surname>
@@ -114,18 +127,5 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 546 (Februar 1737).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0346.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0346</note><note target="wkfm-0475.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0475</note><note target="wkfm-0476.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0476</note><note target="wkfm-0579.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0579</note><note target="wkfm-0580.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0580</note></noteGrp></person>
-                <person xml:id="wkfm__46108">
-                     <persName>
-                        <forename>Joseph</forename>
-                        <surname>Kircher</surname>
-                        <surname type="alt">Kirchner</surname>
-                     </persName>
-                     <death><date>1780?</date></death>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-                     <listBibl>
-                        <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 429 (Dezember 1748: &amp;#34;Kirchner&amp;#34;).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-0346.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0346</note><note target="wkfm-0475.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0475</note><note target="wkfm-0476.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0476</note><note target="wkfm-0580.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0580</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

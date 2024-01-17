@@ -112,7 +112,13 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46148">
+    <back><listPerson><person xml:id="wkfm__46149">
+                     <persName>
+                        <forename>Johanna</forename>
+                        <surname>Tribaumerin</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0453.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0453</note></noteGrp></person>
+                <person xml:id="wkfm__46148">
                      <persName>
                         <forename>Joseph</forename>
                         <surname>Korber</surname>
@@ -124,12 +130,6 @@
                      <listBibl>
                         <bibl>Huchler, Bürgeraufnahmen, 434 (September 1743).&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
-               <noteGrp><note target="wkfm-0453.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0453</note></noteGrp></person>
-                <person xml:id="wkfm__46149">
-                     <persName>
-                        <forename>Johanna</forename>
-                        <surname>Tribaumerin</surname>
-                     </persName>
                <noteGrp><note target="wkfm-0453.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0453</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

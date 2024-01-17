@@ -163,29 +163,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46539">
-                     <persName>
-                        <forename>Franz Xaver</forename>
-                        <surname>Hackl</surname>
-                     </persName>
-                     <occupation>Angestellter bei Franz Hackl</occupation>
-               <noteGrp><note target="wkfm-1036.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1036</note></noteGrp></person>
-                <person xml:id="wkfm__46541">
-                     <persName>
-                        <forename>Johann</forename>
-                        <surname>Hackl</surname>
-                     </persName>
-                     <occupation>Prokurist bei Franz Hackl</occupation>
-               <noteGrp><note target="wkfm-1036.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1036</note></noteGrp></person>
-                <person xml:id="wkfm__46536" sameAs="#wkfm__46729 ">
-                     <persName>
-                        <forename>Joseph</forename>
-                        <surname>Mayr</surname>
-                     </persName>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-1035.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1035</note><note target="wkfm-1036.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1036</note></noteGrp></person>
-                <person xml:id="wkfm__46535">
+    <back><listPerson><person xml:id="wkfm__46535">
                      <persName>
                         <forename>Franz</forename>
                         <surname>Hackl</surname>
@@ -204,6 +182,28 @@
                         <surname>Seidl</surname>
                      </persName>
                      <occupation>Angestellter bei Franz Hackl</occupation>
+               <noteGrp><note target="wkfm-1036.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1036</note></noteGrp></person>
+                <person xml:id="wkfm__46536" sameAs="#wkfm__46729 ">
+                     <persName>
+                        <forename>Joseph</forename>
+                        <surname>Mayr</surname>
+                     </persName>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-1035.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1035</note><note target="wkfm-1036.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1036</note></noteGrp></person>
+                <person xml:id="wkfm__46539">
+                     <persName>
+                        <forename>Franz Xaver</forename>
+                        <surname>Hackl</surname>
+                     </persName>
+                     <occupation>Angestellter bei Franz Hackl</occupation>
+               <noteGrp><note target="wkfm-1036.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1036</note></noteGrp></person>
+                <person xml:id="wkfm__46541">
+                     <persName>
+                        <forename>Johann</forename>
+                        <surname>Hackl</surname>
+                     </persName>
+                     <occupation>Prokurist bei Franz Hackl</occupation>
                <noteGrp><note target="wkfm-1036.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1036</note></noteGrp></person>
                 <person xml:id="wkfm__29325">
                      <persName>

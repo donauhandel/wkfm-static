@@ -93,14 +93,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47155">
-                     <persName>
-                        <forename>Maria Magdalena</forename>
-                        <surname>Plankin</surname>
-                        <surname type="alt">Fliesser</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-0787.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0787</note></noteGrp></person>
-                <person xml:id="wkfm__47153">
+    <back><listPerson><person xml:id="wkfm__47153">
                      <persName>
                         <forename>Johann Martin</forename>
                         <surname>Fliesser</surname>
@@ -111,6 +104,13 @@
                      <listBibl>
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 378 (Jänner 1741).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
+               <noteGrp><note target="wkfm-0787.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0787</note></noteGrp></person>
+                <person xml:id="wkfm__47155">
+                     <persName>
+                        <forename>Maria Magdalena</forename>
+                        <surname>Plankin</surname>
+                        <surname type="alt">Fliesser</surname>
+                     </persName>
                <noteGrp><note target="wkfm-0787.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0787</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

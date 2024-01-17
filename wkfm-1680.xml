@@ -134,6 +134,14 @@
                         <surname type="alt">Schwitzer</surname>
                      </persName>
                <noteGrp><note target="wkfm-1680.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1680</note></noteGrp></person>
+                <person xml:id="wkfm__47588">
+                     <persName>
+                        <forename>Theresia</forename>
+                        <surname>Schwitzerin</surname>
+                     </persName>
+                     <occupation>Handelsfrau</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-1679.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1679</note><note target="wkfm-1680.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1680</note></noteGrp></person>
                 <person xml:id="wkfm__47586">
                      <persName>
                         <forename>Johann</forename>
@@ -141,14 +149,6 @@
                      </persName>
                      <death><date>15.11.1778</date></death>
                      <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-1679.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1679</note><note target="wkfm-1680.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1680</note></noteGrp></person>
-                <person xml:id="wkfm__47588">
-                     <persName>
-                        <forename>Theresia</forename>
-                        <surname>Schwitzerin</surname>
-                     </persName>
-                     <occupation>Handelsfrau</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1679.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1679</note><note target="wkfm-1680.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1680</note></noteGrp></person>
                 </listPerson></back></text>

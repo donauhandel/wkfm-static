@@ -133,7 +133,14 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46850">
+    <back><listPerson><person xml:id="wkfm__46851">
+                     <persName>
+                        <forename>Theresia</forename>
+                        <surname>Gartnerin</surname>
+                        <surname type="alt">Garttnerin</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-1182.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1182</note></noteGrp></person>
+                <person xml:id="wkfm__46850">
                      <persName>
                         <forename>Johann Paul</forename>
                         <forename type="alt">Paul</forename>
@@ -150,12 +157,5 @@
                      <occupation>Tuchhändler</occupation>
                      <occupation type="kaufmannsklasse">tuchlaubensverwandt/bürgerlich</occupation>
                <noteGrp><note target="wkfm-1110.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1110</note><note target="wkfm-1181.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1181</note><note target="wkfm-1182.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1182</note><note target="wkfm-1286.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1286</note></noteGrp></person>
-                <person xml:id="wkfm__46851">
-                     <persName>
-                        <forename>Theresia</forename>
-                        <surname>Gartnerin</surname>
-                        <surname type="alt">Garttnerin</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-1182.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1182</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

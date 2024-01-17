@@ -110,7 +110,13 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47582">
+    <back><listPerson><person xml:id="wkfm__47585">
+                     <persName>
+                        <forename>Maria Katharina</forename>
+                        <surname>De Heilmannin</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-1678.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1678</note></noteGrp></person>
+                <person xml:id="wkfm__47582">
                      <persName>
                         <forename>Joseph</forename>
                         <surname>Staudinger</surname>
@@ -119,11 +125,5 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1677.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1677</note><note target="wkfm-1678.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1678</note></noteGrp></person>
-                <person xml:id="wkfm__47585">
-                     <persName>
-                        <forename>Maria Katharina</forename>
-                        <surname>De Heilmannin</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-1678.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1678</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

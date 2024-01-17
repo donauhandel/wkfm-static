@@ -108,13 +108,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47377">
-                     <persName>
-                        <forename>Johann Karl</forename>
-                        <surname>Ristlisch</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-0276.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0276</note></noteGrp></person>
-                <person xml:id="wkfm__25660">
+    <back><listPerson><person xml:id="wkfm__25660">
                      <persName>
                         <forename>Franz</forename>
                         <surname>Beda</surname>
@@ -129,6 +123,12 @@
                         <surname>Peternaderin</surname>
                      </persName>
                      <occupation>Handelsfrau</occupation>
+               <noteGrp><note target="wkfm-0276.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0276</note></noteGrp></person>
+                <person xml:id="wkfm__47377">
+                     <persName>
+                        <forename>Johann Karl</forename>
+                        <surname>Ristlisch</surname>
+                     </persName>
                <noteGrp><note target="wkfm-0276.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0276</note></noteGrp></person>
                 <person xml:id="wkfm__43931">
                      <persName>

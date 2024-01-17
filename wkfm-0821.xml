@@ -94,7 +94,16 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__20897">
+    <back><listPerson><person xml:id="wkfm__46302">
+                     <persName>
+                        <forename>Joseph</forename>
+                        <surname>Hink</surname>
+                        <surname type="alt">Hinckh</surname>
+                     </persName>
+                     <occupation>Tuchhändler</occupation>
+                     <occupation type="kaufmannsklasse">tuchlaubensverwandt/bürgerlich</occupation>
+               <noteGrp><note target="wkfm-0821.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0821</note><note target="wkfm-0822.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0822</note></noteGrp></person>
+                <person xml:id="wkfm__20897">
                      <persName>
                         <forename>Stephan</forename>
                         <surname>Gindl</surname>
@@ -106,15 +115,6 @@
                      <listBibl>
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 397 (23. Oktober 1721).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
-               <noteGrp><note target="wkfm-0821.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0821</note><note target="wkfm-0822.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0822</note></noteGrp></person>
-                <person xml:id="wkfm__46302">
-                     <persName>
-                        <forename>Joseph</forename>
-                        <surname>Hink</surname>
-                        <surname type="alt">Hinckh</surname>
-                     </persName>
-                     <occupation>Tuchhändler</occupation>
-                     <occupation type="kaufmannsklasse">tuchlaubensverwandt/bürgerlich</occupation>
                <noteGrp><note target="wkfm-0821.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0821</note><note target="wkfm-0822.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0822</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

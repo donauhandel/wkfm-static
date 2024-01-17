@@ -97,7 +97,18 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46745">
+    <back><listPerson><person xml:id="wkfm__16654" sameAs="#wkfm__16272 wkfm__18493 wkfm__19994 ">
+                     <persName>
+                        <forename>Georg Gotthard</forename>
+                        <surname>Schwandner</surname>
+                     </persName>
+                     <occupation>Leinwandhändler</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+                     <listBibl>
+                        <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 526 (30. April 1720).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-1431.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1431</note><note target="wkfm-1545.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1545</note><note target="wkfm-1546.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1546</note></noteGrp></person>
+                <person xml:id="wkfm__46745">
                      <persName>
                         <forename>Johann Michael</forename>
                         <surname>Reisinger</surname>
@@ -109,16 +120,5 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 500 (Februar 1740: Johann Michael Reißinger, Tuchhändler).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1431.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1431</note></noteGrp></person>
-                <person xml:id="wkfm__16654" sameAs="#wkfm__16272 wkfm__18493 wkfm__19994 ">
-                     <persName>
-                        <forename>Georg Gotthard</forename>
-                        <surname>Schwandner</surname>
-                     </persName>
-                     <occupation>Leinwandhändler</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-                     <listBibl>
-                        <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 526 (30. April 1720).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-1431.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1431</note><note target="wkfm-1545.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1545</note><note target="wkfm-1546.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1546</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

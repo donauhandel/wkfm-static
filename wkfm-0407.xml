@@ -107,18 +107,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__8192">
-                     <persName>
-                        <forename>Joseph</forename>
-                        <forename type="alt">Gioseppe</forename>
-                        <forename type="alt">Giuseppe</forename>
-                        <surname>de Trevani</surname>
-                        <surname type="alt">de Trevano</surname>
-                     </persName>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-               <noteGrp><note target="wkfm-0407.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0407</note><note target="wkfm-0408.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0408</note><note target="wkfm-0501.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0501</note><note target="wkfm-0502.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0502</note></noteGrp></person>
-                <person xml:id="wkfm__17087">
+    <back><listPerson><person xml:id="wkfm__17087">
                      <persName>
                         <forename>Kaspar</forename>
                         <forename type="alt">Kaspar Melichor Balthasar</forename>
@@ -137,5 +126,16 @@
                      <occupation>Prokurist des Kaspar Consoni, Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                <noteGrp><note target="wkfm-0407.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0407</note><note target="wkfm-0408.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0408</note></noteGrp></person>
+                <person xml:id="wkfm__8192">
+                     <persName>
+                        <forename>Joseph</forename>
+                        <forename type="alt">Gioseppe</forename>
+                        <forename type="alt">Giuseppe</forename>
+                        <surname>de Trevani</surname>
+                        <surname type="alt">de Trevano</surname>
+                     </persName>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+               <noteGrp><note target="wkfm-0407.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0407</note><note target="wkfm-0408.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0408</note><note target="wkfm-0501.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0501</note><note target="wkfm-0502.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0502</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

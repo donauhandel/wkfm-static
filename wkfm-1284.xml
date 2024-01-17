@@ -90,14 +90,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46844">
-                     <persName>
-                        <forename>Maria Anna</forename>
-                        <surname>Pillerin</surname>
-                        <surname type="alt">Müllner</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-1177.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1177</note><note target="wkfm-1284.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1284</note></noteGrp></person>
-                <person xml:id="wkfm__46940">
+    <back><listPerson><person xml:id="wkfm__46940">
                      <persName>
                         <forename>Johann Michael</forename>
                         <surname>Müllner</surname>
@@ -109,5 +102,12 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1283.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1283</note><note target="wkfm-1284.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1284</note></noteGrp></person>
+                <person xml:id="wkfm__46844">
+                     <persName>
+                        <forename>Maria Anna</forename>
+                        <surname>Pillerin</surname>
+                        <surname type="alt">Müllner</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-1177.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1177</note><note target="wkfm-1284.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1284</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

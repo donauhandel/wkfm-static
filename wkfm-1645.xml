@@ -138,18 +138,6 @@
                         <surname type="alt">Peisserin</surname>
                      </persName>
                <noteGrp><note target="wkfm-1645.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1645</note><note target="wkfm-1646.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1646</note></noteGrp></person>
-                <person xml:id="wkfm__4646" sameAs="#wkfm__28419 ">
-                     <persName>
-                        <forename>Joseph</forename>
-                        <surname>Peisser</surname>
-                     </persName>
-                     <death><date>08.02.1765</date></death>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-                     <listBibl>
-                        <bibl>&amp;lt;div&amp;gt;Scheiber, 600 Jahre, 67f.; &amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 479 (Dezember 1728).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;&amp;lt;div&amp;gt;Harrer-Lucienfeld, Wien, seiner Häuser, Bd. 1.1, S. 178&amp;lt;br&amp;gt;&amp;lt;span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-0196.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0196</note><note target="wkfm-0197.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0197</note><note target="wkfm-1645.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1645</note><note target="wkfm-1849.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1849</note></noteGrp></person>
                 <person xml:id="wkfm__47548" sameAs="#wkfm__12970 ">
                      <persName>
                         <forename>Joseph Anton</forename>
@@ -166,5 +154,17 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1645.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1645</note><note target="wkfm-1646.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1646</note></noteGrp></person>
+                <person xml:id="wkfm__4646" sameAs="#wkfm__28419 ">
+                     <persName>
+                        <forename>Joseph</forename>
+                        <surname>Peisser</surname>
+                     </persName>
+                     <death><date>08.02.1765</date></death>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+                     <listBibl>
+                        <bibl>&amp;lt;div&amp;gt;Scheiber, 600 Jahre, 67f.; &amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 479 (Dezember 1728).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;&amp;lt;div&amp;gt;Harrer-Lucienfeld, Wien, seiner Häuser, Bd. 1.1, S. 178&amp;lt;br&amp;gt;&amp;lt;span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0196.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0196</note><note target="wkfm-0197.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0197</note><note target="wkfm-1645.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1645</note><note target="wkfm-1849.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1849</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

@@ -102,14 +102,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46278">
-                     <persName>
-                        <forename>Franz</forename>
-                        <surname>Förstl</surname>
-                     </persName>
-                     <death><date>1741</date></death>
-               <noteGrp><note target="wkfm-0595.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0595</note></noteGrp></person>
-                <person xml:id="wkfm__46276">
+    <back><listPerson><person xml:id="wkfm__46276">
                      <persName>
                         <forename>Johann Sebastian</forename>
                         <surname>Träge</surname>
@@ -120,6 +113,13 @@
                      <listBibl>
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 546 (Dezember 1742).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
+               <noteGrp><note target="wkfm-0595.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0595</note></noteGrp></person>
+                <person xml:id="wkfm__46278">
+                     <persName>
+                        <forename>Franz</forename>
+                        <surname>Förstl</surname>
+                     </persName>
+                     <death><date>1741</date></death>
                <noteGrp><note target="wkfm-0595.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0595</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

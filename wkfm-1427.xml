@@ -114,7 +114,28 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46738">
+    <back><listPerson><person xml:id="wkfm__46740">
+                     <persName>
+                        <forename>None</forename>
+                        <surname>None</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-1427.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1427</note></noteGrp></person>
+                <person xml:id="wkfm__46742">
+                     <persName>
+                        <forename>Barbara</forename>
+                        <surname>Reindl</surname>
+                     </persName>
+                     <death><date>1766</date></death>
+                     <occupation>Spezereihändlerin</occupation>
+               <noteGrp><note target="wkfm-1427.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1427</note></noteGrp></person>
+                <person xml:id="wkfm__46741">
+                     <persName>
+                        <forename>Johann Georg</forename>
+                        <surname>Tschaslawsky</surname>
+                     </persName>
+                     <occupation>Prokurist des Ferdinand Reindl</occupation>
+               <noteGrp><note target="wkfm-1427.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1427</note><note target="wkfm-1428.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1428</note></noteGrp></person>
+                <person xml:id="wkfm__46738">
                      <persName>
                         <forename>Ferdinand</forename>
                         <surname>Reindl</surname>
@@ -138,26 +159,5 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 549 (Dezember 1733).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0753.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0753</note><note target="wkfm-0754.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0754</note><note target="wkfm-1427.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1427</note></noteGrp></person>
-                <person xml:id="wkfm__46741">
-                     <persName>
-                        <forename>Johann Georg</forename>
-                        <surname>Tschaslawsky</surname>
-                     </persName>
-                     <occupation>Prokurist des Ferdinand Reindl</occupation>
-               <noteGrp><note target="wkfm-1427.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1427</note><note target="wkfm-1428.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1428</note></noteGrp></person>
-                <person xml:id="wkfm__46742">
-                     <persName>
-                        <forename>Barbara</forename>
-                        <surname>Reindl</surname>
-                     </persName>
-                     <death><date>1766</date></death>
-                     <occupation>Spezereihändlerin</occupation>
-               <noteGrp><note target="wkfm-1427.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1427</note></noteGrp></person>
-                <person xml:id="wkfm__46740">
-                     <persName>
-                        <forename>None</forename>
-                        <surname>None</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-1427.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1427</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

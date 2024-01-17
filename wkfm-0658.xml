@@ -90,7 +90,14 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46430" sameAs="#wkfm__44034 ">
+    <back><listPerson><person xml:id="wkfm__46432">
+                     <persName>
+                        <forename>Antonia</forename>
+                        <surname>Kastlin</surname>
+                        <surname type="alt">Eibl</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0658.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0658</note></noteGrp></person>
+                <person xml:id="wkfm__46430" sameAs="#wkfm__44034 ">
                      <persName>
                         <forename>Johann Heinrich</forename>
                         <surname>Eibl</surname>
@@ -103,12 +110,5 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 372 (März 1740).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0657.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0657</note><note target="wkfm-0658.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0658</note></noteGrp></person>
-                <person xml:id="wkfm__46432">
-                     <persName>
-                        <forename>Antonia</forename>
-                        <surname>Kastlin</surname>
-                        <surname type="alt">Eibl</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-0658.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0658</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

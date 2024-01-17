@@ -95,14 +95,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43880" sameAs="#wkfm__22087 ">
-                     <persName>
-                        <forename>Johann Michael</forename>
-                        <surname>Mayr</surname>
-                     </persName>
-                     <occupation>Angestellter und Prokurist des Johann Leonhard Bittoni</occupation>
-               <noteGrp><note target="wkfm-0130.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0130</note></noteGrp></person>
-                <person xml:id="wkfm__10201" sameAs="#wkfm__8501 ">
+    <back><listPerson><person xml:id="wkfm__10201" sameAs="#wkfm__8501 ">
                      <persName>
                         <forename>Johann Leonhard</forename>
                         <surname>Bittoni</surname>
@@ -112,5 +105,12 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0130.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0130</note><note target="wkfm-0131.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0131</note><note target="wkfm-0798.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0798</note><note target="wkfm-1263.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1263</note></noteGrp></person>
+                <person xml:id="wkfm__43880" sameAs="#wkfm__22087 ">
+                     <persName>
+                        <forename>Johann Michael</forename>
+                        <surname>Mayr</surname>
+                     </persName>
+                     <occupation>Angestellter und Prokurist des Johann Leonhard Bittoni</occupation>
+               <noteGrp><note target="wkfm-0130.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0130</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

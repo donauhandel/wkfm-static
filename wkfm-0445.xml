@@ -129,6 +129,13 @@
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 430 (September 1739).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0445.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0445</note><note target="wkfm-0446.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0446</note></noteGrp></person>
+                <person xml:id="wkfm__46144" sameAs="#wkfm__40527 ">
+                     <persName>
+                        <forename>Johann</forename>
+                        <surname>Bader</surname>
+                        <surname type="alt">Baader</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0445.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0445</note></noteGrp></person>
                 <person xml:id="wkfm__8802">
                      <persName>
                         <forename>Lukas Joseph</forename>
@@ -142,12 +149,5 @@
                         <bibl>&amp;lt;span&amp;gt;Dotter, Italienische Kaufleute, 128-131; Huchler, Bürgeraufnahmen, 530 (27. Juli 1714: &amp;#34;Lukas&amp;#34;).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0445.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0445</note><note target="wkfm-0467.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0467</note><note target="wkfm-0811.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0811</note><note target="wkfm-1312.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1312</note><note target="wkfm-1505.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1505</note><note target="wkfm-1506.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1506</note><note target="wkfm-1597.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1597</note><note target="wkfm-1598.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1598</note><note target="wkfm-1675.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1675</note></noteGrp></person>
-                <person xml:id="wkfm__46144" sameAs="#wkfm__40527 ">
-                     <persName>
-                        <forename>Johann</forename>
-                        <surname>Bader</surname>
-                        <surname type="alt">Baader</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-0445.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0445</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

@@ -131,7 +131,38 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__9136">
+    <back><listPerson><person xml:id="wkfm__26325" sameAs="#wkfm__32059 ">
+                     <persName>
+                        <forename>Joachim</forename>
+                        <forename type="alt">Gioacchino</forename>
+                        <surname>Negri</surname>
+                     </persName>
+                     <death><date>1743</date></death>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+                     <listBibl>
+                        <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 469 (Juli 1733).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0283.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0283</note><note target="wkfm-1315.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1315</note><note target="wkfm-1316.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1316</note></noteGrp></person>
+                <person xml:id="wkfm__43967">
+                     <persName>
+                        <forename>Anna Maria</forename>
+                        <surname>Leweckin</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0283.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0283</note></noteGrp></person>
+                <person xml:id="wkfm__43966">
+                     <persName>
+                        <forename>Dominicus</forename>
+                        <surname>Polidoro</surname>
+                     </persName>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+                     <occupation type="aemter">Vorsteher der bürgerl. Handelsleute</occupation>
+                     <listBibl>
+                        <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 487 (September 1743).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0283.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0283</note><note target="wkfm-0319.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0319</note></noteGrp></person>
+                <person xml:id="wkfm__9136">
                      <persName>
                         <forename>Karl</forename>
                         <forename type="alt">Carlo</forename>
@@ -154,36 +185,5 @@
                      <occupation>Handelsmann, Spezereihändler</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0213.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0213</note><note target="wkfm-0214.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0214</note><note target="wkfm-0215.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0215</note><note target="wkfm-0216.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0216</note><note target="wkfm-0283.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0283</note></noteGrp></person>
-                <person xml:id="wkfm__43966">
-                     <persName>
-                        <forename>Dominicus</forename>
-                        <surname>Polidoro</surname>
-                     </persName>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-                     <occupation type="aemter">Vorsteher der bürgerl. Handelsleute</occupation>
-                     <listBibl>
-                        <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 487 (September 1743).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-0283.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0283</note><note target="wkfm-0319.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0319</note></noteGrp></person>
-                <person xml:id="wkfm__43967">
-                     <persName>
-                        <forename>Anna Maria</forename>
-                        <surname>Leweckin</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-0283.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0283</note></noteGrp></person>
-                <person xml:id="wkfm__26325" sameAs="#wkfm__32059 ">
-                     <persName>
-                        <forename>Joachim</forename>
-                        <forename type="alt">Gioacchino</forename>
-                        <surname>Negri</surname>
-                     </persName>
-                     <death><date>1743</date></death>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-                     <listBibl>
-                        <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 469 (Juli 1733).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-0283.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0283</note><note target="wkfm-1315.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1315</note><note target="wkfm-1316.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1316</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>
