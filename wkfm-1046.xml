@@ -93,15 +93,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46553">
-                     <persName>
-                        <forename>Franz Ignaz</forename>
-                        <surname>Hipp</surname>
-                     </persName>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-1045.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1045</note><note target="wkfm-1046.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1046</note></noteGrp></person>
-                <person xml:id="wkfm__46555">
+    <back><listPerson><person xml:id="wkfm__46555">
                      <persName>
                         <forename>Theresia</forename>
                         <surname>Ebersbergerin</surname>
@@ -109,5 +101,13 @@
                         <surname type="alt">Eberspergerin</surname>
                      </persName>
                <noteGrp><note target="wkfm-1046.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1046</note></noteGrp></person>
+                <person xml:id="wkfm__46553">
+                     <persName>
+                        <forename>Franz Ignaz</forename>
+                        <surname>Hipp</surname>
+                     </persName>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-1045.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1045</note><note target="wkfm-1046.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1046</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

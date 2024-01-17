@@ -91,15 +91,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46105">
-                     <persName>
-                        <forename>Daniel</forename>
-                        <surname>Castelmur</surname>
-                        <surname type="alt">Castelmuro</surname>
-                     </persName>
-                     <occupation>Handelsmann</occupation>
-               <noteGrp><note target="wkfm-0341.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0341</note><note target="wkfm-0342.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0342</note><note target="wkfm-0343.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0343</note><note target="wkfm-0344.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0344</note></noteGrp></person>
-                <person xml:id="wkfm__41865">
+    <back><listPerson><person xml:id="wkfm__41865">
                      <persName>
                         <forename>Gaudenz</forename>
                         <surname>Castelmur</surname>
@@ -108,6 +100,14 @@
                      <listBibl>
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Kühnert, Taufbuch, 106.&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
+               <noteGrp><note target="wkfm-0341.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0341</note><note target="wkfm-0342.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0342</note><note target="wkfm-0343.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0343</note><note target="wkfm-0344.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0344</note></noteGrp></person>
+                <person xml:id="wkfm__46105">
+                     <persName>
+                        <forename>Daniel</forename>
+                        <surname>Castelmur</surname>
+                        <surname type="alt">Castelmuro</surname>
+                     </persName>
+                     <occupation>Handelsmann</occupation>
                <noteGrp><note target="wkfm-0341.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0341</note><note target="wkfm-0342.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0342</note><note target="wkfm-0343.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0343</note><note target="wkfm-0344.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0344</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

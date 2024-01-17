@@ -112,7 +112,20 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47570">
+    <back><listPerson><person xml:id="wkfm__47568">
+                     <persName>
+                        <forename>Johann Georg</forename>
+                        <surname>Schuller</surname>
+                     </persName>
+                     <birth><date>27.03.1716</date></birth>
+                     <death><date>13.01.1771</date></death>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+                     <listBibl>
+                        <bibl>Budischowsky, Johann Georg Schuller; Mittenzwei, Zwischen Gestern und Morgen, 38 und passim; &amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 524 (September 1747)&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;.&amp;lt;br&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-1661.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1661</note><note target="wkfm-1662.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1662</note></noteGrp></person>
+                <person xml:id="wkfm__47570">
                      <persName>
                         <forename>Bartholomäus</forename>
                         <surname>Ackerl</surname>
@@ -129,19 +142,6 @@
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 458 (Dezember 1738).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1037.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1037</note><note target="wkfm-1263.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1263</note><note target="wkfm-1264.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1264</note><note target="wkfm-1661.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1661</note></noteGrp></person>
-                <person xml:id="wkfm__47568">
-                     <persName>
-                        <forename>Johann Georg</forename>
-                        <surname>Schuller</surname>
-                     </persName>
-                     <birth><date>27.03.1716</date></birth>
-                     <death><date>13.01.1771</date></death>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-                     <listBibl>
-                        <bibl>Budischowsky, Johann Georg Schuller; Mittenzwei, Zwischen Gestern und Morgen, 38 und passim; &amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 524 (September 1747)&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;.&amp;lt;br&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-1661.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1661</note><note target="wkfm-1662.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1662</note></noteGrp></person>
                 <person xml:id="wkfm__9731" sameAs="#wkfm__29936 ">
                      <persName>
                         <forename>Johann Michael</forename>

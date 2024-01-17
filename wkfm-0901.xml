@@ -112,7 +112,13 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46377">
+    <back><listPerson><person xml:id="wkfm__46378">
+                     <persName>
+                        <forename>Maria Anna</forename>
+                        <surname>Gerardi</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0901.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0901</note></noteGrp></person>
+                <person xml:id="wkfm__46377">
                      <persName>
                         <forename>Maria Regina</forename>
                         <surname>Gerardi</surname>
@@ -132,12 +138,6 @@
                      <death><date>1783</date></death>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-0901.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0901</note></noteGrp></person>
-                <person xml:id="wkfm__46378">
-                     <persName>
-                        <forename>Maria Anna</forename>
-                        <surname>Gerardi</surname>
-                     </persName>
                <noteGrp><note target="wkfm-0901.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0901</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

@@ -97,7 +97,17 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43848">
+    <back><listPerson><person xml:id="wkfm__8116">
+                     <persName>
+                        <forename>Matthias</forename>
+                        <surname>Beham</surname>
+                        <surname type="alt">Böheimb</surname>
+                        <surname type="alt">Pehamb</surname>
+                     </persName>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-0106.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0106</note><note target="wkfm-0107.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0107</note></noteGrp></person>
+                <person xml:id="wkfm__43848">
                      <persName>
                         <forename>Franz</forename>
                         <surname>Gerdill</surname>
@@ -109,15 +119,5 @@
                         <bibl>Huchler, Bürgeraufnahmen, 386 (Dezember 1728)&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0106.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0106</note></noteGrp></person>
-                <person xml:id="wkfm__8116">
-                     <persName>
-                        <forename>Matthias</forename>
-                        <surname>Beham</surname>
-                        <surname type="alt">Böheimb</surname>
-                        <surname type="alt">Pehamb</surname>
-                     </persName>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-0106.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0106</note><note target="wkfm-0107.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0107</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

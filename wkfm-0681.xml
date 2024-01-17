@@ -130,12 +130,34 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47059">
+    <back><listPerson><person xml:id="wkfm__47061">
+                     <persName>
+                        <forename>Heinrich</forename>
+                        <surname>Jenisch</surname>
+                     </persName>
+                     <occupation>Angestellter und Prokurist bei Eval Elisabeth Feronin (Johann Baptist Feroni sel. Witwe)</occupation>
+               <noteGrp><note target="wkfm-0681.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0681</note></noteGrp></person>
+                <person xml:id="wkfm__47059">
                      <persName>
                         <forename>Joseph Kajetan</forename>
                         <surname>Werndle</surname>
                      </persName>
                      <occupation>Angestellter und Prokurist bei Johann Baptist Feroni</occupation>
+               <noteGrp><note target="wkfm-0681.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0681</note></noteGrp></person>
+                <person xml:id="wkfm__47060">
+                     <persName>
+                        <forename>Johann</forename>
+                        <surname>Merl</surname>
+                     </persName>
+                     <occupation>Angestellter und Prokurist bei Johann Baptist Feroni</occupation>
+               <noteGrp><note target="wkfm-0681.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0681</note></noteGrp></person>
+                <person xml:id="wkfm__47058">
+                     <persName>
+                        <forename>Eva Elisabeth</forename>
+                        <surname>Feroni</surname>
+                        <surname type="alt">Ferronin</surname>
+                     </persName>
+                     <occupation>Prokuristin bei Johann Baptist Feroni, Handelsfrau</occupation>
                <noteGrp><note target="wkfm-0681.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0681</note></noteGrp></person>
                 <person xml:id="wkfm__1115" sameAs="#wkfm__32249 ">
                      <persName>
@@ -151,28 +173,6 @@
                      <listBibl>
                         <bibl>Dotter, Kaufleute (2017), 118–120; &amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 3&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;75 (14. Jänner 1715).</bibl>
                      </listBibl>
-               <noteGrp><note target="wkfm-0681.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0681</note></noteGrp></person>
-                <person xml:id="wkfm__47060">
-                     <persName>
-                        <forename>Johann</forename>
-                        <surname>Merl</surname>
-                     </persName>
-                     <occupation>Angestellter und Prokurist bei Johann Baptist Feroni</occupation>
-               <noteGrp><note target="wkfm-0681.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0681</note></noteGrp></person>
-                <person xml:id="wkfm__47061">
-                     <persName>
-                        <forename>Heinrich</forename>
-                        <surname>Jenisch</surname>
-                     </persName>
-                     <occupation>Angestellter und Prokurist bei Eval Elisabeth Feronin (Johann Baptist Feroni sel. Witwe)</occupation>
-               <noteGrp><note target="wkfm-0681.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0681</note></noteGrp></person>
-                <person xml:id="wkfm__47058">
-                     <persName>
-                        <forename>Eva Elisabeth</forename>
-                        <surname>Feroni</surname>
-                        <surname type="alt">Ferronin</surname>
-                     </persName>
-                     <occupation>Prokuristin bei Johann Baptist Feroni, Handelsfrau</occupation>
                <noteGrp><note target="wkfm-0681.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0681</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

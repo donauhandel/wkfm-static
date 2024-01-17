@@ -116,17 +116,17 @@
                         <bibl>Wachstein, Die Wiener Juden in Handel und Industrie, Nr. 6, 281; Wachstein, Inschriften, Bd. 2, Nr. 860, 280-285; Grunwald, Oppenheimer, 205-211.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1879.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1879</note><note target="wkfm-1880.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1880</note></noteGrp></person>
-                <person xml:id="wkfm__14160">
+                <person xml:id="wkfm__15470">
                      <persName>
-                        <forename>Salomon</forename>
+                        <forename>Abraham</forename>
                         <surname>Sinzheim</surname>
                      </persName>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">jüdisch</occupation>
                <noteGrp><note target="wkfm-1879.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1879</note><note target="wkfm-1880.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1880</note></noteGrp></person>
-                <person xml:id="wkfm__15470">
+                <person xml:id="wkfm__14160">
                      <persName>
-                        <forename>Abraham</forename>
+                        <forename>Salomon</forename>
                         <surname>Sinzheim</surname>
                      </persName>
                      <occupation>Handelsmann</occupation>

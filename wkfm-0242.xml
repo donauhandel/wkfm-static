@@ -110,7 +110,13 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43936">
+    <back><listPerson><person xml:id="wkfm__43937">
+                     <persName>
+                        <forename>Anna Susanna Christina</forename>
+                        <surname>Mühlin</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0242.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0242</note></noteGrp></person>
+                <person xml:id="wkfm__43936">
                      <persName>
                         <forename>Johann Karl</forename>
                         <surname>Mühl</surname>
@@ -118,12 +124,6 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                <noteGrp><note target="wkfm-0241.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0241</note><note target="wkfm-0242.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0242</note></noteGrp></person>
-                <person xml:id="wkfm__43937">
-                     <persName>
-                        <forename>Anna Susanna Christina</forename>
-                        <surname>Mühlin</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-0242.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0242</note></noteGrp></person>
                 <person xml:id="wkfm__21476">
                      <persName>
                         <forename>Philipp Jakob</forename>

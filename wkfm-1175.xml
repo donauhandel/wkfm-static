@@ -143,17 +143,17 @@
                      <occupation>Angestellter bei Franz Franzoni, Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1175.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1175</note><note target="wkfm-1176.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1176</note></noteGrp></person>
+                <person xml:id="wkfm__46840">
+                     <persName>
+                        <forename>Johann Michael</forename>
+                        <surname>Schweikhard</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-1175.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1175</note></noteGrp></person>
                 <person xml:id="wkfm__46839">
                      <persName>
                         <forename>Johann</forename>
                         <surname>Praunschmid</surname>
                         <surname type="alt">Praunschmidt</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-1175.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1175</note></noteGrp></person>
-                <person xml:id="wkfm__46840">
-                     <persName>
-                        <forename>Johann Michael</forename>
-                        <surname>Schweikhard</surname>
                      </persName>
                <noteGrp><note target="wkfm-1175.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1175</note></noteGrp></person>
                 </listPerson></back></text>

@@ -111,7 +111,13 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47527">
+    <back><listPerson><person xml:id="wkfm__47528">
+                     <persName>
+                        <forename>None</forename>
+                        <surname>Wanner</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-1627.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1627</note></noteGrp></person>
+                <person xml:id="wkfm__47527">
                      <persName>
                         <forename>Clara Aloisia</forename>
                         <surname>Scattin</surname>
@@ -125,12 +131,6 @@
                      </persName>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-1627.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1627</note></noteGrp></person>
-                <person xml:id="wkfm__47528">
-                     <persName>
-                        <forename>None</forename>
-                        <surname>Wanner</surname>
-                     </persName>
                <noteGrp><note target="wkfm-1627.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1627</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

@@ -108,16 +108,16 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__22880">
+    <back><listPerson><person xml:id="wkfm__43808">
                      <persName>
-                        <forename>Johann Heinrich</forename>
+                        <forename>Jonathan</forename>
                         <surname>von Palm</surname>
                      </persName>
-                     <birth><date>1687</date></birth>
-                     <death><date>1744</date></death>
+                     <birth><date>1671</date></birth>
+                     <death><date>1740</date></death>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                      <listBibl>
-                        <bibl>Kollmer, Familie Palm, passim; &amp;lt;span&amp;gt;Kröpfel, Protestantismus, Anhang 1, S. 5; &amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Kühnert, Taufbuch, 106.&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
+                        <bibl>Kollmer, Familie Palm, 43 und passim.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0069.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0069</note></noteGrp></person>
                 <person xml:id="wkfm__24663">
@@ -133,28 +133,16 @@
                         <bibl>Kollmer, Familie Palm, 45-90.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0069.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0069</note></noteGrp></person>
-                <person xml:id="wkfm__43808">
+                <person xml:id="wkfm__22880">
                      <persName>
-                        <forename>Jonathan</forename>
+                        <forename>Johann Heinrich</forename>
                         <surname>von Palm</surname>
                      </persName>
-                     <birth><date>1671</date></birth>
-                     <death><date>1740</date></death>
+                     <birth><date>1687</date></birth>
+                     <death><date>1744</date></death>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                      <listBibl>
-                        <bibl>Kollmer, Familie Palm, 43 und passim.&amp;lt;br&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-0069.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0069</note></noteGrp></person>
-                <person xml:id="wkfm__43809">
-                     <persName>
-                        <forename>Franz</forename>
-                        <surname>von Palm</surname>
-                     </persName>
-                     <birth><date>1676</date></birth>
-                     <death><date>1742</date></death>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-                     <listBibl>
-                        <bibl>Kollmer, Familie Palm, 55 und passim (Tagebuch 6/Anm. 12).&amp;lt;br&amp;gt;</bibl>
+                        <bibl>Kollmer, Familie Palm, passim; &amp;lt;span&amp;gt;Kröpfel, Protestantismus, Anhang 1, S. 5; &amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Kühnert, Taufbuch, 106.&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0069.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0069</note></noteGrp></person>
                 <person xml:id="wkfm__43805">
@@ -172,6 +160,18 @@
                         <bibl>Kollmer, Familie Palm, 55 und passim.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0068.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0068</note><note target="wkfm-0069.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0069</note></noteGrp></person>
+                <person xml:id="wkfm__43809">
+                     <persName>
+                        <forename>Franz</forename>
+                        <surname>von Palm</surname>
+                     </persName>
+                     <birth><date>1676</date></birth>
+                     <death><date>1742</date></death>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+                     <listBibl>
+                        <bibl>Kollmer, Familie Palm, 55 und passim (Tagebuch 6/Anm. 12).&amp;lt;br&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0069.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0069</note></noteGrp></person>
                 <person xml:id="wkfm__13459">
                      <persName>
                         <forename>Johann Heinrich</forename>

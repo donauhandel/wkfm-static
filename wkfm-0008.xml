@@ -108,15 +108,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__9919" sameAs="#wkfm__13957 ">
-                     <persName>
-                        <forename>Johann Peter</forename>
-                        <surname>Augustin</surname>
-                     </persName>
-                     <occupation>Handelsmann, Wechselherr</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-               <noteGrp><note target="wkfm-0008.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0008</note><note target="wkfm-0009.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0009</note></noteGrp></person>
-                <person xml:id="wkfm__43782">
+    <back><listPerson><person xml:id="wkfm__43782">
                      <persName>
                         <forename>Anton</forename>
                         <surname>Segalla</surname>
@@ -124,5 +116,13 @@
                      <occupation>Prokurist bei Johann Peter Augustin, Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
                <noteGrp><note target="wkfm-0008.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0008</note><note target="wkfm-1557.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1557</note><note target="wkfm-1558.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1558</note></noteGrp></person>
+                <person xml:id="wkfm__9919" sameAs="#wkfm__13957 ">
+                     <persName>
+                        <forename>Johann Peter</forename>
+                        <surname>Augustin</surname>
+                     </persName>
+                     <occupation>Handelsmann, Wechselherr</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+               <noteGrp><note target="wkfm-0008.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0008</note><note target="wkfm-0009.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0009</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

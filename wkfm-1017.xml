@@ -115,11 +115,14 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46512" sameAs="#wkfm__11115 ">
+    <back><listPerson><person xml:id="wkfm__46510">
                      <persName>
-                        <forename>Anna Maria Elisabetha</forename>
-                        <surname>Strasserin</surname>
+                        <forename>Hieronymus</forename>
+                        <surname>Helmsteiner</surname>
+                        <surname type="alt">Helmbsteiner</surname>
                      </persName>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1017.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1017</note></noteGrp></person>
                 <person xml:id="wkfm__46513">
                      <persName>
@@ -135,14 +138,11 @@
                         <surname>Helmsteiner</surname>
                      </persName>
                <noteGrp><note target="wkfm-1017.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1017</note></noteGrp></person>
-                <person xml:id="wkfm__46510">
+                <person xml:id="wkfm__46512" sameAs="#wkfm__11115 ">
                      <persName>
-                        <forename>Hieronymus</forename>
-                        <surname>Helmsteiner</surname>
-                        <surname type="alt">Helmbsteiner</surname>
+                        <forename>Anna Maria Elisabetha</forename>
+                        <surname>Strasserin</surname>
                      </persName>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1017.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1017</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

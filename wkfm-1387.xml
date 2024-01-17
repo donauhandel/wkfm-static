@@ -110,14 +110,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46707">
-                     <persName>
-                        <forename>Karl</forename>
-                        <surname>Alay</surname>
-                     </persName>
-                     <occupation>Prokurist bei Giovanni Maria Rozzio</occupation>
-               <noteGrp><note target="wkfm-1387.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1387</note></noteGrp></person>
-                <person xml:id="wkfm__24742" sameAs="#wkfm__24669 ">
+    <back><listPerson><person xml:id="wkfm__24742" sameAs="#wkfm__24669 ">
                      <persName>
                         <forename>Johann Benedikt</forename>
                         <forename type="alt">Giovanni Benedetto</forename>
@@ -136,6 +129,13 @@
                         <surname>Ziegler</surname>
                      </persName>
                      <occupation>Angestellter und Prokurist bei Giovanni Maria Rozzio</occupation>
+               <noteGrp><note target="wkfm-1387.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1387</note></noteGrp></person>
+                <person xml:id="wkfm__46707">
+                     <persName>
+                        <forename>Karl</forename>
+                        <surname>Alay</surname>
+                     </persName>
+                     <occupation>Prokurist bei Giovanni Maria Rozzio</occupation>
                <noteGrp><note target="wkfm-1387.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1387</note></noteGrp></person>
                 <person xml:id="wkfm__46705">
                      <persName>

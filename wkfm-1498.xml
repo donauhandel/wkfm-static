@@ -106,7 +106,16 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__21800">
+    <back><listPerson><person xml:id="wkfm__47423">
+                     <persName>
+                        <forename>Maria Agnes</forename>
+                        <surname>Kratschin</surname>
+                        <surname type="alt">Humblin</surname>
+                        <surname type="alt">Stockinger</surname>
+                        <surname type="alt">Herzogin</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-1498.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1498</note></noteGrp></person>
+                <person xml:id="wkfm__21800">
                      <persName>
                         <forename>Matthias</forename>
                         <surname>Stockinger</surname>
@@ -119,15 +128,6 @@
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 539 (14. März 1711).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1497.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1497</note><note target="wkfm-1498.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1498</note></noteGrp></person>
-                <person xml:id="wkfm__47423">
-                     <persName>
-                        <forename>Maria Agnes</forename>
-                        <surname>Kratschin</surname>
-                        <surname type="alt">Humblin</surname>
-                        <surname type="alt">Stockinger</surname>
-                        <surname type="alt">Herzogin</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-1498.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1498</note></noteGrp></person>
                 <person xml:id="wkfm__47422">
                      <persName>
                         <forename>Georg Albrecht</forename>

@@ -100,14 +100,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46281">
-                     <persName>
-                        <forename>Anna Maria</forename>
-                        <surname>Pertoldin</surname>
-                        <surname type="alt">Denk</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-0598.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0598</note></noteGrp></person>
-                <person xml:id="wkfm__46279">
+    <back><listPerson><person xml:id="wkfm__46279">
                      <persName>
                         <forename>Simon Anton</forename>
                         <surname>Denk</surname>
@@ -119,5 +112,12 @@
                         <bibl>Huchler, Bürgeraufnahmen, 360 (Dezember 1744).&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0597.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0597</note><note target="wkfm-0598.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0598</note></noteGrp></person>
+                <person xml:id="wkfm__46281">
+                     <persName>
+                        <forename>Anna Maria</forename>
+                        <surname>Pertoldin</surname>
+                        <surname type="alt">Denk</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0598.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0598</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

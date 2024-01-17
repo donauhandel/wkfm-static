@@ -115,6 +115,12 @@
                      </persName>
                      <occupation>Handelsfrau</occupation>
                <noteGrp><note target="wkfm-0276.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0276</note></noteGrp></person>
+                <person xml:id="wkfm__47377">
+                     <persName>
+                        <forename>Johann Karl</forename>
+                        <surname>Ristlisch</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0276.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0276</note></noteGrp></person>
                 <person xml:id="wkfm__43931">
                      <persName>
                         <forename>Maria Josepha</forename>
@@ -131,11 +137,5 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0275.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0275</note><note target="wkfm-0276.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0276</note></noteGrp></person>
-                <person xml:id="wkfm__47377">
-                     <persName>
-                        <forename>Johann Karl</forename>
-                        <surname>Ristlisch</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-0276.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0276</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

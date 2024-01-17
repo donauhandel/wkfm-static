@@ -89,14 +89,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46350">
-                     <persName>
-                        <forename>Katharina</forename>
-                        <surname>Stadlerin</surname>
-                        <surname type="alt">Götz</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-0884.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0884</note></noteGrp></person>
-                <person xml:id="wkfm__24248">
+    <back><listPerson><person xml:id="wkfm__24248">
                      <persName>
                         <forename>Johann Michael</forename>
                         <surname>Götz</surname>
@@ -108,5 +101,12 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 390 (Dezember 1735).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0883.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0883</note><note target="wkfm-0884.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0884</note><note target="wkfm-1635.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1635</note><note target="wkfm-1649.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1649</note></noteGrp></person>
+                <person xml:id="wkfm__46350">
+                     <persName>
+                        <forename>Katharina</forename>
+                        <surname>Stadlerin</surname>
+                        <surname type="alt">Götz</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0884.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0884</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>
