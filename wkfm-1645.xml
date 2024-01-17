@@ -138,6 +138,15 @@
                         <surname type="alt">Peisserin</surname>
                      </persName>
                <noteGrp><note target="wkfm-1645.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1645</note><note target="wkfm-1646.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1646</note></noteGrp></person>
+                <person xml:id="wkfm__47546">
+                     <persName>
+                        <forename>Franz Ludwig</forename>
+                        <surname>Stofferin</surname>
+                        <surname type="alt">Stoffrin</surname>
+                     </persName>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-1645.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1645</note><note target="wkfm-1646.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1646</note></noteGrp></person>
                 <person xml:id="wkfm__4646" sameAs="#wkfm__28419 ">
                      <persName>
                         <forename>Joseph</forename>
@@ -157,14 +166,5 @@
                      </persName>
                      <occupation>Prokurist bei Franz Ludwig Stofferin</occupation>
                <noteGrp><note target="wkfm-1645.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1645</note></noteGrp></person>
-                <person xml:id="wkfm__47546">
-                     <persName>
-                        <forename>Franz Ludwig</forename>
-                        <surname>Stofferin</surname>
-                        <surname type="alt">Stoffrin</surname>
-                     </persName>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-1645.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1645</note><note target="wkfm-1646.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1646</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

@@ -102,7 +102,13 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__30195">
+    <back><listPerson><person xml:id="wkfm__46926">
+                     <persName>
+                        <forename>Eva Margarita</forename>
+                        <surname>Muth</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-1271.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1271</note></noteGrp></person>
+                <person xml:id="wkfm__30195">
                      <persName>
                         <forename>Anton</forename>
                         <surname>Muth</surname>
@@ -110,12 +116,6 @@
                      <death><date>1750</date></death>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-1271.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1271</note></noteGrp></person>
-                <person xml:id="wkfm__46926">
-                     <persName>
-                        <forename>Eva Margarita</forename>
-                        <surname>Muth</surname>
-                     </persName>
                <noteGrp><note target="wkfm-1271.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1271</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

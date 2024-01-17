@@ -126,7 +126,14 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46545">
+    <back><listPerson><person xml:id="wkfm__46549">
+                     <persName>
+                        <forename>Susanna</forename>
+                        <surname>Stelzerin</surname>
+                        <surname type="alt">Hölzl</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-1040.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1040</note></noteGrp></person>
+                <person xml:id="wkfm__46545">
                      <persName>
                         <forename>Franz</forename>
                         <surname>Hölzl</surname>
@@ -137,13 +144,6 @@
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 415 (September 1747).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1039.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1039</note><note target="wkfm-1040.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1040</note></noteGrp></person>
-                <person xml:id="wkfm__46549">
-                     <persName>
-                        <forename>Susanna</forename>
-                        <surname>Stelzerin</surname>
-                        <surname type="alt">Hölzl</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-1040.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1040</note></noteGrp></person>
                 <person xml:id="wkfm__46547">
                      <persName>
                         <forename>Joseph</forename>

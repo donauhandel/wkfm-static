@@ -102,7 +102,15 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__8752" sameAs="#wkfm__15534 wkfm__34439 wkfm__18899 wkfm__36143 ">
+    <back><listPerson><person xml:id="wkfm__46120" sameAs="#wkfm__25736 ">
+                     <persName>
+                        <forename>Joseph</forename>
+                        <surname>Winkler</surname>
+                        <surname type="alt">Winckhler</surname>
+                     </persName>
+                     <occupation>Bediensteter und Prokurist des Johann Peter Käpler</occupation>
+               <noteGrp><note target="wkfm-0397.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0397</note></noteGrp></person>
+                <person xml:id="wkfm__8752" sameAs="#wkfm__15534 wkfm__34439 wkfm__18899 wkfm__36143 ">
                      <persName>
                         <forename>Johann Peter</forename>
                         <surname>Käpler</surname>
@@ -122,14 +130,6 @@
                         <forename>Anton</forename>
                         <surname>Denk</surname>
                         <surname type="alt">Denkh</surname>
-                     </persName>
-                     <occupation>Bediensteter und Prokurist des Johann Peter Käpler</occupation>
-               <noteGrp><note target="wkfm-0397.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0397</note></noteGrp></person>
-                <person xml:id="wkfm__46120" sameAs="#wkfm__25736 ">
-                     <persName>
-                        <forename>Joseph</forename>
-                        <surname>Winkler</surname>
-                        <surname type="alt">Winckhler</surname>
                      </persName>
                      <occupation>Bediensteter und Prokurist des Johann Peter Käpler</occupation>
                <noteGrp><note target="wkfm-0397.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0397</note></noteGrp></person>

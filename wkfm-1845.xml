@@ -117,13 +117,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43861">
-                     <persName>
-                        <forename>Paul</forename>
-                        <surname>Stumer</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-1845.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1845</note></noteGrp></person>
-                <person xml:id="wkfm__43860">
+    <back><listPerson><person xml:id="wkfm__43860">
                      <persName>
                         <forename>Adam</forename>
                         <surname>Zott</surname>
@@ -133,6 +127,12 @@
                      <listBibl>
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 573 (Dezember 1742).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
+               <noteGrp><note target="wkfm-1845.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1845</note></noteGrp></person>
+                <person xml:id="wkfm__43861">
+                     <persName>
+                        <forename>Paul</forename>
+                        <surname>Stumer</surname>
+                     </persName>
                <noteGrp><note target="wkfm-1845.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1845</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

@@ -92,7 +92,15 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__26085">
+    <back><listPerson><person xml:id="wkfm__46974">
+                     <persName>
+                        <forename>None</forename>
+                        <surname>None</surname>
+                     </persName>
+                     <occupation>Handelsfrau</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-1743.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1743</note></noteGrp></person>
+                <person xml:id="wkfm__26085">
                      <persName>
                         <forename>Fabrizius</forename>
                         <surname>Wurmseher</surname>
@@ -108,13 +116,5 @@
                         <bibl>Huchler, Bürgeraufnahmen, 569 (27. Juli 1714: &amp;#34;Wurmbsegger&amp;#34;).&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1743.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1743</note><note target="wkfm-1744.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1744</note></noteGrp></person>
-                <person xml:id="wkfm__46974">
-                     <persName>
-                        <forename>None</forename>
-                        <surname>None</surname>
-                     </persName>
-                     <occupation>Handelsfrau</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-1743.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1743</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

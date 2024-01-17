@@ -109,7 +109,16 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__44039">
+    <back><listPerson><person xml:id="wkfm__43998">
+                     <persName>
+                        <forename>Ignaz</forename>
+                        <surname>Nigg</surname>
+                     </persName>
+                     <death><date>1754</date></death>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-0303.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0303</note><note target="wkfm-1325.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1325</note></noteGrp></person>
+                <person xml:id="wkfm__44039">
                      <persName>
                         <forename>Dominicus</forename>
                         <surname>Bormastini</surname>
@@ -120,15 +129,6 @@
                         <bibl>Huchler, Bürgeraufnahmen, 350 (Dezember 1748).&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0313.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0313</note><note target="wkfm-1325.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1325</note></noteGrp></person>
-                <person xml:id="wkfm__43998">
-                     <persName>
-                        <forename>Ignaz</forename>
-                        <surname>Nigg</surname>
-                     </persName>
-                     <death><date>1754</date></death>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-0303.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0303</note><note target="wkfm-1325.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1325</note></noteGrp></person>
                 <person xml:id="wkfm__37748">
                      <persName>
                         <forename>Johann</forename>

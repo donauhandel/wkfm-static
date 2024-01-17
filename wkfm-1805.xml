@@ -110,13 +110,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47029">
-                     <persName>
-                        <forename>None</forename>
-                        <surname>None</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-1805.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1805</note></noteGrp></person>
-                <person xml:id="wkfm__47027">
+    <back><listPerson><person xml:id="wkfm__47027">
                      <persName>
                         <forename>Johann Jakob</forename>
                         <surname>Wurschbaur</surname>
@@ -128,6 +122,12 @@
                      <listBibl>
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 569 (Dezember 1744).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
+               <noteGrp><note target="wkfm-1805.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1805</note></noteGrp></person>
+                <person xml:id="wkfm__47029">
+                     <persName>
+                        <forename>None</forename>
+                        <surname>None</surname>
+                     </persName>
                <noteGrp><note target="wkfm-1805.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1805</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

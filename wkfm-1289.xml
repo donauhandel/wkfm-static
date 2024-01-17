@@ -95,15 +95,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46944">
-                     <persName>
-                        <forename>Andre Friedrich</forename>
-                        <surname>Mäzinger</surname>
-                     </persName>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-1289.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1289</note><note target="wkfm-1290.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1290</note></noteGrp></person>
-                <person xml:id="wkfm__9008">
+    <back><listPerson><person xml:id="wkfm__9008">
                      <persName>
                         <forename>Andre</forename>
                         <surname>Mäzinger</surname>
@@ -115,5 +107,13 @@
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 459 (16. November 1711).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1215.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1215</note><note target="wkfm-1216.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1216</note><note target="wkfm-1289.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1289</note><note target="wkfm-1291.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1291</note><note target="wkfm-1817.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1817</note></noteGrp></person>
+                <person xml:id="wkfm__46944">
+                     <persName>
+                        <forename>Andre Friedrich</forename>
+                        <surname>Mäzinger</surname>
+                     </persName>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-1289.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1289</note><note target="wkfm-1290.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1290</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

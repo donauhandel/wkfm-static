@@ -100,15 +100,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__38569">
-                     <persName>
-                        <forename>Franz Ignaz</forename>
-                        <surname>Schwarzenberger</surname>
-                     </persName>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">hofbefreit</occupation>
-               <noteGrp><note target="wkfm-1631.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1631</note><note target="wkfm-1632.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1632</note></noteGrp></person>
-                <person xml:id="wkfm__47533">
+    <back><listPerson><person xml:id="wkfm__47533">
                      <persName>
                         <forename>Helena</forename>
                         <surname>Liebin</surname>
@@ -116,5 +108,13 @@
                         <surname type="alt">Mußerin</surname>
                      </persName>
                <noteGrp><note target="wkfm-1632.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1632</note></noteGrp></person>
+                <person xml:id="wkfm__38569">
+                     <persName>
+                        <forename>Franz Ignaz</forename>
+                        <surname>Schwarzenberger</surname>
+                     </persName>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">hofbefreit</occupation>
+               <noteGrp><note target="wkfm-1631.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1631</note><note target="wkfm-1632.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1632</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

@@ -134,15 +134,6 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0481.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0481</note><note target="wkfm-0482.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0482</note><note target="wkfm-1693.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1693</note></noteGrp></person>
-                <person xml:id="wkfm__47603">
-                     <persName>
-                        <forename>Johann Georg</forename>
-                        <surname>Steyrer</surname>
-                     </persName>
-                     <death><date>1780</date></death>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-1693.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1693</note></noteGrp></person>
                 <person xml:id="wkfm__47043">
                      <persName>
                         <forename>Johann Andre</forename>
@@ -153,5 +144,14 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1693.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1693</note><note target="wkfm-1817.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1817</note><note target="wkfm-1818.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1818</note></noteGrp></person>
+                <person xml:id="wkfm__47603">
+                     <persName>
+                        <forename>Johann Georg</forename>
+                        <surname>Steyrer</surname>
+                     </persName>
+                     <death><date>1780</date></death>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-1693.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1693</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

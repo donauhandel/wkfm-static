@@ -88,7 +88,17 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__30296">
+    <back><listPerson><person xml:id="wkfm__8096">
+                     <persName>
+                        <forename>Claudius</forename>
+                        <surname>Cheret</surname>
+                        <surname type="alt">Scheret</surname>
+                     </persName>
+                     <death><date>1739</date></death>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-0385.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0385</note><note target="wkfm-0386.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0386</note></noteGrp></person>
+                <person xml:id="wkfm__30296">
                      <persName>
                         <forename>Peter</forename>
                         <surname>Condray</surname>
@@ -99,15 +109,5 @@
                         <bibl>Huchler, Bürgeraufnahmen, 356 (Juni 1732 &amp;#34;Contary&amp;#34;).&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0386.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0386</note><note target="wkfm-0449.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0449</note><note target="wkfm-0450.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0450</note><note target="wkfm-0452.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0452</note></noteGrp></person>
-                <person xml:id="wkfm__8096">
-                     <persName>
-                        <forename>Claudius</forename>
-                        <surname>Cheret</surname>
-                        <surname type="alt">Scheret</surname>
-                     </persName>
-                     <death><date>1739</date></death>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-0385.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0385</note><note target="wkfm-0386.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0386</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

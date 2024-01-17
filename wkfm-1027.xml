@@ -121,7 +121,14 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46170">
+    <back><listPerson><person xml:id="wkfm__46526">
+                     <persName>
+                        <forename>None</forename>
+                        <surname>von Dietmansdorf</surname>
+                     </persName>
+                     <occupation type="aemter">Dr.</occupation>
+               <noteGrp><note target="wkfm-1027.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1027</note></noteGrp></person>
+                <person xml:id="wkfm__46170">
                      <persName>
                         <forename>Franz Joseph</forename>
                         <forename type="alt">Franz</forename>
@@ -141,12 +148,5 @@
                      <occupation>Tuchhändlerin</occupation>
                      <occupation type="kaufmannsklasse">tuchlaubensverwandt/bürgerlich</occupation>
                <noteGrp><note target="wkfm-0923.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0923</note><note target="wkfm-0924.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0924</note><note target="wkfm-1027.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1027</note><note target="wkfm-1028.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1028</note></noteGrp></person>
-                <person xml:id="wkfm__46526">
-                     <persName>
-                        <forename>None</forename>
-                        <surname>von Dietmansdorf</surname>
-                     </persName>
-                     <occupation type="aemter">Dr.</occupation>
-               <noteGrp><note target="wkfm-1027.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1027</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

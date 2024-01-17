@@ -115,14 +115,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__17851">
-                     <persName>
-                        <forename>Johann Georg</forename>
-                        <surname>Dietmann</surname>
-                     </persName>
-                     <occupation>Prokurist des Ruprecht Traunpauer</occupation>
-               <noteGrp><note target="wkfm-0561.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0561</note></noteGrp></person>
-                <person xml:id="wkfm__6935">
+    <back><listPerson><person xml:id="wkfm__6935">
                      <persName>
                         <forename>Ruprecht</forename>
                         <surname>Traunpauer</surname>
@@ -139,6 +132,13 @@
                      <persName>
                         <forename>Johann Joseph Karl</forename>
                         <surname>Zwirner</surname>
+                     </persName>
+                     <occupation>Prokurist des Ruprecht Traunpauer</occupation>
+               <noteGrp><note target="wkfm-0561.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0561</note></noteGrp></person>
+                <person xml:id="wkfm__17851">
+                     <persName>
+                        <forename>Johann Georg</forename>
+                        <surname>Dietmann</surname>
                      </persName>
                      <occupation>Prokurist des Ruprecht Traunpauer</occupation>
                <noteGrp><note target="wkfm-0561.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0561</note></noteGrp></person>

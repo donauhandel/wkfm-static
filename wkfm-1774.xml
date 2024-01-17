@@ -87,7 +87,15 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__14589" sameAs="#wkfm__32094 ">
+    <back><listPerson><person xml:id="wkfm__39974">
+                     <persName>
+                        <forename>Franz</forename>
+                        <surname>von Wiesenhüter</surname>
+                     </persName>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+               <noteGrp><note target="wkfm-1773.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1773</note><note target="wkfm-1774.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1774</note></noteGrp></person>
+                <person xml:id="wkfm__14589" sameAs="#wkfm__32094 ">
                      <persName>
                         <forename>Johann Friedrich</forename>
                         <surname>von Wiesenhüter</surname>
@@ -100,14 +108,6 @@
                      <listBibl>
                         <bibl>Dietz, Frankfurter Handelsgeschichte 4/1, 383f.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
-               <noteGrp><note target="wkfm-1773.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1773</note><note target="wkfm-1774.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1774</note></noteGrp></person>
-                <person xml:id="wkfm__39974">
-                     <persName>
-                        <forename>Franz</forename>
-                        <surname>von Wiesenhüter</surname>
-                     </persName>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                <noteGrp><note target="wkfm-1773.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1773</note><note target="wkfm-1774.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1774</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

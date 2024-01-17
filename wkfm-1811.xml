@@ -114,7 +114,20 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47035" sameAs="#wkfm__47544 ">
+    <back><listPerson><person xml:id="wkfm__47032" sameAs="#wkfm__12611 ">
+                     <persName>
+                        <forename>Johann</forename>
+                        <surname>Weigart</surname>
+                        <surname type="alt">Weygarth</surname>
+                     </persName>
+                     <death><date>1754</date></death>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+                     <listBibl>
+                        <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 557 (Dezember 1746).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-1811.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1811</note></noteGrp></person>
+                <person xml:id="wkfm__47035" sameAs="#wkfm__47544 ">
                      <persName>
                         <forename>Martin Joseph</forename>
                         <surname>Sensel</surname>
@@ -128,19 +141,6 @@
                         <forename>Johann</forename>
                         <surname>Scharnagl</surname>
                      </persName>
-               <noteGrp><note target="wkfm-1811.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1811</note></noteGrp></person>
-                <person xml:id="wkfm__47032" sameAs="#wkfm__12611 ">
-                     <persName>
-                        <forename>Johann</forename>
-                        <surname>Weigart</surname>
-                        <surname type="alt">Weygarth</surname>
-                     </persName>
-                     <death><date>1754</date></death>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-                     <listBibl>
-                        <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 557 (Dezember 1746).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
-                     </listBibl>
                <noteGrp><note target="wkfm-1811.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1811</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

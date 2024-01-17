@@ -124,16 +124,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43887">
-                     <persName>
-                        <forename>Franz</forename>
-                        <surname>Kleinrath</surname>
-                     </persName>
-                     <death><date>1761</date></death>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-0155.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0155</note><note target="wkfm-0485.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0485</note><note target="wkfm-0486.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0486</note></noteGrp></person>
-                <person xml:id="wkfm__9548">
+    <back><listPerson><person xml:id="wkfm__9548">
                      <persName>
                         <forename>Johann Franz</forename>
                         <surname>Prager</surname>
@@ -152,6 +143,15 @@
                         <surname>Pragerin</surname>
                      </persName>
                      <occupation>Handelsfrau</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-0155.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0155</note><note target="wkfm-0485.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0485</note><note target="wkfm-0486.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0486</note></noteGrp></person>
+                <person xml:id="wkfm__43887">
+                     <persName>
+                        <forename>Franz</forename>
+                        <surname>Kleinrath</surname>
+                     </persName>
+                     <death><date>1761</date></death>
+                     <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0155.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0155</note><note target="wkfm-0485.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0485</note><note target="wkfm-0486.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0486</note></noteGrp></person>
                 </listPerson></back></text>

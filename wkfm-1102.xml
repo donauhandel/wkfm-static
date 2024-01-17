@@ -88,7 +88,18 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46775">
+    <back><listPerson><person xml:id="wkfm__9516">
+                     <persName>
+                        <forename>Hieronymus</forename>
+                        <surname>Löschenkohl</surname>
+                     </persName>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+                     <listBibl>
+                        <bibl>&amp;lt;span&amp;gt;Schönfeld, Wirtschaftsgeschichte Regensburgs, 57f.&amp;lt;/span&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-1101.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1101</note><note target="wkfm-1102.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1102</note></noteGrp></person>
+                <person xml:id="wkfm__46775">
                      <persName>
                         <forename>Andre</forename>
                         <surname>Löschenkohl</surname>
@@ -118,17 +129,6 @@
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                      <listBibl>
                         <bibl>&amp;lt;span&amp;gt;Kröpfel, Protestantismus, Anhang 1, S. 4.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-1101.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1101</note><note target="wkfm-1102.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1102</note></noteGrp></person>
-                <person xml:id="wkfm__9516">
-                     <persName>
-                        <forename>Hieronymus</forename>
-                        <surname>Löschenkohl</surname>
-                     </persName>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-                     <listBibl>
-                        <bibl>&amp;lt;span&amp;gt;Schönfeld, Wirtschaftsgeschichte Regensburgs, 57f.&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1101.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1101</note><note target="wkfm-1102.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1102</note></noteGrp></person>
                 </listPerson></back></text>

@@ -28,22 +28,34 @@
                         </ul>
                      </li>
                      <li class="nav-item"><a class="nav-link" href="toc.html">Editionseinheiten</a></li>
-                     <li class="nav-item dropdown disabled"><a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Register</a><ul class="dropdown-menu">
-                           <li><a class="dropdown-item" href="listperson.html">Personen</a></li>
-                           <li><a class="dropdown-item" href="listplace.html">Orte</a></li>
-                           <li><a class="dropdown-item" href="listorg.html">Organisationen</a></li>
-                           <li><a class="dropdown-item" href="listbibl.html">Werke</a></li>
-                        </ul>
-                     </li>
+                     <li class="nav-item"><a class="nav-link" href="listperson.html">Personenregister</a></li>
                      <li class="nav-item"><a title="Suche" class="nav-link" href="search.html">Suche</a></li>
                   </ul>
                </div>
             </div>
          </nav>
       </header>
-      <div class="container">
-         <h1>Volltextsuche</h1>
-      </div>
+      <main class="flex-shrink-0">
+         <div class="container">
+            <h1 class="text-center">Volltextsuche</h1>
+            <div class="ais-InstantSearch">
+               <div class="row">
+                  <div class="col-md-4">
+                     <div id="stats-container"></div>
+                     <div id="searchbox"></div>
+                     <div id="current-refinements"></div>
+                     <div id="clear-refinements"></div>
+                     <h2 class="pt-2">Personen</h2>
+                     <div id="refinement-list-persons"></div>
+                  </div>
+                  <div class="col-md-8">
+                     <div id="hits"></div>
+                     <div id="pagination"></div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </main>
       <footer  class="footer mt-auto py-3 bg-body-tertiary">
          <div class="container p-4">
             <div class="row my-4">
@@ -100,5 +112,5 @@
                 new Darkmode().showWidget();
             }
             window.addEventListener('load', addDarkmodeWidget);
-        </script></body>
+        </script><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/instantsearch.css@7/themes/algolia-min.css"><script src="https://cdn.jsdelivr.net/npm/instantsearch.js@4.46.0"></script><script src="https://cdn.jsdelivr.net/npm/typesense-instantsearch-adapter@2/dist/typesense-instantsearch-adapter.min.js"></script><script src="js/ts_index.js"></script></body>
 </html>

@@ -106,22 +106,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__24036">
-                     <persName>
-                        <forename>None</forename>
-                        <surname>Wilkens</surname>
-                     </persName>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-               <noteGrp><note target="wkfm-1789.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1789</note></noteGrp></person>
-                <person xml:id="wkfm__47011">
-                     <persName>
-                        <forename>Christian</forename>
-                        <surname>Wimber</surname>
-                     </persName>
-                     <occupation>Prokurist bei Wilkens und Bosquet</occupation>
-               <noteGrp><note target="wkfm-1789.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1789</note></noteGrp></person>
-                <person xml:id="wkfm__47012">
+    <back><listPerson><person xml:id="wkfm__47012">
                      <persName>
                         <forename>Franz Joseph</forename>
                         <surname>Cornelißen</surname>
@@ -135,6 +120,21 @@
                      </persName>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+               <noteGrp><note target="wkfm-1789.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1789</note></noteGrp></person>
+                <person xml:id="wkfm__24036">
+                     <persName>
+                        <forename>None</forename>
+                        <surname>Wilkens</surname>
+                     </persName>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+               <noteGrp><note target="wkfm-1789.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1789</note></noteGrp></person>
+                <person xml:id="wkfm__47011">
+                     <persName>
+                        <forename>Christian</forename>
+                        <surname>Wimber</surname>
+                     </persName>
+                     <occupation>Prokurist bei Wilkens und Bosquet</occupation>
                <noteGrp><note target="wkfm-1789.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1789</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

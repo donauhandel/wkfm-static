@@ -96,15 +96,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43986">
-                     <persName>
-                        <forename>Franz Joseph</forename>
-                        <surname>Pürker</surname>
-                     </persName>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-0299.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0299</note><note target="wkfm-0300.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0300</note><note target="wkfm-0609.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0609</note></noteGrp></person>
-                <person xml:id="wkfm__43991">
+    <back><listPerson><person xml:id="wkfm__43991">
                      <persName>
                         <forename>Maria Anna</forename>
                         <surname>Zinnerin</surname>
@@ -112,5 +104,13 @@
                         <surname type="alt">von Rechtbergerin</surname>
                      </persName>
                <noteGrp><note target="wkfm-0300.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0300</note></noteGrp></person>
+                <person xml:id="wkfm__43986">
+                     <persName>
+                        <forename>Franz Joseph</forename>
+                        <surname>Pürker</surname>
+                     </persName>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-0299.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0299</note><note target="wkfm-0300.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0300</note><note target="wkfm-0609.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0609</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

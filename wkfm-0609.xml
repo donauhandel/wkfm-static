@@ -106,14 +106,6 @@
                      <occupation>Angestellter bei Melchior Rathgeb, Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0609.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0609</note></noteGrp></person>
-                <person xml:id="wkfm__43986">
-                     <persName>
-                        <forename>Franz Joseph</forename>
-                        <surname>Pürker</surname>
-                     </persName>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-0299.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0299</note><note target="wkfm-0300.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0300</note><note target="wkfm-0609.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0609</note></noteGrp></person>
                 <person xml:id="wkfm__46169">
                      <persName>
                         <forename>Melchior</forename>
@@ -122,5 +114,13 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0471.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0471</note><note target="wkfm-0609.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0609</note><note target="wkfm-1422.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1422</note><note target="wkfm-1429.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1429</note><note target="wkfm-1430.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1430</note></noteGrp></person>
+                <person xml:id="wkfm__43986">
+                     <persName>
+                        <forename>Franz Joseph</forename>
+                        <surname>Pürker</surname>
+                     </persName>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-0299.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0299</note><note target="wkfm-0300.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0300</note><note target="wkfm-0609.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0609</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

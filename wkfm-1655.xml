@@ -96,13 +96,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47563">
-                     <persName>
-                        <forename>Anna Maria</forename>
-                        <surname>Schillinger</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-1655.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1655</note></noteGrp></person>
-                <person xml:id="wkfm__47561" sameAs="#wkfm__22147 ">
+    <back><listPerson><person xml:id="wkfm__47561" sameAs="#wkfm__22147 ">
                      <persName>
                         <forename>Johann</forename>
                         <surname>Schillinger</surname>
@@ -112,6 +106,12 @@
                      <listBibl>
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 514 (Dezember 1746).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
+               <noteGrp><note target="wkfm-1655.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1655</note></noteGrp></person>
+                <person xml:id="wkfm__47563">
+                     <persName>
+                        <forename>Anna Maria</forename>
+                        <surname>Schillinger</surname>
+                     </persName>
                <noteGrp><note target="wkfm-1655.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1655</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

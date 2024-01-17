@@ -98,17 +98,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__10201" sameAs="#wkfm__8501 ">
-                     <persName>
-                        <forename>Johann Leonhard</forename>
-                        <surname>Bittoni</surname>
-                        <surname type="alt">Pittoni</surname>
-                     </persName>
-                     <death><date>1748</date></death>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-0130.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0130</note><note target="wkfm-0131.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0131</note><note target="wkfm-0798.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0798</note><note target="wkfm-1263.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1263</note></noteGrp></person>
-                <person xml:id="wkfm__47175">
+    <back><listPerson><person xml:id="wkfm__47175">
                      <persName>
                         <forename>Franz</forename>
                         <surname>Favay</surname>
@@ -134,5 +124,15 @@
                         <bibl>Budischowsky, Bernhard Falquet; Budischowsky, Puthon; Matis, Manufakturen, 270, 364.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0251.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0251</note><note target="wkfm-0759.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0759</note><note target="wkfm-0760.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0760</note><note target="wkfm-0797.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0797</note><note target="wkfm-0798.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0798</note><note target="wkfm-0800.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0800</note></noteGrp></person>
+                <person xml:id="wkfm__10201" sameAs="#wkfm__8501 ">
+                     <persName>
+                        <forename>Johann Leonhard</forename>
+                        <surname>Bittoni</surname>
+                        <surname type="alt">Pittoni</surname>
+                     </persName>
+                     <death><date>1748</date></death>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-0130.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0130</note><note target="wkfm-0131.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0131</note><note target="wkfm-0798.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0798</note><note target="wkfm-1263.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1263</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

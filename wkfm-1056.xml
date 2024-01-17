@@ -93,7 +93,14 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46566">
+    <back><listPerson><person xml:id="wkfm__46569" sameAs="#wkfm__11115 wkfm__46512 ">
+                     <persName>
+                        <forename>Anna Maria</forename>
+                        <surname>Strasserin</surname>
+                        <surname type="alt">Heigl</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-1056.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1056</note></noteGrp></person>
+                <person xml:id="wkfm__46566">
                      <persName>
                         <forename>Johann Sebastian</forename>
                         <surname>Heigl</surname>
@@ -102,12 +109,5 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1055.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1055</note><note target="wkfm-1056.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1056</note></noteGrp></person>
-                <person xml:id="wkfm__46569" sameAs="#wkfm__11115 wkfm__46512 ">
-                     <persName>
-                        <forename>Anna Maria</forename>
-                        <surname>Strasserin</surname>
-                        <surname type="alt">Heigl</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-1056.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1056</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

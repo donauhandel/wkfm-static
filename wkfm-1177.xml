@@ -116,13 +116,13 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46843" sameAs="#wkfm__43421 ">
+    <back><listPerson><person xml:id="wkfm__46844">
                      <persName>
-                        <forename>Johann</forename>
-                        <surname>Engelhard</surname>
-                        <surname type="alt">Englhart</surname>
+                        <forename>Maria Anna</forename>
+                        <surname>Pillerin</surname>
+                        <surname type="alt">Müllner</surname>
                      </persName>
-               <noteGrp><note target="wkfm-1177.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1177</note></noteGrp></person>
+               <noteGrp><note target="wkfm-1177.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1177</note><note target="wkfm-1284.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1284</note></noteGrp></person>
                 <person xml:id="wkfm__46841">
                      <persName>
                         <forename>Johann Georg</forename>
@@ -131,13 +131,6 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1177.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1177</note></noteGrp></person>
-                <person xml:id="wkfm__46844">
-                     <persName>
-                        <forename>Maria Anna</forename>
-                        <surname>Pillerin</surname>
-                        <surname type="alt">Müllner</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-1177.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1177</note><note target="wkfm-1284.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1284</note></noteGrp></person>
                 <person xml:id="wkfm__46845">
                      <persName>
                         <forename>Maria Elisabeth</forename>
@@ -146,5 +139,12 @@
                         <surname type="alt">Langenser</surname>
                      </persName>
                <noteGrp><note target="wkfm-1177.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1177</note><note target="wkfm-1178.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1178</note></noteGrp></person>
+                <person xml:id="wkfm__46843" sameAs="#wkfm__43421 ">
+                     <persName>
+                        <forename>Johann</forename>
+                        <surname>Engelhard</surname>
+                        <surname type="alt">Englhart</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-1177.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1177</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

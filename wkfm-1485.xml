@@ -100,7 +100,15 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47413">
+    <back><listPerson><person xml:id="wkfm__6108" sameAs="#wkfm__44286 ">
+                     <persName>
+                        <forename>Johann Adam</forename>
+                        <surname>Schmidt</surname>
+                     </persName>
+                     <occupation>Handelsmann, Spezereihandelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-1485.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1485</note><note target="wkfm-1486.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1486</note></noteGrp></person>
+                <person xml:id="wkfm__47413">
                      <persName>
                         <forename>Eva Rosina</forename>
                         <surname>Schmidt</surname>
@@ -114,13 +122,5 @@
                         <surname>Schmidt</surname>
                      </persName>
                <noteGrp><note target="wkfm-1483.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1483</note><note target="wkfm-1485.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1485</note></noteGrp></person>
-                <person xml:id="wkfm__6108" sameAs="#wkfm__44286 ">
-                     <persName>
-                        <forename>Johann Adam</forename>
-                        <surname>Schmidt</surname>
-                     </persName>
-                     <occupation>Handelsmann, Spezereihandelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-1485.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1485</note><note target="wkfm-1486.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1486</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>
