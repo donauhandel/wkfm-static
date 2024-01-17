@@ -96,14 +96,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46837">
-                     <persName>
-                        <forename>Eva Franziska</forename>
-                        <surname>Weisser</surname>
-                        <surname type="alt">Lasser</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-1176.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1176</note></noteGrp></person>
-                <person xml:id="wkfm__46835">
+    <back><listPerson><person xml:id="wkfm__46835">
                      <persName>
                         <forename>Sebastian</forename>
                         <surname>Lassner</surname>
@@ -112,5 +105,12 @@
                      <occupation>Angestellter bei Franz Franzoni, Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1175.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1175</note><note target="wkfm-1176.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1176</note></noteGrp></person>
+                <person xml:id="wkfm__46837">
+                     <persName>
+                        <forename>Eva Franziska</forename>
+                        <surname>Weisser</surname>
+                        <surname type="alt">Lasser</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-1176.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1176</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

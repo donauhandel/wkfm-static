@@ -114,7 +114,18 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__23922" sameAs="#wkfm__26471 wkfm__28011 ">
+    <back><listPerson><person xml:id="wkfm__47565">
+                     <persName>
+                        <forename>Franz Anton</forename>
+                        <surname>Schnierer</surname>
+                     </persName>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+                     <listBibl>
+                        <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 520 (Dezember 1745).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-1659.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1659</note><note target="wkfm-1660.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1660</note></noteGrp></person>
+                <person xml:id="wkfm__23922" sameAs="#wkfm__26471 wkfm__28011 ">
                      <persName>
                         <forename>Wolf Karl</forename>
                         <surname>von Nideröst</surname>
@@ -127,16 +138,5 @@
                         <bibl>Harrer-Lucienfeld, Wien, seiner Häuser, Bd. 4.3, S. 541.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1659.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1659</note><note target="wkfm-25378458.xml" type="mentions">Wiener Merkantilprotokoll Nr. 25378458</note><note target="wkfm-25378461.xml" type="mentions">Wiener Merkantilprotokoll Nr. 25378461</note></noteGrp></person>
-                <person xml:id="wkfm__47565">
-                     <persName>
-                        <forename>Franz Anton</forename>
-                        <surname>Schnierer</surname>
-                     </persName>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-                     <listBibl>
-                        <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 520 (Dezember 1745).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-1659.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1659</note><note target="wkfm-1660.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1660</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

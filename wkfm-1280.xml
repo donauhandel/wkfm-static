@@ -137,7 +137,14 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46932">
+    <back><listPerson><person xml:id="wkfm__46936">
+                     <persName>
+                        <forename>None</forename>
+                        <surname>None</surname>
+                     </persName>
+                     <death><date>1792</date></death>
+               <noteGrp><note target="wkfm-1280.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1280</note></noteGrp></person>
+                <person xml:id="wkfm__46932">
                      <persName>
                         <forename>Georg Christoph</forename>
                         <surname>Müller</surname>
@@ -169,12 +176,5 @@
                         <bibl>&amp;lt;span&amp;gt;Mittenzwei, Zwischen Gestern und Morgen, 85 (zur ev. Religion der Coith)&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1279.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1279</note><note target="wkfm-1280.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1280</note></noteGrp></person>
-                <person xml:id="wkfm__46936">
-                     <persName>
-                        <forename>None</forename>
-                        <surname>None</surname>
-                     </persName>
-                     <death><date>1792</date></death>
-               <noteGrp><note target="wkfm-1280.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1280</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

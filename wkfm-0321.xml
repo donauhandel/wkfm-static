@@ -126,20 +126,17 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__44053">
+    <back><listPerson><person xml:id="wkfm__17422" sameAs="#wkfm__3193 ">
                      <persName>
-                        <forename>Johann Andre</forename>
-                        <surname>von Schmidt</surname>
-                        <surname type="alt">Schmidt</surname>
+                        <forename>Zacharias</forename>
+                        <surname>Kriner</surname>
                      </persName>
-                     <birth><date>1691</date></birth>
-                     <death><date>1760</date></death>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                      <listBibl>
-                        <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Seibold, Wirtschaftlicher Erfolg, Bd. 1, 453-455.&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
+                        <bibl>&amp;lt;span&amp;gt;Seibold, Wirtschaftlicher Erfolg 1, 450-455; Serles, Nürnberger Händler, 124f.&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
-               <noteGrp><note target="wkfm-0321.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0321</note><note target="wkfm-0322.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0322</note><note target="wkfm-1667.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1667</note><note target="wkfm-1668.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1668</note><note target="wkfm-1669.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1669</note><note target="wkfm-1670.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1670</note></noteGrp></person>
+               <noteGrp><note target="wkfm-0321.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0321</note></noteGrp></person>
                 <person xml:id="wkfm__44051">
                      <persName>
                         <forename>Johann Kaspar</forename>
@@ -155,17 +152,13 @@
                         <bibl>&amp;lt;span&amp;gt;Seibold, Wirtschaftlicher Erfolg, Bd. 1, 453f., 504-507; &amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Mittenzwei, Zwischen Gestern und Morgen, 74, &amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0321.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0321</note><note target="wkfm-0322.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0322</note><note target="wkfm-1667.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1667</note><note target="wkfm-1668.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1668</note><note target="wkfm-1669.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1669</note><note target="wkfm-1670.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1670</note></noteGrp></person>
-                <person xml:id="wkfm__17422" sameAs="#wkfm__3193 ">
+                <person xml:id="wkfm__9744">
                      <persName>
-                        <forename>Zacharias</forename>
-                        <surname>Kriner</surname>
+                        <forename>Peter</forename>
+                        <surname>Kuzer</surname>
                      </persName>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-                     <listBibl>
-                        <bibl>&amp;lt;span&amp;gt;Seibold, Wirtschaftlicher Erfolg 1, 450-455; Serles, Nürnberger Händler, 124f.&amp;lt;/span&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-0321.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0321</note></noteGrp></person>
+                     <occupation>Kassier und Prokurist bei Kriner, Schmidt und Scheidlin</occupation>
+               <noteGrp><note target="wkfm-0321.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0321</note><note target="wkfm-1667.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1667</note><note target="wkfm-1669.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1669</note></noteGrp></person>
                 <person xml:id="wkfm__11308" sameAs="#wkfm__43501 ">
                      <persName>
                         <forename>Matthias</forename>
@@ -180,12 +173,19 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
 205-211, hier 209.&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0321.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0321</note><note target="wkfm-0322.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0322</note><note target="wkfm-1667.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1667</note><note target="wkfm-1668.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1668</note><note target="wkfm-1669.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1669</note><note target="wkfm-1670.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1670</note></noteGrp></person>
-                <person xml:id="wkfm__9744">
+                <person xml:id="wkfm__44053">
                      <persName>
-                        <forename>Peter</forename>
-                        <surname>Kuzer</surname>
+                        <forename>Johann Andre</forename>
+                        <surname>von Schmidt</surname>
+                        <surname type="alt">Schmidt</surname>
                      </persName>
-                     <occupation>Kassier und Prokurist bei Kriner, Schmidt und Scheidlin</occupation>
-               <noteGrp><note target="wkfm-0321.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0321</note><note target="wkfm-1667.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1667</note><note target="wkfm-1669.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1669</note></noteGrp></person>
+                     <birth><date>1691</date></birth>
+                     <death><date>1760</date></death>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+                     <listBibl>
+                        <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Seibold, Wirtschaftlicher Erfolg, Bd. 1, 453-455.&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0321.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0321</note><note target="wkfm-0322.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0322</note><note target="wkfm-1667.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1667</note><note target="wkfm-1668.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1668</note><note target="wkfm-1669.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1669</note><note target="wkfm-1670.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1670</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

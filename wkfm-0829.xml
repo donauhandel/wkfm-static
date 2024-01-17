@@ -96,20 +96,20 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46308">
-                     <persName>
-                        <forename>Joseph</forename>
-                        <surname>Gazzinelli</surname>
-                     </persName>
-                     <occupation>Prokurist der Firma Aurelio Gazzinelli</occupation>
-               <noteGrp><note target="wkfm-0829.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0829</note></noteGrp></person>
-                <person xml:id="wkfm__8592">
+    <back><listPerson><person xml:id="wkfm__8592">
                      <persName>
                         <forename>Aurelio</forename>
                         <surname>Gazzinelli</surname>
                      </persName>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
+               <noteGrp><note target="wkfm-0829.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0829</note></noteGrp></person>
+                <person xml:id="wkfm__46308">
+                     <persName>
+                        <forename>Joseph</forename>
+                        <surname>Gazzinelli</surname>
+                     </persName>
+                     <occupation>Prokurist der Firma Aurelio Gazzinelli</occupation>
                <noteGrp><note target="wkfm-0829.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0829</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

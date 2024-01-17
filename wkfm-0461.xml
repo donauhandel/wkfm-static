@@ -119,7 +119,21 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__24742" sameAs="#wkfm__24669 ">
+    <back><listPerson><person xml:id="wkfm__46156">
+                     <persName>
+                        <forename>Adamo</forename>
+                        <surname>Chiocino</surname>
+                        <surname type="alt">Chiochino</surname>
+                        <surname type="alt">Ciochino</surname>
+                     </persName>
+                     <death><date>1772</date></death>
+                     <occupation>Handelsmann, Angestellter des Johann Benedikt Cescotti</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+                     <listBibl>
+                        <bibl>Huchler, Bürgeraufnahmen, 355 (September 1743).&amp;lt;br&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0461.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0461</note><note target="wkfm-0462.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0462</note></noteGrp></person>
+                <person xml:id="wkfm__24742" sameAs="#wkfm__24669 ">
                      <persName>
                         <forename>Johann Benedikt</forename>
                         <forename type="alt">Giovanni Benedetto</forename>
@@ -138,19 +152,5 @@
                         <surname>Radlio</surname>
                      </persName>
                <noteGrp><note target="wkfm-0461.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0461</note></noteGrp></person>
-                <person xml:id="wkfm__46156">
-                     <persName>
-                        <forename>Adamo</forename>
-                        <surname>Chiocino</surname>
-                        <surname type="alt">Chiochino</surname>
-                        <surname type="alt">Ciochino</surname>
-                     </persName>
-                     <death><date>1772</date></death>
-                     <occupation>Handelsmann, Angestellter des Johann Benedikt Cescotti</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-                     <listBibl>
-                        <bibl>Huchler, Bürgeraufnahmen, 355 (September 1743).&amp;lt;br&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-0461.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0461</note><note target="wkfm-0462.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0462</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

@@ -84,7 +84,14 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__9643">
+    <back><listPerson><person xml:id="wkfm__46989">
+                     <persName>
+                        <forename>None</forename>
+                        <surname>Pejrand</surname>
+                     </persName>
+                     <occupation>Handelsmann</occupation>
+               <noteGrp><note target="wkfm-1764.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1764</note></noteGrp></person>
+                <person xml:id="wkfm__9643">
                      <persName>
                         <forename>Johann Jakob</forename>
                         <surname>Wattau</surname>
@@ -95,12 +102,5 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 556 (Februar 1727).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1763.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1763</note><note target="wkfm-1764.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1764</note></noteGrp></person>
-                <person xml:id="wkfm__46989">
-                     <persName>
-                        <forename>None</forename>
-                        <surname>Pejrand</surname>
-                     </persName>
-                     <occupation>Handelsmann</occupation>
-               <noteGrp><note target="wkfm-1764.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1764</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

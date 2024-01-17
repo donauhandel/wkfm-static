@@ -120,6 +120,45 @@
                         <bibl>Kollmer, Familie Palm, passim; &amp;lt;span&amp;gt;Kröpfel, Protestantismus, Anhang 1, S. 5; &amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Kühnert, Taufbuch, 106.&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0069.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0069</note></noteGrp></person>
+                <person xml:id="wkfm__43808">
+                     <persName>
+                        <forename>Jonathan</forename>
+                        <surname>von Palm</surname>
+                     </persName>
+                     <birth><date>1671</date></birth>
+                     <death><date>1740</date></death>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+                     <listBibl>
+                        <bibl>Kollmer, Familie Palm, 43 und passim.&amp;lt;br&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0069.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0069</note></noteGrp></person>
+                <person xml:id="wkfm__13459">
+                     <persName>
+                        <forename>Johann Heinrich</forename>
+                        <surname>Stametz</surname>
+                     </persName>
+                     <death><date>1782</date></death>
+                     <occupation>Handelsmann, Prokurist der Gebrüder Palm</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+                     <listBibl>
+                        <bibl>Mittenzwei, Zwischen gestern und morgen, S. 116; Stökl, Protestantismus, 229. Ein Heinrich Stametz (der Vater?) ist erwähnt bei Senfelder, Gottesacker, 269.&amp;lt;br&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0068.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0068</note><note target="wkfm-0069.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0069</note></noteGrp></person>
+                <person xml:id="wkfm__43805">
+                     <persName>
+                        <forename>Franz Gottlieb</forename>
+                        <surname>Palm</surname>
+                        <surname type="alt">von Palm</surname>
+                     </persName>
+                     <birth><date>1691</date></birth>
+                     <death><date>4.12.1749</date></death>
+                     <occupation>Direktor der Gebrüder Palm, Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+                     <occupation type="aemter">Freiherr</occupation>
+                     <listBibl>
+                        <bibl>Kollmer, Familie Palm, 55 und passim.&amp;lt;br&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0068.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0068</note><note target="wkfm-0069.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0069</note></noteGrp></person>
                 <person xml:id="wkfm__43809">
                      <persName>
                         <forename>Franz</forename>
@@ -145,44 +184,5 @@
                         <bibl>Kollmer, Familie Palm, 45-90.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0069.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0069</note></noteGrp></person>
-                <person xml:id="wkfm__43808">
-                     <persName>
-                        <forename>Jonathan</forename>
-                        <surname>von Palm</surname>
-                     </persName>
-                     <birth><date>1671</date></birth>
-                     <death><date>1740</date></death>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-                     <listBibl>
-                        <bibl>Kollmer, Familie Palm, 43 und passim.&amp;lt;br&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-0069.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0069</note></noteGrp></person>
-                <person xml:id="wkfm__43805">
-                     <persName>
-                        <forename>Franz Gottlieb</forename>
-                        <surname>Palm</surname>
-                        <surname type="alt">von Palm</surname>
-                     </persName>
-                     <birth><date>1691</date></birth>
-                     <death><date>4.12.1749</date></death>
-                     <occupation>Direktor der Gebrüder Palm, Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-                     <occupation type="aemter">Freiherr</occupation>
-                     <listBibl>
-                        <bibl>Kollmer, Familie Palm, 55 und passim.&amp;lt;br&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-0068.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0068</note><note target="wkfm-0069.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0069</note></noteGrp></person>
-                <person xml:id="wkfm__13459">
-                     <persName>
-                        <forename>Johann Heinrich</forename>
-                        <surname>Stametz</surname>
-                     </persName>
-                     <death><date>1782</date></death>
-                     <occupation>Handelsmann, Prokurist der Gebrüder Palm</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-                     <listBibl>
-                        <bibl>Mittenzwei, Zwischen gestern und morgen, S. 116; Stökl, Protestantismus, 229. Ein Heinrich Stametz (der Vater?) ist erwähnt bei Senfelder, Gottesacker, 269.&amp;lt;br&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-0068.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0068</note><note target="wkfm-0069.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0069</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

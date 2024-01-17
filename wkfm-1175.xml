@@ -129,12 +129,6 @@
                         <surname type="alt">Praunschmidt</surname>
                      </persName>
                <noteGrp><note target="wkfm-1175.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1175</note></noteGrp></person>
-                <person xml:id="wkfm__46840">
-                     <persName>
-                        <forename>Johann Michael</forename>
-                        <surname>Schweikhard</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-1175.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1175</note></noteGrp></person>
                 <person xml:id="wkfm__46835">
                      <persName>
                         <forename>Sebastian</forename>
@@ -156,5 +150,11 @@
                         <bibl>Mittenzwei, Zwischen Gestern und Morgen, 194f.; &amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 380 (Dezember 1742).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0781.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0781</note><note target="wkfm-0782.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0782</note><note target="wkfm-1175.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1175</note></noteGrp></person>
+                <person xml:id="wkfm__46840">
+                     <persName>
+                        <forename>Johann Michael</forename>
+                        <surname>Schweikhard</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-1175.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1175</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

@@ -131,7 +131,18 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__8593">
+    <back><listPerson><person xml:id="wkfm__36354">
+                     <persName>
+                        <forename>Johann Anton</forename>
+                        <forename type="alt">Anton</forename>
+                        <surname>Bormastini</surname>
+                        <surname type="alt">Wormastin</surname>
+                        <surname type="alt">Bormastino</surname>
+                     </persName>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">hofbefreit</occupation>
+               <noteGrp><note target="wkfm-0194.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0194</note><note target="wkfm-0195.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0195</note><note target="wkfm-1471.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1471</note><note target="wkfm-1472.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1472</note></noteGrp></person>
+                <person xml:id="wkfm__8593">
                      <persName>
                         <forename>Johann Maria</forename>
                         <surname>von Tinti</surname>
@@ -155,17 +166,6 @@
                      <persName>
                         <forename>Karl Joseph</forename>
                         <surname>Stark</surname>
-                     </persName>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">hofbefreit</occupation>
-               <noteGrp><note target="wkfm-0194.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0194</note><note target="wkfm-0195.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0195</note><note target="wkfm-1471.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1471</note><note target="wkfm-1472.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1472</note></noteGrp></person>
-                <person xml:id="wkfm__36354">
-                     <persName>
-                        <forename>Johann Anton</forename>
-                        <forename type="alt">Anton</forename>
-                        <surname>Bormastini</surname>
-                        <surname type="alt">Wormastin</surname>
-                        <surname type="alt">Bormastino</surname>
                      </persName>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>

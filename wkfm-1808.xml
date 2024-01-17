@@ -88,7 +88,14 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__36452" sameAs="#wkfm__10158 ">
+    <back><listPerson><person xml:id="wkfm__47030">
+                     <persName>
+                        <forename>Rosalia</forename>
+                        <surname>Muhrin</surname>
+                        <surname type="alt">Wolf</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-1808.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1808</note></noteGrp></person>
+                <person xml:id="wkfm__36452" sameAs="#wkfm__10158 ">
                      <persName>
                         <forename>Johann Anton</forename>
                         <surname>Wolf</surname>
@@ -99,12 +106,5 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 567 (September 1743).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1807.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1807</note><note target="wkfm-1808.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1808</note></noteGrp></person>
-                <person xml:id="wkfm__47030">
-                     <persName>
-                        <forename>Rosalia</forename>
-                        <surname>Muhrin</surname>
-                        <surname type="alt">Wolf</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-1808.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1808</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

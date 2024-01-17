@@ -96,7 +96,14 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__10359" sameAs="#wkfm__17863 ">
+    <back><listPerson><person xml:id="wkfm__46201" sameAs="#wkfm__11692 ">
+                     <persName>
+                        <forename>Jakob</forename>
+                        <surname>Schmidt</surname>
+                     </persName>
+                     <occupation>Angestellter und Prokurist des Johann Michael Dietmann</occupation>
+               <noteGrp><note target="wkfm-0515.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0515</note></noteGrp></person>
+                <person xml:id="wkfm__10359" sameAs="#wkfm__17863 ">
                      <persName>
                         <forename>Johann Michael</forename>
                         <surname>Dietmann</surname>
@@ -109,12 +116,5 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 362 (28. August 1705).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0515.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0515</note><note target="wkfm-0516.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0516</note></noteGrp></person>
-                <person xml:id="wkfm__46201" sameAs="#wkfm__11692 ">
-                     <persName>
-                        <forename>Jakob</forename>
-                        <surname>Schmidt</surname>
-                     </persName>
-                     <occupation>Angestellter und Prokurist des Johann Michael Dietmann</occupation>
-               <noteGrp><note target="wkfm-0515.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0515</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

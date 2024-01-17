@@ -94,18 +94,18 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46877">
+    <back><listPerson><person xml:id="wkfm__46876" sameAs="#wkfm__17723 ">
                      <persName>
                         <forename>None</forename>
-                        <surname>Raffeseder</surname>
+                        <surname>Martin</surname>
                      </persName>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1225.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1225</note><note target="wkfm-1226.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1226</note></noteGrp></person>
-                <person xml:id="wkfm__46876" sameAs="#wkfm__17723 ">
+                <person xml:id="wkfm__46877">
                      <persName>
                         <forename>None</forename>
-                        <surname>Martin</surname>
+                        <surname>Raffeseder</surname>
                      </persName>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>

@@ -108,10 +108,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47468">
+    <back><listPerson><person xml:id="wkfm__47467">
                      <persName>
-                        <forename>Johann</forename>
-                        <surname>Carignani</surname>
+                        <forename>Domenico</forename>
+                        <surname>Bigongini</surname>
                      </persName>
                      <occupation>Handelsmann, Wechsler</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
@@ -124,10 +124,10 @@
                      <occupation>Prokurist bei Johann Peter Augustin, Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
                <noteGrp><note target="wkfm-0008.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0008</note><note target="wkfm-1557.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1557</note><note target="wkfm-1558.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1558</note></noteGrp></person>
-                <person xml:id="wkfm__47467">
+                <person xml:id="wkfm__47468">
                      <persName>
-                        <forename>Domenico</forename>
-                        <surname>Bigongini</surname>
+                        <forename>Johann</forename>
+                        <surname>Carignani</surname>
                      </persName>
                      <occupation>Handelsmann, Wechsler</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>

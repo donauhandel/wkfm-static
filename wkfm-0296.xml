@@ -123,20 +123,20 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43982">
+    <back><listPerson><person xml:id="wkfm__43983">
+                     <persName>
+                        <forename>Franz Xaver</forename>
+                        <surname>Pach</surname>
+                     </persName>
+                     <occupation>Handelsmann</occupation>
+               <noteGrp><note target="wkfm-0296.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0296</note></noteGrp></person>
+                <person xml:id="wkfm__43982">
                      <persName>
                         <forename>Maria Elisabeth</forename>
                         <surname>Pachin</surname>
                         <surname type="alt">Pertholdin</surname>
                      </persName>
                      <occupation>Handelsfrau</occupation>
-               <noteGrp><note target="wkfm-0296.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0296</note></noteGrp></person>
-                <person xml:id="wkfm__43983">
-                     <persName>
-                        <forename>Franz Xaver</forename>
-                        <surname>Pach</surname>
-                     </persName>
-                     <occupation>Handelsmann</occupation>
                <noteGrp><note target="wkfm-0296.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0296</note></noteGrp></person>
                 <person xml:id="wkfm__43981">
                      <persName>

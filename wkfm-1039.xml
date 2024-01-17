@@ -117,20 +117,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__30180">
-                     <persName>
-                        <forename>Bartholomäus</forename>
-                        <forename type="alt">Bartolomeo</forename>
-                        <surname>Contrini</surname>
-                        <surname type="alt">Contrin</surname>
-                     </persName>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-                     <listBibl>
-                        <bibl>Huchler, Bürgeraufnahmen, 356 (September 1739 &amp;#34;Courtini&amp;#34;).&amp;lt;br&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-0447.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0447</note><note target="wkfm-0448.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0448</note><note target="wkfm-1039.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1039</note></noteGrp></person>
-                <person xml:id="wkfm__46545">
+    <back><listPerson><person xml:id="wkfm__46545">
                      <persName>
                         <forename>Franz</forename>
                         <surname>Hölzl</surname>
@@ -147,5 +134,18 @@
                         <surname>Hölzl</surname>
                      </persName>
                <noteGrp><note target="wkfm-1039.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1039</note></noteGrp></person>
+                <person xml:id="wkfm__30180">
+                     <persName>
+                        <forename>Bartholomäus</forename>
+                        <forename type="alt">Bartolomeo</forename>
+                        <surname>Contrini</surname>
+                        <surname type="alt">Contrin</surname>
+                     </persName>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+                     <listBibl>
+                        <bibl>Huchler, Bürgeraufnahmen, 356 (September 1739 &amp;#34;Courtini&amp;#34;).&amp;lt;br&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0447.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0447</note><note target="wkfm-0448.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0448</note><note target="wkfm-1039.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1039</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

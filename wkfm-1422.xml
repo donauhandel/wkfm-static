@@ -129,6 +129,12 @@
                      <occupation>Handelsmann, Materialist</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1383.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1383</note><note target="wkfm-1421.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1421</note><note target="wkfm-1422.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1422</note></noteGrp></person>
+                <person xml:id="wkfm__46732">
+                     <persName>
+                        <forename>Kunigunda</forename>
+                        <surname>Weygertin</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-1422.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1422</note></noteGrp></person>
                 <person xml:id="wkfm__46169">
                      <persName>
                         <forename>Melchior</forename>
@@ -154,12 +160,6 @@
                         <forename>Franziska</forename>
                         <surname>Kircherin</surname>
                         <surname type="alt">Rathgeb</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-1422.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1422</note></noteGrp></person>
-                <person xml:id="wkfm__46732">
-                     <persName>
-                        <forename>Kunigunda</forename>
-                        <surname>Weygertin</surname>
                      </persName>
                <noteGrp><note target="wkfm-1422.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1422</note></noteGrp></person>
                 </listPerson></back></text>

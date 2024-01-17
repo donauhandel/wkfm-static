@@ -135,13 +135,13 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43886">
+    <back><listPerson><person xml:id="wkfm__43887">
                      <persName>
-                        <forename>Maria</forename>
-                        <forename type="alt">Maria Theresia</forename>
-                        <surname>Pragerin</surname>
+                        <forename>Franz</forename>
+                        <surname>Kleinrath</surname>
                      </persName>
-                     <occupation>Handelsfrau</occupation>
+                     <death><date>1761</date></death>
+                     <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0155.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0155</note><note target="wkfm-0485.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0485</note><note target="wkfm-0486.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0486</note></noteGrp></person>
                 <person xml:id="wkfm__9548">
@@ -163,13 +163,13 @@
                         <surname type="alt">Kleinrath</surname>
                      </persName>
                <noteGrp><note target="wkfm-0486.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0486</note></noteGrp></person>
-                <person xml:id="wkfm__43887">
+                <person xml:id="wkfm__43886">
                      <persName>
-                        <forename>Franz</forename>
-                        <surname>Kleinrath</surname>
+                        <forename>Maria</forename>
+                        <forename type="alt">Maria Theresia</forename>
+                        <surname>Pragerin</surname>
                      </persName>
-                     <death><date>1761</date></death>
-                     <occupation>Handelsmann</occupation>
+                     <occupation>Handelsfrau</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0155.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0155</note><note target="wkfm-0485.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0485</note><note target="wkfm-0486.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0486</note></noteGrp></person>
                 </listPerson></back></text>

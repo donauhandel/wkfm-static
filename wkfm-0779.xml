@@ -116,18 +116,17 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47144">
+    <back><listPerson><person xml:id="wkfm__43938" sameAs="#wkfm__13078 ">
                      <persName>
-                        <forename>Wolfgang</forename>
-                        <surname>Oberhager</surname>
+                        <forename>Johann Georg</forename>
+                        <surname>Braun</surname>
                      </persName>
-               <noteGrp><note target="wkfm-0779.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0779</note></noteGrp></person>
-                <person xml:id="wkfm__47145">
-                     <persName>
-                        <forename>Maria Magdalena</forename>
-                        <surname>Breunerin</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-0779.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0779</note></noteGrp></person>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+                     <listBibl>
+                        <bibl>Huchler, Bürgeraufnahmen, 351 (März 1738).&amp;lt;br&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0243.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0243</note><note target="wkfm-0779.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0779</note></noteGrp></person>
                 <person xml:id="wkfm__47142">
                      <persName>
                         <forename>Lorenz</forename>
@@ -139,16 +138,17 @@
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 374 (Dezember 1742).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0779.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0779</note></noteGrp></person>
-                <person xml:id="wkfm__43938" sameAs="#wkfm__13078 ">
+                <person xml:id="wkfm__47144">
                      <persName>
-                        <forename>Johann Georg</forename>
-                        <surname>Braun</surname>
+                        <forename>Wolfgang</forename>
+                        <surname>Oberhager</surname>
                      </persName>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-                     <listBibl>
-                        <bibl>Huchler, Bürgeraufnahmen, 351 (März 1738).&amp;lt;br&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-0243.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0243</note><note target="wkfm-0779.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0779</note></noteGrp></person>
+               <noteGrp><note target="wkfm-0779.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0779</note></noteGrp></person>
+                <person xml:id="wkfm__47145">
+                     <persName>
+                        <forename>Maria Magdalena</forename>
+                        <surname>Breunerin</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0779.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0779</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

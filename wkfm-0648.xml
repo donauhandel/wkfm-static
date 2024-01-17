@@ -162,18 +162,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__23412">
-                     <persName>
-                        <forename>Franz Dionysius</forename>
-                        <surname>Egger</surname>
-                     </persName>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-                     <listBibl>
-                        <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 368 (Dezember 1729).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-0243.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0243</note><note target="wkfm-0647.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0647</note><note target="wkfm-0648.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0648</note></noteGrp></person>
-                <person xml:id="wkfm__27912" sameAs="#wkfm__30184 ">
+    <back><listPerson><person xml:id="wkfm__27912" sameAs="#wkfm__30184 ">
                      <persName>
                         <forename>Johann Ignaz</forename>
                         <surname>Babitsch</surname>
@@ -187,5 +176,16 @@
                         <bibl>&amp;lt;div&amp;gt;Huchler, Bürgeraufnahmen, 343 (Dezember 1735).&amp;lt;/div&amp;gt;&amp;lt;div&amp;gt;Harrer-Lucienfeld, Wien, seiner Häuser, Bd. 2.4, S. 770.&amp;lt;br&amp;gt;&amp;lt;/div&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0233.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0233</note><note target="wkfm-0234.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0234</note><note target="wkfm-0648.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0648</note><note target="wkfm-1179.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1179</note></noteGrp></person>
+                <person xml:id="wkfm__23412">
+                     <persName>
+                        <forename>Franz Dionysius</forename>
+                        <surname>Egger</surname>
+                     </persName>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+                     <listBibl>
+                        <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 368 (Dezember 1729).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0243.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0243</note><note target="wkfm-0647.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0647</note><note target="wkfm-0648.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0648</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>
