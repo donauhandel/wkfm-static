@@ -115,14 +115,6 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1445.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1445</note><note target="wkfm-1649.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1649</note></noteGrp></person>
-                <person xml:id="wkfm__46765">
-                     <persName>
-                        <forename>Matthias Anton</forename>
-                        <surname>Raindinger</surname>
-                     </persName>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-1445.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1445</note><note target="wkfm-1446.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1446</note></noteGrp></person>
                 <person xml:id="wkfm__46767">
                      <persName>
                         <forename>Matthias</forename>
@@ -132,5 +124,13 @@
                      <occupation>Tuchhändler</occupation>
                      <occupation type="kaufmannsklasse">tuchlaubensverwandt/bürgerlich</occupation>
                <noteGrp><note target="wkfm-0742.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0742</note><note target="wkfm-1445.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1445</note></noteGrp></person>
+                <person xml:id="wkfm__46765">
+                     <persName>
+                        <forename>Matthias Anton</forename>
+                        <surname>Raindinger</surname>
+                     </persName>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-1445.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1445</note><note target="wkfm-1446.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1446</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

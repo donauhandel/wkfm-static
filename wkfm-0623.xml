@@ -94,15 +94,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__8957" sameAs="#wkfm__41150 wkfm__41383 ">
-                     <persName>
-                        <forename>Lorenz</forename>
-                        <surname>Eggendorfer</surname>
-                     </persName>
-                     <occupation>Lederhändler</occupation>
-                     <occupation type="kaufmannsklasse">hofbefreit</occupation>
-               <noteGrp><note target="wkfm-0623.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0623</note><note target="wkfm-0624.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0624</note></noteGrp></person>
-                <person xml:id="wkfm__25088">
+    <back><listPerson><person xml:id="wkfm__25088">
                      <persName>
                         <forename>Joseph</forename>
                         <surname>Eggendorfer</surname>
@@ -111,5 +103,13 @@
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
                <noteGrp><note target="wkfm-0623.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0623</note></noteGrp></person>
+                <person xml:id="wkfm__8957" sameAs="#wkfm__41150 wkfm__41383 ">
+                     <persName>
+                        <forename>Lorenz</forename>
+                        <surname>Eggendorfer</surname>
+                     </persName>
+                     <occupation>Lederhändler</occupation>
+                     <occupation type="kaufmannsklasse">hofbefreit</occupation>
+               <noteGrp><note target="wkfm-0623.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0623</note><note target="wkfm-0624.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0624</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

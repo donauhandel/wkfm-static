@@ -100,7 +100,15 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__17568">
+    <back><listPerson><person xml:id="wkfm__15550">
+                     <persName>
+                        <forename>Bernhard</forename>
+                        <surname>Adam</surname>
+                     </persName>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+               <noteGrp><note target="wkfm-0044.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0044</note></noteGrp></person>
+                <person xml:id="wkfm__17568">
                      <persName>
                         <forename>David</forename>
                         <surname>Adam</surname>
@@ -110,14 +118,6 @@
                      <listBibl>
                         <bibl>&amp;lt;span&amp;gt;Kröpfel, Protestantismus, Anhang 1, S. 5.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
-               <noteGrp><note target="wkfm-0044.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0044</note></noteGrp></person>
-                <person xml:id="wkfm__15550">
-                     <persName>
-                        <forename>Bernhard</forename>
-                        <surname>Adam</surname>
-                     </persName>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                <noteGrp><note target="wkfm-0044.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0044</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

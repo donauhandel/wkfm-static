@@ -107,13 +107,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46912">
-                     <persName>
-                        <forename>Sara Maria</forename>
-                        <surname>Mumb</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-0767.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0767</note><note target="wkfm-1259.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1259</note></noteGrp></person>
-                <person xml:id="wkfm__46910" sameAs="#wkfm__43401 ">
+    <back><listPerson><person xml:id="wkfm__46910" sameAs="#wkfm__43401 ">
                      <persName>
                         <forename>Johann Georg</forename>
                         <surname>Mumb</surname>
@@ -125,5 +119,11 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 468 (März 1738).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0767.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0767</note><note target="wkfm-1259.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1259</note><note target="wkfm-1260.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1260</note></noteGrp></person>
+                <person xml:id="wkfm__46912">
+                     <persName>
+                        <forename>Sara Maria</forename>
+                        <surname>Mumb</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0767.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0767</note><note target="wkfm-1259.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1259</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

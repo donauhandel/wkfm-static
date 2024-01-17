@@ -91,7 +91,15 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__44035" sameAs="#wkfm__32106 wkfm__37741 ">
+    <back><listPerson><person xml:id="wkfm__44036">
+                     <persName>
+                        <forename>Anna Katharina</forename>
+                        <surname>Preysolin</surname>
+                        <surname type="alt">Mänzin</surname>
+                        <surname type="alt">Benvenuti</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0310.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0310</note></noteGrp></person>
+                <person xml:id="wkfm__44035" sameAs="#wkfm__32106 wkfm__37741 ">
                      <persName>
                         <forename>Dominicus</forename>
                         <surname>Benvenuti</surname>
@@ -100,13 +108,5 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0309.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0309</note><note target="wkfm-0310.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0310</note></noteGrp></person>
-                <person xml:id="wkfm__44036">
-                     <persName>
-                        <forename>Anna Katharina</forename>
-                        <surname>Preysolin</surname>
-                        <surname type="alt">Mänzin</surname>
-                        <surname type="alt">Benvenuti</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-0310.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0310</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

@@ -86,19 +86,19 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46855">
-                     <persName>
-                        <forename>Jakob</forename>
-                        <surname>Pfändl</surname>
-                     </persName>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">hofbefreit</occupation>
-               <noteGrp><note target="wkfm-1188.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1188</note></noteGrp></person>
-                <person xml:id="wkfm__46854">
+    <back><listPerson><person xml:id="wkfm__46854">
                      <persName>
                         <forename>Karl Joseph</forename>
                         <surname>Zänkein</surname>
                         <surname type="alt">Zänkhein</surname>
+                     </persName>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">hofbefreit</occupation>
+               <noteGrp><note target="wkfm-1188.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1188</note></noteGrp></person>
+                <person xml:id="wkfm__46855">
+                     <persName>
+                        <forename>Jakob</forename>
+                        <surname>Pfändl</surname>
                      </persName>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>

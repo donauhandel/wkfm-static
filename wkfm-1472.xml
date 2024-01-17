@@ -131,17 +131,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43904" sameAs="#wkfm__10646 ">
-                     <persName>
-                        <forename>Franz Ferdinand</forename>
-                        <surname>Klaninger von Klanberg</surname>
-                     </persName>
-                     <occupation>Handelsmann, ksl. Hoflieferant, ksl. Theatrallieferant</occupation>
-                     <listBibl>
-                        <bibl>Andrea Sommer-Mathis u.a. (Hgg.), Pietro Metastasio - uomo universale (1698-1782). Festgabe der Österreichischen Akademie der Wissenschaften zum 300. Geburtstag von Pietro Metastasio (Sitzungsberichte der Österreichische Akademie der Wissenschaften, Philosophisch-Historische Klasse 676, Wien 2000) 78-81, 85; Andrea Sommer-Mathis, Hoftheater und Hofoper, in: Michael Hochedlinger u.a. (Hgg.), Verwaltungsgeschichte der Habsburgermonarchie, 1/1, 175-181, hier 176.</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-0194.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0194</note><note target="wkfm-0195.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0195</note><note target="wkfm-1471.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1471</note><note target="wkfm-1472.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1472</note></noteGrp></person>
-                <person xml:id="wkfm__8593">
+    <back><listPerson><person xml:id="wkfm__8593">
                      <persName>
                         <forename>Johann Maria</forename>
                         <surname>von Tinti</surname>
@@ -151,6 +141,16 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                <noteGrp><note target="wkfm-0194.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0194</note><note target="wkfm-0195.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0195</note><note target="wkfm-0997.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0997</note><note target="wkfm-0998.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0998</note><note target="wkfm-1471.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1471</note><note target="wkfm-1472.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1472</note></noteGrp></person>
+                <person xml:id="wkfm__43904" sameAs="#wkfm__10646 ">
+                     <persName>
+                        <forename>Franz Ferdinand</forename>
+                        <surname>Klaninger von Klanberg</surname>
+                     </persName>
+                     <occupation>Handelsmann, ksl. Hoflieferant, ksl. Theatrallieferant</occupation>
+                     <listBibl>
+                        <bibl>Andrea Sommer-Mathis u.a. (Hgg.), Pietro Metastasio - uomo universale (1698-1782). Festgabe der Österreichischen Akademie der Wissenschaften zum 300. Geburtstag von Pietro Metastasio (Sitzungsberichte der Österreichische Akademie der Wissenschaften, Philosophisch-Historische Klasse 676, Wien 2000) 78-81, 85; Andrea Sommer-Mathis, Hoftheater und Hofoper, in: Michael Hochedlinger u.a. (Hgg.), Verwaltungsgeschichte der Habsburgermonarchie, 1/1, 175-181, hier 176.</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0194.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0194</note><note target="wkfm-0195.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0195</note><note target="wkfm-1471.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1471</note><note target="wkfm-1472.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1472</note></noteGrp></person>
                 <person xml:id="wkfm__10683" sameAs="#wkfm__38095 ">
                      <persName>
                         <forename>Karl Joseph</forename>

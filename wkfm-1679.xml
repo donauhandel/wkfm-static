@@ -114,7 +114,15 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47586">
+    <back><listPerson><person xml:id="wkfm__47588">
+                     <persName>
+                        <forename>Theresia</forename>
+                        <surname>Schwitzerin</surname>
+                     </persName>
+                     <occupation>Handelsfrau</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-1679.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1679</note><note target="wkfm-1680.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1680</note></noteGrp></person>
+                <person xml:id="wkfm__47586">
                      <persName>
                         <forename>Johann</forename>
                         <surname>Schwitzer</surname>
@@ -142,13 +150,5 @@
                         <bibl>Huchler, Bürgeraufnahmen, 451 (Juni 1728).&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1089.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1089</note><note target="wkfm-1189.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1189</note><note target="wkfm-1191.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1191</note><note target="wkfm-1227.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1227</note><note target="wkfm-1228.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1228</note><note target="wkfm-1679.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1679</note></noteGrp></person>
-                <person xml:id="wkfm__47588">
-                     <persName>
-                        <forename>Theresia</forename>
-                        <surname>Schwitzerin</surname>
-                     </persName>
-                     <occupation>Handelsfrau</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-1679.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1679</note><note target="wkfm-1680.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1680</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

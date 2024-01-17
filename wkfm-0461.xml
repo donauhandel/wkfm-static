@@ -119,7 +119,20 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46157">
+    <back><listPerson><person xml:id="wkfm__24742" sameAs="#wkfm__24669 ">
+                     <persName>
+                        <forename>Johann Benedikt</forename>
+                        <forename type="alt">Giovanni Benedetto</forename>
+                        <surname>Cescotti</surname>
+                     </persName>
+                     <death><date>1770</date></death>
+                     <occupation>Handelsmann, Prokurist bei Giovanni Maria Rozzio, Prokurist bei Georg Veronese</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+                     <listBibl>
+                        <bibl>Staatskalender für das Jahr 1745, 264.&amp;lt;br&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0433.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0433</note><note target="wkfm-0461.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0461</note><note target="wkfm-0713.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0713</note><note target="wkfm-1387.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1387</note><note target="wkfm-1388.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1388</note></noteGrp></person>
+                <person xml:id="wkfm__46157">
                      <persName>
                         <forename>Jakob</forename>
                         <surname>Radlio</surname>
@@ -139,18 +152,5 @@
                         <bibl>Huchler, Bürgeraufnahmen, 355 (September 1743).&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0461.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0461</note><note target="wkfm-0462.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0462</note></noteGrp></person>
-                <person xml:id="wkfm__24742" sameAs="#wkfm__24669 ">
-                     <persName>
-                        <forename>Johann Benedikt</forename>
-                        <forename type="alt">Giovanni Benedetto</forename>
-                        <surname>Cescotti</surname>
-                     </persName>
-                     <death><date>1770</date></death>
-                     <occupation>Handelsmann, Prokurist bei Giovanni Maria Rozzio, Prokurist bei Georg Veronese</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-                     <listBibl>
-                        <bibl>Staatskalender für das Jahr 1745, 264.&amp;lt;br&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-0433.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0433</note><note target="wkfm-0461.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0461</note><note target="wkfm-0713.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0713</note><note target="wkfm-1387.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1387</note><note target="wkfm-1388.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1388</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

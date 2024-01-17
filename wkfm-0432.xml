@@ -96,7 +96,14 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46138">
+    <back><listPerson><person xml:id="wkfm__46139">
+                     <persName>
+                        <forename>Anna Franziska</forename>
+                        <surname>Dywaltin</surname>
+                        <surname type="alt">Klebinder</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0432.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0432</note></noteGrp></person>
+                <person xml:id="wkfm__46138">
                      <persName>
                         <forename>Johann Georg</forename>
                         <surname>Klebinder</surname>
@@ -104,12 +111,5 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0431.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0431</note><note target="wkfm-0432.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0432</note></noteGrp></person>
-                <person xml:id="wkfm__46139">
-                     <persName>
-                        <forename>Anna Franziska</forename>
-                        <surname>Dywaltin</surname>
-                        <surname type="alt">Klebinder</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-0432.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0432</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

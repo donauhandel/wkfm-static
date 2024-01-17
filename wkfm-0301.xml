@@ -125,18 +125,18 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43993">
-                     <persName>
-                        <forename>Maria Anna</forename>
-                        <surname>Sartorin</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-0301.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0301</note><note target="wkfm-0302.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0302</note></noteGrp></person>
-                <person xml:id="wkfm__43992">
+    <back><listPerson><person xml:id="wkfm__43992">
                      <persName>
                         <forename>Bernhard</forename>
                         <surname>Blumberger</surname>
                      </persName>
                      <occupation>Handelsmann</occupation>
+               <noteGrp><note target="wkfm-0301.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0301</note><note target="wkfm-0302.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0302</note></noteGrp></person>
+                <person xml:id="wkfm__43993">
+                     <persName>
+                        <forename>Maria Anna</forename>
+                        <surname>Sartorin</surname>
+                     </persName>
                <noteGrp><note target="wkfm-0301.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0301</note><note target="wkfm-0302.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0302</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

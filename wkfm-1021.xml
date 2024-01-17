@@ -105,15 +105,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46520">
-                     <persName>
-                        <forename>Maria Magdalena</forename>
-                        <surname>Hofstetter</surname>
-                     </persName>
-                     <occupation>Handelsfrau</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-1021.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1021</note></noteGrp></person>
-                <person xml:id="wkfm__46518">
+    <back><listPerson><person xml:id="wkfm__46518">
                      <persName>
                         <forename>Matthias</forename>
                         <surname>Hofstetter</surname>
@@ -121,6 +113,14 @@
                      </persName>
                      <death><date>1753/55</date></death>
                      <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-1021.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1021</note></noteGrp></person>
+                <person xml:id="wkfm__46520">
+                     <persName>
+                        <forename>Maria Magdalena</forename>
+                        <surname>Hofstetter</surname>
+                     </persName>
+                     <occupation>Handelsfrau</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1021.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1021</note></noteGrp></person>
                 </listPerson></back></text>

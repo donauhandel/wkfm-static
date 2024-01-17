@@ -106,7 +106,18 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__4528" sameAs="#wkfm__44892 ">
+    <back><listPerson><person xml:id="wkfm__43970" sameAs="#wkfm__24470 ">
+                     <persName>
+                        <forename>Johann Franz</forename>
+                        <surname>Patuzzi</surname>
+                        <surname type="alt">Batuzzi</surname>
+                     </persName>
+                     <death><date>1755</date></death>
+                     <listBibl>
+                        <bibl>Harrer-Lucienfeld, Wien, seiner Häuser, Bd. 6.1, S. 210.&amp;lt;br&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0287.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0287</note></noteGrp></person>
+                <person xml:id="wkfm__4528" sameAs="#wkfm__44892 ">
                      <persName>
                         <forename>Bartholomäus</forename>
                         <surname>Patuzzi</surname>
@@ -141,17 +152,6 @@
                      </persName>
                      <listBibl>
                         <bibl>Harrer-Lucienfeld, Wien, seine Häuser, Bd. 6.1, S. 210.&amp;lt;br&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-0287.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0287</note></noteGrp></person>
-                <person xml:id="wkfm__43970" sameAs="#wkfm__24470 ">
-                     <persName>
-                        <forename>Johann Franz</forename>
-                        <surname>Patuzzi</surname>
-                        <surname type="alt">Batuzzi</surname>
-                     </persName>
-                     <death><date>1755</date></death>
-                     <listBibl>
-                        <bibl>Harrer-Lucienfeld, Wien, seiner Häuser, Bd. 6.1, S. 210.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0287.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0287</note></noteGrp></person>
                 </listPerson></back></text>

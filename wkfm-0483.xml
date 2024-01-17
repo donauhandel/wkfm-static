@@ -127,23 +127,12 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46178">
+    <back><listPerson><person xml:id="wkfm__13628">
                      <persName>
-                        <forename>Theresia Juliana</forename>
-                        <surname>Gräfin</surname>
-                        <surname type="alt">Gräffin</surname>
+                        <forename>Johann Georg</forename>
+                        <surname>Reintaler</surname>
+                        <surname type="alt">Reinthaller</surname>
                      </persName>
-                     <occupation>Handelsfrau</occupation>
-               <noteGrp><note target="wkfm-0483.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0483</note></noteGrp></person>
-                <person xml:id="wkfm__46176">
-                     <persName>
-                        <forename>Joseph</forename>
-                        <surname>Kraschink</surname>
-                        <surname type="alt">Kraschinkh</surname>
-                     </persName>
-                     <death><date>1781</date></death>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0483.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0483</note></noteGrp></person>
                 <person xml:id="wkfm__46177">
                      <persName>
@@ -163,12 +152,23 @@
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 510 (Juli 1729).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0483.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0483</note><note target="wkfm-1571.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1571</note><note target="wkfm-1572.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1572</note></noteGrp></person>
-                <person xml:id="wkfm__13628">
+                <person xml:id="wkfm__46178">
                      <persName>
-                        <forename>Johann Georg</forename>
-                        <surname>Reintaler</surname>
-                        <surname type="alt">Reinthaller</surname>
+                        <forename>Theresia Juliana</forename>
+                        <surname>Gräfin</surname>
+                        <surname type="alt">Gräffin</surname>
                      </persName>
+                     <occupation>Handelsfrau</occupation>
+               <noteGrp><note target="wkfm-0483.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0483</note></noteGrp></person>
+                <person xml:id="wkfm__46176">
+                     <persName>
+                        <forename>Joseph</forename>
+                        <surname>Kraschink</surname>
+                        <surname type="alt">Kraschinkh</surname>
+                     </persName>
+                     <death><date>1781</date></death>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0483.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0483</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

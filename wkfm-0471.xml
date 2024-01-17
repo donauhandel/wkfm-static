@@ -113,7 +113,25 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46168">
+    <back><listPerson><person xml:id="wkfm__46170">
+                     <persName>
+                        <forename>Franz Joseph</forename>
+                        <forename type="alt">Franz</forename>
+                        <surname>Hammer</surname>
+                     </persName>
+                     <death><date>1761</date></death>
+                     <occupation>Angesteller der Anna Susanna von Haydern, Tuchhändler</occupation>
+                     <occupation type="kaufmannsklasse">tuchlaubensverwandt/bürgerlich</occupation>
+               <noteGrp><note target="wkfm-0471.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0471</note><note target="wkfm-0923.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0923</note><note target="wkfm-0924.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0924</note><note target="wkfm-1027.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1027</note><note target="wkfm-1028.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1028</note><note target="wkfm-1181.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1181</note></noteGrp></person>
+                <person xml:id="wkfm__46169">
+                     <persName>
+                        <forename>Melchior</forename>
+                        <surname>Rathgeb</surname>
+                     </persName>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-0471.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0471</note><note target="wkfm-0609.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0609</note><note target="wkfm-1422.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1422</note><note target="wkfm-1429.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1429</note><note target="wkfm-1430.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1430</note></noteGrp></person>
+                <person xml:id="wkfm__46168">
                      <persName>
                         <forename>Johann</forename>
                         <surname>Kollmann</surname>
@@ -124,23 +142,5 @@
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0471.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0471</note><note target="wkfm-1055.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1055</note></noteGrp></person>
-                <person xml:id="wkfm__46169">
-                     <persName>
-                        <forename>Melchior</forename>
-                        <surname>Rathgeb</surname>
-                     </persName>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-0471.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0471</note><note target="wkfm-0609.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0609</note><note target="wkfm-1422.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1422</note><note target="wkfm-1429.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1429</note><note target="wkfm-1430.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1430</note></noteGrp></person>
-                <person xml:id="wkfm__46170">
-                     <persName>
-                        <forename>Franz Joseph</forename>
-                        <forename type="alt">Franz</forename>
-                        <surname>Hammer</surname>
-                     </persName>
-                     <death><date>1761</date></death>
-                     <occupation>Angesteller der Anna Susanna von Haydern, Tuchhändler</occupation>
-                     <occupation type="kaufmannsklasse">tuchlaubensverwandt/bürgerlich</occupation>
-               <noteGrp><note target="wkfm-0471.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0471</note><note target="wkfm-0923.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0923</note><note target="wkfm-0924.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0924</note><note target="wkfm-1027.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1027</note><note target="wkfm-1028.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1028</note><note target="wkfm-1181.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1181</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

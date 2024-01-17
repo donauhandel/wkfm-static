@@ -112,16 +112,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46700">
-                     <persName>
-                        <forename>Johann Wilhelm</forename>
-                        <forename type="alt">Adolf Wilhelm</forename>
-                        <surname>Henner</surname>
-                        <surname type="alt">Henne</surname>
-                     </persName>
-                     <occupation>Prokurist bei Rauner und Münch</occupation>
-               <noteGrp><note target="wkfm-1237.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1237</note><note target="wkfm-1381.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1381</note></noteGrp></person>
-                <person xml:id="wkfm__11940" sameAs="#wkfm__25749 ">
+    <back><listPerson><person xml:id="wkfm__11940" sameAs="#wkfm__25749 ">
                      <persName>
                         <forename>Christian</forename>
                         <surname>Münch</surname>
@@ -136,5 +127,14 @@
                         <bibl>&amp;lt;span&amp;gt;Seibold, Wirtschaftlicher Erfolg, Bd. 1, 268-282; &amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Haemmerle, Hochzeitsbücher, 266, Nr. 3650&amp;lt;/span&amp;gt;.&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1237.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1237</note><note target="wkfm-1238.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1238</note><note target="wkfm-1382.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1382</note></noteGrp></person>
+                <person xml:id="wkfm__46700">
+                     <persName>
+                        <forename>Johann Wilhelm</forename>
+                        <forename type="alt">Adolf Wilhelm</forename>
+                        <surname>Henner</surname>
+                        <surname type="alt">Henne</surname>
+                     </persName>
+                     <occupation>Prokurist bei Rauner und Münch</occupation>
+               <noteGrp><note target="wkfm-1237.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1237</note><note target="wkfm-1381.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1381</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

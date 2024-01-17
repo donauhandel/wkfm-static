@@ -104,7 +104,20 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__12424">
+    <back><listPerson><person xml:id="wkfm__47283">
+                     <persName>
+                        <forename>Johann Noah (I.)</forename>
+                        <forename type="alt">Noe</forename>
+                        <forename type="alt">Johann Noe</forename>
+                        <surname>Buirette</surname>
+                     </persName>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+                     <listBibl>
+                        <bibl>Seibold, Wirtschaftlicher Erfolg, 394f.&amp;lt;br&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0087.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0087</note><note target="wkfm-0088.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0088</note><note target="wkfm-0089.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0089</note></noteGrp></person>
+                <person xml:id="wkfm__12424">
                      <persName>
                         <forename>Johann Bernhard</forename>
                         <forename type="alt">Bernhard</forename>
@@ -123,18 +136,5 @@
                      </persName>
                      <occupation>Prokurist der Gebrüder Buirette</occupation>
                <noteGrp><note target="wkfm-0086.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0086</note><note target="wkfm-0088.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0088</note></noteGrp></person>
-                <person xml:id="wkfm__47283">
-                     <persName>
-                        <forename>Johann Noah (I.)</forename>
-                        <forename type="alt">Noe</forename>
-                        <forename type="alt">Johann Noe</forename>
-                        <surname>Buirette</surname>
-                     </persName>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-                     <listBibl>
-                        <bibl>Seibold, Wirtschaftlicher Erfolg, 394f.&amp;lt;br&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-0087.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0087</note><note target="wkfm-0088.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0088</note><note target="wkfm-0089.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0089</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

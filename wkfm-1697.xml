@@ -120,18 +120,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47608">
-                     <persName>
-                        <forename>Johann Michael</forename>
-                        <surname>Schönecker</surname>
-                        <surname type="alt">Schenecker</surname>
-                        <surname type="alt">Schenöckher</surname>
-                     </persName>
-                     <death><date>1769</date></death>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-1697.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1697</note><note target="wkfm-1698.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1698</note></noteGrp></person>
-                <person xml:id="wkfm__47609">
+    <back><listPerson><person xml:id="wkfm__47609">
                      <persName>
                         <forename>Thomas</forename>
                         <surname>Walter</surname>
@@ -143,5 +132,16 @@
                         <surname>Heim</surname>
                      </persName>
                <noteGrp><note target="wkfm-1697.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1697</note></noteGrp></person>
+                <person xml:id="wkfm__47608">
+                     <persName>
+                        <forename>Johann Michael</forename>
+                        <surname>Schönecker</surname>
+                        <surname type="alt">Schenecker</surname>
+                        <surname type="alt">Schenöckher</surname>
+                     </persName>
+                     <death><date>1769</date></death>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-1697.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1697</note><note target="wkfm-1698.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1698</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

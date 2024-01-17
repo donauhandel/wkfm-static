@@ -90,16 +90,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46190">
-                     <persName>
-                        <forename>Elisabeth</forename>
-                        <surname>Dononin</surname>
-                     </persName>
-                     <death><date>1788</date></death>
-                     <occupation>Handelsfrau</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-               <noteGrp><note target="wkfm-0503.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0503</note><note target="wkfm-0504.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0504</note></noteGrp></person>
-                <person xml:id="wkfm__8322">
+    <back><listPerson><person xml:id="wkfm__8322">
                      <persName>
                         <forename>Stephan</forename>
                         <surname>Donon</surname>
@@ -107,6 +98,15 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
+               <noteGrp><note target="wkfm-0503.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0503</note><note target="wkfm-0504.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0504</note></noteGrp></person>
+                <person xml:id="wkfm__46190">
+                     <persName>
+                        <forename>Elisabeth</forename>
+                        <surname>Dononin</surname>
+                     </persName>
+                     <death><date>1788</date></death>
+                     <occupation>Handelsfrau</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                <noteGrp><note target="wkfm-0503.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0503</note><note target="wkfm-0504.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0504</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

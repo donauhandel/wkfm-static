@@ -106,31 +106,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__1513">
-                     <persName>
-                        <forename>Gervais</forename>
-                        <forename type="alt">Gervasius</forename>
-                        <surname>Jenamy</surname>
-                        <surname type="alt">Genami</surname>
-                     </persName>
-                     <birth><date>1682</date></birth>
-                     <death><date>1752</date></death>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-                     <occupation type="aemter">Hoflieferant</occupation>
-                     <listBibl>
-                        <bibl>Raynaud, Savoyische Einwanderung, 174; Maistre, Maistre, Heitz, Colporteurs, 220; &amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 386 (3. Februar 1717)&amp;lt;/span&amp;gt;.</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-1804.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1804</note></noteGrp></person>
-                <person xml:id="wkfm__47026">
-                     <persName>
-                        <forename>Maria Anna</forename>
-                        <surname>Jenamy</surname>
-                        <surname type="alt">Jenamin</surname>
-                        <surname type="alt">Waizmann</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-1804.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1804</note></noteGrp></person>
-                <person xml:id="wkfm__46527">
+    <back><listPerson><person xml:id="wkfm__46527">
                      <persName>
                         <forename>Johann</forename>
                         <surname>Hueter</surname>
@@ -152,5 +128,29 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0224.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0224</note><note target="wkfm-0809.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0809</note><note target="wkfm-1803.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1803</note><note target="wkfm-1804.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1804</note></noteGrp></person>
+                <person xml:id="wkfm__47026">
+                     <persName>
+                        <forename>Maria Anna</forename>
+                        <surname>Jenamy</surname>
+                        <surname type="alt">Jenamin</surname>
+                        <surname type="alt">Waizmann</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-1804.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1804</note></noteGrp></person>
+                <person xml:id="wkfm__1513">
+                     <persName>
+                        <forename>Gervais</forename>
+                        <forename type="alt">Gervasius</forename>
+                        <surname>Jenamy</surname>
+                        <surname type="alt">Genami</surname>
+                     </persName>
+                     <birth><date>1682</date></birth>
+                     <death><date>1752</date></death>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+                     <occupation type="aemter">Hoflieferant</occupation>
+                     <listBibl>
+                        <bibl>Raynaud, Savoyische Einwanderung, 174; Maistre, Maistre, Heitz, Colporteurs, 220; &amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 386 (3. Februar 1717)&amp;lt;/span&amp;gt;.</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-1804.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1804</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

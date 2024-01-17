@@ -93,20 +93,20 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__17343" sameAs="#wkfm__39435 ">
+    <back><listPerson><person xml:id="wkfm__46791" sameAs="#wkfm__41135 ">
+                     <persName>
+                        <forename>Johann Jakob</forename>
+                        <surname>Leibel</surname>
+                     </persName>
+                     <occupation>Angestellter und Prokurist bei Lorenz le Comte</occupation>
+               <noteGrp><note target="wkfm-1117.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1117</note></noteGrp></person>
+                <person xml:id="wkfm__17343" sameAs="#wkfm__39435 ">
                      <persName>
                         <forename>Lorenz</forename>
                         <surname>Le Comte</surname>
                      </persName>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
-               <noteGrp><note target="wkfm-1117.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1117</note></noteGrp></person>
-                <person xml:id="wkfm__46791" sameAs="#wkfm__41135 ">
-                     <persName>
-                        <forename>Johann Jakob</forename>
-                        <surname>Leibel</surname>
-                     </persName>
-                     <occupation>Angestellter und Prokurist bei Lorenz le Comte</occupation>
                <noteGrp><note target="wkfm-1117.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1117</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

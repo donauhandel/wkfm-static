@@ -107,16 +107,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__41747">
-                     <persName>
-                        <forename>Johann</forename>
-                        <surname>Kittler</surname>
-                     </persName>
-                     <death><date>1759</date></death>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-0479.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0479</note></noteGrp></person>
-                <person xml:id="wkfm__46117">
+    <back><listPerson><person xml:id="wkfm__46117">
                      <persName>
                         <forename>Stephan</forename>
                         <surname>Kittler</surname>
@@ -128,6 +119,15 @@
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 429 (3. Juli 1724).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0391.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0391</note><note target="wkfm-0392.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0392</note><note target="wkfm-0479.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0479</note></noteGrp></person>
+                <person xml:id="wkfm__41747">
+                     <persName>
+                        <forename>Johann</forename>
+                        <surname>Kittler</surname>
+                     </persName>
+                     <death><date>1759</date></death>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-0479.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0479</note></noteGrp></person>
                 <person xml:id="wkfm__46173">
                      <persName>
                         <forename>None</forename>
