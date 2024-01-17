@@ -101,16 +101,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__30193" sameAs="#wkfm__43959 ">
-                     <persName>
-                        <forename>Martin Peter</forename>
-                        <surname>Hilleprand</surname>
-                     </persName>
-                     <death><date>1768</date></death>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-0052.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0052</note><note target="wkfm-0291.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0291</note><note target="wkfm-1031.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1031</note><note target="wkfm-1032.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1032</note></noteGrp></person>
-                <person xml:id="wkfm__46532" sameAs="#wkfm__29251 ">
+    <back><listPerson><person xml:id="wkfm__46532" sameAs="#wkfm__29251 ">
                      <persName>
                         <forename>Johann</forename>
                         <surname>Beham</surname>
@@ -120,5 +111,14 @@
                      <death><date>1779?</date></death>
                      <occupation>Handelsmann</occupation>
                <noteGrp><note target="wkfm-1031.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1031</note><note target="wkfm-1032.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1032</note></noteGrp></person>
+                <person xml:id="wkfm__30193" sameAs="#wkfm__43959 ">
+                     <persName>
+                        <forename>Martin Peter</forename>
+                        <surname>Hilleprand</surname>
+                     </persName>
+                     <death><date>1768</date></death>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-0052.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0052</note><note target="wkfm-0291.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0291</note><note target="wkfm-1031.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1031</note><note target="wkfm-1032.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1032</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

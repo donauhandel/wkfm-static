@@ -92,14 +92,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47581">
-                     <persName>
-                        <forename>Theresia</forename>
-                        <surname>Parthin</surname>
-                        <surname type="alt">Setti</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-1676.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1676</note></noteGrp></person>
-                <person xml:id="wkfm__47580" sameAs="#wkfm__26327 ">
+    <back><listPerson><person xml:id="wkfm__47580" sameAs="#wkfm__26327 ">
                      <persName>
                         <forename>Franz</forename>
                         <surname>Setti</surname>
@@ -108,5 +101,12 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1675.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1675</note><note target="wkfm-1676.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1676</note></noteGrp></person>
+                <person xml:id="wkfm__47581">
+                     <persName>
+                        <forename>Theresia</forename>
+                        <surname>Parthin</surname>
+                        <surname type="alt">Setti</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-1676.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1676</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

@@ -104,7 +104,14 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43889">
+    <back><listPerson><person xml:id="wkfm__47324" sameAs="#wkfm__23529 ">
+                     <persName>
+                        <forename>Franz Ignaz</forename>
+                        <surname>Sorakkl [?]</surname>
+                     </persName>
+                     <occupation>Angestellter und Prokurist bei Joseph Bernini und Gebrüder</occupation>
+               <noteGrp><note target="wkfm-0164.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0164</note></noteGrp></person>
+                <person xml:id="wkfm__43889">
                      <persName>
                         <forename>Hieronymus</forename>
                         <forename type="alt">Girolamo</forename>
@@ -112,13 +119,6 @@
                      </persName>
                      <occupation>Handelsmann</occupation>
                <noteGrp><note target="wkfm-0164.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0164</note><note target="wkfm-0165.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0165</note><note target="wkfm-0239.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0239</note><note target="wkfm-0240.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0240</note></noteGrp></person>
-                <person xml:id="wkfm__47324" sameAs="#wkfm__23529 ">
-                     <persName>
-                        <forename>Franz Ignaz</forename>
-                        <surname>Sorakkl [?]</surname>
-                     </persName>
-                     <occupation>Angestellter und Prokurist bei Joseph Bernini und Gebrüder</occupation>
-               <noteGrp><note target="wkfm-0164.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0164</note></noteGrp></person>
                 <person xml:id="wkfm__23529">
                      <persName>
                         <forename>Franz Ignaz</forename>

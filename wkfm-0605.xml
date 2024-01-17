@@ -122,7 +122,13 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__9468" sameAs="#wkfm__18968 wkfm__46774 ">
+    <back><listPerson><person xml:id="wkfm__46290" sameAs="#wkfm__25429 ">
+                     <persName>
+                        <forename>Matthias</forename>
+                        <surname>Auer</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0605.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0605</note></noteGrp></person>
+                <person xml:id="wkfm__9468" sameAs="#wkfm__18968 wkfm__46774 ">
                      <persName>
                         <forename>Wilhelm</forename>
                         <forename type="alt">Guillaume </forename>
@@ -136,12 +142,6 @@
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Raynaud, Savoyiardische Einwanderungen, 174 (&amp;#34;Genamy, Gauillaume&amp;#34;, Lebensdaten); Huchler, Bürgeraufnahmen, 421 (13. Mai 1719: &amp;#34;Janamy&amp;#34;).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0605.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0605</note><note target="wkfm-1069.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1069</note><note target="wkfm-1070.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1070</note><note target="wkfm-1437.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1437</note></noteGrp></person>
-                <person xml:id="wkfm__46290" sameAs="#wkfm__25429 ">
-                     <persName>
-                        <forename>Matthias</forename>
-                        <surname>Auer</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-0605.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0605</note></noteGrp></person>
                 <person xml:id="wkfm__46288">
                      <persName>
                         <forename>Johann Adam</forename>

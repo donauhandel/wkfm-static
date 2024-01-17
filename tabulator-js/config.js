@@ -4,5 +4,9 @@ var config = {
     height: 800,
     layout: "fitColumns",
     tooltips: true,
-    dataLoader: true
+    dataLoader: true,
+    pagination: "local",
+    paginationSize: 15,
+    paginationCounter: "rows",
+    locale: "de",
 };

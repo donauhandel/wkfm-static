@@ -124,7 +124,14 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__28324" sameAs="#wkfm__27585 ">
+    <back><listPerson><person xml:id="wkfm__46388">
+                     <persName>
+                        <forename>Maria Anna</forename>
+                        <surname>Bertola</surname>
+                        <surname type="alt">Grämbsreither</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0909.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0909</note></noteGrp></person>
+                <person xml:id="wkfm__28324" sameAs="#wkfm__27585 ">
                      <persName>
                         <forename>Franz Joseph</forename>
                         <surname>Grämbsreither</surname>
@@ -136,12 +143,5 @@
                         <bibl>Huchler, Bürgeraufnahmen, 437 (Juli 1733; &amp;#34;Krembsreitter&amp;#34;)&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0879.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0879</note><note target="wkfm-0880.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0880</note><note target="wkfm-0909.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0909</note><note target="wkfm-0928.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0928</note></noteGrp></person>
-                <person xml:id="wkfm__46388">
-                     <persName>
-                        <forename>Maria Anna</forename>
-                        <surname>Bertola</surname>
-                        <surname type="alt">Grämbsreither</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-0909.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0909</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

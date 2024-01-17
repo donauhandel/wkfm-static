@@ -134,14 +134,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46495">
-                     <persName>
-                        <forename>Jakob</forename>
-                        <surname>Pfändl</surname>
-                     </persName>
-                     <occupation>Direktor der Firma Johann Fortunat Heller, Prokurist bei Johann Fortunat Heller</occupation>
-               <noteGrp><note target="wkfm-0997.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0997</note></noteGrp></person>
-                <person xml:id="wkfm__46494">
+    <back><listPerson><person xml:id="wkfm__46494">
                      <persName>
                         <forename>Ignaz</forename>
                         <surname>Kreuter</surname>
@@ -156,6 +149,13 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                <noteGrp><note target="wkfm-0195.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0195</note><note target="wkfm-0997.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0997</note><note target="wkfm-0998.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0998</note></noteGrp></person>
+                <person xml:id="wkfm__46495">
+                     <persName>
+                        <forename>Jakob</forename>
+                        <surname>Pfändl</surname>
+                     </persName>
+                     <occupation>Direktor der Firma Johann Fortunat Heller, Prokurist bei Johann Fortunat Heller</occupation>
+               <noteGrp><note target="wkfm-0997.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0997</note></noteGrp></person>
                 <person xml:id="wkfm__22363" sameAs="#wkfm__10517 ">
                      <persName>
                         <forename>Christian Daniel</forename>

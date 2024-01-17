@@ -118,18 +118,18 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46186">
+    <back><listPerson><person xml:id="wkfm__46183">
+                     <persName>
+                        <forename>Johann Anton</forename>
+                        <surname>Kehrnhofer</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0489.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0489</note></noteGrp></person>
+                <person xml:id="wkfm__46186">
                      <persName>
                         <forename>David</forename>
                         <surname>Meyer</surname>
                      </persName>
                      <occupation>Prokurist der Niederlage der Brünner Lehenbank in Wien</occupation>
-               <noteGrp><note target="wkfm-0489.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0489</note></noteGrp></person>
-                <person xml:id="wkfm__46183">
-                     <persName>
-                        <forename>Johann Anton</forename>
-                        <surname>Kehrnhofer</surname>
-                     </persName>
                <noteGrp><note target="wkfm-0489.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0489</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

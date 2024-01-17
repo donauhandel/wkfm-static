@@ -104,15 +104,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47046">
-                     <persName>
-                        <forename>Johann Baptist</forename>
-                        <surname>Conradt</surname>
-                     </persName>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-1818.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1818</note></noteGrp></person>
-                <person xml:id="wkfm__47043">
+    <back><listPerson><person xml:id="wkfm__47043">
                      <persName>
                         <forename>Johann Andre</forename>
                         <surname>Weygant</surname>
@@ -128,6 +120,14 @@
                         <surname>Beerin</surname>
                         <surname type="alt">Weygant</surname>
                      </persName>
+               <noteGrp><note target="wkfm-1818.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1818</note></noteGrp></person>
+                <person xml:id="wkfm__47046">
+                     <persName>
+                        <forename>Johann Baptist</forename>
+                        <surname>Conradt</surname>
+                     </persName>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1818.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1818</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

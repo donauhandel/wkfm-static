@@ -131,14 +131,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47548" sameAs="#wkfm__12970 ">
-                     <persName>
-                        <forename>Joseph Anton</forename>
-                        <surname>Gluderer</surname>
-                     </persName>
-                     <occupation>Prokurist bei Franz Ludwig Stofferin</occupation>
-               <noteGrp><note target="wkfm-1645.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1645</note></noteGrp></person>
-                <person xml:id="wkfm__4646" sameAs="#wkfm__28419 ">
+    <back><listPerson><person xml:id="wkfm__4646" sameAs="#wkfm__28419 ">
                      <persName>
                         <forename>Joseph</forename>
                         <surname>Peisser</surname>
@@ -166,5 +159,12 @@
                         <surname type="alt">Peisserin</surname>
                      </persName>
                <noteGrp><note target="wkfm-1645.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1645</note><note target="wkfm-1646.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1646</note></noteGrp></person>
+                <person xml:id="wkfm__47548" sameAs="#wkfm__12970 ">
+                     <persName>
+                        <forename>Joseph Anton</forename>
+                        <surname>Gluderer</surname>
+                     </persName>
+                     <occupation>Prokurist bei Franz Ludwig Stofferin</occupation>
+               <noteGrp><note target="wkfm-1645.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1645</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

@@ -102,11 +102,11 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46121" sameAs="#wkfm__22779 ">
+    <back><listPerson><person xml:id="wkfm__46120" sameAs="#wkfm__25736 ">
                      <persName>
-                        <forename>Anton</forename>
-                        <surname>Denk</surname>
-                        <surname type="alt">Denkh</surname>
+                        <forename>Joseph</forename>
+                        <surname>Winkler</surname>
+                        <surname type="alt">Winckhler</surname>
                      </persName>
                      <occupation>Bediensteter und Prokurist des Johann Peter Käpler</occupation>
                <noteGrp><note target="wkfm-0397.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0397</note></noteGrp></person>
@@ -125,11 +125,11 @@
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 424 (4. August 1725).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0397.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0397</note><note target="wkfm-0398.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0398</note></noteGrp></person>
-                <person xml:id="wkfm__46120" sameAs="#wkfm__25736 ">
+                <person xml:id="wkfm__46121" sameAs="#wkfm__22779 ">
                      <persName>
-                        <forename>Joseph</forename>
-                        <surname>Winkler</surname>
-                        <surname type="alt">Winckhler</surname>
+                        <forename>Anton</forename>
+                        <surname>Denk</surname>
+                        <surname type="alt">Denkh</surname>
                      </persName>
                      <occupation>Bediensteter und Prokurist des Johann Peter Käpler</occupation>
                <noteGrp><note target="wkfm-0397.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0397</note></noteGrp></person>

@@ -109,15 +109,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46155">
-                     <persName>
-                        <forename>Niklas Franz</forename>
-                        <surname>Bouvard</surname>
-                     </persName>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-               <noteGrp><note target="wkfm-0457.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0457</note><note target="wkfm-0458.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0458</note></noteGrp></person>
-                <person xml:id="wkfm__46150" sameAs="#wkfm__35989 ">
+    <back><listPerson><person xml:id="wkfm__46150" sameAs="#wkfm__35989 ">
                      <persName>
                         <forename>Wilhelm</forename>
                         <forename type="alt">Guillaume</forename>
@@ -143,6 +135,14 @@
                         <surname>Peter</surname>
                      </persName>
                      <death><date>1782</date></death>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+               <noteGrp><note target="wkfm-0457.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0457</note><note target="wkfm-0458.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0458</note></noteGrp></person>
+                <person xml:id="wkfm__46155">
+                     <persName>
+                        <forename>Niklas Franz</forename>
+                        <surname>Bouvard</surname>
+                     </persName>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                <noteGrp><note target="wkfm-0457.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0457</note><note target="wkfm-0458.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0458</note></noteGrp></person>

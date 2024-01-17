@@ -100,7 +100,15 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__8146">
+    <back><listPerson><person xml:id="wkfm__14160">
+                     <persName>
+                        <forename>Salomon</forename>
+                        <surname>Sinzheim</surname>
+                     </persName>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">jüdisch</occupation>
+               <noteGrp><note target="wkfm-1879.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1879</note><note target="wkfm-1880.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1880</note></noteGrp></person>
+                <person xml:id="wkfm__8146">
                      <persName>
                         <forename>Leb</forename>
                         <forename type="alt">Jehuda Efraim</forename>
@@ -115,14 +123,6 @@
                      <listBibl>
                         <bibl>Wachstein, Die Wiener Juden in Handel und Industrie, Nr. 6, 281; Wachstein, Inschriften, Bd. 2, Nr. 860, 280-285; Grunwald, Oppenheimer, 205-211.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
-               <noteGrp><note target="wkfm-1879.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1879</note><note target="wkfm-1880.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1880</note></noteGrp></person>
-                <person xml:id="wkfm__14160">
-                     <persName>
-                        <forename>Salomon</forename>
-                        <surname>Sinzheim</surname>
-                     </persName>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">jüdisch</occupation>
                <noteGrp><note target="wkfm-1879.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1879</note><note target="wkfm-1880.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1880</note></noteGrp></person>
                 <person xml:id="wkfm__15470">
                      <persName>

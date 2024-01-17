@@ -123,18 +123,15 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43876">
+    <back><listPerson><person xml:id="wkfm__12086">
                      <persName>
-                        <forename>Jakob</forename>
-                        <surname>Jagatitsch</surname>
-                        <surname type="alt">Jogatitsch</surname>
+                        <forename>Rochus</forename>
+                        <forename type="alt">Rocco</forename>
+                        <forename type="alt">Rocho</forename>
+                        <surname>Polti</surname>
                      </persName>
                      <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-                     <listBibl>
-                        <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 422 (Dezember 1746).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-1089.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1089</note><note target="wkfm-1090.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1090</note></noteGrp></person>
+               <noteGrp><note target="wkfm-0056.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0056</note><note target="wkfm-0057.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0057</note><note target="wkfm-1089.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1089</note></noteGrp></person>
                 <person xml:id="wkfm__10730">
                      <persName>
                         <forename>Anton</forename>
@@ -147,14 +144,17 @@
                         <bibl>Huchler, Bürgeraufnahmen, 451 (Juni 1728).&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1089.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1089</note><note target="wkfm-1189.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1189</note><note target="wkfm-1191.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1191</note><note target="wkfm-1227.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1227</note><note target="wkfm-1228.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1228</note><note target="wkfm-1679.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1679</note></noteGrp></person>
-                <person xml:id="wkfm__12086">
+                <person xml:id="wkfm__43876">
                      <persName>
-                        <forename>Rochus</forename>
-                        <forename type="alt">Rocco</forename>
-                        <forename type="alt">Rocho</forename>
-                        <surname>Polti</surname>
+                        <forename>Jakob</forename>
+                        <surname>Jagatitsch</surname>
+                        <surname type="alt">Jogatitsch</surname>
                      </persName>
                      <occupation>Handelsmann</occupation>
-               <noteGrp><note target="wkfm-0056.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0056</note><note target="wkfm-0057.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0057</note><note target="wkfm-1089.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1089</note></noteGrp></person>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+                     <listBibl>
+                        <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 422 (Dezember 1746).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-1089.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1089</note><note target="wkfm-1090.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1090</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

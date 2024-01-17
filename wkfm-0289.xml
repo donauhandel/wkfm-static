@@ -115,13 +115,17 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43976">
+    <back><listPerson><person xml:id="wkfm__43974">
                      <persName>
-                        <forename>David</forename>
-                        <surname>Nachbauer</surname>
+                        <forename>Johann Niklas</forename>
+                        <surname>Plank</surname>
                      </persName>
                      <occupation>Handelsmann</occupation>
-               <noteGrp><note target="wkfm-0289.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0289</note></noteGrp></person>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+                     <listBibl>
+                        <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 486 (Dezember 1745).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0289.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0289</note><note target="wkfm-1394.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1394</note></noteGrp></person>
                 <person xml:id="wkfm__9287" sameAs="#wkfm__7559 ">
                      <persName>
                         <forename>Daniel</forename>
@@ -133,22 +137,18 @@
                         <bibl>Senfelder, Gottesacker, 260.</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0289.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0289</note><note target="wkfm-1279.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1279</note><note target="wkfm-1280.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1280</note><note target="wkfm-1709.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1709</note><note target="wkfm-1710.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1710</note></noteGrp></person>
+                <person xml:id="wkfm__43976">
+                     <persName>
+                        <forename>David</forename>
+                        <surname>Nachbauer</surname>
+                     </persName>
+                     <occupation>Handelsmann</occupation>
+               <noteGrp><note target="wkfm-0289.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0289</note></noteGrp></person>
                 <person xml:id="wkfm__43975">
                      <persName>
                         <forename>Johann Franz</forename>
                         <surname>Zobl</surname>
                      </persName>
                <noteGrp><note target="wkfm-0289.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0289</note></noteGrp></person>
-                <person xml:id="wkfm__43974">
-                     <persName>
-                        <forename>Johann Niklas</forename>
-                        <surname>Plank</surname>
-                     </persName>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-                     <listBibl>
-                        <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 486 (Dezember 1745).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-0289.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0289</note><note target="wkfm-1394.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1394</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

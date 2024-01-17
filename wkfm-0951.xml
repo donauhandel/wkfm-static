@@ -110,7 +110,15 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__9703" sameAs="#wkfm__28031 wkfm__18055 ">
+    <back><listPerson><person xml:id="wkfm__46458">
+                     <persName>
+                        <forename>Franz Joseph</forename>
+                        <surname>Hagenbrunner</surname>
+                        <surname type="alt">Hagenpruner</surname>
+                     </persName>
+                     <occupation>Kassier und Prokurist des Johann Jakob Hauzenberger</occupation>
+               <noteGrp><note target="wkfm-0951.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0951</note></noteGrp></person>
+                <person xml:id="wkfm__9703" sameAs="#wkfm__28031 wkfm__18055 ">
                      <persName>
                         <forename>Johann Jakob</forename>
                         <surname>Hauzenberger</surname>
@@ -119,13 +127,5 @@
                      <occupation>Handelsmann, Wechsler</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
                <noteGrp><note target="wkfm-0951.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0951</note><note target="wkfm-0952.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0952</note></noteGrp></person>
-                <person xml:id="wkfm__46458">
-                     <persName>
-                        <forename>Franz Joseph</forename>
-                        <surname>Hagenbrunner</surname>
-                        <surname type="alt">Hagenpruner</surname>
-                     </persName>
-                     <occupation>Kassier und Prokurist des Johann Jakob Hauzenberger</occupation>
-               <noteGrp><note target="wkfm-0951.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0951</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

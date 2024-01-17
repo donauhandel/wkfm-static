@@ -94,15 +94,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__37974">
-                     <persName>
-                        <forename>Benedikt</forename>
-                        <surname>Mons</surname>
-                        <surname type="alt">Monss</surname>
-                     </persName>
-                     <occupation>Handelsmann</occupation>
-               <noteGrp><note target="wkfm-0930.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0930</note></noteGrp></person>
-                <person xml:id="wkfm__46397">
+    <back><listPerson><person xml:id="wkfm__46397">
                      <persName>
                         <forename>Georg</forename>
                         <surname>von Prunauer</surname>
@@ -117,5 +109,13 @@
                      <occupation>Handelsmann, Wechsler</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                <noteGrp><note target="wkfm-0929.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0929</note><note target="wkfm-0930.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0930</note></noteGrp></person>
+                <person xml:id="wkfm__37974">
+                     <persName>
+                        <forename>Benedikt</forename>
+                        <surname>Mons</surname>
+                        <surname type="alt">Monss</surname>
+                     </persName>
+                     <occupation>Handelsmann</occupation>
+               <noteGrp><note target="wkfm-0930.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0930</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

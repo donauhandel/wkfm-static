@@ -97,18 +97,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47135" sameAs="#wkfm__18681 ">
-                     <persName>
-                        <forename>Peter</forename>
-                        <surname>Farquet</surname>
-                     </persName>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-                     <listBibl>
-                        <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 373 (März 1738).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-0769.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0769</note><note target="wkfm-0770.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0770</note><note target="wkfm-0771.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0771</note><note target="wkfm-0772.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0772</note></noteGrp></person>
-                <person xml:id="wkfm__47133">
+    <back><listPerson><person xml:id="wkfm__47133">
                      <persName>
                         <forename>Christian Peter</forename>
                         <surname>Veigl</surname>
@@ -118,6 +107,17 @@
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <listBibl>
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 549 (März 1738).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0769.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0769</note><note target="wkfm-0770.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0770</note><note target="wkfm-0771.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0771</note><note target="wkfm-0772.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0772</note></noteGrp></person>
+                <person xml:id="wkfm__47135" sameAs="#wkfm__18681 ">
+                     <persName>
+                        <forename>Peter</forename>
+                        <surname>Farquet</surname>
+                     </persName>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+                     <listBibl>
+                        <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 373 (März 1738).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0769.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0769</note><note target="wkfm-0770.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0770</note><note target="wkfm-0771.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0771</note><note target="wkfm-0772.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0772</note></noteGrp></person>
                 </listPerson></back></text>

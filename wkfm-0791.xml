@@ -98,7 +98,20 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__15300">
+    <back><listPerson><person xml:id="wkfm__43798">
+                     <persName>
+                        <forename>Dominicus Anton</forename>
+                        <surname>Ferrari</surname>
+                        <surname type="alt">Ferari</surname>
+                     </persName>
+                     <death><date>1777</date></death>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+                     <listBibl>
+                        <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 375 (Februar 1744: &amp;#34;Dominicus Ferari&amp;#34;)&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0048.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0048</note><note target="wkfm-0791.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0791</note><note target="wkfm-0792.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0792</note></noteGrp></person>
+                <person xml:id="wkfm__15300">
                      <persName>
                         <forename>Johann Anton</forename>
                         <surname>Bormastini</surname>
@@ -113,18 +126,5 @@
                         <surname>Bormastini</surname>
                      </persName>
                <noteGrp><note target="wkfm-0791.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0791</note></noteGrp></person>
-                <person xml:id="wkfm__43798">
-                     <persName>
-                        <forename>Dominicus Anton</forename>
-                        <surname>Ferrari</surname>
-                        <surname type="alt">Ferari</surname>
-                     </persName>
-                     <death><date>1777</date></death>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-                     <listBibl>
-                        <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 375 (Februar 1744: &amp;#34;Dominicus Ferari&amp;#34;)&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-0048.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0048</note><note target="wkfm-0791.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0791</note><note target="wkfm-0792.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0792</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

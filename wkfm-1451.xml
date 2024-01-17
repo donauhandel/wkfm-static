@@ -107,13 +107,14 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46774">
+    <back><listPerson><person xml:id="wkfm__46772">
                      <persName>
-                        <forename>Franz</forename>
-                        <surname>Jenamy</surname>
+                        <forename>Johann</forename>
+                        <surname>Rösler</surname>
+                        <surname type="alt">Reßler</surname>
                      </persName>
-                     <death><date>1762</date></death>
-                     <occupation>Handelsmann</occupation>
+                     <death><date>1757</date></death>
+                     <occupation>Angestellter bei Johann Wegerth, Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1451.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1451</note></noteGrp></person>
                 <person xml:id="wkfm__46773">
@@ -124,14 +125,13 @@
                      </persName>
                      <occupation>Angestellter bei Johann Weygerth</occupation>
                <noteGrp><note target="wkfm-1451.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1451</note></noteGrp></person>
-                <person xml:id="wkfm__46772">
+                <person xml:id="wkfm__46774">
                      <persName>
-                        <forename>Johann</forename>
-                        <surname>Rösler</surname>
-                        <surname type="alt">Reßler</surname>
+                        <forename>Franz</forename>
+                        <surname>Jenamy</surname>
                      </persName>
-                     <death><date>1757</date></death>
-                     <occupation>Angestellter bei Johann Wegerth, Handelsmann</occupation>
+                     <death><date>1762</date></death>
+                     <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1451.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1451</note></noteGrp></person>
                 <person xml:id="wkfm__24729">

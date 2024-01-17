@@ -117,16 +117,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46784">
-                     <persName>
-                        <forename>Michael Augustin</forename>
-                        <surname>Mayr</surname>
-                     </persName>
-                     <death><date>1775</date></death>
-                     <occupation>Tuchhändler</occupation>
-                     <occupation type="kaufmannsklasse">tuchlaubensverwandt/bürgerlich</occupation>
-               <noteGrp><note target="wkfm-1110.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1110</note><note target="wkfm-1285.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1285</note><note target="wkfm-1286.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1286</note></noteGrp></person>
-                <person xml:id="wkfm__8089">
+    <back><listPerson><person xml:id="wkfm__8089">
                      <persName>
                         <forename>Anton</forename>
                         <surname>Lang</surname>
@@ -135,6 +126,15 @@
                      <occupation>Tuchhändler</occupation>
                      <occupation type="kaufmannsklasse">tuchlaubensverwandt/bürgerlich</occupation>
                <noteGrp><note target="wkfm-1109.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1109</note><note target="wkfm-1110.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1110</note><note target="wkfm-1285.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1285</note><note target="wkfm-1286.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1286</note></noteGrp></person>
+                <person xml:id="wkfm__46784">
+                     <persName>
+                        <forename>Michael Augustin</forename>
+                        <surname>Mayr</surname>
+                     </persName>
+                     <death><date>1775</date></death>
+                     <occupation>Tuchhändler</occupation>
+                     <occupation type="kaufmannsklasse">tuchlaubensverwandt/bürgerlich</occupation>
+               <noteGrp><note target="wkfm-1110.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1110</note><note target="wkfm-1285.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1285</note><note target="wkfm-1286.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1286</note></noteGrp></person>
                 <person xml:id="wkfm__46785">
                      <persName>
                         <forename>Jakob</forename>

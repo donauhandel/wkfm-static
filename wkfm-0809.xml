@@ -136,13 +136,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47194">
-                     <persName>
-                        <forename>Johann Georg</forename>
-                        <surname>Unterholzer</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-0809.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0809</note></noteGrp></person>
-                <person xml:id="wkfm__43919">
+    <back><listPerson><person xml:id="wkfm__43919">
                      <persName>
                         <forename>Franz Anton</forename>
                         <forename type="alt">Franz</forename>
@@ -152,12 +146,6 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0224.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0224</note><note target="wkfm-0809.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0809</note><note target="wkfm-1803.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1803</note><note target="wkfm-1804.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1804</note></noteGrp></person>
-                <person xml:id="wkfm__46677">
-                     <persName>
-                        <forename>Johann Joseph</forename>
-                        <surname>Pelser</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-0809.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0809</note><note target="wkfm-1323.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1323</note></noteGrp></person>
                 <person xml:id="wkfm__46846">
                      <persName>
                         <forename>Johann</forename>
@@ -168,6 +156,18 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0809.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0809</note><note target="wkfm-1179.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1179</note></noteGrp></person>
+                <person xml:id="wkfm__46677">
+                     <persName>
+                        <forename>Johann Joseph</forename>
+                        <surname>Pelser</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0809.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0809</note><note target="wkfm-1323.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1323</note></noteGrp></person>
+                <person xml:id="wkfm__47194">
+                     <persName>
+                        <forename>Johann Georg</forename>
+                        <surname>Unterholzer</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0809.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0809</note></noteGrp></person>
                 <person xml:id="wkfm__47193">
                      <persName>
                         <forename>Anton</forename>

@@ -115,7 +115,16 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43977">
+    <back><listPerson><person xml:id="wkfm__30193" sameAs="#wkfm__43959 ">
+                     <persName>
+                        <forename>Martin Peter</forename>
+                        <surname>Hilleprand</surname>
+                     </persName>
+                     <death><date>1768</date></death>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-0052.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0052</note><note target="wkfm-0291.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0291</note><note target="wkfm-1031.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1031</note><note target="wkfm-1032.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1032</note></noteGrp></person>
+                <person xml:id="wkfm__43977">
                      <persName>
                         <forename>Georg</forename>
                         <surname>Passy</surname>
@@ -128,15 +137,6 @@
                         <bibl>&amp;lt;span&amp;gt; Budischowsky, Die Nachkommen des Georg und der Maria Theresia Passy, 145-147, 154. &amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0291.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0291</note><note target="wkfm-0292.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0292</note></noteGrp></person>
-                <person xml:id="wkfm__30193" sameAs="#wkfm__43959 ">
-                     <persName>
-                        <forename>Martin Peter</forename>
-                        <surname>Hilleprand</surname>
-                     </persName>
-                     <death><date>1768</date></death>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-0052.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0052</note><note target="wkfm-0291.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0291</note><note target="wkfm-1031.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1031</note><note target="wkfm-1032.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1032</note></noteGrp></person>
                 <person xml:id="wkfm__43802" sameAs="#wkfm__38592 wkfm__42025 ">
                      <persName>
                         <forename>Johann Baptist</forename>

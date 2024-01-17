@@ -95,7 +95,15 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46463">
+    <back><listPerson><person xml:id="wkfm__46465">
+                     <persName>
+                        <forename>None</forename>
+                        <surname>None</surname>
+                     </persName>
+                     <occupation>Handelsfrau</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-0957.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0957</note></noteGrp></person>
+                <person xml:id="wkfm__46463">
                      <persName>
                         <forename>Martin Wilhelm</forename>
                         <surname>Hofgartner</surname>
@@ -107,14 +115,6 @@
                      <listBibl>
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 412 (5. November 1710).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
-               <noteGrp><note target="wkfm-0957.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0957</note></noteGrp></person>
-                <person xml:id="wkfm__46465">
-                     <persName>
-                        <forename>None</forename>
-                        <surname>None</surname>
-                     </persName>
-                     <occupation>Handelsfrau</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0957.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0957</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>
