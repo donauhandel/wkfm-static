@@ -22,3 +22,5 @@ for x in mentioned_ids:
     else:
         no_match.add(x)
 print(len(match), len(no_match))
+for x in no_match:
+    print(x)
