@@ -1,4 +1,5 @@
 import os
+
 from favicons import Favicons
 
 ICON = os.environ.get("ICON", "./html/images/logo.png")
@@ -22,7 +23,7 @@ with Favicons(ICON, OUT_DIR, base_url=BASE_URL, transparent=TRANSPARENT) as favi
 with open(SNIPPET, "w") as f:
     f.write("<!-- favicon -->\n")
     for x in html:
-        f.write(f"{x}\n".replace('html/', ''))
+        f.write(f"{x}\n".replace("html/", ""))
     f.write("<!-- favicon end -->")
 
 print(f"converted {ICON} into favicon, located at {OUT_DIR}")

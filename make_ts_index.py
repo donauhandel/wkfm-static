@@ -1,12 +1,11 @@
 import glob
 import os
 
-from typesense.api_call import ObjectNotFound
-from acdh_cfts_pyutils import TYPESENSE_CLIENT as client
 from acdh_cfts_pyutils import CFTS_COLLECTION
+from acdh_cfts_pyutils import TYPESENSE_CLIENT as client
 from acdh_tei_pyutils.tei import TeiReader
 from tqdm import tqdm
-
+from typesense.api_call import ObjectNotFound
 
 files = glob.glob("./data/editions/*/*.xml")
 
@@ -73,7 +72,9 @@ for x in tqdm(files, total=len(files)):
         record = {}
         record["id"] = os.path.split(x)[-1].replace(".xml", f".html?tab={str(pages)}")
         cfts_record["id"] = record["id"]
-        cfts_record["resolver"] = f"https://github.com/donauhandel/wkfm-static/{record['id']}"
+        cfts_record[
+            "resolver"
+        ] = f"https://github.com/donauhandel/wkfm-static/{record['id']}"
         record["rec_id"] = os.path.split(x)[-1]
         cfts_record["rec_id"] = record["rec_id"]
         r_title = " ".join(
@@ -137,9 +138,7 @@ for x in tqdm(files, total=len(files)):
                 cfts_record["full_text"] = record["full_text"]
                 cfts_records.append(cfts_record)
 
-make_index = client.collections[
-    "Wiener Merkantilprotokoll"
-].documents.import_(records)
+make_index = client.collections["Wiener Merkantilprotokoll"].documents.import_(records)
 print(make_index)
 print("done with indexing Wiener Merkantilprotokoll")
 
