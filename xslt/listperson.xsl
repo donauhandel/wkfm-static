@@ -30,9 +30,9 @@
                 <xsl:call-template name="nav_bar"/>
 
                 <main>
-                    <div class="container">
+                    <div class="container pt-5 pb-5">
 
-                        <h1>
+                        <h1 class="text-center display-3 pb-3">
                             <xsl:value-of select="$doc_title"/>
                         </h1>
 
@@ -42,6 +42,9 @@
                                     <th scope="col" width="20" tabulator-formatter="html" tabulator-headerSort="false" tabulator-download="false">#</th>
                                     <th scope="col" tabulator-headerFilter="input">Nachname</th>
                                     <th scope="col" tabulator-headerFilter="input">Vorname</th>
+                                    <th scope="col" tabulator-headerFilter="input">geboren</th>
+                                    <th scope="col" tabulator-headerFilter="input">gestorben</th>
+                                    <th scope="col" tabulator-headerFilter="input">Beruf/Amt</th>
                                     <th scope="col" tabulator-headerFilter="input">ID</th>
                                 </tr>
                             </thead>
@@ -60,10 +63,19 @@
                                             </a>
                                         </td>
                                         <td>
-                                            <xsl:value-of select=".//tei:surname/text()"/>
+                                            <xsl:value-of select=".//tei:surname[1]/text()"/>
                                         </td>
                                         <td>
-                                            <xsl:value-of select=".//tei:forename/text()"/>
+                                            <xsl:value-of select=".//tei:forename[1]/text()"/>
+                                        </td>
+                                        <td>
+                                            <xsl:value-of select=".//tei:birth/tei:date/text()"/>
+                                         </td>
+                                        <td>
+                                            <xsl:value-of select=".//tei:death/tei:date/text()"/>
+                                        </td>
+                                        <td>
+                                            <xsl:value-of select=".//tei:occupation/text()"/>
                                         </td>
                                         <td>
                                             <xsl:value-of select="$id"/>
