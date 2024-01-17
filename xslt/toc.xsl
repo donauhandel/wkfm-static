@@ -33,19 +33,20 @@
             <body class="d-flex flex-column h-100">
             <xsl:call-template name="nav_bar"/>
                 <main>
-                    <div class="container">
-                        <h1>Inhaltsverzeichnis</h1>
+                    <div class="container pt-5 pb-5">
+                        <h1 class="text-center display-3 pb-3">Inhaltsverzeichnis</h1>
                         <table class="table" id="myTable">
                             <thead>
                                 <tr>
-                                    <th scope="col" width="20" tabulator-formatter="html" tabulator-headerSort="false" tabulator-download="false">#</th>
-                                    <th scope="col" tabulator-headerFilter="input">Titel</th>
-                                    <th scope="col" tabulator-headerFilter="input">Dateinname</th>
+                                    <th scope="col" tabulator-formatter="html" tabulator-headerFilter="input">Titel</th>
+                                    <th scope="col" tabulator-formatter="html" tabulator-headerFilter="input">erwähnte Personen</th>
+                                    <th scope="col" tabulator-formatter="html" tabulator-headerFilter="input">Anzahl erwähtner Personen</th>
                                 </tr>
                             </thead>
                             <tbody>
                                 <xsl:for-each
                                     select="collection('../data/editions?select=*.xml')//tei:TEI">
+                                    <xsl:sort select="document-uri(/)"/>
                                     <xsl:variable name="full_path">
                                         <xsl:value-of select="document-uri(/)"/>
                                     </xsl:variable>
@@ -53,16 +54,24 @@
                                         <td>
                                             <a>
                                                 <xsl:attribute name="href">
-                                                  <xsl:value-of
-                                                  select="replace(tokenize($full_path, '/')[last()], '.xml', '.html')"
-                                                  />
+                                                    <xsl:value-of
+                                                        select="replace(tokenize($full_path, '/')[last()], '.xml', '.html')"
+                                                    />
                                                 </xsl:attribute>
-                                                <i class="bi bi-link-45deg"/>
+                                            <xsl:value-of
+                                                select=".//tei:titleStmt/tei:title[1]/text()"/>
                                             </a>
                                         </td>
                                         <td>
-                                            <xsl:value-of
-                                                select=".//tei:titleStmt/tei:title[1]/text()"/>
+                                            <ul>
+                                            <xsl:for-each select=".//tei:back//tei:person">
+                                                <li>
+                                                    <a href="{./@xml:id||'.html'}">
+                                                        <xsl:value-of select="./tei:persName[1]/tei:surname[1]/text()"/>, <xsl:value-of select="./tei:persName[1]/tei:forename[1]/text()"/>
+                                                    </a>
+                                                </li>
+                                            </xsl:for-each>
+                                            </ul>
                                         </td>
                                         <td>
                                             <xsl:value-of select="tokenize($full_path, '/')[last()]"

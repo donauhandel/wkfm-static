@@ -48,7 +48,7 @@
             <body class="d-flex flex-column h-100">
                 <xsl:call-template name="nav_bar"/>
                 <main class="flex-shrink-0">
-                    <div class="container">
+                    <div class="container pt-5 pb-5">
 
                         <div class="row">
                             <div class="col-md-2 col-lg-2 col-sm-12">
@@ -64,7 +64,7 @@
                                 </xsl:if>
                             </div>
                             <div class="col-md-8 col-lg-8 col-sm-12">
-                                <h1 align="center">
+                                <h1 class="text-center display-5">
                                     <xsl:value-of select="$doc_title"/>
                                 </h1>
                                 <h3 align="center">
@@ -87,9 +87,10 @@
                             </div>
                         </div>
                         
-                        <div class="row">
+                        <div class="row pt-5">
                             <div class="col">
                                 <div style="width: 100%; height: 800px" id="osd_viewer"/>
+                                <figcaption class="figure-caption text-center">Wiener Stadt- und Landesarchiv (WStLA), Bestand 2.3.2 - Merkantil- und Wechselgericht | 1725-1850-(1863) CC BY-NC-ND 4.0 WStLA </figcaption>
                             </div>
                             <div class="col">
                                 <div class="transcript pb-5">
@@ -137,7 +138,7 @@
                     type: 'image',
                     url: source
                     },
-                    prefixUrl:"https://cdnjs.cloudflare.com/ajax/libs/openseadragon/2.4.1/images/",
+                    prefixUrl:"https://cdnjs.cloudflare.com/ajax/libs/openseadragon/4.1.0/images/",
                     });
                 </script>
                 
