@@ -74,8 +74,7 @@
                                             </ul>
                                         </td>
                                         <td>
-                                            <xsl:value-of select="tokenize($full_path, '/')[last()]"
-                                            />
+                                            <xsl:value-of select="count(.//tei:back//tei:person)"/>
                                         </td>
                                     </tr>
                                 </xsl:for-each>
