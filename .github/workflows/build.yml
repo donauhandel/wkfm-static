@@ -24,7 +24,7 @@ jobs:
     - name: fetch data
       run: ./fetch_data.sh
     - name: Build search index
-      run: python make_tx_index.py
+      run: python make_typesense_index.py
     - name: Build static pages
       run: |
         ant
