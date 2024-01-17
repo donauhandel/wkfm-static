@@ -129,7 +129,13 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47512">
+    <back><listPerson><person xml:id="wkfm__47515">
+                     <persName>
+                        <forename>Maria Josepha</forename>
+                        <surname>Smitmer</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-1621.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1621</note><note target="wkfm-1622.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1622</note></noteGrp></person>
+                <person xml:id="wkfm__47512">
                      <persName>
                         <forename>Franz Michael</forename>
                         <surname>Smitmer</surname>
@@ -144,12 +150,6 @@
                         <forename>Maria Barbara</forename>
                         <surname>Preisingerin</surname>
                         <surname type="alt">Smitmer</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-1621.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1621</note><note target="wkfm-1622.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1622</note></noteGrp></person>
-                <person xml:id="wkfm__47515">
-                     <persName>
-                        <forename>Maria Josepha</forename>
-                        <surname>Smitmer</surname>
                      </persName>
                <noteGrp><note target="wkfm-1621.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1621</note><note target="wkfm-1622.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1622</note></noteGrp></person>
                 <person xml:id="wkfm__47514">

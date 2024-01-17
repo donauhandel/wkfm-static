@@ -90,7 +90,21 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__8272">
+    <back><listPerson><person xml:id="wkfm__8754">
+                     <persName>
+                        <forename>Matthias</forename>
+                        <surname>Hengsberger</surname>
+                     </persName>
+                     <death><date>1739</date></death>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+                     <occupation type="aemter">Äußerer Rat</occupation>
+                     <occupation type="aemter">Vorsteher der bürgerl. Handelsleute</occupation>
+                     <listBibl>
+                        <bibl>Egon Komorzynski, Lessings Braut in Wien, in: Alt-Wiener Kalender für das Jahr 1925 [Wien 1925] 64-91, hier 68.</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0939.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0939</note><note target="wkfm-1714.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1714</note></noteGrp></person>
+                <person xml:id="wkfm__8272">
                      <persName>
                         <forename>Ferdinand</forename>
                         <surname>Wührer</surname>
@@ -106,19 +120,5 @@ Christian Lünig, Theatrum Ceremoniale Historico-Politicum, Bd. 2
 (Leipzig 1720) 1576.</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1713.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1713</note><note target="wkfm-1714.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1714</note></noteGrp></person>
-                <person xml:id="wkfm__8754">
-                     <persName>
-                        <forename>Matthias</forename>
-                        <surname>Hengsberger</surname>
-                     </persName>
-                     <death><date>1739</date></death>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-                     <occupation type="aemter">Äußerer Rat</occupation>
-                     <occupation type="aemter">Vorsteher der bürgerl. Handelsleute</occupation>
-                     <listBibl>
-                        <bibl>Egon Komorzynski, Lessings Braut in Wien, in: Alt-Wiener Kalender für das Jahr 1925 [Wien 1925] 64-91, hier 68.</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-0939.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0939</note><note target="wkfm-1714.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1714</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

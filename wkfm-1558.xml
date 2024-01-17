@@ -90,15 +90,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47468">
-                     <persName>
-                        <forename>Johann</forename>
-                        <surname>Carignani</surname>
-                     </persName>
-                     <occupation>Handelsmann, Wechsler</occupation>
-                     <occupation type="kaufmannsklasse">hofbefreit</occupation>
-               <noteGrp><note target="wkfm-1557.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1557</note><note target="wkfm-1558.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1558</note></noteGrp></person>
-                <person xml:id="wkfm__43782">
+    <back><listPerson><person xml:id="wkfm__43782">
                      <persName>
                         <forename>Anton</forename>
                         <surname>Segalla</surname>
@@ -110,6 +102,14 @@
                      <persName>
                         <forename>Domenico</forename>
                         <surname>Bigongini</surname>
+                     </persName>
+                     <occupation>Handelsmann, Wechsler</occupation>
+                     <occupation type="kaufmannsklasse">hofbefreit</occupation>
+               <noteGrp><note target="wkfm-1557.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1557</note><note target="wkfm-1558.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1558</note></noteGrp></person>
+                <person xml:id="wkfm__47468">
+                     <persName>
+                        <forename>Johann</forename>
+                        <surname>Carignani</surname>
                      </persName>
                      <occupation>Handelsmann, Wechsler</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>

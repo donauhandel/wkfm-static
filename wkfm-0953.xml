@@ -96,15 +96,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46460">
-                     <persName>
-                        <forename>Franz Anton</forename>
-                        <surname>Haas</surname>
-                     </persName>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-               <noteGrp><note target="wkfm-0953.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0953</note><note target="wkfm-0954.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0954</note></noteGrp></person>
-                <person xml:id="wkfm__46459">
+    <back><listPerson><person xml:id="wkfm__46459">
                      <persName>
                         <forename>Johann Jakob</forename>
                         <surname>Haas</surname>
@@ -115,6 +107,14 @@
                 <person xml:id="wkfm__20866">
                      <persName>
                         <forename>Johann Christoph</forename>
+                        <surname>Haas</surname>
+                     </persName>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+               <noteGrp><note target="wkfm-0953.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0953</note><note target="wkfm-0954.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0954</note></noteGrp></person>
+                <person xml:id="wkfm__46460">
+                     <persName>
+                        <forename>Franz Anton</forename>
                         <surname>Haas</surname>
                      </persName>
                      <occupation>Handelsmann</occupation>

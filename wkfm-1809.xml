@@ -102,7 +102,13 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__25597">
+    <back><listPerson><person xml:id="wkfm__41799">
+                     <persName>
+                        <forename>Marx Joseph</forename>
+                        <surname>Hink</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-1809.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1809</note></noteGrp></person>
+                <person xml:id="wkfm__25597">
                      <persName>
                         <forename>Johann Michael</forename>
                         <surname>Weigl</surname>
@@ -113,11 +119,5 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 557 (Dezember 1745).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1662.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1662</note><note target="wkfm-1809.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1809</note></noteGrp></person>
-                <person xml:id="wkfm__41799">
-                     <persName>
-                        <forename>Marx Joseph</forename>
-                        <surname>Hink</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-1809.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1809</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

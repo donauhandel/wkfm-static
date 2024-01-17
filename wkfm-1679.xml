@@ -114,14 +114,13 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47588">
+    <back><listPerson><person xml:id="wkfm__47589">
                      <persName>
-                        <forename>Theresia</forename>
-                        <surname>Schwitzerin</surname>
+                        <forename>Johann Michael</forename>
+                        <surname>Schwitzer</surname>
                      </persName>
-                     <occupation>Handelsfrau</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-1679.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1679</note><note target="wkfm-1680.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1680</note></noteGrp></person>
+                     <occupation>Prokurist von Theresia Schwitzerin sel. Witwe</occupation>
+               <noteGrp><note target="wkfm-1679.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1679</note></noteGrp></person>
                 <person xml:id="wkfm__10730">
                      <persName>
                         <forename>Anton</forename>
@@ -143,12 +142,13 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1679.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1679</note><note target="wkfm-1680.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1680</note></noteGrp></person>
-                <person xml:id="wkfm__47589">
+                <person xml:id="wkfm__47588">
                      <persName>
-                        <forename>Johann Michael</forename>
-                        <surname>Schwitzer</surname>
+                        <forename>Theresia</forename>
+                        <surname>Schwitzerin</surname>
                      </persName>
-                     <occupation>Prokurist von Theresia Schwitzerin sel. Witwe</occupation>
-               <noteGrp><note target="wkfm-1679.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1679</note></noteGrp></person>
+                     <occupation>Handelsfrau</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-1679.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1679</note><note target="wkfm-1680.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1680</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

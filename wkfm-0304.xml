@@ -86,7 +86,17 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43999">
+    <back><listPerson><person xml:id="wkfm__43996">
+                     <persName>
+                        <forename>Franz Joseph</forename>
+                        <surname>Bargehr</surname>
+                        <surname type="alt">Bargher</surname>
+                     </persName>
+                     <death><date>1777</date></death>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-0303.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0303</note><note target="wkfm-0304.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0304</note></noteGrp></person>
+                <person xml:id="wkfm__43999">
                      <persName>
                         <forename>Johann Benedikt</forename>
                         <surname>Bargehr</surname>
@@ -100,15 +110,5 @@
                      </persName>
                      <occupation>Angestellter bei Franz Joseph Bargehr</occupation>
                <noteGrp><note target="wkfm-0304.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0304</note></noteGrp></person>
-                <person xml:id="wkfm__43996">
-                     <persName>
-                        <forename>Franz Joseph</forename>
-                        <surname>Bargehr</surname>
-                        <surname type="alt">Bargher</surname>
-                     </persName>
-                     <death><date>1777</date></death>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-0303.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0303</note><note target="wkfm-0304.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0304</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

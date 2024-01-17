@@ -137,7 +137,18 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__23514" sameAs="#wkfm__24590 wkfm__40475 wkfm__25587 ">
+    <back><listPerson><person xml:id="wkfm__46293">
+                     <persName>
+                        <forename>Johann Thaddäus</forename>
+                        <surname>Aichinger</surname>
+                     </persName>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+                     <listBibl>
+                        <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 337 (Februar 1747).&amp;lt;/span&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0050.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0050</note><note target="wkfm-0051.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0051</note><note target="wkfm-0607.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0607</note></noteGrp></person>
+                <person xml:id="wkfm__23514" sameAs="#wkfm__24590 wkfm__40475 wkfm__25587 ">
                      <persName>
                         <forename>Franz Anton</forename>
                         <surname>Kollminzer</surname>
@@ -151,16 +162,5 @@
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 424 (Dezember 1733).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0050.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0050</note><note target="wkfm-0425.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0425</note><note target="wkfm-0426.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0426</note><note target="wkfm-1695.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1695</note></noteGrp></person>
-                <person xml:id="wkfm__46293">
-                     <persName>
-                        <forename>Johann Thaddäus</forename>
-                        <surname>Aichinger</surname>
-                     </persName>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-                     <listBibl>
-                        <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 337 (Februar 1747).&amp;lt;/span&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-0050.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0050</note><note target="wkfm-0051.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0051</note><note target="wkfm-0607.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0607</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

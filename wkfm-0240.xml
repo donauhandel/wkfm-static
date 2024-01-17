@@ -92,15 +92,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43889">
-                     <persName>
-                        <forename>Hieronymus</forename>
-                        <forename type="alt">Girolamo</forename>
-                        <surname>von Bernini</surname>
-                     </persName>
-                     <occupation>Handelsmann</occupation>
-               <noteGrp><note target="wkfm-0164.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0164</note><note target="wkfm-0165.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0165</note><note target="wkfm-0239.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0239</note><note target="wkfm-0240.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0240</note></noteGrp></person>
-                <person xml:id="wkfm__28746">
+    <back><listPerson><person xml:id="wkfm__28746">
                      <persName>
                         <forename>Philipp</forename>
                         <surname>Bazzani</surname>
@@ -110,5 +102,13 @@
                         <bibl>Harrer-Lucienfeld, Wien, seiner Häuser, Bd. 2.2, S. 323.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0239.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0239</note><note target="wkfm-0240.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0240</note></noteGrp></person>
+                <person xml:id="wkfm__43889">
+                     <persName>
+                        <forename>Hieronymus</forename>
+                        <forename type="alt">Girolamo</forename>
+                        <surname>von Bernini</surname>
+                     </persName>
+                     <occupation>Handelsmann</occupation>
+               <noteGrp><note target="wkfm-0164.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0164</note><note target="wkfm-0165.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0165</note><note target="wkfm-0239.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0239</note><note target="wkfm-0240.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0240</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

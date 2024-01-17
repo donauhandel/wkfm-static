@@ -123,13 +123,12 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47615">
+    <back><listPerson><person xml:id="wkfm__47616">
                      <persName>
-                        <forename>Johann Georg</forename>
-                        <surname>Scheckenberger</surname>
+                        <forename>Franz Joseph</forename>
+                        <surname>Plazer</surname>
                      </persName>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+                     <occupation>Handelsdiener des Johann Georg Scheckenberger, Handelsmann</occupation>
                <noteGrp><note target="wkfm-1701.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1701</note><note target="wkfm-1702.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1702</note></noteGrp></person>
                 <person xml:id="wkfm__46250">
                      <persName>
@@ -148,12 +147,13 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1701.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1701</note></noteGrp></person>
-                <person xml:id="wkfm__47616">
+                <person xml:id="wkfm__47615">
                      <persName>
-                        <forename>Franz Joseph</forename>
-                        <surname>Plazer</surname>
+                        <forename>Johann Georg</forename>
+                        <surname>Scheckenberger</surname>
                      </persName>
-                     <occupation>Handelsdiener des Johann Georg Scheckenberger, Handelsmann</occupation>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1701.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1701</note><note target="wkfm-1702.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1702</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

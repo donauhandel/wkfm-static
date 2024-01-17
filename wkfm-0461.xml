@@ -119,7 +119,13 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__24742" sameAs="#wkfm__24669 ">
+    <back><listPerson><person xml:id="wkfm__46157">
+                     <persName>
+                        <forename>Jakob</forename>
+                        <surname>Radlio</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0461.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0461</note></noteGrp></person>
+                <person xml:id="wkfm__24742" sameAs="#wkfm__24669 ">
                      <persName>
                         <forename>Johann Benedikt</forename>
                         <forename type="alt">Giovanni Benedetto</forename>
@@ -146,11 +152,5 @@
                         <bibl>Huchler, Bürgeraufnahmen, 355 (September 1743).&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0461.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0461</note><note target="wkfm-0462.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0462</note></noteGrp></person>
-                <person xml:id="wkfm__46157">
-                     <persName>
-                        <forename>Jakob</forename>
-                        <surname>Radlio</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-0461.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0461</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

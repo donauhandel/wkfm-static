@@ -154,19 +154,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__34454">
-                     <persName>
-                        <forename>Erhard</forename>
-                        <surname>Riesch</surname>
-                     </persName>
-                     <death><date>1753</date></death>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-                     <listBibl>
-                        <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Kröpfel, Protestsantismus, Anhang 1, S. 8.&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-1435.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1435</note><note target="wkfm-1436.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1436</note><note target="wkfm-1447.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1447</note></noteGrp></person>
-                <person xml:id="wkfm__8701" sameAs="#wkfm__10165 ">
+    <back><listPerson><person xml:id="wkfm__8701" sameAs="#wkfm__10165 ">
                      <persName>
                         <forename>Johann Heinrich</forename>
                         <surname>Frohn</surname>
@@ -184,13 +172,18 @@ Jahrhunderts. Zeitschrift des Historischen Vereines für Steiermark 19
 (1924) 126–139; Dietz Frankfurter Handelsgeschichte 4/1, 265f.</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1447.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1447</note><note target="wkfm-1448.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1448</note></noteGrp></person>
-                <person xml:id="wkfm__46751">
+                <person xml:id="wkfm__34454">
                      <persName>
-                        <forename>Christoph</forename>
-                        <surname>Peck</surname>
+                        <forename>Erhard</forename>
+                        <surname>Riesch</surname>
                      </persName>
-                     <occupation>Angestellter und Prokurist der Firma Eberhard Riesch</occupation>
-               <noteGrp><note target="wkfm-1447.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1447</note></noteGrp></person>
+                     <death><date>1753</date></death>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+                     <listBibl>
+                        <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Kröpfel, Protestsantismus, Anhang 1, S. 8.&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-1435.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1435</note><note target="wkfm-1436.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1436</note><note target="wkfm-1447.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1447</note></noteGrp></person>
                 <person xml:id="wkfm__46187">
                      <persName>
                         <forename>Wolfgang</forename>
@@ -201,5 +194,12 @@ Jahrhunderts. Zeitschrift des Historischen Vereines für Steiermark 19
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                      <occupation type="aemter">Freiherr</occupation>
                <noteGrp><note target="wkfm-1447.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1447</note><note target="wkfm-1448.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1448</note></noteGrp></person>
+                <person xml:id="wkfm__46751">
+                     <persName>
+                        <forename>Christoph</forename>
+                        <surname>Peck</surname>
+                     </persName>
+                     <occupation>Angestellter und Prokurist der Firma Eberhard Riesch</occupation>
+               <noteGrp><note target="wkfm-1447.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1447</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

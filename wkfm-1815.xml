@@ -113,26 +113,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__10599">
-                     <persName>
-                        <forename>Simon</forename>
-                        <surname>Weidinger</surname>
-                     </persName>
-                     <death><date>1747</date></death>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-1815.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1815</note></noteGrp></person>
-                <person xml:id="wkfm__47040">
+    <back><listPerson><person xml:id="wkfm__47040">
                      <persName>
                         <forename>Theresia Josepha</forename>
                         <surname>Weidinger</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-1815.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1815</note></noteGrp></person>
-                <person xml:id="wkfm__47041">
-                     <persName>
-                        <forename>Maria Anna</forename>
-                        <surname>Weidinger</surname>
-                        <surname type="alt">Wis[...?]</surname>
                      </persName>
                <noteGrp><note target="wkfm-1815.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1815</note></noteGrp></person>
                 <person xml:id="wkfm__47037">
@@ -151,6 +135,22 @@
                         <forename>Margaretha</forename>
                         <surname>Pfefferlin</surname>
                      </persName>
+               <noteGrp><note target="wkfm-1815.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1815</note></noteGrp></person>
+                <person xml:id="wkfm__47041">
+                     <persName>
+                        <forename>Maria Anna</forename>
+                        <surname>Weidinger</surname>
+                        <surname type="alt">Wis[...?]</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-1815.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1815</note></noteGrp></person>
+                <person xml:id="wkfm__10599">
+                     <persName>
+                        <forename>Simon</forename>
+                        <surname>Weidinger</surname>
+                     </persName>
+                     <death><date>1747</date></death>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1815.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1815</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

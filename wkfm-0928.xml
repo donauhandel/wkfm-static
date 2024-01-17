@@ -104,19 +104,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__10600">
-                     <persName>
-                        <forename>Norbert</forename>
-                        <surname>Härtl</surname>
-                        <surname type="alt">Härdl</surname>
-                     </persName>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-                     <listBibl>
-                        <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 402 (23. Februar 1706).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-0880.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0880</note><note target="wkfm-0927.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0927</note><note target="wkfm-0928.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0928</note><note target="wkfm-1061.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1061</note></noteGrp></person>
-                <person xml:id="wkfm__28324" sameAs="#wkfm__27585 ">
+    <back><listPerson><person xml:id="wkfm__28324" sameAs="#wkfm__27585 ">
                      <persName>
                         <forename>Franz Joseph</forename>
                         <surname>Grämbsreither</surname>
@@ -128,5 +116,17 @@
                         <bibl>Huchler, Bürgeraufnahmen, 437 (Juli 1733; &amp;#34;Krembsreitter&amp;#34;)&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0879.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0879</note><note target="wkfm-0880.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0880</note><note target="wkfm-0909.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0909</note><note target="wkfm-0928.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0928</note></noteGrp></person>
+                <person xml:id="wkfm__10600">
+                     <persName>
+                        <forename>Norbert</forename>
+                        <surname>Härtl</surname>
+                        <surname type="alt">Härdl</surname>
+                     </persName>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+                     <listBibl>
+                        <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 402 (23. Februar 1706).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0880.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0880</note><note target="wkfm-0927.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0927</note><note target="wkfm-0928.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0928</note><note target="wkfm-1061.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1061</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

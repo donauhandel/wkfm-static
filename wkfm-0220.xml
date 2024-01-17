@@ -90,13 +90,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43917">
-                     <persName>
-                        <forename>Eva Theresia</forename>
-                        <surname>Endresin</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-0220.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0220</note></noteGrp></person>
-                <person xml:id="wkfm__29664">
+    <back><listPerson><person xml:id="wkfm__29664">
                      <persName>
                         <forename>Andreas Anton</forename>
                         <surname>Baumann</surname>
@@ -105,5 +99,11 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0219.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0219</note><note target="wkfm-0220.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0220</note></noteGrp></person>
+                <person xml:id="wkfm__43917">
+                     <persName>
+                        <forename>Eva Theresia</forename>
+                        <surname>Endresin</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0220.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0220</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

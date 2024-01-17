@@ -143,14 +143,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43838">
-                     <persName>
-                        <forename>Jacques</forename>
-                        <surname>Du Tens</surname>
-                     </persName>
-                     <occupation>Prokurist der Firma Johann Wilhelm Buirette sel. Sohn &amp; Co.</occupation>
-               <noteGrp><note target="wkfm-0086.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0086</note></noteGrp></person>
-                <person xml:id="wkfm__43839">
+    <back><listPerson><person xml:id="wkfm__43839">
                      <persName>
                         <forename>Johann Noah (II.)</forename>
                         <forename type="alt">Johann Noe</forename>
@@ -162,13 +155,6 @@
                         <bibl>Seibold, Die Blommart und ihr Handelshaus; &amp;lt;span&amp;gt;Seibold, Wirtschaftlicher Erfolg, 395.&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0086.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0086</note><note target="wkfm-0087.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0087</note></noteGrp></person>
-                <person xml:id="wkfm__43837">
-                     <persName>
-                        <forename>Johann Konrad</forename>
-                        <surname>Linzmayr</surname>
-                     </persName>
-                     <occupation>Prokurist der Gebrüder Buirette</occupation>
-               <noteGrp><note target="wkfm-0086.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0086</note><note target="wkfm-0088.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0088</note></noteGrp></person>
                 <person xml:id="wkfm__13226">
                      <persName>
                         <forename>Johann Wilhelm</forename>
@@ -201,5 +187,19 @@
                         <bibl>Senfelder, Gottesacker, 268.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0086.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0086</note><note target="wkfm-0087.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0087</note><note target="wkfm-0088.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0088</note><note target="wkfm-0089.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0089</note></noteGrp></person>
+                <person xml:id="wkfm__43837">
+                     <persName>
+                        <forename>Johann Konrad</forename>
+                        <surname>Linzmayr</surname>
+                     </persName>
+                     <occupation>Prokurist der Gebrüder Buirette</occupation>
+               <noteGrp><note target="wkfm-0086.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0086</note><note target="wkfm-0088.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0088</note></noteGrp></person>
+                <person xml:id="wkfm__43838">
+                     <persName>
+                        <forename>Jacques</forename>
+                        <surname>Du Tens</surname>
+                     </persName>
+                     <occupation>Prokurist der Firma Johann Wilhelm Buirette sel. Sohn &amp; Co.</occupation>
+               <noteGrp><note target="wkfm-0086.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0086</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

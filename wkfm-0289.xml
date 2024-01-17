@@ -115,11 +115,12 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43975">
+    <back><listPerson><person xml:id="wkfm__43976">
                      <persName>
-                        <forename>Johann Franz</forename>
-                        <surname>Zobl</surname>
+                        <forename>David</forename>
+                        <surname>Nachbauer</surname>
                      </persName>
+                     <occupation>Handelsmann</occupation>
                <noteGrp><note target="wkfm-0289.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0289</note></noteGrp></person>
                 <person xml:id="wkfm__9287" sameAs="#wkfm__7559 ">
                      <persName>
@@ -132,12 +133,11 @@
                         <bibl>Senfelder, Gottesacker, 260.</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0289.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0289</note><note target="wkfm-1279.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1279</note><note target="wkfm-1280.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1280</note><note target="wkfm-1709.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1709</note><note target="wkfm-1710.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1710</note></noteGrp></person>
-                <person xml:id="wkfm__43976">
+                <person xml:id="wkfm__43975">
                      <persName>
-                        <forename>David</forename>
-                        <surname>Nachbauer</surname>
+                        <forename>Johann Franz</forename>
+                        <surname>Zobl</surname>
                      </persName>
-                     <occupation>Handelsmann</occupation>
                <noteGrp><note target="wkfm-0289.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0289</note></noteGrp></person>
                 <person xml:id="wkfm__43974">
                      <persName>

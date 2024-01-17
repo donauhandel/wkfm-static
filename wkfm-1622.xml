@@ -152,7 +152,34 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47512">
+    <back><listPerson><person xml:id="wkfm__47515">
+                     <persName>
+                        <forename>Maria Josepha</forename>
+                        <surname>Smitmer</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-1621.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1621</note><note target="wkfm-1622.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1622</note></noteGrp></person>
+                <person xml:id="wkfm__47517">
+                     <persName>
+                        <forename>Paul</forename>
+                        <surname>Smitmer</surname>
+                     </persName>
+                     <death><date>1732</date></death>
+                     <occupation>Kammerjuwelier</occupation>
+               <noteGrp><note target="wkfm-1622.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1622</note></noteGrp></person>
+                <person xml:id="wkfm__46950">
+                     <persName>
+                        <forename>Arnold Philipp</forename>
+                        <surname>de Wenzelli</surname>
+                        <surname type="alt">von Wenzelli</surname>
+                     </persName>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">hofbefreit</occupation>
+                     <occupation type="aemter">Rat am NÖ Judicium Appellatorium Mercantile</occupation>
+                     <listBibl>
+                        <bibl>Staats- und Standeskalender 1723, 241.&amp;lt;br&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-1622.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1622</note><note target="wkfm-1711.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1711</note><note target="wkfm-1712.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1712</note></noteGrp></person>
+                <person xml:id="wkfm__47512">
                      <persName>
                         <forename>Franz Michael</forename>
                         <surname>Smitmer</surname>
@@ -169,33 +196,6 @@
                         <surname type="alt">Smitmer</surname>
                      </persName>
                <noteGrp><note target="wkfm-1621.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1621</note><note target="wkfm-1622.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1622</note></noteGrp></person>
-                <person xml:id="wkfm__46950">
-                     <persName>
-                        <forename>Arnold Philipp</forename>
-                        <surname>de Wenzelli</surname>
-                        <surname type="alt">von Wenzelli</surname>
-                     </persName>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">hofbefreit</occupation>
-                     <occupation type="aemter">Rat am NÖ Judicium Appellatorium Mercantile</occupation>
-                     <listBibl>
-                        <bibl>Staats- und Standeskalender 1723, 241.&amp;lt;br&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-1622.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1622</note><note target="wkfm-1711.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1711</note><note target="wkfm-1712.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1712</note></noteGrp></person>
-                <person xml:id="wkfm__47515">
-                     <persName>
-                        <forename>Maria Josepha</forename>
-                        <surname>Smitmer</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-1621.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1621</note><note target="wkfm-1622.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1622</note></noteGrp></person>
-                <person xml:id="wkfm__47517">
-                     <persName>
-                        <forename>Paul</forename>
-                        <surname>Smitmer</surname>
-                     </persName>
-                     <death><date>1732</date></death>
-                     <occupation>Kammerjuwelier</occupation>
-               <noteGrp><note target="wkfm-1622.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1622</note></noteGrp></person>
                 <person xml:id="wkfm__47514">
                      <persName>
                         <forename>Jakob Michael</forename>

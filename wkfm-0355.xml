@@ -95,14 +95,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__18491">
-                     <persName>
-                        <forename>None</forename>
-                        <surname>Kern</surname>
-                     </persName>
-                     <occupation>Handelsfrau</occupation>
-               <noteGrp><note target="wkfm-0355.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0355</note></noteGrp></person>
-                <person xml:id="wkfm__28228">
+    <back><listPerson><person xml:id="wkfm__28228">
                      <persName>
                         <forename>Johann Kaspar</forename>
                         <surname>Kern</surname>
@@ -117,5 +110,12 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                <noteGrp><note target="wkfm-0355.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0355</note><note target="wkfm-0356.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0356</note></noteGrp></person>
+                <person xml:id="wkfm__18491">
+                     <persName>
+                        <forename>None</forename>
+                        <surname>Kern</surname>
+                     </persName>
+                     <occupation>Handelsfrau</occupation>
+               <noteGrp><note target="wkfm-0355.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0355</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

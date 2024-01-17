@@ -98,13 +98,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43845">
-                     <persName>
-                        <forename>Maria Katharina</forename>
-                        <surname>Pöttenbergerin</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-0061.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0061</note></noteGrp></person>
-                <person xml:id="wkfm__9684" sameAs="#wkfm__11276 ">
+    <back><listPerson><person xml:id="wkfm__9684" sameAs="#wkfm__11276 ">
                      <persName>
                         <forename>Franz Joseph</forename>
                         <forename type="alt">Joseph</forename>
@@ -129,5 +123,11 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                <noteGrp><note target="wkfm-0060.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0060</note><note target="wkfm-0061.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0061</note><note target="wkfm-0174.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0174</note><note target="wkfm-0175.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0175</note></noteGrp></person>
+                <person xml:id="wkfm__43845">
+                     <persName>
+                        <forename>Maria Katharina</forename>
+                        <surname>Pöttenbergerin</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0061.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0061</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

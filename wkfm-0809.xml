@@ -136,13 +136,11 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47193">
+    <back><listPerson><person xml:id="wkfm__47194">
                      <persName>
-                        <forename>Anton</forename>
+                        <forename>Johann Georg</forename>
                         <surname>Unterholzer</surname>
                      </persName>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0809.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0809</note></noteGrp></person>
                 <person xml:id="wkfm__43919">
                      <persName>
@@ -170,11 +168,13 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0809.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0809</note><note target="wkfm-1179.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1179</note></noteGrp></person>
-                <person xml:id="wkfm__47194">
+                <person xml:id="wkfm__47193">
                      <persName>
-                        <forename>Johann Georg</forename>
+                        <forename>Anton</forename>
                         <surname>Unterholzer</surname>
                      </persName>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0809.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0809</note></noteGrp></person>
                 <person xml:id="wkfm__47195">
                      <persName>

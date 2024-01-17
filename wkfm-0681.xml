@@ -137,17 +137,17 @@
                      </persName>
                      <occupation>Angestellter und Prokurist bei Eval Elisabeth Feronin (Johann Baptist Feroni sel. Witwe)</occupation>
                <noteGrp><note target="wkfm-0681.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0681</note></noteGrp></person>
-                <person xml:id="wkfm__47059">
-                     <persName>
-                        <forename>Joseph Kajetan</forename>
-                        <surname>Werndle</surname>
-                     </persName>
-                     <occupation>Angestellter und Prokurist bei Johann Baptist Feroni</occupation>
-               <noteGrp><note target="wkfm-0681.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0681</note></noteGrp></person>
                 <person xml:id="wkfm__47060">
                      <persName>
                         <forename>Johann</forename>
                         <surname>Merl</surname>
+                     </persName>
+                     <occupation>Angestellter und Prokurist bei Johann Baptist Feroni</occupation>
+               <noteGrp><note target="wkfm-0681.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0681</note></noteGrp></person>
+                <person xml:id="wkfm__47059">
+                     <persName>
+                        <forename>Joseph Kajetan</forename>
+                        <surname>Werndle</surname>
                      </persName>
                      <occupation>Angestellter und Prokurist bei Johann Baptist Feroni</occupation>
                <noteGrp><note target="wkfm-0681.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0681</note></noteGrp></person>

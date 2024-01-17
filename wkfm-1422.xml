@@ -120,7 +120,16 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43201">
+    <back><listPerson><person xml:id="wkfm__46701" sameAs="#wkfm__26028 ">
+                     <persName>
+                        <forename>Balthasar Johann</forename>
+                        <surname>Rathgeb</surname>
+                     </persName>
+                     <death><date>1740</date></death>
+                     <occupation>Handelsmann, Materialist</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-1383.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1383</note><note target="wkfm-1421.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1421</note><note target="wkfm-1422.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1422</note></noteGrp></person>
+                <person xml:id="wkfm__43201">
                      <persName>
                         <forename>Anton</forename>
                         <surname>Rathgeb</surname>
@@ -147,15 +156,6 @@
                         <surname type="alt">Rathgeb</surname>
                      </persName>
                <noteGrp><note target="wkfm-1422.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1422</note></noteGrp></person>
-                <person xml:id="wkfm__46701" sameAs="#wkfm__26028 ">
-                     <persName>
-                        <forename>Balthasar Johann</forename>
-                        <surname>Rathgeb</surname>
-                     </persName>
-                     <death><date>1740</date></death>
-                     <occupation>Handelsmann, Materialist</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-1383.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1383</note><note target="wkfm-1421.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1421</note><note target="wkfm-1422.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1422</note></noteGrp></person>
                 <person xml:id="wkfm__46732">
                      <persName>
                         <forename>Kunigunda</forename>

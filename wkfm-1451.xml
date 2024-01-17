@@ -107,7 +107,16 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46773">
+    <back><listPerson><person xml:id="wkfm__46774">
+                     <persName>
+                        <forename>Franz</forename>
+                        <surname>Jenamy</surname>
+                     </persName>
+                     <death><date>1762</date></death>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-1451.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1451</note></noteGrp></person>
+                <person xml:id="wkfm__46773">
                      <persName>
                         <forename>Johann Georg</forename>
                         <surname>Kaiser</surname>
@@ -123,15 +132,6 @@
                      </persName>
                      <death><date>1757</date></death>
                      <occupation>Angestellter bei Johann Wegerth, Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-1451.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1451</note></noteGrp></person>
-                <person xml:id="wkfm__46774">
-                     <persName>
-                        <forename>Franz</forename>
-                        <surname>Jenamy</surname>
-                     </persName>
-                     <death><date>1762</date></death>
-                     <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1451.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1451</note></noteGrp></person>
                 <person xml:id="wkfm__24729">
