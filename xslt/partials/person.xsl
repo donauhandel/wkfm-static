@@ -7,7 +7,7 @@
     <xsl:template match="tei:person" name="person_detail">
         <table class="table entity-table">
             <tbody>
-                <xsl:if test="./tei:birth/tei:date">
+                
                 <tr>
                     <th>
                         Geburtsdatum
@@ -16,8 +16,6 @@
                         <xsl:value-of select="./tei:birth/tei:date"/>
                     </td>
                 </tr>
-                </xsl:if>
-                <xsl:if test="./tei:death/tei:date">
                 <tr>
                     <th>
                         Sterbedatum
@@ -26,61 +24,49 @@
                         <xsl:value-of select="./tei:death/tei:date"/>
                     </td>
                 </tr>
-                </xsl:if>
-                <xsl:if test="./tei:idno[@type='GND']/text()">
-                    <tr>
-                        <th>
-                            GND ID
-                        </th>
-                        <td>
-                            <a href="{./tei:idno[@type='GND']}" target="_blank">
-                                <xsl:value-of select="tokenize(./tei:idno[@type='GND'], '/')[last()]"/>
-                            </a>
-                        </td>
-                    </tr>
-                </xsl:if>
-                <xsl:if test="./tei:idno[@type='WIKIDATA']/text()">
-                    <tr>
-                        <th>
-                            Wikidata ID
-                        </th>
-                        <td>
-                            <a href="{./tei:idno[@type='WIKIDATA']}" target="_blank">
-                                <xsl:value-of select="tokenize(./tei:idno[@type='WIKIDATA'], '/')[last()]"/>
-                            </a>
-                        </td>
-                    </tr>
-                </xsl:if>
-                <xsl:if test="./tei:idno[@type='GEONAMES']/text()">
-                    <tr>
-                        <th>
-                            Geonames ID
-                        </th>
-                        <td>
-                            <a href="{./tei:idno[@type='GEONAMES']}" target="_blank">
-                                <xsl:value-of select="tokenize(./tei:idno[@type='GEONAMES'], '/')[4]"/>
-                            </a>
-                        </td>
-                    </tr>
-                </xsl:if>
-                <xsl:if test="./tei:listEvent">
+                <tr>
+                    <th>
+                        Beruf/Tätigkeit
+                    </th>
+                    <td>
+                        <xsl:value-of select="normalize-space(string-join(.//tei:occupation//text(), ' '))"/>
+                    </td>
+                </tr>
+                <tr>
+                    <th>bibliographische Angaben</th>
+                    <td><xsl:value-of select="normalize-space(string-join(.//tei:bibl//text(), ' '))"/></td>
+                </tr>
+                <tr>
+                    <th>potentielle Doublette von</th>
+                    <td>
+                        <ul>
+                            <xsl:for-each select="tokenize(normalize-space(@sameAs), ' ')">
+                                <xsl:variable name="curid">
+                                    <xsl:value-of select="replace(data(.), '#', '')"/>
+                                </xsl:variable>
+                                <li>
+                                    <a href="{$curid||'.html'}"><xsl:value-of select="$curid"/></a>
+                                </li>
+                            </xsl:for-each>
+                        </ul>
+                    </td>
+                </tr>
                 <tr>
                     <th>
                         Erwähnt in
                     </th>
                     <td>
                         <ul>
-                            <xsl:for-each select="./tei:listEvent/tei:event">
+                            <xsl:for-each select=".//tei:note[@type='mentions']">
                                 <li>
-                                    <a href="{replace(./tei:linkGrp/tei:link/@target, '.xml', '.html')}">
-                                        <xsl:value-of select="./tei:p/tei:title"/>
+                                    <a href="{replace(./@target, '.xml', '.html')}">
+                                        <xsl:value-of select="./text()"/>
                                     </a>
                                 </li>
                             </xsl:for-each>
                         </ul>
                     </td>
                 </tr>
-                </xsl:if>
             </tbody>
         </table>
     </xsl:template>

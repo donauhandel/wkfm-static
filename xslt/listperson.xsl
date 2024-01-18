@@ -95,7 +95,9 @@
 
         <xsl:for-each select=".//tei:person[@xml:id]">
             <xsl:variable name="filename" select="concat(./@xml:id, '.html')"/>
-            <xsl:variable name="name" select="normalize-space(string-join(./tei:persName[1]//text()))"></xsl:variable>
+            <xsl:variable name="name">
+                <xsl:value-of select="./tei:persName[1]/tei:surname[1]/text()"/>, <xsl:value-of select="./tei:persName[1]/tei:forename[1]/text()"/>
+            </xsl:variable>
             <xsl:result-document href="{$filename}">
                 <html  class="h-100">
                     <head>
@@ -107,8 +109,8 @@
                     <body class="d-flex flex-column h-100">
                         <xsl:call-template name="nav_bar"/>
                         <main>
-                            <div class="container">
-                                <h1>
+                            <div class="container pt-5 pb-5">
+                                <h1 class="text-center display-3 pb-3">
                                     <xsl:value-of select="$name"/>
                                 </h1>
                                 <xsl:call-template name="person_detail"/>  
