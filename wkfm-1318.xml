@@ -92,7 +92,14 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46670">
+    <back><listPerson><person xml:id="wkfm__46671">
+                     <persName>
+                        <forename>Maria Elisabeth</forename>
+                        <surname>Festlin</surname>
+                        <surname type="alt">Naperth</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-1318.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1318</note></noteGrp></person>
+                <person xml:id="wkfm__46670">
                      <persName>
                         <forename>Sebastian Peter</forename>
                         <surname>Naperth</surname>
@@ -103,12 +110,5 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 469 (Februar 1733).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1317.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1317</note><note target="wkfm-1318.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1318</note></noteGrp></person>
-                <person xml:id="wkfm__46671">
-                     <persName>
-                        <forename>Maria Elisabeth</forename>
-                        <surname>Festlin</surname>
-                        <surname type="alt">Naperth</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-1318.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1318</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

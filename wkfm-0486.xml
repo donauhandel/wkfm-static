@@ -135,7 +135,14 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43887">
+    <back><listPerson><person xml:id="wkfm__46179">
+                     <persName>
+                        <forename>Anna Maria</forename>
+                        <surname>Pragerin</surname>
+                        <surname type="alt">Kleinrath</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0486.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0486</note></noteGrp></person>
+                <person xml:id="wkfm__43887">
                      <persName>
                         <forename>Franz</forename>
                         <surname>Kleinrath</surname>
@@ -153,13 +160,6 @@
                      <occupation>Handelsfrau</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0155.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0155</note><note target="wkfm-0485.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0485</note><note target="wkfm-0486.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0486</note></noteGrp></person>
-                <person xml:id="wkfm__46179">
-                     <persName>
-                        <forename>Anna Maria</forename>
-                        <surname>Pragerin</surname>
-                        <surname type="alt">Kleinrath</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-0486.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0486</note></noteGrp></person>
                 <person xml:id="wkfm__9548">
                      <persName>
                         <forename>Johann Franz</forename>

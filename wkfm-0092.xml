@@ -137,19 +137,26 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43841">
-                     <persName>
-                        <forename>Andre Karl</forename>
-                        <surname>Bolza</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-0092.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0092</note></noteGrp></person>
-                <person xml:id="wkfm__32426">
+    <back><listPerson><person xml:id="wkfm__32426">
                      <persName>
                         <forename>Karl</forename>
                         <surname>Bolza</surname>
                      </persName>
                      <occupation>Kassier der Firma Johann Baptist und Johann Peter Bolza</occupation>
                <noteGrp><note target="wkfm-0092.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0092</note></noteGrp></person>
+                <person xml:id="wkfm__43841">
+                     <persName>
+                        <forename>Andre Karl</forename>
+                        <surname>Bolza</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0092.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0092</note></noteGrp></person>
+                <person xml:id="wkfm__41796">
+                     <persName>
+                        <forename>Christoph Martin</forename>
+                        <surname>Conradi</surname>
+                     </persName>
+                     <occupation>Buchhalter und Prokurist des Johann Baptist Bolza, Kassier und Prokurist des Joseph Bolza</occupation>
+               <noteGrp><note target="wkfm-0092.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0092</note><note target="wkfm-0259.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0259</note></noteGrp></person>
                 <person xml:id="wkfm__11161">
                      <persName>
                         <forename>Johann Baptist</forename>
@@ -169,12 +176,5 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                <noteGrp><note target="wkfm-0092.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0092</note><note target="wkfm-0093.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0093</note><note target="wkfm-1409.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1409</note><note target="wkfm-1410.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1410</note></noteGrp></person>
-                <person xml:id="wkfm__41796">
-                     <persName>
-                        <forename>Christoph Martin</forename>
-                        <surname>Conradi</surname>
-                     </persName>
-                     <occupation>Buchhalter und Prokurist des Johann Baptist Bolza, Kassier und Prokurist des Joseph Bolza</occupation>
-               <noteGrp><note target="wkfm-0092.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0092</note><note target="wkfm-0259.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0259</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

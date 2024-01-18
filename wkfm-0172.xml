@@ -95,7 +95,16 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__11956">
+    <back><listPerson><person xml:id="wkfm__9070">
+                     <persName>
+                        <forename>Johann Baptist</forename>
+                        <surname>Pedal</surname>
+                        <surname type="alt">Bedal</surname>
+                     </persName>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+               <noteGrp><note target="wkfm-0172.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0172</note><note target="wkfm-0173.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0173</note></noteGrp></person>
+                <person xml:id="wkfm__11956">
                      <persName>
                         <forename>Joseph</forename>
                         <surname>Muffat</surname>
@@ -106,14 +115,5 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 467 (Juli 1730).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0172.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0172</note><note target="wkfm-1231.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1231</note><note target="wkfm-1232.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1232</note></noteGrp></person>
-                <person xml:id="wkfm__9070">
-                     <persName>
-                        <forename>Johann Baptist</forename>
-                        <surname>Pedal</surname>
-                        <surname type="alt">Bedal</surname>
-                     </persName>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-               <noteGrp><note target="wkfm-0172.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0172</note><note target="wkfm-0173.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0173</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

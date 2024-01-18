@@ -123,17 +123,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46170">
-                     <persName>
-                        <forename>Franz Joseph</forename>
-                        <forename type="alt">Franz</forename>
-                        <surname>Hammer</surname>
-                     </persName>
-                     <death><date>1761</date></death>
-                     <occupation>Angesteller der Anna Susanna von Haydern, Tuchhändler</occupation>
-                     <occupation type="kaufmannsklasse">tuchlaubensverwandt/bürgerlich</occupation>
-               <noteGrp><note target="wkfm-0471.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0471</note><note target="wkfm-0923.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0923</note><note target="wkfm-0924.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0924</note><note target="wkfm-1027.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1027</note><note target="wkfm-1028.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1028</note><note target="wkfm-1181.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1181</note></noteGrp></person>
-                <person xml:id="wkfm__46393">
+    <back><listPerson><person xml:id="wkfm__46393">
                      <persName>
                         <forename>Anna Susanna</forename>
                         <surname>von Haydern</surname>
@@ -143,5 +133,15 @@
                      <occupation>Tuchhändlerin</occupation>
                      <occupation type="kaufmannsklasse">tuchlaubensverwandt/bürgerlich</occupation>
                <noteGrp><note target="wkfm-0923.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0923</note><note target="wkfm-0924.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0924</note><note target="wkfm-1027.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1027</note><note target="wkfm-1028.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1028</note></noteGrp></person>
+                <person xml:id="wkfm__46170">
+                     <persName>
+                        <forename>Franz Joseph</forename>
+                        <forename type="alt">Franz</forename>
+                        <surname>Hammer</surname>
+                     </persName>
+                     <death><date>1761</date></death>
+                     <occupation>Angesteller der Anna Susanna von Haydern, Tuchhändler</occupation>
+                     <occupation type="kaufmannsklasse">tuchlaubensverwandt/bürgerlich</occupation>
+               <noteGrp><note target="wkfm-0471.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0471</note><note target="wkfm-0923.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0923</note><note target="wkfm-0924.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0924</note><note target="wkfm-1027.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1027</note><note target="wkfm-1028.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1028</note><note target="wkfm-1181.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1181</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

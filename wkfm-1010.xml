@@ -88,7 +88,14 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__39393">
+    <back><listPerson><person xml:id="wkfm__46505">
+                     <persName>
+                        <forename>Barbara</forename>
+                        <surname>Felbermayrin</surname>
+                        <surname type="alt">Hütter</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-1010.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1010</note></noteGrp></person>
+                <person xml:id="wkfm__39393">
                      <persName>
                         <forename>Matthias</forename>
                         <surname>Hütter</surname>
@@ -98,12 +105,5 @@
                      <occupation>Leinwandhändler</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
                <noteGrp><note target="wkfm-1009.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1009</note><note target="wkfm-1010.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1010</note></noteGrp></person>
-                <person xml:id="wkfm__46505">
-                     <persName>
-                        <forename>Barbara</forename>
-                        <surname>Felbermayrin</surname>
-                        <surname type="alt">Hütter</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-1010.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1010</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

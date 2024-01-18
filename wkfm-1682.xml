@@ -103,7 +103,15 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47593">
+    <back><listPerson><person xml:id="wkfm__47595">
+                     <persName>
+                        <forename>Franziska Barbara</forename>
+                        <surname>Pragerin</surname>
+                        <surname type="alt">Sotscheck</surname>
+                     </persName>
+                     <death><date>1777</date></death>
+               <noteGrp><note target="wkfm-1682.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1682</note></noteGrp></person>
+                <person xml:id="wkfm__47593">
                      <persName>
                         <forename>Franz Karl</forename>
                         <surname>Sotscheck</surname>
@@ -112,13 +120,5 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1681.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1681</note><note target="wkfm-1682.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1682</note></noteGrp></person>
-                <person xml:id="wkfm__47595">
-                     <persName>
-                        <forename>Franziska Barbara</forename>
-                        <surname>Pragerin</surname>
-                        <surname type="alt">Sotscheck</surname>
-                     </persName>
-                     <death><date>1777</date></death>
-               <noteGrp><note target="wkfm-1682.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1682</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

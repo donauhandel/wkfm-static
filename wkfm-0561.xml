@@ -122,13 +122,6 @@
                      </persName>
                      <occupation>Prokurist des Ruprecht Traunpauer</occupation>
                <noteGrp><note target="wkfm-0561.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0561</note></noteGrp></person>
-                <person xml:id="wkfm__46237">
-                     <persName>
-                        <forename>Johann Joseph Karl</forename>
-                        <surname>Zwirner</surname>
-                     </persName>
-                     <occupation>Prokurist des Ruprecht Traunpauer</occupation>
-               <noteGrp><note target="wkfm-0561.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0561</note></noteGrp></person>
                 <person xml:id="wkfm__6935">
                      <persName>
                         <forename>Ruprecht</forename>
@@ -141,6 +134,13 @@
                      <listBibl>
                         <bibl>Dotter, Italienische Kaufleute, passim (Traunpaur); Huchler, Bürgeraufnahmen, 547 (20. März 1719); &amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 546 (20. März 1719)&amp;lt;/span&amp;gt;. Reinhold Reith (Hg.), Das Verlassenschaftsinventar des Salzburger Tuch- und Seidenhändlers Franz Anton Spängler von 1784 (Schriftenreihe des Archivs der Stadt Salzburg 42).&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
+               <noteGrp><note target="wkfm-0561.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0561</note></noteGrp></person>
+                <person xml:id="wkfm__46237">
+                     <persName>
+                        <forename>Johann Joseph Karl</forename>
+                        <surname>Zwirner</surname>
+                     </persName>
+                     <occupation>Prokurist des Ruprecht Traunpauer</occupation>
                <noteGrp><note target="wkfm-0561.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0561</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

@@ -118,7 +118,14 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__44045">
+    <back><listPerson><person xml:id="wkfm__44046">
+                     <persName>
+                        <forename>Katharina</forename>
+                        <surname>Förschlin</surname>
+                        <surname type="alt">Braun</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0317.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0317</note></noteGrp></person>
+                <person xml:id="wkfm__44045">
                      <persName>
                         <forename>Franz Ignaz</forename>
                         <surname>Braun</surname>
@@ -126,12 +133,5 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0317.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0317</note><note target="wkfm-0318.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0318</note></noteGrp></person>
-                <person xml:id="wkfm__44046">
-                     <persName>
-                        <forename>Katharina</forename>
-                        <surname>Förschlin</surname>
-                        <surname type="alt">Braun</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-0317.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0317</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

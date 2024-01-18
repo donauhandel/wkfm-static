@@ -94,7 +94,15 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__10180">
+    <back><listPerson><person xml:id="wkfm__46984">
+                     <persName>
+                        <forename>Maria Anna</forename>
+                        <surname>Walkerin</surname>
+                     </persName>
+                     <occupation>Handelsfrau</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-1757.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1757</note></noteGrp></person>
+                <person xml:id="wkfm__10180">
                      <persName>
                         <forename>Rudolf</forename>
                         <surname>Walker</surname>
@@ -107,13 +115,5 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 554 (22. September 1724).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1757.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1757</note><note target="wkfm-1758.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1758</note></noteGrp></person>
-                <person xml:id="wkfm__46984">
-                     <persName>
-                        <forename>Maria Anna</forename>
-                        <surname>Walkerin</surname>
-                     </persName>
-                     <occupation>Handelsfrau</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-1757.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1757</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

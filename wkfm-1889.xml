@@ -113,6 +113,12 @@
                         <surname>Ables</surname>
                      </persName>
                <noteGrp><note target="wkfm-1889.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1889</note></noteGrp></person>
+                <person xml:id="wkfm__18390">
+                     <persName>
+                        <forename>Samuel</forename>
+                        <surname>Seligman</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-1889.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1889</note></noteGrp></person>
                 <person xml:id="wkfm__30361">
                      <persName>
                         <forename>Nathan</forename>
@@ -135,12 +141,6 @@
                      <persName>
                         <forename>Butla</forename>
                         <surname>Seligmannin</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-1889.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1889</note></noteGrp></person>
-                <person xml:id="wkfm__18390">
-                     <persName>
-                        <forename>Samuel</forename>
-                        <surname>Seligman</surname>
                      </persName>
                <noteGrp><note target="wkfm-1889.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1889</note></noteGrp></person>
                 </listPerson></back></text>

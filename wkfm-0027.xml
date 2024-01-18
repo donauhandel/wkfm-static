@@ -88,7 +88,18 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__17118">
+    <back><listPerson><person xml:id="wkfm__9740">
+                     <persName>
+                        <forename>Leopold</forename>
+                        <surname>Auchter</surname>
+                     </persName>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+                     <listBibl>
+                        <bibl>Huchler, Bürgeraufnahmen, 342 (13. November 1722).</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0026.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0026</note><note target="wkfm-0027.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0027</note></noteGrp></person>
+                <person xml:id="wkfm__17118">
                      <persName>
                         <forename>Franz</forename>
                         <surname>Auchter</surname>
@@ -101,16 +112,5 @@
                         <bibl>Huchler, Bürgeraufnahmen, 342 (April 1730).</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0027.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0027</note><note target="wkfm-0038.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0038</note><note target="wkfm-0039.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0039</note></noteGrp></person>
-                <person xml:id="wkfm__9740">
-                     <persName>
-                        <forename>Leopold</forename>
-                        <surname>Auchter</surname>
-                     </persName>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-                     <listBibl>
-                        <bibl>Huchler, Bürgeraufnahmen, 342 (13. November 1722).</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-0026.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0026</note><note target="wkfm-0027.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0027</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

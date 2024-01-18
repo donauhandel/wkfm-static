@@ -112,7 +112,21 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43963">
+    <back><listPerson><person xml:id="wkfm__23529">
+                     <persName>
+                        <forename>Franz Ignaz</forename>
+                        <surname>Sinabell</surname>
+                     </persName>
+                     <occupation>Angestellter und Prokurist der Firma Joseph Bernini und Gebrüder, Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">hofbefreit</occupation>
+               <noteGrp><note target="wkfm-0164.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0164</note><note target="wkfm-0279.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0279</note><note target="wkfm-1615.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1615</note><note target="wkfm-1616.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1616</note></noteGrp></person>
+                <person xml:id="wkfm__43964">
+                     <persName>
+                        <forename>Maria Theresia</forename>
+                        <surname>Pernätschky</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0279.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0279</note></noteGrp></person>
+                <person xml:id="wkfm__43963">
                      <persName>
                         <forename>Anton</forename>
                         <surname>Pernätschky</surname>
@@ -125,19 +139,5 @@
                         <bibl>Huchler, Bürgeraufnahmen, 481 (September 1743).&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0279.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0279</note><note target="wkfm-0280.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0280</note></noteGrp></person>
-                <person xml:id="wkfm__43964">
-                     <persName>
-                        <forename>Maria Theresia</forename>
-                        <surname>Pernätschky</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-0279.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0279</note></noteGrp></person>
-                <person xml:id="wkfm__23529">
-                     <persName>
-                        <forename>Franz Ignaz</forename>
-                        <surname>Sinabell</surname>
-                     </persName>
-                     <occupation>Angestellter und Prokurist der Firma Joseph Bernini und Gebrüder, Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">hofbefreit</occupation>
-               <noteGrp><note target="wkfm-0164.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0164</note><note target="wkfm-0279.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0279</note><note target="wkfm-1615.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1615</note><note target="wkfm-1616.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1616</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

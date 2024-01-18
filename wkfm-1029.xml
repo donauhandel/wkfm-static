@@ -126,19 +126,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46527">
-                     <persName>
-                        <forename>Johann</forename>
-                        <surname>Hueter</surname>
-                        <surname type="alt">Huetter</surname>
-                     </persName>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-                     <listBibl>
-                        <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 419 (Jänner 1741).&amp;lt;/span&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-1029.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1029</note><note target="wkfm-1030.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1030</note><note target="wkfm-1803.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1803</note><note target="wkfm-1804.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1804</note></noteGrp></person>
-                <person xml:id="wkfm__9735" sameAs="#wkfm__14185 ">
+    <back><listPerson><person xml:id="wkfm__9735" sameAs="#wkfm__14185 ">
                      <persName>
                         <forename>Johann Anton</forename>
                         <surname>Stapf</surname>
@@ -151,5 +139,17 @@
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 536 (14. März 1711: &amp;#34;Antonius&amp;#34;).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1029.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1029</note><note target="wkfm-1501.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1501</note><note target="wkfm-1502.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1502</note><note target="wkfm-1803.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1803</note><note target="wkfm-1843.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1843</note></noteGrp></person>
+                <person xml:id="wkfm__46527">
+                     <persName>
+                        <forename>Johann</forename>
+                        <surname>Hueter</surname>
+                        <surname type="alt">Huetter</surname>
+                     </persName>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+                     <listBibl>
+                        <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 419 (Jänner 1741).&amp;lt;/span&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-1029.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1029</note><note target="wkfm-1030.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1030</note><note target="wkfm-1803.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1803</note><note target="wkfm-1804.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1804</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

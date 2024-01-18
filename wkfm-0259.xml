@@ -114,14 +114,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__41796">
-                     <persName>
-                        <forename>Christoph Martin</forename>
-                        <surname>Conradi</surname>
-                     </persName>
-                     <occupation>Buchhalter und Prokurist des Johann Baptist Bolza, Kassier und Prokurist des Joseph Bolza</occupation>
-               <noteGrp><note target="wkfm-0092.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0092</note><note target="wkfm-0259.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0259</note></noteGrp></person>
-                <person xml:id="wkfm__8799">
+    <back><listPerson><person xml:id="wkfm__8799">
                      <persName>
                         <forename>Pompeo</forename>
                         <surname>Carignani</surname>
@@ -129,6 +122,13 @@
                      <occupation>Handelsmann, Prokurist des Joseph Bolza</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
                <noteGrp><note target="wkfm-0259.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0259</note><note target="wkfm-0260.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0260</note><note target="wkfm-0443.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0443</note><note target="wkfm-0444.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0444</note></noteGrp></person>
+                <person xml:id="wkfm__41796">
+                     <persName>
+                        <forename>Christoph Martin</forename>
+                        <surname>Conradi</surname>
+                     </persName>
+                     <occupation>Buchhalter und Prokurist des Johann Baptist Bolza, Kassier und Prokurist des Joseph Bolza</occupation>
+               <noteGrp><note target="wkfm-0092.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0092</note><note target="wkfm-0259.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0259</note></noteGrp></person>
                 <person xml:id="wkfm__37177">
                      <persName>
                         <forename>Joseph</forename>

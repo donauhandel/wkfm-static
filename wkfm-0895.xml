@@ -113,7 +113,13 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46368">
+    <back><listPerson><person xml:id="wkfm__46370">
+                     <persName>
+                        <forename>None</forename>
+                        <surname>Klingerin</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0895.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0895</note></noteGrp></person>
+                <person xml:id="wkfm__46368">
                      <persName>
                         <forename>Franz</forename>
                         <surname>Aichler</surname>
@@ -123,12 +129,6 @@
                      <persName>
                         <forename>Franz</forename>
                         <surname>Ott</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-0895.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0895</note></noteGrp></person>
-                <person xml:id="wkfm__46370">
-                     <persName>
-                        <forename>None</forename>
-                        <surname>Klingerin</surname>
                      </persName>
                <noteGrp><note target="wkfm-0895.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0895</note></noteGrp></person>
                 <person xml:id="wkfm__46366">

@@ -114,15 +114,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__23727">
-                     <persName>
-                        <forename>Ferdinand</forename>
-                        <surname>Setti</surname>
-                     </persName>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">hofbefreit</occupation>
-               <noteGrp><note target="wkfm-1597.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1597</note><note target="wkfm-1598.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1598</note></noteGrp></person>
-                <person xml:id="wkfm__8802">
+    <back><listPerson><person xml:id="wkfm__8802">
                      <persName>
                         <forename>Lukas Joseph</forename>
                         <forename type="alt">Lukas</forename>
@@ -143,5 +135,13 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
                <noteGrp><note target="wkfm-0811.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0811</note><note target="wkfm-0812.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0812</note><note target="wkfm-1597.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1597</note><note target="wkfm-1598.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1598</note></noteGrp></person>
+                <person xml:id="wkfm__23727">
+                     <persName>
+                        <forename>Ferdinand</forename>
+                        <surname>Setti</surname>
+                     </persName>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">hofbefreit</occupation>
+               <noteGrp><note target="wkfm-1597.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1597</note><note target="wkfm-1598.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1598</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

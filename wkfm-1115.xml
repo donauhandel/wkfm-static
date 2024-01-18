@@ -90,20 +90,20 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46789">
-                     <persName>
-                        <forename>Johann Samuel</forename>
-                        <surname>Bößler</surname>
-                     </persName>
-                     <occupation>Angestellter bei Johann Lüders</occupation>
-               <noteGrp><note target="wkfm-1115.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1115</note></noteGrp></person>
-                <person xml:id="wkfm__26314">
+    <back><listPerson><person xml:id="wkfm__26314">
                      <persName>
                         <forename>Johann</forename>
                         <surname>Lüders</surname>
                      </persName>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
+               <noteGrp><note target="wkfm-1115.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1115</note></noteGrp></person>
+                <person xml:id="wkfm__46789">
+                     <persName>
+                        <forename>Johann Samuel</forename>
+                        <surname>Bößler</surname>
+                     </persName>
+                     <occupation>Angestellter bei Johann Lüders</occupation>
                <noteGrp><note target="wkfm-1115.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1115</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

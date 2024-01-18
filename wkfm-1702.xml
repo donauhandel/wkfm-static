@@ -114,6 +114,13 @@
                         <surname type="alt">Scheckenberger</surname>
                      </persName>
                <noteGrp><note target="wkfm-1702.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1702</note></noteGrp></person>
+                <person xml:id="wkfm__47616">
+                     <persName>
+                        <forename>Franz Joseph</forename>
+                        <surname>Plazer</surname>
+                     </persName>
+                     <occupation>Handelsdiener des Johann Georg Scheckenberger, Handelsmann</occupation>
+               <noteGrp><note target="wkfm-1701.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1701</note><note target="wkfm-1702.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1702</note></noteGrp></person>
                 <person xml:id="wkfm__47615">
                      <persName>
                         <forename>Johann Georg</forename>
@@ -121,13 +128,6 @@
                      </persName>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-1701.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1701</note><note target="wkfm-1702.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1702</note></noteGrp></person>
-                <person xml:id="wkfm__47616">
-                     <persName>
-                        <forename>Franz Joseph</forename>
-                        <surname>Plazer</surname>
-                     </persName>
-                     <occupation>Handelsdiener des Johann Georg Scheckenberger, Handelsmann</occupation>
                <noteGrp><note target="wkfm-1701.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1701</note><note target="wkfm-1702.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1702</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

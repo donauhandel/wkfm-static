@@ -88,7 +88,14 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46556">
+    <back><listPerson><person xml:id="wkfm__46558">
+                     <persName>
+                        <forename>Josepha</forename>
+                        <surname>Fünsterin</surname>
+                        <surname type="alt">Hochenauer</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-1048.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1048</note></noteGrp></person>
+                <person xml:id="wkfm__46556">
                      <persName>
                         <forename>Johann Michael</forename>
                         <surname>Hochenauer</surname>
@@ -97,12 +104,5 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1047.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1047</note><note target="wkfm-1048.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1048</note></noteGrp></person>
-                <person xml:id="wkfm__46558">
-                     <persName>
-                        <forename>Josepha</forename>
-                        <surname>Fünsterin</surname>
-                        <surname type="alt">Hochenauer</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-1048.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1048</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

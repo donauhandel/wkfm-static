@@ -106,7 +106,13 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46362">
+    <back><listPerson><person xml:id="wkfm__46364">
+                     <persName>
+                        <forename>Michael Joseph</forename>
+                        <surname>Gschaidter</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0893.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0893</note></noteGrp></person>
+                <person xml:id="wkfm__46362">
                      <persName>
                         <forename>Johann Georg</forename>
                         <surname>Gschaidter</surname>
@@ -129,11 +135,5 @@
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 522 (1. Dezember 1717).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0893.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0893</note><note target="wkfm-1509.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1509</note><note target="wkfm-1510.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1510</note></noteGrp></person>
-                <person xml:id="wkfm__46364">
-                     <persName>
-                        <forename>Michael Joseph</forename>
-                        <surname>Gschaidter</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-0893.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0893</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

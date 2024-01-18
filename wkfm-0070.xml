@@ -139,7 +139,26 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__4694" sameAs="#wkfm__4693 ">
+    <back><listPerson><person xml:id="wkfm__43813">
+                     <persName>
+                        <forename>Anton</forename>
+                        <surname>Reitter</surname>
+                     </persName>
+                     <occupation>Handelsmann, Angestellter bei Johan Baptist Perinet</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+                     <listBibl>
+                        <bibl>https://transkribus.eu/lite/de/collection/84522/doc/560230/detail/17</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0070.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0070</note><note target="wkfm-0071.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0071</note></noteGrp></person>
+                <person xml:id="wkfm__43811">
+                     <persName>
+                        <forename>Benedikt</forename>
+                        <surname>Perinet</surname>
+                     </persName>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+               <noteGrp><note target="wkfm-0070.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0070</note></noteGrp></person>
+                <person xml:id="wkfm__4694" sameAs="#wkfm__4693 ">
                      <persName>
                         <forename>Johann Baptist</forename>
                         <surname>Perinet</surname>
@@ -169,24 +188,5 @@
                         <bibl>Rauscher, Serles, Niederleger, 168.</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0070.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0070</note><note target="wkfm-0071.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0071</note><note target="wkfm-0760.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0760</note><note target="wkfm-0799.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0799</note><note target="wkfm-0800.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0800</note></noteGrp></person>
-                <person xml:id="wkfm__43811">
-                     <persName>
-                        <forename>Benedikt</forename>
-                        <surname>Perinet</surname>
-                     </persName>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-               <noteGrp><note target="wkfm-0070.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0070</note></noteGrp></person>
-                <person xml:id="wkfm__43813">
-                     <persName>
-                        <forename>Anton</forename>
-                        <surname>Reitter</surname>
-                     </persName>
-                     <occupation>Handelsmann, Angestellter bei Johan Baptist Perinet</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-                     <listBibl>
-                        <bibl>https://transkribus.eu/lite/de/collection/84522/doc/560230/detail/17</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-0070.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0070</note><note target="wkfm-0071.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0071</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

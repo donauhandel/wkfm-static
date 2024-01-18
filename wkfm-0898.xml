@@ -96,14 +96,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46372">
-                     <persName>
-                        <forename>Katharina</forename>
-                        <surname>Auerin</surname>
-                        <surname type="alt">Gruber</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-0898.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0898</note></noteGrp></person>
-                <person xml:id="wkfm__46371">
+    <back><listPerson><person xml:id="wkfm__46371">
                      <persName>
                         <forename>Joseph</forename>
                         <surname>Gruber</surname>
@@ -127,5 +120,12 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 531 (15. September 1706).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0897.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0897</note><note target="wkfm-0898.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0898</note><note target="wkfm-1491.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1491</note><note target="wkfm-1492.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1492</note></noteGrp></person>
+                <person xml:id="wkfm__46372">
+                     <persName>
+                        <forename>Katharina</forename>
+                        <surname>Auerin</surname>
+                        <surname type="alt">Gruber</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0898.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0898</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

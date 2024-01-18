@@ -169,43 +169,13 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__42886">
+    <back><listPerson><person xml:id="wkfm__47121">
                      <persName>
-                        <forename>Bernhard</forename>
-                        <surname>Falquet</surname>
-                     </persName>
-                     <birth><date>14.12.1709</date></birth>
-                     <death><date>17.08.1769</date></death>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-                     <listBibl>
-                        <bibl>Budischowsky, Bernhard Falquet; Budischowsky, Puthon; Matis, Manufakturen, 270, 364.&amp;lt;br&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-0251.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0251</note><note target="wkfm-0759.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0759</note><note target="wkfm-0760.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0760</note><note target="wkfm-0797.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0797</note><note target="wkfm-0798.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0798</note><note target="wkfm-0800.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0800</note></noteGrp></person>
-                <person xml:id="wkfm__43810">
-                     <persName>
-                        <forename>Bernhard Franz</forename>
-                        <surname>Violand</surname>
+                        <forename>Ignaz</forename>
+                        <surname>Conver</surname>
                      </persName>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-                     <listBibl>
-                        <bibl>Rauscher, Serles, Niederleger, 168.</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-0070.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0070</note><note target="wkfm-0071.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0071</note><note target="wkfm-0760.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0760</note><note target="wkfm-0799.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0799</note><note target="wkfm-0800.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0800</note></noteGrp></person>
-                <person xml:id="wkfm__47120">
-                     <persName>
-                        <forename>Ludwig</forename>
-                        <surname>Puthon</surname>
-                        <surname type="alt">Buthon</surname>
-                     </persName>
-                     <birth><date>24.07.1705</date></birth>
-                     <death><date>05.02.1748</date></death>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-                     <listBibl>
-                        <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Budischowsky, Johann Georg Schuller, 12, 16&amp;lt;/span&amp;gt;; Budischowsky, Puthon; Mittenzwei, Zwischen Gestern und Morgen, 38f. (zu seinem Sohn Jean Baptist P.).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
-                     </listBibl>
                <noteGrp><note target="wkfm-0759.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0759</note><note target="wkfm-0760.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0760</note></noteGrp></person>
                 <person xml:id="wkfm__47123">
                      <persName>
@@ -221,13 +191,43 @@
                         <bibl>&amp;lt;span&amp;gt;Budischowsky, Johann Georg Schuller, 12, 16.&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0760.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0760</note></noteGrp></person>
-                <person xml:id="wkfm__47121">
+                <person xml:id="wkfm__47120">
                      <persName>
-                        <forename>Ignaz</forename>
-                        <surname>Conver</surname>
+                        <forename>Ludwig</forename>
+                        <surname>Puthon</surname>
+                        <surname type="alt">Buthon</surname>
+                     </persName>
+                     <birth><date>24.07.1705</date></birth>
+                     <death><date>05.02.1748</date></death>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+                     <listBibl>
+                        <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Budischowsky, Johann Georg Schuller, 12, 16&amp;lt;/span&amp;gt;; Budischowsky, Puthon; Mittenzwei, Zwischen Gestern und Morgen, 38f. (zu seinem Sohn Jean Baptist P.).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0759.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0759</note><note target="wkfm-0760.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0760</note></noteGrp></person>
+                <person xml:id="wkfm__43810">
+                     <persName>
+                        <forename>Bernhard Franz</forename>
+                        <surname>Violand</surname>
                      </persName>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-               <noteGrp><note target="wkfm-0759.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0759</note><note target="wkfm-0760.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0760</note></noteGrp></person>
+                     <listBibl>
+                        <bibl>Rauscher, Serles, Niederleger, 168.</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0070.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0070</note><note target="wkfm-0071.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0071</note><note target="wkfm-0760.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0760</note><note target="wkfm-0799.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0799</note><note target="wkfm-0800.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0800</note></noteGrp></person>
+                <person xml:id="wkfm__42886">
+                     <persName>
+                        <forename>Bernhard</forename>
+                        <surname>Falquet</surname>
+                     </persName>
+                     <birth><date>14.12.1709</date></birth>
+                     <death><date>17.08.1769</date></death>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+                     <listBibl>
+                        <bibl>Budischowsky, Bernhard Falquet; Budischowsky, Puthon; Matis, Manufakturen, 270, 364.&amp;lt;br&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0251.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0251</note><note target="wkfm-0759.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0759</note><note target="wkfm-0760.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0760</note><note target="wkfm-0797.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0797</note><note target="wkfm-0798.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0798</note><note target="wkfm-0800.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0800</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>
