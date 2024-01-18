@@ -102,14 +102,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43821">
-                     <persName>
-                        <forename>Simon Veitl</forename>
-                        <surname>Mäar</surname>
-                     </persName>
-                     <occupation>Prokurist des Marx Hirschl</occupation>
-               <noteGrp><note target="wkfm-1861.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1861</note></noteGrp></person>
-                <person xml:id="wkfm__11130">
+    <back><listPerson><person xml:id="wkfm__11130">
                      <persName>
                         <forename>Marx</forename>
                         <forename type="alt">Markus</forename>
@@ -132,5 +125,12 @@
                         <bibl>Wachstein, Die Wiener Juden in Handel und Industrie.</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1861.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1861</note><note target="wkfm-1862.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1862</note></noteGrp></person>
+                <person xml:id="wkfm__43821">
+                     <persName>
+                        <forename>Simon Veitl</forename>
+                        <surname>Mäar</surname>
+                     </persName>
+                     <occupation>Prokurist des Marx Hirschl</occupation>
+               <noteGrp><note target="wkfm-1861.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1861</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

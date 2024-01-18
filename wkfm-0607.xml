@@ -118,19 +118,11 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46291">
+    <back><listPerson><person xml:id="wkfm__29581">
                      <persName>
-                        <forename>Engelbert</forename>
-                        <surname>Tschoffen</surname>
-                        <surname type="alt">Tschofen</surname>
+                        <forename>None</forename>
+                        <surname>von Senger</surname>
                      </persName>
-                     <birth><date>27.11.1724</date></birth>
-                     <death><date>01.12.1792</date></death>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-                     <listBibl>
-                        <bibl>Budischowky, Die Edlen von Tschoffen, 175-179, 187; Mittenzwei, Zwischen Gestern und Morgen, 81 und passim (dort als Protestant geführt).&amp;lt;br&amp;gt;</bibl>
-                     </listBibl>
                <noteGrp><note target="wkfm-0607.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0607</note></noteGrp></person>
                 <person xml:id="wkfm__46293">
                      <persName>
@@ -143,11 +135,19 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 337 (Februar 1747).&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0050.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0050</note><note target="wkfm-0051.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0051</note><note target="wkfm-0607.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0607</note></noteGrp></person>
-                <person xml:id="wkfm__29581">
+                <person xml:id="wkfm__46291">
                      <persName>
-                        <forename>None</forename>
-                        <surname>von Senger</surname>
+                        <forename>Engelbert</forename>
+                        <surname>Tschoffen</surname>
+                        <surname type="alt">Tschofen</surname>
                      </persName>
+                     <birth><date>27.11.1724</date></birth>
+                     <death><date>01.12.1792</date></death>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+                     <listBibl>
+                        <bibl>Budischowky, Die Edlen von Tschoffen, 175-179, 187; Mittenzwei, Zwischen Gestern und Morgen, 81 und passim (dort als Protestant geführt).&amp;lt;br&amp;gt;</bibl>
+                     </listBibl>
                <noteGrp><note target="wkfm-0607.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0607</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

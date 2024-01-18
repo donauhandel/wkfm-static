@@ -110,7 +110,19 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46744">
+    <back><listPerson><person xml:id="wkfm__43201">
+                     <persName>
+                        <forename>Anton</forename>
+                        <surname>Rathgeb</surname>
+                     </persName>
+                     <death><date>1766</date></death>
+                     <occupation>Handelsmann, Materialist, Hausinhaber</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+                     <listBibl>
+                        <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 496 (Februar 1737).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-1421.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1421</note><note target="wkfm-1422.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1422</note><note target="wkfm-1430.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1430</note></noteGrp></person>
+                <person xml:id="wkfm__46744">
                      <persName>
                         <forename>Eva Theresia</forename>
                         <surname>Hayderin</surname>
@@ -126,17 +138,5 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0471.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0471</note><note target="wkfm-0609.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0609</note><note target="wkfm-1422.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1422</note><note target="wkfm-1429.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1429</note><note target="wkfm-1430.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1430</note></noteGrp></person>
-                <person xml:id="wkfm__43201">
-                     <persName>
-                        <forename>Anton</forename>
-                        <surname>Rathgeb</surname>
-                     </persName>
-                     <death><date>1766</date></death>
-                     <occupation>Handelsmann, Materialist, Hausinhaber</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-                     <listBibl>
-                        <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 496 (Februar 1737).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-1421.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1421</note><note target="wkfm-1422.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1422</note><note target="wkfm-1430.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1430</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

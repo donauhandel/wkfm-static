@@ -115,7 +115,15 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46170">
+    <back><listPerson><person xml:id="wkfm__46785">
+                     <persName>
+                        <forename>Jakob</forename>
+                        <surname>Lang</surname>
+                     </persName>
+                     <occupation>Tuchhändler</occupation>
+                     <occupation type="kaufmannsklasse">tuchlaubensverwandt/bürgerlich</occupation>
+               <noteGrp><note target="wkfm-1110.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1110</note><note target="wkfm-1181.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1181</note><note target="wkfm-1182.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1182</note><note target="wkfm-1286.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1286</note></noteGrp></person>
+                <person xml:id="wkfm__46170">
                      <persName>
                         <forename>Franz Joseph</forename>
                         <forename type="alt">Franz</forename>
@@ -125,13 +133,5 @@
                      <occupation>Angesteller der Anna Susanna von Haydern, Tuchhändler</occupation>
                      <occupation type="kaufmannsklasse">tuchlaubensverwandt/bürgerlich</occupation>
                <noteGrp><note target="wkfm-0471.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0471</note><note target="wkfm-0923.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0923</note><note target="wkfm-0924.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0924</note><note target="wkfm-1027.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1027</note><note target="wkfm-1028.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1028</note><note target="wkfm-1181.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1181</note></noteGrp></person>
-                <person xml:id="wkfm__46785">
-                     <persName>
-                        <forename>Jakob</forename>
-                        <surname>Lang</surname>
-                     </persName>
-                     <occupation>Tuchhändler</occupation>
-                     <occupation type="kaufmannsklasse">tuchlaubensverwandt/bürgerlich</occupation>
-               <noteGrp><note target="wkfm-1110.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1110</note><note target="wkfm-1181.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1181</note><note target="wkfm-1182.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1182</note><note target="wkfm-1286.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1286</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

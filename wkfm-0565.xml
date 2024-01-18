@@ -131,15 +131,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46241">
-                     <persName>
-                        <forename>Johann Ludolph</forename>
-                        <surname>Dohm von Dohmkirchen</surname>
-                     </persName>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-               <noteGrp><note target="wkfm-0565.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0565</note><note target="wkfm-0566.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0566</note></noteGrp></person>
-                <person xml:id="wkfm__46242">
+    <back><listPerson><person xml:id="wkfm__46242">
                      <persName>
                         <forename>Renata</forename>
                         <forename type="alt">Renata Elisabeth</forename>
@@ -160,14 +152,6 @@
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                      <occupation type="aemter">Kommerzienrat</occupation>
                <noteGrp><note target="wkfm-0565.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0565</note><note target="wkfm-0566.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0566</note></noteGrp></person>
-                <person xml:id="wkfm__46243">
-                     <persName>
-                        <forename>Johann Andre</forename>
-                        <surname>von Mayern</surname>
-                     </persName>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-               <noteGrp><note target="wkfm-0565.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0565</note><note target="wkfm-0566.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0566</note><note target="wkfm-1185.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1185</note><note target="wkfm-1186.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1186</note></noteGrp></person>
                 <person xml:id="wkfm__22683">
                      <persName>
                         <forename>Johann Georg</forename>
@@ -176,5 +160,21 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                <noteGrp><note target="wkfm-0565.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0565</note><note target="wkfm-0566.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0566</note></noteGrp></person>
+                <person xml:id="wkfm__46241">
+                     <persName>
+                        <forename>Johann Ludolph</forename>
+                        <surname>Dohm von Dohmkirchen</surname>
+                     </persName>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+               <noteGrp><note target="wkfm-0565.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0565</note><note target="wkfm-0566.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0566</note></noteGrp></person>
+                <person xml:id="wkfm__46243">
+                     <persName>
+                        <forename>Johann Andre</forename>
+                        <surname>von Mayern</surname>
+                     </persName>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+               <noteGrp><note target="wkfm-0565.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0565</note><note target="wkfm-0566.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0566</note><note target="wkfm-1185.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1185</note><note target="wkfm-1186.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1186</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

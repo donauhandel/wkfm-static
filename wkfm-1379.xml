@@ -100,13 +100,11 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__18191" sameAs="#wkfm__13666 ">
+    <back><listPerson><person xml:id="wkfm__46697">
                      <persName>
-                        <forename>Daniel Xaver</forename>
-                        <surname>Ritschl</surname>
-                        <surname type="alt">Reitschl</surname>
+                        <forename>Johann Michael</forename>
+                        <surname>Symann</surname>
                      </persName>
-                     <occupation>Handelsmann</occupation>
                <noteGrp><note target="wkfm-1379.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1379</note></noteGrp></person>
                 <person xml:id="wkfm__8188" sameAs="#wkfm__11386 wkfm__9399 ">
                      <persName>
@@ -120,11 +118,13 @@
                         <bibl>&amp;lt;span&amp;gt;Dotter, Italienische Kaufleute, 137-139; Huchler, Bürgeraufnahmen, 550 (15. Mai 1711).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0709.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0709</note><note target="wkfm-0710.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0710</note><note target="wkfm-0820.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0820</note><note target="wkfm-1379.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1379</note></noteGrp></person>
-                <person xml:id="wkfm__46697">
+                <person xml:id="wkfm__18191" sameAs="#wkfm__13666 ">
                      <persName>
-                        <forename>Johann Michael</forename>
-                        <surname>Symann</surname>
+                        <forename>Daniel Xaver</forename>
+                        <surname>Ritschl</surname>
+                        <surname type="alt">Reitschl</surname>
                      </persName>
+                     <occupation>Handelsmann</occupation>
                <noteGrp><note target="wkfm-1379.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1379</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

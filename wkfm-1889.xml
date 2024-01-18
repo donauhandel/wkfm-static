@@ -113,6 +113,19 @@
                         <surname>Ables</surname>
                      </persName>
                <noteGrp><note target="wkfm-1889.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1889</note></noteGrp></person>
+                <person xml:id="wkfm__43832">
+                     <persName>
+                        <forename>Butla</forename>
+                        <surname>Seligmannin</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-1889.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1889</note></noteGrp></person>
+                <person xml:id="wkfm__43830">
+                     <persName>
+                        <forename>Abraham</forename>
+                        <surname>Leidesdorf</surname>
+                     </persName>
+                     <occupation>Prokurist des Nathan Seligmann</occupation>
+               <noteGrp><note target="wkfm-1889.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1889</note></noteGrp></person>
                 <person xml:id="wkfm__18390">
                      <persName>
                         <forename>Samuel</forename>
@@ -130,18 +143,5 @@
                         <bibl>Wachstein, Die Wiener Juden in Handel und Industrie.</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1881.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1881</note><note target="wkfm-1889.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1889</note></noteGrp></person>
-                <person xml:id="wkfm__43830">
-                     <persName>
-                        <forename>Abraham</forename>
-                        <surname>Leidesdorf</surname>
-                     </persName>
-                     <occupation>Prokurist des Nathan Seligmann</occupation>
-               <noteGrp><note target="wkfm-1889.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1889</note></noteGrp></person>
-                <person xml:id="wkfm__43832">
-                     <persName>
-                        <forename>Butla</forename>
-                        <surname>Seligmannin</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-1889.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1889</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

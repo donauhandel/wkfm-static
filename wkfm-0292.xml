@@ -96,7 +96,19 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43977">
+    <back><listPerson><person xml:id="wkfm__43978">
+                     <persName>
+                        <forename>Anna Theresia</forename>
+                        <surname>Orsetin</surname>
+                        <surname type="alt">Passy</surname>
+                     </persName>
+                     <birth><date>10.10.1730</date></birth>
+                     <death><date>1757-1767</date></death>
+                     <listBibl>
+                        <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt; Budischowsky, Die Nachkommen des Georg und der Maria Theresia Passy, 154. &amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0292.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0292</note></noteGrp></person>
+                <person xml:id="wkfm__43977">
                      <persName>
                         <forename>Georg</forename>
                         <surname>Passy</surname>
@@ -109,17 +121,5 @@
                         <bibl>&amp;lt;span&amp;gt; Budischowsky, Die Nachkommen des Georg und der Maria Theresia Passy, 145-147, 154. &amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0291.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0291</note><note target="wkfm-0292.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0292</note></noteGrp></person>
-                <person xml:id="wkfm__43978">
-                     <persName>
-                        <forename>Anna Theresia</forename>
-                        <surname>Orsetin</surname>
-                        <surname type="alt">Passy</surname>
-                     </persName>
-                     <birth><date>10.10.1730</date></birth>
-                     <death><date>1757-1767</date></death>
-                     <listBibl>
-                        <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt; Budischowsky, Die Nachkommen des Georg und der Maria Theresia Passy, 154. &amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-0292.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0292</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

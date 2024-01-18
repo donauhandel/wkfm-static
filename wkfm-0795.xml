@@ -106,16 +106,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47172">
-                     <persName>
-                        <forename>Johann Nepomuk</forename>
-                        <surname>Fuchs</surname>
-                        <surname type="alt">von Fuchs</surname>
-                     </persName>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-0795.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0795</note></noteGrp></person>
-                <person xml:id="wkfm__1411" sameAs="#wkfm__1402 ">
+    <back><listPerson><person xml:id="wkfm__1411" sameAs="#wkfm__1402 ">
                      <persName>
                         <forename>Joseph Karl</forename>
                         <surname>Fux</surname>
@@ -133,6 +124,15 @@
                         <surname>von Fuchs</surname>
                      </persName>
                      <occupation>Handelsmann</occupation>
+               <noteGrp><note target="wkfm-0795.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0795</note></noteGrp></person>
+                <person xml:id="wkfm__47172">
+                     <persName>
+                        <forename>Johann Nepomuk</forename>
+                        <surname>Fuchs</surname>
+                        <surname type="alt">von Fuchs</surname>
+                     </persName>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0795.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0795</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

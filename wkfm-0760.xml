@@ -169,29 +169,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47121">
-                     <persName>
-                        <forename>Ignaz</forename>
-                        <surname>Conver</surname>
-                     </persName>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-               <noteGrp><note target="wkfm-0759.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0759</note><note target="wkfm-0760.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0760</note></noteGrp></person>
-                <person xml:id="wkfm__47123">
-                     <persName>
-                        <forename>Eva Barbara</forename>
-                        <surname>Peisserin</surname>
-                        <surname type="alt">Puthon</surname>
-                        <surname type="alt">Peisser von Wertenau</surname>
-                        <surname type="alt">Schuller</surname>
-                     </persName>
-                     <birth><date>26.10.1723</date></birth>
-                     <death><date>29.10.1803</date></death>
-                     <listBibl>
-                        <bibl>&amp;lt;span&amp;gt;Budischowsky, Johann Georg Schuller, 12, 16.&amp;lt;/span&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-0760.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0760</note></noteGrp></person>
-                <person xml:id="wkfm__47120">
+    <back><listPerson><person xml:id="wkfm__47120">
                      <persName>
                         <forename>Ludwig</forename>
                         <surname>Puthon</surname>
@@ -216,6 +194,28 @@
                         <bibl>Rauscher, Serles, Niederleger, 168.</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0070.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0070</note><note target="wkfm-0071.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0071</note><note target="wkfm-0760.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0760</note><note target="wkfm-0799.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0799</note><note target="wkfm-0800.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0800</note></noteGrp></person>
+                <person xml:id="wkfm__47123">
+                     <persName>
+                        <forename>Eva Barbara</forename>
+                        <surname>Peisserin</surname>
+                        <surname type="alt">Puthon</surname>
+                        <surname type="alt">Peisser von Wertenau</surname>
+                        <surname type="alt">Schuller</surname>
+                     </persName>
+                     <birth><date>26.10.1723</date></birth>
+                     <death><date>29.10.1803</date></death>
+                     <listBibl>
+                        <bibl>&amp;lt;span&amp;gt;Budischowsky, Johann Georg Schuller, 12, 16.&amp;lt;/span&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0760.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0760</note></noteGrp></person>
+                <person xml:id="wkfm__47121">
+                     <persName>
+                        <forename>Ignaz</forename>
+                        <surname>Conver</surname>
+                     </persName>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+               <noteGrp><note target="wkfm-0759.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0759</note><note target="wkfm-0760.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0760</note></noteGrp></person>
                 <person xml:id="wkfm__42886">
                      <persName>
                         <forename>Bernhard</forename>

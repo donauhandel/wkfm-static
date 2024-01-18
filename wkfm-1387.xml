@@ -110,12 +110,12 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46707">
+    <back><listPerson><person xml:id="wkfm__46706">
                      <persName>
-                        <forename>Karl</forename>
-                        <surname>Alay</surname>
+                        <forename>Leonhard Adam</forename>
+                        <surname>Ziegler</surname>
                      </persName>
-                     <occupation>Prokurist bei Giovanni Maria Rozzio</occupation>
+                     <occupation>Angestellter und Prokurist bei Giovanni Maria Rozzio</occupation>
                <noteGrp><note target="wkfm-1387.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1387</note></noteGrp></person>
                 <person xml:id="wkfm__8587">
                      <persName>
@@ -130,12 +130,19 @@
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Dotter, Italienische Kaufleute, 126f.; Huchler, Bürgeraufnahmen, 506 (15. Juni 1712).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1387.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1387</note><note target="wkfm-1388.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1388</note></noteGrp></person>
-                <person xml:id="wkfm__46706">
+                <person xml:id="wkfm__46705">
                      <persName>
-                        <forename>Leonhard Adam</forename>
-                        <surname>Ziegler</surname>
+                        <forename>Joseph</forename>
+                        <surname>Fleischer</surname>
                      </persName>
-                     <occupation>Angestellter und Prokurist bei Giovanni Maria Rozzio</occupation>
+                     <occupation>Prokurist bei Giovanni Maria Rozzio</occupation>
+               <noteGrp><note target="wkfm-1387.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1387</note></noteGrp></person>
+                <person xml:id="wkfm__46707">
+                     <persName>
+                        <forename>Karl</forename>
+                        <surname>Alay</surname>
+                     </persName>
+                     <occupation>Prokurist bei Giovanni Maria Rozzio</occupation>
                <noteGrp><note target="wkfm-1387.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1387</note></noteGrp></person>
                 <person xml:id="wkfm__24742" sameAs="#wkfm__24669 ">
                      <persName>
@@ -150,12 +157,5 @@
                         <bibl>Staatskalender für das Jahr 1745, 264.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0433.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0433</note><note target="wkfm-0461.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0461</note><note target="wkfm-0713.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0713</note><note target="wkfm-1387.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1387</note><note target="wkfm-1388.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1388</note></noteGrp></person>
-                <person xml:id="wkfm__46705">
-                     <persName>
-                        <forename>Joseph</forename>
-                        <surname>Fleischer</surname>
-                     </persName>
-                     <occupation>Prokurist bei Giovanni Maria Rozzio</occupation>
-               <noteGrp><note target="wkfm-1387.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1387</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

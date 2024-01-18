@@ -103,15 +103,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47188">
-                     <persName>
-                        <forename>Franz</forename>
-                        <surname>Fuljod</surname>
-                     </persName>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-0805.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0805</note><note target="wkfm-1643.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1643</note><note target="wkfm-1644.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1644</note></noteGrp></person>
-                <person xml:id="wkfm__47035" sameAs="#wkfm__47544 ">
+    <back><listPerson><person xml:id="wkfm__47035" sameAs="#wkfm__47544 ">
                      <persName>
                         <forename>Martin Joseph</forename>
                         <surname>Sensel</surname>
@@ -120,6 +112,14 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0805.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0805</note><note target="wkfm-1811.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1811</note></noteGrp></person>
+                <person xml:id="wkfm__47188">
+                     <persName>
+                        <forename>Franz</forename>
+                        <surname>Fuljod</surname>
+                     </persName>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-0805.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0805</note><note target="wkfm-1643.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1643</note><note target="wkfm-1644.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1644</note></noteGrp></person>
                 <person xml:id="wkfm__47189">
                      <persName>
                         <forename>Jakob</forename>

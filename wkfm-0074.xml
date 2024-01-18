@@ -97,7 +97,14 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__8615" sameAs="#wkfm__35157 wkfm__35724 ">
+    <back><listPerson><person xml:id="wkfm__43818">
+                     <persName>
+                        <forename>Franz</forename>
+                        <surname>Zienner</surname>
+                     </persName>
+                     <occupation>Prokurist des Georg Prenz</occupation>
+               <noteGrp><note target="wkfm-0074.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0074</note></noteGrp></person>
+                <person xml:id="wkfm__8615" sameAs="#wkfm__35157 wkfm__35724 ">
                      <persName>
                         <forename>Georg</forename>
                         <surname>Prenz</surname>
@@ -110,12 +117,5 @@
                         <bibl>Johann Christian Lünig, Theatrum Ceremoniale Historico-Politicum, Bd. 2 (Leipzig 1720) 1575; Staats- und Standeskalender 1723, 242..</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0074.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0074</note><note target="wkfm-0075.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0075</note></noteGrp></person>
-                <person xml:id="wkfm__43818">
-                     <persName>
-                        <forename>Franz</forename>
-                        <surname>Zienner</surname>
-                     </persName>
-                     <occupation>Prokurist des Georg Prenz</occupation>
-               <noteGrp><note target="wkfm-0074.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0074</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

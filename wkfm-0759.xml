@@ -146,22 +146,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47121">
-                     <persName>
-                        <forename>Ignaz</forename>
-                        <surname>Conver</surname>
-                     </persName>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-               <noteGrp><note target="wkfm-0759.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0759</note><note target="wkfm-0760.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0760</note></noteGrp></person>
-                <person xml:id="wkfm__36096">
-                     <persName>
-                        <forename>Anton</forename>
-                        <surname>Puchberger</surname>
-                     </persName>
-                     <occupation>Prokurist der Firma Bernhard Falquet</occupation>
-               <noteGrp><note target="wkfm-0759.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0759</note></noteGrp></person>
-                <person xml:id="wkfm__47120">
+    <back><listPerson><person xml:id="wkfm__47120">
                      <persName>
                         <forename>Ludwig</forename>
                         <surname>Puthon</surname>
@@ -174,6 +159,21 @@
                      <listBibl>
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Budischowsky, Johann Georg Schuller, 12, 16&amp;lt;/span&amp;gt;; Budischowsky, Puthon; Mittenzwei, Zwischen Gestern und Morgen, 38f. (zu seinem Sohn Jean Baptist P.).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
+               <noteGrp><note target="wkfm-0759.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0759</note><note target="wkfm-0760.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0760</note></noteGrp></person>
+                <person xml:id="wkfm__36096">
+                     <persName>
+                        <forename>Anton</forename>
+                        <surname>Puchberger</surname>
+                     </persName>
+                     <occupation>Prokurist der Firma Bernhard Falquet</occupation>
+               <noteGrp><note target="wkfm-0759.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0759</note></noteGrp></person>
+                <person xml:id="wkfm__47121">
+                     <persName>
+                        <forename>Ignaz</forename>
+                        <surname>Conver</surname>
+                     </persName>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                <noteGrp><note target="wkfm-0759.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0759</note><note target="wkfm-0760.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0760</note></noteGrp></person>
                 <person xml:id="wkfm__42886">
                      <persName>

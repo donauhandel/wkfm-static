@@ -114,14 +114,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46275">
-                     <persName>
-                        <forename>Theresia</forename>
-                        <surname>Wiegathin</surname>
-                        <surname type="alt">Dietschi</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-0593.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0593</note><note target="wkfm-0594.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0594</note></noteGrp></person>
-                <person xml:id="wkfm__37748">
+    <back><listPerson><person xml:id="wkfm__37748">
                      <persName>
                         <forename>Johann</forename>
                         <surname>Dietschi</surname>
@@ -142,5 +135,12 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0303.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0303</note><note target="wkfm-0553.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0553</note><note target="wkfm-0554.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0554</note><note target="wkfm-0593.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0593</note><note target="wkfm-0594.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0594</note><note target="wkfm-0596.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0596</note></noteGrp></person>
+                <person xml:id="wkfm__46275">
+                     <persName>
+                        <forename>Theresia</forename>
+                        <surname>Wiegathin</surname>
+                        <surname type="alt">Dietschi</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0593.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0593</note><note target="wkfm-0594.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0594</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

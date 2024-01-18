@@ -116,14 +116,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46456">
-                     <persName>
-                        <forename>Anna Katharina</forename>
-                        <surname>Fuchsin</surname>
-                        <surname type="alt">Fuxin</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-0950.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0950</note></noteGrp></person>
-                <person xml:id="wkfm__46455">
+    <back><listPerson><person xml:id="wkfm__46455">
                      <persName>
                         <forename>Anna Katharina</forename>
                         <surname>Höcksteiner</surname>
@@ -131,6 +124,13 @@
                      <occupation>Handelsfrau</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0949.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0949</note><note target="wkfm-0950.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0950</note></noteGrp></person>
+                <person xml:id="wkfm__46456">
+                     <persName>
+                        <forename>Anna Katharina</forename>
+                        <surname>Fuchsin</surname>
+                        <surname type="alt">Fuxin</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0950.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0950</note></noteGrp></person>
                 <person xml:id="wkfm__8186">
                      <persName>
                         <forename>Joseph</forename>

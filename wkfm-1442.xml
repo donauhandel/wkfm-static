@@ -92,14 +92,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46759">
-                     <persName>
-                        <forename>Johanna</forename>
-                        <surname>Oberhammerin</surname>
-                        <surname type="alt">Ristl</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-1442.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1442</note></noteGrp></person>
-                <person xml:id="wkfm__46758">
+    <back><listPerson><person xml:id="wkfm__46758">
                      <persName>
                         <forename>Franz</forename>
                         <surname>Ristl</surname>
@@ -108,5 +101,12 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1441.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1441</note><note target="wkfm-1442.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1442</note></noteGrp></person>
+                <person xml:id="wkfm__46759">
+                     <persName>
+                        <forename>Johanna</forename>
+                        <surname>Oberhammerin</surname>
+                        <surname type="alt">Ristl</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-1442.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1442</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

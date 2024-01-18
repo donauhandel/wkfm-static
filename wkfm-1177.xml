@@ -116,7 +116,15 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46844">
+    <back><listPerson><person xml:id="wkfm__46841">
+                     <persName>
+                        <forename>Johann Georg</forename>
+                        <surname>Langenser</surname>
+                     </persName>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-1177.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1177</note></noteGrp></person>
+                <person xml:id="wkfm__46844">
                      <persName>
                         <forename>Maria Anna</forename>
                         <surname>Pillerin</surname>
@@ -129,14 +137,6 @@
                         <surname>Engelhard</surname>
                         <surname type="alt">Englhart</surname>
                      </persName>
-               <noteGrp><note target="wkfm-1177.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1177</note></noteGrp></person>
-                <person xml:id="wkfm__46841">
-                     <persName>
-                        <forename>Johann Georg</forename>
-                        <surname>Langenser</surname>
-                     </persName>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1177.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1177</note></noteGrp></person>
                 <person xml:id="wkfm__46845">
                      <persName>
