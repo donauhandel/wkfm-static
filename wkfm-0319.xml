@@ -114,16 +114,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__44047">
-                     <persName>
-                        <forename>Johann Karl</forename>
-                        <surname>Braun</surname>
-                        <surname type="alt">Praun</surname>
-                     </persName>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-0319.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0319</note></noteGrp></person>
-                <person xml:id="wkfm__43966">
+    <back><listPerson><person xml:id="wkfm__43966">
                      <persName>
                         <forename>Dominicus</forename>
                         <surname>Polidoro</surname>
@@ -135,5 +126,14 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 487.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0283.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0283</note><note target="wkfm-0319.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0319</note></noteGrp></person>
+                <person xml:id="wkfm__44047">
+                     <persName>
+                        <forename>Johann Karl</forename>
+                        <surname>Braun</surname>
+                        <surname type="alt">Praun</surname>
+                     </persName>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-0319.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0319</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

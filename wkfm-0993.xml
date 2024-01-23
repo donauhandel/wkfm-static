@@ -93,7 +93,14 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__17713">
+    <back><listPerson><person xml:id="wkfm__46491">
+                     <persName>
+                        <forename>Andre Sebastian</forename>
+                        <surname>Siegert</surname>
+                     </persName>
+                     <occupation>Handelsmann</occupation>
+               <noteGrp><note target="wkfm-0993.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0993</note></noteGrp></person>
+                <person xml:id="wkfm__17713">
                      <persName>
                         <forename>Franz Xaver</forename>
                         <surname>Huber</surname>
@@ -104,12 +111,5 @@
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 418.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0993.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0993</note><note target="wkfm-0994.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0994</note></noteGrp></person>
-                <person xml:id="wkfm__46491">
-                     <persName>
-                        <forename>Andre Sebastian</forename>
-                        <surname>Siegert</surname>
-                     </persName>
-                     <occupation>Handelsmann</occupation>
-               <noteGrp><note target="wkfm-0993.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0993</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

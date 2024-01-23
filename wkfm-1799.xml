@@ -110,7 +110,13 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47018">
+    <back><listPerson><person xml:id="wkfm__47020">
+                     <persName>
+                        <forename>Maria Antonia</forename>
+                        <surname>Wagnerin</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-1799.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1799</note></noteGrp></person>
+                <person xml:id="wkfm__47018">
                      <persName>
                         <forename>Andre</forename>
                         <surname>Wannerer</surname>
@@ -118,12 +124,6 @@
                      <death><date>1769</date></death>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-1799.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1799</note></noteGrp></person>
-                <person xml:id="wkfm__47020">
-                     <persName>
-                        <forename>Maria Antonia</forename>
-                        <surname>Wagnerin</surname>
-                     </persName>
                <noteGrp><note target="wkfm-1799.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1799</note></noteGrp></person>
                 <person xml:id="wkfm__47021">
                      <persName>

@@ -121,13 +121,6 @@
                         <bibl>Huchler, Bürgeraufnahmen,&amp;amp;nbsp;362.</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0303.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0303</note><note target="wkfm-0553.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0553</note><note target="wkfm-0554.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0554</note><note target="wkfm-0593.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0593</note><note target="wkfm-0594.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0594</note><note target="wkfm-0596.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0596</note></noteGrp></person>
-                <person xml:id="wkfm__46275">
-                     <persName>
-                        <forename>Theresia</forename>
-                        <surname>Wiegathin</surname>
-                        <surname type="alt">Dietschi</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-0593.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0593</note><note target="wkfm-0594.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0594</note></noteGrp></person>
                 <person xml:id="wkfm__37748">
                      <persName>
                         <forename>Johann</forename>
@@ -140,5 +133,12 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 362 (Jänner 1741).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0554.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0554</note><note target="wkfm-0593.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0593</note><note target="wkfm-0594.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0594</note><note target="wkfm-0596.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0596</note><note target="wkfm-1323.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1323</note><note target="wkfm-1325.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1325</note></noteGrp></person>
+                <person xml:id="wkfm__46275">
+                     <persName>
+                        <forename>Theresia</forename>
+                        <surname>Wiegathin</surname>
+                        <surname type="alt">Dietschi</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0593.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0593</note><note target="wkfm-0594.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0594</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

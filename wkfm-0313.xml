@@ -109,7 +109,13 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__44039">
+    <back><listPerson><person xml:id="wkfm__44040">
+                     <persName>
+                        <forename>Lorenz</forename>
+                        <surname>Pallier</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0313.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0313</note></noteGrp></person>
+                <person xml:id="wkfm__44039">
                      <persName>
                         <forename>Dominicus</forename>
                         <surname>Bormastini</surname>
@@ -120,11 +126,5 @@
                         <bibl>Huchler, Bürgeraufnahmen, 350.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0313.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0313</note><note target="wkfm-1325.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1325</note></noteGrp></person>
-                <person xml:id="wkfm__44040">
-                     <persName>
-                        <forename>Lorenz</forename>
-                        <surname>Pallier</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-0313.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0313</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

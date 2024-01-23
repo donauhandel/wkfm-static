@@ -103,13 +103,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46160">
-                     <persName>
-                        <forename>Eva Maria</forename>
-                        <surname>Curain</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-0463.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0463</note></noteGrp></person>
-                <person xml:id="wkfm__46159">
+    <back><listPerson><person xml:id="wkfm__46159">
                      <persName>
                         <forename>Franz</forename>
                         <surname>Cura</surname>
@@ -120,6 +114,12 @@
                      <listBibl>
                         <bibl>Huchler, Bürgeraufnahmen, 357.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
+               <noteGrp><note target="wkfm-0463.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0463</note></noteGrp></person>
+                <person xml:id="wkfm__46160">
+                     <persName>
+                        <forename>Eva Maria</forename>
+                        <surname>Curain</surname>
+                     </persName>
                <noteGrp><note target="wkfm-0463.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0463</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

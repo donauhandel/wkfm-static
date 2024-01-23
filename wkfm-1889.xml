@@ -107,12 +107,11 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43830">
+    <back><listPerson><person xml:id="wkfm__43831">
                      <persName>
-                        <forename>Abraham</forename>
-                        <surname>Leidesdorf</surname>
+                        <forename>Simon</forename>
+                        <surname>Ables</surname>
                      </persName>
-                     <occupation>Prokurist des Nathan Seligmann</occupation>
                <noteGrp><note target="wkfm-1889.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1889</note></noteGrp></person>
                 <person xml:id="wkfm__18390">
                      <persName>
@@ -120,17 +119,18 @@
                         <surname>Seligman</surname>
                      </persName>
                <noteGrp><note target="wkfm-1889.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1889</note></noteGrp></person>
-                <person xml:id="wkfm__43831">
-                     <persName>
-                        <forename>Simon</forename>
-                        <surname>Ables</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-1889.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1889</note></noteGrp></person>
                 <person xml:id="wkfm__43832">
                      <persName>
                         <forename>Butla</forename>
                         <surname>Seligmannin</surname>
                      </persName>
+               <noteGrp><note target="wkfm-1889.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1889</note></noteGrp></person>
+                <person xml:id="wkfm__43830">
+                     <persName>
+                        <forename>Abraham</forename>
+                        <surname>Leidesdorf</surname>
+                     </persName>
+                     <occupation>Prokurist des Nathan Seligmann</occupation>
                <noteGrp><note target="wkfm-1889.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1889</note></noteGrp></person>
                 <person xml:id="wkfm__30361">
                      <persName>

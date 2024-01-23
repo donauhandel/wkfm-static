@@ -93,7 +93,14 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__8412" sameAs="#wkfm__10731 wkfm__12382 ">
+    <back><listPerson><person xml:id="wkfm__43804">
+                     <persName>
+                        <forename>Marx Anton</forename>
+                        <surname>Tuesenstein</surname>
+                     </persName>
+                     <occupation>Wechselsensal, Prokurist bei Georg Prunner</occupation>
+               <noteGrp><note target="wkfm-0066.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0066</note></noteGrp></person>
+                <person xml:id="wkfm__8412" sameAs="#wkfm__10731 wkfm__12382 ">
                      <persName>
                         <forename>Georg</forename>
                         <surname>Prunner</surname>
@@ -106,12 +113,5 @@
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;div&amp;gt;Ksl. Staats- und Standeskalender 1721, S. 242.&amp;lt;/div&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0066.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0066</note><note target="wkfm-0067.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0067</note></noteGrp></person>
-                <person xml:id="wkfm__43804">
-                     <persName>
-                        <forename>Marx Anton</forename>
-                        <surname>Tuesenstein</surname>
-                     </persName>
-                     <occupation>Wechselsensal, Prokurist bei Georg Prunner</occupation>
-               <noteGrp><note target="wkfm-0066.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0066</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

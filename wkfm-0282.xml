@@ -84,15 +84,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43794">
-                     <persName>
-                        <forename>Joseph Leopold</forename>
-                        <forename type="alt">Leopold</forename>
-                        <surname>Gnädl</surname>
-                     </persName>
-                     <occupation>Tuchhändler</occupation>
-               <noteGrp><note target="wkfm-0047.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0047</note><note target="wkfm-0282.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0282</note></noteGrp></person>
-                <person xml:id="wkfm__43793">
+    <back><listPerson><person xml:id="wkfm__43793">
                      <persName>
                         <forename>Johann Jakob</forename>
                         <surname>Appold</surname>
@@ -104,6 +96,14 @@
                         <bibl>&amp;lt;div&amp;gt;Huchler, Bürgeraufnahmen, 340 (September 1740).&amp;lt;/div&amp;gt;&amp;lt;div&amp;gt;Harrer-Lucienfeld, Wien, seiner Häuser, Bd. 1.1, S. 207&amp;lt;br&amp;gt;&amp;lt;/div&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0046.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0046</note><note target="wkfm-0047.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0047</note><note target="wkfm-0282.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0282</note><note target="wkfm-1399.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1399</note><note target="wkfm-1400.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1400</note></noteGrp></person>
+                <person xml:id="wkfm__43794">
+                     <persName>
+                        <forename>Joseph Leopold</forename>
+                        <forename type="alt">Leopold</forename>
+                        <surname>Gnädl</surname>
+                     </persName>
+                     <occupation>Tuchhändler</occupation>
+               <noteGrp><note target="wkfm-0047.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0047</note><note target="wkfm-0282.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0282</note></noteGrp></person>
                 <person xml:id="wkfm__43795">
                      <persName>
                         <forename>Joseph</forename>

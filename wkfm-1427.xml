@@ -120,6 +120,18 @@
                         <surname>None</surname>
                      </persName>
                <noteGrp><note target="wkfm-1427.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1427</note></noteGrp></person>
+                <person xml:id="wkfm__24741" sameAs="#wkfm__19329 wkfm__25413 wkfm__8849 ">
+                     <persName>
+                        <forename>Anton Gabriel</forename>
+                        <surname>Veronese</surname>
+                     </persName>
+                     <death><date>1743</date></death>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+                     <listBibl>
+                        <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 549.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0753.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0753</note><note target="wkfm-0754.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0754</note><note target="wkfm-1427.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1427</note></noteGrp></person>
                 <person xml:id="wkfm__46738">
                      <persName>
                         <forename>Ferdinand</forename>
@@ -139,18 +151,6 @@
                      </persName>
                      <occupation>Prokurist des Ferdinand Reindl</occupation>
                <noteGrp><note target="wkfm-1427.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1427</note><note target="wkfm-1428.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1428</note></noteGrp></person>
-                <person xml:id="wkfm__24741" sameAs="#wkfm__19329 wkfm__25413 wkfm__8849 ">
-                     <persName>
-                        <forename>Anton Gabriel</forename>
-                        <surname>Veronese</surname>
-                     </persName>
-                     <death><date>1743</date></death>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-                     <listBibl>
-                        <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 549.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-0753.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0753</note><note target="wkfm-0754.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0754</note><note target="wkfm-1427.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1427</note></noteGrp></person>
                 <person xml:id="wkfm__46742">
                      <persName>
                         <forename>Barbara</forename>

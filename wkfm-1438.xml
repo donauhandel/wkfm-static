@@ -132,14 +132,6 @@
                         <surname>Orsetin</surname>
                      </persName>
                <noteGrp><note target="wkfm-1438.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1438</note></noteGrp></person>
-                <person xml:id="wkfm__43802" sameAs="#wkfm__38592 wkfm__42025 ">
-                     <persName>
-                        <forename>Johann Baptist</forename>
-                        <surname>Ruard</surname>
-                     </persName>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-               <noteGrp><note target="wkfm-0052.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0052</note><note target="wkfm-0291.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0291</note><note target="wkfm-1437.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1437</note><note target="wkfm-1438.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1438</note><note target="wkfm-1441.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1441</note></noteGrp></person>
                 <person xml:id="wkfm__46754">
                      <persName>
                         <forename>Valentin</forename>
@@ -148,5 +140,13 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                <noteGrp><note target="wkfm-1437.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1437</note><note target="wkfm-1438.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1438</note></noteGrp></person>
+                <person xml:id="wkfm__43802" sameAs="#wkfm__38592 wkfm__42025 ">
+                     <persName>
+                        <forename>Johann Baptist</forename>
+                        <surname>Ruard</surname>
+                     </persName>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+               <noteGrp><note target="wkfm-0052.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0052</note><note target="wkfm-0291.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0291</note><note target="wkfm-1437.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1437</note><note target="wkfm-1438.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1438</note><note target="wkfm-1441.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1441</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

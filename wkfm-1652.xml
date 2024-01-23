@@ -114,7 +114,17 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46153">
+    <back><listPerson><person xml:id="wkfm__47556">
+                     <persName>
+                        <forename>Michael</forename>
+                        <surname>Saliet</surname>
+                        <surname type="alt">Salliet</surname>
+                     </persName>
+                     <death><date>1782</date></death>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+               <noteGrp><note target="wkfm-1651.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1651</note><note target="wkfm-1652.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1652</note></noteGrp></person>
+                <person xml:id="wkfm__46153">
                      <persName>
                         <forename>Claudio</forename>
                         <surname>Saliet</surname>
@@ -125,16 +135,6 @@
                         <bibl>Mittenzwei, Zwischen Gestern und Morgen, 26.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0457.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0457</note><note target="wkfm-0458.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0458</note><note target="wkfm-1651.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1651</note><note target="wkfm-1652.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1652</note></noteGrp></person>
-                <person xml:id="wkfm__47556">
-                     <persName>
-                        <forename>Michael</forename>
-                        <surname>Saliet</surname>
-                        <surname type="alt">Salliet</surname>
-                     </persName>
-                     <death><date>1782</date></death>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-               <noteGrp><note target="wkfm-1651.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1651</note><note target="wkfm-1652.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1652</note></noteGrp></person>
                 <person xml:id="wkfm__47554">
                      <persName>
                         <forename>Johann</forename>

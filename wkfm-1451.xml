@@ -116,14 +116,6 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1451.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1451</note></noteGrp></person>
-                <person xml:id="wkfm__46773">
-                     <persName>
-                        <forename>Johann Georg</forename>
-                        <surname>Kaiser</surname>
-                        <surname type="alt">Kayser</surname>
-                     </persName>
-                     <occupation>Angestellter bei Johann Weygerth</occupation>
-               <noteGrp><note target="wkfm-1451.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1451</note></noteGrp></person>
                 <person xml:id="wkfm__24729">
                      <persName>
                         <forename>Johann</forename>
@@ -140,6 +132,14 @@
                      <death><date>1757</date></death>
                      <occupation>Angestellter bei Johann Wegerth, Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-1451.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1451</note></noteGrp></person>
+                <person xml:id="wkfm__46773">
+                     <persName>
+                        <forename>Johann Georg</forename>
+                        <surname>Kaiser</surname>
+                        <surname type="alt">Kayser</surname>
+                     </persName>
+                     <occupation>Angestellter bei Johann Weygerth</occupation>
                <noteGrp><note target="wkfm-1451.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1451</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

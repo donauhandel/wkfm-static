@@ -106,13 +106,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46364">
-                     <persName>
-                        <forename>Michael Joseph</forename>
-                        <surname>Gschaidter</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-0893.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0893</note></noteGrp></person>
-                <person xml:id="wkfm__46365">
+    <back><listPerson><person xml:id="wkfm__46365">
                      <persName>
                         <forename>Thomas</forename>
                         <surname>Schreiner</surname>
@@ -135,5 +129,11 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 396 (Juni 1742, dort als Fleischhacker bezeichnet!).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0893.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0893</note><note target="wkfm-0894.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0894</note></noteGrp></person>
+                <person xml:id="wkfm__46364">
+                     <persName>
+                        <forename>Michael Joseph</forename>
+                        <surname>Gschaidter</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0893.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0893</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

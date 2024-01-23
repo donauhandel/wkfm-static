@@ -100,13 +100,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46721">
-                     <persName>
-                        <forename>Andreas</forename>
-                        <surname>Rögler</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-1413.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1413</note><note target="wkfm-1414.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1414</note></noteGrp></person>
-                <person xml:id="wkfm__22544">
+    <back><listPerson><person xml:id="wkfm__22544">
                      <persName>
                         <forename>Franz Zacharias</forename>
                         <surname>Rögler</surname>
@@ -120,5 +114,11 @@
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 505 (&amp;#34;Franz&amp;#34;).&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1413.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1413</note></noteGrp></person>
+                <person xml:id="wkfm__46721">
+                     <persName>
+                        <forename>Andreas</forename>
+                        <surname>Rögler</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-1413.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1413</note><note target="wkfm-1414.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1414</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

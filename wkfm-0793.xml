@@ -124,7 +124,19 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__17087">
+    <back><listPerson><person xml:id="wkfm__47171" sameAs="#wkfm__7354 ">
+                     <persName>
+                        <forename>Sebastian</forename>
+                        <surname>Werner</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0793.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0793</note></noteGrp></person>
+                <person xml:id="wkfm__47168">
+                     <persName>
+                        <forename>Balthasar</forename>
+                        <surname>Vitius</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0793.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0793</note></noteGrp></person>
+                <person xml:id="wkfm__17087">
                      <persName>
                         <forename>Kaspar</forename>
                         <forename type="alt">Gasparo</forename>
@@ -140,18 +152,6 @@
                         <surname>Romani</surname>
                      </persName>
                      <occupation>Handelsmann</occupation>
-               <noteGrp><note target="wkfm-0793.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0793</note></noteGrp></person>
-                <person xml:id="wkfm__47168">
-                     <persName>
-                        <forename>Balthasar</forename>
-                        <surname>Vitius</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-0793.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0793</note></noteGrp></person>
-                <person xml:id="wkfm__47169">
-                     <persName>
-                        <forename>Franz Karl</forename>
-                        <surname>Sick</surname>
-                     </persName>
                <noteGrp><note target="wkfm-0793.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0793</note></noteGrp></person>
                 <person xml:id="wkfm__47170" sameAs="#wkfm__7347 ">
                      <persName>
@@ -170,10 +170,10 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 550.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0793.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0793</note></noteGrp></person>
-                <person xml:id="wkfm__47171" sameAs="#wkfm__7354 ">
+                <person xml:id="wkfm__47169">
                      <persName>
-                        <forename>Sebastian</forename>
-                        <surname>Werner</surname>
+                        <forename>Franz Karl</forename>
+                        <surname>Sick</surname>
                      </persName>
                <noteGrp><note target="wkfm-0793.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0793</note></noteGrp></person>
                 </listPerson></back></text>

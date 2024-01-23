@@ -117,7 +117,19 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43862">
+    <back><listPerson><person xml:id="wkfm__46610">
+                     <persName>
+                        <forename>Andre</forename>
+                        <surname>Ziegler</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-1847.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1847</note></noteGrp></person>
+                <person xml:id="wkfm__31013" sameAs="#wkfm__46610 ">
+                     <persName>
+                        <forename>Andre</forename>
+                        <surname>Ziegler</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-1847.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1847</note></noteGrp></person>
+                <person xml:id="wkfm__43862">
                      <persName>
                         <forename>Philipp Matthias</forename>
                         <surname>Ziegler</surname>
@@ -132,18 +144,6 @@
                      <persName>
                         <forename>Franz Anton</forename>
                         <surname>Groß</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-1847.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1847</note></noteGrp></person>
-                <person xml:id="wkfm__46610">
-                     <persName>
-                        <forename>Andre</forename>
-                        <surname>Ziegler</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-1847.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1847</note></noteGrp></person>
-                <person xml:id="wkfm__31013" sameAs="#wkfm__46610 ">
-                     <persName>
-                        <forename>Andre</forename>
-                        <surname>Ziegler</surname>
                      </persName>
                <noteGrp><note target="wkfm-1847.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1847</note></noteGrp></person>
                 </listPerson></back></text>

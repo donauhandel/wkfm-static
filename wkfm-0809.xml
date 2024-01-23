@@ -136,7 +136,17 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43919">
+    <back><listPerson><person xml:id="wkfm__46846">
+                     <persName>
+                        <forename>Johann</forename>
+                        <surname>Lölly</surname>
+                        <surname type="alt">Lelli</surname>
+                        <surname type="alt">Lolly</surname>
+                     </persName>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-0809.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0809</note><note target="wkfm-1179.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1179</note></noteGrp></person>
+                <person xml:id="wkfm__43919">
                      <persName>
                         <forename>Franz Anton</forename>
                         <forename type="alt">Franz</forename>
@@ -170,16 +180,6 @@
                         <surname type="alt">Seyerl</surname>
                      </persName>
                <noteGrp><note target="wkfm-0809.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0809</note></noteGrp></person>
-                <person xml:id="wkfm__46846">
-                     <persName>
-                        <forename>Johann</forename>
-                        <surname>Lölly</surname>
-                        <surname type="alt">Lelli</surname>
-                        <surname type="alt">Lolly</surname>
-                     </persName>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-0809.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0809</note><note target="wkfm-1179.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1179</note></noteGrp></person>
                 <person xml:id="wkfm__47194">
                      <persName>
                         <forename>Johann Georg</forename>

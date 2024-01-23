@@ -92,7 +92,15 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46321">
+    <back><listPerson><person xml:id="wkfm__46323">
+                     <persName>
+                        <forename>None</forename>
+                        <surname>None</surname>
+                     </persName>
+                     <occupation>Handelsfrau</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-0853.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0853</note></noteGrp></person>
+                <person xml:id="wkfm__46321">
                      <persName>
                         <forename>Johann Michael</forename>
                         <surname>Glück</surname>
@@ -105,13 +113,5 @@
                         <bibl>Huchler, Bürgeraufnahmen, 388.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0853.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0853</note><note target="wkfm-0854.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0854</note></noteGrp></person>
-                <person xml:id="wkfm__46323">
-                     <persName>
-                        <forename>None</forename>
-                        <surname>None</surname>
-                     </persName>
-                     <occupation>Handelsfrau</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-0853.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0853</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

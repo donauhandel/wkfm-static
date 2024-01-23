@@ -118,11 +118,14 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__44042" sameAs="#wkfm__26084 ">
+    <back><listPerson><person xml:id="wkfm__44041">
                      <persName>
-                        <forename>Judith</forename>
+                        <forename>Joseph</forename>
                         <surname>Priestersberger</surname>
+                        <surname type="alt">Priestersperger</surname>
                      </persName>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0315.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0315</note></noteGrp></person>
                 <person xml:id="wkfm__24382">
                      <persName>
@@ -131,21 +134,18 @@
                      </persName>
                      <occupation>Handelsfrau</occupation>
                <noteGrp><note target="wkfm-0315.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0315</note></noteGrp></person>
+                <person xml:id="wkfm__44042" sameAs="#wkfm__26084 ">
+                     <persName>
+                        <forename>Judith</forename>
+                        <surname>Priestersberger</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0315.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0315</note></noteGrp></person>
                 <person xml:id="wkfm__44043">
                      <persName>
                         <forename>Joseph</forename>
                         <surname>Guggenberger</surname>
                         <surname type="alt">Gugenberger</surname>
                      </persName>
-               <noteGrp><note target="wkfm-0315.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0315</note></noteGrp></person>
-                <person xml:id="wkfm__44041">
-                     <persName>
-                        <forename>Joseph</forename>
-                        <surname>Priestersberger</surname>
-                        <surname type="alt">Priestersperger</surname>
-                     </persName>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0315.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0315</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

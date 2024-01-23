@@ -132,15 +132,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43936">
-                     <persName>
-                        <forename>Johann Karl</forename>
-                        <surname>Mühl</surname>
-                     </persName>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-               <noteGrp><note target="wkfm-0241.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0241</note><note target="wkfm-0242.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0242</note></noteGrp></person>
-                <person xml:id="wkfm__21476">
+    <back><listPerson><person xml:id="wkfm__21476">
                      <persName>
                         <forename>Philipp Jakob</forename>
                         <surname>Bender</surname>
@@ -163,5 +155,13 @@
                      <death><date>1743</date></death>
                      <occupation>Prokurist des Philipp Jakob Bender</occupation>
                <noteGrp><note target="wkfm-0241.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0241</note></noteGrp></person>
+                <person xml:id="wkfm__43936">
+                     <persName>
+                        <forename>Johann Karl</forename>
+                        <surname>Mühl</surname>
+                     </persName>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+               <noteGrp><note target="wkfm-0241.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0241</note><note target="wkfm-0242.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0242</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

@@ -105,13 +105,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46921">
-                     <persName>
-                        <forename>Maria Clara</forename>
-                        <surname>Mayr</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-1265.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1265</note></noteGrp></person>
-                <person xml:id="wkfm__46919">
+    <back><listPerson><person xml:id="wkfm__46919">
                      <persName>
                         <forename>Franz Benedikt</forename>
                         <surname>Mayr</surname>
@@ -121,6 +115,12 @@
                      <listBibl>
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 458.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
+               <noteGrp><note target="wkfm-1265.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1265</note></noteGrp></person>
+                <person xml:id="wkfm__46921">
+                     <persName>
+                        <forename>Maria Clara</forename>
+                        <surname>Mayr</surname>
+                     </persName>
                <noteGrp><note target="wkfm-1265.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1265</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

@@ -113,11 +113,12 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46369">
+    <back><listPerson><person xml:id="wkfm__46366">
                      <persName>
-                        <forename>Franz</forename>
-                        <surname>Ott</surname>
+                        <forename>Johann</forename>
+                        <surname>Gülschwendt</surname>
                      </persName>
+                     <occupation>Handelsmann</occupation>
                <noteGrp><note target="wkfm-0895.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0895</note></noteGrp></person>
                 <person xml:id="wkfm__46368">
                      <persName>
@@ -125,18 +126,17 @@
                         <surname>Aichler</surname>
                      </persName>
                <noteGrp><note target="wkfm-0895.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0895</note></noteGrp></person>
+                <person xml:id="wkfm__46369">
+                     <persName>
+                        <forename>Franz</forename>
+                        <surname>Ott</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0895.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0895</note></noteGrp></person>
                 <person xml:id="wkfm__46370">
                      <persName>
                         <forename>None</forename>
                         <surname>Klingerin</surname>
                      </persName>
-               <noteGrp><note target="wkfm-0895.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0895</note></noteGrp></person>
-                <person xml:id="wkfm__46366">
-                     <persName>
-                        <forename>Johann</forename>
-                        <surname>Gülschwendt</surname>
-                     </persName>
-                     <occupation>Handelsmann</occupation>
                <noteGrp><note target="wkfm-0895.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0895</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

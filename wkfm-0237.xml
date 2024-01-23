@@ -113,13 +113,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47359">
-                     <persName>
-                        <forename>Maria Theresia</forename>
-                        <surname>Weißin</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-0237.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0237</note></noteGrp></person>
-                <person xml:id="wkfm__29663">
+    <back><listPerson><person xml:id="wkfm__29663">
                      <persName>
                         <forename>Bartholomäus</forename>
                         <surname>Bertola</surname>
@@ -142,5 +136,11 @@
                         <bibl>Dotter, Italienische Kaufleute, 120f.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0237.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0237</note><note target="wkfm-1319.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1319</note><note target="wkfm-1320.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1320</note><note target="wkfm-25378454.xml" type="mentions">Wiener Merkantilprotokoll Nr. 25378454</note></noteGrp></person>
+                <person xml:id="wkfm__47359">
+                     <persName>
+                        <forename>Maria Theresia</forename>
+                        <surname>Weißin</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0237.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0237</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

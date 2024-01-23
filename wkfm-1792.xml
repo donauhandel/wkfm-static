@@ -88,7 +88,14 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__21604">
+    <back><listPerson><person xml:id="wkfm__47014">
+                     <persName>
+                        <forename>Eva Margaretha</forename>
+                        <surname>Veronesin</surname>
+                        <surname type="alt">Wagner</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-1792.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1792</note></noteGrp></person>
+                <person xml:id="wkfm__21604">
                      <persName>
                         <forename>Joseph</forename>
                         <surname>Wagner</surname>
@@ -100,12 +107,5 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 554.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1791.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1791</note><note target="wkfm-1792.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1792</note></noteGrp></person>
-                <person xml:id="wkfm__47014">
-                     <persName>
-                        <forename>Eva Margaretha</forename>
-                        <surname>Veronesin</surname>
-                        <surname type="alt">Wagner</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-1792.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1792</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

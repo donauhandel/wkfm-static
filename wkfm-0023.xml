@@ -90,19 +90,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__11199">
-                     <persName>
-                        <forename>Ferdinand</forename>
-                        <surname>Albrechtsberger</surname>
-                     </persName>
-                     <death><date>1728</date></death>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-                     <listBibl>
-                        <bibl>Huchler, Bürgeraufnahmen, 338.</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-0022.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0022</note><note target="wkfm-0023.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0023</note></noteGrp></person>
-                <person xml:id="wkfm__43788">
+    <back><listPerson><person xml:id="wkfm__43788">
                      <persName>
                         <forename>Johann Georg</forename>
                         <surname>Buchheim</surname>
@@ -114,5 +102,17 @@
                         <bibl>Huchler, Bürgeraufnahmen, 353.</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0023.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0023</note><note target="wkfm-0184.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0184</note><note target="wkfm-0185.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0185</note></noteGrp></person>
+                <person xml:id="wkfm__11199">
+                     <persName>
+                        <forename>Ferdinand</forename>
+                        <surname>Albrechtsberger</surname>
+                     </persName>
+                     <death><date>1728</date></death>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+                     <listBibl>
+                        <bibl>Huchler, Bürgeraufnahmen, 338.</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0022.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0022</note><note target="wkfm-0023.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0023</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

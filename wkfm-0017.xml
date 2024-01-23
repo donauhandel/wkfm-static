@@ -100,7 +100,19 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43783" sameAs="#wkfm__42711 ">
+    <back><listPerson><person xml:id="wkfm__8591">
+                     <persName>
+                        <forename>Herculiano</forename>
+                        <forename type="alt">Kilian</forename>
+                        <surname>Amadei</surname>
+                     </persName>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+                     <listBibl>
+                        <bibl>Huchler, Bürgeraufnahmen, 339 (5. November 1710).</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0016.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0016</note><note target="wkfm-0017.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0017</note><note target="wkfm-1619.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1619</note><note target="wkfm-1620.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1620</note></noteGrp></person>
+                <person xml:id="wkfm__43783" sameAs="#wkfm__42711 ">
                      <persName>
                         <forename>Melchior</forename>
                         <surname>Spätl</surname>
@@ -113,18 +125,6 @@
                      <occupation type="aemter">Senior des bürgerl. Handelsstands</occupation>
                      <listBibl>
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 533.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-0016.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0016</note><note target="wkfm-0017.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0017</note><note target="wkfm-1619.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1619</note><note target="wkfm-1620.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1620</note></noteGrp></person>
-                <person xml:id="wkfm__8591">
-                     <persName>
-                        <forename>Herculiano</forename>
-                        <forename type="alt">Kilian</forename>
-                        <surname>Amadei</surname>
-                     </persName>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-                     <listBibl>
-                        <bibl>Huchler, Bürgeraufnahmen, 339 (5. November 1710).</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0016.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0016</note><note target="wkfm-0017.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0017</note><note target="wkfm-1619.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1619</note><note target="wkfm-1620.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1620</note></noteGrp></person>
                 </listPerson></back></text>

@@ -102,19 +102,19 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46425">
-                     <persName>
-                        <forename>Juliana Barbara</forename>
-                        <surname>Eberl</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-0651.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0651</note></noteGrp></person>
-                <person xml:id="wkfm__46423" sameAs="#wkfm__13054 ">
+    <back><listPerson><person xml:id="wkfm__46423" sameAs="#wkfm__13054 ">
                      <persName>
                         <forename>Johann Kaspar</forename>
                         <surname>Eberl</surname>
                      </persName>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-0651.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0651</note></noteGrp></person>
+                <person xml:id="wkfm__46425">
+                     <persName>
+                        <forename>Juliana Barbara</forename>
+                        <surname>Eberl</surname>
+                     </persName>
                <noteGrp><note target="wkfm-0651.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0651</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

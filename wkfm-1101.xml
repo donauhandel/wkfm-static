@@ -116,15 +116,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46776">
-                     <persName>
-                        <forename>Joseph</forename>
-                        <surname>Eckhard</surname>
-                        <surname type="alt">Ekhart</surname>
-                     </persName>
-                     <occupation>Kassier und Prokurist bei Johann Christoph Löschenkohl sel. Erben</occupation>
-               <noteGrp><note target="wkfm-1101.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1101</note></noteGrp></person>
-                <person xml:id="wkfm__20532">
+    <back><listPerson><person xml:id="wkfm__20532">
                      <persName>
                         <forename>Andre Christian</forename>
                         <surname>Mühl</surname>
@@ -135,6 +127,14 @@
                         <bibl>&amp;lt;div&amp;gt;Annegret Schaper, Ein langer Abschied vom Christentum. Johann Christian Edelmann (1698-1767) und die deutsche Frühaufklärung (Marburg 1996) 78-82 (mit zahlreichen Fehlern).&amp;lt;/div&amp;gt;&amp;lt;div&amp;gt;Wilhelm Kühnert, Johann Christian Edelmann. Ein Beitrag zur Geschichte des österreichischen Protestantismus in der ersten Hälfte des 18. Jahrhunderts. Jahrbuch der Gesellschaft für Geschichte des Protestantismus in Österreich 67 (1951) 25-35, 30f. v.a. Anm. 18, S. 33f. (zur Wohnung Mühls); &amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Kühnert, Taufbuch, 106.&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;br&amp;gt;&amp;lt;/div&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1101.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1101</note><note target="wkfm-1102.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1102</note></noteGrp></person>
+                <person xml:id="wkfm__46776">
+                     <persName>
+                        <forename>Joseph</forename>
+                        <surname>Eckhard</surname>
+                        <surname type="alt">Ekhart</surname>
+                     </persName>
+                     <occupation>Kassier und Prokurist bei Johann Christoph Löschenkohl sel. Erben</occupation>
+               <noteGrp><note target="wkfm-1101.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1101</note></noteGrp></person>
                 <person xml:id="wkfm__9516">
                      <persName>
                         <forename>Hieronymus</forename>

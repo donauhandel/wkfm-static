@@ -115,14 +115,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47162">
-                     <persName>
-                        <forename>Konrad</forename>
-                        <surname>Schick</surname>
-                     </persName>
-                     <occupation>Handelsmann</occupation>
-               <noteGrp><note target="wkfm-0790.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0790</note></noteGrp></person>
-                <person xml:id="wkfm__47156">
+    <back><listPerson><person xml:id="wkfm__47156">
                      <persName>
                         <forename>Johann Peter</forename>
                         <surname>Fläschitz</surname>
@@ -146,5 +139,12 @@
                      <occupation>Handelsfrau</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0789.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0789</note><note target="wkfm-0790.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0790</note></noteGrp></person>
+                <person xml:id="wkfm__47162">
+                     <persName>
+                        <forename>Konrad</forename>
+                        <surname>Schick</surname>
+                     </persName>
+                     <occupation>Handelsmann</occupation>
+               <noteGrp><note target="wkfm-0790.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0790</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

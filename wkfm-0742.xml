@@ -92,16 +92,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46767">
-                     <persName>
-                        <forename>Matthias</forename>
-                        <surname>Pränkl</surname>
-                     </persName>
-                     <death><date>1757</date></death>
-                     <occupation>Tuchhändler</occupation>
-                     <occupation type="kaufmannsklasse">tuchlaubensverwandt/bürgerlich</occupation>
-               <noteGrp><note target="wkfm-0742.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0742</note><note target="wkfm-1445.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1445</note></noteGrp></person>
-                <person xml:id="wkfm__30269">
+    <back><listPerson><person xml:id="wkfm__30269">
                      <persName>
                         <forename>Franz Joseph</forename>
                         <surname>Fünfer</surname>
@@ -113,5 +104,14 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 382 (Mai 1728).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0741.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0741</note><note target="wkfm-0742.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0742</note></noteGrp></person>
+                <person xml:id="wkfm__46767">
+                     <persName>
+                        <forename>Matthias</forename>
+                        <surname>Pränkl</surname>
+                     </persName>
+                     <death><date>1757</date></death>
+                     <occupation>Tuchhändler</occupation>
+                     <occupation type="kaufmannsklasse">tuchlaubensverwandt/bürgerlich</occupation>
+               <noteGrp><note target="wkfm-0742.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0742</note><note target="wkfm-1445.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1445</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

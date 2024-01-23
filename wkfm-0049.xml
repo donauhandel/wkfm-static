@@ -122,7 +122,16 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43797">
+    <back><listPerson><person xml:id="wkfm__43799">
+                     <persName>
+                        <forename>Maria Anna</forename>
+                        <surname>Auffner</surname>
+                        <surname type="alt">Voggin</surname>
+                     </persName>
+                     <occupation>Handelsfrau</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-0049.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0049</note></noteGrp></person>
+                <person xml:id="wkfm__43797">
                      <persName>
                         <forename>Joseph</forename>
                         <surname>Auffner</surname>
@@ -134,14 +143,5 @@
                         <bibl>Huchler, Bürgeraufnahmen, 342.</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0048.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0048</note><note target="wkfm-0049.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0049</note></noteGrp></person>
-                <person xml:id="wkfm__43799">
-                     <persName>
-                        <forename>Maria Anna</forename>
-                        <surname>Auffner</surname>
-                        <surname type="alt">Voggin</surname>
-                     </persName>
-                     <occupation>Handelsfrau</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-0049.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0049</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

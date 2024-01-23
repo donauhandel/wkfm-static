@@ -118,16 +118,15 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46747">
+    <back><listPerson><person xml:id="wkfm__46760">
                      <persName>
-                        <forename>Johann Georg</forename>
+                        <forename>Georg Franz</forename>
                         <surname>Razer</surname>
                         <surname type="alt">Ratzer</surname>
                      </persName>
-                     <death><date>1762</date></death>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-1433.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1433</note><note target="wkfm-1443.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1443</note></noteGrp></person>
+               <noteGrp><note target="wkfm-1443.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1443</note></noteGrp></person>
                 <person xml:id="wkfm__8109" sameAs="#wkfm__17837 ">
                      <persName>
                         <forename>Johann Michael</forename>
@@ -140,14 +139,15 @@
                         <bibl>Harrer-Lucienfeld, Wien, seiner Häuser, Bd. 1.3, S. 708.; Huchler, Bürgeraufnahmen,&amp;amp;nbsp;531.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0455.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0455</note><note target="wkfm-1305.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1305</note><note target="wkfm-1306.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1306</note><note target="wkfm-1433.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1433</note><note target="wkfm-1443.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1443</note><note target="wkfm-1449.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1449</note></noteGrp></person>
-                <person xml:id="wkfm__46760">
+                <person xml:id="wkfm__46747">
                      <persName>
-                        <forename>Georg Franz</forename>
+                        <forename>Johann Georg</forename>
                         <surname>Razer</surname>
                         <surname type="alt">Ratzer</surname>
                      </persName>
+                     <death><date>1762</date></death>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-1443.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1443</note></noteGrp></person>
+               <noteGrp><note target="wkfm-1433.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1433</note><note target="wkfm-1443.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1443</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

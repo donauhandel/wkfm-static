@@ -90,7 +90,14 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43959">
+    <back><listPerson><person xml:id="wkfm__43958">
+                     <persName>
+                        <forename>Johann</forename>
+                        <surname>Pohamb</surname>
+                     </persName>
+                     <occupation>Handelsmann</occupation>
+               <noteGrp><note target="wkfm-0269.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0269</note><note target="wkfm-0270.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0270</note></noteGrp></person>
+                <person xml:id="wkfm__43959">
                      <persName>
                         <forename>Martin</forename>
                         <surname>Hilleprand</surname>
@@ -101,12 +108,5 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 410.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0270.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0270</note></noteGrp></person>
-                <person xml:id="wkfm__43958">
-                     <persName>
-                        <forename>Johann</forename>
-                        <surname>Pohamb</surname>
-                     </persName>
-                     <occupation>Handelsmann</occupation>
-               <noteGrp><note target="wkfm-0269.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0269</note><note target="wkfm-0270.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0270</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

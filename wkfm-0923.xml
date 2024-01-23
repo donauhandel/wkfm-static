@@ -106,17 +106,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46393">
-                     <persName>
-                        <forename>Anna Susanna</forename>
-                        <surname>von Haydern</surname>
-                        <surname type="alt">Haider</surname>
-                        <surname type="alt">Hammer</surname>
-                     </persName>
-                     <occupation>Tuchhändlerin</occupation>
-                     <occupation type="kaufmannsklasse">tuchlaubensverwandt/bürgerlich</occupation>
-               <noteGrp><note target="wkfm-0923.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0923</note><note target="wkfm-0924.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0924</note><note target="wkfm-1027.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1027</note><note target="wkfm-1028.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1028</note></noteGrp></person>
-                <person xml:id="wkfm__46394">
+    <back><listPerson><person xml:id="wkfm__46394">
                      <persName>
                         <forename>Leopold</forename>
                         <surname>von Haydern</surname>
@@ -128,14 +118,16 @@
                         <bibl>Huchler, Bürgeraufnahmen, 404 (&amp;#34;Haydern&amp;#34;).</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0923.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0923</note><note target="wkfm-0924.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0924</note></noteGrp></person>
-                <person xml:id="wkfm__11674">
+                <person xml:id="wkfm__46393">
                      <persName>
-                        <forename>Stephan Joseph</forename>
-                        <surname>Haider</surname>
+                        <forename>Anna Susanna</forename>
+                        <surname>von Haydern</surname>
+                        <surname type="alt">Haider</surname>
+                        <surname type="alt">Hammer</surname>
                      </persName>
-                     <occupation>Tuchhändler</occupation>
+                     <occupation>Tuchhändlerin</occupation>
                      <occupation type="kaufmannsklasse">tuchlaubensverwandt/bürgerlich</occupation>
-               <noteGrp><note target="wkfm-0923.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0923</note><note target="wkfm-0924.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0924</note></noteGrp></person>
+               <noteGrp><note target="wkfm-0923.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0923</note><note target="wkfm-0924.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0924</note><note target="wkfm-1027.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1027</note><note target="wkfm-1028.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1028</note></noteGrp></person>
                 <person xml:id="wkfm__46170">
                      <persName>
                         <forename>Franz Joseph</forename>
@@ -149,5 +141,13 @@
                         <bibl>Huchler, Bürgeraufnahmen, 400.</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0471.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0471</note><note target="wkfm-0923.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0923</note><note target="wkfm-0924.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0924</note><note target="wkfm-1027.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1027</note><note target="wkfm-1028.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1028</note><note target="wkfm-1181.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1181</note></noteGrp></person>
+                <person xml:id="wkfm__11674">
+                     <persName>
+                        <forename>Stephan Joseph</forename>
+                        <surname>Haider</surname>
+                     </persName>
+                     <occupation>Tuchhändler</occupation>
+                     <occupation type="kaufmannsklasse">tuchlaubensverwandt/bürgerlich</occupation>
+               <noteGrp><note target="wkfm-0923.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0923</note><note target="wkfm-0924.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0924</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>
