@@ -69,4 +69,10 @@
     <xsl:template match="tei:head">
         <h3 class="text-center"><xsl:value-of select="./text()"/></h3>
     </xsl:template>
+    <xsl:template match="tei:listBibl">
+        <ul><xsl:apply-templates/></ul>
+    </xsl:template>
+    <xsl:template match="tei:bibl">
+        <li><xsl:apply-templates/></li>
+    </xsl:template>
 </xsl:stylesheet>
