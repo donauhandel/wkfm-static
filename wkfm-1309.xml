@@ -99,6 +99,9 @@
                      <death><date>1766</date></death>
                      <occupation>Handelsmann, Prokurist bei Matthias Hengsberger</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
+                     <listBibl>
+                        <bibl>Huchler, Bürgeraufnahmen, 470.</bibl>
+                     </listBibl>
                <noteGrp><note target="wkfm-0939.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0939</note><note target="wkfm-1309.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1309</note><note target="wkfm-1310.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1310</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

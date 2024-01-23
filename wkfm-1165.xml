@@ -103,7 +103,19 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__26145">
+    <back><listPerson><person xml:id="wkfm__18524">
+                     <persName>
+                        <forename>Leopold</forename>
+                        <surname>Liedl</surname>
+                        <surname type="alt">Lidl</surname>
+                     </persName>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+                     <listBibl>
+                        <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 447 (Juli 1730: &amp;#34;Leopoldt Adam&amp;#34;).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-1152.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1152</note><note target="wkfm-1153.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1153</note><note target="wkfm-1154.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1154</note><note target="wkfm-1165.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1165</note></noteGrp></person>
+                <person xml:id="wkfm__26145">
                      <persName>
                         <forename>Karl Adam</forename>
                         <surname>Liedl</surname>
@@ -126,17 +138,5 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 447 (Juli 1730: &amp;#34;Ludtwig Adam&amp;#34;).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1151.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1151</note><note target="wkfm-1152.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1152</note><note target="wkfm-1154.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1154</note><note target="wkfm-1165.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1165</note></noteGrp></person>
-                <person xml:id="wkfm__18524">
-                     <persName>
-                        <forename>Leopold</forename>
-                        <surname>Liedl</surname>
-                        <surname type="alt">Lidl</surname>
-                     </persName>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-                     <listBibl>
-                        <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 447 (Juli 1730: &amp;#34;Leopoldt Adam&amp;#34;).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-1152.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1152</note><note target="wkfm-1153.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1153</note><note target="wkfm-1154.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1154</note><note target="wkfm-1165.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1165</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

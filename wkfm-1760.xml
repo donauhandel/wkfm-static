@@ -90,6 +90,9 @@
                      <death><date>1746</date></death>
                      <occupation>Leinwandhändler</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
+                     <listBibl>
+                        <bibl>Huchler, Bürgeraufnahmen, 567.</bibl>
+                     </listBibl>
                <noteGrp><note target="wkfm-1759.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1759</note><note target="wkfm-1760.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1760</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

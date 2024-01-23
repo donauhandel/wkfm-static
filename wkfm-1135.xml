@@ -96,14 +96,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46805" sameAs="#wkfm__41520 ">
-                     <persName>
-                        <forename>Ferdinand</forename>
-                        <surname>Moser</surname>
-                     </persName>
-                     <occupation>Angestellter und Prokurist bei Georg Jakob Leeb</occupation>
-               <noteGrp><note target="wkfm-1135.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1135</note></noteGrp></person>
-                <person xml:id="wkfm__13796">
+    <back><listPerson><person xml:id="wkfm__13796">
                      <persName>
                         <forename>Georg Jakob</forename>
                         <surname>Leeb</surname>
@@ -111,8 +104,15 @@
                      <death><date>1723/24</date></death>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
-                     <occupation type="aemter">Vorsteher der bürgerl. Handelsleute</occupation>
                      <occupation type="aemter">Rat am NÖ Judicium Appellatorium Mercantile</occupation>
+                     <occupation type="aemter">Vorsteher der bürgerl. Handelsleute</occupation>
                <noteGrp><note target="wkfm-1135.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1135</note><note target="wkfm-1136.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1136</note></noteGrp></person>
+                <person xml:id="wkfm__46805" sameAs="#wkfm__41520 ">
+                     <persName>
+                        <forename>Ferdinand</forename>
+                        <surname>Moser</surname>
+                     </persName>
+                     <occupation>Angestellter und Prokurist bei Georg Jakob Leeb</occupation>
+               <noteGrp><note target="wkfm-1135.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1135</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

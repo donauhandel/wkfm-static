@@ -102,15 +102,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43828">
-                     <persName>
-                        <forename>Simon</forename>
-                        <surname>Samuel</surname>
-                     </persName>
-                     <occupation>Handelsmann, Prokurist des Samuel Simon</occupation>
-                     <occupation type="kaufmannsklasse">jüdisch</occupation>
-               <noteGrp><note target="wkfm-1887.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1887</note></noteGrp></person>
-                <person xml:id="wkfm__43829">
+    <back><listPerson><person xml:id="wkfm__43829">
                      <persName>
                         <forename>Fratchia</forename>
                         <forename type="alt">Freitcha</forename>
@@ -119,5 +111,13 @@
                      <occupation>Ehefrau und Prokuristin des Samuel Simon</occupation>
                      <occupation type="kaufmannsklasse">jüdisch</occupation>
                <noteGrp><note target="wkfm-1887.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1887</note><note target="wkfm-1888.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1888</note></noteGrp></person>
+                <person xml:id="wkfm__43828">
+                     <persName>
+                        <forename>Simon</forename>
+                        <surname>Samuel</surname>
+                     </persName>
+                     <occupation>Handelsmann, Prokurist des Samuel Simon</occupation>
+                     <occupation type="kaufmannsklasse">jüdisch</occupation>
+               <noteGrp><note target="wkfm-1887.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1887</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

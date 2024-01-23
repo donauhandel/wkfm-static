@@ -90,6 +90,9 @@
                      </persName>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
+                     <listBibl>
+                        <bibl>Huchler, Bürgeraufnahmen, 425.&amp;lt;br&amp;gt;</bibl>
+                     </listBibl>
                <noteGrp><note target="wkfm-0387.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0387</note><note target="wkfm-0388.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0388</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

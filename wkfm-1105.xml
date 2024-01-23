@@ -124,19 +124,12 @@
                         <forename>Johann</forename>
                         <surname>Luz</surname>
                      </persName>
-                     <occupation>Handelsmann</occupation>
+                     <occupation>Handelsmann, Wechsler</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                      <listBibl>
-                        <bibl>Stökl, Protestantismus, 227/Anm. 38 meint wahrscheinlich ihn. Mittenzwei, Zwischen Gestern und Morgen, 38, 74 (Abschlussbilanz der Handlung Johann Luz), 86 (Luz war Kassierer der lutherischen Gemeinde); Senfelder, Gottesacker, 261; &amp;lt;span&amp;gt;Haemmerle, Hochzeitsbücher, 281, Nr. 3894 (Johann Lutz von Lindau, in Wien).&amp;lt;/span&amp;gt;&amp;lt;br&amp;gt;</bibl>
+                        <bibl>Stökl, Protestantismus, 227/Anm. 38 meint wahrscheinlich ihn. Mittenzwei, Zwischen Gestern und Morgen, 38, 74 (Abschlussbilanz der Handlung Johann Luz), 86 (Luz war Kassierer der lutherischen Gemeinde); Senfelder, Gottesacker, 261; &amp;lt;span&amp;gt;Haemmerle, Hochzeitsbücher, 281, Nr. 3894 (Johann Lutz von Lindau, in Wien); &amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;Jetztlebende Kauffmannschafft 1. Versuch, 258.&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1105.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1105</note><note target="wkfm-1106.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1106</note></noteGrp></person>
-                <person xml:id="wkfm__46779">
-                     <persName>
-                        <forename>Johann Leonhard</forename>
-                        <surname>Spengelin</surname>
-                     </persName>
-                     <occupation>Prokurist bei Johann Luz</occupation>
-               <noteGrp><note target="wkfm-1105.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1105</note></noteGrp></person>
                 <person xml:id="wkfm__9686">
                      <persName>
                         <forename>Bonaventura</forename>
@@ -145,5 +138,12 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                <noteGrp><note target="wkfm-1105.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1105</note><note target="wkfm-1106.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1106</note><note target="wkfm-1407.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1407</note><note target="wkfm-1408.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1408</note></noteGrp></person>
+                <person xml:id="wkfm__46779">
+                     <persName>
+                        <forename>Johann Leonhard</forename>
+                        <surname>Spengelin</surname>
+                     </persName>
+                     <occupation>Prokurist bei Johann Luz</occupation>
+               <noteGrp><note target="wkfm-1105.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1105</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

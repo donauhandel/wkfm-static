@@ -136,7 +136,19 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__19355" sameAs="#wkfm__23789 wkfm__28994 ">
+    <back><listPerson><person xml:id="wkfm__25146">
+                     <persName>
+                        <forename>Joseph</forename>
+                        <surname>Barbieri</surname>
+                     </persName>
+                     <death><date>1774</date></death>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+                     <listBibl>
+                        <bibl>Huchler, Bürgeraufnahmen, 344.&amp;lt;br&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0213.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0213</note><note target="wkfm-0214.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0214</note><note target="wkfm-0215.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0215</note><note target="wkfm-0216.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0216</note></noteGrp></person>
+                <person xml:id="wkfm__19355" sameAs="#wkfm__23789 wkfm__28994 ">
                      <persName>
                         <forename>Anton Lukas</forename>
                         <forename type="alt">Anton</forename>
@@ -151,17 +163,5 @@
                         <surname>Löwinichin</surname>
                      </persName>
                <noteGrp><note target="wkfm-0213.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0213</note></noteGrp></person>
-                <person xml:id="wkfm__25146">
-                     <persName>
-                        <forename>Joseph</forename>
-                        <surname>Barbieri</surname>
-                     </persName>
-                     <death><date>1774</date></death>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-                     <listBibl>
-                        <bibl>Huchler, Bürgeraufnahmen, 344 (März 1734).&amp;lt;br&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-0213.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0213</note><note target="wkfm-0214.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0214</note><note target="wkfm-0215.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0215</note><note target="wkfm-0216.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0216</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

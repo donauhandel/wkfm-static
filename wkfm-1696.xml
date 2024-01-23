@@ -91,18 +91,18 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47607">
-                     <persName>
-                        <forename>Maria Elisabetha</forename>
-                        <surname>Tallerin</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-1696.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1696</note></noteGrp></person>
-                <person xml:id="wkfm__47606">
+    <back><listPerson><person xml:id="wkfm__47606">
                      <persName>
                         <forename>Anna Maria</forename>
                         <surname>Rossmannin [?]</surname>
-                        <surname type="alt">Schreiber</surname>
                         <surname type="alt">Rosmarinin</surname>
+                        <surname type="alt">Schreiber</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-1696.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1696</note></noteGrp></person>
+                <person xml:id="wkfm__47607">
+                     <persName>
+                        <forename>Maria Elisabetha</forename>
+                        <surname>Tallerin</surname>
                      </persName>
                <noteGrp><note target="wkfm-1696.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1696</note></noteGrp></person>
                 </listPerson></back></text>

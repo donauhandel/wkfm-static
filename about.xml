@@ -15,15 +15,22 @@
     </teiHeader>
     <text>
         <body>
-           <p>
-               Scholarly Digital Editions sind eine revolutionäre Art, historische Texte und Dokumente in einem modernen und zugänglichen Format zu präsentieren. 
-               Diese Editionen verwenden digitale Technologien, um eine angereicherte und interaktive Version des Originaltexts darzustellen, die es Lesern ermöglicht, 
-               das Material auf neue Weise zu erkunden und zu nutzen. Sie bieten Wissenschaftlern ein mächtiges Werkzeug für Forschung und Analyse sowie eine Plattform, 
-               um ihre Arbeit einem breiteren Publikum zugänglich zu machen. Darüber hinaus können digitale Editionen eine genauere und zuverlässigere Version eines 
-               Textes bieten, indem sie fortschrittliche Techniken wie Bildverbesserung, Transkription und Textanalyse einsetzen. 
-               Da sich das Feld der digitalen Geisteswissenschaften weiterentwickelt, wird die Entwicklung von Scholarly Digital Editions immer wichtiger und wird 
-               voraussichtlich die Art und Weise revolutionieren, wie wir historische Texte und Dokumente studieren und verstehen.
-           </p>
+            <div>
+                <head>Die Wiener Kaufmannschaft in der Barockzeit: Ein Forschungsdesiderat</head>
+                <p>
+                    Kaufleute als Organisatoren des Güteraustausches, ihre sozialen Verflechtungen und wirtschaftliche Tätigkeiten sind ein zentraler Gegenstand der vorindustriellen Wirtschaftsgeschichte. Im Gegensatz zu im Handel tätigen ethnisch-religiösen Minderheiten („Kaufmannsdiasporen“, „Merchant-Communties“) steht die gesamte Kaufmannschaft einer Stadt selten im Fokus der historischen Forschung. Dies gilt auch für das barocke Wien, das sich in der ersten Hälfte des 18. Jahrhunderts zur größten Stadt Mitteleuropas und damit zum bedeutendsten Konsumzentrum für Güter aller Art entwickelte. Während die in der kaiserlichen Residenzstadt tätigen jüdischen und griechisch-orthodoxen Händler vergleichsweise gut erforscht sind, ist über das Gros der Kaufleute bisher wenig bekannt.</p>
+                <p>Diese Forschungslücke soll das vom FWF – Der Wissenschaftsfonds (<ref target="https://doi.org/10.55776/P33980">P 33980-G</ref>) geförderte Projekt „Prosopographie der Wiener Kaufmannschaft/Prosopography of the Viennese Merchants (1725–1758)“ schließen, das in Kooperation des <ref target="https://geschichtsforschung.univie.ac.at/">Instituts für Österreichische Geschichtsforschung der Universität Wien</ref> und dem <ref target="https://www.oeaw.ac.at/acdh/acdh-ch-home">Austrian Centre for Digital Humanities and Cultural Heritage</ref> der Österreichischen Akademie der Wissenschaften durchgeführt wird.
+                </p>
+            </div>
+            <div>
+                <head>Das Merkantilprotokoll: Inhalt und Quellenwert</head>
+                <p>
+                    Als grundlegende Quelle des Projekts dient das erste Wiener Merkantilprotokoll. Dieser Vorläufer des Firmenbuchs (Handelsregisters) enthält die in Wien tätigen Handelsunternehmen mit Ausnahme der Untertanen des osmanischen Sultans in alphabetischer Reihenfolge. Registriert wurden ab 1725 insgesamt 908 Handlungen („Firma oder/ad Raggion“) bzw. deren Inhaber und Inhaberinnen („Nahmen und Class“) aus den drei Wiener Händlerklassen – Bürgerliche Kaufleute, Hofhandelsleute und auswärtige Fernhandelskaufleute und Bankiers (Niederleger) – sowie der in Wien ansässigen Juden, die separat am Bandende verzeichnet sind. Außerdem enthält das Merkantilprotokoll unterschiedlich dichte Informationen zu den Zeichnungsberechtigten der Handlungen („Procura und Firma Trager“), den geschäftlichen Kundmachungen und Rundschreiben („Oblatorien und Avocatorien“), zu den Einlagen („Fundi Ausweisung“) und Gesellschaftern („Societats Contract und Interessenten“) sowie zu den Eheverträgen („Heuraths Contract“) der Firmeninhaber.
+                </p>
+                <p>
+                    Trotz der oft sehr dürren Angaben ist der Quellenwert des Merkantilprotokolls hoch, da es den ersten erhaltenen Gesamtüberblick über die Wiener Kaufmannschaft und damit die Datengrundlage jeder Erforschung dieser Personengruppe bietet.
+                </p>
+            </div>
         </body>
     </text>
   </TEI>

@@ -86,12 +86,19 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46171">
+    <back><listPerson><person xml:id="wkfm__46172">
+                     <persName>
+                        <forename>Maria Anna</forename>
+                        <surname>Graßerin</surname>
+                        <surname type="alt">Kannigießer</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0473.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0473</note><note target="wkfm-0474.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0474</note></noteGrp></person>
+                <person xml:id="wkfm__46171">
                      <persName>
                         <forename>Franz Joseph</forename>
                         <surname>Kannigießer</surname>
-                        <surname type="alt">Kanngießer</surname>
                         <surname type="alt">Kanniggiesser</surname>
+                        <surname type="alt">Kanngießer</surname>
                         <surname type="alt">Kannegiesser</surname>
                      </persName>
                      <occupation>Handelsmann</occupation>
@@ -99,13 +106,6 @@
                      <listBibl>
                         <bibl>Huchler, Bürgeraufnahmen, 424 (Dezember 1748).&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
-               <noteGrp><note target="wkfm-0473.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0473</note><note target="wkfm-0474.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0474</note></noteGrp></person>
-                <person xml:id="wkfm__46172">
-                     <persName>
-                        <forename>Maria Anna</forename>
-                        <surname>Graßerin</surname>
-                        <surname type="alt">Kannigießer</surname>
-                     </persName>
                <noteGrp><note target="wkfm-0473.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0473</note><note target="wkfm-0474.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0474</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

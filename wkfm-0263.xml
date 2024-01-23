@@ -110,7 +110,7 @@
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <occupation type="aemter">Vorsteher der bürgerl. Handelsleute</occupation>
                      <listBibl>
-                        <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 514 (12. August 1717).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
+                        <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 514.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0263.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0263</note><note target="wkfm-1507.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1507</note><note target="wkfm-1508.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1508</note></noteGrp></person>
                 <person xml:id="wkfm__47370">
@@ -119,6 +119,9 @@
                         <surname>Perger</surname>
                      </persName>
                      <occupation>Handelsmann</occupation>
+                     <listBibl>
+                        <bibl>Huchler, Bürgeraufnahmen, 480.</bibl>
+                     </listBibl>
                <noteGrp><note target="wkfm-0263.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0263</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

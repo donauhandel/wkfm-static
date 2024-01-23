@@ -104,7 +104,7 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <listBibl>
-                        <bibl>Huchler, Bürgeraufnahmen, 338 (Juni 1731).</bibl>
+                        <bibl>Huchler, Bürgeraufnahmen, 338.</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0040.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0040</note><note target="wkfm-0041.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0041</note><note target="wkfm-1161.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1161</note><note target="wkfm-1162.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1162</note></noteGrp></person>
                 <person xml:id="wkfm__37701">
@@ -117,7 +117,7 @@
                      <occupation type="aemter">Vorsteher der bürgerl. Handelsleute</occupation>
                      <occupation type="aemter">Senior des bürgerl. Handelsstands</occupation>
                      <listBibl>
-                        <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 442 (Dezember 1730).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
+                        <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 442.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0041.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0041</note><note target="wkfm-0297.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0297</note><note target="wkfm-0611.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0611</note><note target="wkfm-1161.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1161</note><note target="wkfm-1162.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1162</note></noteGrp></person>
                 </listPerson></back></text>

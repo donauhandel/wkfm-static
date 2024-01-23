@@ -108,8 +108,8 @@
                         <forename>Joseph</forename>
                         <forename type="alt">Gioseppe</forename>
                         <forename type="alt">Giuseppe</forename>
-                        <surname>de Trevani</surname>
-                        <surname type="alt">de Trevano</surname>
+                        <surname>de Trevano</surname>
+                        <surname type="alt">de Trevani</surname>
                      </persName>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
@@ -117,8 +117,8 @@
                 <person xml:id="wkfm__17087">
                      <persName>
                         <forename>Kaspar</forename>
-                        <forename type="alt">Kaspar Melichor Balthasar</forename>
                         <forename type="alt">Gasparo</forename>
+                        <forename type="alt">Kaspar Melichor Balthasar</forename>
                         <surname>Consoni</surname>
                      </persName>
                      <occupation>Prokurist bei Angelo Maria Consoni, Handelsmann</occupation>

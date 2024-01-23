@@ -100,7 +100,14 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__44037">
+    <back><listPerson><person xml:id="wkfm__44038">
+                     <persName>
+                        <forename>David</forename>
+                        <surname>Fink</surname>
+                     </persName>
+                     <occupation>Kassier und Prokurist bei Emmerich Felix Bader</occupation>
+               <noteGrp><note target="wkfm-0311.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0311</note></noteGrp></person>
+                <person xml:id="wkfm__44037">
                      <persName>
                         <forename>Emmerich Felix</forename>
                         <surname>Bader</surname>
@@ -111,13 +118,6 @@
                      <listBibl>
                         <bibl>Frank, Frimmel, Buchwesen in Wien, 10f.; Gericke, Wiener Musikalienhandel, 55-58.</bibl>
                      </listBibl>
-               <noteGrp><note target="wkfm-0311.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0311</note></noteGrp></person>
-                <person xml:id="wkfm__44038">
-                     <persName>
-                        <forename>David</forename>
-                        <surname>Fink</surname>
-                     </persName>
-                     <occupation>Kassier und Prokurist bei Emmerich Felix Bader</occupation>
                <noteGrp><note target="wkfm-0311.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0311</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

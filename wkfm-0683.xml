@@ -93,7 +93,15 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__16575">
+    <back><listPerson><person xml:id="wkfm__47062">
+                     <persName>
+                        <forename>Wenzel</forename>
+                        <surname>Kempf</surname>
+                     </persName>
+                     <death><date>1729</date></death>
+                     <occupation>Handelsmann</occupation>
+               <noteGrp><note target="wkfm-0683.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0683</note><note target="wkfm-0684.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0684</note></noteGrp></person>
+                <person xml:id="wkfm__16575">
                      <persName>
                         <forename>Johann Jakob</forename>
                         <surname>Farovino</surname>
@@ -101,14 +109,6 @@
                      <death><date>1740</date></death>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
-               <noteGrp><note target="wkfm-0683.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0683</note><note target="wkfm-0684.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0684</note></noteGrp></person>
-                <person xml:id="wkfm__47062">
-                     <persName>
-                        <forename>Wenzel</forename>
-                        <surname>Kempf</surname>
-                     </persName>
-                     <death><date>1729</date></death>
-                     <occupation>Handelsmann</occupation>
                <noteGrp><note target="wkfm-0683.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0683</note><note target="wkfm-0684.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0684</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

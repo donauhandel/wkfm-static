@@ -93,11 +93,14 @@
                      </persName>
                      <death><date>1744</date></death>
                      <occupation>Handelsmann</occupation>
+                     <listBibl>
+                        <bibl>Huchler, Bürgeraufnahmen,&amp;amp;nbsp;550.</bibl>
+                     </listBibl>
                <noteGrp><note target="wkfm-1475.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1475</note><note target="wkfm-1476.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1476</note></noteGrp></person>
                 <person xml:id="wkfm__47406">
                      <persName>
                         <forename>Joseph Niklas</forename>
-                        <surname>Salliet</surname>
+                        <surname>Saliet</surname>
                      </persName>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
@@ -109,7 +112,8 @@
                      <persName>
                         <forename>Niklas</forename>
                         <forename type="alt">Nikolaus</forename>
-                        <surname>Salliet</surname>
+                        <surname>Saliet</surname>
+                        <surname type="alt">Salliet</surname>
                      </persName>
                      <death><date>1758</date></death>
                      <occupation>Handelsmann</occupation>

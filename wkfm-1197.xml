@@ -104,19 +104,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__9628" sameAs="#wkfm__8751 ">
-                     <persName>
-                        <forename>Jakob</forename>
-                        <surname>Mayr</surname>
-                     </persName>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-                     <occupation type="aemter">Assessor am NÖ Wechselgericht (1. Instanz)</occupation>
-                     <listBibl>
-                        <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 456 (2. Mai 1703).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-1197.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1197</note><note target="wkfm-1198.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1198</note></noteGrp></person>
-                <person xml:id="wkfm__25582">
+    <back><listPerson><person xml:id="wkfm__25582">
                      <persName>
                         <forename>Jakob</forename>
                         <surname>Stockholzer</surname>
@@ -129,5 +117,17 @@
                         <bibl>Topographie von Niederösterreich, Bd. 5, 167; &amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 539 (Juni 1731).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1197.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1197</note><note target="wkfm-1617.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1617</note><note target="wkfm-1618.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1618</note></noteGrp></person>
+                <person xml:id="wkfm__9628" sameAs="#wkfm__8751 ">
+                     <persName>
+                        <forename>Jakob</forename>
+                        <surname>Mayr</surname>
+                     </persName>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+                     <occupation type="aemter">Assessor am NÖ Wechselgericht (1. Instanz)</occupation>
+                     <listBibl>
+                        <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 456.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-1197.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1197</note><note target="wkfm-1198.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1198</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

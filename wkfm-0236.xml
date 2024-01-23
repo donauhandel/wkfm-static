@@ -121,35 +121,16 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43926">
-                     <persName>
-                        <forename>Rosalia</forename>
-                        <surname>Sindlin</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-0236.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0236</note></noteGrp></person>
-                <person xml:id="wkfm__46908">
-                     <persName>
-                        <forename>None</forename>
-                        <surname>None</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-0236.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0236</note><note target="wkfm-1256.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1256</note></noteGrp></person>
-                <person xml:id="wkfm__43925">
-                     <persName>
-                        <forename>Maria Anna</forename>
-                        <surname>Moserin</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-0236.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0236</note></noteGrp></person>
-                <person xml:id="wkfm__10641">
+    <back><listPerson><person xml:id="wkfm__10641">
                      <persName>
                         <forename>Karl Joseph</forename>
                         <surname>Moser</surname>
                      </persName>
-                     <death><date>1779</date></death>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <occupation type="aemter">Vorsteher der bürgerl. Handelsleute</occupation>
                      <listBibl>
-                        <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 466 (23. Februar 1706).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
+                        <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 466.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0235.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0235</note><note target="wkfm-0236.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0236</note><note target="wkfm-1049.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1049</note><note target="wkfm-1209.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1209</note><note target="wkfm-1210.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1210</note><note target="wkfm-1255.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1255</note><note target="wkfm-1256.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1256</note></noteGrp></person>
                 <person xml:id="wkfm__46560">
@@ -161,8 +142,26 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <listBibl>
-                        <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 478 (Juni 1735).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
+                        <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 478.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0235.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0235</note><note target="wkfm-0236.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0236</note><note target="wkfm-1049.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1049</note><note target="wkfm-1050.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1050</note><note target="wkfm-1255.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1255</note><note target="wkfm-1256.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1256</note></noteGrp></person>
+                <person xml:id="wkfm__43926">
+                     <persName>
+                        <forename>Rosalia</forename>
+                        <surname>Sindlin</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0236.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0236</note></noteGrp></person>
+                <person xml:id="wkfm__43925">
+                     <persName>
+                        <forename>Maria Anna</forename>
+                        <surname>Moserin</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0236.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0236</note></noteGrp></person>
+                <person xml:id="wkfm__46908">
+                     <persName>
+                        <forename>None</forename>
+                        <surname>None</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0236.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0236</note><note target="wkfm-1256.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1256</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

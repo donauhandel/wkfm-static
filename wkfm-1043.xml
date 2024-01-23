@@ -92,6 +92,9 @@
                      </persName>
                      <occupation>Tuchhändler</occupation>
                      <occupation type="kaufmannsklasse">tuchlaubensverwandt/bürgerlich</occupation>
+                     <listBibl>
+                        <bibl>Huchler, Bürgeraufnahmen, 412.</bibl>
+                     </listBibl>
                <noteGrp><note target="wkfm-0465.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0465</note><note target="wkfm-1043.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1043</note><note target="wkfm-1044.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1044</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

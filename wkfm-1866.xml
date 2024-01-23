@@ -85,11 +85,12 @@
     <back><listPerson><person xml:id="wkfm__15480">
                      <persName>
                         <forename>Isaak</forename>
-                        <surname>Leidesdorf</surname>
-                        <surname type="alt">Leidesdorfer</surname>
+                        <surname>Leidersdorfer</surname>
+                        <surname type="alt">Leidesdorf</surname>
                      </persName>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">jüdisch</occupation>
+                     <occupation type="aemter">Hofjude (Kurpfalz)</occupation>
                      <listBibl>
                         <bibl>Wachstein, Die Wiener Juden in Handel und Industrie.</bibl>
                      </listBibl>

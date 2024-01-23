@@ -95,6 +95,9 @@
                      <death><date>1765/56</date></death>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
+                     <listBibl>
+                        <bibl>Huchler, Bürgeraufnahmen,&amp;amp;nbsp;476.</bibl>
+                     </listBibl>
                <noteGrp><note target="wkfm-0160.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0160</note><note target="wkfm-0161.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0161</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

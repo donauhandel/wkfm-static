@@ -100,22 +100,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__11940" sameAs="#wkfm__25749 ">
-                     <persName>
-                        <forename>Christian</forename>
-                        <surname>Münch</surname>
-                        <surname type="alt">von Münch</surname>
-                     </persName>
-                     <birth><date>17.03.1690</date></birth>
-                     <death><date>03.09.1757</date></death>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-                     <occupation type="aemter">Ksl. Kupferadministrator</occupation>
-                     <listBibl>
-                        <bibl>&amp;lt;span&amp;gt;Seibold, Wirtschaftlicher Erfolg, Bd. 1, 268-282; &amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Haemmerle, Hochzeitsbücher, 266, Nr. 3650&amp;lt;/span&amp;gt;.&amp;lt;/span&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-1237.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1237</note><note target="wkfm-1238.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1238</note><note target="wkfm-1382.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1382</note></noteGrp></person>
-                <person xml:id="wkfm__46698">
+    <back><listPerson><person xml:id="wkfm__46698">
                      <persName>
                         <forename>Johann Thomas</forename>
                         <surname>von Rauner</surname>
@@ -128,5 +113,17 @@
                         <bibl>&amp;lt;div&amp;gt;Seibold, Wirtschaftlicher Erfolg, Bd. 1, 268-282; &amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Haemmerle, Hochzeitsbücher, 257, Nr. 3499; 267, Nr. 3669&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;.&amp;lt;/div&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1238.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1238</note><note target="wkfm-1381.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1381</note><note target="wkfm-1382.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1382</note></noteGrp></person>
+                <person xml:id="wkfm__11940" sameAs="#wkfm__25749 ">
+                     <persName>
+                        <forename>Christian</forename>
+                        <surname>Münch</surname>
+                        <surname type="alt">von Münch</surname>
+                     </persName>
+                     <birth><date>17.03.1690</date></birth>
+                     <death><date>03.09.1757</date></death>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+                     <occupation type="aemter">Ksl. Kupferadministrator</occupation>
+               <noteGrp><note target="wkfm-1237.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1237</note><note target="wkfm-1238.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1238</note><note target="wkfm-1382.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1382</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

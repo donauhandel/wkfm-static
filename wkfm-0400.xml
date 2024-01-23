@@ -92,6 +92,9 @@
                      <death><date>1743</date></death>
                      <occupation>Eisenhändler</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
+                     <listBibl>
+                        <bibl>Huchler, Bürgeraufnahmen, 435.</bibl>
+                     </listBibl>
                <noteGrp><note target="wkfm-0399.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0399</note><note target="wkfm-0400.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0400</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

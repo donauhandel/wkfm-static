@@ -100,12 +100,15 @@
                      <persName>
                         <forename>Johann Bernhard</forename>
                         <surname>Diewald</surname>
-                        <surname type="alt">Diwalt</surname>
                         <surname type="alt">Dywaldt</surname>
+                        <surname type="alt">Diwalt</surname>
                      </persName>
                      <death><date>1776</date></death>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
+                     <listBibl>
+                        <bibl>Huchler, Bürgeraufnahmen, 366.</bibl>
+                     </listBibl>
                <noteGrp><note target="wkfm-0537.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0537</note><note target="wkfm-0538.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0538</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

@@ -92,14 +92,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43980">
-                     <persName>
-                        <forename>Elisabeth</forename>
-                        <surname>Hecherin</surname>
-                        <surname type="alt">Pichler</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-0294.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0294</note></noteGrp></person>
-                <person xml:id="wkfm__43979">
+    <back><listPerson><person xml:id="wkfm__43979">
                      <persName>
                         <forename>Joseph</forename>
                         <surname>Pichler</surname>
@@ -108,8 +101,15 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <listBibl>
-                        <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 484 (Jänner 1748).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
+                        <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 484.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0293.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0293</note><note target="wkfm-0294.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0294</note><note target="wkfm-0481.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0481</note></noteGrp></person>
+                <person xml:id="wkfm__43980">
+                     <persName>
+                        <forename>Elisabeth</forename>
+                        <surname>Hecherin</surname>
+                        <surname type="alt">Pichler</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0294.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0294</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

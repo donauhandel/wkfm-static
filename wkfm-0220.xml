@@ -104,6 +104,9 @@
                      <death><date>1753</date></death>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
+                     <listBibl>
+                        <bibl>Huchler, Bürgeraufnahmen,&amp;amp;nbsp;345.</bibl>
+                     </listBibl>
                <noteGrp><note target="wkfm-0219.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0219</note><note target="wkfm-0220.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0220</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

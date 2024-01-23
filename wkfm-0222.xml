@@ -94,7 +94,19 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__3764">
+    <back><listPerson><person xml:id="wkfm__43918">
+                     <persName>
+                        <forename>Johann Baptist</forename>
+                        <surname>Prestinari</surname>
+                        <surname type="alt">Praestinari</surname>
+                     </persName>
+                     <occupation>Handelsmann, Prokurist des Franz Martinelli</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+                     <listBibl>
+                        <bibl>&amp;lt;div&amp;gt;Dotter, Italienische Kaufleute im Donauhandel, 118f.; Huchler, Bürgeraufnahmen, 491.&amp;lt;/div&amp;gt;&amp;lt;div&amp;gt;Harrer-Lucienfeld, Wien, seiner Häuser, Bd. 4.1, S. 73.&amp;lt;br&amp;gt;&amp;lt;/div&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0221.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0221</note><note target="wkfm-0222.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0222</note><note target="wkfm-1203.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1203</note><note target="wkfm-1204.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1204</note></noteGrp></person>
+                <person xml:id="wkfm__3764">
                      <persName>
                         <forename>Franz</forename>
                         <surname>Martinelli</surname>
@@ -106,17 +118,5 @@
                         <bibl>Dotter, Italienische Kaufleute, 120-123. Beim niederösterr. Landmarschall&amp;#39;schen Gerichte hinterlegte Verträge, derzeit im n. ö. Landesarchiv, 1. Teil, in: Monatsblatt der Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr. 154) 205-211.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0222.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0222</note><note target="wkfm-1203.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1203</note><note target="wkfm-1204.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1204</note></noteGrp></person>
-                <person xml:id="wkfm__43918">
-                     <persName>
-                        <forename>Johann Baptist</forename>
-                        <surname>Prestinari</surname>
-                        <surname type="alt">Praestinari</surname>
-                     </persName>
-                     <occupation>Handelsmann, Prokurist des Franz Martinelli</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-                     <listBibl>
-                        <bibl>&amp;lt;div&amp;gt;Dotter, Italienische Kaufleute im Donauhandel, 118f.; Huchler, Bürgeraufnahmen, 491 (Dezember 1730).&amp;lt;/div&amp;gt;&amp;lt;div&amp;gt;Harrer-Lucienfeld, Wien, seiner Häuser, Bd. 4.1, S. 73.&amp;lt;br&amp;gt;&amp;lt;/div&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-0221.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0221</note><note target="wkfm-0222.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0222</note><note target="wkfm-1203.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1203</note><note target="wkfm-1204.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1204</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

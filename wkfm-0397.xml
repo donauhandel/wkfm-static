@@ -102,15 +102,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46120" sameAs="#wkfm__25736 ">
-                     <persName>
-                        <forename>Joseph</forename>
-                        <surname>Winkler</surname>
-                        <surname type="alt">Winckhler</surname>
-                     </persName>
-                     <occupation>Bediensteter und Prokurist des Johann Peter Käpler</occupation>
-               <noteGrp><note target="wkfm-0397.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0397</note></noteGrp></person>
-                <person xml:id="wkfm__46121" sameAs="#wkfm__22779 ">
+    <back><listPerson><person xml:id="wkfm__46121" sameAs="#wkfm__22779 ">
                      <persName>
                         <forename>Anton</forename>
                         <surname>Denk</surname>
@@ -118,13 +110,21 @@
                      </persName>
                      <occupation>Bediensteter und Prokurist des Johann Peter Käpler</occupation>
                <noteGrp><note target="wkfm-0397.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0397</note></noteGrp></person>
+                <person xml:id="wkfm__46120" sameAs="#wkfm__25736 ">
+                     <persName>
+                        <forename>Joseph</forename>
+                        <surname>Winkler</surname>
+                        <surname type="alt">Winckhler</surname>
+                     </persName>
+                     <occupation>Bediensteter und Prokurist des Johann Peter Käpler</occupation>
+               <noteGrp><note target="wkfm-0397.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0397</note></noteGrp></person>
                 <person xml:id="wkfm__8752" sameAs="#wkfm__15534 wkfm__34439 wkfm__18899 wkfm__36143 ">
                      <persName>
                         <forename>Johann Peter</forename>
                         <surname>Käpler</surname>
-                        <surname type="alt">Käppler</surname>
                         <surname type="alt">Kepler</surname>
                         <surname type="alt">Kapler</surname>
+                        <surname type="alt">Käppler</surname>
                      </persName>
                      <death><date>1768</date></death>
                      <occupation>Handelsmann</occupation>

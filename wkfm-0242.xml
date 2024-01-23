@@ -110,7 +110,13 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43936">
+    <back><listPerson><person xml:id="wkfm__43937">
+                     <persName>
+                        <forename>Anna Susanna Christina</forename>
+                        <surname>Mühlin</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0242.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0242</note></noteGrp></person>
+                <person xml:id="wkfm__43936">
                      <persName>
                         <forename>Johann Karl</forename>
                         <surname>Mühl</surname>
@@ -133,11 +139,5 @@
                         <bibl>&amp;lt;div&amp;gt;Albert Schuch, Zur Geschichte der Lederfabrikation im Gebiet des heutigen Burgenlandes (18. und 19. Jahrhundert) (Burgenländische Forschungen 85, Eisenstadt 2002) 100-103; &amp;lt;span&amp;gt;Stökl, Protestantismus, 228; Harrer-Lucienfeld, Wien, seiner Häuser, Bd. 6.1, 126; &amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Kröpfel, Protestantismus, Anhang 1, S. 4 (Tod des 2jährigen Sohnes Carl Christoph im Hilleprandischen Haus im Jahr 1741)&amp;lt;/span&amp;gt;.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0241.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0241</note><note target="wkfm-0242.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0242</note><note target="wkfm-0423.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0423</note><note target="wkfm-0424.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0424</note></noteGrp></person>
-                <person xml:id="wkfm__43937">
-                     <persName>
-                        <forename>Anna Susanna Christina</forename>
-                        <surname>Mühlin</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-0242.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0242</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

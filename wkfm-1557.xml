@@ -108,14 +108,14 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47467">
+    <back><listPerson><person xml:id="wkfm__43782">
                      <persName>
-                        <forename>Domenico</forename>
-                        <surname>Bigongini</surname>
+                        <forename>Anton</forename>
+                        <surname>Segalla</surname>
                      </persName>
-                     <occupation>Handelsmann, Wechsler</occupation>
+                     <occupation>Prokurist bei Johann Peter Augustin, Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
-               <noteGrp><note target="wkfm-1557.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1557</note><note target="wkfm-1558.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1558</note></noteGrp></person>
+               <noteGrp><note target="wkfm-0008.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0008</note><note target="wkfm-1557.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1557</note><note target="wkfm-1558.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1558</note></noteGrp></person>
                 <person xml:id="wkfm__47468">
                      <persName>
                         <forename>Johann</forename>
@@ -124,13 +124,13 @@
                      <occupation>Handelsmann, Wechsler</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
                <noteGrp><note target="wkfm-1557.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1557</note><note target="wkfm-1558.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1558</note></noteGrp></person>
-                <person xml:id="wkfm__43782">
+                <person xml:id="wkfm__47467">
                      <persName>
-                        <forename>Anton</forename>
-                        <surname>Segalla</surname>
+                        <forename>Domenico</forename>
+                        <surname>Bigongini</surname>
                      </persName>
-                     <occupation>Prokurist bei Johann Peter Augustin, Handelsmann</occupation>
+                     <occupation>Handelsmann, Wechsler</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
-               <noteGrp><note target="wkfm-0008.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0008</note><note target="wkfm-1557.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1557</note><note target="wkfm-1558.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1558</note></noteGrp></person>
+               <noteGrp><note target="wkfm-1557.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1557</note><note target="wkfm-1558.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1558</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

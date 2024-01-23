@@ -92,6 +92,9 @@
                      </persName>
                      <occupation>Handesmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
+                     <listBibl>
+                        <bibl>Huchler, Bürgeraufnahmen, 506.&amp;lt;br&amp;gt;</bibl>
+                     </listBibl>
                <noteGrp><note target="wkfm-1369.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1369</note><note target="wkfm-1370.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1370</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

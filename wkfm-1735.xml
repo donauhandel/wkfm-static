@@ -88,7 +88,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46966">
+    <back><listPerson><person xml:id="wkfm__46966" sameAs="#wkfm__12949 ">
                      <persName>
                         <forename>Joachim</forename>
                         <surname>Waldhör</surname>

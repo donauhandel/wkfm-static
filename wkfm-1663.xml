@@ -118,18 +118,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47571">
-                     <persName>
-                        <forename>Matthias</forename>
-                        <surname>Siber</surname>
-                     </persName>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-                     <listBibl>
-                        <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 530 (Jänner 1748).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-1663.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1663</note></noteGrp></person>
-                <person xml:id="wkfm__27475">
+    <back><listPerson><person xml:id="wkfm__27475">
                      <persName>
                         <forename>Johann Georg</forename>
                         <surname>Weißenbeck</surname>
@@ -141,5 +130,16 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 558 (Dezember 1742).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1663.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1663</note><note target="wkfm-1663.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1663</note><note target="wkfm-1797.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1797</note><note target="wkfm-1798.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1798</note></noteGrp></person>
+                <person xml:id="wkfm__47571">
+                     <persName>
+                        <forename>Matthias</forename>
+                        <surname>Siber</surname>
+                     </persName>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+                     <listBibl>
+                        <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 530.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-1663.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1663</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

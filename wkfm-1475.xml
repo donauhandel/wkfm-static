@@ -103,12 +103,16 @@
                      </persName>
                      <death><date>1744</date></death>
                      <occupation>Handelsmann</occupation>
+                     <listBibl>
+                        <bibl>Huchler, Bürgeraufnahmen,&amp;amp;nbsp;550.</bibl>
+                     </listBibl>
                <noteGrp><note target="wkfm-1475.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1475</note><note target="wkfm-1476.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1476</note></noteGrp></person>
                 <person xml:id="wkfm__13222" sameAs="#wkfm__8119 ">
                      <persName>
                         <forename>Niklas</forename>
                         <forename type="alt">Nikolaus</forename>
-                        <surname>Salliet</surname>
+                        <surname>Saliet</surname>
+                        <surname type="alt">Salliet</surname>
                      </persName>
                      <death><date>1758</date></death>
                      <occupation>Handelsmann</occupation>

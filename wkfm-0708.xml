@@ -91,6 +91,9 @@
                      </persName>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
+                     <listBibl>
+                        <bibl>Huchler, Bürgeraufnahmen, 379 (&amp;#34;Gregori&amp;#34;).</bibl>
+                     </listBibl>
                <noteGrp><note target="wkfm-0707.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0707</note><note target="wkfm-0708.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0708</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

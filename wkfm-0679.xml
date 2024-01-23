@@ -101,8 +101,8 @@
                      </persName>
                      <death><date>1729</date></death>
                      <occupation>Tuchhändlerin, Handelsfrau</occupation>
-                     <occupation type="kaufmannsklasse">tuchlaubensverwandt/bürgerlich</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
+                     <occupation type="kaufmannsklasse">tuchlaubensverwandt/bürgerlich</occupation>
                <noteGrp><note target="wkfm-0679.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0679</note></noteGrp></person>
                 <person xml:id="wkfm__18086">
                      <persName>

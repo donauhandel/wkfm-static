@@ -107,12 +107,13 @@
                      </persName>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">jüdisch</occupation>
+                     <occupation type="aemter">Oberfaktor (ksl.)</occupation>
                <noteGrp><note target="wkfm-1879.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1879</note><note target="wkfm-1880.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1880</note></noteGrp></person>
                 <person xml:id="wkfm__8146">
                      <persName>
                         <forename>Leb</forename>
-                        <forename type="alt">Jehuda Efraim</forename>
                         <forename type="alt">Löb b. Chajjim ha-Levi</forename>
+                        <forename type="alt">Jehuda Efraim</forename>
                         <surname>Sinzheim</surname>
                         <surname type="alt">Sünzheimb</surname>
                      </persName>

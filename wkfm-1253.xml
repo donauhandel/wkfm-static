@@ -122,27 +122,27 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46906">
-                     <persName>
-                        <forename>Veit</forename>
-                        <surname>Böhm</surname>
-                     </persName>
-                     <occupation>Prokurist bei Marci und Plattensteiner</occupation>
-               <noteGrp><note target="wkfm-1253.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1253</note></noteGrp></person>
-                <person xml:id="wkfm__46905">
-                     <persName>
-                        <forename>Samuel</forename>
-                        <surname>Czepecz</surname>
-                     </persName>
-                     <occupation>Prokurist bei Marci und Plattensteiner</occupation>
-               <noteGrp><note target="wkfm-1253.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1253</note></noteGrp></person>
-                <person xml:id="wkfm__46904">
+    <back><listPerson><person xml:id="wkfm__46904">
                      <persName>
                         <forename>Johann Michael</forename>
                         <surname>Keilau</surname>
                         <surname type="alt">Keilhau</surname>
                      </persName>
                      <occupation>Prokurist bei Johann Michael Marci</occupation>
+               <noteGrp><note target="wkfm-1253.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1253</note></noteGrp></person>
+                <person xml:id="wkfm__46907">
+                     <persName>
+                        <forename>Johann</forename>
+                        <surname>Wölfeld</surname>
+                     </persName>
+                     <occupation>Prokurist bei Marci und Plattensteiner</occupation>
+               <noteGrp><note target="wkfm-1253.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1253</note></noteGrp></person>
+                <person xml:id="wkfm__46906">
+                     <persName>
+                        <forename>Veit</forename>
+                        <surname>Böhm</surname>
+                     </persName>
+                     <occupation>Prokurist bei Marci und Plattensteiner</occupation>
                <noteGrp><note target="wkfm-1253.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1253</note></noteGrp></person>
                 <person xml:id="wkfm__8413" sameAs="#wkfm__21745 ">
                      <persName>
@@ -153,10 +153,10 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                <noteGrp><note target="wkfm-1253.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1253</note><note target="wkfm-1254.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1254</note></noteGrp></person>
-                <person xml:id="wkfm__46907">
+                <person xml:id="wkfm__46905">
                      <persName>
-                        <forename>Johann</forename>
-                        <surname>Wölfeld</surname>
+                        <forename>Samuel</forename>
+                        <surname>Czepecz</surname>
                      </persName>
                      <occupation>Prokurist bei Marci und Plattensteiner</occupation>
                <noteGrp><note target="wkfm-1253.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1253</note></noteGrp></person>

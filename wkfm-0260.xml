@@ -116,15 +116,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__8799">
-                     <persName>
-                        <forename>Pompeo</forename>
-                        <surname>Carignani</surname>
-                     </persName>
-                     <occupation>Handelsmann, Prokurist des Joseph Bolza</occupation>
-                     <occupation type="kaufmannsklasse">hofbefreit</occupation>
-               <noteGrp><note target="wkfm-0259.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0259</note><note target="wkfm-0260.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0260</note><note target="wkfm-0443.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0443</note><note target="wkfm-0444.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0444</note></noteGrp></person>
-                <person xml:id="wkfm__11695">
+    <back><listPerson><person xml:id="wkfm__11695">
                      <persName>
                         <forename>Karl Anton</forename>
                         <surname>Bolza</surname>
@@ -143,5 +135,13 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                <noteGrp><note target="wkfm-0259.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0259</note><note target="wkfm-0260.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0260</note></noteGrp></person>
+                <person xml:id="wkfm__8799">
+                     <persName>
+                        <forename>Pompeo</forename>
+                        <surname>Carignani</surname>
+                     </persName>
+                     <occupation>Handelsmann, Prokurist des Joseph Bolza</occupation>
+                     <occupation type="kaufmannsklasse">hofbefreit</occupation>
+               <noteGrp><note target="wkfm-0259.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0259</note><note target="wkfm-0260.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0260</note><note target="wkfm-0443.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0443</note><note target="wkfm-0444.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0444</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>
