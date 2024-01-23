@@ -146,7 +146,8 @@ html/*.xml
 html/*.html
 html/*.rdf
 html/*.txt
-data/*/*.xml
+data/indices/*.xml
+data/editions/*.xml
 data/*/*.rdf
 html/images/favicons
 *.ipynb

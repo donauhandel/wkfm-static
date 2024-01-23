@@ -2,12 +2,10 @@
 
 echo "fetching transkriptions from wkfm-working-data"
 rm -rf data/editions && mkdir data/editions
-rm -rf data/meta && mkdir data/meta
 rm -rf data/indices && mkdir data/indices
 curl -LO https://github.com/donauhandel/wkfm-working-data/archive/refs/heads/main.zip
 unzip main
 mv ./wkfm-working-data-main/data/editions/ ./data
-mv ./wkfm-working-data-main/data/meta/ ./data
 rm main.zip
 rm -rf ./wkfm-working-data-main
 

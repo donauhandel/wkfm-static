@@ -30,9 +30,15 @@
             <body class="d-flex flex-column h-100">
             <xsl:call-template name="nav_bar"/>
                 <main>
-                    <div class="container">                        
-                        <h1><xsl:value-of select="$doc_title"/></h1>    
-                        <xsl:apply-templates select=".//tei:body"></xsl:apply-templates>
+                    <div class="container"> 
+                        <h1 class="display-3 p-3 text-center "><xsl:value-of select="$doc_title"/></h1>
+                        <div class="row">
+                            <div class="col-lg-3"/>
+                            <div class="col-lg-6">
+                                <xsl:apply-templates select=".//tei:body"></xsl:apply-templates>
+                            </div>
+                            <div class="col-lg-3"/>
+                        </div>
                     </div>
                 </main>
                 <xsl:call-template name="html_footer"/>
@@ -55,4 +61,12 @@
     <xsl:template match="tei:del">
         <del><xsl:apply-templates/></del>
     </xsl:template>    
+    <xsl:template match="tei:ref">
+        <a href="{data(./@target)}">
+            <xsl:value-of select="./text()"/>
+        </a>
+    </xsl:template>
+    <xsl:template match="tei:head">
+        <h3 class="text-center"><xsl:value-of select="./text()"/></h3>
+    </xsl:template>
 </xsl:stylesheet>
