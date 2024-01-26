@@ -45,6 +45,7 @@
                                     <th scope="col" tabulator-headerFilter="input">geboren</th>
                                     <th scope="col" tabulator-headerFilter="input">gestorben</th>
                                     <th scope="col" tabulator-headerFilter="input">Beruf/Amt</th>
+                                    <th scope="col" tabulator-headerFilter="input">Erwähnungen</th>
                                     <th scope="col" tabulator-headerFilter="input">ID</th>
                                 </tr>
                             </thead>
@@ -76,6 +77,9 @@
                                         </td>
                                         <td>
                                             <xsl:value-of select=".//tei:occupation/text()"/>
+                                        </td>
+                                        <td>
+                                            <xsl:value-of select="count(.//tei:note[@type='mentions'])"/>
                                         </td>
                                         <td>
                                             <xsl:value-of select="$id"/>

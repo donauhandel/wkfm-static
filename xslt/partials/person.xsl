@@ -33,6 +33,28 @@
                     </td>
                 </tr>
                 <tr>
+                    <th>
+                        Aufenthaltsorte
+                    </th>
+                    <td>
+                        <xsl:for-each select=".//tei:residence">
+                            <xsl:value-of select="./@type"/>: <a href="{replace(./tei:placeName/@key, '#', '')||'.html'}">
+                                <xsl:value-of select="./tei:placeName/text()"/></a><br />
+                        </xsl:for-each>
+                    </td>
+                </tr>
+                <tr>
+                    <th>
+                        Firmenbeteiligungen
+                    </th>
+                    <td>
+                        <xsl:for-each select=".//tei:affiliation">
+                            <a href="{replace(./tei:orgName/@key, '#', '')||'.html'}">
+                                <xsl:value-of select="./tei:orgName/text()"/></a><br />
+                        </xsl:for-each>
+                    </td>
+                </tr>
+                <tr>
                     <th>bibliographische Angaben</th>
                     <td><xsl:value-of select="normalize-space(string-join(.//tei:bibl//text(), ' '))"/></td>
                 </tr>
