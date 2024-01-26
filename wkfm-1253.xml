@@ -122,35 +122,47 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46905">
+    <back><listPerson><person xml:id="wkfm__8413" sameAs="#wkfm__21745 ">
                      <persName>
-                        <forename>Samuel</forename>
-                        <surname>Czepecz</surname>
+                        <forename>Johann Cornelius</forename>
+                        <surname>Marei</surname>
+                        <surname type="alt">Marci</surname>
                      </persName>
-                     <occupation>Prokurist bei Marci und Plattensteiner</occupation>
-               <noteGrp><note target="wkfm-1253.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1253</note></noteGrp></person>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+               <noteGrp><note target="wkfm-1253.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1253</note><note target="wkfm-1254.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1254</note></noteGrp></person>
                 <person xml:id="wkfm__46904">
                      <persName>
                         <forename>Johann Michael</forename>
                         <surname>Keilau</surname>
                         <surname type="alt">Keilhau</surname>
                      </persName>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Prokurist bei Johann Michael Marci</occupation>
                <noteGrp><note target="wkfm-1253.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1253</note></noteGrp></person>
-                <person xml:id="wkfm__8413" sameAs="#wkfm__21745 ">
+                <person xml:id="wkfm__46905">
                      <persName>
-                        <forename>Johann Cornelius</forename>
-                        <surname>Marei</surname>
-                        <surname type="alt">Marci</surname>
+                        <forename>Samuel</forename>
+                        <surname>Czepecz</surname>
                      </persName>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-               <noteGrp><note target="wkfm-1253.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1253</note><note target="wkfm-1254.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1254</note></noteGrp></person>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Prokurist bei Marci und Plattensteiner</occupation>
+               <noteGrp><note target="wkfm-1253.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1253</note></noteGrp></person>
                 <person xml:id="wkfm__46907">
                      <persName>
                         <forename>Johann</forename>
                         <surname>Wölfeld</surname>
                      </persName>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Prokurist bei Marci und Plattensteiner</occupation>
                <noteGrp><note target="wkfm-1253.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1253</note></noteGrp></person>
                 <person xml:id="wkfm__46906">
@@ -158,7 +170,16 @@
                         <forename>Veit</forename>
                         <surname>Böhm</surname>
                      </persName>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Prokurist bei Marci und Plattensteiner</occupation>
                <noteGrp><note target="wkfm-1253.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1253</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46903">
+                     <orgName>Johann Cornelius Marci</orgName>
+                  <noteGrp><note target="wkfm-1253.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1253</note></noteGrp></org>
+                <org xml:id="wkfm__46901">
+                     <orgName>Marci und Plattensteiner</orgName>
+                  <noteGrp><note target="wkfm-1253.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1253</note><note target="wkfm-1254.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1254</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

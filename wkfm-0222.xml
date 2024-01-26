@@ -99,7 +99,19 @@
                         <forename>Johann Baptist</forename>
                         <surname>Prestinari</surname>
                         <surname type="alt">Praestinari</surname>
-                     </persName>
+                     </persName>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Martinellisches Haus auf dem Lugeck (Calender 1758: "Lubeg")</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann, Prokurist des Franz Martinelli</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <listBibl>
@@ -111,7 +123,25 @@
                         <forename>Franz</forename>
                         <surname>Martinelli</surname>
                      </persName>
-                     <death><date>1736</date></death>
+                     <death><date>1736</date></death>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Bei der Stadt Barcelona am Lugeck (Calender 1723)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Herkunft-Krems">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geburtsort">
+                        <placeName key="#wkfm-place__2526">Limone</placeName>
+                     </residence>
                      <occupation>Handelsmann, Wechsler</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <listBibl>

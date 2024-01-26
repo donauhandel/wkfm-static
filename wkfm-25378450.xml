@@ -96,8 +96,14 @@
                         <forename>None</forename>
                         <surname>None</surname>
                      </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsfrau</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
                <noteGrp><note target="wkfm-25378450.xml" type="mentions">Wiener Merkantilprotokoll Nr. 25378450</note><note target="wkfm-25378452.xml" type="mentions">Wiener Merkantilprotokoll Nr. 25378452</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46651">
+                     <orgName>Christoph Jakob Nickl (Niggl) sel. Witwe</orgName>
+                  <noteGrp><note target="wkfm-25378450.xml" type="mentions">Wiener Merkantilprotokoll Nr. 25378450</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

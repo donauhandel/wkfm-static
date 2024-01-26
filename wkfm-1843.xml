@@ -114,7 +114,19 @@
                         <surname>Stapf</surname>
                         <surname type="alt">Stopff</surname>
                      </persName>
-                     <death><date>1741/42</date></death>
+                     <death><date>1741/42</date></death>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>In der Blauen Flasche beim Stock am Eisen (Calender 1723)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <listBibl>
@@ -127,11 +139,23 @@
                         <surname>Zöhrer</surname>
                      </persName>
                      <death><date>1748</date></death>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <listBibl>
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 573.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1843.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1843</note><note target="wkfm-1844.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1844</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46608">
+                     <orgName>Johann Anton Zöhrer</orgName>
+                  <noteGrp><note target="wkfm-1843.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1843</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

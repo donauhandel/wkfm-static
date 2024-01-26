@@ -121,6 +121,9 @@
                         <surname>Riesch</surname>
                      </persName>
                      <death><date>1753</date></death>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                      <listBibl>
@@ -136,5 +139,8 @@
                         <bibl>Mittenzwei, Zwischen Gestern und Morgen, 58.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1435.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1435</note><note target="wkfm-1436.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1436</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46749">
+                     <orgName>Erhard Riesch</orgName>
+                  <noteGrp><note target="wkfm-1435.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1435</note><note target="wkfm-1447.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1447</note><note target="wkfm-1448.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1448</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

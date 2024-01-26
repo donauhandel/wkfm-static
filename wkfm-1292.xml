@@ -99,7 +99,19 @@
                      <persName>
                         <forename>Joseph</forename>
                         <surname>Mäzinger</surname>
-                     </persName>
+                     </persName>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zum Goldenen Fässel zu St. Ulrich (Calender 1758)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1291.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1291</note><note target="wkfm-1292.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1292</note></noteGrp></person>

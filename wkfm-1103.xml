@@ -96,11 +96,29 @@
                      </persName>
                      <birth><date>1666</date></birth>
                      <death><date>1735</date></death>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__79">Brünn</placeName>
+                     <location type="coords"><geo>49.19499999999999 16.60777777777778</geo></location></residence>
+                     <residence type="Herkunft-Krems">
+                        <placeName key="#wkfm-place__79">Brünn</placeName>
+                     <location type="coords"><geo>49.19499999999999 16.60777777777778</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__566">Nürnberg</placeName>
+                     <location type="coords"><geo>49.45416666666667 11.0775</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__566">Nürnberg</placeName>
+                     <location type="coords"><geo>49.45416666666667 11.0775</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Buchhändler, Verleger</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                      <listBibl>
                         <bibl>Bachleitner/Eybl/Fischer, Geschichte des Buchhandels in Österreich, 71f.; Paisey, Buchdrucker, 153 (Lehmann), &amp;lt;span&amp;gt;Senfelder, Gottesacker, 260&amp;lt;/span&amp;gt;; Diefenbacher u.a., Nürnberger Buchgewerbe, 673; Senfelder, Gottesacker, 260.</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1103.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1103</note><note target="wkfm-1104.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1104</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46777">
+                     <orgName>Georg Lehmann</orgName>
+                  <noteGrp><note target="wkfm-1103.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1103</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

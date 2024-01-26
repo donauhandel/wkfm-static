@@ -87,6 +87,12 @@
                         <forename>Johann Jakob</forename>
                         <surname>Sigg</surname>
                      </persName>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Goldarbeiter</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
                <noteGrp><note target="wkfm-1473.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1473</note><note target="wkfm-1474.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1474</note></noteGrp></person>

@@ -93,8 +93,14 @@
                         <forename>Johann Michael</forename>
                         <surname>Loiprecht</surname>
                      </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Wachshändler</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
                <noteGrp><note target="wkfm-1121.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1121</note><note target="wkfm-1122.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1122</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46794">
+                     <orgName>Johann Michael Loiprecht</orgName>
+                  <noteGrp><note target="wkfm-1121.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1121</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

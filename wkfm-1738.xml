@@ -87,7 +87,22 @@
                         <forename>Johann</forename>
                         <surname>Wagner</surname>
                      </persName>
-                     <death><date>1740?, 1744?</date></death>
+                     <death><date>1740?, 1744?</date></death>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zum Samson im Hutstepper-Gässel (Calender 1723)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geburtsort">
+                        <placeName key="#wkfm-place__2559">Forchtenstein</placeName>
+                     </residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <listBibl>

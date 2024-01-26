@@ -94,11 +94,23 @@
                      <persName>
                         <forename>Christian Johann</forename>
                         <surname>Burgholzer</surname>
-                        <surname type="alt">Purckholzer</surname>
                         <surname type="alt">Purkholzer</surname>
+                        <surname type="alt">Purckholzer</surname>
                      </persName>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0206.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0206</note><note target="wkfm-0207.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0207</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47345">
+                     <orgName>Christian Johann Burgholzer</orgName>
+                  <noteGrp><note target="wkfm-0206.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0206</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

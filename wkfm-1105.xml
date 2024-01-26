@@ -109,19 +109,30 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__9686">
+    <back><listPerson><person xml:id="wkfm__46779">
                      <persName>
-                        <forename>Bonaventura</forename>
-                        <surname>Riesch</surname>
+                        <forename>Johann Leonhard</forename>
+                        <surname>Spengelin</surname>
                      </persName>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-               <noteGrp><note target="wkfm-1105.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1105</note><note target="wkfm-1106.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1106</note><note target="wkfm-1407.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1407</note><note target="wkfm-1408.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1408</note></noteGrp></person>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Prokurist bei Johann Luz</occupation>
+               <noteGrp><note target="wkfm-1105.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1105</note></noteGrp></person>
                 <person xml:id="wkfm__3658" sameAs="#wkfm__14338 ">
                      <persName>
                         <forename>Johann</forename>
                         <surname>Luz</surname>
                      </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Herkunft-Krems">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geburtsort">
+                        <placeName key="#wkfm-place__2498">Lindau</placeName>
+                     </residence>
                      <occupation>Handelsmann, Wechsler</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                      <listBibl>
@@ -133,17 +144,27 @@
                         <forename>Matthias</forename>
                         <surname>Thomann</surname>
                      </persName>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Prokurist bei Johann Luz, Angestellter und Prokurist bei Johann Kaspar von Scheidlin</occupation>
                      <listBibl>
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Kühnert, Taufbuch, 106; &amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Mittenzwei, Zwischen Gestern und Morgen, 86&amp;lt;/span&amp;gt;.&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1105.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1105</note><note target="wkfm-1667.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1667</note></noteGrp></person>
-                <person xml:id="wkfm__46779">
+                <person xml:id="wkfm__9686">
                      <persName>
-                        <forename>Johann Leonhard</forename>
-                        <surname>Spengelin</surname>
+                        <forename>Bonaventura</forename>
+                        <surname>Riesch</surname>
                      </persName>
-                     <occupation>Prokurist bei Johann Luz</occupation>
-               <noteGrp><note target="wkfm-1105.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1105</note></noteGrp></person>
-                </listPerson></back></text>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+               <noteGrp><note target="wkfm-1105.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1105</note><note target="wkfm-1106.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1106</note><note target="wkfm-1407.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1407</note><note target="wkfm-1408.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1408</note></noteGrp></person>
+                </listPerson><listOrg><org xml:id="wkfm__46778">
+                     <orgName>Johann Luz</orgName>
+                  <noteGrp><note target="wkfm-1105.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1105</note><note target="wkfm-1106.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1106</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

@@ -111,7 +111,22 @@
                         <forename>Franz</forename>
                         <surname>Setti</surname>
                      </persName>
-                     <death><date>1777</date></death>
+                     <death><date>1777</date></death>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zum Grünen Löwen nächst St. Stephan (Calender 1758)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__1593">Triest</placeName>
+                     <location type="coords"><geo>45.64944444444444 13.776666666666667</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1675.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1675</note><note target="wkfm-1676.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1676</note></noteGrp></person>
@@ -121,7 +136,22 @@
                         <forename type="alt">Lukas</forename>
                         <surname>Setti</surname>
                      </persName>
-                     <death><date>1763</date></death>
+                     <death><date>1763</date></death>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zum Grünen Löwen nälchst St. Stephan (Calender 1723)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geburtsort">
+                        <placeName key="#wkfm-place__2547">Maderno</placeName>
+                     </residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <listBibl>

@@ -94,11 +94,23 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__10385" sameAs="#wkfm__9979 ">
+    <back><listOrg><org xml:id="wkfm__47197">
+                     <orgName>Johann Kaspar Kreidemann</orgName>
+                  <noteGrp><note target="wkfm-0323.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0323</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__10385" sameAs="#wkfm__9979 ">
                      <persName>
                         <forename>Johann Kaspar</forename>
                         <surname>Kreidemann</surname>
                      </persName>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__40">Augsburg</placeName>
+                     <location type="coords"><geo>48.37138888888889 10.898333333333333</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geburtsort">
+                        <placeName key="#wkfm-place__2498">Lindau</placeName>
+                     </residence>
                      <occupation>Handelsmann, Hofjuwelier</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                      <listBibl>

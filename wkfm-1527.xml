@@ -90,13 +90,28 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__9051">
+    <back><listOrg><org xml:id="wkfm__47442">
+                     <orgName>Johann Michael Spann</orgName>
+                  <noteGrp><note target="wkfm-1527.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1527</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__9051">
                      <persName>
                         <forename>Johann Michael</forename>
                         <surname>Spann</surname>
                         <surname type="alt">Sponn</surname>
                      </persName>
-                     <death><date>1735</date></death>
+                     <death><date>1735</date></death>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zum Schwarzen Rössel auf dem Kohlmarkt (Calender 1723)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <listBibl>

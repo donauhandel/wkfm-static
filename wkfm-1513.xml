@@ -98,8 +98,26 @@
                         <surname type="alt">Stäß</surname>
                      </persName>
                      <death><date>1761</date></death>
+                     <affiliation>
+                        <orgName key="#wkfm__47433">Laurent Stass</orgName>
+                     </affiliation>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Im Grundenischen Haus auf dem Kohlmarkt (Calender 1758), Zum Prinz von Portugal auf dem Kohlmarkt (Calender 1723)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1513.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1513</note><note target="wkfm-1514.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1514</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47433">
+                     <orgName>Laurent Stass</orgName>
+                  <noteGrp><note target="wkfm-1513.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1513</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

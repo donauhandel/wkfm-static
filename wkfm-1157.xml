@@ -97,8 +97,20 @@
                         <forename>Johann Michael</forename>
                         <surname>Leeb</surname>
                      </persName>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1157.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1157</note><note target="wkfm-1158.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1158</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46820">
+                     <orgName>Johann Michael Leeb</orgName>
+                  <noteGrp><note target="wkfm-1157.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1157</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

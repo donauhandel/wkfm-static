@@ -89,12 +89,30 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__5563" sameAs="#wkfm__35541 ">
+    <back><listOrg><org xml:id="wkfm__46703">
+                     <orgName>Johann Friedrich Resch (Reesch)</orgName>
+                  <noteGrp><note target="wkfm-1385.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1385</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__5563" sameAs="#wkfm__35541 ">
                      <persName>
                         <forename>Johann Friedrich</forename>
                         <surname>Resch</surname>
                         <surname type="alt">Reesch</surname>
-                     </persName>
+                     </persName>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zu den 5 Lärchen im Freisinger-Hof unter der Ketten (Calender 1723)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Herkunft-Krems">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <listBibl>

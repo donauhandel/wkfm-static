@@ -86,5 +86,8 @@
             
         </div>
       </body>
-    <back/></text>
+    <back><listOrg><org xml:id="wkfm__46696">
+                     <orgName>Reitschlische Massa</orgName>
+                  <noteGrp><note target="wkfm-1379.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1379</note><note target="wkfm-1380.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1380</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

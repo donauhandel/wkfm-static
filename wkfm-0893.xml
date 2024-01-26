@@ -106,34 +106,61 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46365">
+    <back><listOrg><org xml:id="wkfm__46363">
+                     <orgName>Johann Georg Gschaidter</orgName>
+                  <noteGrp><note target="wkfm-0893.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0893</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__46365">
                      <persName>
                         <forename>Thomas</forename>
                         <surname>Schreiner</surname>
-                     </persName>
+                     </persName>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Bei der Heiligen Dreifaltigkeit auf der Laimgrube (Calender 1723)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <listBibl>
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 522.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0893.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0893</note><note target="wkfm-1509.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1509</note><note target="wkfm-1510.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1510</note></noteGrp></person>
-                <person xml:id="wkfm__46362">
-                     <persName>
-                        <forename>Johann Georg</forename>
-                        <surname>Gschaidter</surname>
-                        <surname type="alt">Gschaider</surname>
-                     </persName>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-                     <listBibl>
-                        <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 396 (Juni 1742, dort als Fleischhacker bezeichnet!).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-0893.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0893</note><note target="wkfm-0894.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0894</note></noteGrp></person>
                 <person xml:id="wkfm__46364">
                      <persName>
                         <forename>Michael Joseph</forename>
                         <surname>Gschaidter</surname>
                      </persName>
                <noteGrp><note target="wkfm-0893.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0893</note></noteGrp></person>
+                <person xml:id="wkfm__46362">
+                     <persName>
+                        <forename>Johann Georg</forename>
+                        <surname>Gschaidter</surname>
+                        <surname type="alt">Gschaider</surname>
+                     </persName>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Bei der Heiligen Dreifaltigkeit auf der Laimgrube (Calender 1758)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+                     <listBibl>
+                        <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 396 (Juni 1742, dort als Fleischhacker bezeichnet!).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0893.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0893</note><note target="wkfm-0894.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0894</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

@@ -87,6 +87,12 @@
                         <forename>Lorenz</forename>
                         <surname>Eggendorfer</surname>
                      </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Herkunft-Aschach">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Lederhändler</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
                <noteGrp><note target="wkfm-0623.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0623</note><note target="wkfm-0624.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0624</note></noteGrp></person>

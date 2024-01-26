@@ -94,11 +94,23 @@
                      <persName>
                         <forename>Johann Michael</forename>
                         <surname>Müllner</surname>
-                        <surname type="alt">Müller</surname>
                         <surname type="alt">Mülner</surname>
+                        <surname type="alt">Müller</surname>
                         <surname type="alt">Millner</surname>
                      </persName>
-                     <death><date>1779?</date></death>
+                     <death><date>1779?</date></death>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zum Schwarzen Cameel in der Bognergasse (Calender 1758)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1283.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1283</note><note target="wkfm-1284.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1284</note></noteGrp></person>

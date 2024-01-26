@@ -93,12 +93,30 @@
                         <surname>Pfefferl</surname>
                         <surname type="alt">Pfeffer</surname>
                      </persName>
-                     <death><date>1743</date></death>
+                     <death><date>1743</date></death>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zum Goldenen Brunnen auf dem Kohlmarkt (Calender 1723)</placeName>
+                     </residence>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Goldschmiedgasse 4 (alt: Nr 594)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <listBibl>
                         <bibl>&amp;lt;div&amp;gt;Huchler, Bürgeraufnahmen, 482 (14. Jänner 1715: &amp;#34;Pfefferle&amp;#34;).&amp;lt;/div&amp;gt;&amp;lt;div&amp;gt;Harrer-Lucienfeld, Wien, seiner Häuser, Bd. 1.3, S. 772.&amp;lt;br&amp;gt;&amp;lt;/div&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0140.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0140</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47311">
+                     <orgName>Leopold Pfefferl</orgName>
+                  <noteGrp><note target="wkfm-0140.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0140</note><note target="wkfm-0141.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0141</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

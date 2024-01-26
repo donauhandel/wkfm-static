@@ -110,7 +110,19 @@
                         <forename>Johann Joseph</forename>
                         <surname>Guettlich</surname>
                      </persName>
-                     <death><date>1762</date></death>
+                     <death><date>1762</date></death>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Wahrscheinlich: Zum Grünen Fässel auf dem Neustift (Calender 1758)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <listBibl>
@@ -123,5 +135,8 @@
                         <surname>Gunttlich</surname>
                      </persName>
                <noteGrp><note target="wkfm-0889.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0889</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46357">
+                     <orgName>Johann Joseph Guettlich</orgName>
+                  <noteGrp><note target="wkfm-0889.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0889</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

@@ -92,25 +92,52 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43896">
+    <back><listPerson><person xml:id="wkfm__43897">
+                     <persName>
+                        <forename>None</forename>
+                        <surname>Pillitschotti</surname>
+                     </persName>
+                     <death><date>1778</date></death>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Sterbeort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsfrau</occupation>
+               <noteGrp><note target="wkfm-0186.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0186</note></noteGrp></person>
+                <person xml:id="wkfm__43896">
                      <persName>
                         <forename>Ignaz</forename>
                         <forename type="alt">Ignaz Matthias</forename>
                         <surname>Pillitschotti</surname>
-                     </persName>
+                     </persName>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zum Türken auf dem Stock am Eisen-Platz (Calender 1758)</placeName>
+                     </residence>
+                     <residence type="Geburtsort">
+                        <placeName key="#wkfm-place__563">Nikolsburg</placeName>
+                     <location type="coords"><geo>48.80555555555555 16.637777777777778</geo></location></residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <listBibl>
                         <bibl>Huchler, Bürgeraufnahmen, 484.</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0186.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0186</note><note target="wkfm-0187.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0187</note></noteGrp></person>
-                <person xml:id="wkfm__43897">
-                     <persName>
-                        <forename>None</forename>
-                        <surname>Pillitschotti</surname>
-                     </persName>
-                     <death><date>1778</date></death>
-                     <occupation>Handelsfrau</occupation>
-               <noteGrp><note target="wkfm-0186.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0186</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47336">
+                     <orgName>Ignaz Pillitschotti</orgName>
+                  <noteGrp><note target="wkfm-0186.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0186</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

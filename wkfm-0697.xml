@@ -87,5 +87,8 @@
             
         </div>
       </body>
-    <back/></text>
+    <back><listOrg><org xml:id="wkfm__47073">
+                     <orgName>Joseph Förschl</orgName>
+                  <noteGrp><note target="wkfm-0697.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0697</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

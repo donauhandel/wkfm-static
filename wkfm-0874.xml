@@ -88,10 +88,25 @@
                      <persName>
                         <forename>Franz Anton</forename>
                         <surname>Gräsl</surname>
-                        <surname type="alt">Graßl</surname>
                         <surname type="alt">Grässl</surname>
+                        <surname type="alt">Graßl</surname>
                      </persName>
-                     <death><date>1778</date></death>
+                     <death><date>1778</date></death>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Bei der 2. Weißen Tauben nächst dem Stock am Eisen (Calender 1758)</placeName>
+                     </residence>
+                     <residence type="Geburtsort">
+                        <placeName key="#wkfm-place__505">Mauthausen</placeName>
+                     <location type="coords"><geo>48.24111111111111 14.519444444444446</geo></location></residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann, Spitzenhändler</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <listBibl>

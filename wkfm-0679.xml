@@ -100,6 +100,15 @@
                         <surname>Vetterin</surname>
                      </persName>
                      <death><date>1729</date></death>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Sterbeort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Tuchhändlerin, Handelsfrau</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
                      <occupation type="kaufmannsklasse">tuchlaubensverwandt/bürgerlich</occupation>
@@ -111,5 +120,8 @@
                      </persName>
                      <occupation>Tuchhändler</occupation>
                <noteGrp><note target="wkfm-0679.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0679</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__12708">
+                     <orgName>Sebastian Vetter sel. Erben</orgName>
+                  <noteGrp><note target="wkfm-0679.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0679</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

@@ -91,8 +91,14 @@
                         <surname>Le Goux</surname>
                         <surname type="alt">Legoux</surname>
                      </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                <noteGrp><note target="wkfm-1113.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1113</note><note target="wkfm-1114.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1114</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46787">
+                     <orgName>Philibert Legoux</orgName>
+                  <noteGrp><note target="wkfm-1113.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1113</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

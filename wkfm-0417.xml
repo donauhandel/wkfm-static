@@ -88,12 +88,24 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46130">
+    <back><listOrg><org xml:id="wkfm__47240">
+                     <orgName>Philipp Kastler</orgName>
+                  <noteGrp><note target="wkfm-0417.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0417</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__46130">
                      <persName>
                         <forename>Philipp</forename>
                         <surname>Kastler</surname>
                      </persName>
                      <death><date>1778</date></death>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0417.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0417</note><note target="wkfm-0418.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0418</note></noteGrp></person>

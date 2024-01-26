@@ -88,12 +88,24 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46461">
+    <back><listOrg><org xml:id="wkfm__46462">
+                     <orgName>Franz Daniel Herzog</orgName>
+                  <noteGrp><note target="wkfm-0955.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0955</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__46461">
                      <persName>
                         <forename>Franz Daniel</forename>
                         <surname>Herzog</surname>
                         <surname type="alt">Hertzog</surname>
                      </persName>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0955.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0955</note><note target="wkfm-0956.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0956</note></noteGrp></person>

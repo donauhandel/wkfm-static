@@ -97,11 +97,26 @@
                         <forename>Johann Michael</forename>
                         <surname>Pöck</surname>
                         <surname type="alt">Pöckh</surname>
-                     </persName>
+                     </persName>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zum Weißen Rössel auf dem Hohen Markt nächst dem Brunn-Haus (Calender 1758)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <occupation type="aemter">Vorsteher der bürgerl. Handelsleute</occupation>
                      <occupation type="aemter">Senior des bürgerl. Handelsstands</occupation>
                <noteGrp><note target="wkfm-0170.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0170</note><note target="wkfm-0171.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0171</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47328">
+                     <orgName>Johann Michael Pöck</orgName>
+                  <noteGrp><note target="wkfm-0170.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0170</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

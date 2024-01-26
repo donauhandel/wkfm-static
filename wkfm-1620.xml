@@ -96,12 +96,30 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__8591">
+    <back><listOrg><org xml:id="wkfm__30445">
+                     <orgName>Herculiano Amadei &amp; Co.</orgName>
+                  <noteGrp><note target="wkfm-0016.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0016</note><note target="wkfm-0017.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0017</note><note target="wkfm-1619.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1619</note><note target="wkfm-1620.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1620</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__8591">
                      <persName>
                         <forename>Herculiano</forename>
                         <forename type="alt">Kilian</forename>
                         <surname>Amadei</surname>
                      </persName>
+                     <affiliation>
+                        <orgName key="#wkfm__30445">Herculiano Amadei &amp; Co.</orgName>
+                     </affiliation>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zum Grünen Fässel auf dem Kohlmarkt (Calender 1723)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <listBibl>
@@ -115,6 +133,21 @@
                         <surname type="alt">Spettel</surname>
                      </persName>
                      <death><date>1769</date></death>
+                     <affiliation>
+                        <orgName key="#wkfm__30445">Herculiano Amadei &amp; Co.</orgName>
+                     </affiliation>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zum Grünen Fässel auf dem Kohlmarkt (Calender 1758)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann, Kompanion, Bediensteter und Prokurist von Herculiano Amadei</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <occupation type="aemter">Vorsteher der bürgerl. Handelsleute</occupation>

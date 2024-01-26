@@ -88,5 +88,8 @@
             
         </div>
       </body>
-    <back/></text>
+    <back><listOrg><org xml:id="wkfm__47326">
+                     <orgName>Egidius Philipp Päck</orgName>
+                  <noteGrp><note target="wkfm-0168.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0168</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

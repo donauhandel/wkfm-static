@@ -98,23 +98,29 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43907">
-                     <persName>
-                        <forename>Maria Josepha</forename>
-                        <surname>Kautsamerin</surname>
-                        <surname type="alt">Pingizer</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-0199.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0199</note></noteGrp></person>
-                <person xml:id="wkfm__43908">
+    <back><listPerson><person xml:id="wkfm__43908">
                      <persName>
                         <forename>Joseph</forename>
                         <surname>Pingizer</surname>
                      </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <listBibl>
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 485 (Februar 1733).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0199.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0199</note></noteGrp></person>
-                </listPerson></back></text>
+                <person xml:id="wkfm__43907">
+                     <persName>
+                        <forename>Maria Josepha</forename>
+                        <surname>Kautsamerin</surname>
+                        <surname type="alt">Pingizer</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0199.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0199</note></noteGrp></person>
+                </listPerson><listOrg><org xml:id="wkfm__23672">
+                     <orgName>Pingizer und Bittoni (Junior)</orgName>
+                  <noteGrp><note target="wkfm-0198.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0198</note><note target="wkfm-0199.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0199</note><note target="wkfm-1263.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1263</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

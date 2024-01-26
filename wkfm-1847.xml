@@ -117,13 +117,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46610">
-                     <persName>
-                        <forename>Andre</forename>
-                        <surname>Ziegler</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-1847.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1847</note></noteGrp></person>
-                <person xml:id="wkfm__31013" sameAs="#wkfm__46610 ">
+    <back><listPerson><person xml:id="wkfm__31013" sameAs="#wkfm__46610 ">
                      <persName>
                         <forename>Andre</forename>
                         <surname>Ziegler</surname>
@@ -133,7 +127,19 @@
                      <persName>
                         <forename>Philipp Matthias</forename>
                         <surname>Ziegler</surname>
-                     </persName>
+                     </persName>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zu den 3. Hirschen nächst dem Stock am Eisen-Platz (Calender 1758)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <listBibl>
@@ -146,5 +152,14 @@
                         <surname>Groß</surname>
                      </persName>
                <noteGrp><note target="wkfm-1847.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1847</note></noteGrp></person>
-                </listPerson></back></text>
+                <person xml:id="wkfm__46610">
+                     <persName>
+                        <forename>Andre</forename>
+                        <surname>Ziegler</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-1847.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1847</note></noteGrp></person>
+                </listPerson><listOrg><org xml:id="wkfm__46611">
+                     <orgName>Philipp Matthias Ziegler</orgName>
+                  <noteGrp><note target="wkfm-1847.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1847</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

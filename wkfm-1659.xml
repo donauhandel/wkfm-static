@@ -114,29 +114,56 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__23922" sameAs="#wkfm__26471 wkfm__28011 ">
-                     <persName>
-                        <forename>Wolf Karl</forename>
-                        <surname>von Nideröst</surname>
-                        <surname type="alt">Nedorost</surname>
-                        <surname type="alt">von Nedorost</surname>
-                     </persName>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-                     <listBibl>
-                        <bibl>Harrer-Lucienfeld, Wien, seiner Häuser, Bd. 4.3, S. 541.&amp;lt;br&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-1659.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1659</note><note target="wkfm-25378458.xml" type="mentions">Wiener Merkantilprotokoll Nr. 25378458</note><note target="wkfm-25378461.xml" type="mentions">Wiener Merkantilprotokoll Nr. 25378461</note></noteGrp></person>
-                <person xml:id="wkfm__47565">
+    <back><listOrg><org xml:id="wkfm__47566">
+                     <orgName>Franz Anton Schnierer</orgName>
+                  <noteGrp><note target="wkfm-1659.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1659</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__47565">
                      <persName>
                         <forename>Franz Anton</forename>
                         <surname>Schnierer</surname>
-                     </persName>
+                     </persName>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zum Weißen Schwan auf der Brandstatt (Calender 1758)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <listBibl>
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 520.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1659.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1659</note><note target="wkfm-1660.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1660</note></noteGrp></person>
+                <person xml:id="wkfm__23922" sameAs="#wkfm__26471 wkfm__28011 ">
+                     <persName>
+                        <forename>Wolf Karl</forename>
+                        <surname>von Nideröst</surname>
+                        <surname type="alt">Nedorost</surname>
+                        <surname type="alt">von Nedorost</surname>
+                     </persName>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zum Weißen Schwan in der Brandstatt (Calender 1723)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+                     <listBibl>
+                        <bibl>Harrer-Lucienfeld, Wien, seiner Häuser, Bd. 4.3, S. 541.&amp;lt;br&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-1659.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1659</note><note target="wkfm-25378458.xml" type="mentions">Wiener Merkantilprotokoll Nr. 25378458</note><note target="wkfm-25378461.xml" type="mentions">Wiener Merkantilprotokoll Nr. 25378461</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

@@ -92,12 +92,27 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__23591">
+    <back><listOrg><org xml:id="wkfm__46985">
+                     <orgName>Johann Joseph Wolf</orgName>
+                  <noteGrp><note target="wkfm-1759.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1759</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__23591">
                      <persName>
                         <forename>Johann Joseph</forename>
                         <surname>Wolf</surname>
                      </persName>
                      <death><date>1746</date></death>
+                     <residence type="Geburtsort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Leinwandhändler</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <listBibl>

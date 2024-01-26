@@ -89,6 +89,15 @@
                         <surname type="alt">Schwanasini</surname>
                         <surname type="alt">Schwannasini</surname>
                      </persName>
+                     <residence type="Geburtsort">
+                        <placeName key="#wkfm-place__647">Prag</placeName>
+                     <location type="coords"><geo>50.08777777777778 14.420555555555556</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                      <listBibl>

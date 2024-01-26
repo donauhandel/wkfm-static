@@ -118,18 +118,33 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46186">
-                     <persName>
-                        <forename>David</forename>
-                        <surname>Meyer</surname>
-                     </persName>
-                     <occupation>Prokurist der Niederlage der Brünner Lehenbank in Wien</occupation>
-               <noteGrp><note target="wkfm-0489.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0489</note></noteGrp></person>
-                <person xml:id="wkfm__46183">
+    <back><listPerson><person xml:id="wkfm__46183">
                      <persName>
                         <forename>Johann Anton</forename>
                         <surname>Kehrnhofer</surname>
                      </persName>
                <noteGrp><note target="wkfm-0489.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0489</note></noteGrp></person>
-                </listPerson></back></text>
+                <person xml:id="wkfm__46186">
+                     <persName>
+                        <forename>David</forename>
+                        <surname>Meyer</surname>
+                     </persName>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geburtsort">
+                        <placeName key="#wkfm-place__1391"/>
+                     </residence>
+                     <occupation>Prokurist der Niederlage der Brünner Lehenbank in Wien</occupation>
+               <noteGrp><note target="wkfm-0489.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0489</note></noteGrp></person>
+                </listPerson><listOrg><org xml:id="wkfm__46184">
+                     <orgName>Johann Anton Kehrnhofer &amp; Co</orgName>
+                  <noteGrp><note target="wkfm-0489.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0489</note></noteGrp></org>
+                <org xml:id="wkfm__46185">
+                     <orgName>Ksl. privilegierte Lehenbank in Brünn</orgName>
+                  <noteGrp><note target="wkfm-0489.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0489</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

@@ -110,22 +110,31 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46381">
-                     <persName>
-                        <forename>Maria Franziska</forename>
-                        <surname>Ipiditschin</surname>
-                        <surname type="alt">Wolfmayrin</surname>
-                        <surname type="alt">Gapieller</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-0903.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0903</note><note target="wkfm-0904.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0904</note></noteGrp></person>
-                <person xml:id="wkfm__46380">
+    <back><listPerson><person xml:id="wkfm__46380">
                      <persName>
                         <forename>Matthias</forename>
                         <surname>Gapieller</surname>
                      </persName>
                      <death><date>1759</date></death>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Tuchhändler</occupation>
                      <occupation type="kaufmannsklasse">tuchlaubensverwandt/bürgerlich</occupation>
+               <noteGrp><note target="wkfm-0903.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0903</note><note target="wkfm-0904.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0904</note></noteGrp></person>
+                <person xml:id="wkfm__46381">
+                     <persName>
+                        <forename>Maria Franziska</forename>
+                        <surname>Ipiditschin</surname>
+                        <surname type="alt">Gapieller</surname>
+                        <surname type="alt">Wolfmayrin</surname>
+                     </persName>
                <noteGrp><note target="wkfm-0903.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0903</note><note target="wkfm-0904.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0904</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

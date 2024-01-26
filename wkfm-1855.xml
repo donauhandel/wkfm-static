@@ -91,11 +91,23 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__8271">
+    <back><listOrg><org xml:id="wkfm__43819">
+                     <orgName>Isaak Arnsteiner sel. Erben</orgName>
+                  <noteGrp><note target="wkfm-1855.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1855</note></noteGrp></org>
+                <org xml:id="wkfm__46613">
+                     <orgName>Isaak Arnsteiner</orgName>
+                  <noteGrp><note target="wkfm-1855.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1855</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__8271">
                      <persName>
                         <forename>Isaak</forename>
                         <surname>Arnsteiner</surname>
                      </persName>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">jüdisch</occupation>
                      <listBibl>

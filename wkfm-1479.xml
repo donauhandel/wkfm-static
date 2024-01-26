@@ -95,11 +95,23 @@
                         <surname type="alt">Schwanasini</surname>
                         <surname type="alt">Schwannasini</surname>
                      </persName>
+                     <residence type="Geburtsort">
+                        <placeName key="#wkfm-place__647">Prag</placeName>
+                     <location type="coords"><geo>50.08777777777778 14.420555555555556</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                      <listBibl>
                         <bibl>Rauscher/Serles, Märkte, 79/Anm. 82.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1479.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1479</note><note target="wkfm-1480.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1480</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47408">
+                     <orgName>Johann Baptist Schwanesini</orgName>
+                  <noteGrp><note target="wkfm-1479.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1479</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

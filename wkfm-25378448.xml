@@ -88,7 +88,22 @@
                         <forename>Joseph Christoph</forename>
                         <surname>Naller</surname>
                      </persName>
-                     <death><date>1735</date></death>
+                     <death><date>1735</date></death>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zur Goldenen Weintraube nächst der Wollzeile (Calender 1723)</placeName>
+                     </residence>
+                     <residence type="Geburtsort">
+                        <placeName key="#wkfm-place__242">Gresten</placeName>
+                     <location type="coords"><geo>47.985 15.025277777777779</geo></location></residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <listBibl>

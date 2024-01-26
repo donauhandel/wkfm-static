@@ -90,6 +90,12 @@
                         <forename>Christian</forename>
                         <surname>Kaltschmidt</surname>
                      </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geburtsort">
+                        <placeName key="#wkfm-place__2498">Lindau</placeName>
+                     </residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                <noteGrp><note target="wkfm-0325.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0325</note><note target="wkfm-0326.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0326</note></noteGrp></person>

@@ -94,13 +94,31 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__26325" sameAs="#wkfm__32059 ">
+    <back><listOrg><org xml:id="wkfm__44587">
+                     <orgName>Joachim Negri &amp; Co., Gioacchino Negri &amp; Co.</orgName>
+                  <noteGrp><note target="wkfm-1315.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1315</note></noteGrp></org>
+                <org xml:id="wkfm__46667">
+                     <orgName>Joachim Negri, Gioacchino Negri</orgName>
+                  <noteGrp><note target="wkfm-1315.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1315</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__26325" sameAs="#wkfm__32059 ">
                      <persName>
                         <forename>Joachim</forename>
                         <forename type="alt">Gioacchino</forename>
                         <surname>Negri</surname>
                      </persName>
                      <death><date>1743</date></death>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geburtsort">
+                        <placeName key="#wkfm-place__2524">Arco</placeName>
+                     </residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <listBibl>

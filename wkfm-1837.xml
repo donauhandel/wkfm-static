@@ -90,11 +90,23 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46604">
+    <back><listOrg><org xml:id="wkfm__46605">
+                     <orgName>Johann Georg Zöhrer</orgName>
+                  <noteGrp><note target="wkfm-1837.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1837</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__46604">
                      <persName>
                         <forename>Johann Georg</forename>
                         <surname>Zöhrer</surname>
                      </persName>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <listBibl>

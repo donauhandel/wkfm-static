@@ -99,12 +99,30 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43989">
+    <back><listOrg><org xml:id="wkfm__47550">
+                     <orgName>Jakob Matthäus Schmidt</orgName>
+                  <noteGrp><note target="wkfm-1647.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1647</note></noteGrp></org>
+                <org xml:id="wkfm__38549">
+                     <orgName>Mayr und Hölzl</orgName>
+                  <noteGrp><note target="wkfm-1037.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1037</note><note target="wkfm-1038.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1038</note><note target="wkfm-1263.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1263</note><note target="wkfm-1264.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1264</note><note target="wkfm-1647.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1647</note><note target="wkfm-1649.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1649</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__43989">
                      <persName>
                         <forename>Jakob Matthäus</forename>
                         <surname>Schmidt</surname>
                         <surname type="alt">Schmitt</surname>
-                     </persName>
+                     </persName>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zum Blauen Kranz im Margarethenhof (Calender 1758)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <occupation type="aemter">Vorsteher der bürgerl. Handelsleute</occupation>

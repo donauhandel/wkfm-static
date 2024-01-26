@@ -102,11 +102,26 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__25597">
+    <back><listOrg><org xml:id="wkfm__46453">
+                     <orgName>Joseph Höcksteiner sel. Witwe und Sohn</orgName>
+                  <noteGrp><note target="wkfm-0949.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0949</note><note target="wkfm-0950.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0950</note><note target="wkfm-1809.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1809</note></noteGrp></org>
+                <org xml:id="wkfm__47031">
+                     <orgName>Johann Michael Weigl</orgName>
+                  <noteGrp><note target="wkfm-1809.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1809</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__25597">
                      <persName>
                         <forename>Johann Michael</forename>
                         <surname>Weigl</surname>
                      </persName>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <listBibl>

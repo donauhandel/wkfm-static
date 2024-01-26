@@ -88,13 +88,31 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46980">
+    <back><listOrg><org xml:id="wkfm__46981">
+                     <orgName>Johann Sebastian Widmann</orgName>
+                  <noteGrp><note target="wkfm-1753.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1753</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__46980">
                      <persName>
                         <forename>Johann Sebastian</forename>
                         <surname>Wittmann</surname>
                         <surname type="alt">Widtmann</surname>
                         <surname type="alt">Widmann</surname>
-                     </persName>
+                     </persName>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zur Grünen Weintraube nächst dem Eisgrübel (Calender 1723)</placeName>
+                     </residence>
+                     <residence type="Geburtsort">
+                        <placeName key="#wkfm-place__457">Linz</placeName>
+                     <location type="coords"><geo>48.30638888888888 14.286111111111111</geo></location></residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <listBibl>

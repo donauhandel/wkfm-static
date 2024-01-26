@@ -89,6 +89,12 @@
                         <surname type="alt">von Brunner</surname>
                         <surname type="alt">von Prunner</surname>
                      </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geburtsort">
+                        <placeName key="#wkfm-place__1055">Landshut</placeName>
+                     <location type="coords"><geo>48.529444444444444 12.161666666666667</geo></location></residence>
                      <occupation>Handelsmann, Wechsler</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                      <listBibl>

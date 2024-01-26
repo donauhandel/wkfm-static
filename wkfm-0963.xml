@@ -88,13 +88,28 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__23836">
+    <back><listOrg><org xml:id="wkfm__46469">
+                     <orgName>Franz Wilhelm Häsl</orgName>
+                  <noteGrp><note target="wkfm-0963.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0963</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__23836">
                      <persName>
                         <forename>Franz Wilhelm</forename>
                         <surname>Häsl</surname>
-                        <surname type="alt">Haasl</surname>
                         <surname type="alt">Häßl</surname>
+                        <surname type="alt">Haasl</surname>
                      </persName>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geburtsort">
+                        <placeName key="#wkfm-place__2586">Kaltern</placeName>
+                     </residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <listBibl>

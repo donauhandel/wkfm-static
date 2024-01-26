@@ -115,18 +115,27 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__17851">
-                     <persName>
-                        <forename>Johann Georg</forename>
-                        <surname>Dietmann</surname>
-                     </persName>
-                     <occupation>Prokurist des Ruprecht Traunpauer</occupation>
-               <noteGrp><note target="wkfm-0561.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0561</note></noteGrp></person>
-                <person xml:id="wkfm__46237">
+    <back><listOrg><org xml:id="wkfm__46236">
+                     <orgName>Ruprecht Traunpauer</orgName>
+                  <noteGrp><note target="wkfm-0561.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0561</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__46237">
                      <persName>
                         <forename>Johann Joseph Karl</forename>
                         <surname>Zwirner</surname>
                      </persName>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Prokurist des Ruprecht Traunpauer</occupation>
+               <noteGrp><note target="wkfm-0561.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0561</note></noteGrp></person>
+                <person xml:id="wkfm__17851">
+                     <persName>
+                        <forename>Johann Georg</forename>
+                        <surname>Dietmann</surname>
+                     </persName>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Prokurist des Ruprecht Traunpauer</occupation>
                <noteGrp><note target="wkfm-0561.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0561</note></noteGrp></person>
                 <person xml:id="wkfm__6935">
@@ -134,7 +143,22 @@
                         <forename>Ruprecht</forename>
                         <surname>Traunpauer</surname>
                      </persName>
-                     <death><date>1739</date></death>
+                     <death><date>1739</date></death>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zum Weißen Kranz nächst dem Schwarzen Bären (Calender 1723)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Herkunft-Krems">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann, Spezereihändler</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <occupation type="aemter">Vorsteher der bürgerl. Handelsleute</occupation>

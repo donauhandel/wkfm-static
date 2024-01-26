@@ -88,13 +88,25 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47089">
+    <back><listOrg><org xml:id="wkfm__47090">
+                     <orgName>Stephan Fernitz</orgName>
+                  <noteGrp><note target="wkfm-0721.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0721</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__47089">
                      <persName>
                         <forename>Stephan</forename>
                         <surname>Fernitz</surname>
                         <surname type="alt">Ferniz</surname>
                      </persName>
                      <death><date>1743</date></death>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Eisenhändler</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <listBibl>

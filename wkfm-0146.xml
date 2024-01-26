@@ -87,14 +87,29 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__9952">
+    <back><listOrg><org xml:id="wkfm__47314">
+                     <orgName>Wenzel Preissl</orgName>
+                  <noteGrp><note target="wkfm-0146.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0146</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__9952">
                      <persName>
                         <forename>Wenzel</forename>
                         <forename type="alt">Wenzel Cleophas</forename>
                         <surname>Preissl</surname>
-                        <surname type="alt">Preytzl</surname>
                         <surname type="alt">Preyßel</surname>
-                     </persName>
+                        <surname type="alt">Preytzl</surname>
+                     </persName>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Beim Goldenen Wagen auf dem Bauernmarkt (Calender 1723)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <listBibl>

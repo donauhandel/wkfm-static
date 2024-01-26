@@ -94,7 +94,13 @@
                         <forename type="alt">Rocco</forename>
                         <surname>Polti</surname>
                      </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                <noteGrp><note target="wkfm-0056.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0056</note><note target="wkfm-0057.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0057</note><note target="wkfm-1089.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1089</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47268">
+                     <orgName>Rocco Polti</orgName>
+                  <noteGrp><note target="wkfm-0056.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0056</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

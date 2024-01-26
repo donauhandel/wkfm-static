@@ -87,6 +87,9 @@
                         <forename>Johann Christian</forename>
                         <surname>Loher</surname>
                      </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                <noteGrp><note target="wkfm-1143.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1143</note><note target="wkfm-1144.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1144</note></noteGrp></person>

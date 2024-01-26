@@ -90,13 +90,28 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__24742" sameAs="#wkfm__24669 ">
+    <back><listOrg><org xml:id="wkfm__47247">
+                     <orgName>Johann Benedikt Cescotti, Giovanni Benedetto Cescotti</orgName>
+                  <noteGrp><note target="wkfm-0433.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0433</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__24742" sameAs="#wkfm__24669 ">
                      <persName>
                         <forename>Johann Benedikt</forename>
                         <forename type="alt">Giovanni Benedetto</forename>
                         <surname>Cescotti</surname>
                      </persName>
                      <death><date>1770</date></death>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geburtsort">
+                        <placeName key="#wkfm-place__2567">Lago di Garda</placeName>
+                     </residence>
                      <occupation>Handelsmann, Prokurist bei Giovanni Maria Rozzio, Prokurist bei Georg Veronese</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <listBibl>

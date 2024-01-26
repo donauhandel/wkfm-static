@@ -90,12 +90,21 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__11577">
+    <back><listOrg><org xml:id="wkfm__47267">
+                     <orgName>Georg Burger</orgName>
+                  <noteGrp><note target="wkfm-0054.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0054</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__11577">
                      <persName>
                         <forename>Georg</forename>
                         <surname>Burger</surname>
                      </persName>
                      <death><date>1732</date></death>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
                <noteGrp><note target="wkfm-0054.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0054</note></noteGrp></person>

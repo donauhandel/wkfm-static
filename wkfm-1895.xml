@@ -90,11 +90,20 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__14422">
+    <back><listOrg><org xml:id="wkfm__46630">
+                     <orgName>Leb Wertheimer</orgName>
+                  <noteGrp><note target="wkfm-1895.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1895</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__14422">
                      <persName>
                         <forename>Leb</forename>
                         <surname>Wertheimer</surname>
                      </persName>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann, Hofjude</occupation>
                      <occupation type="aemter">Ksl. Faktor</occupation>
                      <listBibl>

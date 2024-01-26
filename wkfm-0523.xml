@@ -93,12 +93,27 @@
                         <forename>Sebastian</forename>
                         <surname>Dürmayr</surname>
                         <surname type="alt">Durmayr</surname>
-                     </persName>
+                     </persName>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>In der oberen Bäckerstraße (Calender 1723)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <listBibl>
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 366.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0523.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0523</note><note target="wkfm-0524.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0524</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46208">
+                     <orgName>Sebastian Durmayr</orgName>
+                  <noteGrp><note target="wkfm-0523.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0523</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

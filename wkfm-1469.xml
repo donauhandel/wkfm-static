@@ -88,11 +88,20 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__12189" sameAs="#wkfm__20193 ">
+    <back><listOrg><org xml:id="wkfm__47402">
+                     <orgName>Christian Schubert</orgName>
+                  <noteGrp><note target="wkfm-1469.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1469</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__12189" sameAs="#wkfm__20193 ">
                      <persName>
                         <forename>Christian</forename>
                         <surname>Schubert</surname>
                      </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geburtsort">
+                        <placeName key="#wkfm-place__2544">Leutschau</placeName>
+                     </residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                      <listBibl>

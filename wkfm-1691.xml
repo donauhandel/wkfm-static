@@ -96,6 +96,12 @@
                         <surname>Sörgl</surname>
                         <surname type="alt">Sörgel</surname>
                      </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__566">Nürnberg</placeName>
+                     <location type="coords"><geo>49.45416666666667 11.0775</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                      <listBibl>
@@ -105,5 +111,8 @@ Porzellan des Klassizismus. Die Ära Conrad von Sorgenthal 1784-1805 (Wien
 2000) 9; Kallbrunner, 200 Jahre Fabrik Leonischer Waren, 152.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1691.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1691</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47602">
+                     <orgName>Johann Georg Sörgl (Sörgel)</orgName>
+                  <noteGrp><note target="wkfm-1691.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1691</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

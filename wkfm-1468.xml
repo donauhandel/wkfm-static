@@ -88,6 +88,12 @@
                         <surname>Schwanner</surname>
                      </persName>
                      <death><date>1747</date></death>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
                <noteGrp><note target="wkfm-1467.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1467</note><note target="wkfm-1468.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1468</note></noteGrp></person>

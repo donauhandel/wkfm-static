@@ -93,8 +93,14 @@
                         <forename>Karl</forename>
                         <surname>Wöss</surname>
                      </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
                <noteGrp><note target="wkfm-1715.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1715</note><note target="wkfm-1716.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1716</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46955">
+                     <orgName>Karl Wöss</orgName>
+                  <noteGrp><note target="wkfm-1715.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1715</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

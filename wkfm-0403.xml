@@ -90,12 +90,24 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43179">
+    <back><listOrg><org xml:id="wkfm__47234">
+                     <orgName>Joseph Gerhard Kammerling</orgName>
+                  <noteGrp><note target="wkfm-0403.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0403</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__43179">
                      <persName>
                         <forename>Joseph Gerhard</forename>
                         <surname>Kammerling</surname>
                      </persName>
                      <death><date>1731</date></death>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Eisenhändler</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <listBibl>

@@ -87,14 +87,35 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43909" sameAs="#wkfm__42791 ">
+    <back><listOrg><org xml:id="wkfm__47342">
+                     <orgName>Jakob Piwanko</orgName>
+                  <noteGrp><note target="wkfm-0200.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0200</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__43909" sameAs="#wkfm__42791 ">
                      <persName>
                         <forename>Jakob</forename>
                         <surname>Piwanko</surname>
                         <surname type="alt">Piwänkho</surname>
                      </persName>
                      <birth><date>1710</date></birth>
-                     <death><date>28.06.1757</date></death>
+                     <death><date>28.06.1757</date></death>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zur Stadt Belgrad in der Kärntnerstraße (Calender 1758)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Sterbeort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geburtsort">
+                        <placeName key="#wkfm-place__2507">Mödling</placeName>
+                     </residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <listBibl>

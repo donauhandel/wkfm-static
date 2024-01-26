@@ -82,5 +82,8 @@
             
         </div>
       </body>
-    <back/></text>
+    <back><listOrg><org xml:id="wkfm__12131">
+                     <orgName>Gebrüder Rappatsch</orgName>
+                  <noteGrp><note target="wkfm-1395.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1395</note><note target="wkfm-1396.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1396</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

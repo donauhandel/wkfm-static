@@ -93,8 +93,20 @@
                         <forename>Franz Ignaz</forename>
                         <surname>Seuller</surname>
                      </persName>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Leinwandhändler</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1547.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1547</note><note target="wkfm-1548.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1548</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47459">
+                     <orgName>Franz Ignaz Seuller</orgName>
+                  <noteGrp><note target="wkfm-1547.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1547</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

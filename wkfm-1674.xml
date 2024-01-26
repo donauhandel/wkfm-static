@@ -89,7 +89,19 @@
                         <forename>Johann</forename>
                         <surname>Simmerl</surname>
                      </persName>
-                     <death><date>1763</date></death>
+                     <death><date>1763</date></death>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zum Schwarzen Elephanten nächst Mariahilf (Calender 1758)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1673.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1673</note><note target="wkfm-1674.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1674</note></noteGrp></person>

@@ -93,6 +93,15 @@
                         <forename>Johann Martin</forename>
                         <surname>Esslinger</surname>
                      </persName>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__566">Nürnberg</placeName>
+                     <location type="coords"><geo>49.45416666666667 11.0775</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geburtsort">
+                        <placeName key="#wkfm-place__1096">Heidelberg</placeName>
+                     <location type="coords"><geo>49.4075 8.690555555555555</geo></location></residence>
                      <occupation>Handelsmann, Buchhändler</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                      <listBibl>
@@ -104,5 +113,8 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
 205-211, hier 210; Garloff, Confessio et Commercium,&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt; 202.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0621.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0621</note><note target="wkfm-0622.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0622</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46401">
+                     <orgName>Johann Martin Esslinger</orgName>
+                  <noteGrp><note target="wkfm-0621.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0621</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

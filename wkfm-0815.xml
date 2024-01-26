@@ -88,13 +88,19 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__11264" sameAs="#wkfm__20449 ">
+    <back><listOrg><org xml:id="wkfm__46299">
+                     <orgName>Johann Georg Gengl</orgName>
+                  <noteGrp><note target="wkfm-0815.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0815</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__11264" sameAs="#wkfm__20449 ">
                      <persName>
                         <forename>Johann Georg</forename>
                         <surname>Gengl</surname>
                         <surname type="alt">Gängl</surname>
                      </persName>
                      <death><date>18.03.1732</date></death>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
                <noteGrp><note target="wkfm-0815.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0815</note><note target="wkfm-0816.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0816</note></noteGrp></person>

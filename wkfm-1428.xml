@@ -97,6 +97,9 @@
                         <forename>Johann Georg</forename>
                         <surname>Tschaslawsky</surname>
                      </persName>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Prokurist des Ferdinand Reindl</occupation>
                <noteGrp><note target="wkfm-1427.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1427</note><note target="wkfm-1428.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1428</note></noteGrp></person>
                 <person xml:id="wkfm__46738">
@@ -104,7 +107,19 @@
                         <forename>Ferdinand</forename>
                         <surname>Reindl</surname>
                      </persName>
-                     <death><date>1759</date></death>
+                     <death><date>1759</date></death>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zum Grauen Adler auf dem Salzgries (Calender 1758)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann, Spezereihändler</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <listBibl>

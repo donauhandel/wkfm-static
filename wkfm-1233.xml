@@ -94,11 +94,23 @@
                         <surname>Matessi</surname>
                         <surname type="alt">Mathesy</surname>
                      </persName>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann, Spezereihandelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <listBibl>
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen 455 (April 1730: &amp;#34;Mathesi&amp;#34;).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1233.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1233</note><note target="wkfm-1234.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1234</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46883">
+                     <orgName>Sebastian Matessi</orgName>
+                  <noteGrp><note target="wkfm-1233.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1233</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

@@ -86,12 +86,24 @@
                      <persName>
                         <forename>Fabrizius</forename>
                         <surname>Wurmseher</surname>
-                        <surname type="alt">Wurmseger</surname>
-                        <surname type="alt">Wurmbsegger</surname>
-                        <surname type="alt">Wurmscher</surname>
                         <surname type="alt">Wurmbsecher</surname>
+                        <surname type="alt">Wurmseger</surname>
+                        <surname type="alt">Wurmscher</surname>
+                        <surname type="alt">Wurmbsegger</surname>
                      </persName>
-                     <death><date>1749/50</date></death>
+                     <death><date>1749/50</date></death>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zum Goldenen Hirschen in der Leopoldstadt (Calender 1758, 1723)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <listBibl>

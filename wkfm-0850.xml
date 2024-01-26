@@ -87,7 +87,19 @@
                         <forename>Franz Oswald</forename>
                         <surname>Gropp</surname>
                      </persName>
-                     <death><date>1763</date></death>
+                     <death><date>1763</date></death>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zum Schwarzen Adler auf dem Graben (Calender 1758), Zum Schwarzen Adler nächst dem Krautgässel (Calender 1723)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0849.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0849</note><note target="wkfm-0850.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0850</note></noteGrp></person>

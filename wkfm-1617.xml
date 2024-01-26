@@ -96,12 +96,27 @@
                         <surname>Stockholzer</surname>
                         <surname type="alt">Stöckholzer</surname>
                      </persName>
-                     <death><date>1779?</date></death>
+                     <death><date>1779?</date></death>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zum Mayerhof nächst dem Bischofs-Hof (Calender 1758)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann, Prokurist des Jakob Mayr</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <listBibl>
                         <bibl>Topographie von Niederösterreich, Bd. 5, 167; &amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 539 (Juni 1731).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1197.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1197</note><note target="wkfm-1617.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1617</note><note target="wkfm-1618.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1618</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47511">
+                     <orgName>Jakob Stockholzer (Stöckholzer)</orgName>
+                  <noteGrp><note target="wkfm-1617.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1617</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

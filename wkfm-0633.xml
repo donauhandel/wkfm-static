@@ -99,12 +99,27 @@
                         <forename>Johann Anton</forename>
                         <surname>Enns</surname>
                      </persName>
-                     <death><date>1728</date></death>
+                     <death><date>1728</date></death>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Im Freisinger-Hof (Calender 1723)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <listBibl>
                         <bibl>Huchler, Bürgeraufnahmen, 371.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0633.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0633</note><note target="wkfm-0634.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0634</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46411">
+                     <orgName>Johann Anton Enns</orgName>
+                  <noteGrp><note target="wkfm-0633.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0633</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

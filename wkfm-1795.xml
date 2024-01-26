@@ -90,11 +90,23 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__38567">
+    <back><listOrg><org xml:id="wkfm__47016">
+                     <orgName>Franz Anton Wolfram</orgName>
+                  <noteGrp><note target="wkfm-1795.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1795</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__38567">
                      <persName>
                         <forename>Franz Anton</forename>
                         <surname>Wolfram</surname>
                      </persName>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Leinwandhändler</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <listBibl>

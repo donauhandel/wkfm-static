@@ -90,13 +90,28 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__8272">
+    <back><listOrg><org xml:id="wkfm__10345">
+                     <orgName>Ferdinand Wührer &amp; Co.</orgName>
+                  <noteGrp><note target="wkfm-1713.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1713</note><note target="wkfm-1714.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1714</note></noteGrp></org>
+                <org xml:id="wkfm__46954">
+                     <orgName>Ferdinand Wührer</orgName>
+                  <noteGrp><note target="wkfm-1713.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1713</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__8272">
                      <persName>
                         <forename>Ferdinand</forename>
                         <surname>Wührer</surname>
                      </persName>
                      <birth><date>1674</date></birth>
                      <death><date>12.04.1742</date></death>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geburtsort">
+                        <placeName key="#wkfm-place__1060">Neukirchen am Walde</placeName>
+                     <location type="coords"><geo>48.405833333333334 13.78138888888889</geo></location></residence>
                      <occupation>Handelsmann, Tuchhändler</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
                      <occupation type="aemter">Substitutus des NÖ Wechselgerichts</occupation>

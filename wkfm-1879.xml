@@ -100,15 +100,30 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__8146">
+    <back><listOrg><org xml:id="wkfm__43827">
+                     <orgName>Leb Sinzheim sel. Erben und Verwalter</orgName>
+                  <noteGrp><note target="wkfm-1879.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1879</note><note target="wkfm-1880.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1880</note></noteGrp></org>
+                <org xml:id="wkfm__46625">
+                     <orgName>Leb Sinzheim</orgName>
+                  <noteGrp><note target="wkfm-1879.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1879</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__8146">
                      <persName>
                         <forename>Leb</forename>
-                        <forename type="alt">Löb b. Chajjim ha-Levi</forename>
                         <forename type="alt">Jehuda Efraim</forename>
+                        <forename type="alt">Löb b. Chajjim ha-Levi</forename>
                         <surname>Sinzheim</surname>
                         <surname type="alt">Sünzheimb</surname>
                      </persName>
                      <death><date>04.06.1744</date></death>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geburtsort">
+                        <placeName key="#wkfm-place__1880">Mannheim</placeName>
+                     <location type="coords"><geo>49.48888888888889 8.466944444444444</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">jüdisch</occupation>
                      <occupation type="aemter">Hofjude</occupation>
@@ -121,6 +136,12 @@
                         <forename>Abraham</forename>
                         <surname>Sinzheim</surname>
                      </persName>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">jüdisch</occupation>
                <noteGrp><note target="wkfm-1879.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1879</note><note target="wkfm-1880.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1880</note></noteGrp></person>
@@ -129,6 +150,12 @@
                         <forename>Salomon</forename>
                         <surname>Sinzheim</surname>
                      </persName>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">jüdisch</occupation>
                      <occupation type="aemter">Oberfaktor (ksl.)</occupation>

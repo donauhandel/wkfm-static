@@ -90,20 +90,29 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46931">
+    <back><listPerson><person xml:id="wkfm__46930">
+                     <persName>
+                        <forename>Veit Anton</forename>
+                        <surname>Müllnitsch</surname>
+                     </persName>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Tuchhändler</occupation>
+                     <occupation type="kaufmannsklasse">tuchlaubensverwandt/bürgerlich</occupation>
+               <noteGrp><note target="wkfm-1277.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1277</note><note target="wkfm-1278.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1278</note></noteGrp></person>
+                <person xml:id="wkfm__46931">
                      <persName>
                         <forename>Maria Anna Theresia</forename>
                         <surname>Winklerin</surname>
                         <surname type="alt">Müllnitsch</surname>
                      </persName>
                <noteGrp><note target="wkfm-1278.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1278</note></noteGrp></person>
-                <person xml:id="wkfm__46930">
-                     <persName>
-                        <forename>Veit Anton</forename>
-                        <surname>Müllnitsch</surname>
-                     </persName>
-                     <occupation>Tuchhändler</occupation>
-                     <occupation type="kaufmannsklasse">tuchlaubensverwandt/bürgerlich</occupation>
-               <noteGrp><note target="wkfm-1277.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1277</note><note target="wkfm-1278.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1278</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

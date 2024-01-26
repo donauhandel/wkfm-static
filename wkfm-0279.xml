@@ -118,7 +118,19 @@
                         <surname>Pernätschky</surname>
                         <surname type="alt">Pernatschky</surname>
                      </persName>
-                     <death><date>1769, 1771?</date></death>
+                     <death><date>1769, 1771?</date></death>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zum Bauerntanz auf dem Neubau (Calender 1758)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <listBibl>
@@ -130,6 +142,12 @@
                         <forename>Franz Ignaz</forename>
                         <surname>Sinabell</surname>
                      </persName>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Angestellter und Prokurist der Firma Joseph Bernini und Gebrüder, Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
                <noteGrp><note target="wkfm-0164.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0164</note><note target="wkfm-0279.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0279</note><note target="wkfm-1615.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1615</note><note target="wkfm-1616.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1616</note></noteGrp></person>
@@ -139,5 +157,8 @@
                         <surname>Pernätschky</surname>
                      </persName>
                <noteGrp><note target="wkfm-0279.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0279</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47378">
+                     <orgName>Anton Pernätschky</orgName>
+                  <noteGrp><note target="wkfm-0279.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0279</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

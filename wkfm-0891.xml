@@ -102,21 +102,36 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46361">
+    <back><listOrg><org xml:id="wkfm__46360">
+                     <orgName>Anton Jakob Gumpinger</orgName>
+                  <noteGrp><note target="wkfm-0891.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0891</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__46359">
+                     <persName>
+                        <forename>Anton Jakob</forename>
+                        <surname>Gumpinger</surname>
+                     </persName>
+                     <death><date>1781</date></death>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zur Heiligen Dreifaltigkeit auf dem Spittelberg (Calender 1758)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-0891.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0891</note></noteGrp></person>
+                <person xml:id="wkfm__46361">
                      <persName>
                         <forename>Gottfried</forename>
                         <surname>Thurner</surname>
                      </persName>
                      <occupation type="aemter">Richter</occupation>
-               <noteGrp><note target="wkfm-0891.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0891</note></noteGrp></person>
-                <person xml:id="wkfm__46359">
-                     <persName>
-                        <forename>Anton Jakob</forename>
-                        <surname>Gumpinger</surname>
-                     </persName>
-                     <death><date>1781</date></death>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0891.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0891</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

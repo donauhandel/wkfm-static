@@ -96,11 +96,32 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43868">
+    <back><listOrg><org xml:id="wkfm__46638">
+                     <orgName>Jakob Ingruber</orgName>
+                  <noteGrp><note target="wkfm-1077.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1077</note></noteGrp></org>
+                <org xml:id="wkfm__43869">
+                     <orgName>Jakob Ingruber &amp; Co.</orgName>
+                  <noteGrp><note target="wkfm-1077.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1077</note><note target="wkfm-1078.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1078</note><note target="wkfm-1579.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1579</note><note target="wkfm-1580.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1580</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__43868">
                      <persName>
                         <forename>Jakob</forename>
                         <surname>Ingruber</surname>
                      </persName>
+                     <affiliation>
+                        <orgName key="#wkfm__43869">Jakob Ingruber &amp; Co.</orgName>
+                     </affiliation>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zum Englischen Maderl auf dem Graben (Calender 1723)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <listBibl>

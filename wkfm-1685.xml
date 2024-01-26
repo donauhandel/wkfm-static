@@ -113,20 +113,35 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47598">
-                     <persName>
-                        <forename>Andre</forename>
-                        <surname>Simmerl</surname>
-                     </persName>
-                     <death><date>1775</date></death>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-1685.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1685</note><note target="wkfm-1686.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1686</note></noteGrp></person>
-                <person xml:id="wkfm__47579">
+    <back><listOrg><org xml:id="wkfm__44011">
+                     <orgName>Karl Barbieri sel. Söhne und Erben, Barbieri sel. Söhne</orgName>
+                  <noteGrp><note target="wkfm-0305.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0305</note><note target="wkfm-0306.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0306</note><note target="wkfm-1685.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1685</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__47579">
                      <persName>
                         <forename>Maria Magdalena</forename>
                         <surname>Mayrhoferin</surname>
                      </persName>
                <noteGrp><note target="wkfm-1673.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1673</note><note target="wkfm-1685.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1685</note></noteGrp></person>
+                <person xml:id="wkfm__47598">
+                     <persName>
+                        <forename>Andre</forename>
+                        <surname>Simmerl</surname>
+                     </persName>
+                     <death><date>1775</date></death>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zum Grünen Kranz auf der Wieden (Calender 1758)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-1685.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1685</note><note target="wkfm-1686.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1686</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

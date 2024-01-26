@@ -87,6 +87,9 @@
                         <forename>Gaudenz</forename>
                         <surname>Petrossy</surname>
                      </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Lederhändler</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
                <noteGrp><note target="wkfm-0090.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0090</note><note target="wkfm-0091.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0091</note></noteGrp></person>

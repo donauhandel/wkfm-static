@@ -102,24 +102,36 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__8411" sameAs="#wkfm__10176 ">
-                     <persName>
-                        <forename>Dominicus</forename>
-                        <surname>Vanossi</surname>
-                     </persName>
-                     <death><date>06.08.1768</date></death>
-                     <occupation>Prokurist des Anton Cerletti, Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-                     <listBibl>
-                        <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 549 (August 1726).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-0363.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0363</note><note target="wkfm-0473.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0473</note><note target="wkfm-0725.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0725</note><note target="wkfm-0726.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0726</note></noteGrp></person>
-                <person xml:id="wkfm__47093">
+    <back><listPerson><person xml:id="wkfm__47093">
                      <persName>
                         <forename>Elisabeth</forename>
                         <surname>Erhardtin</surname>
                         <surname type="alt">Vanossi</surname>
                      </persName>
                <noteGrp><note target="wkfm-0726.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0726</note></noteGrp></person>
+                <person xml:id="wkfm__8411" sameAs="#wkfm__10176 ">
+                     <persName>
+                        <forename>Dominicus</forename>
+                        <surname>Vanossi</surname>
+                     </persName>
+                     <death><date>06.08.1768</date></death>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zum Goldenen Einhorn nächst dem Bischofs-Hof (Calender 1758)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Prokurist des Anton Cerletti, Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+                     <listBibl>
+                        <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 549 (August 1726).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0363.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0363</note><note target="wkfm-0473.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0473</note><note target="wkfm-0725.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0725</note><note target="wkfm-0726.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0726</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

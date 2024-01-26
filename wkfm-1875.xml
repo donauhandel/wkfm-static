@@ -95,11 +95,20 @@
                         <forename>Judith</forename>
                         <surname>Oppenheimerin</surname>
                      </persName>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsfrau</occupation>
                      <occupation type="kaufmannsklasse">jüdisch</occupation>
                      <listBibl>
                         <bibl>Wachstein, Die Wiener Juden in Handel und Industrie.</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1875.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1875</note><note target="wkfm-1876.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1876</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46623">
+                     <orgName>Judith Oppenheimerin Witwe</orgName>
+                  <noteGrp><note target="wkfm-1875.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1875</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

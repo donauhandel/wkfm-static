@@ -92,36 +92,57 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__11130">
-                     <persName>
-                        <forename>Marx</forename>
-                        <forename type="alt">Markus</forename>
-                        <surname>Hirschl</surname>
-                     </persName>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">jüdisch</occupation>
-                     <listBibl>
-                        <bibl>Wachstein, Die Wiener Juden in Handel und Industrie.</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-1861.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1861</note><note target="wkfm-1862.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1862</note><note target="wkfm-1863.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1863</note><note target="wkfm-1864.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1864</note></noteGrp></person>
-                <person xml:id="wkfm__43823">
-                     <persName>
-                        <forename>Philipp</forename>
-                        <surname>Hirschl</surname>
-                     </persName>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">jüdisch</occupation>
-               <noteGrp><note target="wkfm-1862.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1862</note><note target="wkfm-1863.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1863</note><note target="wkfm-1864.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1864</note></noteGrp></person>
-                <person xml:id="wkfm__43822">
+    <back><listPerson><person xml:id="wkfm__43822">
                      <persName>
                         <forename>Mayr</forename>
                         <surname>Hirschl</surname>
                      </persName>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">jüdisch</occupation>
                      <listBibl>
                         <bibl>Wachstein, Die Wiener Juden in Handel und Industrie.</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1861.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1861</note><note target="wkfm-1862.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1862</note></noteGrp></person>
-                </listPerson></back></text>
+                <person xml:id="wkfm__43823">
+                     <persName>
+                        <forename>Philipp</forename>
+                        <surname>Hirschl</surname>
+                     </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">jüdisch</occupation>
+               <noteGrp><note target="wkfm-1862.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1862</note><note target="wkfm-1863.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1863</note><note target="wkfm-1864.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1864</note></noteGrp></person>
+                <person xml:id="wkfm__11130">
+                     <persName>
+                        <forename>Marx</forename>
+                        <forename type="alt">Markus</forename>
+                        <surname>Hirschl</surname>
+                     </persName>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">jüdisch</occupation>
+                     <listBibl>
+                        <bibl>Wachstein, Die Wiener Juden in Handel und Industrie.</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-1861.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1861</note><note target="wkfm-1862.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1862</note><note target="wkfm-1863.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1863</note><note target="wkfm-1864.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1864</note></noteGrp></person>
+                </listPerson><listOrg><org xml:id="wkfm__46616">
+                     <orgName>Marx Hirschl</orgName>
+                  <noteGrp><note target="wkfm-1861.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1861</note><note target="wkfm-1862.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1862</note><note target="wkfm-1863.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1863</note></noteGrp></org>
+                <org xml:id="wkfm__43820">
+                     <orgName>Lazarus Hirschl Erben</orgName>
+                  <noteGrp><note target="wkfm-1861.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1861</note><note target="wkfm-1862.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1862</note><note target="wkfm-1863.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1863</note><note target="wkfm-1864.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1864</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

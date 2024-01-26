@@ -90,12 +90,18 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__42596" sameAs="#wkfm__18529 wkfm__19285 ">
+    <back><listOrg><org xml:id="wkfm__46451">
+                     <orgName>Johann Zacharias Hechenberger</orgName>
+                  <noteGrp><note target="wkfm-0947.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0947</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__42596" sameAs="#wkfm__18529 wkfm__19285 ">
                      <persName>
                         <forename>Johann Zacharias</forename>
                         <surname>Hechenberger</surname>
                         <surname type="alt">Höchenberger</surname>
                      </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Leinwandhändler</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
                <noteGrp><note target="wkfm-0947.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0947</note><note target="wkfm-0948.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0948</note></noteGrp></person>

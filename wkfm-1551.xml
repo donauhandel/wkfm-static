@@ -90,12 +90,30 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__24868">
+    <back><listOrg><org xml:id="wkfm__47462">
+                     <orgName>Johann Anton Scharnagl</orgName>
+                  <noteGrp><note target="wkfm-1551.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1551</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__24868">
                      <persName>
                         <forename>Johann Anton</forename>
                         <surname>Scharnagl</surname>
                      </persName>
                      <death><date>1745</date></death>
+                     <residence type="Geburtsort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Herkunft-Aschach">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Leinwandhändler</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <listBibl>

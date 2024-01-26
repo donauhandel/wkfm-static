@@ -92,6 +92,9 @@
                         <forename type="alt">Freitcha</forename>
                         <surname>Simonin</surname>
                      </persName>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Ehefrau und Prokuristin des Samuel Simon</occupation>
                      <occupation type="kaufmannsklasse">jüdisch</occupation>
                <noteGrp><note target="wkfm-1887.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1887</note><note target="wkfm-1888.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1888</note></noteGrp></person>

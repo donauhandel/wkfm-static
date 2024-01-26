@@ -88,6 +88,9 @@
                         <surname>Hofegger</surname>
                         <surname type="alt">Hofeckher</surname>
                      </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
                <noteGrp><note target="wkfm-0937.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0937</note><note target="wkfm-0938.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0938</note></noteGrp></person>

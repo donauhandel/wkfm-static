@@ -88,12 +88,24 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__38711">
+    <back><listOrg><org xml:id="wkfm__46715">
+                     <orgName>Johann Baptist Roschat</orgName>
+                  <noteGrp><note target="wkfm-1403.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1403</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__38711">
                      <persName>
                         <forename>Johann Baptist</forename>
                         <forename type="alt">Jean Babtiste</forename>
                         <surname>Roschat</surname>
                      </persName>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1403.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1403</note><note target="wkfm-1404.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1404</note></noteGrp></person>

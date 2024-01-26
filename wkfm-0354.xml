@@ -86,10 +86,16 @@
                      <persName>
                         <forename>Johann Michael</forename>
                         <surname>Körgl</surname>
-                        <surname type="alt">Khärgl</surname>
                         <surname type="alt">Khörgl</surname>
+                        <surname type="alt">Khärgl</surname>
                      </persName>
                      <death><date>1728</date></death>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
                <noteGrp><note target="wkfm-0353.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0353</note><note target="wkfm-0354.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0354</note></noteGrp></person>

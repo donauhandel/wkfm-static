@@ -100,14 +100,35 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47519">
+    <back><listOrg><org xml:id="wkfm__47520">
+                     <orgName>Johann Gottlieb Schönthann</orgName>
+                  <noteGrp><note target="wkfm-1623.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1623</note></noteGrp></org>
+                <org xml:id="wkfm__8105">
+                     <orgName>Philipp Gundian sel. Erben</orgName>
+                  <noteGrp><note target="wkfm-0827.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0827</note><note target="wkfm-0828.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0828</note><note target="wkfm-1623.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1623</note><note target="wkfm-1624.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1624</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__47519">
                      <persName>
                         <forename>Johann Gottlieb</forename>
                         <surname>Schönthann</surname>
-                        <surname type="alt">Schönthan von Pernwaldt</surname>
                         <surname type="alt">Schenthan</surname>
+                        <surname type="alt">Schönthan von Pernwaldt</surname>
                      </persName>
                      <death><date>1772</date></death>
+                     <affiliation>
+                        <orgName key="#wkfm__8105">Philipp Gundian sel. Erben</orgName>
+                     </affiliation>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Auf dem alten Bauernmarkt (Calender 1758)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <listBibl>

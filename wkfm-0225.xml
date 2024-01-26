@@ -88,11 +88,23 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43920" sameAs="#wkfm__10586 wkfm__11460 ">
+    <back><listOrg><org xml:id="wkfm__47353">
+                     <orgName>Joseph Ferdinand Peinagl</orgName>
+                  <noteGrp><note target="wkfm-0225.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0225</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__43920" sameAs="#wkfm__10586 wkfm__11460 ">
                      <persName>
                         <forename>Joseph Ferdinand</forename>
                         <surname>Peinagl</surname>
                      </persName>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Leinwandhändler</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <listBibl>

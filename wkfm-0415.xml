@@ -94,12 +94,27 @@
                         <forename>Franz</forename>
                         <surname>Königsberger</surname>
                         <surname type="alt">Königßberger</surname>
-                     </persName>
+                     </persName>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zum Königsberg auf dem Gaben (Calender 1758)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <listBibl>
                         <bibl>Huchler, Bürgeraufnahmen, 434.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0415.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0415</note><note target="wkfm-0416.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0416</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47239">
+                     <orgName>Franz Königsberger</orgName>
+                  <noteGrp><note target="wkfm-0415.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0415</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

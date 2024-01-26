@@ -97,12 +97,28 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__8615" sameAs="#wkfm__35157 wkfm__35724 ">
+    <back><listPerson><person xml:id="wkfm__43818">
+                     <persName>
+                        <forename>Franz</forename>
+                        <surname>Zienner</surname>
+                     </persName>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Prokurist des Georg Prenz</occupation>
+               <noteGrp><note target="wkfm-0074.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0074</note></noteGrp></person>
+                <person xml:id="wkfm__8615" sameAs="#wkfm__35157 wkfm__35724 ">
                      <persName>
                         <forename>Georg</forename>
                         <surname>Prenz</surname>
                         <surname type="alt">Pränz</surname>
                      </persName>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
                      <occupation type="aemter">Assessor am NÖ Wechselgericht (1. Instanz)</occupation>
@@ -110,12 +126,8 @@
                         <bibl>Johann Christian Lünig, Theatrum Ceremoniale Historico-Politicum, Bd. 2 (Leipzig 1720) 1575; Staats- und Standeskalender 1723, 242..</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0074.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0074</note><note target="wkfm-0075.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0075</note></noteGrp></person>
-                <person xml:id="wkfm__43818">
-                     <persName>
-                        <forename>Franz</forename>
-                        <surname>Zienner</surname>
-                     </persName>
-                     <occupation>Prokurist des Georg Prenz</occupation>
-               <noteGrp><note target="wkfm-0074.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0074</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47278">
+                     <orgName>Georg Prenz</orgName>
+                  <noteGrp><note target="wkfm-0074.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0074</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

@@ -90,20 +90,29 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46382">
-                     <persName>
-                        <forename>Johann Friedrich</forename>
-                        <surname>Gropp</surname>
-                     </persName>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-0905.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0905</note><note target="wkfm-0906.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0906</note></noteGrp></person>
-                <person xml:id="wkfm__46384">
+    <back><listPerson><person xml:id="wkfm__46384">
                      <persName>
                         <forename>Anna Maria</forename>
                         <surname>Reitzin</surname>
                         <surname type="alt">Gropp</surname>
                      </persName>
                <noteGrp><note target="wkfm-0906.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0906</note></noteGrp></person>
+                <person xml:id="wkfm__46382">
+                     <persName>
+                        <forename>Johann Friedrich</forename>
+                        <surname>Gropp</surname>
+                     </persName>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-0905.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0905</note><note target="wkfm-0906.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0906</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

@@ -94,11 +94,26 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46229">
+    <back><listOrg><org xml:id="wkfm__46230">
+                     <orgName>Franz Togneti</orgName>
+                  <noteGrp><note target="wkfm-0551.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0551</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__46229">
                      <persName>
                         <forename>Franz</forename>
                         <surname>Togneti</surname>
-                     </persName>
+                     </persName>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Im Huterischen Haus in der kleinen Dorothee-Gasse (Calender 1723)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <listBibl>

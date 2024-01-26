@@ -90,24 +90,36 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__34998">
-                     <persName>
-                        <forename>Johann Peter</forename>
-                        <surname>Scanzoni</surname>
-                     </persName>
-                     <death><date>1772</date></death>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-                     <listBibl>
-                        <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 510.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-1633.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1633</note><note target="wkfm-1634.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1634</note></noteGrp></person>
-                <person xml:id="wkfm__47536">
+    <back><listPerson><person xml:id="wkfm__47536">
                      <persName>
                         <forename>Maria Katharina</forename>
                         <surname>Bleein [?]</surname>
                         <surname type="alt">Scanzoni</surname>
                      </persName>
                <noteGrp><note target="wkfm-1634.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1634</note></noteGrp></person>
+                <person xml:id="wkfm__34998">
+                     <persName>
+                        <forename>Johann Peter</forename>
+                        <surname>Scanzoni</surname>
+                     </persName>
+                     <death><date>1772</date></death>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Im Hüttnerischen Haus in der unteren Bäckerstraße (Calender 1759)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+                     <listBibl>
+                        <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 510.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-1633.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1633</note><note target="wkfm-1634.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1634</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

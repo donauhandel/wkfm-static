@@ -87,11 +87,23 @@
                      <persName>
                         <forename>Johann Michael</forename>
                         <surname>Kutzilinger</surname>
-                        <surname type="alt">Kutzlinger</surname>
-                        <surname type="alt">Kuttinger</surname>
                         <surname type="alt">Kutzillinger</surname>
+                        <surname type="alt">Kuttinger</surname>
+                        <surname type="alt">Kutzlinger</surname>
                      </persName>
-                     <death><date>1742</date></death>
+                     <death><date>1742</date></death>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zum Weißen Rössel in der Bognergasse (Calender 1723)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <listBibl>

@@ -137,28 +137,49 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__9287" sameAs="#wkfm__7559 ">
+    <back><listPerson><person xml:id="wkfm__46935">
                      <persName>
-                        <forename>Daniel</forename>
-                        <surname>Wohlgemut</surname>
+                        <forename>Julius Friedrich</forename>
+                        <surname>Coith</surname>
                      </persName>
-                     <occupation>Handelsmann</occupation>
+                     <death><date>1775</date></death>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Kassier und Prokurist bei Georg Christoph Müller</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                      <listBibl>
-                        <bibl>Senfelder, Gottesacker, 260.</bibl>
+                        <bibl>&amp;lt;span&amp;gt;Mittenzwei, Zwischen Gestern und Morgen, 25 (zum Todesjahr) 85 (zur ev. Religion der Coith)&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
-               <noteGrp><note target="wkfm-0289.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0289</note><note target="wkfm-1279.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1279</note><note target="wkfm-1280.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1280</note><note target="wkfm-1709.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1709</note><note target="wkfm-1710.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1710</note></noteGrp></person>
+               <noteGrp><note target="wkfm-1279.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1279</note><note target="wkfm-1280.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1280</note></noteGrp></person>
                 <person xml:id="wkfm__46932">
                      <persName>
                         <forename>Georg Christoph</forename>
                         <surname>Müller</surname>
                      </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Angestellter bei Daniel Wohlgemut, Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                      <listBibl>
                         <bibl>Mittenzwei, Zwischen Gestern und Morgen, 120; Senfelder, Gottesacker, 260.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1279.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1279</note><note target="wkfm-1280.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1280</note><note target="wkfm-1709.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1709</note></noteGrp></person>
+                <person xml:id="wkfm__9287" sameAs="#wkfm__7559 ">
+                     <persName>
+                        <forename>Daniel</forename>
+                        <surname>Wohlgemut</surname>
+                     </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+                     <listBibl>
+                        <bibl>Senfelder, Gottesacker, 260.</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0289.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0289</note><note target="wkfm-1279.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1279</note><note target="wkfm-1280.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1280</note><note target="wkfm-1709.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1709</note><note target="wkfm-1710.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1710</note></noteGrp></person>
                 <person xml:id="wkfm__46936">
                      <persName>
                         <forename>None</forename>
@@ -166,17 +187,8 @@
                      </persName>
                      <death><date>1792</date></death>
                <noteGrp><note target="wkfm-1280.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1280</note></noteGrp></person>
-                <person xml:id="wkfm__46935">
-                     <persName>
-                        <forename>Julius Friedrich</forename>
-                        <surname>Coith</surname>
-                     </persName>
-                     <death><date>1775</date></death>
-                     <occupation>Kassier und Prokurist bei Georg Christoph Müller</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-                     <listBibl>
-                        <bibl>&amp;lt;span&amp;gt;Mittenzwei, Zwischen Gestern und Morgen, 25 (zum Todesjahr) 85 (zur ev. Religion der Coith)&amp;lt;/span&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-1279.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1279</note><note target="wkfm-1280.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1280</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46934">
+                     <orgName>Georg Christoph Müller &amp; Co.</orgName>
+                  <noteGrp><note target="wkfm-1279.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1279</note><note target="wkfm-1280.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1280</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

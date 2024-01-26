@@ -109,12 +109,27 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46830">
+    <back><listOrg><org xml:id="wkfm__46831">
+                     <orgName>Sebastian Lanser</orgName>
+                  <noteGrp><note target="wkfm-1171.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1171</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__46830">
                      <persName>
                         <forename>Sebastian</forename>
                         <surname>Lanser</surname>
                      </persName>
-                     <death><date>1770</date></death>
+                     <death><date>1770</date></death>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zum Goldenen Stern in der Wollzeile (Calender 1758)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann, Angestellter bei Veronese</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <listBibl>
@@ -125,8 +140,8 @@
                      <persName>
                         <forename>Anna Christina</forename>
                         <surname>Veronesin</surname>
-                        <surname type="alt">Wagnerin</surname>
                         <surname type="alt">Lanser</surname>
+                        <surname type="alt">Wagnerin</surname>
                         <surname type="alt"/>
                      </persName>
                <noteGrp><note target="wkfm-0754.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0754</note><note target="wkfm-1171.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1171</note><note target="wkfm-1172.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1172</note></noteGrp></person>

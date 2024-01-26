@@ -97,11 +97,26 @@
                         <forename>Franz Joseph</forename>
                         <surname>Lehner</surname>
                      </persName>
+                     <residence type="Geburtsort">
+                        <placeName key="#wkfm-place__706">Ried</placeName>
+                     <location type="coords"><geo>48.211111111111116 13.488333333333333</geo></location></residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <listBibl>
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 444.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1129.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1129</note><note target="wkfm-1130.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1130</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46801">
+                     <orgName>Franz Joseph Lehner</orgName>
+                  <noteGrp><note target="wkfm-1129.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1129</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

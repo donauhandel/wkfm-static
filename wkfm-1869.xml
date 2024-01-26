@@ -88,12 +88,21 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43824">
+    <back><listOrg><org xml:id="wkfm__46620">
+                     <orgName>Samuel Isaak Leidesdorf</orgName>
+                  <noteGrp><note target="wkfm-1869.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1869</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__43824">
                      <persName>
                         <forename>Samuel Isaak</forename>
                         <surname>Leidersdorfer</surname>
                         <surname type="alt">Leidesdorf</surname>
                      </persName>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">jüdisch</occupation>
                      <listBibl>

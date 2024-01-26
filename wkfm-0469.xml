@@ -105,11 +105,17 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46167">
+    <back><listOrg><org xml:id="wkfm__47260">
+                     <orgName>Joseph Kollmann</orgName>
+                  <noteGrp><note target="wkfm-0469.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0469</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__46167">
                      <persName>
                         <forename>Johann Franz</forename>
                         <surname>Jaccoud</surname>
                      </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Angesteller und Prokurist bei Joseph Kollmann, Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                      <listBibl>
@@ -122,6 +128,9 @@
                         <surname>Kollmann</surname>
                         <surname type="alt">Kolman</surname>
                      </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                      <listBibl>

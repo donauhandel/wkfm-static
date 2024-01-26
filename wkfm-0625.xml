@@ -92,12 +92,27 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46403">
+    <back><listOrg><org xml:id="wkfm__46404">
+                     <orgName>Hieronymus Eberl</orgName>
+                  <noteGrp><note target="wkfm-0625.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0625</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__46403">
                      <persName>
                         <forename>Hieronymus</forename>
                         <surname>Eberl</surname>
                      </persName>
-                     <death><date>1741</date></death>
+                     <death><date>1741</date></death>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Bei der Goldenen Gans (Calender 1723)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0625.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0625</note><note target="wkfm-0626.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0626</note></noteGrp></person>

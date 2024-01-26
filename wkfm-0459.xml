@@ -96,12 +96,33 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43895">
+    <back><listOrg><org xml:id="wkfm__20610">
+                     <orgName>Peter und Krazer</orgName>
+                  <noteGrp><note target="wkfm-0182.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0182</note><note target="wkfm-0183.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0183</note><note target="wkfm-0459.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0459</note><note target="wkfm-0460.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0460</note></noteGrp></org>
+                <org xml:id="wkfm__47334">
+                     <orgName>Michael Justus Krazer</orgName>
+                  <noteGrp><note target="wkfm-0459.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0459</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__43895">
                      <persName>
                         <forename>Michael Justus</forename>
                         <surname>Krazer</surname>
                         <surname type="alt">Kratzer</surname>
                      </persName>
+                     <affiliation>
+                        <orgName key="#wkfm__20610">Peter und Krazer</orgName>
+                     </affiliation>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zur Roten Rose auf dem Stock im Eisen-Platz (Calender 1758)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <listBibl>
@@ -114,6 +135,15 @@
                         <surname>Peter</surname>
                      </persName>
                      <death><date>1746</date></death>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Prokurist der Firma Johann Baptist Thann sel. Erben, Handelsmann</occupation>
                      <listBibl>
                         <bibl>Huchler, Bürgeraufnahmen,&amp;amp;nbsp;481.</bibl>

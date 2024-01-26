@@ -92,11 +92,29 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__10909" sameAs="#wkfm__17808 ">
+    <back><listOrg><org xml:id="wkfm__46232">
+                     <orgName>Kaspar Teibler</orgName>
+                  <noteGrp><note target="wkfm-0555.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0555</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__10909" sameAs="#wkfm__17808 ">
                      <persName>
                         <forename>Kaspar</forename>
                         <surname>Teibler</surname>
                      </persName>
+                     <residence type="Geburtsort">
+                        <placeName key="#wkfm-place__396">Korneuburg</placeName>
+                     <location type="coords"><geo>48.35 16.333333333333332</geo></location></residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Herkunft-Aschach">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Leinwandhändler</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0555.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0555</note><note target="wkfm-0556.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0556</note></noteGrp></person>

@@ -82,5 +82,8 @@
             
         </div>
       </body>
-    <back/></text>
+    <back><listOrg><org xml:id="wkfm__47311">
+                     <orgName>Leopold Pfefferl</orgName>
+                  <noteGrp><note target="wkfm-0140.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0140</note><note target="wkfm-0141.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0141</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

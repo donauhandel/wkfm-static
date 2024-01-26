@@ -97,8 +97,17 @@
                         <forename>Johann Bernhard</forename>
                         <surname>Büttner</surname>
                      </persName>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Goldarbeiter</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
                <noteGrp><note target="wkfm-0084.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0084</note><note target="wkfm-0085.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0085</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47282">
+                     <orgName>Johann Bernhard Büttner</orgName>
+                  <noteGrp><note target="wkfm-0084.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0084</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

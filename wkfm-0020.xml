@@ -94,11 +94,29 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__8490">
+    <back><listOrg><org xml:id="wkfm__46584">
+                     <orgName>Michael Albrechtsberger</orgName>
+                  <noteGrp><note target="wkfm-0020.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0020</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__8490">
                      <persName>
                         <forename>Michael</forename>
                         <surname>Albrechtsberger</surname>
-                     </persName>
+                     </persName>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zum Blauen Adler nächst dem Krautgässel (Calender 1723)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geburtsort">
+                        <placeName key="#wkfm-place__964">Ybbs</placeName>
+                     <location type="coords"><geo>48.166666666666664 15.083333333333334</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <listBibl>

@@ -90,12 +90,27 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47600">
+    <back><listOrg><org xml:id="wkfm__47601">
+                     <orgName>Karl Stapf</orgName>
+                  <noteGrp><note target="wkfm-1687.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1687</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__47600">
                      <persName>
                         <forename>Karl</forename>
                         <surname>Stapf</surname>
                      </persName>
-                     <death><date>1758</date></death>
+                     <death><date>1758</date></death>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Bei der Weltkugel auf dem Graben (Calender 1758)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1687.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1687</note></noteGrp></person>

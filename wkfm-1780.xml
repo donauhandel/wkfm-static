@@ -94,13 +94,25 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__25454" sameAs="#wkfm__21999 ">
+    <back><listOrg><org xml:id="wkfm__46339">
+                     <orgName>Gschaider und Wippacher</orgName>
+                  <noteGrp><note target="wkfm-0869.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0869</note><note target="wkfm-0870.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0870</note><note target="wkfm-1779.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1779</note><note target="wkfm-1780.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1780</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__25454" sameAs="#wkfm__21999 ">
                      <persName>
                         <forename>Matthias Franz</forename>
                         <forename type="alt">Franz</forename>
                         <surname>Gschaider</surname>
                         <surname type="alt">Gschaidter</surname>
                      </persName>
+                     <residence type="Geburtsort">
+                        <placeName key="#wkfm-place__887">Waidhofen an der Ybbs</placeName>
+                     <location type="coords"><geo>47.96 14.773611111111112</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann, Angestellter und Prokurist des Lorenz Heigl</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                <noteGrp><note target="wkfm-0869.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0869</note><note target="wkfm-0870.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0870</note><note target="wkfm-0941.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0941</note><note target="wkfm-1780.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1780</note></noteGrp></person>
@@ -109,6 +121,9 @@
                         <forename>Paul</forename>
                         <surname>Wippacher</surname>
                      </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                <noteGrp><note target="wkfm-0870.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0870</note><note target="wkfm-1779.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1779</note><note target="wkfm-1780.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1780</note></noteGrp></person>

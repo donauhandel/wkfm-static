@@ -92,5 +92,8 @@
             
         </div>
       </body>
-    <back/></text>
+    <back><listOrg><org xml:id="wkfm__46637">
+                     <orgName>Joseph Jenamy</orgName>
+                  <noteGrp><note target="wkfm-1075.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1075</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

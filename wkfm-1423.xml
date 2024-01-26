@@ -95,8 +95,17 @@
                         <forename>Joseph</forename>
                         <surname>Reich</surname>
                      </persName>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Leinwandhändler</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
                <noteGrp><note target="wkfm-1423.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1423</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46734">
+                     <orgName>Joseph Reich</orgName>
+                  <noteGrp><note target="wkfm-1423.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1423</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

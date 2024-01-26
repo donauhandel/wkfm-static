@@ -105,22 +105,40 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__9414">
+    <back><listPerson><person xml:id="wkfm__43817">
+                     <persName>
+                        <forename>Anton</forename>
+                        <surname>Piecchenini</surname>
+                     </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+               <noteGrp><note target="wkfm-0072.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0072</note><note target="wkfm-0073.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0073</note></noteGrp></person>
+                <person xml:id="wkfm__9414">
                      <persName>
                         <forename>Paul</forename>
                         <surname>Piecchenini</surname>
                         <surname type="alt">Bichenini</surname>
                      </persName>
+                     <residence type="Geburtsort">
+                        <placeName key="#wkfm-place__874">Venedig</placeName>
+                     <location type="coords"><geo>45.43694444444444 12.3325</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                <noteGrp><note target="wkfm-0072.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0072</note><note target="wkfm-0073.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0073</note></noteGrp></person>
-                <person xml:id="wkfm__43817">
-                     <persName>
-                        <forename>Anton</forename>
-                        <surname>Piecchenini</surname>
-                     </persName>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-               <noteGrp><note target="wkfm-0072.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0072</note><note target="wkfm-0073.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0073</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47277">
+                     <orgName>Paul Piecchenini</orgName>
+                  <noteGrp><note target="wkfm-0072.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0072</note></noteGrp></org>
+                <org xml:id="wkfm__43816">
+                     <orgName>Paul Piecchenini &amp; Sohn</orgName>
+                  <noteGrp><note target="wkfm-0072.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0072</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

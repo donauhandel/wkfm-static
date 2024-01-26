@@ -96,5 +96,8 @@
                         <surname>Condray</surname>
                      </persName>
                <noteGrp><note target="wkfm-0450.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0450</note><note target="wkfm-0451.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0451</note><note target="wkfm-0452.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0452</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46147">
+                     <orgName>Peter Condray und Joseph Condray</orgName>
+                  <noteGrp><note target="wkfm-0449.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0449</note><note target="wkfm-0450.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0450</note><note target="wkfm-0451.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0451</note><note target="wkfm-0452.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0452</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

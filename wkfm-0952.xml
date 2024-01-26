@@ -90,6 +90,9 @@
                         <surname>Hauzenberger</surname>
                      </persName>
                      <death><date>1733</date></death>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann, Wechsler</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
                <noteGrp><note target="wkfm-0951.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0951</note><note target="wkfm-0952.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0952</note></noteGrp></person>

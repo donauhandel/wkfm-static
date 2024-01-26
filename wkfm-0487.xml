@@ -119,12 +119,30 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46180">
+    <back><listOrg><org xml:id="wkfm__46152">
+                     <orgName>Crettier, Bouvard &amp; Co.</orgName>
+                  <noteGrp><note target="wkfm-0457.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0457</note><note target="wkfm-0458.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0458</note><note target="wkfm-0487.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0487</note></noteGrp></org>
+                <org xml:id="wkfm__47266">
+                     <orgName>Franz Kritsch</orgName>
+                  <noteGrp><note target="wkfm-0487.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0487</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__46180">
                      <persName>
                         <forename>Franz</forename>
                         <surname>Kritsch</surname>
                      </persName>
-                     <death><date>1780</date></death>
+                     <death><date>1780</date></death>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zum Prinz von Lothringen im Freisingerhof (Calender 1758)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0487.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0487</note><note target="wkfm-0488.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0488</note></noteGrp></person>

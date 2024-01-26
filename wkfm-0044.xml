@@ -105,6 +105,9 @@
                         <forename>Bernhard</forename>
                         <surname>Adam</surname>
                      </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                <noteGrp><note target="wkfm-0044.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0044</note></noteGrp></person>
@@ -114,10 +117,16 @@
                         <surname>Adam</surname>
                      </persName>
                      <death><date>1743</date></death>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann, Prokurist seines Bruders Bernhard Adam</occupation>
                      <listBibl>
                         <bibl>&amp;lt;span&amp;gt;Kröpfel, Protestantismus, Anhang 1, S. 5.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0044.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0044</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46597">
+                     <orgName>Bernhard Adam</orgName>
+                  <noteGrp><note target="wkfm-0044.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0044</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

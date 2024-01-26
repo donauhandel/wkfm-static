@@ -128,13 +128,25 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47556">
+    <back><listOrg><org xml:id="wkfm__26242">
+                     <orgName>Gebrüder Crettier (Freres/Fratres Crettier), Gebrüder Crettier &amp; Co.</orgName>
+                  <noteGrp><note target="wkfm-0457.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0457</note><note target="wkfm-0458.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0458</note><note target="wkfm-1651.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1651</note></noteGrp></org>
+                <org xml:id="wkfm__47555">
+                     <orgName>Claudius Saliet und Bruder</orgName>
+                  <noteGrp><note target="wkfm-1651.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1651</note><note target="wkfm-1652.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1652</note></noteGrp></org>
+                <org xml:id="wkfm__47553">
+                     <orgName>Saliet und Pernat</orgName>
+                  <noteGrp><note target="wkfm-1651.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1651</note><note target="wkfm-1652.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1652</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__47556">
                      <persName>
                         <forename>Michael</forename>
                         <surname>Saliet</surname>
                         <surname type="alt">Salliet</surname>
                      </persName>
                      <death><date>1782</date></death>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                <noteGrp><note target="wkfm-1651.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1651</note><note target="wkfm-1652.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1652</note></noteGrp></person>
@@ -143,6 +155,9 @@
                         <forename>Claudio</forename>
                         <surname>Saliet</surname>
                      </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                      <listBibl>
@@ -154,6 +169,9 @@
                         <forename>Johann</forename>
                         <surname>Pernat</surname>
                      </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                <noteGrp><note target="wkfm-1651.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1651</note><note target="wkfm-1652.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1652</note></noteGrp></person>

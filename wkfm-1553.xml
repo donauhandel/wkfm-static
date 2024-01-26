@@ -93,8 +93,17 @@
                         <forename>Anna Rosina</forename>
                         <surname>Saltzpaurin</surname>
                      </persName>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Leinwandhändlerin</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1553.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1553</note><note target="wkfm-1554.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1554</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47464">
+                     <orgName>Anna Rosina Saltzpaurin</orgName>
+                  <noteGrp><note target="wkfm-1553.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1553</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

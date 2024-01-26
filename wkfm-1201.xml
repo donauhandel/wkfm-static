@@ -105,6 +105,15 @@
                         <forename>Dominicus</forename>
                         <surname>Malengo</surname>
                      </persName>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geburtsort">
+                        <placeName key="#wkfm-place__2540">Salo</placeName>
+                     </residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                      <listBibl>
@@ -116,7 +125,13 @@
                         <forename>Peter</forename>
                         <surname>Scanzoni</surname>
                      </persName>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Prokurist bei Dominicus Malengo</occupation>
                <noteGrp><note target="wkfm-1201.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1201</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46862">
+                     <orgName>Dominicus Malengo</orgName>
+                  <noteGrp><note target="wkfm-1201.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1201</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

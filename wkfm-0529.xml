@@ -94,11 +94,26 @@
                      <persName>
                         <forename>Johann Karl</forename>
                         <surname>Della Roverre</surname>
-                        <surname type="alt">Della Rovere</surname>
                         <surname type="alt">Dela Rofere</surname>
-                     </persName>
+                        <surname type="alt">Della Rovere</surname>
+                     </persName>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zum 3. König am Stock am Eisen (Calender 1723)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0529.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0529</note><note target="wkfm-0530.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0530</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46213">
+                     <orgName>Johann Karl della Roverre</orgName>
+                  <noteGrp><note target="wkfm-0529.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0529</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

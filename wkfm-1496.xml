@@ -88,7 +88,22 @@
                         <surname>Strauß</surname>
                         <surname type="alt">Straus</surname>
                      </persName>
-                     <death><date>1757</date></death>
+                     <death><date>1757</date></death>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zum Straußen auf dem Graben (Calender 1723)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geburtsort">
+                        <placeName key="#wkfm-place__1131">Sarleinsbach</placeName>
+                     <location type="coords"><geo>48.544999999999995 13.904722222222222</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <listBibl>

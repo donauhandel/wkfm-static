@@ -90,19 +90,31 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46944">
-                     <persName>
-                        <forename>Andre Friedrich</forename>
-                        <surname>Mäzinger</surname>
-                     </persName>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-1289.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1289</note><note target="wkfm-1290.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1290</note></noteGrp></person>
-                <person xml:id="wkfm__46945">
+    <back><listPerson><person xml:id="wkfm__46945">
                      <persName>
                         <forename>Anna Maria</forename>
                         <surname>Serponte de Varena</surname>
                      </persName>
                <noteGrp><note target="wkfm-1290.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1290</note></noteGrp></person>
+                <person xml:id="wkfm__46944">
+                     <persName>
+                        <forename>Andre Friedrich</forename>
+                        <surname>Mäzinger</surname>
+                     </persName>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Bei der Silbernen Krone auf dem alten Bauernmarkt (Calender 1758)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-1289.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1289</note><note target="wkfm-1290.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1290</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

@@ -128,6 +128,12 @@
                         <surname>Auffner</surname>
                         <surname type="alt">Voggin</surname>
                      </persName>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsfrau</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0049.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0049</note></noteGrp></person>
@@ -136,12 +142,27 @@
                         <forename>Joseph</forename>
                         <surname>Auffner</surname>
                      </persName>
-                     <death><date>1775</date></death>
+                     <death><date>1775</date></death>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zum Einsiedler auf der Wieden (Calender 1758)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <listBibl>
                         <bibl>Huchler, Bürgeraufnahmen, 342.</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0048.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0048</note><note target="wkfm-0049.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0049</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46599">
+                     <orgName>Joseph Auffner sel. Witwe</orgName>
+                  <noteGrp><note target="wkfm-0049.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0049</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

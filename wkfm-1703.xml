@@ -86,5 +86,8 @@
             
         </div>
       </body>
-    <back/></text>
+    <back><listOrg><org xml:id="wkfm__47513">
+                     <orgName>Gebrüder Smitmer, Fratelli Smitmer (Smittmer)</orgName>
+                  <noteGrp><note target="wkfm-1621.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1621</note><note target="wkfm-1622.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1622</note><note target="wkfm-1703.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1703</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

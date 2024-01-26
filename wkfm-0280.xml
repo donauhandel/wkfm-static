@@ -88,7 +88,19 @@
                         <surname>Pernätschky</surname>
                         <surname type="alt">Pernatschky</surname>
                      </persName>
-                     <death><date>1769, 1771?</date></death>
+                     <death><date>1769, 1771?</date></death>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zum Bauerntanz auf dem Neubau (Calender 1758)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <listBibl>

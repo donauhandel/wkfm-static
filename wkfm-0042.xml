@@ -92,8 +92,20 @@
                         <forename>Johann Jakob</forename>
                         <surname>Allius</surname>
                      </persName>
+                     <residence type="Geburtsort">
+                        <placeName key="#wkfm-place__690">Regensburg</placeName>
+                     <location type="coords"><geo>49.015 12.101388888888888</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                <noteGrp><note target="wkfm-0042.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0042</note><note target="wkfm-0043.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0043</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46596">
+                     <orgName>Johann Jakob Allius</orgName>
+                  <noteGrp><note target="wkfm-0042.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0042</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

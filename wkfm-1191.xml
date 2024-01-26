@@ -96,11 +96,17 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__34278" sameAs="#wkfm__36168 ">
+    <back><listOrg><org xml:id="wkfm__8416">
+                     <orgName>Gebrüder Martinelli, Fratelli Martinelli</orgName>
+                  <noteGrp><note target="wkfm-1189.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1189</note><note target="wkfm-1190.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1190</note><note target="wkfm-1191.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1191</note><note target="wkfm-1192.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1192</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__34278" sameAs="#wkfm__36168 ">
                      <persName>
                         <forename>Johann Anton</forename>
                         <surname>Martinelli</surname>
                      </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
                <noteGrp><note target="wkfm-1190.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1190</note><note target="wkfm-1191.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1191</note><note target="wkfm-1192.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1192</note></noteGrp></person>
@@ -110,6 +116,24 @@
                         <surname>Mader</surname>
                      </persName>
                      <death><date>1754</date></death>
+                     <affiliation>
+                        <orgName key="#wkfm__46716">Hieronymus Rigotti</orgName>
+                     </affiliation>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zu den 3 Weißen Rosen in der Kärntnerstraße (Calender 1758)</placeName>
+                     </residence>
+                     <residence type="Geburtsort">
+                        <placeName key="#wkfm-place__271">Hall</placeName>
+                     <location type="coords"><geo>47.28333333333333 11.516666666666667</geo></location></residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann, Prokurist der Firma Gebrüder Martinelli</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <listBibl>

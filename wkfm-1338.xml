@@ -87,6 +87,15 @@
                         <forename>David</forename>
                         <surname>Ostermayr</surname>
                      </persName>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__40">Augsburg</placeName>
+                     <location type="coords"><geo>48.37138888888889 10.898333333333333</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__40">Augsburg</placeName>
+                     <location type="coords"><geo>48.37138888888889 10.898333333333333</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                      <listBibl>

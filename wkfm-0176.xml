@@ -90,11 +90,26 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__8594" sameAs="#wkfm__9413 wkfm__12262 ">
+    <back><listOrg><org xml:id="wkfm__47331">
+                     <orgName>Johann Christoph Pfizenreither</orgName>
+                  <noteGrp><note target="wkfm-0176.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0176</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__8594" sameAs="#wkfm__9413 wkfm__12262 ">
                      <persName>
                         <forename>Johann Christoph</forename>
                         <surname>Pfizenreither</surname>
-                     </persName>
+                     </persName>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zum Silbernen Anker auf dem Peters-Friedhof (Calender 1758)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <occupation type="aemter">Vorsteher der bürgerl. Handelsleute</occupation>

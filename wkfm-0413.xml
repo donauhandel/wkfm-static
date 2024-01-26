@@ -87,11 +87,26 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46127">
+    <back><listOrg><org xml:id="wkfm__47213">
+                     <orgName>Anton Cleas</orgName>
+                  <noteGrp><note target="wkfm-0361.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0361</note><note target="wkfm-0413.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0413</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__46127">
                      <persName>
                         <forename>Karl Joseph</forename>
                         <surname>Cleas</surname>
                      </persName>
+                     <residence type="Geburtsort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <listBibl>

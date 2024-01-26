@@ -106,12 +106,27 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46833">
+    <back><listOrg><org xml:id="wkfm__46834">
+                     <orgName>Anton Leuthner</orgName>
+                  <noteGrp><note target="wkfm-1173.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1173</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__46833">
                      <persName>
                         <forename>Anton</forename>
                         <surname>Leuthner</surname>
                         <surname type="alt">Leithner</surname>
-                     </persName>
+                     </persName>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zum Jonas im Walfisch auf dem Graben (Calender 1758)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <listBibl>

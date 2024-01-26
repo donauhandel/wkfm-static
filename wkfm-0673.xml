@@ -93,8 +93,20 @@
                         <surname>Fuchs</surname>
                      </persName>
                      <death><date>1731</date></death>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Tuchhändler</occupation>
                      <occupation type="kaufmannsklasse">tuchlaubensverwandt/bürgerlich</occupation>
                <noteGrp><note target="wkfm-0673.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0673</note><note target="wkfm-0674.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0674</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47052">
+                     <orgName>Johann Fuchs</orgName>
+                  <noteGrp><note target="wkfm-0673.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0673</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

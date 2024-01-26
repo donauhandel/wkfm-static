@@ -97,14 +97,29 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__24852">
+    <back><listOrg><org xml:id="wkfm__46909">
+                     <orgName>Stephan Manni</orgName>
+                  <noteGrp><note target="wkfm-1257.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1257</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__24852">
                      <persName>
                         <forename>Stephan</forename>
                         <surname>Manni</surname>
-                        <surname type="alt">Mani</surname>
                         <surname type="alt">Mannj</surname>
+                        <surname type="alt">Mani</surname>
                         <surname type="alt">Manny</surname>
                      </persName>
+                     <residence type="Geburtsort">
+                        <placeName key="#wkfm-place__46">Baden (bei Wien)</placeName>
+                     <location type="coords"><geo>48.00527777777778 16.232499999999998</geo></location></residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <listBibl>

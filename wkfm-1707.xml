@@ -96,11 +96,20 @@
                         <forename>Christian Friedrich</forename>
                         <surname>Wallstorff</surname>
                      </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Sterbeort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                      <listBibl>
                         <bibl>&amp;lt;span&amp;gt;Staats- und Standeskalender 1723, 243; Senfelder, Gottesacker, 241.&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1707.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1707</note><note target="wkfm-1708.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1708</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46948">
+                     <orgName>Christian Friedrich Wallstorff</orgName>
+                  <noteGrp><note target="wkfm-1707.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1707</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

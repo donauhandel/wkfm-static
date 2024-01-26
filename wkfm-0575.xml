@@ -123,6 +123,15 @@
                         <forename>Franz</forename>
                         <surname>Decret</surname>
                      </persName>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geburtsort">
+                        <placeName key="#wkfm-place__2502">Arâches-la-Frasse</placeName>
+                     </residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                      <listBibl>
@@ -137,8 +146,20 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                         <forename>Ludwig</forename>
                         <surname>Decret</surname>
                      </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                <noteGrp><note target="wkfm-0575.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0575</note><note target="wkfm-0576.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0576</note><note target="wkfm-1701.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1701</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__20159">
+                     <orgName>Decret und Crettier</orgName>
+                  <noteGrp><note target="wkfm-0575.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0575</note><note target="wkfm-0576.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0576</note></noteGrp></org>
+                <org xml:id="wkfm__46251">
+                     <orgName>Gebrüder Decret</orgName>
+                  <noteGrp><note target="wkfm-0575.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0575</note><note target="wkfm-0576.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0576</note></noteGrp></org>
+                <org xml:id="wkfm__46256">
+                     <orgName>Franz Decret</orgName>
+                  <noteGrp><note target="wkfm-0575.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0575</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

@@ -88,12 +88,27 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46798" sameAs="#wkfm__35588 ">
+    <back><listOrg><org xml:id="wkfm__46799">
+                     <orgName>Jakob Franz Lischon</orgName>
+                  <noteGrp><note target="wkfm-1127.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1127</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__46798" sameAs="#wkfm__35588 ">
                      <persName>
                         <forename>Jakob Franz</forename>
                         <surname>Lischon</surname>
                      </persName>
-                     <death><date>1750</date></death>
+                     <death><date>1750</date></death>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zum 3. Goldenen Schlüssel nächst St. Stephan (Calender 1723)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1127.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1127</note><note target="wkfm-1128.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1128</note></noteGrp></person>

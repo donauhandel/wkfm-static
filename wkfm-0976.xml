@@ -82,5 +82,8 @@
             
         </div>
       </body>
-    <back/></text>
+    <back><listOrg><org xml:id="wkfm__25274">
+                     <orgName>Höcksteiner und Hink</orgName>
+                  <noteGrp><note target="wkfm-0975.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0975</note><note target="wkfm-0976.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0976</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

@@ -88,11 +88,20 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43851">
+    <back><listOrg><org xml:id="wkfm__47297">
+                     <orgName>Maria Judith Pfandtnerin Witwe</orgName>
+                  <noteGrp><note target="wkfm-0114.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0114</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__43851">
                      <persName>
                         <forename>Maria Judith</forename>
                         <surname>Pfandtnerin</surname>
                      </persName>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsfrau</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <listBibl>

@@ -87,6 +87,15 @@
                         <forename>Johann Rudolf</forename>
                         <surname>Schweighauser</surname>
                      </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geburtsort">
+                        <placeName key="#wkfm-place__2064">Basel</placeName>
+                     <location type="coords"><geo>47.55833333333333 7.573055555555555</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__2064">Basel</placeName>
+                     <location type="coords"><geo>47.55833333333333 7.573055555555555</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                      <listBibl>

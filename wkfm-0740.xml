@@ -108,7 +108,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47104">
+    <back><listOrg><org xml:id="wkfm__15206">
+                     <orgName>Peter Vernay und Pörner</orgName>
+                  <noteGrp><note target="wkfm-0210.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0210</note><note target="wkfm-0212.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0212</note><note target="wkfm-0739.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0739</note><note target="wkfm-0740.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0740</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__47104">
                      <persName>
                         <forename>Anna Maria Theresia</forename>
                         <surname>Tarolinin</surname>
@@ -121,6 +124,15 @@
                         <surname>Pörner</surname>
                         <surname type="alt">Borner</surname>
                      </persName>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <listBibl>
@@ -132,6 +144,15 @@
                         <forename>Peter</forename>
                         <surname>Vernay</surname>
                      </persName>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <listBibl>

@@ -112,6 +112,15 @@
                         <surname>Eibl</surname>
                         <surname type="alt">Eybel</surname>
                      </persName>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <listBibl>
@@ -125,11 +134,26 @@
                         <surname type="alt">Eybel</surname>
                      </persName>
                      <death><date>1756</date></death>
+                     <residence type="Geburtsort">
+                        <placeName key="#wkfm-place__238">Graz</placeName>
+                     <location type="coords"><geo>47.06666666666667 15.45</geo></location></residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <listBibl>
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 273 (Juni 1732: Vorname nur &amp;#34;Sebastian&amp;#34;).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0307.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0307</note><note target="wkfm-0649.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0649</note><note target="wkfm-0650.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0650</note><note target="wkfm-0657.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0657</note><note target="wkfm-0663.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0663</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46440">
+                     <orgName>Joseph Niklas Eibl</orgName>
+                  <noteGrp><note target="wkfm-0663.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0663</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

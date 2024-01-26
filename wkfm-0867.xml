@@ -88,13 +88,25 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46336">
+    <back><listOrg><org xml:id="wkfm__46337">
+                     <orgName>Johannes Grünrisch</orgName>
+                  <noteGrp><note target="wkfm-0867.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0867</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__46336">
                      <persName>
                         <forename>Johann</forename>
                         <surname>Gunrisch</surname>
                         <surname type="alt">Gürisch</surname>
                         <surname type="alt">Günrisch</surname>
                      </persName>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <listBibl>

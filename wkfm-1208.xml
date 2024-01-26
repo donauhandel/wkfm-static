@@ -87,7 +87,22 @@
                         <forename>Leopold</forename>
                         <surname>Macht</surname>
                      </persName>
-                     <death><date>1734</date></death>
+                     <death><date>1734</date></death>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zum Weißen Engel nächst dem Hutstepper-Gässel (Calender 1723)</placeName>
+                     </residence>
+                     <residence type="Geburtsort">
+                        <placeName key="#wkfm-place__508">Meißen</placeName>
+                     <location type="coords"><geo>51.16138888888889 13.473611111111111</geo></location></residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <listBibl>

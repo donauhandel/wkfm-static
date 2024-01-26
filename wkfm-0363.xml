@@ -96,12 +96,24 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__8589">
+    <back><listOrg><org xml:id="wkfm__47214">
+                     <orgName>Anton Cerletti</orgName>
+                  <noteGrp><note target="wkfm-0363.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0363</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__8589">
                      <persName>
                         <forename>Anton</forename>
                         <surname>Cerletti</surname>
                         <surname type="alt">Cerleti</surname>
                      </persName>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <listBibl>
@@ -113,7 +125,19 @@
                         <forename>Dominicus</forename>
                         <surname>Vanossi</surname>
                      </persName>
-                     <death><date>06.08.1768</date></death>
+                     <death><date>06.08.1768</date></death>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zum Goldenen Einhorn nächst dem Bischofs-Hof (Calender 1758)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Prokurist des Anton Cerletti, Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <listBibl>

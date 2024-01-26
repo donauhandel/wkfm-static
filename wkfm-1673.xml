@@ -112,20 +112,35 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47577">
-                     <persName>
-                        <forename>Johann</forename>
-                        <surname>Simmerl</surname>
-                     </persName>
-                     <death><date>1763</date></death>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-1673.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1673</note><note target="wkfm-1674.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1674</note></noteGrp></person>
-                <person xml:id="wkfm__47579">
+    <back><listPerson><person xml:id="wkfm__47579">
                      <persName>
                         <forename>Maria Magdalena</forename>
                         <surname>Mayrhoferin</surname>
                      </persName>
                <noteGrp><note target="wkfm-1673.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1673</note><note target="wkfm-1685.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1685</note></noteGrp></person>
-                </listPerson></back></text>
+                <person xml:id="wkfm__47577">
+                     <persName>
+                        <forename>Johann</forename>
+                        <surname>Simmerl</surname>
+                     </persName>
+                     <death><date>1763</date></death>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zum Schwarzen Elephanten nächst Mariahilf (Calender 1758)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-1673.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1673</note><note target="wkfm-1674.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1674</note></noteGrp></person>
+                </listPerson><listOrg><org xml:id="wkfm__47578">
+                     <orgName>Johannes Simmerl</orgName>
+                  <noteGrp><note target="wkfm-1673.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1673</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

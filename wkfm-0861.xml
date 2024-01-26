@@ -88,11 +88,23 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46329" sameAs="#wkfm__23879 ">
+    <back><listOrg><org xml:id="wkfm__46330">
+                     <orgName>Johann Jakob Gäbler</orgName>
+                  <noteGrp><note target="wkfm-0861.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0861</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__46329" sameAs="#wkfm__23879 ">
                      <persName>
                         <forename>Johann Jakob</forename>
                         <surname>Gäbler</surname>
                      </persName>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Eisenhändler</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0861.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0861</note><note target="wkfm-0862.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0862</note></noteGrp></person>

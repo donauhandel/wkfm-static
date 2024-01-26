@@ -87,6 +87,9 @@
                         <forename>Johann Isaak</forename>
                         <surname>Vareille</surname>
                      </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                <noteGrp><note target="wkfm-0747.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0747</note><note target="wkfm-0748.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0748</note></noteGrp></person>

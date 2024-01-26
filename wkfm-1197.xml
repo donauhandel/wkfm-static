@@ -104,13 +104,28 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__25582">
+    <back><listOrg><org xml:id="wkfm__46859">
+                     <orgName>Jakob Mayr</orgName>
+                  <noteGrp><note target="wkfm-1197.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1197</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__25582">
                      <persName>
                         <forename>Jakob</forename>
                         <surname>Stockholzer</surname>
                         <surname type="alt">Stöckholzer</surname>
                      </persName>
-                     <death><date>1779?</date></death>
+                     <death><date>1779?</date></death>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zum Mayerhof nächst dem Bischofs-Hof (Calender 1758)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann, Prokurist des Jakob Mayr</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <listBibl>
@@ -121,7 +136,25 @@
                      <persName>
                         <forename>Jakob</forename>
                         <surname>Mayr</surname>
-                     </persName>
+                     </persName>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Nächst dem Bischof-Hof (Calender 1723)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Herkunft-Aschach">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="unklar">
+                        <placeName key="#wkfm-place__2589">Sillian</placeName>
+                     </residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <occupation type="aemter">Assessor am NÖ Wechselgericht (1. Instanz)</occupation>

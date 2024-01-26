@@ -92,12 +92,36 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__4646" sameAs="#wkfm__28419 ">
+    <back><listOrg><org xml:id="wkfm__47341">
+                     <orgName>Joseph Peisser</orgName>
+                  <noteGrp><note target="wkfm-0196.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0196</note><note target="wkfm-1645.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1645</note></noteGrp></org>
+                <org xml:id="wkfm__13208">
+                     <orgName>Peisser und Rigotti</orgName>
+                  <noteGrp><note target="wkfm-0196.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0196</note><note target="wkfm-1405.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1405</note><note target="wkfm-1406.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1406</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__4646" sameAs="#wkfm__28419 ">
                      <persName>
                         <forename>Joseph</forename>
                         <surname>Peisser</surname>
                      </persName>
                      <death><date>08.02.1765</date></death>
+                     <affiliation>
+                        <orgName key="#wkfm__13208">Peisser und Rigotti</orgName>
+                     </affiliation>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zur Goldenen Rose auf dem Peters-Friedhof im Eisgrübel (Calender 1758)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Herkunft-Krems">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <listBibl>

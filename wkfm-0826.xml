@@ -88,6 +88,9 @@
                         <surname>Gärtner</surname>
                         <surname type="alt">Garttner</surname>
                      </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
                <noteGrp><note target="wkfm-0825.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0825</note><note target="wkfm-0826.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0826</note></noteGrp></person>

@@ -104,11 +104,27 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47046">
+    <back><listPerson><person xml:id="wkfm__47045">
+                     <persName>
+                        <forename>Elisabeth</forename>
+                        <surname>Beerin</surname>
+                        <surname type="alt">Weygant</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-1818.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1818</note></noteGrp></person>
+                <person xml:id="wkfm__47046">
                      <persName>
                         <forename>Johann Baptist</forename>
                         <surname>Conradt</surname>
                      </persName>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1818.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1818</note></noteGrp></person>
@@ -118,16 +134,21 @@
                         <surname>Weygant</surname>
                         <surname type="alt">Weigant</surname>
                      </persName>
-                     <death><date>1787</date></death>
+                     <death><date>1787</date></death>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Beim Weißen Rössel zu Mariahilf (Calender 1758)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1693.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1693</note><note target="wkfm-1817.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1817</note><note target="wkfm-1818.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1818</note></noteGrp></person>
-                <person xml:id="wkfm__47045">
-                     <persName>
-                        <forename>Elisabeth</forename>
-                        <surname>Beerin</surname>
-                        <surname type="alt">Weygant</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-1818.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1818</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

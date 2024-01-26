@@ -91,6 +91,18 @@
                      </persName>
                      <birth><date>ca. 1681</date></birth>
                      <death><date>12.01.1765</date></death>
+                     <residence type="Sterbeort">
+                        <placeName key="#wkfm-place__531">München</placeName>
+                     <location type="coords"><geo>48.13722222222222 11.575277777777778</geo></location></residence>
+                     <residence type="Geburtsort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">jüdisch</occupation>
                      <occupation type="aemter">Hofjude</occupation>

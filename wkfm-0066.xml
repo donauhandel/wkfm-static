@@ -93,25 +93,43 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43804">
-                     <persName>
-                        <forename>Marx Anton</forename>
-                        <surname>Tuesenstein</surname>
-                     </persName>
-                     <occupation>Wechselsensal, Prokurist bei Georg Prunner</occupation>
-               <noteGrp><note target="wkfm-0066.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0066</note></noteGrp></person>
-                <person xml:id="wkfm__8412" sameAs="#wkfm__10731 wkfm__12382 ">
+    <back><listPerson><person xml:id="wkfm__8412" sameAs="#wkfm__10731 wkfm__12382 ">
                      <persName>
                         <forename>Georg</forename>
                         <surname>Prunner</surname>
                         <surname type="alt">von Brunner</surname>
                         <surname type="alt">von Prunner</surname>
                      </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geburtsort">
+                        <placeName key="#wkfm-place__1055">Landshut</placeName>
+                     <location type="coords"><geo>48.529444444444444 12.161666666666667</geo></location></residence>
                      <occupation>Handelsmann, Wechsler</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                      <listBibl>
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;div&amp;gt;Ksl. Staats- und Standeskalender 1721, S. 242.&amp;lt;/div&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0066.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0066</note><note target="wkfm-0067.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0067</note></noteGrp></person>
-                </listPerson></back></text>
+                <person xml:id="wkfm__43804">
+                     <persName>
+                        <forename>Marx Anton</forename>
+                        <surname>Tuesenstein</surname>
+                     </persName>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__2323"/>
+                     </residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__2324"/>
+                     </residence>
+                     <occupation>Wechselsensal, Prokurist bei Georg Prunner</occupation>
+               <noteGrp><note target="wkfm-0066.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0066</note></noteGrp></person>
+                </listPerson><listOrg><org xml:id="wkfm__47273">
+                     <orgName>Georg Prunner</orgName>
+                  <noteGrp><note target="wkfm-0066.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0066</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

@@ -110,9 +110,24 @@
                         <surname>Laßnig</surname>
                         <surname type="alt">Laßnigg</surname>
                      </persName>
-                     <death><date>1773</date></death>
+                     <death><date>1773</date></death>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Beim Roten Adler nächst der Schleifmühle (Calender 1758)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1167.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1167</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46828">
+                     <orgName>Urban Laßnig</orgName>
+                  <noteGrp><note target="wkfm-1167.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1167</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

@@ -90,12 +90,24 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43787">
+    <back><listOrg><org xml:id="wkfm__47476">
+                     <orgName>Paul de Sorbait</orgName>
+                  <noteGrp><note target="wkfm-1567.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1567</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__43787">
                      <persName>
                         <forename>Paul</forename>
                         <surname>Sorbait</surname>
                         <surname type="alt">de Sorbait</surname>
                      </persName>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                <noteGrp><note target="wkfm-0013.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0013</note><note target="wkfm-1567.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1567</note><note target="wkfm-1568.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1568</note></noteGrp></person>
                 </listPerson></back></text>

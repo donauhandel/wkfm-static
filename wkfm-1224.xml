@@ -88,6 +88,9 @@
                         <forename type="alt">Giovanni Pietro</forename>
                         <surname>Mattoni</surname>
                      </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
                <noteGrp><note target="wkfm-1223.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1223</note><note target="wkfm-1224.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1224</note></noteGrp></person>

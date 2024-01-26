@@ -117,22 +117,37 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43860">
+    <back><listPerson><person xml:id="wkfm__43861">
+                     <persName>
+                        <forename>Paul</forename>
+                        <surname>Stumer</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-1845.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1845</note></noteGrp></person>
+                <person xml:id="wkfm__43860">
                      <persName>
                         <forename>Adam</forename>
                         <surname>Zott</surname>
-                     </persName>
+                     </persName>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zum Adam und Eva im alten Lerchenfeld (Calender 1758)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <listBibl>
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 573.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1845.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1845</note></noteGrp></person>
-                <person xml:id="wkfm__43861">
-                     <persName>
-                        <forename>Paul</forename>
-                        <surname>Stumer</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-1845.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1845</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46609">
+                     <orgName>Adam Zott</orgName>
+                  <noteGrp><note target="wkfm-1845.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1845</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

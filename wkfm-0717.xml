@@ -93,12 +93,24 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47086">
+    <back><listOrg><org xml:id="wkfm__47087">
+                     <orgName>Johann Franz Joseph Feilmayr</orgName>
+                  <noteGrp><note target="wkfm-0717.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0717</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__47086">
                      <persName>
                         <forename>Johann Franz Joseph</forename>
                         <surname>Feilmayr</surname>
                      </persName>
                      <death><date>1741</date></death>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Eisenhändler</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0717.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0717</note><note target="wkfm-0718.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0718</note></noteGrp></person>

@@ -87,12 +87,27 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47416" sameAs="#wkfm__8066 ">
+    <back><listOrg><org xml:id="wkfm__47417">
+                     <orgName>Johannes Schneider</orgName>
+                  <noteGrp><note target="wkfm-1489.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1489</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__47416" sameAs="#wkfm__8066 ">
                      <persName>
                         <forename>Johann</forename>
                         <surname>Schneider</surname>
                         <surname type="alt">Schneyder</surname>
-                     </persName>
+                     </persName>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Auf der Mehlgrube (Calender 1723)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1489.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1489</note><note target="wkfm-1490.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1490</note></noteGrp></person>

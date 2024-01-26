@@ -88,12 +88,27 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46891" sameAs="#wkfm__8837 ">
+    <back><listOrg><org xml:id="wkfm__46892">
+                     <orgName>Andreas Mayr</orgName>
+                  <noteGrp><note target="wkfm-1243.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1243</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__46891" sameAs="#wkfm__8837 ">
                      <persName>
                         <forename>Andre</forename>
                         <surname>Mayr</surname>
                         <surname type="alt">Mayer</surname>
-                     </persName>
+                     </persName>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zum Goldenen Szepter auf dem Graben (Calender 1758)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <listBibl>

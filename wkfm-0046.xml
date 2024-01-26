@@ -87,12 +87,27 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43793">
+    <back><listOrg><org xml:id="wkfm__41779">
+                     <orgName>Appold und Gnädl</orgName>
+                  <noteGrp><note target="wkfm-0046.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0046</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__43793">
                      <persName>
                         <forename>Johann Jakob</forename>
                         <surname>Appold</surname>
                      </persName>
-                     <death><date>1763</date></death>
+                     <death><date>1763</date></death>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Petersplatz 11 (alt: Nr 609)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Tuchhändler</occupation>
                      <occupation type="kaufmannsklasse">tuchlaubensverwandt/bürgerlich</occupation>
                      <listBibl>

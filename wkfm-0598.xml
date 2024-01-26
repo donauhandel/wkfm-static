@@ -100,24 +100,36 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46279">
-                     <persName>
-                        <forename>Simon Anton</forename>
-                        <surname>Denk</surname>
-                        <surname type="alt">Denckh</surname>
-                     </persName>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-                     <listBibl>
-                        <bibl>Huchler, Bürgeraufnahmen, 360.&amp;lt;br&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-0597.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0597</note><note target="wkfm-0598.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0598</note></noteGrp></person>
-                <person xml:id="wkfm__46281">
+    <back><listPerson><person xml:id="wkfm__46281">
                      <persName>
                         <forename>Anna Maria</forename>
                         <surname>Pertoldin</surname>
                         <surname type="alt">Denk</surname>
                      </persName>
                <noteGrp><note target="wkfm-0598.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0598</note></noteGrp></person>
+                <person xml:id="wkfm__46279">
+                     <persName>
+                        <forename>Simon Anton</forename>
+                        <surname>Denk</surname>
+                        <surname type="alt">Denckh</surname>
+                     </persName>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zum Roten Apfel auf dem alten Bauernmarkt (Calender 1758)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+                     <listBibl>
+                        <bibl>Huchler, Bürgeraufnahmen, 360.&amp;lt;br&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0597.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0597</note><note target="wkfm-0598.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0598</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

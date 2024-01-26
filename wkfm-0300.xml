@@ -96,21 +96,30 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43986">
+    <back><listPerson><person xml:id="wkfm__43991">
+                     <persName>
+                        <forename>Maria Anna</forename>
+                        <surname>Zinnerin</surname>
+                        <surname type="alt">Pürker</surname>
+                        <surname type="alt">von Rechtbergerin</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0300.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0300</note></noteGrp></person>
+                <person xml:id="wkfm__43986">
                      <persName>
                         <forename>Franz Joseph</forename>
                         <surname>Pürker</surname>
                      </persName>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0299.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0299</note><note target="wkfm-0300.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0300</note><note target="wkfm-0609.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0609</note></noteGrp></person>
-                <person xml:id="wkfm__43991">
-                     <persName>
-                        <forename>Maria Anna</forename>
-                        <surname>Zinnerin</surname>
-                        <surname type="alt">von Rechtbergerin</surname>
-                        <surname type="alt">Pürker</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-0300.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0300</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

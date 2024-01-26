@@ -87,11 +87,29 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__9740">
+    <back><listOrg><org xml:id="wkfm__46587">
+                     <orgName>Leopold Auchter</orgName>
+                  <noteGrp><note target="wkfm-0026.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0026</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__9740">
                      <persName>
                         <forename>Leopold</forename>
                         <surname>Auchter</surname>
-                     </persName>
+                     </persName>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zum Schwarzen Mohren nächst dem Seitzer-Hof (Calender 1723)</placeName>
+                     </residence>
+                     <residence type="Geburtsort">
+                        <placeName key="#wkfm-place__762">Schrems</placeName>
+                     <location type="coords"><geo>48.78333333333333 15.066666666666666</geo></location></residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <listBibl>

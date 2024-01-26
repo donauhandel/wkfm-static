@@ -90,11 +90,23 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__8495">
+    <back><listOrg><org xml:id="wkfm__47397">
+                     <orgName>Johann Heinrich Schwarzenberger</orgName>
+                  <noteGrp><note target="wkfm-1463.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1463</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__8495">
                      <persName>
                         <forename>Johann Heinrich</forename>
                         <surname>Schwarzenberger</surname>
                      </persName>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geburtsort">
+                        <placeName key="#wkfm-place__1188">Bruck an der Leitha</placeName>
+                     <location type="coords"><geo>48.016666666666666 16.766666666666666</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
                <noteGrp><note target="wkfm-1463.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1463</note></noteGrp></person>

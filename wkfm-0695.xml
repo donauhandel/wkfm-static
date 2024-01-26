@@ -88,12 +88,27 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47070">
+    <back><listOrg><org xml:id="wkfm__47071">
+                     <orgName>Jakob Feyerabend</orgName>
+                  <noteGrp><note target="wkfm-0695.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0695</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__47070">
                      <persName>
                         <forename>Jakob</forename>
                         <surname>Feyerabend</surname>
                         <surname type="alt">Feyerabent</surname>
-                     </persName>
+                     </persName>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zum Weißen Hahn in der Rossau (Calender 1723)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0695.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0695</note><note target="wkfm-0696.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0696</note></noteGrp></person>

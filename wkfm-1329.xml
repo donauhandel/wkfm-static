@@ -92,12 +92,21 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__8590" sameAs="#wkfm__44898 ">
+    <back><listOrg><org xml:id="wkfm__46645">
+                     <orgName>Joseph Orrio (Orio)</orgName>
+                  <noteGrp><note target="wkfm-1329.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1329</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__8590" sameAs="#wkfm__44898 ">
                      <persName>
                         <forename>Joseph</forename>
                         <surname>Orrio</surname>
                         <surname type="alt">Orio</surname>
                      </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geburtsort">
+                        <placeName key="#wkfm-place__2552">Portese</placeName>
+                     </residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
                      <listBibl>

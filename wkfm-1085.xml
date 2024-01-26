@@ -88,13 +88,28 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__27714">
+    <back><listOrg><org xml:id="wkfm__46642">
+                     <orgName>Franz Anton Ipiditsch (Ipditsch)</orgName>
+                  <noteGrp><note target="wkfm-1085.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1085</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__27714">
                      <persName>
                         <forename>Franz Anton</forename>
                         <surname>Ipiditsch</surname>
-                        <surname type="alt">Ipditsch</surname>
                         <surname type="alt">Ipdisch</surname>
+                        <surname type="alt">Ipditsch</surname>
                      </persName>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geburtsort">
+                        <placeName key="#wkfm-place__2565">Güssing</placeName>
+                     </residence>
                      <occupation>Tuchhändler</occupation>
                      <occupation type="kaufmannsklasse">tuchlaubensverwandt/bürgerlich</occupation>
                      <listBibl>

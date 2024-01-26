@@ -90,5 +90,8 @@
             
         </div>
       </body>
-    <back/></text>
+    <back><listOrg><org xml:id="wkfm__46858">
+                     <orgName>Giovanni Marnia und Söhne, Giovanni Marnia e Figli</orgName>
+                  <noteGrp><note target="wkfm-1195.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1195</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

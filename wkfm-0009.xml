@@ -89,6 +89,12 @@
                         <forename>Johann Peter</forename>
                         <surname>Augustin</surname>
                      </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geburtsort">
+                        <placeName key="#wkfm-place__1170">Tirol</placeName>
+                     <location type="coords"><geo>47.0 11.5</geo></location></residence>
                      <occupation>Handelsmann, Wechselherr</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                <noteGrp><note target="wkfm-0008.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0008</note><note target="wkfm-0009.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0009</note></noteGrp></person>

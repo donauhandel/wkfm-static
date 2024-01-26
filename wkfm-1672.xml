@@ -92,25 +92,34 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__8487">
+    <back><listOrg><org xml:id="wkfm__43987">
+                     <orgName>Joseph Schwarzleithner und Sohn, Schwarzleithner und Sohn</orgName>
+                  <noteGrp><note target="wkfm-0299.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0299</note><note target="wkfm-0607.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0607</note><note target="wkfm-1671.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1671</note><note target="wkfm-1672.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1672</note><note target="wkfm-1689.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1689</note><note target="wkfm-1690.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1690</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__47576">
+                     <persName>
+                        <forename>Franz</forename>
+                        <surname>Schwarzleithner</surname>
+                     </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+               <noteGrp><note target="wkfm-1671.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1671</note><note target="wkfm-1672.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1672</note><note target="wkfm-1689.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1689</note><note target="wkfm-1690.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1690</note></noteGrp></person>
+                <person xml:id="wkfm__8487">
                      <persName>
                         <forename>Joseph</forename>
                         <surname>Schwarzleithner</surname>
                      </persName>
                      <death><date>07.1752</date></death>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                      <listBibl>
                         <bibl>Mittenzwei, Zwischen Gestern und Morgen, 23f.; Kallbrunner, 200 Jahre Fabrik Leonischer Waren, 153; Otruba, Manufakturenbestand, 534.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1671.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1671</note><note target="wkfm-1672.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1672</note><note target="wkfm-1690.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1690</note></noteGrp></person>
-                <person xml:id="wkfm__47576">
-                     <persName>
-                        <forename>Franz</forename>
-                        <surname>Schwarzleithner</surname>
-                     </persName>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-               <noteGrp><note target="wkfm-1671.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1671</note><note target="wkfm-1672.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1672</note><note target="wkfm-1689.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1689</note><note target="wkfm-1690.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1690</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

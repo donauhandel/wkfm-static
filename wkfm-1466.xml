@@ -87,6 +87,9 @@
                         <forename>Matthias</forename>
                         <surname>Stegner</surname>
                      </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Hofjuwelier</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
                <noteGrp><note target="wkfm-1465.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1465</note><note target="wkfm-1466.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1466</note></noteGrp></person>

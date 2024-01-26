@@ -96,11 +96,30 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__10901" sameAs="#wkfm__9874 wkfm__10769 wkfm__12070 ">
+    <back><listPerson><person xml:id="wkfm__47444">
+                     <persName>
+                        <forename>Maria Barbara</forename>
+                        <surname>Mösserin</surname>
+                        <surname type="alt">Stiermb</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-1530.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1530</note></noteGrp></person>
+                <person xml:id="wkfm__10901" sameAs="#wkfm__9874 wkfm__10769 wkfm__12070 ">
                      <persName>
                         <forename>Anton Joseph</forename>
                         <surname>Stiermb</surname>
-                     </persName>
+                     </persName>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zum Silbernen Becher in der Kärntnerstraße (Calender 1758)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <occupation type="aemter">Äußerer Rat</occupation>
@@ -109,12 +128,5 @@
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 538 (20. September 1723).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1529.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1529</note><note target="wkfm-1530.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1530</note></noteGrp></person>
-                <person xml:id="wkfm__47444">
-                     <persName>
-                        <forename>Maria Barbara</forename>
-                        <surname>Mösserin</surname>
-                        <surname type="alt">Stiermb</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-1530.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1530</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

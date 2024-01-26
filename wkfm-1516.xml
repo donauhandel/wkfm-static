@@ -90,6 +90,12 @@
                         <forename>Maria Magdalena</forename>
                         <surname>Stockhammerin</surname>
                      </persName>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsfrau</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1515.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1515</note><note target="wkfm-1516.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1516</note></noteGrp></person>

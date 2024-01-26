@@ -92,12 +92,30 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__11690" sameAs="#wkfm__10896 ">
+    <back><listOrg><org xml:id="wkfm__46583">
+                     <orgName>Albert Albertini</orgName>
+                  <noteGrp><note target="wkfm-0018.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0018</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__11690" sameAs="#wkfm__10896 ">
                      <persName>
                         <forename>Albert</forename>
                         <forename type="alt">Albrecht</forename>
                         <surname>Albertini</surname>
-                     </persName>
+                     </persName>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Auf dem Neuen Markt nächst 7 Körben zum Goldenen Kreuz (Calender 1723)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geburtsort">
+                        <placeName key="#wkfm-place__2540">Salo</placeName>
+                     </residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <listBibl>

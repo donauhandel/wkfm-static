@@ -88,13 +88,22 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__8095">
+    <back><listOrg><org xml:id="wkfm__46857">
+                     <orgName>Veit Müllnitsch</orgName>
+                  <noteGrp><note target="wkfm-1193.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1193</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__8095">
                      <persName>
                         <forename>Veit</forename>
                         <surname>Müllnitsch</surname>
                         <surname type="alt">Millnitsch</surname>
                      </persName>
                      <death><date>1726</date></death>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Tuchhändler</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
                <noteGrp><note target="wkfm-1193.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1193</note><note target="wkfm-1194.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1194</note></noteGrp></person>

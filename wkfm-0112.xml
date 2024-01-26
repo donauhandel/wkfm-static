@@ -92,13 +92,31 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__13158">
+    <back><listOrg><org xml:id="wkfm__43850">
+                     <orgName>Johann Jakob Pauminger sel. Witwe und Anton Oberleithner</orgName>
+                  <noteGrp><note target="wkfm-0112.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0112</note><note target="wkfm-0113.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0113</note></noteGrp></org>
+                <org xml:id="wkfm__47296">
+                     <orgName>Johann Jakob Pauminger</orgName>
+                  <noteGrp><note target="wkfm-0112.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0112</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__13158">
                      <persName>
                         <forename>Johann Jakob</forename>
                         <surname>Pauminger</surname>
                      </persName>
                      <birth><date>Ca. 1677</date></birth>
-                     <death><date>1730</date></death>
+                     <death><date>1730</date></death>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Beim Meer-Fräulein auf dem Kohlmarkt (Calender 1723)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <occupation type="aemter">Vorsteher der bürgerl. Handelsleute</occupation>

@@ -83,5 +83,8 @@
             
         </div>
       </body>
-    <back/></text>
+    <back><listOrg><org xml:id="wkfm__19149">
+                     <orgName>Wilkens und Bosquet</orgName>
+                  <noteGrp><note target="wkfm-1789.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1789</note><note target="wkfm-1790.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1790</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

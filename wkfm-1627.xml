@@ -116,14 +116,17 @@
                         <forename>Pietro Francesco</forename>
                         <surname>Scatti</surname>
                      </persName>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-1627.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1627</note></noteGrp></person>
-                <person xml:id="wkfm__47528">
-                     <persName>
-                        <forename>None</forename>
-                        <surname>Wanner</surname>
-                     </persName>
                <noteGrp><note target="wkfm-1627.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1627</note></noteGrp></person>
                 <person xml:id="wkfm__47527">
                      <persName>
@@ -132,5 +135,14 @@
                         <surname type="alt">Wannerin</surname>
                      </persName>
                <noteGrp><note target="wkfm-1627.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1627</note></noteGrp></person>
-                </listPerson></back></text>
+                <person xml:id="wkfm__47528">
+                     <persName>
+                        <forename>None</forename>
+                        <surname>Wanner</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-1627.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1627</note></noteGrp></person>
+                </listPerson><listOrg><org xml:id="wkfm__47526">
+                     <orgName>Pietro Francesco Scatti (Scotti)</orgName>
+                  <noteGrp><note target="wkfm-1627.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1627</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

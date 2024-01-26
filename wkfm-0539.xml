@@ -90,7 +90,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__36435" sameAs="#wkfm__15050 ">
+    <back><listOrg><org xml:id="wkfm__46220">
+                     <orgName>Johann Georg Decker</orgName>
+                  <noteGrp><note target="wkfm-0539.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0539</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__36435" sameAs="#wkfm__15050 ">
                      <persName>
                         <forename>Johann Georg</forename>
                         <surname>Decker</surname>

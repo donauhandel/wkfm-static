@@ -88,12 +88,24 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47505" sameAs="#wkfm__25340 ">
+    <back><listOrg><org xml:id="wkfm__47506">
+                     <orgName>Johann Stöger</orgName>
+                  <noteGrp><note target="wkfm-1605.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1605</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__47505" sameAs="#wkfm__25340 ">
                      <persName>
                         <forename>Johann</forename>
                         <surname>Stöger</surname>
                      </persName>
                      <death><date>1770</date></death>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Leinwandhändler</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <listBibl>

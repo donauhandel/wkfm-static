@@ -89,11 +89,20 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__10346">
+    <back><listOrg><org xml:id="wkfm__46577">
+                     <orgName>Marco Abandio</orgName>
+                  <noteGrp><note target="wkfm-0006.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0006</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__10346">
                      <persName>
                         <forename>Marco</forename>
                         <surname>Abandio</surname>
                      </persName>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Hofbefreiter Handelsmann</occupation>
                <noteGrp><note target="wkfm-0006.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0006</note><note target="wkfm-0007.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0007</note></noteGrp></person>
                 </listPerson></back></text>

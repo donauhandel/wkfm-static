@@ -86,11 +86,23 @@
                      <persName>
                         <forename>Johann Peter</forename>
                         <surname>Käpler</surname>
-                        <surname type="alt">Kepler</surname>
                         <surname type="alt">Kapler</surname>
+                        <surname type="alt">Kepler</surname>
                         <surname type="alt">Käppler</surname>
                      </persName>
                      <death><date>1768</date></death>
+                     <residence type="Geburtsort">
+                        <placeName key="#wkfm-place__765">Schwanenstadt</placeName>
+                     <location type="coords"><geo>48.055277777777775 13.775</geo></location></residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <listBibl>

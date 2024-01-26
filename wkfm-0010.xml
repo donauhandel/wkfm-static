@@ -90,11 +90,23 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__8191">
+    <back><listOrg><org xml:id="wkfm__46579">
+                     <orgName>Lorenz Andre</orgName>
+                  <noteGrp><note target="wkfm-0010.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0010</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__8191">
                      <persName>
                         <forename>Lorenz</forename>
                         <surname>Andre</surname>
                      </persName>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Tuchhändler, Tuchlaubenverwandter</occupation>
                      <occupation type="kaufmannsklasse">tuchlaubensverwandt/bürgerlich</occupation>
                      <listBibl>

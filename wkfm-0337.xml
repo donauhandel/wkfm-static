@@ -90,12 +90,21 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__8980">
+    <back><listOrg><org xml:id="wkfm__47204">
+                     <orgName>Matthias Kessler sel. Witwe</orgName>
+                  <noteGrp><note target="wkfm-0337.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0337</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__8980">
                      <persName>
                         <forename>None</forename>
                         <surname>Kessler</surname>
                         <surname type="alt">Khössler</surname>
                      </persName>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsfrau, Tuchhändlerin</occupation>
                      <occupation type="kaufmannsklasse">tuchlaubensverwandt/bürgerlich</occupation>
                <noteGrp><note target="wkfm-0337.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0337</note><note target="wkfm-0338.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0338</note></noteGrp></person>

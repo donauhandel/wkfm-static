@@ -105,12 +105,31 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__8331">
+    <back><listPerson><person xml:id="wkfm__46991">
+                     <persName>
+                        <forename>Johann Jakob</forename>
+                        <surname>Buchmann</surname>
+                     </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+               <noteGrp><note target="wkfm-1765.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1765</note><note target="wkfm-1766.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1766</note></noteGrp></person>
+                <person xml:id="wkfm__8331">
                      <persName>
                         <forename>Thomas</forename>
                         <surname>Wellner</surname>
                      </persName>
                      <death><date>1762</date></death>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <listBibl>
@@ -125,18 +144,29 @@ Inventaris van het familie-archief Brants, 111; &amp;lt;span&amp;gt;Huchler, Bü
                         <surname>Kramer</surname>
                         <surname type="alt">Krahmer</surname>
                      </persName>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <listBibl>
                         <bibl>Huchler, Bürgeraufnahmen, 435 (23. April 1725: &amp;#34;Johann Eberhardt&amp;#34;).&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0347.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0347</note><note target="wkfm-0348.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0348</note><note target="wkfm-1765.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1765</note><note target="wkfm-1766.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1766</note></noteGrp></person>
-                <person xml:id="wkfm__46991">
-                     <persName>
-                        <forename>Johann Jakob</forename>
-                        <surname>Buchmann</surname>
-                     </persName>
-                     <occupation>Handelsmann</occupation>
-               <noteGrp><note target="wkfm-1765.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1765</note><note target="wkfm-1766.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1766</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46990">
+                     <orgName>Thomas Wellner</orgName>
+                  <noteGrp><note target="wkfm-1765.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1765</note><note target="wkfm-1766.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1766</note></noteGrp></org>
+                <org xml:id="wkfm__16083">
+                     <orgName>Kramer und Wellner</orgName>
+                  <noteGrp><note target="wkfm-0347.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0347</note><note target="wkfm-1765.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1765</note></noteGrp></org>
+                <org xml:id="wkfm__27575">
+                     <orgName>Thomas Wellner &amp; Co.</orgName>
+                  <noteGrp><note target="wkfm-1765.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1765</note><note target="wkfm-1766.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1766</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

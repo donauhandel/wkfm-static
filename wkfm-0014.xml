@@ -89,12 +89,30 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__8584">
+    <back><listOrg><org xml:id="wkfm__46581">
+                     <orgName>Johann Maria Amadei</orgName>
+                  <noteGrp><note target="wkfm-0014.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0014</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__8584">
                      <persName>
                         <forename>Johann Maria</forename>
                         <surname>Amadei</surname>
                      </persName>
-                     <death><date>1750</date></death>
+                     <death><date>1750</date></death>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zum Scharfen Eck beim Stubentor (Calender 1723)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geburtsort">
+                        <placeName key="#wkfm-place__2526">Limone</placeName>
+                     </residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <listBibl>

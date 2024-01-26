@@ -98,13 +98,28 @@
                         <forename type="alt">Girolamo</forename>
                         <surname>von Bernini</surname>
                      </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                <noteGrp><note target="wkfm-0164.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0164</note><note target="wkfm-0165.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0165</note><note target="wkfm-0239.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0239</note><note target="wkfm-0240.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0240</note></noteGrp></person>
                 <person xml:id="wkfm__28746">
                      <persName>
                         <forename>Philipp</forename>
                         <surname>Bazzani</surname>
-                     </persName>
+                     </persName>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Bognergasse 5 (alt: Nr. 312B)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <listBibl>
                         <bibl>Harrer-Lucienfeld, Wien, seiner Häuser, Bd. 2.2, S. 323.&amp;lt;br&amp;gt;</bibl>

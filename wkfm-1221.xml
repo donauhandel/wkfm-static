@@ -96,7 +96,13 @@
                         <forename>Johann Baptist</forename>
                         <surname>Mariano</surname>
                      </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                <noteGrp><note target="wkfm-1221.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1221</note><note target="wkfm-1222.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1222</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46874">
+                     <orgName>Johann Baptist Mariano</orgName>
+                  <noteGrp><note target="wkfm-1221.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1221</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

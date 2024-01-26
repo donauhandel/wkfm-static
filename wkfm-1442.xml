@@ -92,21 +92,33 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46759">
+    <back><listPerson><person xml:id="wkfm__46758">
+                     <persName>
+                        <forename>Franz</forename>
+                        <surname>Ristl</surname>
+                     </persName>
+                     <death><date>1779</date></death>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zum Goldenen Stern auf dem Graben (Calender 1758)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-1441.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1441</note><note target="wkfm-1442.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1442</note></noteGrp></person>
+                <person xml:id="wkfm__46759">
                      <persName>
                         <forename>Johanna</forename>
                         <surname>Oberhammerin</surname>
                         <surname type="alt">Ristl</surname>
                      </persName>
                <noteGrp><note target="wkfm-1442.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1442</note></noteGrp></person>
-                <person xml:id="wkfm__46758">
-                     <persName>
-                        <forename>Franz</forename>
-                        <surname>Ristl</surname>
-                     </persName>
-                     <death><date>1779</date></death>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-1441.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1441</note><note target="wkfm-1442.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1442</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

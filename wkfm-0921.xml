@@ -94,8 +94,17 @@
                         <forename>Johann Georg</forename>
                         <surname>Helvetius</surname>
                      </persName>
+                     <residence type="Geburtsort">
+                        <placeName key="#wkfm-place__566">Nürnberg</placeName>
+                     <location type="coords"><geo>49.45416666666667 11.0775</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann, Wechselnegotiant</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                <noteGrp><note target="wkfm-0921.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0921</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46389">
+                     <orgName>Johann Georg Helvetius</orgName>
+                  <noteGrp><note target="wkfm-0241.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0241</note><note target="wkfm-0921.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0921</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

@@ -95,8 +95,8 @@
                      <persName>
                         <forename>Anna Katharina</forename>
                         <surname>Preysolin</surname>
-                        <surname type="alt">Benvenuti</surname>
                         <surname type="alt">Mänzin</surname>
+                        <surname type="alt">Benvenuti</surname>
                      </persName>
                <noteGrp><note target="wkfm-0310.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0310</note></noteGrp></person>
                 <person xml:id="wkfm__44035" sameAs="#wkfm__32106 wkfm__37741 ">
@@ -104,7 +104,19 @@
                         <forename>Dominicus</forename>
                         <surname>Benvenuti</surname>
                         <surname type="alt">Benevenuti</surname>
-                     </persName>
+                     </persName>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Bei der Goldenen Muschel in der Wipplingerstraße (Calender, 1758)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0309.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0309</note><note target="wkfm-0310.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0310</note></noteGrp></person>

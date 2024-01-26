@@ -105,31 +105,58 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47125">
+    <back><listPerson><person xml:id="wkfm__47082">
                      <persName>
-                        <forename>Franz Thomas</forename>
+                        <forename>Joseph</forename>
                         <surname>Uhl</surname>
                      </persName>
+                     <death><date>1736</date></death>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>In der Leopoldstadt (Calender 1723)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
-                     <listBibl>
-                        <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 548.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-0763.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0763</note></noteGrp></person>
+               <noteGrp><note target="wkfm-0711.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0711</note><note target="wkfm-0712.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0712</note><note target="wkfm-0763.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0763</note></noteGrp></person>
                 <person xml:id="wkfm__47127">
                      <persName>
                         <forename>None</forename>
                         <surname>None</surname>
                      </persName>
                <noteGrp><note target="wkfm-0763.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0763</note></noteGrp></person>
-                <person xml:id="wkfm__47082">
+                <person xml:id="wkfm__47125">
                      <persName>
-                        <forename>Joseph</forename>
+                        <forename>Franz Thomas</forename>
                         <surname>Uhl</surname>
-                     </persName>
-                     <death><date>1736</date></death>
+                     </persName>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zum Grünen Kranz in der Leopoldstadt (Calender 1758)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-0711.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0711</note><note target="wkfm-0712.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0712</note><note target="wkfm-0763.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0763</note></noteGrp></person>
-                </listPerson></back></text>
+                     <listBibl>
+                        <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 548.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0763.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0763</note></noteGrp></person>
+                </listPerson><listOrg><org xml:id="wkfm__47126">
+                     <orgName>Franz Thomas Uhl</orgName>
+                  <noteGrp><note target="wkfm-0763.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0763</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

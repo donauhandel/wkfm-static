@@ -88,12 +88,30 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__9008">
+    <back><listOrg><org xml:id="wkfm__46869">
+                     <orgName>Andreas Mäzinger</orgName>
+                  <noteGrp><note target="wkfm-1215.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1215</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__9008">
                      <persName>
                         <forename>Andre</forename>
                         <surname>Mäzinger</surname>
                         <surname type="alt">Mäzinger</surname>
-                     </persName>
+                     </persName>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Auf dem Graben im eigenen Haus (Calender 1758), Bei der Silbernen Krone auf dem Bauernmarkt (Calender 1723)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geburtsort">
+                        <placeName key="#wkfm-place__2550">Kleinhöflein</placeName>
+                     </residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <listBibl>

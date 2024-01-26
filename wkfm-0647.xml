@@ -96,11 +96,26 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__23412">
+    <back><listOrg><org xml:id="wkfm__37828">
+                     <orgName>Egger und Babitsch</orgName>
+                  <noteGrp><note target="wkfm-0647.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0647</note><note target="wkfm-0648.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0648</note></noteGrp></org>
+                <org xml:id="wkfm__46420">
+                     <orgName>Franz Dionysius Egger</orgName>
+                  <noteGrp><note target="wkfm-0647.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0647</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__23412">
                      <persName>
                         <forename>Franz Dionysius</forename>
                         <surname>Egger</surname>
                      </persName>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <listBibl>

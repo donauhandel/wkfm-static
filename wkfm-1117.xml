@@ -98,6 +98,9 @@
                         <forename>Johann Jakob</forename>
                         <surname>Leibel</surname>
                      </persName>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Angestellter und Prokurist bei Lorenz le Comte</occupation>
                <noteGrp><note target="wkfm-1117.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1117</note></noteGrp></person>
                 <person xml:id="wkfm__17343" sameAs="#wkfm__39435 ">
@@ -105,8 +108,20 @@
                         <forename>Lorenz</forename>
                         <surname>Le Comte</surname>
                      </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Herkunft-Aschach">
+                        <placeName key="#wkfm-place__1831"/>
+                     </residence>
+                     <residence type="Herkunft-Aschach">
+                        <placeName key="#wkfm-place__1850"/>
+                     </residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
                <noteGrp><note target="wkfm-1117.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1117</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46790">
+                     <orgName>Lorenz le Comte</orgName>
+                  <noteGrp><note target="wkfm-1117.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1117</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

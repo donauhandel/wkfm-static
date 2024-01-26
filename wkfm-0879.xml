@@ -90,12 +90,24 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__28324" sameAs="#wkfm__27585 ">
+    <back><listOrg><org xml:id="wkfm__46346">
+                     <orgName>Franz Joseph Grämbsreither</orgName>
+                  <noteGrp><note target="wkfm-0879.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0879</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__28324" sameAs="#wkfm__27585 ">
                      <persName>
                         <forename>Franz Joseph</forename>
                         <surname>Grämbsreither</surname>
                         <surname type="alt">Krembsreitter</surname>
                      </persName>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <listBibl>

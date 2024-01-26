@@ -96,11 +96,23 @@
                         <surname>Eberl</surname>
                      </persName>
                      <death><date>1750</date></death>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <listBibl>
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 366.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0645.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0645</note><note target="wkfm-0646.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0646</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46419">
+                     <orgName>Joseph Anton Eberl</orgName>
+                  <noteGrp><note target="wkfm-0645.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0645</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

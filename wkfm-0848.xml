@@ -88,11 +88,26 @@
                      <persName>
                         <forename>Wenzel Franz</forename>
                         <surname>von Gotteschnig</surname>
-                        <surname type="alt">Goteschnig</surname>
-                        <surname type="alt">Gotesching</surname>
                         <surname type="alt">von Gotsching</surname>
+                        <surname type="alt">Gotesching</surname>
+                        <surname type="alt">Goteschnig</surname>
                         <surname type="alt">von Gotesching</surname>
-                     </persName>
+                     </persName>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Im Margarethenhof auf dem alten Bauernmarkt (Calender 1723)</placeName>
+                     </residence>
+                     <residence type="Geburtsort">
+                        <placeName key="#wkfm-place__388">Königgrätz</placeName>
+                     <location type="coords"><geo>50.20916666666667 15.832777777777778</geo></location></residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0847.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0847</note><note target="wkfm-0848.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0848</note></noteGrp></person>

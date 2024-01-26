@@ -91,6 +91,12 @@
                         <surname type="alt">Rauchnagel von Churfeld</surname>
                      </persName>
                      <death><date>1776</date></death>
+                     <residence type="Geburtsort">
+                        <placeName key="#wkfm-place__72">Bozen</placeName>
+                     <location type="coords"><geo>46.49055555555556 11.339722222222223</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                      <listBibl>

@@ -106,6 +106,15 @@
                         <surname>Hengsberger</surname>
                      </persName>
                      <death><date>1739</date></death>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann, Seidenhändler</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <occupation type="aemter">Äußerer Rat</occupation>
@@ -123,11 +132,26 @@
                         <surname type="alt">Neymaister</surname>
                      </persName>
                      <death><date>1766</date></death>
+                     <residence type="Geburtsort">
+                        <placeName key="#wkfm-place__195">Gars (am Kamp)</placeName>
+                     <location type="coords"><geo>48.58888888888889 15.653611111111111</geo></location></residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann, Prokurist bei Matthias Hengsberger</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
                      <listBibl>
                         <bibl>Huchler, Bürgeraufnahmen, 470.</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0939.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0939</note><note target="wkfm-1309.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1309</note><note target="wkfm-1310.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1310</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46444">
+                     <orgName>Matthias Hengsberger</orgName>
+                  <noteGrp><note target="wkfm-0939.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0939</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

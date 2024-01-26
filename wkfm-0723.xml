@@ -88,12 +88,24 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__14199">
+    <back><listOrg><org xml:id="wkfm__47091">
+                     <orgName>Johann Fritsch</orgName>
+                  <noteGrp><note target="wkfm-0723.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0723</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__14199">
                      <persName>
                         <forename>Johann</forename>
                         <surname>Fritsch</surname>
                      </persName>
                      <death><date>1739</date></death>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Eisenhändler</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0723.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0723</note><note target="wkfm-0724.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0724</note></noteGrp></person>

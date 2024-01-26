@@ -92,16 +92,31 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__26085">
+    <back><listOrg><org xml:id="wkfm__46973">
+                     <orgName>Fabricius Wurmscher</orgName>
+                  <noteGrp><note target="wkfm-1743.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1743</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__26085">
                      <persName>
                         <forename>Fabrizius</forename>
                         <surname>Wurmseher</surname>
-                        <surname type="alt">Wurmseger</surname>
-                        <surname type="alt">Wurmbsegger</surname>
-                        <surname type="alt">Wurmscher</surname>
                         <surname type="alt">Wurmbsecher</surname>
+                        <surname type="alt">Wurmseger</surname>
+                        <surname type="alt">Wurmscher</surname>
+                        <surname type="alt">Wurmbsegger</surname>
                      </persName>
-                     <death><date>1749/50</date></death>
+                     <death><date>1749/50</date></death>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zum Goldenen Hirschen in der Leopoldstadt (Calender 1758, 1723)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <listBibl>
@@ -113,6 +128,12 @@
                         <forename>None</forename>
                         <surname>None</surname>
                      </persName>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsfrau</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1743.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1743</note></noteGrp></person>

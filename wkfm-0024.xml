@@ -87,5 +87,8 @@
             
         </div>
       </body>
-    <back/></text>
+    <back><listOrg><org xml:id="wkfm__46586">
+                     <orgName>Ferdinand Auer</orgName>
+                  <noteGrp><note target="wkfm-0024.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0024</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

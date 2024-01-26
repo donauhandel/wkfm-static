@@ -88,7 +88,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__12736" sameAs="#wkfm__14423 ">
+    <back><listOrg><org xml:id="wkfm__46660">
+                     <orgName>Andrea Neumaister (Neymaister)</orgName>
+                  <noteGrp><note target="wkfm-1309.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1309</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__12736" sameAs="#wkfm__14423 ">
                      <persName>
                         <forename>Andreas</forename>
                         <surname>Neumaister</surname>
@@ -97,6 +100,18 @@
                         <surname type="alt">Neymaister</surname>
                      </persName>
                      <death><date>1766</date></death>
+                     <residence type="Geburtsort">
+                        <placeName key="#wkfm-place__195">Gars (am Kamp)</placeName>
+                     <location type="coords"><geo>48.58888888888889 15.653611111111111</geo></location></residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann, Prokurist bei Matthias Hengsberger</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
                      <listBibl>

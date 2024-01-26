@@ -118,26 +118,44 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43956">
+    <back><listPerson><person xml:id="wkfm__43957">
+                     <persName>
+                        <forename>Maria Magdalena</forename>
+                        <surname>Bognerin</surname>
+                     </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsfrau</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-0267.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0267</note><note target="wkfm-0268.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0268</note></noteGrp></person>
+                <person xml:id="wkfm__43956">
                      <persName>
                         <forename>Daniel</forename>
                         <surname>Pirnbaum</surname>
                         <surname type="alt">Birnbaum</surname>
                      </persName>
-                     <death><date>1768</date></death>
+                     <death><date>1768</date></death>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Bei der Goldenen Harfe auf dem Kohlmarkt (Calender 1758)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <listBibl>
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 349 (Jänner 1741: &amp;#34;Birnbaum&amp;#34;).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0267.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0267</note><note target="wkfm-0268.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0268</note></noteGrp></person>
-                <person xml:id="wkfm__43957">
-                     <persName>
-                        <forename>Maria Magdalena</forename>
-                        <surname>Bognerin</surname>
-                     </persName>
-                     <occupation>Handelsfrau</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-0267.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0267</note><note target="wkfm-0268.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0268</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47373">
+                     <orgName>Daniel Pirnbaum</orgName>
+                  <noteGrp><note target="wkfm-0267.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0267</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

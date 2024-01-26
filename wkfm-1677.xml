@@ -112,7 +112,19 @@
                         <forename>Joseph</forename>
                         <surname>Staudinger</surname>
                      </persName>
-                     <death><date>1780</date></death>
+                     <death><date>1780</date></death>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zum Weißen Hasel auf dem Hof (Calender 1758)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1677.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1677</note><note target="wkfm-1678.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1678</note></noteGrp></person>
@@ -123,5 +135,8 @@
                         <surname type="alt">Staudinger</surname>
                      </persName>
                <noteGrp><note target="wkfm-1677.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1677</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47583">
+                     <orgName>Joseph Staudinger</orgName>
+                  <noteGrp><note target="wkfm-1677.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1677</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

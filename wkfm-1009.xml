@@ -87,13 +87,19 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__39393">
+    <back><listOrg><org xml:id="wkfm__46504">
+                     <orgName>Matthias Hütter</orgName>
+                  <noteGrp><note target="wkfm-1009.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1009</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__39393">
                      <persName>
                         <forename>Matthias</forename>
                         <surname>Hütter</surname>
                         <surname type="alt">Huetter</surname>
                      </persName>
                      <death><date>1770</date></death>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Leinwandhändler</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
                <noteGrp><note target="wkfm-1009.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1009</note><note target="wkfm-1010.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1010</note></noteGrp></person>

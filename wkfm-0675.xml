@@ -90,5 +90,8 @@
             
         </div>
       </body>
-    <back/></text>
+    <back><listOrg><org xml:id="wkfm__47053">
+                     <orgName>Ferdinand Vorreiter sel. Erben</orgName>
+                  <noteGrp><note target="wkfm-0675.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0675</note><note target="wkfm-0676.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0676</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

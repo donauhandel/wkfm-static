@@ -96,11 +96,23 @@
                         <forename>Johann Ernst</forename>
                         <surname>Steigmiller</surname>
                      </persName>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Zuckerbäcker</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <listBibl>
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 537 (14. März 1711: &amp;#34;Johann&amp;#34;).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1539.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1539</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47453">
+                     <orgName>Johann Ernst Steigmiller</orgName>
+                  <noteGrp><note target="wkfm-1539.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1539</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

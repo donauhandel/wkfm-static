@@ -88,12 +88,27 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__14080" sameAs="#wkfm__19019 ">
+    <back><listOrg><org xml:id="wkfm__47216">
+                     <orgName>Johann Konrad Klingler</orgName>
+                  <noteGrp><note target="wkfm-0367.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0367</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__14080" sameAs="#wkfm__19019 ">
                      <persName>
                         <forename>Johann Konrad</forename>
                         <surname>Klingler</surname>
                      </persName>
-                     <death><date>1740</date></death>
+                     <death><date>1740</date></death>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zum Grünen Paperl in der Rossau (Calender 1723)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <listBibl>

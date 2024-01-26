@@ -117,6 +117,15 @@
                         <surname>Stidl</surname>
                      </persName>
                      <death><date>1741 ?, 1745 ?</date></death>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1581.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1581</note><note target="wkfm-1582.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1582</note></noteGrp></person>

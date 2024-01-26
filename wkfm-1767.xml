@@ -88,12 +88,24 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46992">
+    <back><listOrg><org xml:id="wkfm__46993">
+                     <orgName>Benedikt Weigl</orgName>
+                  <noteGrp><note target="wkfm-1767.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1767</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__46992">
                      <persName>
                         <forename>Benedikt</forename>
                         <surname>Weigl</surname>
                      </persName>
                      <death><date>1731</date></death>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Leinwandhändler</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <listBibl>

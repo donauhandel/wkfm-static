@@ -127,20 +127,32 @@
                         <surname type="alt">Schenecker</surname>
                         <surname type="alt">Schenöckher</surname>
                      </persName>
-                     <death><date>1769</date></death>
+                     <death><date>1769</date></death>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zum Roten Mann auf der Freyung (Calender 1758)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1697.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1697</note><note target="wkfm-1698.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1698</note></noteGrp></person>
-                <person xml:id="wkfm__47609">
-                     <persName>
-                        <forename>Thomas</forename>
-                        <surname>Walter</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-1697.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1697</note></noteGrp></person>
                 <person xml:id="wkfm__47610" sameAs="#wkfm__25804 ">
                      <persName>
                         <forename>Joseph</forename>
                         <surname>Heim</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-1697.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1697</note></noteGrp></person>
+                <person xml:id="wkfm__47609">
+                     <persName>
+                        <forename>Thomas</forename>
+                        <surname>Walter</surname>
                      </persName>
                <noteGrp><note target="wkfm-1697.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1697</note></noteGrp></person>
                 </listPerson></back></text>

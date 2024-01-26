@@ -93,12 +93,27 @@
                         <forename>Franz Michael</forename>
                         <surname>Haslacher</surname>
                         <surname type="alt">Haßlacher</surname>
-                     </persName>
+                     </persName>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zum 2 Schwarzen Mohren auf der Schneider-Herberg (Calender 1723)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <listBibl>
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 403 (4. Juli 1718).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0965.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0965</note><note target="wkfm-0966.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0966</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46471">
+                     <orgName>Franz Michael Haslacher</orgName>
+                  <noteGrp><note target="wkfm-0965.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0965</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

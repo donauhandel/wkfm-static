@@ -88,25 +88,34 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46146">
-                     <persName>
-                        <forename>Theresia</forename>
-                        <surname>Jägschin</surname>
-                        <surname type="alt">Contrini</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-0448.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0448</note></noteGrp></person>
-                <person xml:id="wkfm__30180">
+    <back><listPerson><person xml:id="wkfm__30180">
                      <persName>
                         <forename>Bartholomäus</forename>
                         <forename type="alt">Bartolomeo</forename>
                         <surname>Contrini</surname>
                         <surname type="alt">Contrin</surname>
                      </persName>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <listBibl>
                         <bibl>Huchler, Bürgeraufnahmen, 356 (September 1739 &amp;#34;Courtini&amp;#34;).&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0447.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0447</note><note target="wkfm-0448.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0448</note><note target="wkfm-1039.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1039</note></noteGrp></person>
+                <person xml:id="wkfm__46146">
+                     <persName>
+                        <forename>Theresia</forename>
+                        <surname>Jägschin</surname>
+                        <surname type="alt">Contrini</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0448.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0448</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

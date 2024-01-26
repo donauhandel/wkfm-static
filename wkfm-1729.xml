@@ -94,9 +94,27 @@
                         <surname>Weißenbeck</surname>
                         <surname type="alt">Weißenböck</surname>
                      </persName>
-                     <death><date>1743</date></death>
+                     <death><date>1743</date></death>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zum Weißen Berg auf dem Graben (Calender 1723)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geburtsort">
+                        <placeName key="#wkfm-place__2558">Oggau</placeName>
+                     </residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1729.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1729</note><note target="wkfm-1730.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1730</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46963">
+                     <orgName>Matthias Weißenbeck</orgName>
+                  <noteGrp><note target="wkfm-1729.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1729</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

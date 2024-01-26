@@ -96,8 +96,17 @@
                         <forename>None</forename>
                         <surname>None</surname>
                      </persName>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Eisenhändlerin</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0405.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0405</note><note target="wkfm-0406.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0406</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47235">
+                     <orgName>Johann Andre Kaufmann sel. Erbin</orgName>
+                  <noteGrp><note target="wkfm-0405.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0405</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

@@ -103,16 +103,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47593">
-                     <persName>
-                        <forename>Franz Karl</forename>
-                        <surname>Sotscheck</surname>
-                     </persName>
-                     <death><date>1777</date></death>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-1681.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1681</note><note target="wkfm-1682.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1682</note></noteGrp></person>
-                <person xml:id="wkfm__47595">
+    <back><listPerson><person xml:id="wkfm__47595">
                      <persName>
                         <forename>Franziska Barbara</forename>
                         <surname>Pragerin</surname>
@@ -120,5 +111,23 @@
                      </persName>
                      <death><date>1777</date></death>
                <noteGrp><note target="wkfm-1682.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1682</note></noteGrp></person>
+                <person xml:id="wkfm__47593">
+                     <persName>
+                        <forename>Franz Karl</forename>
+                        <surname>Sotscheck</surname>
+                     </persName>
+                     <death><date>1777</date></death>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-1681.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1681</note><note target="wkfm-1682.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1682</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

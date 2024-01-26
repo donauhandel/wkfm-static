@@ -90,6 +90,15 @@
                         <surname>Kern</surname>
                         <surname type="alt">Khern</surname>
                      </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Herkunft-Krems">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geburtsort">
+                        <placeName key="#wkfm-place__1617">Ödenburg</placeName>
+                     <location type="coords"><geo>47.684999999999995 16.590277777777775</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                <noteGrp><note target="wkfm-0355.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0355</note><note target="wkfm-0356.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0356</note></noteGrp></person>

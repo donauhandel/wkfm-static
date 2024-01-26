@@ -90,11 +90,23 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43902">
+    <back><listOrg><org xml:id="wkfm__47339">
+                     <orgName>Johann Georg Prunner</orgName>
+                  <noteGrp><note target="wkfm-0192.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0192</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__43902">
                      <persName>
                         <forename>Johann Georg</forename>
                         <surname>Prunner</surname>
                      </persName>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Zuckerbäcker</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <listBibl>

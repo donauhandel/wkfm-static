@@ -92,12 +92,27 @@
                         <surname>Häsl</surname>
                         <surname type="alt">Haßl</surname>
                         <surname type="alt">Hääsl</surname>
-                     </persName>
+                     </persName>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zum Roten Krebs in der Leopoldstadt (Calender 1723)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <listBibl>
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 403.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0959.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0959</note><note target="wkfm-0960.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0960</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46467">
+                     <orgName>Simon Häsl</orgName>
+                  <noteGrp><note target="wkfm-0959.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0959</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

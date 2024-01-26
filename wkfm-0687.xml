@@ -92,5 +92,8 @@
             
         </div>
       </body>
-    <back/></text>
+    <back><listOrg><org xml:id="wkfm__47064">
+                     <orgName>Franz Adam Froitsheim sel. Erben</orgName>
+                  <noteGrp><note target="wkfm-0687.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0687</note><note target="wkfm-0688.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0688</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

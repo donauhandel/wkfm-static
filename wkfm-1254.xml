@@ -98,22 +98,31 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__8413" sameAs="#wkfm__21745 ">
+    <back><listPerson><person xml:id="wkfm__46902">
+                     <persName>
+                        <forename>Georg Wilhelm</forename>
+                        <surname>Plattensteiner</surname>
+                     </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+               <noteGrp><note target="wkfm-1254.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1254</note></noteGrp></person>
+                <person xml:id="wkfm__8413" sameAs="#wkfm__21745 ">
                      <persName>
                         <forename>Johann Cornelius</forename>
                         <surname>Marei</surname>
                         <surname type="alt">Marci</surname>
                      </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                <noteGrp><note target="wkfm-1253.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1253</note><note target="wkfm-1254.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1254</note></noteGrp></person>
-                <person xml:id="wkfm__46902">
-                     <persName>
-                        <forename>Georg Wilhelm</forename>
-                        <surname>Plattensteiner</surname>
-                     </persName>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-               <noteGrp><note target="wkfm-1254.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1254</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46901">
+                     <orgName>Marci und Plattensteiner</orgName>
+                  <noteGrp><note target="wkfm-1253.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1253</note><note target="wkfm-1254.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1254</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

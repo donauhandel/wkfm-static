@@ -88,7 +88,22 @@
                         <surname>Walker</surname>
                         <surname type="alt">Walcker</surname>
                      </persName>
-                     <death><date>1764</date></death>
+                     <death><date>1764</date></death>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zum St. Johann von Nepomuc im Freisinger-Hof (Calender 1758)</placeName>
+                     </residence>
+                     <residence type="Geburtsort">
+                        <placeName key="#wkfm-place__128">Eggenburg</placeName>
+                     <location type="coords"><geo>48.638888888888886 15.818888888888889</geo></location></residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <listBibl>

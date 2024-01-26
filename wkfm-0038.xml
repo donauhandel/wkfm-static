@@ -94,12 +94,27 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__17118">
+    <back><listOrg><org xml:id="wkfm__46594">
+                     <orgName>Franz Auchter</orgName>
+                  <noteGrp><note target="wkfm-0038.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0038</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__17118">
                      <persName>
                         <forename>Franz</forename>
                         <surname>Auchter</surname>
                      </persName>
-                     <death><date>1765</date></death>
+                     <death><date>1765</date></death>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zum Schwarzen Mohren nächst dem Seitzer-Hof (Calender 1758)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="aemter">Vorsteher der bürgerl. Handelsleute</occupation>
                      <occupation type="aemter">Senior des bürgerl. Handelsstands</occupation>

@@ -106,26 +106,14 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__24036">
-                     <persName>
-                        <forename>None</forename>
-                        <surname>Wilkens</surname>
-                     </persName>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-               <noteGrp><note target="wkfm-1789.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1789</note></noteGrp></person>
-                <person xml:id="wkfm__47011">
-                     <persName>
-                        <forename>Christian</forename>
-                        <surname>Wimber</surname>
-                     </persName>
-                     <occupation>Prokurist bei Wilkens und Bosquet</occupation>
-               <noteGrp><note target="wkfm-1789.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1789</note></noteGrp></person>
-                <person xml:id="wkfm__9118">
+    <back><listPerson><person xml:id="wkfm__9118">
                      <persName>
                         <forename>None</forename>
                         <surname>Bosquet</surname>
                      </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                <noteGrp><note target="wkfm-1789.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1789</note></noteGrp></person>
@@ -134,7 +122,34 @@
                         <forename>Franz Joseph</forename>
                         <surname>Cornelißen</surname>
                      </persName>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Angestellter und Prokurist bei Wilkens und Bosquet</occupation>
                <noteGrp><note target="wkfm-1789.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1789</note></noteGrp></person>
-                </listPerson></back></text>
+                <person xml:id="wkfm__24036">
+                     <persName>
+                        <forename>None</forename>
+                        <surname>Wilkens</surname>
+                     </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+               <noteGrp><note target="wkfm-1789.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1789</note></noteGrp></person>
+                <person xml:id="wkfm__47011">
+                     <persName>
+                        <forename>Christian</forename>
+                        <surname>Wimber</surname>
+                     </persName>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Prokurist bei Wilkens und Bosquet</occupation>
+               <noteGrp><note target="wkfm-1789.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1789</note></noteGrp></person>
+                </listPerson><listOrg><org xml:id="wkfm__19149">
+                     <orgName>Wilkens und Bosquet</orgName>
+                  <noteGrp><note target="wkfm-1789.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1789</note><note target="wkfm-1790.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1790</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

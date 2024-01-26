@@ -95,11 +95,23 @@
                         <forename>Johann Joseph</forename>
                         <surname>Winterl</surname>
                      </persName>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <listBibl>
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 565.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1771.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1771</note><note target="wkfm-1772.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1772</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46997">
+                     <orgName>Johann Joseph Winterl</orgName>
+                  <noteGrp><note target="wkfm-1771.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1771</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

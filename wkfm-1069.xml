@@ -90,14 +90,35 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__9468" sameAs="#wkfm__18968 wkfm__46774 ">
+    <back><listOrg><org xml:id="wkfm__46634">
+                     <orgName>Guillaume Jenamy</orgName>
+                  <noteGrp><note target="wkfm-1069.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1069</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__9468" sameAs="#wkfm__18968 wkfm__46774 ">
                      <persName>
                         <forename>Wilhelm</forename>
                         <forename type="alt">Guillaume </forename>
                         <surname>Jenamy</surname>
                      </persName>
                      <birth><date>1690</date></birth>
-                     <death><date>1758</date></death>
+                     <death><date>1758</date></death>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Bei der Goldenen Glocken auf dem Bauernmarkt (Calender 1723)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Sterbeort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geburtsort">
+                        <placeName key="#wkfm-place__2564">St. Nicola (Savoyen)</placeName>
+                     </residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <listBibl>

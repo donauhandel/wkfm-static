@@ -95,24 +95,36 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47129">
-                     <persName>
-                        <forename>Johann Jakob</forename>
-                        <surname>Frosch</surname>
-                     </persName>
-                     <death><date>1761</date></death>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-                     <listBibl>
-                        <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 381.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-0767.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0767</note><note target="wkfm-0768.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0768</note></noteGrp></person>
-                <person xml:id="wkfm__47132">
+    <back><listPerson><person xml:id="wkfm__47132">
                      <persName>
                         <forename>Maria Elisabeth</forename>
                         <surname>Kärnerin</surname>
                         <surname type="alt">Frosch</surname>
                      </persName>
                <noteGrp><note target="wkfm-0768.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0768</note></noteGrp></person>
+                <person xml:id="wkfm__47129">
+                     <persName>
+                        <forename>Johann Jakob</forename>
+                        <surname>Frosch</surname>
+                     </persName>
+                     <death><date>1761</date></death>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zum Grünen Baum nächst St. Stephan (Calender 1758)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+                     <listBibl>
+                        <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 381.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0767.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0767</note><note target="wkfm-0768.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0768</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

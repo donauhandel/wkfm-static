@@ -92,14 +92,29 @@
                      <persName>
                         <forename>Franz Wilhelm</forename>
                         <surname>Kunerth</surname>
-                        <surname type="alt">Kunath</surname>
                         <surname type="alt">Kunert</surname>
-                     </persName>
+                        <surname type="alt">Kunath</surname>
+                     </persName>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zum Goldenen Bären auf dem alten Fleischmarkt (Calender 1723)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <listBibl>
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 439.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0371.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0371</note><note target="wkfm-0372.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0372</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47218">
+                     <orgName>Franz Wilhelm Kunerth</orgName>
+                  <noteGrp><note target="wkfm-0371.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0371</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

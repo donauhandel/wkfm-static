@@ -88,13 +88,28 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46884">
+    <back><listOrg><org xml:id="wkfm__46885">
+                     <orgName>Nikolaus Johann Menschik</orgName>
+                  <noteGrp><note target="wkfm-1235.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1235</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__46884">
                      <persName>
                         <forename>Niklas Johann</forename>
                         <surname>Menschik</surname>
                         <surname type="alt">Menschikh</surname>
                      </persName>
-                     <death><date>1768</date></death>
+                     <death><date>1768</date></death>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zum Schwarzen Ochsen außer Mariahilf (Calender 1758)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1235.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1235</note><note target="wkfm-1236.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1236</note></noteGrp></person>

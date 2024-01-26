@@ -88,11 +88,23 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__9826" sameAs="#wkfm__26421 wkfm__27396 ">
+    <back><listOrg><org xml:id="wkfm__46686">
+                     <orgName>Joseph Anton Rotter</orgName>
+                  <noteGrp><note target="wkfm-1369.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1369</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__9826" sameAs="#wkfm__26421 wkfm__27396 ">
                      <persName>
                         <forename>Joseph Anton</forename>
                         <surname>Rotter</surname>
                      </persName>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handesmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <listBibl>

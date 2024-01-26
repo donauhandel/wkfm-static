@@ -88,13 +88,19 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47101">
+    <back><listOrg><org xml:id="wkfm__47102">
+                     <orgName>Johann Ferdinand Volland</orgName>
+                  <noteGrp><note target="wkfm-0737.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0737</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__47101">
                      <persName>
                         <forename>Johann Ferdinand</forename>
                         <surname>Volland</surname>
                         <surname type="alt">Vollandt</surname>
                      </persName>
                      <death><date>1732</date></death>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Leinwandhändler</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
                <noteGrp><note target="wkfm-0737.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0737</note><note target="wkfm-0738.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0738</note></noteGrp></person>

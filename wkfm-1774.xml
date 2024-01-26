@@ -92,6 +92,9 @@
                         <forename>Franz</forename>
                         <surname>von Wiesenhüter</surname>
                      </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                <noteGrp><note target="wkfm-1773.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1773</note><note target="wkfm-1774.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1774</note></noteGrp></person>
@@ -99,10 +102,22 @@
                      <persName>
                         <forename>Johann Friedrich</forename>
                         <surname>von Wiesenhüter</surname>
-                        <surname type="alt">von Wiesenhütten</surname>
                         <surname type="alt">Wiesenhüter</surname>
+                        <surname type="alt">von Wiesenhütten</surname>
                      </persName>
                      <death><date>1742</date></death>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__1569">Frankfurt am Main</placeName>
+                     <location type="coords"><geo>50.11527777777778 8.684166666666666</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__1569">Frankfurt am Main</placeName>
+                     <location type="coords"><geo>50.11527777777778 8.684166666666666</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                      <listBibl>

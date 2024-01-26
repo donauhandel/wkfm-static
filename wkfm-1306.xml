@@ -87,7 +87,22 @@
                         <forename>Johann Michael</forename>
                         <surname>Niller</surname>
                      </persName>
-                     <death><date>1770, 1780 ?</date></death>
+                     <death><date>1770, 1780 ?</date></death>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zum Weißen Lämmel auf dem alten Bauernmarkt (Calender 1758)</placeName>
+                     </residence>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Bauernmarkt 9 (alt: Nr. 580)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <listBibl>

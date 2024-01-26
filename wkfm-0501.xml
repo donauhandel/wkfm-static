@@ -98,13 +98,25 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__17087">
+    <back><listOrg><org xml:id="wkfm__12271">
+                     <orgName>Trevano und Consoni</orgName>
+                  <noteGrp><note target="wkfm-0407.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0407</note><note target="wkfm-0408.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0408</note><note target="wkfm-0501.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0501</note><note target="wkfm-0502.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0502</note></noteGrp></org>
+                <org xml:id="wkfm__46188">
+                     <orgName>Joseph de Trevano</orgName>
+                  <noteGrp><note target="wkfm-0501.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0501</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__17087">
                      <persName>
                         <forename>Kaspar</forename>
                         <forename type="alt">Gasparo</forename>
                         <forename type="alt">Kaspar Melichor Balthasar</forename>
                         <surname>Consoni</surname>
                      </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geburtsort">
+                        <placeName key="#wkfm-place__2568">Anzano</placeName>
+                     </residence>
                      <occupation>Prokurist bei Angelo Maria Consoni, Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                <noteGrp><note target="wkfm-0335.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0335</note><note target="wkfm-0336.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0336</note><note target="wkfm-0407.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0407</note><note target="wkfm-0408.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0408</note><note target="wkfm-0501.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0501</note><note target="wkfm-0502.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0502</note><note target="wkfm-0793.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0793</note></noteGrp></person>
@@ -116,6 +128,12 @@
                         <surname>de Trevano</surname>
                         <surname type="alt">de Trevani</surname>
                      </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geburtsort">
+                        <placeName key="#wkfm-place__2543">Locarno</placeName>
+                     </residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                <noteGrp><note target="wkfm-0407.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0407</note><note target="wkfm-0408.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0408</note><note target="wkfm-0501.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0501</note><note target="wkfm-0502.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0502</note></noteGrp></person>

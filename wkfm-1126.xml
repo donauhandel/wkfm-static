@@ -88,7 +88,22 @@
                      <persName>
                         <forename>Johann Michael</forename>
                         <surname>Lang</surname>
-                     </persName>
+                     </persName>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zum Schwarzen Bock unter den Tuchläden (Calender 1723)</placeName>
+                     </residence>
+                     <residence type="Geburtsort">
+                        <placeName key="#wkfm-place__816">Steyr</placeName>
+                     <location type="coords"><geo>48.0425 14.421111111111111</geo></location></residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1125.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1125</note><note target="wkfm-1126.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1126</note></noteGrp></person>

@@ -109,7 +109,19 @@
                         <forename>Ignaz Franz Anton</forename>
                         <surname>Feigl</surname>
                      </persName>
-                     <death><date>1778</date></death>
+                     <death><date>1778</date></death>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zur Goldenen Waage in der Karlstadt (Calender 1758)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0749.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0749</note><note target="wkfm-0750.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0750</note></noteGrp></person>
@@ -119,6 +131,9 @@
                         <surname>Weibel</surname>
                         <surname type="alt">Weil</surname>
                      </persName>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Prokurist bei Ignaz Franz Anton Feigl</occupation>
                <noteGrp><note target="wkfm-0749.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0749</note></noteGrp></person>
                 </listPerson></back></text>

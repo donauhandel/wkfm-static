@@ -107,13 +107,31 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46774">
+    <back><listPerson><person xml:id="wkfm__46773">
                      <persName>
-                        <forename>Franz</forename>
-                        <surname>Jenamy</surname>
+                        <forename>Johann Georg</forename>
+                        <surname>Kaiser</surname>
+                        <surname type="alt">Kayser</surname>
                      </persName>
-                     <death><date>1762</date></death>
-                     <occupation>Handelsmann</occupation>
+                     <occupation>Angestellter bei Johann Weygerth</occupation>
+               <noteGrp><note target="wkfm-1451.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1451</note></noteGrp></person>
+                <person xml:id="wkfm__46772">
+                     <persName>
+                        <forename>Johann</forename>
+                        <surname>Rösler</surname>
+                        <surname type="alt">Reßler</surname>
+                     </persName>
+                     <death><date>1757</date></death>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Angestellter bei Johann Wegerth, Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1451.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1451</note></noteGrp></person>
                 <person xml:id="wkfm__24729">
@@ -123,23 +141,26 @@
                         <surname type="alt">Weygarth</surname>
                      </persName>
                <noteGrp><note target="wkfm-0303.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0303</note><note target="wkfm-1451.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1451</note></noteGrp></person>
-                <person xml:id="wkfm__46772">
+                <person xml:id="wkfm__46774">
                      <persName>
-                        <forename>Johann</forename>
-                        <surname>Rösler</surname>
-                        <surname type="alt">Reßler</surname>
+                        <forename>Franz</forename>
+                        <surname>Jenamy</surname>
                      </persName>
-                     <death><date>1757</date></death>
-                     <occupation>Angestellter bei Johann Wegerth, Handelsmann</occupation>
+                     <death><date>1762</date></death>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zum Schönen Garten auf dem Graben (Calender 1758) [?]</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-1451.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1451</note></noteGrp></person>
-                <person xml:id="wkfm__46773">
-                     <persName>
-                        <forename>Johann Georg</forename>
-                        <surname>Kaiser</surname>
-                        <surname type="alt">Kayser</surname>
-                     </persName>
-                     <occupation>Angestellter bei Johann Weygerth</occupation>
                <noteGrp><note target="wkfm-1451.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1451</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

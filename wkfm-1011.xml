@@ -88,13 +88,28 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__25804">
+    <back><listOrg><org xml:id="wkfm__46506">
+                     <orgName>Joseph Anton Heim</orgName>
+                  <noteGrp><note target="wkfm-1011.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1011</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__25804">
                      <persName>
                         <forename>Joseph Anton</forename>
                         <surname>Heim</surname>
                         <surname type="alt">Hein</surname>
                      </persName>
-                     <death><date>1776</date></death>
+                     <death><date>1776</date></death>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Stock am Eisen im Zahlheimischen Haus (Calender 1758)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <listBibl>

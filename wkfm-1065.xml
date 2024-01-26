@@ -92,12 +92,24 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__9635" sameAs="#wkfm__13036 ">
+    <back><listOrg><org xml:id="wkfm__46632">
+                     <orgName>Johann Peter Jungwirt</orgName>
+                  <noteGrp><note target="wkfm-1065.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1065</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__9635" sameAs="#wkfm__13036 ">
                      <persName>
                         <forename>Johann Peter</forename>
                         <surname>Jungwirt</surname>
                         <surname type="alt">Jungwirth</surname>
                      </persName>
+                     <residence type="Geburtsort">
+                        <placeName key="#wkfm-place__135">Eisenstadt</placeName>
+                     <location type="coords"><geo>47.845555555555556 16.523055555555555</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
                <noteGrp><note target="wkfm-1065.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1065</note><note target="wkfm-1066.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1066</note></noteGrp></person>

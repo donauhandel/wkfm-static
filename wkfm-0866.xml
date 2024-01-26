@@ -96,12 +96,18 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46334">
+    <back><listOrg><org xml:id="wkfm__46333">
+                     <orgName>Gouttro und Schußböck</orgName>
+                  <noteGrp><note target="wkfm-0865.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0865</note><note target="wkfm-0866.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0866</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__46334">
                      <persName>
                         <forename>Johann</forename>
                         <surname>Schußböck</surname>
                         <surname type="alt">Schußbökh</surname>
                      </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <listBibl>
@@ -114,7 +120,22 @@
                         <surname>Gouttro</surname>
                         <surname type="alt">Goutro</surname>
                      </persName>
-                     <death><date>1766</date></death>
+                     <death><date>1766</date></death>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zum Goldenen Kopf auf dem Graben (Calender 1758)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geburtsort">
+                        <placeName key="#wkfm-place__2580">Combloux</placeName>
+                     </residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <listBibl>

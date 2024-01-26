@@ -94,11 +94,23 @@
                         <surname type="alt">Krammer</surname>
                      </persName>
                      <death><date>1743</date></death>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Eisenhändler</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <listBibl>
                         <bibl>Huchler, Bürgeraufnahmen, 435.</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0399.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0399</note><note target="wkfm-0400.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0400</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47232">
+                     <orgName>Philipp Kramer</orgName>
+                  <noteGrp><note target="wkfm-0399.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0399</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

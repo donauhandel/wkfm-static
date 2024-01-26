@@ -88,19 +88,14 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46775">
-                     <persName>
-                        <forename>Andre</forename>
-                        <surname>Löschenkohl</surname>
-                     </persName>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-               <noteGrp><note target="wkfm-1102.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1102</note></noteGrp></person>
-                <person xml:id="wkfm__20532">
+    <back><listPerson><person xml:id="wkfm__20532">
                      <persName>
                         <forename>Andre Christian</forename>
                         <surname>Mühl</surname>
                      </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                      <listBibl>
@@ -112,6 +107,12 @@
                         <forename>Hieronymus</forename>
                         <surname>Löschenkohl</surname>
                      </persName>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__690">Regensburg</placeName>
+                     <location type="coords"><geo>49.015 12.101388888888888</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                      <listBibl>
@@ -125,11 +126,31 @@
                      </persName>
                      <birth><date>1689</date></birth>
                      <death><date>1742</date></death>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                      <listBibl>
                         <bibl>&amp;lt;span&amp;gt;Kröpfel, Protestantismus, Anhang 1, S. 4.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1101.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1101</note><note target="wkfm-1102.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1102</note></noteGrp></person>
-                </listPerson></back></text>
+                <person xml:id="wkfm__46775">
+                     <persName>
+                        <forename>Andre</forename>
+                        <surname>Löschenkohl</surname>
+                     </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+               <noteGrp><note target="wkfm-1102.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1102</note></noteGrp></person>
+                </listPerson><listOrg><org xml:id="wkfm__17801">
+                     <orgName>Johann Christoph Löschenkohl sel. Erben</orgName>
+                  <noteGrp><note target="wkfm-1101.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1101</note><note target="wkfm-1102.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1102</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

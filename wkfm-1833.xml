@@ -90,14 +90,29 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__10090">
+    <back><listOrg><org xml:id="wkfm__9739">
+                     <orgName>Albert Zehetner</orgName>
+                  <noteGrp><note target="wkfm-1833.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1833</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__10090">
                      <persName>
                         <forename>Albrecht</forename>
                         <forename type="alt">Albert</forename>
                         <surname>Zehetner</surname>
                         <surname type="alt">Zechetner</surname>
                      </persName>
-                     <death><date>1755</date></death>
+                     <death><date>1755</date></death>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zum Zedernbaum auf dem Graben (Calender 1723)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <listBibl>

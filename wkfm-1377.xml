@@ -91,11 +91,26 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__9396" sameAs="#wkfm__8335 ">
+    <back><listOrg><org xml:id="wkfm__46695">
+                     <orgName>Johann Michael Rappenmoser</orgName>
+                  <noteGrp><note target="wkfm-1377.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1377</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__9396" sameAs="#wkfm__8335 ">
                      <persName>
                         <forename>Johann Michael</forename>
                         <surname>Rappenmoser</surname>
                      </persName>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geburtsort">
+                        <placeName key="#wkfm-place__1172">Garsten</placeName>
+                     <location type="coords"><geo>48.02222222222222 14.407222222222222</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <listBibl>

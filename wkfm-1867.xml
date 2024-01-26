@@ -94,11 +94,20 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__29411">
+    <back><listOrg><org xml:id="wkfm__46619">
+                     <orgName>Herz Lehmann</orgName>
+                  <noteGrp><note target="wkfm-1867.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1867</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__29411">
                      <persName>
                         <forename>Herz</forename>
                         <surname>Lehmann</surname>
                      </persName>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">jüdisch</occupation>
                      <listBibl>

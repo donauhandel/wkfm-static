@@ -116,11 +116,29 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__44015">
+    <back><listOrg><org xml:id="wkfm__44011">
+                     <orgName>Karl Barbieri sel. Söhne und Erben, Barbieri sel. Söhne</orgName>
+                  <noteGrp><note target="wkfm-0305.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0305</note><note target="wkfm-0306.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0306</note><note target="wkfm-1685.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1685</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__44015">
                      <persName>
                         <forename>Ignaz</forename>
                         <surname>Barbieri</surname>
                      </persName>
+                     <affiliation>
+                        <orgName key="#wkfm__44011">Karl Barbieri sel. Söhne und Erben, Barbieri sel. Söhne</orgName>
+                     </affiliation>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zum Silbernen Stern auf dem Hof (Calender 1758)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                <noteGrp><note target="wkfm-0305.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0305</note><note target="wkfm-0306.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0306</note></noteGrp></person>
                 <person xml:id="wkfm__44012">
@@ -128,6 +146,21 @@
                         <forename>Anton</forename>
                         <surname>Barbieri</surname>
                      </persName>
+                     <affiliation>
+                        <orgName key="#wkfm__44011">Karl Barbieri sel. Söhne und Erben, Barbieri sel. Söhne</orgName>
+                     </affiliation>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zum Silbernen Stern auf dem Hof (Calender 1758)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <listBibl>
