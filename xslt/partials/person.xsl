@@ -38,8 +38,17 @@
                     </th>
                     <td>
                         <xsl:for-each select=".//tei:residence">
-                            <xsl:value-of select="./@type"/>: <a href="{replace(./tei:placeName/@key, '#', '')||'.html'}">
-                                <xsl:value-of select="./tei:placeName/text()"/></a><br />
+                            <xsl:value-of select="./@type"/>:
+                            <xsl:choose>
+                                <xsl:when test="data(./@type) eq 'Geschäftsadresse'">
+                                    <xsl:value-of select="./tei:placeName/text()"/>
+                                </xsl:when>
+                                <xsl:otherwise>
+                                    <a href="{replace(./tei:placeName/@key, '#', '')||'.html'}">
+                                        <xsl:value-of select="./tei:placeName/text()"/></a>
+                                </xsl:otherwise>
+                            </xsl:choose>
+                            <br />
                         </xsl:for-each>
                     </td>
                 </tr>

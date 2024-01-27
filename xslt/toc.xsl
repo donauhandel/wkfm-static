@@ -40,7 +40,9 @@
                                 <tr>
                                     <th scope="col" tabulator-formatter="html" tabulator-headerFilter="input">Titel</th>
                                     <th scope="col" tabulator-formatter="html" tabulator-headerFilter="input">erwähnte Personen</th>
-                                    <th scope="col" tabulator-formatter="html" tabulator-headerFilter="input">Anzahl erwähtner Personen</th>
+                                    <th scope="col" tabulator-formatter="html" tabulator-headerFilter="input">Anzahl erwähnter Personen</th>
+                                    <th scope="col" tabulator-formatter="html" tabulator-headerFilter="input">erwähnte Firmen</th>
+                                    <th scope="col" tabulator-formatter="html" tabulator-headerFilter="input">Anzahl erwähnter Firmen</th>
                                 </tr>
                             </thead>
                             <tbody>
@@ -64,7 +66,7 @@
                                         </td>
                                         <td>
                                             <ul>
-                                            <xsl:for-each select=".//tei:back//tei:person">
+                                            <xsl:for-each select=".//tei:back/tei:listPerson//tei:person">
                                                 <li>
                                                     <a href="{./@xml:id||'.html'}">
                                                         <xsl:value-of select="./tei:persName[1]/tei:surname[1]/text()"/>, <xsl:value-of select="./tei:persName[1]/tei:forename[1]/text()"/>
@@ -74,7 +76,21 @@
                                             </ul>
                                         </td>
                                         <td>
-                                            <xsl:value-of select="count(.//tei:back//tei:person)"/>
+                                            <xsl:value-of select="count(.//tei:back/tei:listPerson//tei:person)"/>
+                                        </td>
+                                        <td>
+                                            <ul>
+                                                <xsl:for-each select=".//tei:back/tei:listOrg//tei:org">
+                                                    <li>
+                                                        <a href="{./@xml:id||'.html'}">
+                                                            <xsl:value-of select="./tei:orgName[1]/text()"/>
+                                                        </a>
+                                                    </li>
+                                                </xsl:for-each>
+                                            </ul>
+                                        </td>
+                                        <td>
+                                            <xsl:value-of select="count(.//tei:back/tei:listOrg//tei:org)"/>
                                         </td>
                                     </tr>
                                 </xsl:for-each>

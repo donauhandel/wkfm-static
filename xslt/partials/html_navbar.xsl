@@ -30,8 +30,19 @@
                             <li class="nav-item">
                                 <a class="nav-link" href="toc.html">Editionseinheiten</a>
                             </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="listperson.html">Personenregister</a>
+                            <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Register</a>
+                                <ul class="dropdown-menu">
+                                    <li>
+                                        <a class="dropdown-item" href="listperson.html">Personenregister</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item" href="listorg.html">Firmenregiser</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item" href="listplace.html">Ortsregister</a>
+                                    </li>
+                                </ul>
                             </li>
 
                             <li class="nav-item">

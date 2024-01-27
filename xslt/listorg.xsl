@@ -29,8 +29,8 @@
             <body class="d-flex flex-column h-100">
                 <xsl:call-template name="nav_bar"/>
                     <main>
-                        <div class="container">                        
-                            <h1>
+                        <div class="container pt-5 pb-5">                        
+                            <h1 class="text-center display-3 pb-3">
                                 <xsl:value-of select="$doc_title"/>
                             </h1>
                             
@@ -38,8 +38,10 @@
                                 <thead>
                                     <tr>
                                         <th scope="col" width="20" tabulator-formatter="html" tabulator-headerSort="false" tabulator-download="false">#</th>
-                                        <th scope="col" abulator-headerFilter="input">Name</th>
-                                        <th scope="col" abulator-headerFilter="input">ID</th>
+                                        <th scope="col" tabulator-headerFilter="input">Name</th>
+                                        <th scope="col" tabulator-headerFilter="input">Erwähnungen</th>
+                                        <th scope="col" tabulator-headerFilter="input">Beteiligte</th>
+                                        <th scope="col" tabulator-headerFilter="input">ID</th>
                                     </tr>
                                 </thead>
                                 <tbody>
@@ -58,6 +60,12 @@
                                             </td>
                                             <td>
                                                 <xsl:value-of select=".//tei:orgName[1]/text()"/>
+                                            </td>
+                                            <td>
+                                                <xsl:value-of select="count(.//tei:note[@type='mentions'])"/>
+                                            </td>
+                                            <td>
+                                                <xsl:value-of select="count(.//tei:person)"/>
                                             </td>
                                             <td>
                                                 <xsl:value-of select="$id"/>
@@ -86,8 +94,8 @@
                     <body class="d-flex flex-column h-100">
                         <xsl:call-template name="nav_bar"/>
                         <main>
-                            <div class="container">
-                                <h1>
+                            <div class="container pt-5 pb-5">
+                                <h1 class="text-center display-3 pb-3">
                                     <xsl:value-of select="$name"/>
                                 </h1>
                                 <xsl:call-template name="org_detail"/>  

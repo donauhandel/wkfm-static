@@ -30,8 +30,19 @@
             <body class="d-flex flex-column h-100">
                 <xsl:call-template name="nav_bar"/>
                 <main>
-                    <div class="container">
-                        <h1><xsl:value-of select="$doc_title"/></h1>
+                    <div class="container pt-5 pb-5">
+                        <h1 class="text-center display-3 pb-3">
+                            <xsl:value-of select="$doc_title"/>
+                        </h1>
+                        <div class="row">
+                            <div class="col-2"/>
+                            <div class="col-8">
+                                <p>Bei den hier gelisteten Orten handelt es sich um Bezugsorte diverser Art der im Personenregister verzeichneter Orte. Anders als bei vergleichbaren Editionsprojekten stehen diese Orte aber in keinem direkten Bezug zu der hier präsentierten Quelle.</p>
+                            </div>
+                            <div class="col-2"/>
+                        </div>
+                        
+                        
                         <div id="map"/>
                         <table class="table" id="myTable">
                             <thead>
@@ -102,8 +113,8 @@
                     <body class="d-flex flex-column h-100">
                         <xsl:call-template name="nav_bar"/>
                         <main>
-                            <div class="container">
-                                <h1>
+                            <div class="container pt-5 pb-5">
+                                <h1 class="text-center display-3 pb-3">
                                     <xsl:value-of select="$name"/>
                                 </h1>
                                 <xsl:call-template name="place_detail"/>
