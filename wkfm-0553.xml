@@ -88,10 +88,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46231">
-                     <orgName>Johann Georg Dietschi</orgName>
-                  <listPerson type="affiliated"><person><persName key="#wkfm__37748">Dietschi, Johann</persName></person></listPerson><noteGrp><note target="wkfm-0553.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0553</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__43997">
+    <back><listPerson><person xml:id="wkfm__43997">
                      <persName>
                         <forename>Johann Georg</forename>
                         <surname>Dietschi</surname>
@@ -115,5 +112,8 @@
                         <bibl>Huchler, Bürgeraufnahmen,&amp;amp;nbsp;362.</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0303.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0303</note><note target="wkfm-0553.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0553</note><note target="wkfm-0554.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0554</note><note target="wkfm-0593.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0593</note><note target="wkfm-0594.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0594</note><note target="wkfm-0596.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0596</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46231">
+                     <orgName>Johann Georg Dietschi</orgName>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__37748">Dietschi, Johann</persName></person></listPerson><noteGrp><note target="wkfm-0553.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0553</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

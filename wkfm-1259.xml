@@ -107,10 +107,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46911">
-                     <orgName>Johann Georg Mumb</orgName>
-                  <noteGrp><note target="wkfm-1259.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1259</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__46910" sameAs="#wkfm__43401 ">
+    <back><listPerson><person xml:id="wkfm__46910" sameAs="#wkfm__43401 ">
                      <persName>
                         <forename>Johann Georg</forename>
                         <surname>Mumb</surname>
@@ -140,5 +137,8 @@
                         <surname>Mumb</surname>
                      </persName>
                <noteGrp><note target="wkfm-0767.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0767</note><note target="wkfm-1259.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1259</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46911">
+                     <orgName>Johann Georg Mumb</orgName>
+                  <noteGrp><note target="wkfm-1259.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1259</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

@@ -92,7 +92,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__11690" sameAs="#wkfm__10896 ">
+    <back><listOrg><org xml:id="wkfm__46583">
+                     <orgName>Albert Albertini</orgName>
+                  <noteGrp><note target="wkfm-0018.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0018</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__11690" sameAs="#wkfm__10896 ">
                      <persName>
                         <forename>Albert</forename>
                         <forename type="alt">Albrecht</forename>
@@ -119,8 +122,5 @@
                         <bibl>Huchler, Bürgeraufnahmen, 338.</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0018.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0018</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46583">
-                     <orgName>Albert Albertini</orgName>
-                  <noteGrp><note target="wkfm-0018.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0018</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

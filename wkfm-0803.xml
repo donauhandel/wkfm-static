@@ -92,10 +92,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47186">
-                     <orgName>Anton Faber</orgName>
-                  <noteGrp><note target="wkfm-0803.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0803</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__47185">
+    <back><listPerson><person xml:id="wkfm__47185">
                      <persName>
                         <forename>Anton</forename>
                         <surname>Faber</surname>
@@ -115,5 +112,8 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0803.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0803</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47186">
+                     <orgName>Anton Faber</orgName>
+                  <noteGrp><note target="wkfm-0803.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0803</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

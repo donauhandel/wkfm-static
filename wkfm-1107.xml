@@ -88,7 +88,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__11217" sameAs="#wkfm__10570 ">
+    <back><listOrg><org xml:id="wkfm__46781">
+                     <orgName>Johann Georg Lechner</orgName>
+                  <noteGrp><note target="wkfm-1107.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1107</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__11217" sameAs="#wkfm__10570 ">
                      <persName>
                         <forename>Johann Georg</forename>
                         <surname>Lechner</surname>
@@ -114,8 +117,5 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 443 (unklar: 1. Futterhändler [6. April 1712], 2. Handelsmann [2. März 1716]).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1107.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1107</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46781">
-                     <orgName>Johann Georg Lechner</orgName>
-                  <noteGrp><note target="wkfm-1107.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1107</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

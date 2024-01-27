@@ -86,27 +86,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47405">
-                     <persName>
-                        <forename>Peter</forename>
-                        <surname>Vincent</surname>
-                     </persName>
-                     <death><date>1744</date></death>
-                     <residence type="Bürgerrecht">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-                     <listBibl>
-                        <bibl>Huchler, Bürgeraufnahmen,&amp;amp;nbsp;550.</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-1475.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1475</note><note target="wkfm-1476.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1476</note></noteGrp></person>
-                <person xml:id="wkfm__47406">
+    <back><listPerson><person xml:id="wkfm__47406">
                      <persName>
                         <forename>Joseph Niklas</forename>
                         <surname>Saliet</surname>
@@ -126,6 +106,26 @@
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 508 (4. August 1725).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1476.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1476</note></noteGrp></person>
+                <person xml:id="wkfm__47405">
+                     <persName>
+                        <forename>Peter</forename>
+                        <surname>Vincent</surname>
+                     </persName>
+                     <death><date>1744</date></death>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <listBibl>
+                        <bibl>Huchler, Bürgeraufnahmen,&amp;amp;nbsp;550.</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-1475.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1475</note><note target="wkfm-1476.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1476</note></noteGrp></person>
                 <person xml:id="wkfm__13222" sameAs="#wkfm__8119 ">
                      <persName>
                         <forename>Niklas</forename>

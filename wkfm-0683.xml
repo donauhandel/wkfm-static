@@ -93,10 +93,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__10906">
-                     <orgName>Farovino &amp; Co.</orgName>
-                  <noteGrp><note target="wkfm-0683.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0683</note><note target="wkfm-0684.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0684</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__47062">
+    <back><listPerson><person xml:id="wkfm__47062">
                      <persName>
                         <forename>Wenzel</forename>
                         <surname>Kempf</surname>
@@ -122,5 +119,8 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
                <noteGrp><note target="wkfm-0683.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0683</note><note target="wkfm-0684.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0684</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__10906">
+                     <orgName>Farovino &amp; Co.</orgName>
+                  <noteGrp><note target="wkfm-0683.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0683</note><note target="wkfm-0684.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0684</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

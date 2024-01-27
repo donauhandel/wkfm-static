@@ -162,25 +162,17 @@
                      <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Hofjuwelier, Wechsler/Bankier</occupation>
                <noteGrp><note target="wkfm-1621.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1621</note><note target="wkfm-1622.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1622</note><note target="wkfm-1704.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1704</note></noteGrp></person>
-                <person xml:id="wkfm__47515">
+                <person xml:id="wkfm__47518">
                      <persName>
-                        <forename>Maria Josepha</forename>
+                        <forename>Jakob</forename>
                         <surname>Smitmer</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-1621.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1621</note><note target="wkfm-1622.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1622</note></noteGrp></person>
-                <person xml:id="wkfm__47512">
-                     <persName>
-                        <forename>Franz Michael</forename>
-                        <surname>Smitmer</surname>
+                        <surname type="alt">von Schmittmer</surname>
                      </persName>
                      <residence type="Geschäftsniederlassung">
                         <placeName key="#wkfm-place__925">Wien</placeName>
                      <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Hofjuwelier, Wechsler</occupation>
-                     <listBibl>
-                        <bibl>Mittenzwei, Zwischen Gestern und Morgen, 126 (Familienverbindungen).&amp;lt;br&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-1621.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1621</note><note target="wkfm-1622.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1622</note><note target="wkfm-1704.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1704</note></noteGrp></person>
+                     <occupation>Handelsmann</occupation>
+               <noteGrp><note target="wkfm-1622.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1622</note><note target="wkfm-1704.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1704</note></noteGrp></person>
                 <person xml:id="wkfm__46950">
                      <persName>
                         <forename>Arnold Philipp</forename>
@@ -197,17 +189,6 @@
                         <bibl>Staats- und Standeskalender 1723, 241.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1622.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1622</note><note target="wkfm-1711.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1711</note><note target="wkfm-1712.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1712</note></noteGrp></person>
-                <person xml:id="wkfm__47518">
-                     <persName>
-                        <forename>Jakob</forename>
-                        <surname>Smitmer</surname>
-                        <surname type="alt">von Schmittmer</surname>
-                     </persName>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-               <noteGrp><note target="wkfm-1622.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1622</note><note target="wkfm-1704.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1704</note></noteGrp></person>
                 <person xml:id="wkfm__47516">
                      <persName>
                         <forename>Maria Barbara</forename>
@@ -226,6 +207,25 @@
                      <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Kammerjuwelier</occupation>
                <noteGrp><note target="wkfm-1622.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1622</note></noteGrp></person>
+                <person xml:id="wkfm__47512">
+                     <persName>
+                        <forename>Franz Michael</forename>
+                        <surname>Smitmer</surname>
+                     </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Hofjuwelier, Wechsler</occupation>
+                     <listBibl>
+                        <bibl>Mittenzwei, Zwischen Gestern und Morgen, 126 (Familienverbindungen).&amp;lt;br&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-1621.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1621</note><note target="wkfm-1622.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1622</note><note target="wkfm-1704.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1704</note></noteGrp></person>
+                <person xml:id="wkfm__47515">
+                     <persName>
+                        <forename>Maria Josepha</forename>
+                        <surname>Smitmer</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-1621.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1621</note><note target="wkfm-1622.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1622</note></noteGrp></person>
                 </listPerson><listOrg><org xml:id="wkfm__47513">
                      <orgName>Gebrüder Smitmer, Fratelli Smitmer (Smittmer)</orgName>
                   <noteGrp><note target="wkfm-1621.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1621</note><note target="wkfm-1622.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1622</note><note target="wkfm-1703.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1703</note></noteGrp></org>

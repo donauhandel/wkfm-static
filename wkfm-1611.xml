@@ -94,7 +94,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__11621" sameAs="#wkfm__28400 wkfm__29461 wkfm__44624 ">
+    <back><listOrg><org xml:id="wkfm__47508">
+                     <orgName>Gottfried Christian von Schreyvogel</orgName>
+                  <noteGrp><note target="wkfm-1611.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1611</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__11621" sameAs="#wkfm__28400 wkfm__29461 wkfm__44624 ">
                      <persName>
                         <forename>Gottfried Christian</forename>
                         <surname>von Schreyvogel</surname>
@@ -107,8 +110,5 @@
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                      <occupation type="aemter">Ksl. Kupferadministrator</occupation>
                <noteGrp><note target="wkfm-1611.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1611</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__47508">
-                     <orgName>Gottfried Christian von Schreyvogel</orgName>
-                  <noteGrp><note target="wkfm-1611.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1611</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

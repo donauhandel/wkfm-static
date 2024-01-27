@@ -89,7 +89,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__18870">
+    <back><listOrg><org xml:id="wkfm__46797">
+                     <orgName>Johann Michael Lang</orgName>
+                  <noteGrp><note target="wkfm-1125.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1125</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__18870">
                      <persName>
                         <forename>Johann Michael</forename>
                         <surname>Lang</surname>
@@ -112,8 +115,5 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1125.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1125</note><note target="wkfm-1126.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1126</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46797">
-                     <orgName>Johann Michael Lang</orgName>
-                  <noteGrp><note target="wkfm-1125.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1125</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

@@ -93,13 +93,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46896">
-                     <orgName>Joseph Marquet &amp; Co.</orgName>
-                  <noteGrp><note target="wkfm-1247.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1247</note><note target="wkfm-1248.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1248</note></noteGrp></org>
-                <org xml:id="wkfm__46895">
-                     <orgName>Joseph Marquet</orgName>
-                  <noteGrp><note target="wkfm-1247.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1247</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__25004">
+    <back><listPerson><person xml:id="wkfm__25004">
                      <persName>
                         <forename>Joseph</forename>
                         <surname>Marquet</surname>
@@ -123,5 +117,11 @@
                         <bibl>Huchler, Bürgeraufnahmen 454 (&amp;#34;Marquetu&amp;#34;).&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1247.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1247</note><note target="wkfm-1248.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1248</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46895">
+                     <orgName>Joseph Marquet</orgName>
+                  <noteGrp><note target="wkfm-1247.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1247</note></noteGrp></org>
+                <org xml:id="wkfm__46896">
+                     <orgName>Joseph Marquet &amp; Co.</orgName>
+                  <noteGrp><note target="wkfm-1247.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1247</note><note target="wkfm-1248.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1248</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

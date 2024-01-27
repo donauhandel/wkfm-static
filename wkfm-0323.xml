@@ -94,7 +94,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__10385" sameAs="#wkfm__9979 ">
+    <back><listOrg><org xml:id="wkfm__47197">
+                     <orgName>Johann Kaspar Kreidemann</orgName>
+                  <noteGrp><note target="wkfm-0323.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0323</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__10385" sameAs="#wkfm__9979 ">
                      <persName>
                         <forename>Johann Kaspar</forename>
                         <surname>Kreidemann</surname>
@@ -114,8 +117,5 @@
                         <bibl>Senfelder, Gottesacker, 259; &amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Haemmerle, Hochzeitsbücher, 273, Nr. 3765; &amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Kühnert, Taufbuch, 106.&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0323.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0323</note><note target="wkfm-0324.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0324</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__47197">
-                     <orgName>Johann Kaspar Kreidemann</orgName>
-                  <noteGrp><note target="wkfm-0323.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0323</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

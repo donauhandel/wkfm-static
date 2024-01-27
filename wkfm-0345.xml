@@ -135,6 +135,6 @@
                <noteGrp><note target="wkfm-0345.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0345</note><note target="wkfm-0346.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0346</note><note target="wkfm-0475.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0475</note><note target="wkfm-0476.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0476</note><note target="wkfm-0579.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0579</note><note target="wkfm-0580.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0580</note><note target="wkfm-1263.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1263</note><note target="wkfm-1635.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1635</note></noteGrp></person>
                 </listPerson><listOrg><org xml:id="wkfm__47207">
                      <orgName>Anton Matthias Kircher</orgName>
-                  <listPerson type="affiliated"><person><persName key="#wkfm__46108">Kircher, Joseph</persName></person><person><persName key="#wkfm__41599">Togniola, Johann Peter</persName></person></listPerson><noteGrp><note target="wkfm-0345.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0345</note></noteGrp></org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__41599">Togniola, Johann Peter</persName></person><person><persName key="#wkfm__46108">Kircher, Joseph</persName></person></listPerson><noteGrp><note target="wkfm-0345.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0345</note></noteGrp></org>
                 </listOrg></back></text>
 </TEI>

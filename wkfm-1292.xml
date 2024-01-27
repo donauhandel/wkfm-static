@@ -89,13 +89,7 @@
          
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46947">
-                     <persName>
-                        <forename>Maria Anna</forename>
-                        <surname>Steiningerin</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-1292.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1292</note></noteGrp></person>
-                <person xml:id="wkfm__46946">
+    <back><listPerson><person xml:id="wkfm__46946">
                      <persName>
                         <forename>Joseph</forename>
                         <surname>Mäzinger</surname>
@@ -115,5 +109,11 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1291.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1291</note><note target="wkfm-1292.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1292</note></noteGrp></person>
+                <person xml:id="wkfm__46947">
+                     <persName>
+                        <forename>Maria Anna</forename>
+                        <surname>Steiningerin</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-1292.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1292</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

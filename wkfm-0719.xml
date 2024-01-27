@@ -88,10 +88,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47088">
-                     <orgName>Johann Philipp Voit</orgName>
-                  <noteGrp><note target="wkfm-0719.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0719</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__8673">
+    <back><listPerson><person xml:id="wkfm__8673">
                      <persName>
                         <forename>Johann Philipp</forename>
                         <surname>Voit</surname>
@@ -108,5 +105,8 @@
                      <occupation>Tuchhändler</occupation>
                      <occupation type="kaufmannsklasse">tuchlaubensverwandt/bürgerlich</occupation>
                <noteGrp><note target="wkfm-0719.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0719</note><note target="wkfm-0720.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0720</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47088">
+                     <orgName>Johann Philipp Voit</orgName>
+                  <noteGrp><note target="wkfm-0719.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0719</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

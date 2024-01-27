@@ -94,7 +94,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__9824">
+    <back><listOrg><org xml:id="wkfm__44788">
+                     <orgName>Johann Baptist Bolza und Johann Peter Bolza</orgName>
+                  <noteGrp><note target="wkfm-0092.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0092</note><note target="wkfm-0093.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0093</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__9824">
                      <persName>
                         <forename>Johann Peter</forename>
                         <surname>Bolza</surname>
@@ -119,8 +122,5 @@
                         <bibl>Harrer-Lucienfeld, Wien, seiner Häuser, Bd. 2.1, S. 8&amp;lt;br&amp;gt;Harrer-Lucienfeld, Wien, seiner Häuser, Bd. 4.2, S. 431&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0092.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0092</note><note target="wkfm-0093.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0093</note><note target="wkfm-1409.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1409</note><note target="wkfm-1410.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1410</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__44788">
-                     <orgName>Johann Baptist Bolza und Johann Peter Bolza</orgName>
-                  <noteGrp><note target="wkfm-0092.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0092</note><note target="wkfm-0093.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0093</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

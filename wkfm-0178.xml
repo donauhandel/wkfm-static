@@ -88,10 +88,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47332">
-                     <orgName>Matthias Bidermann</orgName>
-                  <noteGrp><note target="wkfm-0178.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0178</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__8423">
+    <back><listPerson><person xml:id="wkfm__8423">
                      <persName>
                         <forename>Matthias</forename>
                         <surname>Bidermann</surname>
@@ -120,5 +117,8 @@
                         <bibl>Huchler, Bürgeraufnahmen, 348.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0178.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0178</note><note target="wkfm-0179.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0179</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47332">
+                     <orgName>Matthias Bidermann</orgName>
+                  <noteGrp><note target="wkfm-0178.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0178</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

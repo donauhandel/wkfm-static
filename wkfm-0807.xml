@@ -114,7 +114,17 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47190" sameAs="#wkfm__23466 ">
+    <back><listPerson><person xml:id="wkfm__47192" sameAs="#wkfm__43528 ">
+                     <persName>
+                        <forename>Johann Georg</forename>
+                        <surname>Haas</surname>
+                     </persName>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Angestellter und Prokurist bei Johann Fries</occupation>
+               <noteGrp><note target="wkfm-0807.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0807</note></noteGrp></person>
+                <person xml:id="wkfm__47190" sameAs="#wkfm__23466 ">
                      <persName>
                         <forename>Johann</forename>
                         <surname>Fries</surname>
@@ -138,16 +148,6 @@
                      <listBibl>
                         <bibl>Matis, Grafen von Fries, 484-492; Matis, Ansätze der Industrialisierung, 195; Mikoletzky, Schweizer Händler, 169-171; Stökl, Protestantismus, 220f.; Mittenzwei, Zwischen Gestern und Morgen, passim; Dickson, Finance 1, passim; Matis, Manufakturen, 297.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
-               <noteGrp><note target="wkfm-0807.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0807</note></noteGrp></person>
-                <person xml:id="wkfm__47192" sameAs="#wkfm__43528 ">
-                     <persName>
-                        <forename>Johann Georg</forename>
-                        <surname>Haas</surname>
-                     </persName>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Angestellter und Prokurist bei Johann Fries</occupation>
                <noteGrp><note target="wkfm-0807.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0807</note></noteGrp></person>
                 </listPerson><listOrg><org xml:id="wkfm__47191">
                      <orgName>Johannes Fries</orgName>

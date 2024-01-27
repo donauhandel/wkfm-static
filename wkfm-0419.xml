@@ -88,7 +88,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__28337" sameAs="#wkfm__42963 wkfm__19341 wkfm__20497 ">
+    <back><listOrg><org xml:id="wkfm__47241">
+                     <orgName>Vittore Maria Caramazza</orgName>
+                  <noteGrp><note target="wkfm-0419.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0419</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__28337" sameAs="#wkfm__42963 wkfm__19341 wkfm__20497 ">
                      <persName>
                         <forename>Viktor Maria</forename>
                         <surname>Caramazza</surname>
@@ -108,8 +111,5 @@
                         <bibl>Huchler, Bürgeraufnahmen, 354.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0419.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0419</note><note target="wkfm-0420.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0420</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__47241">
-                     <orgName>Vittore Maria Caramazza</orgName>
-                  <noteGrp><note target="wkfm-0419.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0419</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

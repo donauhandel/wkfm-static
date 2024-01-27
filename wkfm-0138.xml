@@ -87,7 +87,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__9677">
+    <back><listOrg><org xml:id="wkfm__47310">
+                     <orgName>Hieronymus Bozzi</orgName>
+                  <noteGrp><note target="wkfm-0138.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0138</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__9677">
                      <persName>
                         <forename>Hieronymus</forename>
                         <surname>Bozzi</surname>
@@ -108,8 +111,5 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0138.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0138</note><note target="wkfm-0139.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0139</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__47310">
-                     <orgName>Hieronymus Bozzi</orgName>
-                  <noteGrp><note target="wkfm-0138.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0138</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

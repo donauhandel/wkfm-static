@@ -96,7 +96,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__9652">
+    <back><listOrg><org xml:id="wkfm__46626">
+                     <orgName>Marx Schlesinger</orgName>
+                  <noteGrp><note target="wkfm-1881.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1881</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__9652">
                      <persName>
                         <forename>Marx</forename>
                         <surname>Schlesinger</surname>
@@ -130,8 +133,5 @@
                         <bibl>Wachstein, Die Wiener Juden in Handel und Industrie.</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1881.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1881</note><note target="wkfm-1889.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1889</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46626">
-                     <orgName>Marx Schlesinger</orgName>
-                  <noteGrp><note target="wkfm-1881.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1881</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

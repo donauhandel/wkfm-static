@@ -131,29 +131,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46243">
-                     <persName>
-                        <forename>Johann Andre</forename>
-                        <surname>von Mayern</surname>
-                     </persName>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-               <noteGrp><note target="wkfm-0565.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0565</note><note target="wkfm-0566.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0566</note><note target="wkfm-1185.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1185</note><note target="wkfm-1186.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1186</note></noteGrp></person>
-                <person xml:id="wkfm__46241">
-                     <persName>
-                        <forename>Johann Ludolph</forename>
-                        <surname>Dohm von Dohmkirchen</surname>
-                     </persName>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-               <noteGrp><note target="wkfm-0565.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0565</note><note target="wkfm-0566.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0566</note></noteGrp></person>
-                <person xml:id="wkfm__22683">
+    <back><listPerson><person xml:id="wkfm__22683">
                      <persName>
                         <forename>Johann Georg</forename>
                         <surname>Ely</surname>
@@ -163,17 +141,6 @@
                      <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-               <noteGrp><note target="wkfm-0565.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0565</note><note target="wkfm-0566.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0566</note></noteGrp></person>
-                <person xml:id="wkfm__46242">
-                     <persName>
-                        <forename>Renata</forename>
-                        <forename type="alt">Renata Elisabeth</forename>
-                        <surname>von Palm</surname>
-                        <surname type="alt">von Mayern</surname>
-                     </persName>
-                     <listBibl>
-                        <bibl>Kollmer, Familie Palm, 58, 181.&amp;lt;br&amp;gt;</bibl>
-                     </listBibl>
                <noteGrp><note target="wkfm-0565.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0565</note><note target="wkfm-0566.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0566</note></noteGrp></person>
                 <person xml:id="wkfm__46239">
                      <persName>
@@ -187,6 +154,39 @@
                      <occupation>Handelsmann, Wechsler</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                      <occupation type="aemter">Kommerzienrat</occupation>
+               <noteGrp><note target="wkfm-0565.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0565</note><note target="wkfm-0566.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0566</note></noteGrp></person>
+                <person xml:id="wkfm__46243">
+                     <persName>
+                        <forename>Johann Andre</forename>
+                        <surname>von Mayern</surname>
+                     </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+               <noteGrp><note target="wkfm-0565.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0565</note><note target="wkfm-0566.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0566</note><note target="wkfm-1185.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1185</note><note target="wkfm-1186.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1186</note></noteGrp></person>
+                <person xml:id="wkfm__46242">
+                     <persName>
+                        <forename>Renata</forename>
+                        <forename type="alt">Renata Elisabeth</forename>
+                        <surname>von Palm</surname>
+                        <surname type="alt">von Mayern</surname>
+                     </persName>
+                     <listBibl>
+                        <bibl>Kollmer, Familie Palm, 58, 181.&amp;lt;br&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0565.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0565</note><note target="wkfm-0566.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0566</note></noteGrp></person>
+                <person xml:id="wkfm__46241">
+                     <persName>
+                        <forename>Johann Ludolph</forename>
+                        <surname>Dohm von Dohmkirchen</surname>
+                     </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                <noteGrp><note target="wkfm-0565.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0565</note><note target="wkfm-0566.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0566</note></noteGrp></person>
                 </listPerson><listOrg><org xml:id="wkfm__10900">
                      <orgName>Dohm und Ely</orgName>

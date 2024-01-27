@@ -86,7 +86,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__15430">
+    <back><listOrg><org xml:id="wkfm__17119">
+                     <orgName>Gebrüder Orset</orgName>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__15430">Orset, Johann</persName></person><person><persName key="#wkfm__43854">Orset, Niklas Michael</persName></person></listPerson><noteGrp><note target="wkfm-1331.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1331</note><note target="wkfm-1332.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1332</note><note target="wkfm-1333.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1333</note><note target="wkfm-1334.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1334</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__15430">
                      <persName>
                         <forename>Johann</forename>
                         <surname>Orset</surname>
@@ -118,8 +121,5 @@
                         <bibl>&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 474 (6. Februar 1713)&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Raynaud, Savoyardische Einwanderungen, 211.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1331.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1331</note><note target="wkfm-1332.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1332</note><note target="wkfm-1333.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1333</note><note target="wkfm-1334.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1334</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__17119">
-                     <orgName>Gebrüder Orset</orgName>
-                  <listPerson type="affiliated"><person><persName key="#wkfm__43854">Orset, Niklas Michael</persName></person><person><persName key="#wkfm__15430">Orset, Johann</persName></person></listPerson><noteGrp><note target="wkfm-1331.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1331</note><note target="wkfm-1332.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1332</note><note target="wkfm-1333.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1333</note><note target="wkfm-1334.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1334</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

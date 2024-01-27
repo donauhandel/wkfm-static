@@ -115,17 +115,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46237">
-                     <persName>
-                        <forename>Johann Joseph Karl</forename>
-                        <surname>Zwirner</surname>
-                     </persName>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Prokurist des Ruprecht Traunpauer</occupation>
-               <noteGrp><note target="wkfm-0561.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0561</note></noteGrp></person>
-                <person xml:id="wkfm__6935">
+    <back><listOrg><org xml:id="wkfm__46236">
+                     <orgName>Ruprecht Traunpauer</orgName>
+                  <noteGrp><note target="wkfm-0561.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0561</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__6935">
                      <persName>
                         <forename>Ruprecht</forename>
                         <surname>Traunpauer</surname>
@@ -153,6 +146,16 @@
                         <bibl>Dotter, Italienische Kaufleute, passim (Traunpaur); Huchler, Bürgeraufnahmen, 547 (20. März 1719); &amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 546&amp;lt;/span&amp;gt;. Reinhold Reith (Hg.), Das Verlassenschaftsinventar des Salzburger Tuch- und Seidenhändlers Franz Anton Spängler von 1784 (Schriftenreihe des Archivs der Stadt Salzburg 42).&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0561.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0561</note></noteGrp></person>
+                <person xml:id="wkfm__46237">
+                     <persName>
+                        <forename>Johann Joseph Karl</forename>
+                        <surname>Zwirner</surname>
+                     </persName>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Prokurist des Ruprecht Traunpauer</occupation>
+               <noteGrp><note target="wkfm-0561.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0561</note></noteGrp></person>
                 <person xml:id="wkfm__17851">
                      <persName>
                         <forename>Johann Georg</forename>
@@ -163,8 +166,5 @@
                      <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Prokurist des Ruprecht Traunpauer</occupation>
                <noteGrp><note target="wkfm-0561.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0561</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46236">
-                     <orgName>Ruprecht Traunpauer</orgName>
-                  <noteGrp><note target="wkfm-0561.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0561</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

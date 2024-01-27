@@ -87,7 +87,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46889" sameAs="#wkfm__18720 ">
+    <back><listOrg><org xml:id="wkfm__46890">
+                     <orgName>Franz Mayr</orgName>
+                  <noteGrp><note target="wkfm-1241.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1241</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__46889" sameAs="#wkfm__18720 ">
                      <persName>
                         <forename>Franz</forename>
                         <surname>Mayr</surname>
@@ -104,8 +107,5 @@
                      <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                <noteGrp><note target="wkfm-1241.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1241</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46890">
-                     <orgName>Franz Mayr</orgName>
-                  <noteGrp><note target="wkfm-1241.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1241</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

@@ -104,10 +104,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46943">
-                     <orgName>Joseph Munier</orgName>
-                  <noteGrp><note target="wkfm-1287.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1287</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__46942" sameAs="#wkfm__4201 wkfm__9834 ">
+    <back><listPerson><person xml:id="wkfm__46942" sameAs="#wkfm__4201 wkfm__9834 ">
                      <persName>
                         <forename>Joseph</forename>
                         <surname>Munier </surname>
@@ -128,5 +125,8 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1287.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1287</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46943">
+                     <orgName>Joseph Munier</orgName>
+                  <noteGrp><note target="wkfm-1287.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1287</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

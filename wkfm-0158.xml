@@ -90,7 +90,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__15544">
+    <back><listOrg><org xml:id="wkfm__47320">
+                     <orgName>Johann Georg Benedetti</orgName>
+                  <noteGrp><note target="wkfm-0158.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0158</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__15544">
                      <persName>
                         <forename>Johann Georg</forename>
                         <surname>Benedetti</surname>
@@ -110,8 +113,5 @@
                         <bibl>Huchler, Bürgeraufnahmen, 346.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0158.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0158</note><note target="wkfm-0159.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0159</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__47320">
-                     <orgName>Johann Georg Benedetti</orgName>
-                  <noteGrp><note target="wkfm-0158.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0158</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

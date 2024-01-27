@@ -118,11 +118,11 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46185">
-                     <orgName>Ksl. privilegierte Lehenbank in Brünn</orgName>
-                  <noteGrp><note target="wkfm-0489.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0489</note></noteGrp></org>
-                <org xml:id="wkfm__46184">
+    <back><listOrg><org xml:id="wkfm__46184">
                      <orgName>Johann Anton Kehrnhofer &amp; Co</orgName>
+                  <noteGrp><note target="wkfm-0489.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0489</note></noteGrp></org>
+                <org xml:id="wkfm__46185">
+                     <orgName>Ksl. privilegierte Lehenbank in Brünn</orgName>
                   <noteGrp><note target="wkfm-0489.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0489</note></noteGrp></org>
                 </listOrg><listPerson><person xml:id="wkfm__46183">
                      <persName>

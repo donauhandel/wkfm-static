@@ -91,17 +91,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43900">
-                     <persName>
-                        <forename>None</forename>
-                        <surname>Praun</surname>
-                     </persName>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsfrau</occupation>
-               <noteGrp><note target="wkfm-0188.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0188</note></noteGrp></person>
-                <person xml:id="wkfm__43899">
+    <back><listPerson><person xml:id="wkfm__43899">
                      <persName>
                         <forename>Johann Kaspar</forename>
                         <surname>Praun</surname>
@@ -124,5 +114,15 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 490.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0188.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0188</note><note target="wkfm-0189.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0189</note></noteGrp></person>
+                <person xml:id="wkfm__43900">
+                     <persName>
+                        <forename>None</forename>
+                        <surname>Praun</surname>
+                     </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsfrau</occupation>
+               <noteGrp><note target="wkfm-0188.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0188</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

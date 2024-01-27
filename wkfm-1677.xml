@@ -107,10 +107,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47583">
-                     <orgName>Joseph Staudinger</orgName>
-                  <noteGrp><note target="wkfm-1677.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1677</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__47582">
+    <back><listPerson><person xml:id="wkfm__47582">
                      <persName>
                         <forename>Joseph</forename>
                         <surname>Staudinger</surname>
@@ -138,5 +135,8 @@
                         <surname type="alt">Staudinger</surname>
                      </persName>
                <noteGrp><note target="wkfm-1677.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1677</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47583">
+                     <orgName>Joseph Staudinger</orgName>
+                  <noteGrp><note target="wkfm-1677.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1677</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

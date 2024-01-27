@@ -87,7 +87,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__8801" sameAs="#wkfm__27397 ">
+    <back><listOrg><org xml:id="wkfm__47094">
+                     <orgName>Anton Fries (Früeß)</orgName>
+                  <noteGrp><note target="wkfm-0727.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0727</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__8801" sameAs="#wkfm__27397 ">
                      <persName>
                         <forename>Anton</forename>
                         <surname>Fries</surname>
@@ -106,8 +109,5 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0727.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0727</note><note target="wkfm-0728.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0728</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__47094">
-                     <orgName>Anton Fries (Früeß)</orgName>
-                  <noteGrp><note target="wkfm-0727.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0727</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

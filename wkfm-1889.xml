@@ -107,7 +107,13 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43832">
+    <back><listPerson><person xml:id="wkfm__43831">
+                     <persName>
+                        <forename>Simon</forename>
+                        <surname>Ables</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-1889.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1889</note></noteGrp></person>
+                <person xml:id="wkfm__43832">
                      <persName>
                         <forename>Butla</forename>
                         <surname>Seligmannin</surname>
@@ -146,11 +152,5 @@
                         <bibl>Wachstein, Die Wiener Juden in Handel und Industrie.</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1881.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1881</note><note target="wkfm-1889.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1889</note></noteGrp></person>
-                <person xml:id="wkfm__43831">
-                     <persName>
-                        <forename>Simon</forename>
-                        <surname>Ables</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-1889.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1889</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

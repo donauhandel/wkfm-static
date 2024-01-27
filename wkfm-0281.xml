@@ -88,10 +88,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47379">
-                     <orgName>Joseph Pleyer</orgName>
-                  <noteGrp><note target="wkfm-0281.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0281</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__43795">
+    <back><listPerson><person xml:id="wkfm__43795">
                      <persName>
                         <forename>Joseph</forename>
                         <surname>Pleyer</surname>
@@ -114,5 +111,8 @@
                         <bibl>&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 486.&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Harrer-Lucienfeld, Wien, seiner Häuser, Bd. 1.1, S. 207&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0047.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0047</note><note target="wkfm-0281.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0281</note><note target="wkfm-0282.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0282</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47379">
+                     <orgName>Joseph Pleyer</orgName>
+                  <noteGrp><note target="wkfm-0281.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0281</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

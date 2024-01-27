@@ -89,7 +89,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46247" sameAs="#wkfm__12674 ">
+    <back><listOrg><org xml:id="wkfm__46248">
+                     <orgName>Bartholomäus Dussino</orgName>
+                  <noteGrp><note target="wkfm-0571.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0571</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__46247" sameAs="#wkfm__12674 ">
                      <persName>
                         <forename>Bartholomäus</forename>
                         <surname>Dussino</surname>
@@ -110,8 +113,5 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 366 (Juni 1732).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0571.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0571</note><note target="wkfm-0572.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0572</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46248">
-                     <orgName>Bartholomäus Dussino</orgName>
-                  <noteGrp><note target="wkfm-0571.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0571</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

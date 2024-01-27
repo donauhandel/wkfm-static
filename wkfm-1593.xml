@@ -90,7 +90,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47495" sameAs="#wkfm__34789 ">
+    <back><listOrg><org xml:id="wkfm__47496">
+                     <orgName>Matthias Jakob Scharrer</orgName>
+                  <noteGrp><note target="wkfm-1593.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1593</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__47495" sameAs="#wkfm__34789 ">
                      <persName>
                         <forename>Matthias Jakob</forename>
                         <surname>Scharrer</surname>
@@ -115,8 +118,5 @@
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 511.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1593.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1593</note><note target="wkfm-1594.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1594</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__47496">
-                     <orgName>Matthias Jakob Scharrer</orgName>
-                  <noteGrp><note target="wkfm-1593.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1593</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

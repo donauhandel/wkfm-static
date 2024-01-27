@@ -99,13 +99,25 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47250">
-                     <orgName>Franz Anton Klezl</orgName>
-                  <noteGrp><note target="wkfm-0439.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0439</note></noteGrp></org>
-                <org xml:id="wkfm__14941">
+    <back><listOrg><org xml:id="wkfm__14941">
                      <orgName>Lammer und Klezl</orgName>
                   <noteGrp><note target="wkfm-0439.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0439</note><note target="wkfm-0440.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0440</note><note target="wkfm-1159.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1159</note><note target="wkfm-1160.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1160</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__13619">
+                <org xml:id="wkfm__47250">
+                     <orgName>Franz Anton Klezl</orgName>
+                  <noteGrp><note target="wkfm-0439.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0439</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__10693">
+                     <persName>
+                        <forename>Joseph</forename>
+                        <surname>Lammer</surname>
+                     </persName>
+                     <death><date>1764</date></death>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Tuchhändler</occupation>
+                     <occupation type="kaufmannsklasse">hofbefreit</occupation>
+               <noteGrp><note target="wkfm-0439.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0439</note><note target="wkfm-0440.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0440</note><note target="wkfm-1159.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1159</note><note target="wkfm-1160.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1160</note></noteGrp></person>
+                <person xml:id="wkfm__13619">
                      <persName>
                         <forename>Franz Anton</forename>
                         <surname>Klezl</surname>
@@ -117,18 +129,6 @@
                      <residence type="Wohnort">
                         <placeName key="#wkfm-place__925">Wien</placeName>
                      <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Tuchhändler</occupation>
-                     <occupation type="kaufmannsklasse">hofbefreit</occupation>
-               <noteGrp><note target="wkfm-0439.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0439</note><note target="wkfm-0440.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0440</note><note target="wkfm-1159.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1159</note><note target="wkfm-1160.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1160</note></noteGrp></person>
-                <person xml:id="wkfm__10693">
-                     <persName>
-                        <forename>Joseph</forename>
-                        <surname>Lammer</surname>
-                     </persName>
-                     <death><date>1764</date></death>
                      <residence type="Geschäftsniederlassung">
                         <placeName key="#wkfm-place__925">Wien</placeName>
                      <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>

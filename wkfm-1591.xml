@@ -96,10 +96,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47493">
-                     <orgName>Johannes Anton Sazger</orgName>
-                  <noteGrp><note target="wkfm-1591.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1591</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__15956">
+    <back><listPerson><person xml:id="wkfm__15956">
                      <persName>
                         <forename>Johann Anton</forename>
                         <surname>Sazger</surname>
@@ -138,5 +135,8 @@
                      <occupation>Handelsfrau</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1591.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1591</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47493">
+                     <orgName>Johannes Anton Sazger</orgName>
+                  <noteGrp><note target="wkfm-1591.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1591</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

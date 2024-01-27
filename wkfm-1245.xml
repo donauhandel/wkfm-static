@@ -89,7 +89,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46893">
+    <back><listOrg><org xml:id="wkfm__46894">
+                     <orgName>Anton Märkl</orgName>
+                  <noteGrp><note target="wkfm-1245.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1245</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__46893">
                      <persName>
                         <forename>Anton</forename>
                         <surname>Märkl</surname>
@@ -114,8 +117,5 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 454.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1245.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1245</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46894">
-                     <orgName>Anton Märkl</orgName>
-                  <noteGrp><note target="wkfm-1245.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1245</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

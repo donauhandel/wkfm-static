@@ -121,13 +121,16 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__43924">
-                     <orgName>Karl Joseph Moser &amp; Co.</orgName>
-                  <noteGrp><note target="wkfm-0235.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0235</note><note target="wkfm-0236.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0236</note><note target="wkfm-1049.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1049</note><note target="wkfm-1050.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1050</note><note target="wkfm-1255.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1255</note><note target="wkfm-1256.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1256</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__43926">
+    <back><listPerson><person xml:id="wkfm__43926">
                      <persName>
                         <forename>Rosalia</forename>
                         <surname>Sindlin</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0236.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0236</note></noteGrp></person>
+                <person xml:id="wkfm__43925">
+                     <persName>
+                        <forename>Maria Anna</forename>
+                        <surname>Moserin</surname>
                      </persName>
                <noteGrp><note target="wkfm-0236.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0236</note></noteGrp></person>
                 <person xml:id="wkfm__46560">
@@ -151,12 +154,6 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 478.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0235.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0235</note><note target="wkfm-0236.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0236</note><note target="wkfm-1049.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1049</note><note target="wkfm-1050.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1050</note><note target="wkfm-1255.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1255</note><note target="wkfm-1256.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1256</note></noteGrp></person>
-                <person xml:id="wkfm__43925">
-                     <persName>
-                        <forename>Maria Anna</forename>
-                        <surname>Moserin</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-0236.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0236</note></noteGrp></person>
                 <person xml:id="wkfm__10641">
                      <persName>
                         <forename>Karl Joseph</forename>
@@ -187,5 +184,8 @@
                         <surname>None</surname>
                      </persName>
                <noteGrp><note target="wkfm-0236.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0236</note><note target="wkfm-1256.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1256</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__43924">
+                     <orgName>Karl Joseph Moser &amp; Co.</orgName>
+                  <noteGrp><note target="wkfm-0235.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0235</note><note target="wkfm-0236.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0236</note><note target="wkfm-1049.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1049</note><note target="wkfm-1050.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1050</note><note target="wkfm-1255.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1255</note><note target="wkfm-1256.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1256</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

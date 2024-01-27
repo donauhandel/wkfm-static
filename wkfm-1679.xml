@@ -114,7 +114,42 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__10730">
+    <back><listPerson><person xml:id="wkfm__47586">
+                     <persName>
+                        <forename>Johann</forename>
+                        <surname>Schwitzer</surname>
+                     </persName>
+                     <death><date>15.11.1778</date></death>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zum Weißen Adler auf der Brandstatt (Calender 1758)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-1679.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1679</note><note target="wkfm-1680.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1680</note></noteGrp></person>
+                <person xml:id="wkfm__47588">
+                     <persName>
+                        <forename>Theresia</forename>
+                        <surname>Schwitzerin</surname>
+                     </persName>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsfrau</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-1679.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1679</note><note target="wkfm-1680.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1680</note></noteGrp></person>
+                <person xml:id="wkfm__10730">
                      <persName>
                         <forename>Anton</forename>
                         <surname>Mader</surname>
@@ -144,27 +179,6 @@
                         <bibl>Huchler, Bürgeraufnahmen, 451.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1089.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1089</note><note target="wkfm-1189.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1189</note><note target="wkfm-1191.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1191</note><note target="wkfm-1227.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1227</note><note target="wkfm-1228.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1228</note><note target="wkfm-1679.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1679</note></noteGrp></person>
-                <person xml:id="wkfm__47586">
-                     <persName>
-                        <forename>Johann</forename>
-                        <surname>Schwitzer</surname>
-                     </persName>
-                     <death><date>15.11.1778</date></death>                    
-                     <residence type="Geschäftsadresse">
-                        <placeName>Zum Weißen Adler auf der Brandstatt (Calender 1758)</placeName>
-                     </residence>
-                     <residence type="Bürgerrecht">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-1679.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1679</note><note target="wkfm-1680.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1680</note></noteGrp></person>
                 <person xml:id="wkfm__47589">
                      <persName>
                         <forename>Johann Michael</forename>
@@ -175,20 +189,6 @@
                      <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Prokurist von Theresia Schwitzerin sel. Witwe</occupation>
                <noteGrp><note target="wkfm-1679.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1679</note></noteGrp></person>
-                <person xml:id="wkfm__47588">
-                     <persName>
-                        <forename>Theresia</forename>
-                        <surname>Schwitzerin</surname>
-                     </persName>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsfrau</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-1679.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1679</note><note target="wkfm-1680.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1680</note></noteGrp></person>
                 </listPerson><listOrg><org xml:id="wkfm__47587">
                      <orgName>Johannes Schwitzer</orgName>
                   <noteGrp><note target="wkfm-1679.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1679</note></noteGrp></org>

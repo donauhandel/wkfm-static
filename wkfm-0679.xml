@@ -94,7 +94,14 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47055">
+    <back><listPerson><person xml:id="wkfm__18086">
+                     <persName>
+                        <forename>Joseph</forename>
+                        <surname>Wittmann</surname>
+                     </persName>
+                     <occupation>Tuchhändler</occupation>
+               <noteGrp><note target="wkfm-0679.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0679</note></noteGrp></person>
+                <person xml:id="wkfm__47055">
                      <persName>
                         <forename>Maria Rosina</forename>
                         <surname>Vetterin</surname>
@@ -112,13 +119,6 @@
                      <occupation>Tuchhändlerin, Handelsfrau</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
                      <occupation type="kaufmannsklasse">tuchlaubensverwandt/bürgerlich</occupation>
-               <noteGrp><note target="wkfm-0679.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0679</note></noteGrp></person>
-                <person xml:id="wkfm__18086">
-                     <persName>
-                        <forename>Joseph</forename>
-                        <surname>Wittmann</surname>
-                     </persName>
-                     <occupation>Tuchhändler</occupation>
                <noteGrp><note target="wkfm-0679.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0679</note></noteGrp></person>
                 </listPerson><listOrg><org xml:id="wkfm__12708">
                      <orgName>Sebastian Vetter sel. Erben</orgName>

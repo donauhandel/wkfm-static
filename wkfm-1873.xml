@@ -88,7 +88,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43581">
+    <back><listOrg><org xml:id="wkfm__46622">
+                     <orgName>Isaak Nathan Oppenheimer</orgName>
+                  <noteGrp><note target="wkfm-1873.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1873</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__43581">
                      <persName>
                         <forename>Isaak Nathan</forename>
                         <surname>Oppenheimer</surname>
@@ -105,8 +108,5 @@
                         <bibl>Wachstein, Die Wiener Juden in Handel und Industrie.</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1873.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1873</note><note target="wkfm-1874.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1874</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46622">
-                     <orgName>Isaak Nathan Oppenheimer</orgName>
-                  <noteGrp><note target="wkfm-1873.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1873</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

@@ -114,28 +114,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__44047">
-                     <persName>
-                        <forename>Johann Karl</forename>
-                        <surname>Braun</surname>
-                        <surname type="alt">Praun</surname>
-                     </persName>                    
-                     <residence type="Geschäftsadresse">
-                        <placeName>Zum Jüger auf dem Graben (Calender 1758)</placeName>
-                     </residence>
-                     <residence type="Bürgerrecht">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-0319.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0319</note></noteGrp></person>
-                <person xml:id="wkfm__43966">
+    <back><listPerson><person xml:id="wkfm__43966">
                      <persName>
                         <forename>Dominicus</forename>
                         <surname>Polidoro</surname>
@@ -159,5 +138,26 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 487.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0283.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0283</note><note target="wkfm-0319.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0319</note></noteGrp></person>
+                <person xml:id="wkfm__44047">
+                     <persName>
+                        <forename>Johann Karl</forename>
+                        <surname>Braun</surname>
+                        <surname type="alt">Praun</surname>
+                     </persName>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zum Jüger auf dem Graben (Calender 1758)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-0319.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0319</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

@@ -103,10 +103,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47259">
-                     <orgName>Franz Joseph Kroyss</orgName>
-                  <noteGrp><note target="wkfm-0467.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0467</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__8802">
+    <back><listPerson><person xml:id="wkfm__8802">
                      <persName>
                         <forename>Lukas Joseph</forename>
                         <forename type="alt">Lukas</forename>
@@ -166,5 +163,8 @@
                         <surname>Kroyss</surname>
                      </persName>
                <noteGrp><note target="wkfm-0467.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0467</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47259">
+                     <orgName>Franz Joseph Kroyss</orgName>
+                  <noteGrp><note target="wkfm-0467.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0467</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

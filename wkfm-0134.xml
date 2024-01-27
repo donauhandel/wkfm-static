@@ -87,10 +87,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47308">
-                     <orgName>Jakob Pergmann</orgName>
-                  <noteGrp><note target="wkfm-0134.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0134</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__37766">
+    <back><listPerson><person xml:id="wkfm__37766">
                      <persName>
                         <forename>Jakob</forename>
                         <surname>Pergmann</surname>
@@ -111,5 +108,8 @@
                         <bibl>Huchler, Bürgeraufnahmen, 480 (27. Juli 1714).&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0134.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0134</note><note target="wkfm-0135.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0135</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47308">
+                     <orgName>Jakob Pergmann</orgName>
+                  <noteGrp><note target="wkfm-0134.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0134</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

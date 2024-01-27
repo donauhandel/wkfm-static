@@ -88,10 +88,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47402">
-                     <orgName>Christian Schubert</orgName>
-                  <noteGrp><note target="wkfm-1469.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1469</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__12189" sameAs="#wkfm__20193 ">
+    <back><listPerson><person xml:id="wkfm__12189" sameAs="#wkfm__20193 ">
                      <persName>
                         <forename>Christian</forename>
                         <surname>Schubert</surname>
@@ -108,5 +105,8 @@
                         <bibl>Senfelder, Gottesacker, 258; Matis, Manufaktur, 270, dort &amp;#34;Schubart&amp;#34;, Direktor der Zitz- und Kottonfabrik in Schwechat; Matis, Ansätze der Industrialisierung im Wiener Becken, 125.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1469.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1469</note><note target="wkfm-1470.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1470</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47402">
+                     <orgName>Christian Schubert</orgName>
+                  <noteGrp><note target="wkfm-1469.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1469</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

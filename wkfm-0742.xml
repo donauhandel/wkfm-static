@@ -92,25 +92,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46767">
-                     <persName>
-                        <forename>Matthias</forename>
-                        <surname>Pränkl</surname>
-                     </persName>
-                     <death><date>1757</date></death>
-                     <residence type="Bürgerrecht">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Tuchhändler</occupation>
-                     <occupation type="kaufmannsklasse">tuchlaubensverwandt/bürgerlich</occupation>
-               <noteGrp><note target="wkfm-0742.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0742</note><note target="wkfm-1445.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1445</note></noteGrp></person>
-                <person xml:id="wkfm__30269">
+    <back><listOrg><org xml:id="wkfm__8264">
+                     <orgName>Fünfer und Pränkl</orgName>
+                  <noteGrp><note target="wkfm-0741.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0741</note><note target="wkfm-0742.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0742</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__30269">
                      <persName>
                         <forename>Franz Joseph</forename>
                         <surname>Fünfer</surname>
@@ -131,8 +116,23 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 382 (Mai 1728).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0741.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0741</note><note target="wkfm-0742.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0742</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__8264">
-                     <orgName>Fünfer und Pränkl</orgName>
-                  <noteGrp><note target="wkfm-0741.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0741</note><note target="wkfm-0742.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0742</note></noteGrp></org>
-                </listOrg></back></text>
+                <person xml:id="wkfm__46767">
+                     <persName>
+                        <forename>Matthias</forename>
+                        <surname>Pränkl</surname>
+                     </persName>
+                     <death><date>1757</date></death>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Tuchhändler</occupation>
+                     <occupation type="kaufmannsklasse">tuchlaubensverwandt/bürgerlich</occupation>
+               <noteGrp><note target="wkfm-0742.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0742</note><note target="wkfm-1445.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1445</note></noteGrp></person>
+                </listPerson></back></text>
 </TEI>

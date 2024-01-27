@@ -100,7 +100,14 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46128">
+    <back><listPerson><person xml:id="wkfm__46129">
+                     <persName>
+                        <forename>Maria Theresia</forename>
+                        <surname>Bandianin</surname>
+                        <surname type="alt">Königsberger</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0416.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0416</note></noteGrp></person>
+                <person xml:id="wkfm__46128">
                      <persName>
                         <forename>Franz</forename>
                         <surname>Königsberger</surname>
@@ -124,12 +131,5 @@
                         <bibl>Huchler, Bürgeraufnahmen, 434.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0415.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0415</note><note target="wkfm-0416.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0416</note></noteGrp></person>
-                <person xml:id="wkfm__46129">
-                     <persName>
-                        <forename>Maria Theresia</forename>
-                        <surname>Bandianin</surname>
-                        <surname type="alt">Königsberger</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-0416.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0416</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

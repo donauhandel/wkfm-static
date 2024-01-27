@@ -103,7 +103,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47139">
+    <back><listOrg><org xml:id="wkfm__47138">
+                     <orgName>Franz Joseph Friesenhengst</orgName>
+                  <noteGrp><note target="wkfm-0773.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0773</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__47139">
                      <persName>
                         <forename>Maria Magdalena</forename>
                         <surname>Friesenhengst</surname>
@@ -133,8 +136,5 @@
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 381.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0773.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0773</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__47138">
-                     <orgName>Franz Joseph Friesenhengst</orgName>
-                  <noteGrp><note target="wkfm-0773.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0773</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

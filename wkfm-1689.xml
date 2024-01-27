@@ -90,10 +90,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__43987">
-                     <orgName>Joseph Schwarzleithner und Sohn, Schwarzleithner und Sohn</orgName>
-                  <noteGrp><note target="wkfm-0299.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0299</note><note target="wkfm-0607.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0607</note><note target="wkfm-1671.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1671</note><note target="wkfm-1672.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1672</note><note target="wkfm-1689.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1689</note><note target="wkfm-1690.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1690</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__47576">
+    <back><listPerson><person xml:id="wkfm__47576">
                      <persName>
                         <forename>Franz</forename>
                         <surname>Schwarzleithner</surname>
@@ -104,5 +101,8 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                <noteGrp><note target="wkfm-1671.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1671</note><note target="wkfm-1672.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1672</note><note target="wkfm-1689.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1689</note><note target="wkfm-1690.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1690</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__43987">
+                     <orgName>Joseph Schwarzleithner und Sohn, Schwarzleithner und Sohn</orgName>
+                  <noteGrp><note target="wkfm-0299.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0299</note><note target="wkfm-0607.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0607</note><note target="wkfm-1671.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1671</note><note target="wkfm-1672.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1672</note><note target="wkfm-1689.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1689</note><note target="wkfm-1690.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1690</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

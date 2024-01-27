@@ -91,7 +91,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__15292">
+    <back><listOrg><org xml:id="wkfm__47438">
+                     <orgName>Joseph Stemler (Stembler)</orgName>
+                  <noteGrp><note target="wkfm-1519.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1519</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__15292">
                      <persName>
                         <forename>Joseph</forename>
                         <surname>Stembler</surname>
@@ -115,8 +118,5 @@
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 538.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1519.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1519</note><note target="wkfm-1520.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1520</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__47438">
-                     <orgName>Joseph Stemler (Stembler)</orgName>
-                  <noteGrp><note target="wkfm-1519.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1519</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

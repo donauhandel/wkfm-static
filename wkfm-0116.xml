@@ -89,10 +89,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47298">
-                     <orgName>Eva Maria Pingizerin Witwe</orgName>
-                  <noteGrp><note target="wkfm-0116.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0116</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__43852">
+    <back><listPerson><person xml:id="wkfm__43852">
                      <persName>
                         <forename>Eva Maria</forename>
                         <surname>Pingizerin</surname>
@@ -112,5 +109,8 @@
                         <bibl>Harrer-Lucienfeld, Wien, seiner Häuser, Bd. 2.2, S. 292&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0116.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0116</note><note target="wkfm-0117.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0117</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47298">
+                     <orgName>Eva Maria Pingizerin Witwe</orgName>
+                  <noteGrp><note target="wkfm-0116.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0116</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

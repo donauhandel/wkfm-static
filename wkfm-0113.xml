@@ -89,7 +89,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__13158">
+    <back><listOrg><org xml:id="wkfm__43850">
+                     <orgName>Johann Jakob Pauminger sel. Witwe und Anton Oberleithner</orgName>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__43856">Oberleithner, Anton</persName></person></listPerson><noteGrp><note target="wkfm-0112.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0112</note><note target="wkfm-0113.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0113</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__13158">
                      <persName>
                         <forename>Johann Jakob</forename>
                         <surname>Pauminger</surname>
@@ -112,8 +115,5 @@
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <occupation type="aemter">Vorsteher der bürgerl. Handelsleute</occupation>
                <noteGrp><note target="wkfm-0112.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0112</note><note target="wkfm-0113.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0113</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__43850">
-                     <orgName>Johann Jakob Pauminger sel. Witwe und Anton Oberleithner</orgName>
-                  <listPerson type="affiliated"><person><persName key="#wkfm__43856">Oberleithner, Anton</persName></person></listPerson><noteGrp><note target="wkfm-0112.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0112</note><note target="wkfm-0113.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0113</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

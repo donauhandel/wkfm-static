@@ -137,11 +137,11 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                <noteGrp><note target="wkfm-0060.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0060</note><note target="wkfm-0061.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0061</note><note target="wkfm-0174.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0174</note><note target="wkfm-0175.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0175</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__15308">
-                     <orgName>Brandegski und Pöttenberger</orgName>
-                  <noteGrp><note target="wkfm-0060.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0060</note><note target="wkfm-0174.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0174</note><note target="wkfm-0175.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0175</note></noteGrp></org>
-                <org xml:id="wkfm__47270">
+                </listPerson><listOrg><org xml:id="wkfm__47270">
                      <orgName>Franz Joseph Brandegski</orgName>
                   <noteGrp><note target="wkfm-0060.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0060</note></noteGrp></org>
+                <org xml:id="wkfm__15308">
+                     <orgName>Brandegski und Pöttenberger</orgName>
+                  <noteGrp><note target="wkfm-0060.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0060</note><note target="wkfm-0174.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0174</note><note target="wkfm-0175.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0175</note></noteGrp></org>
                 </listOrg></back></text>
 </TEI>

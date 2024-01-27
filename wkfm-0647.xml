@@ -116,11 +116,11 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 368; &amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;Jetztlebende Kauffmannschafft 1. Versuch, 257.&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0243.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0243</note><note target="wkfm-0647.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0647</note><note target="wkfm-0648.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0648</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__37828">
-                     <orgName>Egger und Babitsch</orgName>
-                  <listPerson type="affiliated"><person><persName key="#wkfm__27912">Babitsch, Johann Ignaz</persName></person></listPerson><noteGrp><note target="wkfm-0647.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0647</note><note target="wkfm-0648.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0648</note></noteGrp></org>
-                <org xml:id="wkfm__46420">
+                </listPerson><listOrg><org xml:id="wkfm__46420">
                      <orgName>Franz Dionysius Egger</orgName>
                   <noteGrp><note target="wkfm-0647.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0647</note></noteGrp></org>
+                <org xml:id="wkfm__37828">
+                     <orgName>Egger und Babitsch</orgName>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__27912">Babitsch, Johann Ignaz</persName></person></listPerson><noteGrp><note target="wkfm-0647.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0647</note><note target="wkfm-0648.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0648</note></noteGrp></org>
                 </listOrg></back></text>
 </TEI>

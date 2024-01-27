@@ -106,7 +106,15 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__24258" sameAs="#wkfm__22866 ">
+    <back><listPerson><person xml:id="wkfm__46422">
+                     <persName>
+                        <forename>Elisabeth</forename>
+                        <surname>Driglerin</surname>
+                        <surname type="alt">Drieglerin</surname>
+                        <surname type="alt">Eibl</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0650.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0650</note></noteGrp></person>
+                <person xml:id="wkfm__24258" sameAs="#wkfm__22866 ">
                      <persName>
                         <forename>Johann Sebastian</forename>
                         <surname>Eibl</surname>
@@ -131,13 +139,5 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 273 (Juni 1732: Vorname nur &amp;#34;Sebastian&amp;#34;).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0307.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0307</note><note target="wkfm-0649.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0649</note><note target="wkfm-0650.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0650</note><note target="wkfm-0657.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0657</note><note target="wkfm-0663.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0663</note></noteGrp></person>
-                <person xml:id="wkfm__46422">
-                     <persName>
-                        <forename>Elisabeth</forename>
-                        <surname>Driglerin</surname>
-                        <surname type="alt">Drieglerin</surname>
-                        <surname type="alt">Eibl</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-0650.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0650</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

@@ -103,7 +103,13 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__27714">
+    <back><listPerson><person xml:id="wkfm__43873">
+                     <persName>
+                        <forename>Maria Franziska</forename>
+                        <surname>Wolfmayrin</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-1086.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1086</note></noteGrp></person>
+                <person xml:id="wkfm__27714">
                      <persName>
                         <forename>Franz Anton</forename>
                         <surname>Ipiditsch</surname>
@@ -128,11 +134,5 @@
                         <bibl>Huchler, Bürgeraufnahmen, 421 (Februar 1734)&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1085.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1085</note><note target="wkfm-1086.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1086</note></noteGrp></person>
-                <person xml:id="wkfm__43873">
-                     <persName>
-                        <forename>Maria Franziska</forename>
-                        <surname>Wolfmayrin</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-1086.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1086</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

@@ -100,10 +100,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46829">
-                     <orgName>Franz Lazarus</orgName>
-                  <noteGrp><note target="wkfm-1169.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1169</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__43853">
+    <back><listPerson><person xml:id="wkfm__43853">
                      <persName>
                         <forename>Johann Ferdinand</forename>
                         <surname>Polzer</surname>
@@ -144,5 +141,8 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 443.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1169.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1169</note><note target="wkfm-1449.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1449</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46829">
+                     <orgName>Franz Lazarus</orgName>
+                  <noteGrp><note target="wkfm-1169.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1169</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

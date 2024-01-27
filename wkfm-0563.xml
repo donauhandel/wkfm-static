@@ -91,7 +91,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__10173" sameAs="#wkfm__8276 ">
+    <back><listOrg><org xml:id="wkfm__46238">
+                     <orgName>Johann Dominik Dußl</orgName>
+                  <noteGrp><note target="wkfm-0563.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0563</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__10173" sameAs="#wkfm__8276 ">
                      <persName>
                         <forename>Johann Dominicus</forename>
                         <surname>Dußl</surname>
@@ -115,8 +118,5 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 366 (Februar 1727).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0563.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0563</note><note target="wkfm-0564.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0564</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46238">
-                     <orgName>Johann Dominik Dußl</orgName>
-                  <noteGrp><note target="wkfm-0563.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0563</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

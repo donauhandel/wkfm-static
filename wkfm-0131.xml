@@ -84,7 +84,18 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__10201" sameAs="#wkfm__8501 ">
+    <back><listPerson><person xml:id="wkfm__47306">
+                     <persName>
+                        <forename>Joseph</forename>
+                        <surname>Bittoni</surname>
+                     </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-0131.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0131</note></noteGrp></person>
+                <person xml:id="wkfm__10201" sameAs="#wkfm__8501 ">
                      <persName>
                         <forename>Johann Leonhard</forename>
                         <surname>Bittoni</surname>
@@ -106,16 +117,5 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0130.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0130</note><note target="wkfm-0131.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0131</note><note target="wkfm-0798.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0798</note><note target="wkfm-1263.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1263</note></noteGrp></person>
-                <person xml:id="wkfm__47306">
-                     <persName>
-                        <forename>Joseph</forename>
-                        <surname>Bittoni</surname>
-                     </persName>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-0131.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0131</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

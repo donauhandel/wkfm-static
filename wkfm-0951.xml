@@ -110,11 +110,11 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46457">
-                     <orgName>Johann Jakob Hauzenberger</orgName>
-                  <noteGrp><note target="wkfm-0951.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0951</note></noteGrp></org>
-                <org xml:id="wkfm__16778">
+    <back><listOrg><org xml:id="wkfm__16778">
                      <orgName>Gaun und Zanchoni</orgName>
+                  <noteGrp><note target="wkfm-0951.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0951</note></noteGrp></org>
+                <org xml:id="wkfm__46457">
+                     <orgName>Johann Jakob Hauzenberger</orgName>
                   <noteGrp><note target="wkfm-0951.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0951</note></noteGrp></org>
                 </listOrg><listPerson><person xml:id="wkfm__46458">
                      <persName>

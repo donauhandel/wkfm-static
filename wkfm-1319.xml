@@ -92,7 +92,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__18406" sameAs="#wkfm__4300 ">
+    <back><listOrg><org xml:id="wkfm__46672">
+                     <orgName>Johann de S. Nicola</orgName>
+                  <noteGrp><note target="wkfm-1319.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1319</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__18406" sameAs="#wkfm__4300 ">
                      <persName>
                         <forename>Johann</forename>
                         <forename type="alt">Johann Baptista</forename>
@@ -133,8 +136,5 @@
                      <occupation>Handelsfrau</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1319.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1319</note><note target="wkfm-1320.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1320</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46672">
-                     <orgName>Johann de S. Nicola</orgName>
-                  <noteGrp><note target="wkfm-1319.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1319</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

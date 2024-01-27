@@ -88,10 +88,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47202">
-                     <orgName>Andre Codone</orgName>
-                  <noteGrp><note target="wkfm-0333.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0333</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__42612">
+    <back><listPerson><person xml:id="wkfm__42612">
                      <persName>
                         <forename>Andreas</forename>
                         <forename type="alt">Andre</forename>
@@ -117,5 +114,8 @@
                         <bibl>Huchler, Bürgeraufnahmen, 504.</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0333.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0333</note><note target="wkfm-0334.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0334</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47202">
+                     <orgName>Andre Codone</orgName>
+                  <noteGrp><note target="wkfm-0333.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0333</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

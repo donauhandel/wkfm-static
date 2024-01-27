@@ -87,7 +87,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__39393">
+    <back><listOrg><org xml:id="wkfm__46504">
+                     <orgName>Matthias Hütter</orgName>
+                  <noteGrp><note target="wkfm-1009.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1009</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__39393">
                      <persName>
                         <forename>Matthias</forename>
                         <surname>Hütter</surname>
@@ -100,8 +103,5 @@
                      <occupation>Leinwandhändler</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
                <noteGrp><note target="wkfm-1009.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1009</note><note target="wkfm-1010.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1010</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46504">
-                     <orgName>Matthias Hütter</orgName>
-                  <noteGrp><note target="wkfm-1009.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1009</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

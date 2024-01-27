@@ -116,7 +116,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47593">
+    <back><listOrg><org xml:id="wkfm__47594">
+                     <orgName>Franz Karl Sotscheck</orgName>
+                  <noteGrp><note target="wkfm-1681.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1681</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__47593">
                      <persName>
                         <forename>Franz Karl</forename>
                         <surname>Sotscheck</surname>
@@ -159,8 +162,5 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 440.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0455.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0455</note><note target="wkfm-1433.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1433</note><note target="wkfm-1681.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1681</note><note target="wkfm-1693.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1693</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__47594">
-                     <orgName>Franz Karl Sotscheck</orgName>
-                  <noteGrp><note target="wkfm-1681.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1681</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

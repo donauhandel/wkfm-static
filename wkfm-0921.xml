@@ -89,10 +89,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46389">
-                     <orgName>Johann Georg Helvetius</orgName>
-                  <noteGrp><note target="wkfm-0241.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0241</note><note target="wkfm-0921.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0921</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__8189" sameAs="#wkfm__11598 ">
+    <back><listPerson><person xml:id="wkfm__8189" sameAs="#wkfm__11598 ">
                      <persName>
                         <forename>Johann Georg</forename>
                         <surname>Helvetius</surname>
@@ -106,5 +103,8 @@
                      <occupation>Handelsmann, Wechselnegotiant</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                <noteGrp><note target="wkfm-0921.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0921</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46389">
+                     <orgName>Johann Georg Helvetius</orgName>
+                  <noteGrp><note target="wkfm-0241.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0241</note><note target="wkfm-0921.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0921</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

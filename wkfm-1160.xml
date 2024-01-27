@@ -112,14 +112,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46822" sameAs="#wkfm__34236 ">
-                     <persName>
-                        <forename>Maria Susanna</forename>
-                        <surname>Stadlerin</surname>
-                        <surname type="alt">Lammer</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-1160.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1160</note></noteGrp></person>
-                <person xml:id="wkfm__46823">
+    <back><listPerson><person xml:id="wkfm__46823">
                      <persName>
                         <forename>Johann Georg</forename>
                         <surname>Ranzurer</surname>
@@ -129,6 +122,25 @@
                      <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
+               <noteGrp><note target="wkfm-1160.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1160</note></noteGrp></person>
+                <person xml:id="wkfm__10693">
+                     <persName>
+                        <forename>Joseph</forename>
+                        <surname>Lammer</surname>
+                     </persName>
+                     <death><date>1764</date></death>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Tuchhändler</occupation>
+                     <occupation type="kaufmannsklasse">hofbefreit</occupation>
+               <noteGrp><note target="wkfm-0439.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0439</note><note target="wkfm-0440.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0440</note><note target="wkfm-1159.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1159</note><note target="wkfm-1160.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1160</note></noteGrp></person>
+                <person xml:id="wkfm__46822" sameAs="#wkfm__34236 ">
+                     <persName>
+                        <forename>Maria Susanna</forename>
+                        <surname>Stadlerin</surname>
+                        <surname type="alt">Lammer</surname>
+                     </persName>
                <noteGrp><note target="wkfm-1160.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1160</note></noteGrp></person>
                 <person xml:id="wkfm__13619">
                      <persName>
@@ -142,18 +154,6 @@
                      <residence type="Wohnort">
                         <placeName key="#wkfm-place__925">Wien</placeName>
                      <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Tuchhändler</occupation>
-                     <occupation type="kaufmannsklasse">hofbefreit</occupation>
-               <noteGrp><note target="wkfm-0439.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0439</note><note target="wkfm-0440.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0440</note><note target="wkfm-1159.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1159</note><note target="wkfm-1160.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1160</note></noteGrp></person>
-                <person xml:id="wkfm__10693">
-                     <persName>
-                        <forename>Joseph</forename>
-                        <surname>Lammer</surname>
-                     </persName>
-                     <death><date>1764</date></death>
                      <residence type="Geschäftsniederlassung">
                         <placeName key="#wkfm-place__925">Wien</placeName>
                      <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>

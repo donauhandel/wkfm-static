@@ -91,10 +91,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46695">
-                     <orgName>Johann Michael Rappenmoser</orgName>
-                  <noteGrp><note target="wkfm-1377.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1377</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__9396" sameAs="#wkfm__8335 ">
+    <back><listPerson><person xml:id="wkfm__9396" sameAs="#wkfm__8335 ">
                      <persName>
                         <forename>Johann Michael</forename>
                         <surname>Rappenmoser</surname>
@@ -117,5 +114,8 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 496.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1377.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1377</note><note target="wkfm-1378.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1378</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46695">
+                     <orgName>Johann Michael Rappenmoser</orgName>
+                  <noteGrp><note target="wkfm-1377.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1377</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

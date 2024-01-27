@@ -86,7 +86,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47049">
+    <back><listOrg><org xml:id="wkfm__9030">
+                     <orgName>Föhr und Wanner</orgName>
+                  <noteGrp><note target="wkfm-0669.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0669</note><note target="wkfm-0670.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0670</note><note target="wkfm-1721.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1721</note><note target="wkfm-1723.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1723</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__47049">
                      <persName>
                         <forename>Johann</forename>
                         <surname>Wanner</surname>
@@ -116,8 +119,5 @@
                         <bibl>Senfelder, Gottesacker, 258; &amp;lt;span&amp;gt;Kröpfel, Protestantismus, Anhang 1 , S. 6 (Merkantil-Wechselgerichts-Assessor); Zollinger, Kriegsfuß&amp;lt;/span&amp;gt;; Zorn, Handels- und Industriegeschichte, 86f.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0669.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0669</note><note target="wkfm-0670.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0670</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__9030">
-                     <orgName>Föhr und Wanner</orgName>
-                  <noteGrp><note target="wkfm-0669.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0669</note><note target="wkfm-0670.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0670</note><note target="wkfm-1721.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1721</note><note target="wkfm-1723.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1723</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

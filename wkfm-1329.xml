@@ -92,7 +92,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__8590" sameAs="#wkfm__44898 ">
+    <back><listOrg><org xml:id="wkfm__46645">
+                     <orgName>Joseph Orrio (Orio)</orgName>
+                  <noteGrp><note target="wkfm-1329.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1329</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__8590" sameAs="#wkfm__44898 ">
                      <persName>
                         <forename>Joseph</forename>
                         <surname>Orrio</surname>
@@ -110,8 +113,5 @@
                         <bibl>Dotter, Italienische Kaufleute, 140f.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1329.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1329</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46645">
-                     <orgName>Joseph Orrio (Orio)</orgName>
-                  <noteGrp><note target="wkfm-1329.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1329</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

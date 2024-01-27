@@ -90,7 +90,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__14033">
+    <back><listOrg><org xml:id="wkfm__47509">
+                     <orgName>Johann Wolfgang Schröck</orgName>
+                  <noteGrp><note target="wkfm-1613.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1613</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__14033">
                      <persName>
                         <forename>Johann Wolfgang</forename>
                         <surname>Schröck</surname>
@@ -101,8 +104,5 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                <noteGrp><note target="wkfm-1613.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1613</note><note target="wkfm-1614.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1614</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__47509">
-                     <orgName>Johann Wolfgang Schröck</orgName>
-                  <noteGrp><note target="wkfm-1613.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1613</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

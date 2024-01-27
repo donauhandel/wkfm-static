@@ -87,10 +87,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47289">
-                     <orgName>Jakob Bergin</orgName>
-                  <noteGrp><note target="wkfm-0100.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0100</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__279">
+    <back><listPerson><person xml:id="wkfm__279">
                      <persName>
                         <forename>Jakob</forename>
                         <surname>Bergin</surname>
@@ -113,5 +110,8 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0100.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0100</note><note target="wkfm-0101.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0101</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47289">
+                     <orgName>Jakob Bergin</orgName>
+                  <noteGrp><note target="wkfm-0100.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0100</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

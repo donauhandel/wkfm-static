@@ -88,7 +88,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47474">
+    <back><listOrg><org xml:id="wkfm__47475">
+                     <orgName>Wilhelm Ignaz Strecker</orgName>
+                  <noteGrp><note target="wkfm-1565.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1565</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__47474">
                      <persName>
                         <forename>Wilhelm Ignaz</forename>
                         <surname>Strecker</surname>
@@ -108,8 +111,5 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1565.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1565</note><note target="wkfm-1566.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1566</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__47475">
-                     <orgName>Wilhelm Ignaz Strecker</orgName>
-                  <noteGrp><note target="wkfm-1565.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1565</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

@@ -118,19 +118,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__43987">
-                     <orgName>Joseph Schwarzleithner und Sohn, Schwarzleithner und Sohn</orgName>
-                  <noteGrp><note target="wkfm-0299.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0299</note><note target="wkfm-0607.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0607</note><note target="wkfm-1671.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1671</note><note target="wkfm-1672.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1672</note><note target="wkfm-1689.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1689</note><note target="wkfm-1690.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1690</note></noteGrp></org>
-                <org xml:id="wkfm__46292">
-                     <orgName>Engelbert Tschoffen</orgName>
-                  <noteGrp><note target="wkfm-0607.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0607</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__29581">
-                     <persName>
-                        <forename>None</forename>
-                        <surname>von Senger</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-0607.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0607</note></noteGrp></person>
-                <person xml:id="wkfm__46291">
+    <back><listPerson><person xml:id="wkfm__46291">
                      <persName>
                         <forename>Engelbert</forename>
                         <surname>Tschoffen</surname>
@@ -162,6 +150,12 @@
                         <bibl>Budischowky, Die Edlen von Tschoffen, 175-179, 187; Mittenzwei, Zwischen Gestern und Morgen, 81 und passim (dort als Protestant geführt).&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0607.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0607</note></noteGrp></person>
+                <person xml:id="wkfm__29581">
+                     <persName>
+                        <forename>None</forename>
+                        <surname>von Senger</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0607.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0607</note></noteGrp></person>
                 <person xml:id="wkfm__46293">
                      <persName>
                         <forename>Johann Thaddäus</forename>
@@ -188,5 +182,11 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 325, 337 (&amp;#34;Thadeus Aichinger&amp;#34;). Ein Johann Aichinger, Handelsmann, wurde im April 1737 zum Wiener Bürger aufgenommen (ebd. 325).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0050.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0050</note><note target="wkfm-0051.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0051</note><note target="wkfm-0607.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0607</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__43987">
+                     <orgName>Joseph Schwarzleithner und Sohn, Schwarzleithner und Sohn</orgName>
+                  <noteGrp><note target="wkfm-0299.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0299</note><note target="wkfm-0607.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0607</note><note target="wkfm-1671.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1671</note><note target="wkfm-1672.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1672</note><note target="wkfm-1689.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1689</note><note target="wkfm-1690.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1690</note></noteGrp></org>
+                <org xml:id="wkfm__46292">
+                     <orgName>Engelbert Tschoffen</orgName>
+                  <noteGrp><note target="wkfm-0607.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0607</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

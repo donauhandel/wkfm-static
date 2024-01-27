@@ -90,10 +90,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47339">
-                     <orgName>Johann Georg Prunner</orgName>
-                  <noteGrp><note target="wkfm-0192.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0192</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__43902">
+    <back><listPerson><person xml:id="wkfm__43902">
                      <persName>
                         <forename>Johann Georg</forename>
                         <surname>Prunner</surname>
@@ -113,5 +110,8 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 492 (April 1730).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0192.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0192</note><note target="wkfm-0193.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0193</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47339">
+                     <orgName>Johann Georg Prunner</orgName>
+                  <noteGrp><note target="wkfm-0192.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0192</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

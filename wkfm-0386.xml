@@ -88,10 +88,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46114">
-                     <orgName>Claudius Cheret &amp; Co.</orgName>
-                  <listPerson type="affiliated"><person><persName key="#wkfm__8096">Cheret, Claudius</persName></person></listPerson><noteGrp><note target="wkfm-0385.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0385</note><note target="wkfm-0386.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0386</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__30296">
+    <back><listPerson><person xml:id="wkfm__30296">
                      <persName>
                         <forename>Peter</forename>
                         <surname>Condray</surname>
@@ -136,5 +133,8 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0385.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0385</note><note target="wkfm-0386.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0386</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46114">
+                     <orgName>Claudius Cheret &amp; Co.</orgName>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__8096">Cheret, Claudius</persName></person></listPerson><noteGrp><note target="wkfm-0385.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0385</note><note target="wkfm-0386.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0386</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

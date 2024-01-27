@@ -87,7 +87,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__9057">
+    <back><listOrg><org xml:id="wkfm__47200">
+                     <orgName>Franz Karl Chini</orgName>
+                  <noteGrp><note target="wkfm-0329.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0329</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__9057">
                      <persName>
                         <forename>Franz Karl</forename>
                         <surname>Chini</surname>
@@ -108,8 +111,5 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0329.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0329</note><note target="wkfm-0330.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0330</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__47200">
-                     <orgName>Franz Karl Chini</orgName>
-                  <noteGrp><note target="wkfm-0329.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0329</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

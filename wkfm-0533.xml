@@ -90,7 +90,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46215">
+    <back><listOrg><org xml:id="wkfm__46216">
+                     <orgName>Johann Gottlieb Dreysch</orgName>
+                  <noteGrp><note target="wkfm-0533.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0533</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__46215">
                      <persName>
                         <forename>Johann Gottlieb</forename>
                         <forename type="alt">Gottlieb</forename>
@@ -112,8 +115,5 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0533.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0533</note><note target="wkfm-0534.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0534</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46216">
-                     <orgName>Johann Gottlieb Dreysch</orgName>
-                  <noteGrp><note target="wkfm-0533.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0533</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

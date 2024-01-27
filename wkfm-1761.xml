@@ -90,7 +90,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46986">
+    <back><listOrg><org xml:id="wkfm__46987">
+                     <orgName>Johann Richard von Waldt</orgName>
+                  <noteGrp><note target="wkfm-1761.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1761</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__46986">
                      <persName>
                         <forename>Johann Richard</forename>
                         <surname>von Waldt</surname>
@@ -110,8 +113,5 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 552 (&amp;#34;Johann von Waldt&amp;#34;).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1761.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1761</note><note target="wkfm-1762.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1762</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46987">
-                     <orgName>Johann Richard von Waldt</orgName>
-                  <noteGrp><note target="wkfm-1761.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1761</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

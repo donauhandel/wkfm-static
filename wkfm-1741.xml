@@ -88,7 +88,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__9870">
+    <back><listOrg><org xml:id="wkfm__46972">
+                     <orgName>Joseph Wandaller</orgName>
+                  <noteGrp><note target="wkfm-1741.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1741</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__9870">
                      <persName>
                         <forename>Joseph</forename>
                         <surname>Wandaller</surname>
@@ -112,8 +115,5 @@
                         <bibl>Huchler, Bürgeraufnahmen, 555.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1741.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1741</note><note target="wkfm-1742.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1742</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46972">
-                     <orgName>Joseph Wandaller</orgName>
-                  <noteGrp><note target="wkfm-1741.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1741</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

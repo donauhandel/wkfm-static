@@ -88,10 +88,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47201">
-                     <orgName>Christian Kircheisen</orgName>
-                  <noteGrp><note target="wkfm-0331.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0331</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__41601">
+    <back><listPerson><person xml:id="wkfm__41601">
                      <persName>
                         <forename>Christian</forename>
                         <surname>Kircheisen</surname>
@@ -107,5 +104,8 @@
                         <bibl>&amp;lt;span&amp;gt;Kröpfel, Protestantismus, Anhang 1, S. 4.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0331.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0331</note><note target="wkfm-0332.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0332</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47201">
+                     <orgName>Christian Kircheisen</orgName>
+                  <noteGrp><note target="wkfm-0331.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0331</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

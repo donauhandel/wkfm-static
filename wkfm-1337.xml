@@ -94,20 +94,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46647">
-                     <orgName>David Ostermayr</orgName>
-                  <noteGrp><note target="wkfm-1337.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1337</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__29746">
-                     <persName>
-                        <forename>David</forename>
-                        <surname>Niggus</surname>
-                     </persName>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Angestellter und Prokurist des David Ostermayr</occupation>
-               <noteGrp><note target="wkfm-1337.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1337</note></noteGrp></person>
-                <person xml:id="wkfm__9606">
+    <back><listPerson><person xml:id="wkfm__9606">
                      <persName>
                         <forename>David</forename>
                         <surname>Ostermayr</surname>
@@ -127,5 +114,18 @@
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Haemmerle, Hochzeitsbücher, 260, Nr. 3550.&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1337.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1337</note><note target="wkfm-1338.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1338</note></noteGrp></person>
-                </listPerson></back></text>
+                <person xml:id="wkfm__29746">
+                     <persName>
+                        <forename>David</forename>
+                        <surname>Niggus</surname>
+                     </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Angestellter und Prokurist des David Ostermayr</occupation>
+               <noteGrp><note target="wkfm-1337.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1337</note></noteGrp></person>
+                </listPerson><listOrg><org xml:id="wkfm__46647">
+                     <orgName>David Ostermayr</orgName>
+                  <noteGrp><note target="wkfm-1337.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1337</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

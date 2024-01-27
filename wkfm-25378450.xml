@@ -91,7 +91,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46652">
+    <back><listOrg><org xml:id="wkfm__46651">
+                     <orgName>Christoph Jakob Nickl (Niggl) sel. Witwe</orgName>
+                  <noteGrp><note target="wkfm-25378450.xml" type="mentions">Wiener Merkantilprotokoll Nr. 25378450</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__46652">
                      <persName>
                         <forename>None</forename>
                         <surname>None</surname>
@@ -102,8 +105,5 @@
                      <occupation>Handelsfrau</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
                <noteGrp><note target="wkfm-25378450.xml" type="mentions">Wiener Merkantilprotokoll Nr. 25378450</note><note target="wkfm-25378452.xml" type="mentions">Wiener Merkantilprotokoll Nr. 25378452</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46651">
-                     <orgName>Christoph Jakob Nickl (Niggl) sel. Witwe</orgName>
-                  <noteGrp><note target="wkfm-25378450.xml" type="mentions">Wiener Merkantilprotokoll Nr. 25378450</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

@@ -87,7 +87,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__9058" sameAs="#wkfm__11178 ">
+    <back><listOrg><org xml:id="wkfm__47287">
+                     <orgName>Matteo Barachino</orgName>
+                  <noteGrp><note target="wkfm-0096.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0096</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__9058" sameAs="#wkfm__11178 ">
                      <persName>
                         <forename>Matthias</forename>
                         <forename type="alt">Matteo</forename>
@@ -109,8 +112,5 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0096.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0096</note><note target="wkfm-0097.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0097</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__47287">
-                     <orgName>Matteo Barachino</orgName>
-                  <noteGrp><note target="wkfm-0096.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0096</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

@@ -89,10 +89,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47226">
-                     <orgName>Franz Anton Kaiser</orgName>
-                  <noteGrp><note target="wkfm-0387.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0387</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__46115">
+    <back><listPerson><person xml:id="wkfm__46115">
                      <persName>
                         <forename>Franz Anton</forename>
                         <surname>Kaiser</surname>
@@ -113,5 +110,8 @@
                         <bibl>Huchler, Bürgeraufnahmen, 425.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0387.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0387</note><note target="wkfm-0388.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0388</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47226">
+                     <orgName>Franz Anton Kaiser</orgName>
+                  <noteGrp><note target="wkfm-0387.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0387</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

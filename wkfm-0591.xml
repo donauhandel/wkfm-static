@@ -94,7 +94,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46271">
+    <back><listOrg><org xml:id="wkfm__46272">
+                     <orgName>Gilbert Anton Deschamps</orgName>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__46273">Merkl, Leopold</persName></person></listPerson><noteGrp><note target="wkfm-0591.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0591</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__46271">
                      <persName>
                         <forename>Gilbert Anton</forename>
                         <surname>Deschamps</surname>
@@ -118,8 +121,5 @@
                         <bibl>Huchler, Bürgeraufnahmen, 361.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0591.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0591</note><note target="wkfm-0592.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0592</note><note target="wkfm-1270.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1270</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46272">
-                     <orgName>Gilbert Anton Deschamps</orgName>
-                  <listPerson type="affiliated"><person><persName key="#wkfm__46273">Merkl, Leopold</persName></person></listPerson><noteGrp><note target="wkfm-0591.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0591</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

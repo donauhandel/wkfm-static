@@ -108,7 +108,14 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46353">
+    <back><listPerson><person xml:id="wkfm__46355">
+                     <persName>
+                        <forename>Barbara</forename>
+                        <surname>Gewey</surname>
+                        <surname type="alt">Kracherin</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0887.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0887</note></noteGrp></person>
+                <person xml:id="wkfm__46353">
                      <persName>
                         <forename>Johann Sigmund</forename>
                         <surname>Gewey</surname>
@@ -127,13 +134,6 @@
                      <listBibl>
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 387.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
-               <noteGrp><note target="wkfm-0887.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0887</note></noteGrp></person>
-                <person xml:id="wkfm__46355">
-                     <persName>
-                        <forename>Barbara</forename>
-                        <surname>Gewey</surname>
-                        <surname type="alt">Kracherin</surname>
-                     </persName>
                <noteGrp><note target="wkfm-0887.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0887</note></noteGrp></person>
                 </listPerson><listOrg><org xml:id="wkfm__46354">
                      <orgName>Johann Sigmund Gewey</orgName>

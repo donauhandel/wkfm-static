@@ -96,7 +96,16 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47561" sameAs="#wkfm__22147 ">
+    <back><listOrg><org xml:id="wkfm__47562">
+                     <orgName>Johann Schillinger</orgName>
+                  <noteGrp><note target="wkfm-1655.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1655</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__47563">
+                     <persName>
+                        <forename>Anna Maria</forename>
+                        <surname>Schillinger</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-1655.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1655</note></noteGrp></person>
+                <person xml:id="wkfm__47561" sameAs="#wkfm__22147 ">
                      <persName>
                         <forename>Johann</forename>
                         <surname>Schillinger</surname>
@@ -116,14 +125,5 @@
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 514.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1655.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1655</note></noteGrp></person>
-                <person xml:id="wkfm__47563">
-                     <persName>
-                        <forename>Anna Maria</forename>
-                        <surname>Schillinger</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-1655.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1655</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__47562">
-                     <orgName>Johann Schillinger</orgName>
-                  <noteGrp><note target="wkfm-1655.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1655</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

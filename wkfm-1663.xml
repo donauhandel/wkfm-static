@@ -118,7 +118,13 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47571">
+    <back><listOrg><org xml:id="wkfm__47573">
+                     <orgName>Matthias Weißenbeck sel. Erben</orgName>
+                  <noteGrp><note target="wkfm-1663.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1663</note></noteGrp></org>
+                <org xml:id="wkfm__47572">
+                     <orgName>Matthias Siber</orgName>
+                  <noteGrp><note target="wkfm-1663.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1663</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__47571">
                      <persName>
                         <forename>Matthias</forename>
                         <surname>Siber</surname>
@@ -162,11 +168,5 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 558 (Dezember 1742).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1663.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1663</note><note target="wkfm-1663.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1663</note><note target="wkfm-1797.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1797</note><note target="wkfm-1798.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1798</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__47572">
-                     <orgName>Matthias Siber</orgName>
-                  <noteGrp><note target="wkfm-1663.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1663</note></noteGrp></org>
-                <org xml:id="wkfm__47573">
-                     <orgName>Matthias Weißenbeck sel. Erben</orgName>
-                  <noteGrp><note target="wkfm-1663.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1663</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

@@ -87,10 +87,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46614">
-                     <orgName>Bernhard Gabriel</orgName>
-                  <noteGrp><note target="wkfm-1857.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1857</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__17496" sameAs="#wkfm__39080 ">
+    <back><listPerson><person xml:id="wkfm__17496" sameAs="#wkfm__39080 ">
                      <persName>
                         <forename>Bernhard</forename>
                         <surname>Gabriel</surname>
@@ -107,5 +104,8 @@
                         <bibl>Wachstein, Die Wiener Juden in Handel und Industrie.</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1857.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1857</note><note target="wkfm-1858.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1858</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46614">
+                     <orgName>Bernhard Gabriel</orgName>
+                  <noteGrp><note target="wkfm-1857.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1857</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

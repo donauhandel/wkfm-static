@@ -90,14 +90,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47024">
-                     <persName>
-                        <forename>Maria Cäcilia</forename>
-                        <surname>Pertoldin</surname>
-                        <surname type="alt">Wöber</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-1802.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1802</note></noteGrp></person>
-                <person xml:id="wkfm__47022">
+    <back><listPerson><person xml:id="wkfm__47022">
                      <persName>
                         <forename>Lorenz</forename>
                         <surname>Wöber</surname>
@@ -120,5 +113,12 @@
                         <bibl>Huchler, Bürgeraufnahmen, 566.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1801.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1801</note><note target="wkfm-1802.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1802</note></noteGrp></person>
+                <person xml:id="wkfm__47024">
+                     <persName>
+                        <forename>Maria Cäcilia</forename>
+                        <surname>Pertoldin</surname>
+                        <surname type="alt">Wöber</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-1802.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1802</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

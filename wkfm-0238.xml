@@ -102,7 +102,13 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__29663">
+    <back><listPerson><person xml:id="wkfm__43927">
+                     <persName>
+                        <forename>Maria Anna</forename>
+                        <surname>Höglmüllerin</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0238.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0238</note></noteGrp></person>
+                <person xml:id="wkfm__29663">
                      <persName>
                         <forename>Bartholomäus</forename>
                         <surname>Bertola</surname>
@@ -123,11 +129,5 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0237.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0237</note><note target="wkfm-0238.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0238</note></noteGrp></person>
-                <person xml:id="wkfm__43927">
-                     <persName>
-                        <forename>Maria Anna</forename>
-                        <surname>Höglmüllerin</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-0238.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0238</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

@@ -98,7 +98,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46446">
+    <back><listOrg><org xml:id="wkfm__46447">
+                     <orgName>Lorenz Heigl</orgName>
+                  <noteGrp><note target="wkfm-0941.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0941</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__46446">
                      <persName>
                         <forename>Lorenz</forename>
                         <surname>Heigl</surname>
@@ -128,8 +131,5 @@
                      <occupation>Handelsmann, Angestellter und Prokurist des Lorenz Heigl</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                <noteGrp><note target="wkfm-0869.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0869</note><note target="wkfm-0870.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0870</note><note target="wkfm-0941.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0941</note><note target="wkfm-1780.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1780</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46447">
-                     <orgName>Lorenz Heigl</orgName>
-                  <noteGrp><note target="wkfm-0941.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0941</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

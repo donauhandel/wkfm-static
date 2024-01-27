@@ -92,7 +92,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__28298">
+    <back><listOrg><org xml:id="wkfm__46636">
+                     <orgName>Claudius Jenamy</orgName>
+                  <noteGrp><note target="wkfm-1073.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1073</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__28298">
                      <persName>
                         <forename>Claudius</forename>
                         <forename type="alt">Claude</forename>
@@ -120,8 +123,5 @@
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 423 (6. August 1721).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1073.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1073</note><note target="wkfm-1074.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1074</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46636">
-                     <orgName>Claudius Jenamy</orgName>
-                  <noteGrp><note target="wkfm-1073.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1073</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

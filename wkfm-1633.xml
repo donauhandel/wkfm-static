@@ -99,14 +99,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47535">
-                     <persName>
-                        <forename>Donato</forename>
-                        <surname>Allio</surname>
-                     </persName>
-                     <occupation>k. k. Ingenieur [?]</occupation>
-               <noteGrp><note target="wkfm-1633.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1633</note></noteGrp></person>
-                <person xml:id="wkfm__34998">
+    <back><listPerson><person xml:id="wkfm__34998">
                      <persName>
                         <forename>Johann Peter</forename>
                         <surname>Scanzoni</surname>
@@ -130,6 +123,13 @@
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 510.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1633.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1633</note><note target="wkfm-1634.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1634</note></noteGrp></person>
+                <person xml:id="wkfm__47535">
+                     <persName>
+                        <forename>Donato</forename>
+                        <surname>Allio</surname>
+                     </persName>
+                     <occupation>k. k. Ingenieur [?]</occupation>
+               <noteGrp><note target="wkfm-1633.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1633</note></noteGrp></person>
                 </listPerson><listOrg><org xml:id="wkfm__47534">
                      <orgName>Johann Peter Scanzoni</orgName>
                   <noteGrp><note target="wkfm-1633.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1633</note></noteGrp></org>

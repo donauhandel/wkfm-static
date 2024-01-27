@@ -112,7 +112,29 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__8743" sameAs="#wkfm__14425 ">
+    <back><listPerson><person xml:id="wkfm__2971">
+                     <persName>
+                        <forename>Stephan</forename>
+                        <surname>Knoll</surname>
+                        <surname type="alt">Khnoll</surname>
+                        <surname type="alt">Kholl</surname>
+                     </persName>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+                     <listBibl>
+                        <bibl>Kaiserlicher (...) Staats= und Stands Calender (...) [1723] (Wien), 243; &amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Beim niederösterr. Landmarschall&amp;#39;schen Gerichte hinterlegte 
+Verträge, derzeit im n. ö. Landesarchiv, 1. Teil, in: Monatsblatt der 
+Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 154) 
+205-211, hier 209.&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;br&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0339.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0339</note></noteGrp></person>
+                <person xml:id="wkfm__44993" sameAs="#wkfm__9131 wkfm__25026 ">
+                     <persName>
+                        <forename>Thomas</forename>
+                        <surname>Dornacher</surname>
+                     </persName>
+                     <occupation>Buchhalter und Prokurist des Franz von Churfeld</occupation>
+               <noteGrp><note target="wkfm-0339.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0339</note></noteGrp></person>
+                <person xml:id="wkfm__8743" sameAs="#wkfm__14425 ">
                      <persName>
                         <forename>Franz</forename>
                         <surname>von Churfeld</surname>
@@ -131,33 +153,11 @@
                         <bibl>Anton Schachinger, Die Auswirkungen des Türkeneinfalles von 1683 in Hietzing. Zugleich eine Häusergeschichte vom 17.-19. Jhdt., in: Jahrbuch für Landeskunde von Niederösterreich, N.F. 34 (1958/60) 180-225, 211; Johann Christian von Hellbach (...), Adels-Lexikon (...), Bd. 2: L bis Z (Ilmenau 1826) 289.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0339.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0339</note><note target="wkfm-0340.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0340</note></noteGrp></person>
-                <person xml:id="wkfm__44993" sameAs="#wkfm__9131 wkfm__25026 ">
-                     <persName>
-                        <forename>Thomas</forename>
-                        <surname>Dornacher</surname>
-                     </persName>
-                     <occupation>Buchhalter und Prokurist des Franz von Churfeld</occupation>
-               <noteGrp><note target="wkfm-0339.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0339</note></noteGrp></person>
-                <person xml:id="wkfm__2971">
-                     <persName>
-                        <forename>Stephan</forename>
-                        <surname>Knoll</surname>
-                        <surname type="alt">Khnoll</surname>
-                        <surname type="alt">Kholl</surname>
-                     </persName>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-                     <listBibl>
-                        <bibl>Kaiserlicher (...) Staats= und Stands Calender (...) [1723] (Wien), 243; &amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Beim niederösterr. Landmarschall&amp;#39;schen Gerichte hinterlegte 
-Verträge, derzeit im n. ö. Landesarchiv, 1. Teil, in: Monatsblatt der 
-Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 154) 
-205-211, hier 209.&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;br&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-0339.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0339</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__20653">
-                     <orgName>Stephan Knoll &amp; Co.</orgName>
-                  <noteGrp><note target="wkfm-0339.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0339</note></noteGrp></org>
-                <org xml:id="wkfm__47205">
+                </listPerson><listOrg><org xml:id="wkfm__47205">
                      <orgName>Franz von Churfeld</orgName>
+                  <noteGrp><note target="wkfm-0339.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0339</note></noteGrp></org>
+                <org xml:id="wkfm__20653">
+                     <orgName>Stephan Knoll &amp; Co.</orgName>
                   <noteGrp><note target="wkfm-0339.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0339</note></noteGrp></org>
                 </listOrg></back></text>
 </TEI>

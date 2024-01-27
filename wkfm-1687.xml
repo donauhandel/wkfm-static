@@ -90,7 +90,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47600">
+    <back><listOrg><org xml:id="wkfm__47601">
+                     <orgName>Karl Stapf</orgName>
+                  <noteGrp><note target="wkfm-1687.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1687</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__47600">
                      <persName>
                         <forename>Karl</forename>
                         <surname>Stapf</surname>
@@ -111,8 +114,5 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1687.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1687</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__47601">
-                     <orgName>Karl Stapf</orgName>
-                  <noteGrp><note target="wkfm-1687.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1687</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

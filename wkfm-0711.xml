@@ -87,10 +87,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47083">
-                     <orgName>Joseph Uhl</orgName>
-                  <noteGrp><note target="wkfm-0711.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0711</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__47082">
+    <back><listPerson><person xml:id="wkfm__47082">
                      <persName>
                         <forename>Joseph</forename>
                         <surname>Uhl</surname>
@@ -111,5 +108,8 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0711.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0711</note><note target="wkfm-0712.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0712</note><note target="wkfm-0763.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0763</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47083">
+                     <orgName>Joseph Uhl</orgName>
+                  <noteGrp><note target="wkfm-0711.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0711</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

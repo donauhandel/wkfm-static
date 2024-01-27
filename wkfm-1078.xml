@@ -98,10 +98,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__43869">
-                     <orgName>Jakob Ingruber &amp; Co.</orgName>
-                  <listPerson type="affiliated"><person><persName key="#wkfm__43868">Ingruber, Jakob</persName></person></listPerson><noteGrp><note target="wkfm-1077.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1077</note><note target="wkfm-1078.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1078</note><note target="wkfm-1579.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1579</note><note target="wkfm-1580.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1580</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__43870">
+    <back><listPerson><person xml:id="wkfm__43870">
                      <persName>
                         <forename>Leopold</forename>
                         <surname>Schräzenthaler</surname>
@@ -146,5 +143,8 @@
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 421 (13. November 1722: Johann Jacob).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1077.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1077</note><note target="wkfm-1078.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1078</note><note target="wkfm-1580.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1580</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__43869">
+                     <orgName>Jakob Ingruber &amp; Co.</orgName>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__43868">Ingruber, Jakob</persName></person></listPerson><noteGrp><note target="wkfm-1077.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1077</note><note target="wkfm-1078.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1078</note><note target="wkfm-1579.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1579</note><note target="wkfm-1580.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1580</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

@@ -110,13 +110,7 @@
                 <org xml:id="wkfm__47410">
                      <orgName>Matthias Schmidt sel. Witwe</orgName>
                   <noteGrp><note target="wkfm-1483.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1483</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__47414">
-                     <persName>
-                        <forename>Johann Franz</forename>
-                        <surname>Schmidt</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-1483.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1483</note><note target="wkfm-1485.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1485</note></noteGrp></person>
-                <person xml:id="wkfm__47409">
+                </listOrg><listPerson><person xml:id="wkfm__47409">
                      <persName>
                         <forename>None</forename>
                         <surname>None</surname>
@@ -130,5 +124,11 @@
                      <occupation>Handelsfrau</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1483.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1483</note><note target="wkfm-1484.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1484</note></noteGrp></person>
+                <person xml:id="wkfm__47414">
+                     <persName>
+                        <forename>Johann Franz</forename>
+                        <surname>Schmidt</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-1483.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1483</note><note target="wkfm-1485.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1485</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>
