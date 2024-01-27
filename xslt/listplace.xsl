@@ -49,6 +49,7 @@
                                 <tr>
                                     <th scope="col" width="20" tabulator-formatter="html" tabulator-headerSort="false" tabulator-download="false">#</th>
                                     <th scope="col" tabulator-headerFilter="input">Ortsname</th>
+                                    <th scope="col" tabulator-headerFilter="input">Verbundene Personen</th>
                                     <th scope="col" tabulator-headerFilter="input">Lat</th>
                                     <th scope="col" tabulator-headerFilter="input">Long</th>
                                     <th scope="col" tabulator-headerFilter="input">ID</th>
@@ -70,6 +71,9 @@
                                         </td>
                                         <td>
                                             <xsl:value-of select="./tei:placeName[1]/text()"/>
+                                        </td>
+                                        <td>
+                                            <xsl:value-of select="count(.//tei:note[@type='related'])"/>
                                         </td>
                                         <td>
                                             <xsl:choose>
@@ -117,10 +121,10 @@
                                 <h1 class="text-center display-3 pb-3">
                                     <xsl:value-of select="$name"/>
                                 </h1>
-                                <xsl:call-template name="place_detail"/>
                                 <xsl:if test="./tei:location/tei:geo">
-                                <div id="map_detail"/>
+                                    <div id="map_detail"/>
                                 </xsl:if>
+                                <xsl:call-template name="place_detail"/>
                             </div>
                         </main>
                         <xsl:call-template name="html_footer"/>

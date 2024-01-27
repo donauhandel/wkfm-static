@@ -38,6 +38,15 @@
                     </td>
                 </tr>
                 <tr>
+                    <th>Verbundene Personen</th>
+                    <td>
+                        <xsl:for-each select=".//tei:note[@type='related']">
+                            <xsl:sort select="./text()" />
+                            <a href="{replace(./@target, '#', '')||'.html'}"><xsl:value-of select="./text()"/></a> | 
+                        </xsl:for-each>
+                    </td>
+                </tr>
+                <tr>
                     <th>
                         Bibliographische Angaben
                     </th>
