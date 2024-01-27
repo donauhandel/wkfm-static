@@ -1,4 +1,5 @@
 import glob
+
 from acdh_tei_pyutils.tei import TeiReader
 from tqdm import tqdm
 
