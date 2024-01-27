@@ -92,7 +92,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__7607">
+    <back><listOrg><org xml:id="wkfm__46602">
+                     <orgName>Johann Zacher</orgName>
+                  <noteGrp><note target="wkfm-1831.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1831</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__7607">
                      <persName>
                         <forename>Johann</forename>
                         <surname>Zacher</surname>
@@ -120,8 +123,5 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 569.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1831.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1831</note><note target="wkfm-1832.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1832</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46602">
-                     <orgName>Johann Zacher</orgName>
-                  <noteGrp><note target="wkfm-1831.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1831</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

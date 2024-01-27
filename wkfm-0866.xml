@@ -96,22 +96,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46334">
-                     <persName>
-                        <forename>Johann</forename>
-                        <surname>Schußböck</surname>
-                        <surname type="alt">Schußbökh</surname>
-                     </persName>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-                     <listBibl>
-                        <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 525 (Mai 1727: &amp;#34;Johann Silvester Schusbökh&amp;#34;).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-0866.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0866</note></noteGrp></person>
-                <person xml:id="wkfm__19817">
+    <back><listPerson><person xml:id="wkfm__19817">
                      <persName>
                         <forename>Franz</forename>
                         <surname>Gouttro</surname>
@@ -139,6 +124,21 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 390 (Februar 1727); Raynaud, Savoyardische Einwanderungen, 87.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0865.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0865</note><note target="wkfm-0866.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0866</note></noteGrp></person>
+                <person xml:id="wkfm__46334">
+                     <persName>
+                        <forename>Johann</forename>
+                        <surname>Schußböck</surname>
+                        <surname type="alt">Schußbökh</surname>
+                     </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+                     <listBibl>
+                        <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 525 (Mai 1727: &amp;#34;Johann Silvester Schusbökh&amp;#34;).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0866.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0866</note></noteGrp></person>
                 </listPerson><listOrg><org xml:id="wkfm__46333">
                      <orgName>Gouttro und Schußböck</orgName>
                   <noteGrp><note target="wkfm-0865.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0865</note><note target="wkfm-0866.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0866</note></noteGrp></org>

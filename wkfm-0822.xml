@@ -86,10 +86,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__8670">
-                     <orgName>Gindl und Hink, Gündl und Hink, Stephan Gündl und Joseph Hink</orgName>
-                  <noteGrp><note target="wkfm-0821.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0821</note><note target="wkfm-0822.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0822</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__20897">
+    <back><listPerson><person xml:id="wkfm__20897">
                      <persName>
                         <forename>Stephan</forename>
                         <surname>Gindl</surname>
@@ -123,5 +120,8 @@
                      <occupation>Tuchhändler</occupation>
                      <occupation type="kaufmannsklasse">tuchlaubensverwandt/bürgerlich</occupation>
                <noteGrp><note target="wkfm-0821.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0821</note><note target="wkfm-0822.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0822</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__8670">
+                     <orgName>Gindl und Hink, Gündl und Hink, Stephan Gündl und Joseph Hink</orgName>
+                  <noteGrp><note target="wkfm-0821.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0821</note><note target="wkfm-0822.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0822</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

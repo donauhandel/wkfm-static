@@ -134,17 +134,16 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__22363" sameAs="#wkfm__10517 ">
+    <back><listPerson><person xml:id="wkfm__46494">
                      <persName>
-                        <forename>Christian Daniel</forename>
-                        <surname>Frölich</surname>
+                        <forename>Ignaz</forename>
+                        <surname>Kreuter</surname>
                      </persName>
-                     <residence type="Geschäftsniederlassung">
+                     <residence type="Wohnort">
                         <placeName key="#wkfm-place__925">Wien</placeName>
                      <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann, Prokurist bei Johann Fortunat Heller</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-               <noteGrp><note target="wkfm-0757.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0757</note><note target="wkfm-0758.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0758</note><note target="wkfm-0997.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0997</note></noteGrp></person>
+                     <occupation>Kassier und Prokurist bei Johann Fortunat Heller</occupation>
+               <noteGrp><note target="wkfm-0997.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0997</note></noteGrp></person>
                 <person xml:id="wkfm__15932" sameAs="#wkfm__28189 wkfm__36292 wkfm__39443 ">
                      <persName>
                         <forename>Johann Fortunat</forename>
@@ -156,16 +155,6 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                <noteGrp><note target="wkfm-0195.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0195</note><note target="wkfm-0997.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0997</note><note target="wkfm-0998.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0998</note></noteGrp></person>
-                <person xml:id="wkfm__46494">
-                     <persName>
-                        <forename>Ignaz</forename>
-                        <surname>Kreuter</surname>
-                     </persName>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Kassier und Prokurist bei Johann Fortunat Heller</occupation>
-               <noteGrp><note target="wkfm-0997.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0997</note></noteGrp></person>
                 <person xml:id="wkfm__8593">
                      <persName>
                         <forename>Johann Maria</forename>
@@ -179,6 +168,17 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                <noteGrp><note target="wkfm-0194.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0194</note><note target="wkfm-0195.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0195</note><note target="wkfm-0997.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0997</note><note target="wkfm-0998.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0998</note><note target="wkfm-1471.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1471</note><note target="wkfm-1472.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1472</note></noteGrp></person>
+                <person xml:id="wkfm__22363" sameAs="#wkfm__10517 ">
+                     <persName>
+                        <forename>Christian Daniel</forename>
+                        <surname>Frölich</surname>
+                     </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann, Prokurist bei Johann Fortunat Heller</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+               <noteGrp><note target="wkfm-0757.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0757</note><note target="wkfm-0758.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0758</note><note target="wkfm-0997.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0997</note></noteGrp></person>
                 <person xml:id="wkfm__46495">
                      <persName>
                         <forename>Jakob</forename>

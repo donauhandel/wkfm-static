@@ -88,7 +88,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46884">
+    <back><listOrg><org xml:id="wkfm__46885">
+                     <orgName>Nikolaus Johann Menschik</orgName>
+                  <noteGrp><note target="wkfm-1235.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1235</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__46884">
                      <persName>
                         <forename>Niklas Johann</forename>
                         <surname>Menschik</surname>
@@ -110,8 +113,5 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1235.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1235</note><note target="wkfm-1236.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1236</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46885">
-                     <orgName>Nikolaus Johann Menschik</orgName>
-                  <noteGrp><note target="wkfm-1235.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1235</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

@@ -89,7 +89,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46137">
+    <back><listOrg><org xml:id="wkfm__47245">
+                     <orgName>Gregor Creitzmayr</orgName>
+                  <noteGrp><note target="wkfm-0429.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0429</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__46137">
                      <persName>
                         <forename>Gregor</forename>
                         <surname>Creitzmayr</surname>
@@ -112,8 +115,5 @@
                         <bibl>Huchler, Bürgeraufnahmen, 357.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0429.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0429</note><note target="wkfm-0430.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0430</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__47245">
-                     <orgName>Gregor Creitzmayr</orgName>
-                  <noteGrp><note target="wkfm-0429.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0429</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

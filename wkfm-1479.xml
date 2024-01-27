@@ -88,10 +88,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47408">
-                     <orgName>Johann Baptist Schwanesini</orgName>
-                  <noteGrp><note target="wkfm-1479.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1479</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__9920">
+    <back><listPerson><person xml:id="wkfm__9920">
                      <persName>
                         <forename>Johann Baptist</forename>
                         <surname>Schwanesini</surname>
@@ -113,5 +110,8 @@
                         <bibl>Rauscher/Serles, Märkte, 79/Anm. 82.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1479.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1479</note><note target="wkfm-1480.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1480</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47408">
+                     <orgName>Johann Baptist Schwanesini</orgName>
+                  <noteGrp><note target="wkfm-1479.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1479</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

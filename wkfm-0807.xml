@@ -114,10 +114,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47191">
-                     <orgName>Johannes Fries</orgName>
-                  <noteGrp><note target="wkfm-0807.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0807</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__47190" sameAs="#wkfm__23466 ">
+    <back><listPerson><person xml:id="wkfm__47190" sameAs="#wkfm__23466 ">
                      <persName>
                         <forename>Johann</forename>
                         <surname>Fries</surname>
@@ -152,5 +149,8 @@
                      <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Angestellter und Prokurist bei Johann Fries</occupation>
                <noteGrp><note target="wkfm-0807.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0807</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47191">
+                     <orgName>Johannes Fries</orgName>
+                  <noteGrp><note target="wkfm-0807.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0807</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

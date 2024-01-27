@@ -92,10 +92,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46985">
-                     <orgName>Johann Joseph Wolf</orgName>
-                  <noteGrp><note target="wkfm-1759.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1759</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__23591">
+    <back><listPerson><person xml:id="wkfm__23591">
                      <persName>
                         <forename>Johann Joseph</forename>
                         <surname>Wolf</surname>
@@ -119,5 +116,8 @@
                         <bibl>Huchler, Bürgeraufnahmen, 567.</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1759.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1759</note><note target="wkfm-1760.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1760</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46985">
+                     <orgName>Johann Joseph Wolf</orgName>
+                  <noteGrp><note target="wkfm-1759.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1759</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

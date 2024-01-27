@@ -94,10 +94,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46878">
-                     <orgName>Anton Mader</orgName>
-                  <noteGrp><note target="wkfm-1227.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1227</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__10730">
+    <back><listPerson><person xml:id="wkfm__10730">
                      <persName>
                         <forename>Anton</forename>
                         <surname>Mader</surname>
@@ -138,5 +135,8 @@
                      <occupation>Handelsfrau</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1227.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1227</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46878">
+                     <orgName>Anton Mader</orgName>
+                  <noteGrp><note target="wkfm-1227.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1227</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

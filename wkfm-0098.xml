@@ -89,11 +89,11 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__43843">
-                     <orgName>Lorenz Pogner und Rollet</orgName>
-                  <noteGrp><note target="wkfm-0098.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0098</note></noteGrp></org>
-                <org xml:id="wkfm__47288">
+    <back><listOrg><org xml:id="wkfm__47288">
                      <orgName>Lorenz Pogner</orgName>
+                  <noteGrp><note target="wkfm-0098.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0098</note></noteGrp></org>
+                <org xml:id="wkfm__43843">
+                     <orgName>Lorenz Pogner und Rollet</orgName>
                   <noteGrp><note target="wkfm-0098.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0098</note></noteGrp></org>
                 </listOrg><listPerson><person xml:id="wkfm__8923">
                      <persName>

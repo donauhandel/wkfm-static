@@ -94,7 +94,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__8802">
+    <back><listOrg><org xml:id="wkfm__47428">
+                     <orgName>Lukas Joseph Setti</orgName>
+                  <noteGrp><note target="wkfm-1505.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1505</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__8802">
                      <persName>
                         <forename>Lukas Joseph</forename>
                         <forename type="alt">Lukas</forename>
@@ -133,8 +136,5 @@
                      <occupation>Ehefrau und Prokuristin für Lukas Joseph Setti, Prokuristin für Franz und Ferdinand Setti</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1505.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1505</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__47428">
-                     <orgName>Lukas Joseph Setti</orgName>
-                  <noteGrp><note target="wkfm-1505.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1505</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

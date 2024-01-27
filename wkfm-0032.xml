@@ -94,13 +94,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46590">
-                     <orgName>Johann Baptist Albertani</orgName>
-                  <noteGrp><note target="wkfm-0032.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0032</note></noteGrp></org>
-                <org xml:id="wkfm__46593">
-                     <orgName>Matthias Ankerl sel. Witwe</orgName>
-                  <noteGrp><note target="wkfm-0032.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0032</note><note target="wkfm-0036.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0036</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__43790">
+    <back><listPerson><person xml:id="wkfm__43790">
                      <persName>
                         <forename>Johann Baptist</forename>
                         <surname>Albertani</surname>
@@ -115,5 +109,11 @@
                      <occupation>Leinwandhändler</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
                <noteGrp><note target="wkfm-0032.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0032</note><note target="wkfm-0033.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0033</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46590">
+                     <orgName>Johann Baptist Albertani</orgName>
+                  <noteGrp><note target="wkfm-0032.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0032</note></noteGrp></org>
+                <org xml:id="wkfm__46593">
+                     <orgName>Matthias Ankerl sel. Witwe</orgName>
+                  <noteGrp><note target="wkfm-0032.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0032</note><note target="wkfm-0036.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0036</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

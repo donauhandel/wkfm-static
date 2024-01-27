@@ -87,7 +87,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__14104">
+    <back><listOrg><org xml:id="wkfm__26954">
+                     <orgName>Andre Coith &amp; Co.</orgName>
+                  <noteGrp><note target="wkfm-0357.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0357</note><note target="wkfm-0358.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0358</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__14104">
                      <persName>
                         <forename>Andreas</forename>
                         <surname>Coith</surname>
@@ -104,8 +107,5 @@
                         <bibl>Christian Meltzern, Historia Schneebergensis renovata. Da ist: Erneuerte Stadt- u. Berg-Chronica Der im Ober-Ertz-Gebürge des belobten Meißens gelegenen Wohl-löbl. Freyen Berg-Stadt Schneeberg (...) (Schneeberg 1716). Mittenzwei, Zwischen Gestern und Morgen, 85 (zur ev. Religion der Coith)&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0357.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0357</note><note target="wkfm-0358.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0358</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__26954">
-                     <orgName>Andre Coith &amp; Co.</orgName>
-                  <noteGrp><note target="wkfm-0357.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0357</note><note target="wkfm-0358.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0358</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

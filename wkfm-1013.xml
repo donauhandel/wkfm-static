@@ -88,10 +88,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46508">
-                     <orgName>Johann Hochhauser</orgName>
-                  <noteGrp><note target="wkfm-1013.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1013</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__46507">
+    <back><listPerson><person xml:id="wkfm__46507">
                      <persName>
                         <forename>Johann</forename>
                         <surname>Hochhauser</surname>
@@ -111,5 +108,8 @@
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 411.&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1013.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1013</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46508">
+                     <orgName>Johann Hochhauser</orgName>
+                  <noteGrp><note target="wkfm-1013.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1013</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

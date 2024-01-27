@@ -86,18 +86,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__34278" sameAs="#wkfm__36168 ">
-                     <persName>
-                        <forename>Johann Anton</forename>
-                        <surname>Martinelli</surname>
-                     </persName>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">hofbefreit</occupation>
-               <noteGrp><note target="wkfm-1190.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1190</note><note target="wkfm-1191.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1191</note><note target="wkfm-1192.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1192</note></noteGrp></person>
-                <person xml:id="wkfm__46856">
+    <back><listPerson><person xml:id="wkfm__46856">
                      <persName>
                         <forename>Franz Jakob</forename>
                         <surname>Martinelli</surname>
@@ -108,6 +97,17 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
                <noteGrp><note target="wkfm-1189.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1189</note><note target="wkfm-1190.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1190</note><note target="wkfm-1192.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1192</note></noteGrp></person>
+                <person xml:id="wkfm__34278" sameAs="#wkfm__36168 ">
+                     <persName>
+                        <forename>Johann Anton</forename>
+                        <surname>Martinelli</surname>
+                     </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">hofbefreit</occupation>
+               <noteGrp><note target="wkfm-1190.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1190</note><note target="wkfm-1191.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1191</note><note target="wkfm-1192.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1192</note></noteGrp></person>
                 </listPerson><listOrg><org xml:id="wkfm__8416">
                      <orgName>Gebrüder Martinelli, Fratelli Martinelli</orgName>
                   <noteGrp><note target="wkfm-1189.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1189</note><note target="wkfm-1190.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1190</note><note target="wkfm-1191.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1191</note><note target="wkfm-1192.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1192</note></noteGrp></org>

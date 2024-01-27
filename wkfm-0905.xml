@@ -106,10 +106,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46383">
-                     <orgName>Johann Friedrich Gropp</orgName>
-                  <noteGrp><note target="wkfm-0905.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0905</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__46382">
+    <back><listPerson><person xml:id="wkfm__46382">
                      <persName>
                         <forename>Johann Friedrich</forename>
                         <surname>Gropp</surname>
@@ -126,5 +123,8 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0905.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0905</note><note target="wkfm-0906.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0906</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46383">
+                     <orgName>Johann Friedrich Gropp</orgName>
+                  <noteGrp><note target="wkfm-0905.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0905</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

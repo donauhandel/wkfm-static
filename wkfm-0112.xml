@@ -92,12 +92,12 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__43850">
-                     <orgName>Johann Jakob Pauminger sel. Witwe und Anton Oberleithner</orgName>
-                  <listPerson type="affiliated"><person><persName key="#wkfm__43856">Oberleithner, Anton</persName></person></listPerson><noteGrp><note target="wkfm-0112.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0112</note><note target="wkfm-0113.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0113</note></noteGrp></org>
-                <org xml:id="wkfm__47296">
+    <back><listOrg><org xml:id="wkfm__47296">
                      <orgName>Johann Jakob Pauminger</orgName>
                   <noteGrp><note target="wkfm-0112.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0112</note></noteGrp></org>
+                <org xml:id="wkfm__43850">
+                     <orgName>Johann Jakob Pauminger sel. Witwe und Anton Oberleithner</orgName>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__43856">Oberleithner, Anton</persName></person></listPerson><noteGrp><note target="wkfm-0112.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0112</note><note target="wkfm-0113.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0113</note></noteGrp></org>
                 </listOrg><listPerson><person xml:id="wkfm__13158">
                      <persName>
                         <forename>Johann Jakob</forename>

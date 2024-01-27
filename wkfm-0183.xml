@@ -92,10 +92,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__20610">
-                     <orgName>Peter und Krazer</orgName>
-                  <listPerson type="affiliated"><person><persName key="#wkfm__43895">Krazer, Michael Justus</persName></person></listPerson><noteGrp><note target="wkfm-0182.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0182</note><note target="wkfm-0183.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0183</note><note target="wkfm-0459.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0459</note><note target="wkfm-0460.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0460</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__43895">
+    <back><listPerson><person xml:id="wkfm__43895">
                      <persName>
                         <forename>Michael Justus</forename>
                         <surname>Krazer</surname>
@@ -142,5 +139,8 @@
                         <bibl>Huchler, Bürgeraufnahmen,&amp;amp;nbsp;481.</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0182.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0182</note><note target="wkfm-0183.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0183</note><note target="wkfm-0459.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0459</note><note target="wkfm-0460.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0460</note><note target="wkfm-0545.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0545</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__20610">
+                     <orgName>Peter und Krazer</orgName>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__43895">Krazer, Michael Justus</persName></person></listPerson><noteGrp><note target="wkfm-0182.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0182</note><note target="wkfm-0183.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0183</note><note target="wkfm-0459.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0459</note><note target="wkfm-0460.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0460</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

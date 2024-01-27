@@ -96,27 +96,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43894">
-                     <persName>
-                        <forename>Johann Joseph</forename>
-                        <surname>Peter</surname>
-                     </persName>
-                     <death><date>1746</date></death>
-                     <residence type="Bürgerrecht">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Prokurist der Firma Johann Baptist Thann sel. Erben, Handelsmann</occupation>
-                     <listBibl>
-                        <bibl>Huchler, Bürgeraufnahmen,&amp;amp;nbsp;481.</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-0182.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0182</note><note target="wkfm-0183.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0183</note><note target="wkfm-0459.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0459</note><note target="wkfm-0460.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0460</note><note target="wkfm-0545.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0545</note></noteGrp></person>
-                <person xml:id="wkfm__43895">
+    <back><listPerson><person xml:id="wkfm__43895">
                      <persName>
                         <forename>Michael Justus</forename>
                         <surname>Krazer</surname>
@@ -141,6 +121,26 @@
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <listBibl>
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 436.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0182.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0182</note><note target="wkfm-0183.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0183</note><note target="wkfm-0459.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0459</note><note target="wkfm-0460.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0460</note><note target="wkfm-0545.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0545</note></noteGrp></person>
+                <person xml:id="wkfm__43894">
+                     <persName>
+                        <forename>Johann Joseph</forename>
+                        <surname>Peter</surname>
+                     </persName>
+                     <death><date>1746</date></death>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Prokurist der Firma Johann Baptist Thann sel. Erben, Handelsmann</occupation>
+                     <listBibl>
+                        <bibl>Huchler, Bürgeraufnahmen,&amp;amp;nbsp;481.</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0182.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0182</note><note target="wkfm-0183.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0183</note><note target="wkfm-0459.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0459</note><note target="wkfm-0460.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0460</note><note target="wkfm-0545.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0545</note></noteGrp></person>
                 </listPerson><listOrg><org xml:id="wkfm__20610">

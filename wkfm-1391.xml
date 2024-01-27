@@ -88,7 +88,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__9092">
+    <back><listOrg><org xml:id="wkfm__46709">
+                     <orgName>Johann Georg Rainer</orgName>
+                  <noteGrp><note target="wkfm-1391.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1391</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__9092">
                      <persName>
                         <forename>Johann Georg</forename>
                         <surname>Rainer</surname>
@@ -112,8 +115,5 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 495.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1391.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1391</note><note target="wkfm-1392.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1392</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46709">
-                     <orgName>Johann Georg Rainer</orgName>
-                  <noteGrp><note target="wkfm-1391.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1391</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

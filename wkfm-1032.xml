@@ -98,25 +98,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__30193" sameAs="#wkfm__43959 ">
-                     <persName>
-                        <forename>Martin Peter</forename>
-                        <surname>Hilleprand</surname>
-                     </persName>
-                     <death><date>1768</date></death>
-                     <residence type="Bürgerrecht">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-0052.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0052</note><note target="wkfm-0291.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0291</note><note target="wkfm-1031.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1031</note><note target="wkfm-1032.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1032</note></noteGrp></person>
-                <person xml:id="wkfm__46532" sameAs="#wkfm__29251 ">
+    <back><listPerson><person xml:id="wkfm__46532" sameAs="#wkfm__29251 ">
                      <persName>
                         <forename>Johann</forename>
                         <surname>Beham</surname>
@@ -141,6 +123,24 @@
                      <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                <noteGrp><note target="wkfm-1031.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1031</note><note target="wkfm-1032.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1032</note></noteGrp></person>
+                <person xml:id="wkfm__30193" sameAs="#wkfm__43959 ">
+                     <persName>
+                        <forename>Martin Peter</forename>
+                        <surname>Hilleprand</surname>
+                     </persName>
+                     <death><date>1768</date></death>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-0052.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0052</note><note target="wkfm-0291.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0291</note><note target="wkfm-1031.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1031</note><note target="wkfm-1032.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1032</note></noteGrp></person>
                 </listPerson><listOrg><org xml:id="wkfm__42340">
                      <orgName>Beham und Hilleprand, Johann Beham und Martin Hilleprand</orgName>
                   <listPerson type="affiliated"><person><persName key="#wkfm__46532">Beham, Johann</persName></person></listPerson><noteGrp><note target="wkfm-1031.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1031</note><note target="wkfm-1032.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1032</note></noteGrp></org>

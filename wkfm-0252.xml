@@ -123,18 +123,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43948" sameAs="#wkfm__36625 ">
-                     <persName>
-                        <forename>Franz</forename>
-                        <surname>Passy</surname>
-                     </persName>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-               <noteGrp><note target="wkfm-0251.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0251</note><note target="wkfm-0252.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0252</note></noteGrp></person>
-                <person xml:id="wkfm__43942">
+    <back><listPerson><person xml:id="wkfm__43942">
                      <persName>
                         <forename>Michael</forename>
                         <surname>Passy</surname>
@@ -152,6 +141,17 @@
                      <persName>
                         <forename>Phillibert Anton</forename>
                         <surname>Perinet</surname>
+                     </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+               <noteGrp><note target="wkfm-0251.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0251</note><note target="wkfm-0252.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0252</note></noteGrp></person>
+                <person xml:id="wkfm__43948" sameAs="#wkfm__36625 ">
+                     <persName>
+                        <forename>Franz</forename>
+                        <surname>Passy</surname>
                      </persName>
                      <residence type="Geschäftsniederlassung">
                         <placeName key="#wkfm-place__925">Wien</placeName>

@@ -87,10 +87,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47372">
-                     <orgName>Franz Paur</orgName>
-                  <noteGrp><note target="wkfm-0265.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0265</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__43955">
+    <back><listPerson><person xml:id="wkfm__43955">
                      <persName>
                         <forename>Franz</forename>
                         <surname>Paur</surname>
@@ -107,5 +104,8 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0265.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0265</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47372">
+                     <orgName>Franz Paur</orgName>
+                  <noteGrp><note target="wkfm-0265.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0265</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

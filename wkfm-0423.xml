@@ -147,24 +147,16 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46132">
-                     <persName>
-                        <forename>Eberhard Friedrich</forename>
-                        <surname>Wagner</surname>
-                        <surname type="alt">Wagner von Wagenburg</surname>
-                     </persName>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-                     <occupation type="aemter">Edler</occupation>
-                     <occupation type="aemter">Ritter</occupation>
-                     <listBibl>
-                        <bibl>Ernst Heinrich Kneschke (Hg.), Neues Allgemeines Deutsches Adels-Lexicon, Bd. 9 (Leipzig 1870) 436.&amp;lt;br&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-0423.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0423</note></noteGrp></person>
-                <person xml:id="wkfm__46134">
+    <back><listOrg><org xml:id="wkfm__12421">
+                     <orgName>Isenflamm und Küner</orgName>
+                  <noteGrp><note target="wkfm-0423.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0423</note><note target="wkfm-0424.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0424</note><note target="wkfm-1067.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1067</note><note target="wkfm-1068.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1068</note></noteGrp></org>
+                <org xml:id="wkfm__40640">
+                     <orgName>Küner &amp; Co.</orgName>
+                  <noteGrp><note target="wkfm-0423.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0423</note><note target="wkfm-0424.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0424</note></noteGrp></org>
+                <org xml:id="wkfm__23520">
+                     <orgName>Küner und Bender</orgName>
+                  <noteGrp><note target="wkfm-0423.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0423</note><note target="wkfm-0424.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0424</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__46134">
                      <persName>
                         <forename>Wolfgang</forename>
                         <surname>Riesch</surname>
@@ -175,6 +167,39 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                <noteGrp><note target="wkfm-0423.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0423</note><note target="wkfm-0424.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0424</note></noteGrp></person>
+                <person xml:id="wkfm__37955">
+                     <persName>
+                        <forename>Jakob</forename>
+                        <surname>Küner</surname>
+                        <surname type="alt">von Küner</surname>
+                        <surname type="alt">Kühner Edler von Kühnersberg</surname>
+                     </persName>
+                     <birth><date>19.03.1697</date></birth>
+                     <death><date>1764</date></death>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__511">Memmingen</placeName>
+                     <location type="coords"><geo>47.98361111111111 10.185277777777777</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__511">Memmingen</placeName>
+                     <location type="coords"><geo>47.98361111111111 10.185277777777777</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Sterbeort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geburtsort">
+                        <placeName key="#wkfm-place__2464">Volkratshofen</placeName>
+                     </residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+                     <listBibl>
+                        <bibl>Seibold, Wirtschaftlicher Erfolg, Bd. 1, 146; Stökl, Protestantismus, 228; &amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Haemmerle, Hochzeitsbücher, 277, Nr. 3812; &amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;Jetztlebende Kauffmannschafft 1. Versuch, 258.&amp;lt;/span&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0423.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0423</note><note target="wkfm-0424.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0424</note><note target="wkfm-1067.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1067</note><note target="wkfm-1068.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1068</note></noteGrp></person>
                 <person xml:id="wkfm__21476">
                      <persName>
                         <forename>Philipp Jakob</forename>
@@ -211,47 +236,22 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                <noteGrp><note target="wkfm-0423.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0423</note></noteGrp></person>
-                <person xml:id="wkfm__37955">
+                <person xml:id="wkfm__46132">
                      <persName>
-                        <forename>Jakob</forename>
-                        <surname>Küner</surname>
-                        <surname type="alt">von Küner</surname>
-                        <surname type="alt">Kühner Edler von Kühnersberg</surname>
+                        <forename>Eberhard Friedrich</forename>
+                        <surname>Wagner</surname>
+                        <surname type="alt">Wagner von Wagenburg</surname>
                      </persName>
-                     <birth><date>19.03.1697</date></birth>
-                     <death><date>1764</date></death>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__511">Memmingen</placeName>
-                     <location type="coords"><geo>47.98361111111111 10.185277777777777</geo></location></residence>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__511">Memmingen</placeName>
-                     <location type="coords"><geo>47.98361111111111 10.185277777777777</geo></location></residence>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <residence type="Geschäftsniederlassung">
                         <placeName key="#wkfm-place__925">Wien</placeName>
                      <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Sterbeort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geburtsort">
-                        <placeName key="#wkfm-place__2464">Volkratshofen</placeName>
-                     </residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+                     <occupation type="aemter">Edler</occupation>
+                     <occupation type="aemter">Ritter</occupation>
                      <listBibl>
-                        <bibl>Seibold, Wirtschaftlicher Erfolg, Bd. 1, 146; Stökl, Protestantismus, 228; &amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Haemmerle, Hochzeitsbücher, 277, Nr. 3812; &amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;Jetztlebende Kauffmannschafft 1. Versuch, 258.&amp;lt;/span&amp;gt;</bibl>
+                        <bibl>Ernst Heinrich Kneschke (Hg.), Neues Allgemeines Deutsches Adels-Lexicon, Bd. 9 (Leipzig 1870) 436.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
-               <noteGrp><note target="wkfm-0423.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0423</note><note target="wkfm-0424.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0424</note><note target="wkfm-1067.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1067</note><note target="wkfm-1068.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1068</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__40640">
-                     <orgName>Küner &amp; Co.</orgName>
-                  <noteGrp><note target="wkfm-0423.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0423</note><note target="wkfm-0424.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0424</note></noteGrp></org>
-                <org xml:id="wkfm__23520">
-                     <orgName>Küner und Bender</orgName>
-                  <noteGrp><note target="wkfm-0423.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0423</note><note target="wkfm-0424.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0424</note></noteGrp></org>
-                <org xml:id="wkfm__12421">
-                     <orgName>Isenflamm und Küner</orgName>
-                  <noteGrp><note target="wkfm-0423.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0423</note><note target="wkfm-0424.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0424</note><note target="wkfm-1067.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1067</note><note target="wkfm-1068.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1068</note></noteGrp></org>
-                </listOrg></back></text>
+               <noteGrp><note target="wkfm-0423.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0423</note></noteGrp></person>
+                </listPerson></back></text>
 </TEI>

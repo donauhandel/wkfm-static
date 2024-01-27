@@ -117,37 +117,16 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46528">
-                     <orgName>Hueter und Waizmann</orgName>
-                  <noteGrp><note target="wkfm-1029.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1029</note><note target="wkfm-1030.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1030</note><note target="wkfm-1649.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1649</note><note target="wkfm-1803.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1803</note><note target="wkfm-1804.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1804</note></noteGrp></org>
-                <org xml:id="wkfm__47552">
+    <back><listOrg><org xml:id="wkfm__47552">
                      <orgName>Johann Georg Schinerer</orgName>
                   <noteGrp><note target="wkfm-1649.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1649</note></noteGrp></org>
                 <org xml:id="wkfm__38549">
                      <orgName>Mayr und Hölzl</orgName>
                   <noteGrp><note target="wkfm-1037.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1037</note><note target="wkfm-1038.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1038</note><note target="wkfm-1263.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1263</note><note target="wkfm-1264.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1264</note><note target="wkfm-1647.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1647</note><note target="wkfm-1649.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1649</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__46766">
-                     <persName>
-                        <forename>Johann Georg</forename>
-                        <surname>Schinerer</surname>
-                        <surname type="alt">Schinnerer</surname>
-                     </persName>                    
-                     <residence type="Geschäftsadresse">
-                        <placeName>Zum Sommer unter den Tuchlauben (Calender 1758)</placeName>
-                     </residence>
-                     <residence type="Bürgerrecht">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-1445.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1445</note><note target="wkfm-1649.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1649</note></noteGrp></person>
-                <person xml:id="wkfm__24248">
+                <org xml:id="wkfm__46528">
+                     <orgName>Hueter und Waizmann</orgName>
+                  <noteGrp><note target="wkfm-1029.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1029</note><note target="wkfm-1030.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1030</note><note target="wkfm-1649.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1649</note><note target="wkfm-1803.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1803</note><note target="wkfm-1804.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1804</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__24248">
                      <persName>
                         <forename>Johann Michael</forename>
                         <surname>Götz</surname>
@@ -168,5 +147,26 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 390.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0883.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0883</note><note target="wkfm-0884.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0884</note><note target="wkfm-1635.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1635</note><note target="wkfm-1649.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1649</note></noteGrp></person>
+                <person xml:id="wkfm__46766">
+                     <persName>
+                        <forename>Johann Georg</forename>
+                        <surname>Schinerer</surname>
+                        <surname type="alt">Schinnerer</surname>
+                     </persName>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zum Sommer unter den Tuchlauben (Calender 1758)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-1445.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1445</note><note target="wkfm-1649.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1649</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

@@ -88,10 +88,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46192">
-                     <orgName>Johann Joseph Dollinger</orgName>
-                  <noteGrp><note target="wkfm-0505.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0505</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__46191">
+    <back><listPerson><person xml:id="wkfm__46191">
                      <persName>
                         <forename>Johann Joseph</forename>
                         <surname>Dollinger</surname>
@@ -109,5 +106,8 @@
                      <occupation>Handelsmann, Wachshändler</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0505.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0505</note><note target="wkfm-0506.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0506</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46192">
+                     <orgName>Johann Joseph Dollinger</orgName>
+                  <noteGrp><note target="wkfm-0505.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0505</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

@@ -136,20 +136,6 @@
                      <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                <noteGrp><note target="wkfm-0296.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0296</note></noteGrp></person>
-                <person xml:id="wkfm__43982">
-                     <persName>
-                        <forename>Maria Elisabeth</forename>
-                        <surname>Pachin</surname>
-                        <surname type="alt">Pertholdin</surname>
-                     </persName>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsfrau</occupation>
-               <noteGrp><note target="wkfm-0296.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0296</note></noteGrp></person>
                 <person xml:id="wkfm__43981">
                      <persName>
                         <forename>Martin Melchior</forename>
@@ -173,6 +159,20 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 475.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0295.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0295</note><note target="wkfm-0296.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0296</note></noteGrp></person>
+                <person xml:id="wkfm__43982">
+                     <persName>
+                        <forename>Maria Elisabeth</forename>
+                        <surname>Pachin</surname>
+                        <surname type="alt">Pertholdin</surname>
+                     </persName>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsfrau</occupation>
+               <noteGrp><note target="wkfm-0296.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0296</note></noteGrp></person>
                 </listPerson><listOrg><org xml:id="wkfm__47388">
                      <orgName>Martin Melchior Pach sel. Witwe</orgName>
                   <noteGrp><note target="wkfm-0296.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0296</note></noteGrp></org>

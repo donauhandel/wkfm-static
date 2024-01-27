@@ -125,12 +125,12 @@
     <back><listOrg><org xml:id="wkfm__43988">
                      <orgName>Gebrüder Ruard</orgName>
                   <noteGrp><note target="wkfm-0299.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0299</note><note target="wkfm-1437.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1437</note><note target="wkfm-1438.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1438</note><note target="wkfm-1693.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1693</note></noteGrp></org>
-                <org xml:id="wkfm__47390">
-                     <orgName>Franz Joseph Pürker</orgName>
-                  <noteGrp><note target="wkfm-0299.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0299</note></noteGrp></org>
                 <org xml:id="wkfm__43987">
                      <orgName>Joseph Schwarzleithner und Sohn, Schwarzleithner und Sohn</orgName>
                   <noteGrp><note target="wkfm-0299.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0299</note><note target="wkfm-0607.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0607</note><note target="wkfm-1671.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1671</note><note target="wkfm-1672.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1672</note><note target="wkfm-1689.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1689</note><note target="wkfm-1690.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1690</note></noteGrp></org>
+                <org xml:id="wkfm__47390">
+                     <orgName>Franz Joseph Pürker</orgName>
+                  <noteGrp><note target="wkfm-0299.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0299</note></noteGrp></org>
                 </listOrg><listPerson><person xml:id="wkfm__43986">
                      <persName>
                         <forename>Franz Joseph</forename>

@@ -89,7 +89,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__8584">
+    <back><listOrg><org xml:id="wkfm__46581">
+                     <orgName>Johann Maria Amadei</orgName>
+                  <noteGrp><note target="wkfm-0014.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0014</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__8584">
                      <persName>
                         <forename>Johann Maria</forename>
                         <surname>Amadei</surname>
@@ -116,8 +119,5 @@
                         <bibl>Dotter, Kaufleute, 107-109.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0014.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0014</note><note target="wkfm-0015.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0015</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46581">
-                     <orgName>Johann Maria Amadei</orgName>
-                  <noteGrp><note target="wkfm-0014.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0014</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

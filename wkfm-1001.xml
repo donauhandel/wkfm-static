@@ -88,7 +88,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__14804">
+    <back><listOrg><org xml:id="wkfm__46443">
+                     <orgName>Leopold Holzmaister</orgName>
+                  <noteGrp><note target="wkfm-1001.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1001</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__14804">
                      <persName>
                         <forename>Leopold</forename>
                         <surname>Holzmaister</surname>
@@ -109,8 +112,5 @@
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 416.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1001.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1001</note><note target="wkfm-1002.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1002</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46443">
-                     <orgName>Leopold Holzmaister</orgName>
-                  <noteGrp><note target="wkfm-1001.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1001</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

@@ -88,10 +88,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47500">
-                     <orgName>Franz Adam Schreyer</orgName>
-                  <noteGrp><note target="wkfm-1599.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1599</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__16488">
+    <back><listPerson><person xml:id="wkfm__16488">
                      <persName>
                         <forename>Franz Adam</forename>
                         <surname>Schreyer</surname>
@@ -115,5 +112,8 @@
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 523.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1599.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1599</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47500">
+                     <orgName>Franz Adam Schreyer</orgName>
+                  <noteGrp><note target="wkfm-1599.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1599</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

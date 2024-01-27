@@ -88,10 +88,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47237">
-                     <orgName>Johann Leopold Kern</orgName>
-                  <noteGrp><note target="wkfm-0409.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0409</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__46125">
+    <back><listPerson><person xml:id="wkfm__46125">
                      <persName>
                         <forename>Johann Leopold</forename>
                         <surname>Kern</surname>
@@ -111,5 +108,8 @@
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 427.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0409.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0409</note><note target="wkfm-0410.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0410</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47237">
+                     <orgName>Johann Leopold Kern</orgName>
+                  <noteGrp><note target="wkfm-0409.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0409</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

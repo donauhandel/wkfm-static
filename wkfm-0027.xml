@@ -88,7 +88,32 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__9740">
+    <back><listPerson><person xml:id="wkfm__17118">
+                     <persName>
+                        <forename>Franz</forename>
+                        <surname>Auchter</surname>
+                     </persName>
+                     <death><date>1765</date></death>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zum Schwarzen Mohren nächst dem Seitzer-Hof (Calender 1758)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="aemter">Vorsteher der bürgerl. Handelsleute</occupation>
+                     <occupation type="aemter">Senior des bürgerl. Handelsstands</occupation>
+                     <listBibl>
+                        <bibl>Huchler, Bürgeraufnahmen, 342.</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0027.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0027</note><note target="wkfm-0038.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0038</note><note target="wkfm-0039.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0039</note></noteGrp></person>
+                <person xml:id="wkfm__9740">
                      <persName>
                         <forename>Leopold</forename>
                         <surname>Auchter</surname>
@@ -114,30 +139,5 @@
                         <bibl>Huchler, Bürgeraufnahmen, 342.</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0026.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0026</note><note target="wkfm-0027.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0027</note></noteGrp></person>
-                <person xml:id="wkfm__17118">
-                     <persName>
-                        <forename>Franz</forename>
-                        <surname>Auchter</surname>
-                     </persName>
-                     <death><date>1765</date></death>                    
-                     <residence type="Geschäftsadresse">
-                        <placeName>Zum Schwarzen Mohren nächst dem Seitzer-Hof (Calender 1758)</placeName>
-                     </residence>
-                     <residence type="Bürgerrecht">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="aemter">Vorsteher der bürgerl. Handelsleute</occupation>
-                     <occupation type="aemter">Senior des bürgerl. Handelsstands</occupation>
-                     <listBibl>
-                        <bibl>Huchler, Bürgeraufnahmen, 342.</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-0027.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0027</note><note target="wkfm-0038.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0038</note><note target="wkfm-0039.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0039</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

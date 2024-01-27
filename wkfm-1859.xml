@@ -87,10 +87,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46615">
-                     <orgName>Markus Lion Gumpertz</orgName>
-                  <noteGrp><note target="wkfm-1859.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1859</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__16033">
+    <back><listPerson><person xml:id="wkfm__16033">
                      <persName>
                         <forename>Marx Lion</forename>
                         <surname>Gumpertz</surname>
@@ -108,5 +105,8 @@
                         <bibl>Wachstein, Die Wiener Juden in Handel und Industrie.</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1859.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1859</note><note target="wkfm-1860.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1860</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46615">
+                     <orgName>Markus Lion Gumpertz</orgName>
+                  <noteGrp><note target="wkfm-1859.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1859</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

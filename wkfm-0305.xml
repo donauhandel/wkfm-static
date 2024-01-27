@@ -159,28 +159,6 @@
                         <bibl>&amp;lt;div&amp;gt;Dotter, Italienische Kaufleute, 109f.; Huchler, Bürgeraufnahmen, 344 (16. November 1711); Harrer-Lucienfeld, Wien, seiner Häuser, Bd. 2.2, S. 251.&amp;lt;/div&amp;gt;&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0102.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0102</note><note target="wkfm-0103.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0103</note><note target="wkfm-0215.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0215</note><note target="wkfm-0283.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0283</note><note target="wkfm-0305.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0305</note></noteGrp></person>
-                <person xml:id="wkfm__44015">
-                     <persName>
-                        <forename>Ignaz</forename>
-                        <surname>Barbieri</surname>
-                     </persName>
-                     <affiliation>
-                        <orgName key="#wkfm__44011">Karl Barbieri sel. Söhne und Erben, Barbieri sel. Söhne</orgName>
-                     </affiliation>                    
-                     <residence type="Geschäftsadresse">
-                        <placeName>Zum Silbernen Stern auf dem Hof (Calender 1758)</placeName>
-                     </residence>
-                     <residence type="Bürgerrecht">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-               <noteGrp><note target="wkfm-0305.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0305</note><note target="wkfm-0306.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0306</note></noteGrp></person>
                 <person xml:id="wkfm__44012">
                      <persName>
                         <forename>Anton</forename>
@@ -206,6 +184,28 @@
                      <listBibl>
                         <bibl>Harrer-Lucienfeld, Wien, seiner Häuser, Bd. 2.2, S. 251.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
+               <noteGrp><note target="wkfm-0305.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0305</note><note target="wkfm-0306.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0306</note></noteGrp></person>
+                <person xml:id="wkfm__44015">
+                     <persName>
+                        <forename>Ignaz</forename>
+                        <surname>Barbieri</surname>
+                     </persName>
+                     <affiliation>
+                        <orgName key="#wkfm__44011">Karl Barbieri sel. Söhne und Erben, Barbieri sel. Söhne</orgName>
+                     </affiliation>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zum Silbernen Stern auf dem Hof (Calender 1758)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
                <noteGrp><note target="wkfm-0305.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0305</note><note target="wkfm-0306.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0306</note></noteGrp></person>
                 </listPerson><listOrg><org xml:id="wkfm__44011">
                      <orgName>Karl Barbieri sel. Söhne und Erben, Barbieri sel. Söhne</orgName>

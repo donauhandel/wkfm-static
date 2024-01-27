@@ -94,21 +94,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46984">
-                     <persName>
-                        <forename>Maria Anna</forename>
-                        <surname>Walkerin</surname>
-                     </persName>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsfrau</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-1757.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1757</note></noteGrp></person>
-                <person xml:id="wkfm__10180">
+    <back><listOrg><org xml:id="wkfm__46983">
+                     <orgName>Rudolf Walker</orgName>
+                  <noteGrp><note target="wkfm-1757.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1757</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__10180">
                      <persName>
                         <forename>Rudolf</forename>
                         <surname>Walker</surname>
@@ -136,8 +125,19 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 554.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1757.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1757</note><note target="wkfm-1758.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1758</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46983">
-                     <orgName>Rudolf Walker</orgName>
-                  <noteGrp><note target="wkfm-1757.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1757</note></noteGrp></org>
-                </listOrg></back></text>
+                <person xml:id="wkfm__46984">
+                     <persName>
+                        <forename>Maria Anna</forename>
+                        <surname>Walkerin</surname>
+                     </persName>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsfrau</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-1757.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1757</note></noteGrp></person>
+                </listPerson></back></text>
 </TEI>

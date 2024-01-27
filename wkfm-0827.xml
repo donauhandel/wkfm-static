@@ -97,10 +97,13 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__8105">
-                     <orgName>Philipp Gundian sel. Erben</orgName>
-                  <listPerson type="affiliated"><person><persName key="#wkfm__47519">Schönthann, Johann Gottlieb</persName></person></listPerson><noteGrp><note target="wkfm-0827.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0827</note><note target="wkfm-0828.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0828</note><note target="wkfm-1623.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1623</note><note target="wkfm-1624.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1624</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__42309">
+    <back><listPerson><person xml:id="wkfm__16221">
+                     <persName>
+                        <forename>None</forename>
+                        <surname>None</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0827.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0827</note><note target="wkfm-0828.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0828</note></noteGrp></person>
+                <person xml:id="wkfm__42309">
                      <persName>
                         <forename>Joseph Franz</forename>
                         <surname>Gundian</surname>
@@ -114,12 +117,6 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 397.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0827.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0827</note><note target="wkfm-0828.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0828</note><note target="wkfm-1624.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1624</note></noteGrp></person>
-                <person xml:id="wkfm__16221">
-                     <persName>
-                        <forename>None</forename>
-                        <surname>None</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-0827.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0827</note><note target="wkfm-0828.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0828</note></noteGrp></person>
                 <person xml:id="wkfm__46305">
                      <persName>
                         <forename>Michael</forename>
@@ -130,5 +127,8 @@
                      <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Prokurist der Firma Philipp Gundian sel. Erben</occupation>
                <noteGrp><note target="wkfm-0827.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0827</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__8105">
+                     <orgName>Philipp Gundian sel. Erben</orgName>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__47519">Schönthann, Johann Gottlieb</persName></person></listPerson><noteGrp><note target="wkfm-0827.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0827</note><note target="wkfm-0828.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0828</note><note target="wkfm-1623.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1623</note><note target="wkfm-1624.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1624</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

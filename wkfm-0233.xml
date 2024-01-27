@@ -103,10 +103,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47358">
-                     <orgName>Johann Ignaz Babitsch</orgName>
-                  <noteGrp><note target="wkfm-0233.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0233</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__27912" sameAs="#wkfm__30184 ">
+    <back><listPerson><person xml:id="wkfm__27912" sameAs="#wkfm__30184 ">
                      <persName>
                         <forename>Johann Ignaz</forename>
                         <surname>Babitsch</surname>
@@ -155,5 +152,8 @@
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 420.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0233.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0233</note><note target="wkfm-1081.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1081</note><note target="wkfm-1082.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1082</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47358">
+                     <orgName>Johann Ignaz Babitsch</orgName>
+                  <noteGrp><note target="wkfm-0233.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0233</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

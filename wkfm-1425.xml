@@ -102,16 +102,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46736">
-                     <orgName>Anton Reyell</orgName>
-                  <noteGrp><note target="wkfm-1425.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1425</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__46737">
-                     <persName>
-                        <forename>Maria Anna</forename>
-                        <surname>Reyell</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-1425.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1425</note></noteGrp></person>
-                <person xml:id="wkfm__46735">
+    <back><listPerson><person xml:id="wkfm__46735">
                      <persName>
                         <forename>Anton</forename>
                         <surname>Reyell</surname>
@@ -135,5 +126,14 @@
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 501.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1425.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1425</note></noteGrp></person>
-                </listPerson></back></text>
+                <person xml:id="wkfm__46737">
+                     <persName>
+                        <forename>Maria Anna</forename>
+                        <surname>Reyell</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-1425.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1425</note></noteGrp></person>
+                </listPerson><listOrg><org xml:id="wkfm__46736">
+                     <orgName>Anton Reyell</orgName>
+                  <noteGrp><note target="wkfm-1425.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1425</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

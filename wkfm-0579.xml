@@ -106,7 +106,31 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__41599" sameAs="#wkfm__29586 ">
+    <back><listPerson><person xml:id="wkfm__9344" sameAs="#wkfm__15825 ">
+                     <persName>
+                        <forename>Anton Matthias</forename>
+                        <surname>Kircher</surname>
+                     </persName>
+                     <residence type="Geburtsort">
+                        <placeName key="#wkfm-place__271">Hall</placeName>
+                     <location type="coords"><geo>47.28333333333333 11.516666666666667</geo></location></residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+                     <occupation type="aemter">Vorsteher der bürgerl. Handelsleute</occupation>
+                     <listBibl>
+                        <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 429 (14. März 1711: &amp;#34;Mathias&amp;#34;).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0345.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0345</note><note target="wkfm-0346.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0346</note><note target="wkfm-0475.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0475</note><note target="wkfm-0476.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0476</note><note target="wkfm-0579.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0579</note><note target="wkfm-0580.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0580</note><note target="wkfm-1263.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1263</note><note target="wkfm-1635.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1635</note></noteGrp></person>
+                <person xml:id="wkfm__41599" sameAs="#wkfm__29586 ">
                      <persName>
                         <forename>Johann Peter</forename>
                         <surname>Togniola</surname>
@@ -138,29 +162,5 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 546; Schachinger, Entwicklung der Maulbeerbaum- u. Seidenkultur in Wien und NÖ, 154.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0346.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0346</note><note target="wkfm-0475.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0475</note><note target="wkfm-0476.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0476</note><note target="wkfm-0579.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0579</note><note target="wkfm-0580.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0580</note></noteGrp></person>
-                <person xml:id="wkfm__9344" sameAs="#wkfm__15825 ">
-                     <persName>
-                        <forename>Anton Matthias</forename>
-                        <surname>Kircher</surname>
-                     </persName>
-                     <residence type="Geburtsort">
-                        <placeName key="#wkfm-place__271">Hall</placeName>
-                     <location type="coords"><geo>47.28333333333333 11.516666666666667</geo></location></residence>
-                     <residence type="Bürgerrecht">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-                     <occupation type="aemter">Vorsteher der bürgerl. Handelsleute</occupation>
-                     <listBibl>
-                        <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 429 (14. März 1711: &amp;#34;Mathias&amp;#34;).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-0345.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0345</note><note target="wkfm-0346.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0346</note><note target="wkfm-0475.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0475</note><note target="wkfm-0476.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0476</note><note target="wkfm-0579.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0579</note><note target="wkfm-0580.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0580</note><note target="wkfm-1263.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1263</note><note target="wkfm-1635.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1635</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

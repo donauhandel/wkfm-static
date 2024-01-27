@@ -88,15 +88,15 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__11001">
+    <back><listOrg><org xml:id="wkfm__46691">
+                     <orgName>Johann Michael Raidl</orgName>
+                  <noteGrp><note target="wkfm-1373.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1373</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__11001">
                      <persName>
                         <forename>Johann Michael</forename>
                         <surname>Raidl</surname>
                         <surname type="alt">Raidel</surname>
                      </persName>
                <noteGrp><note target="wkfm-1373.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1373</note><note target="wkfm-1374.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1374</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46691">
-                     <orgName>Johann Michael Raidl</orgName>
-                  <noteGrp><note target="wkfm-1373.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1373</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

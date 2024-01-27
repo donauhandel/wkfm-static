@@ -90,10 +90,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46659">
-                     <orgName>Anton Negri, Antonio Negri</orgName>
-                  <noteGrp><note target="wkfm-1307.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1307</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__8588" sameAs="#wkfm__35068 ">
+    <back><listPerson><person xml:id="wkfm__8588" sameAs="#wkfm__35068 ">
                      <persName>
                         <forename>Anton</forename>
                         <surname>Negri</surname>
@@ -118,5 +115,8 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 469.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1307.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1307</note><note target="wkfm-1308.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1308</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46659">
+                     <orgName>Anton Negri, Antonio Negri</orgName>
+                  <noteGrp><note target="wkfm-1307.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1307</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

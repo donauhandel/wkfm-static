@@ -90,10 +90,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46627">
-                     <orgName>Hirschl Spitz</orgName>
-                  <noteGrp><note target="wkfm-1885.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1885</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__8187">
+    <back><listPerson><person xml:id="wkfm__8187">
                      <persName>
                         <forename>Hirschl</forename>
                         <surname>Spitz</surname>
@@ -110,5 +107,8 @@
                         <bibl>Wachstein, Die Wiener Juden in Handel und Industrie.</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1885.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1885</note><note target="wkfm-1886.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1886</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46627">
+                     <orgName>Hirschl Spitz</orgName>
+                  <noteGrp><note target="wkfm-1885.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1885</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

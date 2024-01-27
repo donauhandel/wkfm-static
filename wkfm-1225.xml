@@ -94,7 +94,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46877">
+    <back><listOrg><org xml:id="wkfm__17566">
+                     <orgName>Martin und Raffeseder</orgName>
+                  <noteGrp><note target="wkfm-1225.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1225</note><note target="wkfm-1226.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1226</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__46877">
                      <persName>
                         <forename>None</forename>
                         <surname>Raffeseder</surname>
@@ -122,8 +125,5 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1225.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1225</note><note target="wkfm-1226.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1226</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__17566">
-                     <orgName>Martin und Raffeseder</orgName>
-                  <noteGrp><note target="wkfm-1225.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1225</note><note target="wkfm-1226.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1226</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

@@ -98,10 +98,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46675">
-                     <orgName>Wolf Anton Nägerl</orgName>
-                  <noteGrp><note target="wkfm-1321.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1321</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__46674">
+    <back><listPerson><person xml:id="wkfm__46674">
                      <persName>
                         <forename>Wolf Anton</forename>
                         <surname>Nägerl</surname>
@@ -121,5 +118,8 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 468.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1321.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1321</note><note target="wkfm-1819.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1819</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46675">
+                     <orgName>Wolf Anton Nägerl</orgName>
+                  <noteGrp><note target="wkfm-1321.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1321</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

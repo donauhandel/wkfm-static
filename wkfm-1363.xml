@@ -94,7 +94,19 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46681">
+    <back><listPerson><person xml:id="wkfm__21607">
+                     <persName>
+                        <forename>Bernhard</forename>
+                        <surname>Reißmiller</surname>
+                        <surname type="alt">Reismillner</surname>
+                     </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+               <noteGrp><note target="wkfm-1361.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1361</note><note target="wkfm-1362.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1362</note><note target="wkfm-1363.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1363</note><note target="wkfm-1364.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1364</note></noteGrp></person>
+                <person xml:id="wkfm__46681">
                      <persName>
                         <forename>Karl Alexander</forename>
                         <surname>Rotta</surname>
@@ -103,18 +115,6 @@
                      <residence type="Wohnort">
                         <placeName key="#wkfm-place__925">Wien</placeName>
                      <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-               <noteGrp><note target="wkfm-1361.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1361</note><note target="wkfm-1362.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1362</note><note target="wkfm-1363.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1363</note><note target="wkfm-1364.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1364</note></noteGrp></person>
-                <person xml:id="wkfm__21607">
-                     <persName>
-                        <forename>Bernhard</forename>
-                        <surname>Reißmiller</surname>
-                        <surname type="alt">Reismillner</surname>
-                     </persName>
                      <residence type="Geschäftsniederlassung">
                         <placeName key="#wkfm-place__925">Wien</placeName>
                      <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>

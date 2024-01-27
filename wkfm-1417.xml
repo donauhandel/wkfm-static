@@ -88,7 +88,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__15189" sameAs="#wkfm__14715 ">
+    <back><listOrg><org xml:id="wkfm__46726">
+                     <orgName>Georg Rubacker</orgName>
+                  <noteGrp><note target="wkfm-1417.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1417</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__15189" sameAs="#wkfm__14715 ">
                      <persName>
                         <forename>Georg</forename>
                         <surname>Rubacker</surname>
@@ -110,8 +113,5 @@
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 507 (Juli 1733: &amp;#34;Ruebacher&amp;#34;).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1417.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1417</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46726">
-                     <orgName>Georg Rubacker</orgName>
-                  <noteGrp><note target="wkfm-1417.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1417</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

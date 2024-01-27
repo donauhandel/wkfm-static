@@ -90,10 +90,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46579">
-                     <orgName>Lorenz Andre</orgName>
-                  <noteGrp><note target="wkfm-0010.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0010</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__8191">
+    <back><listPerson><person xml:id="wkfm__8191">
                      <persName>
                         <forename>Lorenz</forename>
                         <surname>Andre</surname>
@@ -113,5 +110,8 @@
                         <bibl>Huchler, Bürgeraufnahmen, 339.</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0010.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0010</note><note target="wkfm-0011.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0011</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46579">
+                     <orgName>Lorenz Andre</orgName>
+                  <noteGrp><note target="wkfm-0010.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0010</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

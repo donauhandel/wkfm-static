@@ -88,10 +88,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47240">
-                     <orgName>Philipp Kastler</orgName>
-                  <noteGrp><note target="wkfm-0417.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0417</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__46130">
+    <back><listPerson><person xml:id="wkfm__46130">
                      <persName>
                         <forename>Philipp</forename>
                         <surname>Kastler</surname>
@@ -109,5 +106,8 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0417.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0417</note><note target="wkfm-0418.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0418</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47240">
+                     <orgName>Philipp Kastler</orgName>
+                  <noteGrp><note target="wkfm-0417.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0417</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

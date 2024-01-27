@@ -88,7 +88,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__8956" sameAs="#wkfm__17939 ">
+    <back><listOrg><org xml:id="wkfm__46401">
+                     <orgName>Johann Martin Esslinger</orgName>
+                  <noteGrp><note target="wkfm-0621.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0621</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__8956" sameAs="#wkfm__17939 ">
                      <persName>
                         <forename>Johann Martin</forename>
                         <surname>Esslinger</surname>
@@ -113,8 +116,5 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
 205-211, hier 210; Garloff, Confessio et Commercium,&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt; 202.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0621.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0621</note><note target="wkfm-0622.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0622</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46401">
-                     <orgName>Johann Martin Esslinger</orgName>
-                  <noteGrp><note target="wkfm-0621.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0621</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

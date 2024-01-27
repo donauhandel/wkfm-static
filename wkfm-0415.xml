@@ -89,7 +89,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46128">
+    <back><listOrg><org xml:id="wkfm__47239">
+                     <orgName>Franz Königsberger</orgName>
+                  <noteGrp><note target="wkfm-0415.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0415</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__46128">
                      <persName>
                         <forename>Franz</forename>
                         <surname>Königsberger</surname>
@@ -113,8 +116,5 @@
                         <bibl>Huchler, Bürgeraufnahmen, 434.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0415.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0415</note><note target="wkfm-0416.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0416</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__47239">
-                     <orgName>Franz Königsberger</orgName>
-                  <noteGrp><note target="wkfm-0415.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0415</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

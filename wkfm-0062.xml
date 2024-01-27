@@ -88,10 +88,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47271">
-                     <orgName>Franz Xaver Perthold</orgName>
-                  <noteGrp><note target="wkfm-0062.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0062</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__17362">
+    <back><listPerson><person xml:id="wkfm__17362">
                      <persName>
                         <forename>Franz Xaver</forename>
                         <surname>Perthold</surname>
@@ -111,5 +108,8 @@
                         <bibl>Harrer-Lucienfeld, Wien, seiner Häuser, Bd. 2.2, S. 417&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0062.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0062</note><note target="wkfm-0063.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0063</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47271">
+                     <orgName>Franz Xaver Perthold</orgName>
+                  <noteGrp><note target="wkfm-0062.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0062</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

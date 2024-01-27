@@ -90,10 +90,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47085">
-                     <orgName>Matthias Anton Unger</orgName>
-                  <noteGrp><note target="wkfm-0715.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0715</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__18166" sameAs="#wkfm__15315 wkfm__44005 ">
+    <back><listPerson><person xml:id="wkfm__18166" sameAs="#wkfm__15315 wkfm__44005 ">
                      <persName>
                         <forename>Matthias Anton</forename>
                         <surname>Unger</surname>
@@ -103,5 +100,8 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 549.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0715.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0715</note><note target="wkfm-0716.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0716</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47085">
+                     <orgName>Matthias Anton Unger</orgName>
+                  <noteGrp><note target="wkfm-0715.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0715</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

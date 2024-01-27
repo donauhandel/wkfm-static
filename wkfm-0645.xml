@@ -90,10 +90,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46419">
-                     <orgName>Joseph Anton Eberl</orgName>
-                  <noteGrp><note target="wkfm-0645.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0645</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__46418" sameAs="#wkfm__842 ">
+    <back><listPerson><person xml:id="wkfm__46418" sameAs="#wkfm__842 ">
                      <persName>
                         <forename>Joseph Anton</forename>
                         <surname>Eberl</surname>
@@ -114,5 +111,8 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 366.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0645.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0645</note><note target="wkfm-0646.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0646</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46419">
+                     <orgName>Joseph Anton Eberl</orgName>
+                  <noteGrp><note target="wkfm-0645.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0645</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

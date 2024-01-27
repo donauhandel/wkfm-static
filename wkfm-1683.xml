@@ -102,10 +102,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47597">
-                     <orgName>Joseph Anton Stüffer</orgName>
-                  <noteGrp><note target="wkfm-1683.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1683</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__47448" sameAs="#wkfm__31918 ">
+    <back><listPerson><person xml:id="wkfm__47448" sameAs="#wkfm__31918 ">
                      <persName>
                         <forename>Johann Georg</forename>
                         <surname>Stüffer</surname>
@@ -139,5 +136,8 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1683.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1683</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47597">
+                     <orgName>Joseph Anton Stüffer</orgName>
+                  <noteGrp><note target="wkfm-1683.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1683</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

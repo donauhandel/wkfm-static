@@ -114,30 +114,12 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46738">
+    <back><listPerson><person xml:id="wkfm__46740">
                      <persName>
-                        <forename>Ferdinand</forename>
-                        <surname>Reindl</surname>
+                        <forename>None</forename>
+                        <surname>None</surname>
                      </persName>
-                     <death><date>1759</date></death>                    
-                     <residence type="Geschäftsadresse">
-                        <placeName>Zum Grauen Adler auf dem Salzgries (Calender 1758)</placeName>
-                     </residence>
-                     <residence type="Bürgerrecht">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann, Spezereihändler</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-                     <listBibl>
-                        <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 499.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-1427.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1427</note><note target="wkfm-1428.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1428</note></noteGrp></person>
+               <noteGrp><note target="wkfm-1427.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1427</note></noteGrp></person>
                 <person xml:id="wkfm__46742">
                      <persName>
                         <forename>Barbara</forename>
@@ -183,12 +165,30 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 549.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0753.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0753</note><note target="wkfm-0754.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0754</note><note target="wkfm-1427.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1427</note></noteGrp></person>
-                <person xml:id="wkfm__46740">
+                <person xml:id="wkfm__46738">
                      <persName>
-                        <forename>None</forename>
-                        <surname>None</surname>
+                        <forename>Ferdinand</forename>
+                        <surname>Reindl</surname>
                      </persName>
-               <noteGrp><note target="wkfm-1427.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1427</note></noteGrp></person>
+                     <death><date>1759</date></death>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zum Grauen Adler auf dem Salzgries (Calender 1758)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann, Spezereihändler</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+                     <listBibl>
+                        <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 499.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-1427.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1427</note><note target="wkfm-1428.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1428</note></noteGrp></person>
                 </listPerson><listOrg><org xml:id="wkfm__46739">
                      <orgName>Ferdinand Reindl</orgName>
                   <noteGrp><note target="wkfm-1427.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1427</note></noteGrp></org>

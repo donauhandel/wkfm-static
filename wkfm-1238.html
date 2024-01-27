@@ -27,7 +27,12 @@
                         </ul>
                      </li>
                      <li class="nav-item"><a class="nav-link" href="toc.html">Editionseinheiten</a></li>
-                     <li class="nav-item"><a class="nav-link" href="listperson.html">Personenregister</a></li>
+                     <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Register</a><ul class="dropdown-menu">
+                           <li><a class="dropdown-item" href="listperson.html">Personenregister</a></li>
+                           <li><a class="dropdown-item" href="listorg.html">Firmenregiser</a></li>
+                           <li><a class="dropdown-item" href="listplace.html">Ortsregister</a></li>
+                        </ul>
+                     </li>
                      <li class="nav-item"><a title="Suche" class="nav-link" href="search.html">Suche</a></li>
                   </ul>
                </div>
@@ -86,28 +91,6 @@
             </div>
          </div>
          <div class="tei-back">
-            <div  xmlns:local="http://dse-static.foo.bar" class="modal fade" id="wkfm__8334" data-bs-keyboard="false" tabindex="-1" aria-labelledby="" aria-hidden="true">
-               <div class="modal-dialog modal-dialog-centered">
-                  <div class="modal-content">
-                     <div class="modal-header">
-                        <h1 class="modal-title fs-5" id="staticBackdropLabel"></h1><button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button></div>
-                     <div class="modal-body">
-                        <table class="table">
-                           <tbody>
-                              <tr>
-                                 <th></th>
-                                 <td>
-                                    Anzahl der Erwähnungen limitiert, klicke <a href="wkfm__8334.html">hier</a> für eine vollständige Auflistung
-                                    </td>
-                              </tr>
-                           </tbody>
-                        </table>
-                     </div>
-                     <div class="modal-footer"><button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button></div>
-                  </div>
-               </div>
-            </div>
-            
             <div class="modal modal-lg fade" id="wkfm__11940" data-bs-keyboard="true" tabindex="-1" aria-labelledby="Münch, Christian" aria-hidden="true">
                <div class="modal-dialog modal-dialog-centered">
                   <div class="modal-content">
@@ -138,7 +121,10 @@
                                  <th>
                                     Aufenthaltsorte
                                     </th>
-                                 <td>Geschäftsniederlassung: <a href="wkfm-place__40.html">Augsburg</a>Geschäftsniederlassung: <a href="wkfm-place__925.html">Wien</a>Geburtsort: <a href="wkfm-place__1569.html">Frankfurt am Main</a></td>
+                                 <td>Geschäftsniederlassung:
+                                    <a href="wkfm-place__40.html">Augsburg</a><br>Geschäftsniederlassung:
+                                    <a href="wkfm-place__925.html">Wien</a><br>Geburtsort:
+                                    <a href="wkfm-place__1569.html">Frankfurt am Main</a><br></td>
                               </tr>
                               <tr>
                                  <th>
@@ -208,7 +194,9 @@
                                  <th>
                                     Aufenthaltsorte
                                     </th>
-                                 <td>Wohnort: <a href="wkfm-place__40.html">Augsburg</a>Geschäftsniederlassung: <a href="wkfm-place__925.html">Wien</a></td>
+                                 <td>Wohnort:
+                                    <a href="wkfm-place__40.html">Augsburg</a><br>Geschäftsniederlassung:
+                                    <a href="wkfm-place__925.html">Wien</a><br></td>
                               </tr>
                               <tr>
                                  <th>
@@ -246,6 +234,43 @@
                   </div>
                </div>
             </div>
+            
+            <div class="modal modal-lg fade" id="wkfm__8334" data-bs-keyboard="true" tabindex="-1" aria-labelledby="Rauner und Münch" aria-hidden="true">
+               <div class="modal-dialog modal-dialog-centered">
+                  <div class="modal-content">
+                     <div class="modal-header">
+                        <h1 class="modal-title fs-5" id="staticBackdropLabel">Rauner und Münch</h1><button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button></div>
+                     <div class="modal-body">
+                        <table class="table entity-table">
+                           <tbody>
+                              <tr>
+                                 <th> Name </th>
+                                 <td>Rauner und Münch</td>
+                              </tr>
+                              <tr>
+                                 <th>Beteiligte Personen</th>
+                                 <td>
+                                    <ul></ul>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <th>Erwähnt in</th>
+                                 <td>
+                                    <ul>
+                                       <li><a href="wkfm-1237.html">Wiener Merkantilprotokoll Nr. 1237</a></li>
+                                       <li><a href="wkfm-1238.html">Wiener Merkantilprotokoll Nr. 1238</a></li>
+                                       <li><a href="wkfm-1381.html">Wiener Merkantilprotokoll Nr. 1381</a></li>
+                                       <li><a href="wkfm-1382.html">Wiener Merkantilprotokoll Nr. 1382</a></li>
+                                    </ul>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </div>
+                     <div class="modal-footer"><button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Schließen</button></div>
+                  </div>
+               </div>
+            </div>
             </div>
       </main>
       <footer  class="footer mt-auto py-3 bg-body-tertiary">
@@ -257,16 +282,16 @@
                <div class="col-lg-2 col-md-6 mb-4 mb-md-0">
                   <p>
                      Institut für Österreichische Geschichtsforschung
-                     
+                     <br>
                      Universtiät Wien
-                     
+                     <br>
                      Universitätsring 1
-                     
+                     <br>
                      1010 Wien
                      </p>
                   <p>
                      T: +43-1-4277-272 01
-                     
+                     <br>
                      E: <a href="mailto:ifoeg@univie.ac.at">ifoeg@univie.ac.at</a></p>
                </div>
                <div class="col-lg-1 col-md-6 mb-4 mb-md-0" align="right">
@@ -275,23 +300,23 @@
                <div class="col-lg-2 col-md-6 mb-4 mb-md-0">
                   <p>
                      ACDH-CH
-                     
+                     <br>
                      Austrian Centre for Digital Humanities and Cultural Heritage
-                     
+                     <br>
                      Österreichische Akademie der Wissenschaften
                      </p>
                   <p>
                      Bäckerstraße 13
-                     
+                     <br>
                      1010 Wien
                      </p>
                   <p>
                      T: +43 1 51581-2200
-                     
+                     <br>
                      E: <a href="mailto:acdh-ch-helpdesk@oeaw.ac.at">acdh-ch-helpdesk@oeaw.ac.at</a></p>
                </div>
                <div class="col-lg-3 col-md-6 mb-4 mb-md-0" align="right">
-                  <div><a href="https://www.fwf.ac.at/forschungsradar/10.55776/P33980"><img src="logos/FWF_Logo_Zusatz_Dunkelblau_RGB_EN.png" class="footerimage"></a><p>
+                  <div><a href="https://www.fwf.ac.at/forschungsradar/10.55776/P33980"><img src="logos/FWF_Logo_Zusatz_Dunkelblau_RGB_EN.png" class="footerimage"></a><p><br>
                         Funded by the Austrian Science Fund FWF P35546
                         </p>
                   </div>

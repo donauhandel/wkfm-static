@@ -137,13 +137,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43841">
-                     <persName>
-                        <forename>Andre Karl</forename>
-                        <surname>Bolza</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-0092.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0092</note></noteGrp></person>
-                <person xml:id="wkfm__41796">
+    <back><listPerson><person xml:id="wkfm__41796">
                      <persName>
                         <forename>Christoph Martin</forename>
                         <surname>Conradi</surname>
@@ -156,6 +150,12 @@
                      <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Buchhalter und Prokurist des Johann Baptist Bolza, Kassier und Prokurist des Joseph Bolza</occupation>
                <noteGrp><note target="wkfm-0092.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0092</note><note target="wkfm-0259.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0259</note></noteGrp></person>
+                <person xml:id="wkfm__43841">
+                     <persName>
+                        <forename>Andre Karl</forename>
+                        <surname>Bolza</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0092.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0092</note></noteGrp></person>
                 <person xml:id="wkfm__11161">
                      <persName>
                         <forename>Johann Baptist</forename>

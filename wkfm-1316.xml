@@ -126,7 +126,38 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__4528" sameAs="#wkfm__44892 ">
+    <back><listPerson><person xml:id="wkfm__26325" sameAs="#wkfm__32059 ">
+                     <persName>
+                        <forename>Joachim</forename>
+                        <forename type="alt">Gioacchino</forename>
+                        <surname>Negri</surname>
+                     </persName>
+                     <death><date>1743</date></death>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geburtsort">
+                        <placeName key="#wkfm-place__2524">Arco</placeName>
+                     </residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+                     <listBibl>
+                        <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 469.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0283.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0283</note><note target="wkfm-1315.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1315</note><note target="wkfm-1316.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1316</note></noteGrp></person>
+                <person xml:id="wkfm__46668">
+                     <persName>
+                        <forename>None</forename>
+                        <surname>Salvini</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-1316.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1316</note></noteGrp></person>
+                <person xml:id="wkfm__4528" sameAs="#wkfm__44892 ">
                      <persName>
                         <forename>Bartholomäus</forename>
                         <surname>Patuzzi</surname>
@@ -168,36 +199,5 @@
 .&amp;lt;/div&amp;gt;&amp;lt;div&amp;gt;Harrer-Lucienfeld, Wien, seiner Häuser, Bd. 6.1, S. 210-211.&amp;lt;/div&amp;gt;&amp;lt;div&amp;gt;Huchler, Bürgeraufnahmen, 101 (13. Juli 1707).&amp;lt;br&amp;gt;&amp;lt;/div&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0122.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0122</note><note target="wkfm-0123.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0123</note><note target="wkfm-0287.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0287</note><note target="wkfm-1316.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1316</note></noteGrp></person>
-                <person xml:id="wkfm__26325" sameAs="#wkfm__32059 ">
-                     <persName>
-                        <forename>Joachim</forename>
-                        <forename type="alt">Gioacchino</forename>
-                        <surname>Negri</surname>
-                     </persName>
-                     <death><date>1743</date></death>
-                     <residence type="Bürgerrecht">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geburtsort">
-                        <placeName key="#wkfm-place__2524">Arco</placeName>
-                     </residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-                     <listBibl>
-                        <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 469.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-0283.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0283</note><note target="wkfm-1315.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1315</note><note target="wkfm-1316.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1316</note></noteGrp></person>
-                <person xml:id="wkfm__46668">
-                     <persName>
-                        <forename>None</forename>
-                        <surname>Salvini</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-1316.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1316</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

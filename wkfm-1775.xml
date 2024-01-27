@@ -88,7 +88,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47000">
+    <back><listOrg><org xml:id="wkfm__47001">
+                     <orgName>Johann Georg Wimmer</orgName>
+                  <noteGrp><note target="wkfm-1775.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1775</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__47000">
                      <persName>
                         <forename>Johann Georg</forename>
                         <surname>Wimmer </surname>
@@ -108,8 +111,5 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 564.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1775.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1775</note><note target="wkfm-1776.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1776</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__47001">
-                     <orgName>Johann Georg Wimmer</orgName>
-                  <noteGrp><note target="wkfm-1775.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1775</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

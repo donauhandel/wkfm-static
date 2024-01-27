@@ -100,7 +100,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46436">
+    <back><listOrg><org xml:id="wkfm__46437">
+                     <orgName>Johann Heinrich Ettenreicher</orgName>
+                  <noteGrp><note target="wkfm-0661.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0661</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__46436">
                      <persName>
                         <forename>Johann Heinrich</forename>
                         <surname>Ettenreicher</surname>
@@ -123,8 +126,5 @@
                         <surname>Ettenreicher</surname>
                      </persName>
                <noteGrp><note target="wkfm-0661.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0661</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46437">
-                     <orgName>Johann Heinrich Ettenreicher</orgName>
-                  <noteGrp><note target="wkfm-0661.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0661</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

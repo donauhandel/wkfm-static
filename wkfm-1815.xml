@@ -116,29 +116,12 @@
     <back><listOrg><org xml:id="wkfm__47038">
                      <orgName>Bernhard Weidinger</orgName>
                   <noteGrp><note target="wkfm-1815.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1815</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__10599">
+                </listOrg><listPerson><person xml:id="wkfm__47041">
                      <persName>
-                        <forename>Simon</forename>
+                        <forename>Maria Anna</forename>
                         <surname>Weidinger</surname>
+                        <surname type="alt">Wis[...?]</surname>
                      </persName>
-                     <death><date>1747</date></death>                    
-                     <residence type="Geschäftsadresse">
-                        <placeName>Bei der Stadt Nürnberg nebst dem Krautgässel (Calender 1723)</placeName>
-                     </residence>
-                     <residence type="Bürgerrecht">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geburtsort">
-                        <placeName key="#wkfm-place__2597">Watzendorf</placeName>
-                     </residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1815.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1815</note></noteGrp></person>
                 <person xml:id="wkfm__47037">
                      <persName>
@@ -166,17 +149,34 @@
                         <surname>Weidinger</surname>
                      </persName>
                <noteGrp><note target="wkfm-1815.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1815</note></noteGrp></person>
+                <person xml:id="wkfm__10599">
+                     <persName>
+                        <forename>Simon</forename>
+                        <surname>Weidinger</surname>
+                     </persName>
+                     <death><date>1747</date></death>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Bei der Stadt Nürnberg nebst dem Krautgässel (Calender 1723)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geburtsort">
+                        <placeName key="#wkfm-place__2597">Watzendorf</placeName>
+                     </residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-1815.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1815</note></noteGrp></person>
                 <person xml:id="wkfm__47042">
                      <persName>
                         <forename>Margaretha</forename>
                         <surname>Pfefferlin</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-1815.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1815</note></noteGrp></person>
-                <person xml:id="wkfm__47041">
-                     <persName>
-                        <forename>Maria Anna</forename>
-                        <surname>Weidinger</surname>
-                        <surname type="alt">Wis[...?]</surname>
                      </persName>
                <noteGrp><note target="wkfm-1815.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1815</note></noteGrp></person>
                 </listPerson></back></text>

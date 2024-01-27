@@ -86,7 +86,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__5636">
+    <back><listOrg><org xml:id="wkfm__46716">
+                     <orgName>Hieronymus Rigotti</orgName>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__10730">Mader, Anton</persName></person></listPerson><noteGrp><note target="wkfm-1228.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1228</note><note target="wkfm-1405.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1405</note><note target="wkfm-1406.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1406</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__5636">
                      <persName>
                         <forename>Hieronymus</forename>
                         <surname>Rigotti</surname>
@@ -152,8 +155,5 @@
                         <bibl>Huchler, Bürgeraufnahmen, 451.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1089.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1089</note><note target="wkfm-1189.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1189</note><note target="wkfm-1191.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1191</note><note target="wkfm-1227.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1227</note><note target="wkfm-1228.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1228</note><note target="wkfm-1679.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1679</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46716">
-                     <orgName>Hieronymus Rigotti</orgName>
-                  <listPerson type="affiliated"><person><persName key="#wkfm__10730">Mader, Anton</persName></person></listPerson><noteGrp><note target="wkfm-1228.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1228</note><note target="wkfm-1405.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1405</note><note target="wkfm-1406.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1406</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

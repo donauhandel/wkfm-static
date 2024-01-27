@@ -102,7 +102,13 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46423" sameAs="#wkfm__13054 ">
+    <back><listPerson><person xml:id="wkfm__46425">
+                     <persName>
+                        <forename>Juliana Barbara</forename>
+                        <surname>Eberl</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0651.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0651</note></noteGrp></person>
+                <person xml:id="wkfm__46423" sameAs="#wkfm__13054 ">
                      <persName>
                         <forename>Johann Kaspar</forename>
                         <surname>Eberl</surname>
@@ -121,12 +127,6 @@
                      <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-0651.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0651</note></noteGrp></person>
-                <person xml:id="wkfm__46425">
-                     <persName>
-                        <forename>Juliana Barbara</forename>
-                        <surname>Eberl</surname>
-                     </persName>
                <noteGrp><note target="wkfm-0651.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0651</note></noteGrp></person>
                 </listPerson><listOrg><org xml:id="wkfm__46424">
                      <orgName>Johann Kaspar Eberl</orgName>

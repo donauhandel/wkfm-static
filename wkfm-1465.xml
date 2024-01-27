@@ -89,7 +89,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47399" sameAs="#wkfm__19474 ">
+    <back><listOrg><org xml:id="wkfm__47400">
+                     <orgName>Matthias Stegner</orgName>
+                  <noteGrp><note target="wkfm-1465.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1465</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__47399" sameAs="#wkfm__19474 ">
                      <persName>
                         <forename>Matthias</forename>
                         <surname>Stegner</surname>
@@ -100,8 +103,5 @@
                      <occupation>Hofjuwelier</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
                <noteGrp><note target="wkfm-1465.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1465</note><note target="wkfm-1466.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1466</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__47400">
-                     <orgName>Matthias Stegner</orgName>
-                  <noteGrp><note target="wkfm-1465.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1465</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

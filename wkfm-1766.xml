@@ -100,7 +100,13 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46109">
+    <back><listOrg><org xml:id="wkfm__27575">
+                     <orgName>Thomas Wellner &amp; Co.</orgName>
+                  <noteGrp><note target="wkfm-1765.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1765</note><note target="wkfm-1766.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1766</note></noteGrp></org>
+                <org xml:id="wkfm__46990">
+                     <orgName>Thomas Wellner</orgName>
+                  <noteGrp><note target="wkfm-1765.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1765</note><note target="wkfm-1766.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1766</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__46109">
                      <persName>
                         <forename>Eberhard</forename>
                         <surname>Kramer</surname>
@@ -154,11 +160,5 @@ Inventaris van het familie-archief Brants, 111; &amp;lt;span&amp;gt;Huchler, Bü
                      <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                <noteGrp><note target="wkfm-1765.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1765</note><note target="wkfm-1766.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1766</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46990">
-                     <orgName>Thomas Wellner</orgName>
-                  <noteGrp><note target="wkfm-1765.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1765</note><note target="wkfm-1766.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1766</note></noteGrp></org>
-                <org xml:id="wkfm__27575">
-                     <orgName>Thomas Wellner &amp; Co.</orgName>
-                  <noteGrp><note target="wkfm-1765.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1765</note><note target="wkfm-1766.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1766</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

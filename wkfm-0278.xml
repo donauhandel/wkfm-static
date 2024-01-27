@@ -114,7 +114,18 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43960">
+    <back><listPerson><person xml:id="wkfm__43961">
+                     <persName>
+                        <forename>Johann Karl</forename>
+                        <surname>Perzinger</surname>
+                     </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Angestellter des Johann Jakob Perkmann, Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-0277.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0277</note><note target="wkfm-0278.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0278</note></noteGrp></person>
+                <person xml:id="wkfm__43960">
                      <persName>
                         <forename>Johann Jakob</forename>
                         <surname>Perkmann</surname>
@@ -129,17 +140,6 @@
                         <placeName key="#wkfm-place__925">Wien</placeName>
                      <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-0277.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0277</note><note target="wkfm-0278.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0278</note></noteGrp></person>
-                <person xml:id="wkfm__43961">
-                     <persName>
-                        <forename>Johann Karl</forename>
-                        <surname>Perzinger</surname>
-                     </persName>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Angestellter des Johann Jakob Perkmann, Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0277.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0277</note><note target="wkfm-0278.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0278</note></noteGrp></person>
                 </listPerson></back></text>

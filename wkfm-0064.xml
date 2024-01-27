@@ -108,7 +108,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43803">
+    <back><listOrg><org xml:id="wkfm__47272">
+                     <orgName>Lorenz Anton Premlechner</orgName>
+                  <noteGrp><note target="wkfm-0064.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0064</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__43803">
                      <persName>
                         <forename>Johann Georg</forename>
                         <surname>Wändler</surname>
@@ -161,8 +164,5 @@
                         <bibl>Huchler, Bürgeraufnahmen, 491.</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0064.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0064</note><note target="wkfm-0065.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0065</note><note target="wkfm-0249.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0249</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__47272">
-                     <orgName>Lorenz Anton Premlechner</orgName>
-                  <noteGrp><note target="wkfm-0064.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0064</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

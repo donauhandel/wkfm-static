@@ -88,7 +88,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__12542" sameAs="#wkfm__29848 ">
+    <back><listOrg><org xml:id="wkfm__46955">
+                     <orgName>Karl Wöss</orgName>
+                  <noteGrp><note target="wkfm-1715.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1715</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__12542" sameAs="#wkfm__29848 ">
                      <persName>
                         <forename>Karl</forename>
                         <surname>Wöss</surname>
@@ -99,8 +102,5 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
                <noteGrp><note target="wkfm-1715.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1715</note><note target="wkfm-1716.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1716</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46955">
-                     <orgName>Karl Wöss</orgName>
-                  <noteGrp><note target="wkfm-1715.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1715</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

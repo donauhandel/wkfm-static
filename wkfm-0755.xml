@@ -87,14 +87,14 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__9487">
+    <back><listOrg><org xml:id="wkfm__47116">
+                     <orgName>Franz Stephan Fetzer</orgName>
+                  <noteGrp><note target="wkfm-0755.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0755</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__9487">
                      <persName>
                         <forename>Franz Stephan</forename>
                         <surname>Fetzer</surname>
                      </persName>
                <noteGrp><note target="wkfm-0755.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0755</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__47116">
-                     <orgName>Franz Stephan Fetzer</orgName>
-                  <noteGrp><note target="wkfm-0755.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0755</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

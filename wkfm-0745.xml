@@ -88,10 +88,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47108">
-                     <orgName>Peter Anton Varena</orgName>
-                  <noteGrp><note target="wkfm-0745.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0745</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__12455">
+    <back><listPerson><person xml:id="wkfm__12455">
                      <persName>
                         <forename>Peter Anton</forename>
                         <surname>Varena</surname>
@@ -115,5 +112,8 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 549 (&amp;#34;Peter&amp;#34;).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0745.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0745</note><note target="wkfm-0746.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0746</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47108">
+                     <orgName>Peter Anton Varena</orgName>
+                  <noteGrp><note target="wkfm-0745.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0745</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

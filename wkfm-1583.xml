@@ -88,7 +88,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__24071">
+    <back><listOrg><org xml:id="wkfm__47488">
+                     <orgName>Leopold Säzl</orgName>
+                  <noteGrp><note target="wkfm-1583.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1583</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__24071">
                      <persName>
                         <forename>Leopold</forename>
                         <surname>Säzl</surname>
@@ -112,8 +115,5 @@
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 509 (Juni 1732).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1583.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1583</note><note target="wkfm-1584.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1584</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__47488">
-                     <orgName>Leopold Säzl</orgName>
-                  <noteGrp><note target="wkfm-1583.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1583</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

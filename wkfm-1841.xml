@@ -90,10 +90,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46607">
-                     <orgName>Ignaz Joseph Zeltner</orgName>
-                  <noteGrp><note target="wkfm-1841.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1841</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__36493">
+    <back><listPerson><person xml:id="wkfm__36493">
                      <persName>
                         <forename>Ignaz Joseph</forename>
                         <surname>Zeltner</surname>
@@ -107,5 +104,8 @@
                      <occupation>Leinwandhändler</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
                <noteGrp><note target="wkfm-1841.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1841</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46607">
+                     <orgName>Ignaz Joseph Zeltner</orgName>
+                  <noteGrp><note target="wkfm-1841.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1841</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

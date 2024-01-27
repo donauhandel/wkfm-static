@@ -89,10 +89,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47433">
-                     <orgName>Laurent Stass</orgName>
-                  <listPerson type="affiliated"><person><persName key="#wkfm__8439">Stass, Lorenz Laurent Laurenz</persName></person></listPerson><noteGrp><note target="wkfm-1513.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1513</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__8439" sameAs="#wkfm__15984 wkfm__29926 ">
+    <back><listPerson><person xml:id="wkfm__8439" sameAs="#wkfm__15984 wkfm__29926 ">
                      <persName>
                         <forename>Lorenz</forename>
                         <forename type="alt">Laurent</forename>
@@ -119,5 +116,8 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1513.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1513</note><note target="wkfm-1514.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1514</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47433">
+                     <orgName>Laurent Stass</orgName>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__8439">Stass, Lorenz Laurent Laurenz</persName></person></listPerson><noteGrp><note target="wkfm-1513.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1513</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

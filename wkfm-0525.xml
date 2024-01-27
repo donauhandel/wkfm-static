@@ -90,10 +90,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46209">
-                     <orgName>Johann Jakob Damian</orgName>
-                  <listPerson type="affiliated"><person><persName key="#wkfm__8813">Damian, Johann Jakob</persName></person></listPerson><noteGrp><note target="wkfm-0525.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0525</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__8813" sameAs="#wkfm__11227 wkfm__19512 ">
+    <back><listPerson><person xml:id="wkfm__8813" sameAs="#wkfm__11227 wkfm__19512 ">
                      <persName>
                         <forename>Johann Jakob</forename>
                         <surname>Damian</surname>
@@ -126,5 +123,8 @@
                         <bibl>Huchler, Bürgeraufnahmen, 358.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0525.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0525</note><note target="wkfm-0526.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0526</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46209">
+                     <orgName>Johann Jakob Damian</orgName>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__8813">Damian, Johann Jakob</persName></person></listPerson><noteGrp><note target="wkfm-0525.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0525</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

@@ -88,7 +88,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__23655" sameAs="#wkfm__19406 ">
+    <back><listOrg><org xml:id="wkfm__47350">
+                     <orgName>Johann Anton Brigenti</orgName>
+                  <noteGrp><note target="wkfm-0217.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0217</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__23655" sameAs="#wkfm__19406 ">
                      <persName>
                         <forename>Johann Anton</forename>
                         <forename type="alt">Giovanni Anton</forename>
@@ -116,8 +119,5 @@
                         <bibl>Huchler, Bürgeraufnahmen,&amp;amp;nbsp;491.</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0217.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0217</note><note target="wkfm-0218.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0218</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__47350">
-                     <orgName>Johann Anton Brigenti</orgName>
-                  <noteGrp><note target="wkfm-0217.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0217</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

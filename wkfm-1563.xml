@@ -89,10 +89,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47473">
-                     <orgName>Johann Anton Schmid</orgName>
-                  <noteGrp><note target="wkfm-1563.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1563</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__47472">
+    <back><listPerson><person xml:id="wkfm__47472">
                      <persName>
                         <forename>Johann Anton</forename>
                         <surname>Schmid</surname>
@@ -112,5 +109,8 @@
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 517 (Mai 1727).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1563.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1563</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47473">
+                     <orgName>Johann Anton Schmid</orgName>
+                  <noteGrp><note target="wkfm-1563.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1563</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

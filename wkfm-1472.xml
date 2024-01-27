@@ -131,17 +131,13 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43904" sameAs="#wkfm__10646 ">
-                     <persName>
-                        <forename>Franz Ferdinand</forename>
-                        <surname>Klaninger von Klanberg</surname>
-                     </persName>
-                     <occupation>Handelsmann, ksl. Hoflieferant, ksl. Theatrallieferant</occupation>
-                     <listBibl>
-                        <bibl>Andrea Sommer-Mathis u.a. (Hgg.), Pietro Metastasio - uomo universale (1698-1782). Festgabe der Österreichischen Akademie der Wissenschaften zum 300. Geburtstag von Pietro Metastasio (Sitzungsberichte der Österreichische Akademie der Wissenschaften, Philosophisch-Historische Klasse 676, Wien 2000) 78-81, 85; Andrea Sommer-Mathis, Hoftheater und Hofoper, in: Michael Hochedlinger u.a. (Hgg.), Verwaltungsgeschichte der Habsburgermonarchie, 1/1, 175-181, hier 176.</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-0194.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0194</note><note target="wkfm-0195.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0195</note><note target="wkfm-1471.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1471</note><note target="wkfm-1472.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1472</note></noteGrp></person>
-                <person xml:id="wkfm__36354">
+    <back><listOrg><org xml:id="wkfm__9133">
+                     <orgName>Bormastini und Butterna, Johann Anton Bormastini und Butterna</orgName>
+                  <noteGrp><note target="wkfm-0077.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0077</note><note target="wkfm-0078.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0078</note><note target="wkfm-0079.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0079</note><note target="wkfm-0194.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0194</note><note target="wkfm-0195.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0195</note><note target="wkfm-1471.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1471</note><note target="wkfm-1472.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1472</note></noteGrp></org>
+                <org xml:id="wkfm__43903">
+                     <orgName>Karl Joseph Stark &amp; Co.</orgName>
+                  <noteGrp><note target="wkfm-0194.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0194</note><note target="wkfm-0195.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0195</note><note target="wkfm-1471.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1471</note><note target="wkfm-1472.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1472</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__36354">
                      <persName>
                         <forename>Johann Anton</forename>
                         <forename type="alt">Anton</forename>
@@ -179,11 +175,15 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                <noteGrp><note target="wkfm-0194.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0194</note><note target="wkfm-0195.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0195</note><note target="wkfm-0997.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0997</note><note target="wkfm-0998.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0998</note><note target="wkfm-1471.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1471</note><note target="wkfm-1472.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1472</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__9133">
-                     <orgName>Bormastini und Butterna, Johann Anton Bormastini und Butterna</orgName>
-                  <noteGrp><note target="wkfm-0077.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0077</note><note target="wkfm-0078.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0078</note><note target="wkfm-0079.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0079</note><note target="wkfm-0194.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0194</note><note target="wkfm-0195.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0195</note><note target="wkfm-1471.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1471</note><note target="wkfm-1472.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1472</note></noteGrp></org>
-                <org xml:id="wkfm__43903">
-                     <orgName>Karl Joseph Stark &amp; Co.</orgName>
-                  <noteGrp><note target="wkfm-0194.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0194</note><note target="wkfm-0195.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0195</note><note target="wkfm-1471.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1471</note><note target="wkfm-1472.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1472</note></noteGrp></org>
-                </listOrg></back></text>
+                <person xml:id="wkfm__43904" sameAs="#wkfm__10646 ">
+                     <persName>
+                        <forename>Franz Ferdinand</forename>
+                        <surname>Klaninger von Klanberg</surname>
+                     </persName>
+                     <occupation>Handelsmann, ksl. Hoflieferant, ksl. Theatrallieferant</occupation>
+                     <listBibl>
+                        <bibl>Andrea Sommer-Mathis u.a. (Hgg.), Pietro Metastasio - uomo universale (1698-1782). Festgabe der Österreichischen Akademie der Wissenschaften zum 300. Geburtstag von Pietro Metastasio (Sitzungsberichte der Österreichische Akademie der Wissenschaften, Philosophisch-Historische Klasse 676, Wien 2000) 78-81, 85; Andrea Sommer-Mathis, Hoftheater und Hofoper, in: Michael Hochedlinger u.a. (Hgg.), Verwaltungsgeschichte der Habsburgermonarchie, 1/1, 175-181, hier 176.</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0194.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0194</note><note target="wkfm-0195.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0195</note><note target="wkfm-1471.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1471</note><note target="wkfm-1472.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1472</note></noteGrp></person>
+                </listPerson></back></text>
 </TEI>

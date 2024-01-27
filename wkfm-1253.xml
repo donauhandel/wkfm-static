@@ -122,22 +122,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__8413" sameAs="#wkfm__21745 ">
+    <back><listPerson><person xml:id="wkfm__46906">
                      <persName>
-                        <forename>Johann Cornelius</forename>
-                        <surname>Marei</surname>
-                        <surname type="alt">Marci</surname>
-                     </persName>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-               <noteGrp><note target="wkfm-1253.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1253</note><note target="wkfm-1254.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1254</note></noteGrp></person>
-                <person xml:id="wkfm__46907">
-                     <persName>
-                        <forename>Johann</forename>
-                        <surname>Wölfeld</surname>
+                        <forename>Veit</forename>
+                        <surname>Böhm</surname>
                      </persName>
                      <residence type="Wohnort">
                         <placeName key="#wkfm-place__925">Wien</placeName>
@@ -165,10 +153,22 @@
                      <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Prokurist bei Johann Michael Marci</occupation>
                <noteGrp><note target="wkfm-1253.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1253</note></noteGrp></person>
-                <person xml:id="wkfm__46906">
+                <person xml:id="wkfm__8413" sameAs="#wkfm__21745 ">
                      <persName>
-                        <forename>Veit</forename>
-                        <surname>Böhm</surname>
+                        <forename>Johann Cornelius</forename>
+                        <surname>Marei</surname>
+                        <surname type="alt">Marci</surname>
+                     </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+               <noteGrp><note target="wkfm-1253.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1253</note><note target="wkfm-1254.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1254</note></noteGrp></person>
+                <person xml:id="wkfm__46907">
+                     <persName>
+                        <forename>Johann</forename>
+                        <surname>Wölfeld</surname>
                      </persName>
                      <residence type="Wohnort">
                         <placeName key="#wkfm-place__925">Wien</placeName>

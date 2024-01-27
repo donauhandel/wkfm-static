@@ -159,16 +159,16 @@
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 374.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0779.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0779</note></noteGrp></person>
-                <person xml:id="wkfm__47144">
-                     <persName>
-                        <forename>Wolfgang</forename>
-                        <surname>Oberhager</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-0779.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0779</note></noteGrp></person>
                 <person xml:id="wkfm__47145">
                      <persName>
                         <forename>Maria Magdalena</forename>
                         <surname>Breunerin</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0779.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0779</note></noteGrp></person>
+                <person xml:id="wkfm__47144">
+                     <persName>
+                        <forename>Wolfgang</forename>
+                        <surname>Oberhager</surname>
                      </persName>
                <noteGrp><note target="wkfm-0779.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0779</note></noteGrp></person>
                 </listPerson><listOrg><org xml:id="wkfm__47143">

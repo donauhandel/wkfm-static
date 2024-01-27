@@ -112,10 +112,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46376">
-                     <orgName>Dominicus Gerardi</orgName>
-                  <noteGrp><note target="wkfm-0901.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0901</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__46377">
+    <back><listPerson><person xml:id="wkfm__46377">
                      <persName>
                         <forename>Maria Regina</forename>
                         <surname>Gerardi</surname>
@@ -154,5 +151,8 @@
                         <surname>Eisler</surname>
                      </persName>
                <noteGrp><note target="wkfm-0901.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0901</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46376">
+                     <orgName>Dominicus Gerardi</orgName>
+                  <noteGrp><note target="wkfm-0901.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0901</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

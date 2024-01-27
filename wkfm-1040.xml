@@ -126,25 +126,12 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46548">
-                     <orgName>Franz Hölzl &amp; Co.</orgName>
-                  <noteGrp><note target="wkfm-1040.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1040</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__46549">
+    <back><listPerson><person xml:id="wkfm__46549">
                      <persName>
                         <forename>Susanna</forename>
                         <surname>Stelzerin</surname>
                         <surname type="alt">Hölzl</surname>
                      </persName>
-               <noteGrp><note target="wkfm-1040.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1040</note></noteGrp></person>
-                <person xml:id="wkfm__46547">
-                     <persName>
-                        <forename>Joseph</forename>
-                        <surname>Hölzl</surname>
-                     </persName>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
                <noteGrp><note target="wkfm-1040.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1040</note></noteGrp></person>
                 <person xml:id="wkfm__46545">
                      <persName>
@@ -169,5 +156,18 @@
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 415.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1039.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1039</note><note target="wkfm-1040.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1040</note></noteGrp></person>
-                </listPerson></back></text>
+                <person xml:id="wkfm__46547">
+                     <persName>
+                        <forename>Joseph</forename>
+                        <surname>Hölzl</surname>
+                     </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+               <noteGrp><note target="wkfm-1040.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1040</note></noteGrp></person>
+                </listPerson><listOrg><org xml:id="wkfm__46548">
+                     <orgName>Franz Hölzl &amp; Co.</orgName>
+                  <noteGrp><note target="wkfm-1040.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1040</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

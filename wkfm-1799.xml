@@ -110,13 +110,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47021">
-                     <persName>
-                        <forename>Klara Laisia (?)</forename>
-                        <surname>Wannerer</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-1799.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1799</note></noteGrp></person>
-                <person xml:id="wkfm__47018">
+    <back><listPerson><person xml:id="wkfm__47018">
                      <persName>
                         <forename>Andre</forename>
                         <surname>Wannerer</surname>
@@ -136,6 +130,12 @@
                      <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-1799.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1799</note></noteGrp></person>
+                <person xml:id="wkfm__47021">
+                     <persName>
+                        <forename>Klara Laisia (?)</forename>
+                        <surname>Wannerer</surname>
+                     </persName>
                <noteGrp><note target="wkfm-1799.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1799</note></noteGrp></person>
                 <person xml:id="wkfm__47020">
                      <persName>

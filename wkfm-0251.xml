@@ -153,7 +153,21 @@
                 <org xml:id="wkfm__29682">
                      <orgName>Perinet und Passy</orgName>
                   <noteGrp><note target="wkfm-0251.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0251</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__42886">
+                </listOrg><listPerson><person xml:id="wkfm__43942">
+                     <persName>
+                        <forename>Michael</forename>
+                        <surname>Passy</surname>
+                     </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geburtsort">
+                        <placeName key="#wkfm-place__2502">Arâches-la-Frasse</placeName>
+                     </residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+               <noteGrp><note target="wkfm-0251.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0251</note><note target="wkfm-0252.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0252</note><note target="wkfm-0303.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0303</note><note target="wkfm-1441.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1441</note></noteGrp></person>
+                <person xml:id="wkfm__42886">
                      <persName>
                         <forename>Bernhard</forename>
                         <surname>Falquet</surname>
@@ -175,6 +189,17 @@
                         <bibl>Budischowsky, Bernhard Falquet; Budischowsky, Puthon; Matis, Manufakturen, 270, 364.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0251.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0251</note><note target="wkfm-0759.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0759</note><note target="wkfm-0760.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0760</note><note target="wkfm-0797.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0797</note><note target="wkfm-0798.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0798</note><note target="wkfm-0800.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0800</note></noteGrp></person>
+                <person xml:id="wkfm__43946">
+                     <persName>
+                        <forename>Phillibert Anton</forename>
+                        <surname>Perinet</surname>
+                     </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+               <noteGrp><note target="wkfm-0251.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0251</note><note target="wkfm-0252.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0252</note></noteGrp></person>
                 <person xml:id="wkfm__43948" sameAs="#wkfm__36625 ">
                      <persName>
                         <forename>Franz</forename>
@@ -186,12 +211,29 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                <noteGrp><note target="wkfm-0251.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0251</note><note target="wkfm-0252.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0252</note></noteGrp></person>
-                <person xml:id="wkfm__43949">
+                <person xml:id="wkfm__29551">
                      <persName>
-                        <forename>Anton</forename>
-                        <surname>Holz</surname>
+                        <forename>Franz</forename>
+                        <surname>Decret</surname>
                      </persName>
-               <noteGrp><note target="wkfm-0251.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0251</note></noteGrp></person>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geburtsort">
+                        <placeName key="#wkfm-place__2502">Arâches-la-Frasse</placeName>
+                     </residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+                     <listBibl>
+                        <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Beim niederösterr. Landmarschall&amp;#39;schen Gerichte hinterlegte 
+Verträge, derzeit im n. ö. Landesarchiv, 1. Teil, in: Monatsblatt der 
+Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 154) 
+205-211, 211.&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0251.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0251</note><note target="wkfm-0575.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0575</note><note target="wkfm-0576.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0576</note></noteGrp></person>
                 <person xml:id="wkfm__4694" sameAs="#wkfm__4693 ">
                      <persName>
                         <forename>Johann Baptist</forename>
@@ -226,53 +268,11 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                <noteGrp><note target="wkfm-0251.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0251</note><note target="wkfm-0252.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0252</note></noteGrp></person>
-                <person xml:id="wkfm__29551">
+                <person xml:id="wkfm__43949">
                      <persName>
-                        <forename>Franz</forename>
-                        <surname>Decret</surname>
+                        <forename>Anton</forename>
+                        <surname>Holz</surname>
                      </persName>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geburtsort">
-                        <placeName key="#wkfm-place__2502">Arâches-la-Frasse</placeName>
-                     </residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-                     <listBibl>
-                        <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Beim niederösterr. Landmarschall&amp;#39;schen Gerichte hinterlegte 
-Verträge, derzeit im n. ö. Landesarchiv, 1. Teil, in: Monatsblatt der 
-Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 154) 
-205-211, 211.&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-0251.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0251</note><note target="wkfm-0575.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0575</note><note target="wkfm-0576.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0576</note></noteGrp></person>
-                <person xml:id="wkfm__43942">
-                     <persName>
-                        <forename>Michael</forename>
-                        <surname>Passy</surname>
-                     </persName>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geburtsort">
-                        <placeName key="#wkfm-place__2502">Arâches-la-Frasse</placeName>
-                     </residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-               <noteGrp><note target="wkfm-0251.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0251</note><note target="wkfm-0252.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0252</note><note target="wkfm-0303.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0303</note><note target="wkfm-1441.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1441</note></noteGrp></person>
-                <person xml:id="wkfm__43946">
-                     <persName>
-                        <forename>Phillibert Anton</forename>
-                        <surname>Perinet</surname>
-                     </persName>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-               <noteGrp><note target="wkfm-0251.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0251</note><note target="wkfm-0252.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0252</note></noteGrp></person>
+               <noteGrp><note target="wkfm-0251.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0251</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

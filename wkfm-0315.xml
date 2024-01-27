@@ -124,13 +124,6 @@
                         <surname>Priestersberger</surname>
                      </persName>
                <noteGrp><note target="wkfm-0315.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0315</note></noteGrp></person>
-                <person xml:id="wkfm__44043">
-                     <persName>
-                        <forename>Joseph</forename>
-                        <surname>Guggenberger</surname>
-                        <surname type="alt">Gugenberger</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-0315.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0315</note></noteGrp></person>
                 <person xml:id="wkfm__44041">
                      <persName>
                         <forename>Joseph</forename>
@@ -151,6 +144,13 @@
                      <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-0315.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0315</note></noteGrp></person>
+                <person xml:id="wkfm__44043">
+                     <persName>
+                        <forename>Joseph</forename>
+                        <surname>Guggenberger</surname>
+                        <surname type="alt">Gugenberger</surname>
+                     </persName>
                <noteGrp><note target="wkfm-0315.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0315</note></noteGrp></person>
                 <person xml:id="wkfm__24382">
                      <persName>

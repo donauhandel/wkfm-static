@@ -146,13 +146,6 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0303.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0303</note><note target="wkfm-0304.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0304</note></noteGrp></person>
-                <person xml:id="wkfm__24729">
-                     <persName>
-                        <forename>Johann</forename>
-                        <surname>Weygert</surname>
-                        <surname type="alt">Weygarth</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-0303.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0303</note><note target="wkfm-1451.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1451</note></noteGrp></person>
                 <person xml:id="wkfm__43997">
                      <persName>
                         <forename>Johann Georg</forename>
@@ -191,6 +184,13 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                <noteGrp><note target="wkfm-0251.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0251</note><note target="wkfm-0252.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0252</note><note target="wkfm-0303.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0303</note><note target="wkfm-1441.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1441</note></noteGrp></person>
+                <person xml:id="wkfm__24729">
+                     <persName>
+                        <forename>Johann</forename>
+                        <surname>Weygert</surname>
+                        <surname type="alt">Weygarth</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0303.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0303</note><note target="wkfm-1451.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1451</note></noteGrp></person>
                 <person xml:id="wkfm__43998">
                      <persName>
                         <forename>Ignaz</forename>

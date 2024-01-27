@@ -92,22 +92,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46673">
-                     <persName>
-                        <forename>Maria Carolina</forename>
-                        <surname>Kuperianin</surname>
-                        <surname type="alt">de S. Nicola</surname>
-                     </persName>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsfrau</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-1319.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1319</note><note target="wkfm-1320.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1320</note></noteGrp></person>
-                <person xml:id="wkfm__18406" sameAs="#wkfm__4300 ">
+    <back><listPerson><person xml:id="wkfm__18406" sameAs="#wkfm__4300 ">
                      <persName>
                         <forename>Johann</forename>
                         <forename type="alt">Johann Baptista</forename>
@@ -133,5 +118,20 @@
                         <bibl>Dotter, Italienische Kaufleute, 120f.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0237.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0237</note><note target="wkfm-1319.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1319</note><note target="wkfm-1320.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1320</note><note target="wkfm-25378454.xml" type="mentions">Wiener Merkantilprotokoll Nr. 25378454</note></noteGrp></person>
+                <person xml:id="wkfm__46673">
+                     <persName>
+                        <forename>Maria Carolina</forename>
+                        <surname>Kuperianin</surname>
+                        <surname type="alt">de S. Nicola</surname>
+                     </persName>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsfrau</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-1319.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1319</note><note target="wkfm-1320.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1320</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

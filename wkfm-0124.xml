@@ -88,7 +88,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__15867">
+    <back><listOrg><org xml:id="wkfm__47302">
+                     <orgName>Rudolf Bernhofer</orgName>
+                  <noteGrp><note target="wkfm-0124.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0124</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__15867">
                      <persName>
                         <forename>Rudolf</forename>
                         <surname>Bernhofer</surname>
@@ -110,8 +113,5 @@
                         <bibl>&amp;lt;div&amp;gt;Harrer-Lucienfeld, Wien, seiner Häuser, Bd. 2.1, S. 175.&amp;lt;/div&amp;gt;&amp;lt;div&amp;gt;Harrer-Lucienfeld, Wien, seiner Häuser, Bd. 2.2, S. 327.&amp;lt;br&amp;gt;&amp;lt;/div&amp;gt;&amp;lt;div&amp;gt;Huchler, Bürgeraufnahmen, 347.&amp;lt;/div&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0124.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0124</note><note target="wkfm-0125.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0125</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__47302">
-                     <orgName>Rudolf Bernhofer</orgName>
-                  <noteGrp><note target="wkfm-0124.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0124</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

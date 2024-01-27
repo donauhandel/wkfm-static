@@ -96,7 +96,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46957">
+    <back><listOrg><org xml:id="wkfm__46958">
+                     <orgName>Johann Detloff Wanderpohl</orgName>
+                  <noteGrp><note target="wkfm-1719.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1719</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__46957">
                      <persName>
                         <forename>Johann Detloff</forename>
                         <surname>Wanderpohl</surname>
@@ -113,8 +116,5 @@
                         <bibl>https://www.geschichtewiki.wien.gv.at/Kleeblattgasse_7?uselayout=mobile&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1719.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1719</note><note target="wkfm-1720.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1720</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46958">
-                     <orgName>Johann Detloff Wanderpohl</orgName>
-                  <noteGrp><note target="wkfm-1719.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1719</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

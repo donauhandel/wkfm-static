@@ -88,7 +88,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43608">
+    <back><listOrg><org xml:id="wkfm__47284">
+                     <orgName>Gaudenz Petrossy</orgName>
+                  <noteGrp><note target="wkfm-0090.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0090</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__43608">
                      <persName>
                         <forename>Gaudenz</forename>
                         <surname>Petrossy</surname>
@@ -99,8 +102,5 @@
                      <occupation>Lederhändler</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
                <noteGrp><note target="wkfm-0090.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0090</note><note target="wkfm-0091.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0091</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__47284">
-                     <orgName>Gaudenz Petrossy</orgName>
-                  <noteGrp><note target="wkfm-0090.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0090</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

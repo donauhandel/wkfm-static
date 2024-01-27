@@ -94,7 +94,14 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46572">
+    <back><listPerson><person xml:id="wkfm__46573">
+                     <persName>
+                        <forename>Kunigunda</forename>
+                        <surname>Löbauerin</surname>
+                        <surname type="alt">Hölzl</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-1060.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1060</note></noteGrp></person>
+                <person xml:id="wkfm__46572">
                      <persName>
                         <forename>Anton</forename>
                         <surname>Hölzl</surname>
@@ -115,12 +122,5 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1059.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1059</note><note target="wkfm-1060.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1060</note></noteGrp></person>
-                <person xml:id="wkfm__46573">
-                     <persName>
-                        <forename>Kunigunda</forename>
-                        <surname>Löbauerin</surname>
-                        <surname type="alt">Hölzl</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-1060.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1060</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

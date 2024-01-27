@@ -88,7 +88,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__8202">
+    <back><listOrg><org xml:id="wkfm__47441">
+                     <orgName>Jakob Stietga</orgName>
+                  <noteGrp><note target="wkfm-1525.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1525</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__8202">
                      <persName>
                         <forename>Jakob</forename>
                         <surname>Stietga</surname>
@@ -112,8 +115,5 @@
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 538.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1525.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1525</note><note target="wkfm-1526.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1526</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__47441">
-                     <orgName>Jakob Stietga</orgName>
-                  <noteGrp><note target="wkfm-1525.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1525</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

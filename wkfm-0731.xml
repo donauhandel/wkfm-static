@@ -88,10 +88,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47096">
-                     <orgName>Franz Fischer</orgName>
-                  <noteGrp><note target="wkfm-0731.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0731</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__43898" sameAs="#wkfm__15299 ">
+    <back><listPerson><person xml:id="wkfm__43898" sameAs="#wkfm__15299 ">
                      <persName>
                         <forename>Franz</forename>
                         <surname>Fischer</surname>
@@ -111,5 +108,8 @@
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 376.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0187.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0187</note><note target="wkfm-0731.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0731</note><note target="wkfm-0732.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0732</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47096">
+                     <orgName>Franz Fischer</orgName>
+                  <noteGrp><note target="wkfm-0731.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0731</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

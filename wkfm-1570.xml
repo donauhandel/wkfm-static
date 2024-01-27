@@ -87,7 +87,21 @@
     <back><listOrg><org xml:id="wkfm__47478">
                      <orgName>Schell und Appold</orgName>
                   <noteGrp><note target="wkfm-1569.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1569</note><note target="wkfm-1570.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1570</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__47477" sameAs="#wkfm__13387 wkfm__16092 wkfm__32169 ">
+                </listOrg><listPerson><person xml:id="wkfm__47479">
+                     <persName>
+                        <forename>None</forename>
+                        <surname>Appold</surname>
+                     </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+                     <listBibl>
+                        <bibl>Huchler, Bürgeraufnahmen, 340.&amp;lt;br&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-1570.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1570</note></noteGrp></person>
+                <person xml:id="wkfm__47477" sameAs="#wkfm__13387 wkfm__16092 wkfm__32169 ">
                      <persName>
                         <forename>None</forename>
                         <surname>Schell</surname>
@@ -107,19 +121,5 @@
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 512 (&amp;#34;Johann Schell&amp;#34;).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1569.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1569</note><note target="wkfm-1570.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1570</note></noteGrp></person>
-                <person xml:id="wkfm__47479">
-                     <persName>
-                        <forename>None</forename>
-                        <surname>Appold</surname>
-                     </persName>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-                     <listBibl>
-                        <bibl>Huchler, Bürgeraufnahmen, 340.&amp;lt;br&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-1570.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1570</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

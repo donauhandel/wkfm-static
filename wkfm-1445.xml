@@ -109,7 +109,25 @@
     <back><listOrg><org xml:id="wkfm__46764">
                      <orgName>Matthias Anton Raindinger</orgName>
                   <noteGrp><note target="wkfm-1445.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1445</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__46766">
+                </listOrg><listPerson><person xml:id="wkfm__46767">
+                     <persName>
+                        <forename>Matthias</forename>
+                        <surname>Pränkl</surname>
+                     </persName>
+                     <death><date>1757</date></death>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Tuchhändler</occupation>
+                     <occupation type="kaufmannsklasse">tuchlaubensverwandt/bürgerlich</occupation>
+               <noteGrp><note target="wkfm-0742.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0742</note><note target="wkfm-1445.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1445</note></noteGrp></person>
+                <person xml:id="wkfm__46766">
                      <persName>
                         <forename>Johann Georg</forename>
                         <surname>Schinerer</surname>
@@ -147,23 +165,5 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1445.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1445</note><note target="wkfm-1446.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1446</note></noteGrp></person>
-                <person xml:id="wkfm__46767">
-                     <persName>
-                        <forename>Matthias</forename>
-                        <surname>Pränkl</surname>
-                     </persName>
-                     <death><date>1757</date></death>
-                     <residence type="Bürgerrecht">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Tuchhändler</occupation>
-                     <occupation type="kaufmannsklasse">tuchlaubensverwandt/bürgerlich</occupation>
-               <noteGrp><note target="wkfm-0742.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0742</note><note target="wkfm-1445.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1445</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

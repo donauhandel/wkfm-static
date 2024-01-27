@@ -100,10 +100,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46597">
-                     <orgName>Bernhard Adam</orgName>
-                  <noteGrp><note target="wkfm-0044.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0044</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__15550">
+    <back><listPerson><person xml:id="wkfm__15550">
                      <persName>
                         <forename>Bernhard</forename>
                         <surname>Adam</surname>
@@ -128,5 +125,8 @@
                         <bibl>&amp;lt;span&amp;gt;Kröpfel, Protestantismus, Anhang 1, S. 5.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0044.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0044</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46597">
+                     <orgName>Bernhard Adam</orgName>
+                  <noteGrp><note target="wkfm-0044.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0044</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

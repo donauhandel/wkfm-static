@@ -100,10 +100,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46444">
-                     <orgName>Matthias Hengsberger</orgName>
-                  <noteGrp><note target="wkfm-0939.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0939</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__12736" sameAs="#wkfm__14423 ">
+    <back><listPerson><person xml:id="wkfm__12736" sameAs="#wkfm__14423 ">
                      <persName>
                         <forename>Andreas</forename>
                         <surname>Neumaister</surname>
@@ -153,5 +150,8 @@
                         <bibl>Egon Komorzynski, Lessings Braut in Wien, in: Alt-Wiener Kalender für das Jahr 1925 [Wien 1925] 64-91, hier 68; &amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Karschulin, Seidenindustrie 2, 4.&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0939.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0939</note><note target="wkfm-1714.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1714</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46444">
+                     <orgName>Matthias Hengsberger</orgName>
+                  <noteGrp><note target="wkfm-0939.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0939</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

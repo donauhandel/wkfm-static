@@ -89,10 +89,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46477">
-                     <orgName>Johann Hausner</orgName>
-                  <noteGrp><note target="wkfm-0973.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0973</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__46476">
+    <back><listPerson><person xml:id="wkfm__46476">
                      <persName>
                         <forename>Johann</forename>
                         <surname>Hausner</surname>
@@ -116,5 +113,8 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 404.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0973.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0973</note><note target="wkfm-0974.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0974</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46477">
+                     <orgName>Johann Hausner</orgName>
+                  <noteGrp><note target="wkfm-0973.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0973</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

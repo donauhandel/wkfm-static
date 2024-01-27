@@ -88,7 +88,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__11998">
+    <back><listOrg><org xml:id="wkfm__47489">
+                     <orgName>Johann Michael Steindl (Staindl)</orgName>
+                  <noteGrp><note target="wkfm-1585.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1585</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__11998">
                      <persName>
                         <forename>Johann Michael</forename>
                         <surname>Steindl</surname>
@@ -110,8 +113,5 @@
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 535 (&amp;#34;Staindl&amp;#34;).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1585.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1585</note><note target="wkfm-1586.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1586</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__47489">
-                     <orgName>Johann Michael Steindl (Staindl)</orgName>
-                  <noteGrp><note target="wkfm-1585.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1585</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

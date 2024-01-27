@@ -122,23 +122,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43993">
-                     <persName>
-                        <forename>Maria Anna</forename>
-                        <surname>Sartorin</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-0301.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0301</note><note target="wkfm-0302.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0302</note></noteGrp></person>
-                <person xml:id="wkfm__43995">
-                     <persName>
-                        <forename>Anton</forename>
-                        <surname>Hirtmayr</surname>
-                     </persName>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-               <noteGrp><note target="wkfm-0302.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0302</note></noteGrp></person>
-                <person xml:id="wkfm__43992">
+    <back><listPerson><person xml:id="wkfm__43992">
                      <persName>
                         <forename>Bernhard</forename>
                         <surname>Blumberger</surname>
@@ -157,6 +141,16 @@
                      <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                <noteGrp><note target="wkfm-0301.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0301</note><note target="wkfm-0302.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0302</note></noteGrp></person>
+                <person xml:id="wkfm__43995">
+                     <persName>
+                        <forename>Anton</forename>
+                        <surname>Hirtmayr</surname>
+                     </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+               <noteGrp><note target="wkfm-0302.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0302</note></noteGrp></person>
                 <person xml:id="wkfm__43994">
                      <persName>
                         <forename>Joseph</forename>
@@ -167,5 +161,11 @@
                      <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                <noteGrp><note target="wkfm-0302.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0302</note></noteGrp></person>
+                <person xml:id="wkfm__43993">
+                     <persName>
+                        <forename>Maria Anna</forename>
+                        <surname>Sartorin</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0301.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0301</note><note target="wkfm-0302.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0302</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>
