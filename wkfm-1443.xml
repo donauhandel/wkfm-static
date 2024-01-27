@@ -95,7 +95,7 @@
                <lb facs="#facs_91_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_91_r1l3" n="N003"/><hi>R</hi> <rs type="person" ref="#wkfm__46760">Razer Georg Franz</rs> burgerlicher Handlsmann
                <lb facs="#facs_91_r1l4" n="N004"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_91_r1l5" n="N005"/><rs type="person" ref="#wkfm__46761">Georg Franz Razer</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 651 welche
+               <lb facs="#facs_91_r1l5" n="N005"/><rs type="org" ref="#wkfm__46761">Georg Franz Razer</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 651 welche
                <lb facs="#facs_91_r1l6" n="N006"/>derselbe mitls Anbringen de ps: 154<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 753 N<hi style="superscript">o</hi> 652 eingeleget
                <lb facs="#facs_91_r1l7" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_91_r1l8" n="N008"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
@@ -112,7 +112,7 @@
                <lb facs="#facs_91_r1l24" n="N019"/>das <choice><expan/><abbr>orig:</abbr></choice> Cautions Instrument eingeleget dd<hi style="superscript">to</hi> 27<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 757 N<hi style="superscript">o</hi> 1696 <choice><expan/><abbr>pr</abbr></choice> 3610 fl
                <lb facs="#facs_91_r1l26" n="N020"/><choice><expan/><abbr>Sa</abbr></choice> 8000 fl
                <lb facs="#facs_91_r1l25" n="N021"/>Not: vermög Anbringen de ps: 26<hi style="superscript">ten</hi> Julij 769
-               <lb facs="#facs_91_r1l27" n="N022"/>ist dem <rs type="person" ref="#wkfm__8109">Johann Michael Niller</rs> das für den <rs type="person" ref="#wkfm__46761">Razer</rs> eingelegte Cautions
+               <lb facs="#facs_91_r1l27" n="N022"/>ist dem <rs type="person" ref="#wkfm__8109">Johann Michael Niller</rs> das für den <rs type="org" ref="#wkfm__46761">Razer</rs> eingelegte Cautions
                <lb facs="#facs_91_r1l28" n="N023"/><seg type="editorial_comment_seg"><hi>0</hi><note type="editorial_comment_note">Fortsetzung auf der nächsten Seite unter Anmerckungen</note></seg>
             </ab>
             
@@ -145,27 +145,6 @@
                         <bibl>Harrer-Lucienfeld, Wien, seiner Häuser, Bd. 1.3, S. 708.; Huchler, Bürgeraufnahmen,&amp;amp;nbsp;531.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0455.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0455</note><note target="wkfm-1305.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1305</note><note target="wkfm-1306.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1306</note><note target="wkfm-1433.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1433</note><note target="wkfm-1443.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1443</note><note target="wkfm-1449.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1449</note></noteGrp></person>
-                <person xml:id="wkfm__46760">
-                     <persName>
-                        <forename>Georg Franz</forename>
-                        <surname>Razer</surname>
-                        <surname type="alt">Ratzer</surname>
-                     </persName>                    
-                     <residence type="Geschäftsadresse">
-                        <placeName>Zum Goldenen Wagen auf dem alten Bauernmarkt (Calender 1758)</placeName>
-                     </residence>
-                     <residence type="Bürgerrecht">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-1443.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1443</note></noteGrp></person>
                 <person xml:id="wkfm__46747">
                      <persName>
                         <forename>Johann Georg</forename>
@@ -188,6 +167,27 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1433.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1433</note><note target="wkfm-1443.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1443</note></noteGrp></person>
+                <person xml:id="wkfm__46760">
+                     <persName>
+                        <forename>Georg Franz</forename>
+                        <surname>Razer</surname>
+                        <surname type="alt">Ratzer</surname>
+                     </persName>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zum Goldenen Wagen auf dem alten Bauernmarkt (Calender 1758)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-1443.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1443</note></noteGrp></person>
                 </listPerson><listOrg><org xml:id="wkfm__46761">
                      <orgName>Georg Franz Razer</orgName>
                   <noteGrp><note target="wkfm-1443.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1443</note><note target="wkfm-1444.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1444</note></noteGrp></org>

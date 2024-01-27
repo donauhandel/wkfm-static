@@ -94,7 +94,7 @@
                <lb facs="#facs_101_r1l1" n="N001"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_101_r1l2" n="N002"/><rs type="person" ref="#wkfm__46284">Traunfellner Johann Michäl</rs> burgerlicher Handlsmann
                <lb facs="#facs_101_r1l3" n="N003"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_101_r1l4" n="N004"/><rs type="person" ref="#wkfm__46285">Johann Michael Traunfellner</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 289.
+               <lb facs="#facs_101_r1l4" n="N004"/><rs type="org" ref="#wkfm__46285">Johann Michael Traunfellner</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 289.
                <lb facs="#facs_101_r1l5" n="N005"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_101_r1l6" n="N006"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_101_r1l7" n="N007"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
@@ -112,7 +112,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46284">
+    <back><listOrg><org xml:id="wkfm__46285">
+                     <orgName>Johann Michael Traunfellner</orgName>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__46284">Traunfellner, Johann Michael</persName></person></listPerson><noteGrp><note target="wkfm-0601.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0601</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__46284">
                      <persName>
                         <forename>Johann Michael</forename>
                         <surname>Traunfellner</surname>
@@ -138,8 +141,5 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 546 (September 1747).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0601.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0601</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46285">
-                     <orgName>Johann Michael Traunfellner</orgName>
-                  <noteGrp><note target="wkfm-0601.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0601</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

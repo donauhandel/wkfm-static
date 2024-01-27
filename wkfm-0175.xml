@@ -84,7 +84,7 @@
                <lb facs="#facs_122_r1l2" n="N002"/>In obigen anbringen de ps: 29<hi style="superscript">ten</hi> <choice><expan/><abbr>Jan:</abbr></choice> 728 N<hi style="superscript">o</hi> 80 hat der <rs type="person" ref="#wkfm__43785">Pöttenberger</rs>
                <lb facs="#facs_122_r1l3" n="N003"/>von <hi>k</hi>einen Compagnon keine Meldung gemacht
                <lb facs="#facs_122_line_1621464886142_1953" n="N004"/>In obigen Anbringen de ps: 25<hi style="superscript">ten</hi> <choice><expan/><abbr>Jan:</abbr></choice> 729 N<hi style="superscript">o</hi> 1852 hat <rs type="person" ref="#wkfm__9684">Franz Joseph Bran-
-               <lb break="no" facs="#facs_122_r1l5" n="N005"/>degsky</rs> und <rs type="person" ref="#wkfm__43785">Pöttenberger</rs> die miteinander führende Firma <rs type="person" ref="#wkfm__15308">Bran-
+               <lb break="no" facs="#facs_122_r1l5" n="N005"/>degsky</rs> und <rs type="person" ref="#wkfm__43785">Pöttenberger</rs> die miteinander führende Firma <rs type="org" ref="#wkfm__15308">Bran-
                <lb break="no" facs="#facs_122_r1l6" n="N006"/>degsky und Pöttenberger</rs> eingeleget
                <lb facs="#facs_122_r1l7" n="N007"/>Der <rs type="person" ref="#wkfm__9684">Franz Joseph Brandegsky</rs> hat sich in dem Anbringen de ps: <unclear>24</unclear>
                <lb facs="#facs_122_r1l8" n="N008"/><choice><expan/><abbr>8br:</abbr></choice> 740 N<hi style="superscript">o</hi> 1872 angezeiget, das durch Ableiben des <rs type="person" ref="#wkfm__43785">Pöttenberger</rs>
@@ -96,7 +96,19 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__9684" sameAs="#wkfm__11276 ">
+    <back><listPerson><person xml:id="wkfm__43785">
+                     <persName>
+                        <forename>Franz</forename>
+                        <surname>Pöttenberger</surname>
+                     </persName>
+                     <death><date>1740</date></death>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+               <noteGrp><note target="wkfm-0060.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0060</note><note target="wkfm-0061.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0061</note><note target="wkfm-0174.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0174</note><note target="wkfm-0175.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0175</note></noteGrp></person>
+                <person xml:id="wkfm__9684" sameAs="#wkfm__11276 ">
                      <persName>
                         <forename>Franz Joseph</forename>
                         <forename type="alt">Joseph</forename>
@@ -120,18 +132,6 @@ Verträge, derzeit im n. ö. Landesarchiv, 1. Teil, in: Monatsblatt der
 Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 154) 
 205-211, 211.&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Harrer-Lucienfeld, Wien, seiner Häuser, Bd. 4.1, S. 153&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;</bibl>
                      </listBibl>
-               <noteGrp><note target="wkfm-0060.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0060</note><note target="wkfm-0061.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0061</note><note target="wkfm-0174.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0174</note><note target="wkfm-0175.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0175</note></noteGrp></person>
-                <person xml:id="wkfm__43785">
-                     <persName>
-                        <forename>Franz</forename>
-                        <surname>Pöttenberger</surname>
-                     </persName>
-                     <death><date>1740</date></death>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                <noteGrp><note target="wkfm-0060.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0060</note><note target="wkfm-0061.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0061</note><note target="wkfm-0174.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0174</note><note target="wkfm-0175.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0175</note></noteGrp></person>
                 </listPerson><listOrg><org xml:id="wkfm__15308">
                      <orgName>Brandegski und Pöttenberger</orgName>

@@ -93,7 +93,7 @@
                <lb facs="#facs_77_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_77_r1l2" n="N003"/><rs type="person" ref="#wkfm__46914">Mäninger Mattheus Franz</rs> burgerlicher Handlsmann
                <lb facs="#facs_77_r1l3" n="N004"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_77_r1l4" n="N005"/><rs type="person" ref="#wkfm__46915">Matheus Franz Mäninger</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 579
+               <lb facs="#facs_77_r1l4" n="N005"/><rs type="org" ref="#wkfm__46915">Matheus Franz Mäninger</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 579
                <lb facs="#facs_77_r1l5" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_77_r1l7" n="N007"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_77_r1l9" n="N008"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
@@ -115,7 +115,14 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46914" sameAs="#wkfm__32085 wkfm__40628 ">
+    <back><listPerson><person xml:id="wkfm__46916">
+                     <persName>
+                        <forename>Johann Thomas</forename>
+                        <surname>Linz</surname>
+                        <surname type="alt">Lintz</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-1261.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1261</note></noteGrp></person>
+                <person xml:id="wkfm__46914" sameAs="#wkfm__32085 wkfm__40628 ">
                      <persName>
                         <forename>Matthäus Franz</forename>
                         <surname>Manninger</surname>
@@ -137,13 +144,6 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1261.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1261</note><note target="wkfm-1262.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1262</note></noteGrp></person>
-                <person xml:id="wkfm__46916">
-                     <persName>
-                        <forename>Johann Thomas</forename>
-                        <surname>Linz</surname>
-                        <surname type="alt">Lintz</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-1261.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1261</note></noteGrp></person>
                 </listPerson><listOrg><org xml:id="wkfm__46915">
                      <orgName>Matthäus Franz Mäninger</orgName>
                   <noteGrp><note target="wkfm-1261.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1261</note></noteGrp></org>

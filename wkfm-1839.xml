@@ -82,7 +82,7 @@
                <lb facs="#facs_9_r1l1" n="N003"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_9_r1l4" n="N004"/><rs type="person" ref="#wkfm__43858">Zetner Matthaeus</rs> burgerlicher Handlsmann
                <lb facs="#facs_9_r1l5" n="N005"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_9_r1l6" n="N006"/><rs type="person" ref="#wkfm__46606">Matthäus Zetner</rs> laut Erklährung dd<hi style="superscript">to</hi> 25<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 733 N<hi style="superscript">o</hi> 847
+               <lb facs="#facs_9_r1l6" n="N006"/><rs type="org" ref="#wkfm__46606">Matthäus Zetner</rs> laut Erklährung dd<hi style="superscript">to</hi> 25<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 733 N<hi style="superscript">o</hi> 847
                <lb facs="#facs_9_r1l7" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_9_r1l8" n="N008"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_9_r1l9" n="N009"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
@@ -90,7 +90,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43858">
+    <back><listOrg><org xml:id="wkfm__46606">
+                     <orgName>Matthäus Zetner</orgName>
+                  <noteGrp><note target="wkfm-1839.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1839</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__43858">
                      <persName>
                         <forename>Matthäus</forename>
                         <surname>Zetner</surname>
@@ -113,8 +116,5 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 571.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1839.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1839</note><note target="wkfm-1840.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1840</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46606">
-                     <orgName>Matthäus Zetner</orgName>
-                  <noteGrp><note target="wkfm-1839.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1839</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

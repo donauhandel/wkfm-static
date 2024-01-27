@@ -79,14 +79,25 @@
                <lb facs="#facs_42_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 9<hi style="superscript">ten</hi> Junii 728 N<hi style="superscript">o</hi> 1998 hat sich der
                <lb facs="#facs_42_r1l3" n="N003"/><rs type="person" ref="#wkfm__46876">Martin</rs> mit dem <rs type="person" ref="#wkfm__46877">Rafeßeder</rs> zugleich erklähret, das sie
                <lb facs="#facs_42_r1l4" n="N004"/>ihre Handlung miteinander erkaufet und unter der societaets
-               <lb facs="#facs_42_r1l5" n="N005"/>Firma <rs type="person" ref="#wkfm__17566">Martin und Raffeßeder</rs> führen
+               <lb facs="#facs_42_r1l5" n="N005"/>Firma <rs type="org" ref="#wkfm__17566">Martin und Raffeßeder</rs> führen
                <lb facs="#facs_42_r1l6" n="N006"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_42_r1l7" n="N007"/><seg type="orighead__other_notes">Anmerckungen</seg>
             </ab>
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46876" sameAs="#wkfm__17723 ">
+    <back><listPerson><person xml:id="wkfm__46877">
+                     <persName>
+                        <forename>None</forename>
+                        <surname>Raffeseder</surname>
+                     </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-1225.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1225</note><note target="wkfm-1226.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1226</note></noteGrp></person>
+                <person xml:id="wkfm__46876" sameAs="#wkfm__17723 ">
                      <persName>
                         <forename>None</forename>
                         <surname>Martin</surname>
@@ -97,17 +108,6 @@
                      <residence type="Wohnort">
                         <placeName key="#wkfm-place__925">Wien</placeName>
                      <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-1225.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1225</note><note target="wkfm-1226.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1226</note></noteGrp></person>
-                <person xml:id="wkfm__46877">
-                     <persName>
-                        <forename>None</forename>
-                        <surname>Raffeseder</surname>
-                     </persName>
                      <residence type="Geschäftsniederlassung">
                         <placeName key="#wkfm-place__925">Wien</placeName>
                      <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>

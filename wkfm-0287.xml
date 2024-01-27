@@ -89,7 +89,7 @@
                <lb facs="#facs_233_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_233_r1l3" n="N003"/><rs type="person" ref="#wkfm__43969">Batuzzi Joseph</rs> burgerlicher Handlsmann
                <lb facs="#facs_233_r1l4" n="N004"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_233_r1l5" n="N005"/><hi>Jo</hi> <rs type="person" ref="#wkfm__47383">Joseph Batuzzi</rs> oder Guiseppe Batuzzi laut Erklährung sine dato <hi>N<hi style="superscript"/></hi>o
+               <lb facs="#facs_233_r1l5" n="N005"/><hi>Jo</hi> <rs type="org" ref="#wkfm__47383">Joseph Batuzzi</rs> oder Guiseppe Batuzzi laut Erklährung sine dato <hi>N<hi style="superscript"/></hi>o
                <lb facs="#facs_233_r1l6" n="N006"/>N<hi style="superscript">o</hi> 142
                <lb facs="#facs_233_r1l7" n="N007"/>den 20<hi style="superscript">ten</hi> Decembris 1763 hat sine firma und Erklärung eingeleget <choice><expan/><abbr>nro</abbr></choice> 142 1/2
                <lb facs="#facs_233_r1l8" n="N008"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
@@ -106,44 +106,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43971">
-                     <persName>
-                        <forename>Karl</forename>
-                        <surname>Patuzzi</surname>
-                     </persName>
-                     <listBibl>
-                        <bibl>Harrer-Lucienfeld, Wien, seine Häuser, Bd. 6.1, S. 210.&amp;lt;br&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-0287.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0287</note></noteGrp></person>
-                <person xml:id="wkfm__43969">
-                     <persName>
-                        <forename>Joseph</forename>
-                        <surname>Patuzzi</surname>
-                        <surname type="alt">von Patuzzi</surname>
-                     </persName>
-                     <death><date>04.10.1776</date></death>                    
-                     <residence type="Geschäftsadresse">
-                        <placeName>Zur Weißen Rose auf dem Graben (Calender 1758)</placeName>
-                     </residence>                    
-                     <residence type="Geschäftsadresse">
-                        <placeName>Seilergasse 3 (alt: Nr. 1083A)</placeName>
-                     </residence>
-                     <residence type="Bürgerrecht">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-                     <listBibl>
-                        <bibl>&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 476 (Dezember 1745).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;&amp;lt;div&amp;gt;Harrer-Lucienfeld, Wien, seiner Häuser, Bd. 6.1, S. 210.&amp;lt;br&amp;gt;&amp;lt;span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-0287.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0287</note><note target="wkfm-0288.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0288</note></noteGrp></person>
-                <person xml:id="wkfm__4528" sameAs="#wkfm__44892 ">
+    <back><listPerson><person xml:id="wkfm__4528" sameAs="#wkfm__44892 ">
                      <persName>
                         <forename>Bartholomäus</forename>
                         <surname>Patuzzi</surname>
@@ -196,6 +159,43 @@
                         <bibl>Harrer-Lucienfeld, Wien, seiner Häuser, Bd. 6.1, S. 210.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0287.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0287</note></noteGrp></person>
+                <person xml:id="wkfm__43971">
+                     <persName>
+                        <forename>Karl</forename>
+                        <surname>Patuzzi</surname>
+                     </persName>
+                     <listBibl>
+                        <bibl>Harrer-Lucienfeld, Wien, seine Häuser, Bd. 6.1, S. 210.&amp;lt;br&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0287.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0287</note></noteGrp></person>
+                <person xml:id="wkfm__43969">
+                     <persName>
+                        <forename>Joseph</forename>
+                        <surname>Patuzzi</surname>
+                        <surname type="alt">von Patuzzi</surname>
+                     </persName>
+                     <death><date>04.10.1776</date></death>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zur Weißen Rose auf dem Graben (Calender 1758)</placeName>
+                     </residence>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Seilergasse 3 (alt: Nr. 1083A)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+                     <listBibl>
+                        <bibl>&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 476 (Dezember 1745).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;&amp;lt;div&amp;gt;Harrer-Lucienfeld, Wien, seiner Häuser, Bd. 6.1, S. 210.&amp;lt;br&amp;gt;&amp;lt;span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0287.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0287</note><note target="wkfm-0288.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0288</note></noteGrp></person>
                 </listPerson><listOrg><org xml:id="wkfm__47383">
                      <orgName>Joseph Patuzzi, Guiseppe Patuzzi</orgName>
                   <noteGrp><note target="wkfm-0287.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0287</note></noteGrp></org>

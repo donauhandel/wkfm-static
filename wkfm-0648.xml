@@ -127,7 +127,7 @@
                <lb facs="#facs_28_r1l12" n="N012"/>haltungs Fall aber das <choice><expan/><abbr>intee</abbr></choice>  <unclear>a 5</unclear> <choice><expan/><abbr>pC<hi style="superscript">to</hi></abbr></choice> bezahlet, und hirüber von dem <rs type="person" ref="#wkfm__27912">Babitsch</rs> unter der Raggions
                <lb facs="#facs_28_r1l13" n="N013"/>Firma ein <unclear>obligo</unclear> ausgestellet werden, alles dem <rs type="person" ref="#wkfm__23412">Egger</rs> über die 10000 fl gehörige oder durch
                <lb facs="#facs_28_r1l14" n="N014"/><unclear>Separirte Negotia</unclear> erwerbende<hi>, <unclear>alle</unclear></hi> alß ein Separirtes Gutt <unclear><hi>ange</hi>seh</unclear> angesehen und in Un=
-               <lb facs="#facs_28_line_1619619447210_278" n="N015"/>glücks Fall der <rs type="person" ref="#wkfm__23412">Egger</rs> für nicht mehr alß 10000 fl gehalten, die Raggion <rs type="person" ref="#wkfm__37828">Egger und Babitsch</rs> unter beeder
+               <lb facs="#facs_28_line_1619619447210_278" n="N015"/>glücks Fall der <rs type="person" ref="#wkfm__23412">Egger</rs> für nicht mehr alß 10000 fl gehalten, die Raggion <rs type="org" ref="#wkfm__37828">Egger und Babitsch</rs> unter beeder
                <lb facs="#facs_28_r1l16" n="N016"/>seithiger Firmirung und abhaltung eines Saldo Conti, Cassa Buchs und übrigen <unclear>Zinhnsen</unclear> laufen, alle
                <lb facs="#facs_28_r1l17" n="N017"/>2 Jahre ein Inventar unter beederseithigen Fertigung errichtet hiervon sich ein Exemplar zugestelt
                <lb facs="#facs_28_r1l18" n="N018"/>der Gewün getheilet und zudem theil bevorstehen, solchen herauszunehmen oder in der Handlung zu
@@ -162,7 +162,30 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__27912" sameAs="#wkfm__30184 ">
+    <back><listOrg><org xml:id="wkfm__37828">
+                     <orgName>Egger und Babitsch</orgName>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__27912">Babitsch, Johann Ignaz</persName></person></listPerson><noteGrp><note target="wkfm-0647.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0647</note><note target="wkfm-0648.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0648</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__23412">
+                     <persName>
+                        <forename>Franz Dionysius</forename>
+                        <surname>Egger</surname>
+                     </persName>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+                     <listBibl>
+                        <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 368; &amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;Jetztlebende Kauffmannschafft 1. Versuch, 257.&amp;lt;/span&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0243.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0243</note><note target="wkfm-0647.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0647</note><note target="wkfm-0648.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0648</note></noteGrp></person>
+                <person xml:id="wkfm__27912" sameAs="#wkfm__30184 ">
                      <persName>
                         <forename>Johann Ignaz</forename>
                         <surname>Babitsch</surname>
@@ -191,28 +214,5 @@
                         <bibl>&amp;lt;div&amp;gt;Huchler, Bürgeraufnahmen, 343.&amp;lt;/div&amp;gt;&amp;lt;div&amp;gt;Harrer-Lucienfeld, Wien, seiner Häuser, Bd. 2.4, S. 770.&amp;lt;br&amp;gt;&amp;lt;/div&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0233.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0233</note><note target="wkfm-0234.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0234</note><note target="wkfm-0648.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0648</note><note target="wkfm-1179.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1179</note></noteGrp></person>
-                <person xml:id="wkfm__23412">
-                     <persName>
-                        <forename>Franz Dionysius</forename>
-                        <surname>Egger</surname>
-                     </persName>
-                     <residence type="Bürgerrecht">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-                     <listBibl>
-                        <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 368; &amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;Jetztlebende Kauffmannschafft 1. Versuch, 257.&amp;lt;/span&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-0243.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0243</note><note target="wkfm-0647.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0647</note><note target="wkfm-0648.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0648</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__37828">
-                     <orgName>Egger und Babitsch</orgName>
-                  <noteGrp><note target="wkfm-0647.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0647</note><note target="wkfm-0648.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0648</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

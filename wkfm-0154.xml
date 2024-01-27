@@ -83,9 +83,9 @@
                <lb facs="#facs_101_r2l2" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_101_r2l3" n="N003"/><rs type="person" ref="#wkfm__9548">Prager Johann Franz</rs> burgerlicher Handlsmann
                <lb facs="#facs_101_r2l4" n="N004"/><seg type="orighead__firma">Firma oder Raggion</seg>
-               <lb facs="#facs_101_r2l5" n="N005"/><rs type="person" ref="#wkfm__47318">Johann Franz Prager</rs> laut Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725
+               <lb facs="#facs_101_r2l5" n="N005"/><rs type="org" ref="#wkfm__47318">Johann Franz Prager</rs> laut Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725
                <lb facs="#facs_101_r2l6" n="N006"/>N<hi style="superscript">o</hi> 69
-               <lb facs="#facs_101_r2l7" n="N007"/><rs type="person" ref="#wkfm__43885">Johann Franz Prager <choice><expan/><abbr>seel.</abbr></choice> Wittib und <hi>Fran</hi> Kleinrath</rs> laut Erklährung dd<hi style="superscript">to</hi> 13<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 754
+               <lb facs="#facs_101_r2l7" n="N007"/><rs type="org" ref="#wkfm__43885">Johann Franz Prager <choice><expan/><abbr>seel.</abbr></choice> Wittib und <hi>Fran</hi> Kleinrath</rs> laut Erklährung dd<hi style="superscript">to</hi> 13<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 754
                <lb facs="#facs_101_r2l8" n="N008"/>N<hi style="superscript">o</hi> 155 et 156
                <lb facs="#facs_101_r2l9" n="N009"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_101_r2l10" n="N010"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
@@ -94,7 +94,13 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__9548">
+    <back><listOrg><org xml:id="wkfm__43885">
+                     <orgName>Johann Franz Prager sel. Witwe und Kleinrath</orgName>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__43887">Kleinrath, Franz</persName></person></listPerson><noteGrp><note target="wkfm-0154.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0154</note><note target="wkfm-0485.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0485</note></noteGrp></org>
+                <org xml:id="wkfm__47318">
+                     <orgName>Johann Franz Prager</orgName>
+                  <noteGrp><note target="wkfm-0154.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0154</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__9548">
                      <persName>
                         <forename>Johann Franz</forename>
                         <surname>Prager</surname>
@@ -115,11 +121,5 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 489.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0154.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0154</note><note target="wkfm-0155.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0155</note><note target="wkfm-0486.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0486</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__47318">
-                     <orgName>Johann Franz Prager</orgName>
-                  <noteGrp><note target="wkfm-0154.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0154</note></noteGrp></org>
-                <org xml:id="wkfm__43885">
-                     <orgName>Johann Franz Prager sel. Witwe und Kleinrath</orgName>
-                  <noteGrp><note target="wkfm-0154.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0154</note><note target="wkfm-0485.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0485</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

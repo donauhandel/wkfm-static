@@ -81,7 +81,7 @@
                <lb facs="#facs_33_r2l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_33_r2l2" n="N003"/><rs type="person" ref="#wkfm__15475">Silber Zacharias</rs> burgerlicher Handlsmann
                <lb facs="#facs_33_r2l4" n="N004"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_33_r2l5" n="N005"/><rs type="person" ref="#wkfm__47418">Zacharias Silber</rs> laut Erklährung dd<hi style="superscript">to</hi> 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 672
+               <lb facs="#facs_33_r2l5" n="N005"/><rs type="org" ref="#wkfm__47418">Zacharias Silber</rs> laut Erklährung dd<hi style="superscript">to</hi> 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 672
                <lb facs="#facs_33_r2l6" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_33_r2l7" n="N007"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_33_r2l8" n="N008"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
@@ -89,7 +89,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__15475">
+    <back><listOrg><org xml:id="wkfm__47418">
+                     <orgName>Zacharias Silber</orgName>
+                  <noteGrp><note target="wkfm-1491.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1491</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__15475">
                      <persName>
                         <forename>Zacharias</forename>
                         <surname>Silber</surname>
@@ -114,8 +117,5 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 531.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0897.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0897</note><note target="wkfm-0898.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0898</note><note target="wkfm-1491.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1491</note><note target="wkfm-1492.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1492</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__47418">
-                     <orgName>Zacharias Silber</orgName>
-                  <noteGrp><note target="wkfm-1491.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1491</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

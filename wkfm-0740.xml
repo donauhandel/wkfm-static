@@ -89,7 +89,7 @@
                <lb facs="#facs_72_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_72_line_1621550151391_1654" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 12 <choice><expan/><abbr>Apr:</abbr></choice> 731 N<hi style="superscript">o</hi> 1934 hat sich der <rs type="person" ref="#wkfm__21998">Peter
                <lb break="no" facs="#facs_72_r1l3" n="N003"/>Vernay</rs> und <rs type="person" ref="#wkfm__43912">Ferdinand Pörner</rs> <hi>mit ererklähret</hi> geäusseret das sie
-               <lb facs="#facs_72_r1l4" n="N004"/>ihre Handlung unter der Societaets Raggion von <rs type="person" ref="#wkfm__15206">Vernay et Pörner</rs>
+               <lb facs="#facs_72_r1l4" n="N004"/>ihre Handlung unter der Societaets Raggion von <rs type="org" ref="#wkfm__15206">Vernay et Pörner</rs>
                <lb facs="#facs_72_r1l5" n="N005"/>miteinander führen
                <lb facs="#facs_72_r1l6" n="N006"/>Mitls Anbringen de ps: 13<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> 733 N<hi style="superscript">o</hi> 1937 hat der <rs type="person" ref="#wkfm__21998">Vernay</rs> <unclear>ange</unclear>-
                <lb facs="#facs_72_r1l7" n="N007"/>zeiget daß er sich von dem <rs type="person" ref="#wkfm__43912">Ferdinand Pörner</rs> den 17<hi style="superscript">ten</hi> <choice><expan/><abbr>9br:</abbr></choice> d.a.
@@ -108,10 +108,27 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__15206">
-                     <orgName>Peter Vernay und Pörner</orgName>
-                  <noteGrp><note target="wkfm-0210.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0210</note><note target="wkfm-0212.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0212</note><note target="wkfm-0739.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0739</note><note target="wkfm-0740.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0740</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__47104">
+    <back><listPerson><person xml:id="wkfm__21998">
+                     <persName>
+                        <forename>Peter</forename>
+                        <surname>Vernay</surname>
+                     </persName>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+                     <listBibl>
+                        <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 549.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0212.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0212</note><note target="wkfm-0739.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0739</note><note target="wkfm-0740.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0740</note></noteGrp></person>
+                <person xml:id="wkfm__47104">
                      <persName>
                         <forename>Anna Maria Theresia</forename>
                         <surname>Tarolinin</surname>
@@ -139,25 +156,8 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 488.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0210.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0210</note><note target="wkfm-0212.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0212</note><note target="wkfm-0739.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0739</note><note target="wkfm-0740.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0740</note></noteGrp></person>
-                <person xml:id="wkfm__21998">
-                     <persName>
-                        <forename>Peter</forename>
-                        <surname>Vernay</surname>
-                     </persName>
-                     <residence type="Bürgerrecht">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-                     <listBibl>
-                        <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 549.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-0212.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0212</note><note target="wkfm-0739.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0739</note><note target="wkfm-0740.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0740</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__15206">
+                     <orgName>Peter Vernay und Pörner</orgName>
+                  <noteGrp><note target="wkfm-0210.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0210</note><note target="wkfm-0212.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0212</note><note target="wkfm-0739.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0739</note><note target="wkfm-0740.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0740</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

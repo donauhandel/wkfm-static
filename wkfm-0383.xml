@@ -80,7 +80,7 @@
                <lb facs="#facs_63_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_63_r1l2" n="N003"/><rs type="person" ref="#wkfm__9731">Kyenmayr Johann Michäl<hi>l</hi></rs> burgerlicher Handlmann
                <lb facs="#facs_63_r1l3" n="N004"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_63_r1l4" n="N005"/><rs type="person" ref="#wkfm__47224">Johann Michael Kyenmayr</rs> laut Erklährung dd<hi style="superscript">to</hi> 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice>
+               <lb facs="#facs_63_r1l4" n="N005"/><rs type="org" ref="#wkfm__47224">Johann Michael Kyenmayr</rs> laut Erklährung dd<hi style="superscript">to</hi> 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice>
                <lb facs="#facs_63_r1l5" n="N006"/>725 N<hi style="superscript">o</hi> 190
                <lb facs="#facs_63_r1l6" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_63_r1l7" n="N008"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
@@ -89,10 +89,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47224">
-                     <orgName>Johann Michael Kienmayr</orgName>
-                  <noteGrp><note target="wkfm-0383.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0383</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__9731" sameAs="#wkfm__29936 ">
+    <back><listPerson><person xml:id="wkfm__9731" sameAs="#wkfm__29936 ">
                      <persName>
                         <forename>Johann Michael</forename>
                         <surname>Kienmayr</surname>
@@ -116,5 +113,8 @@
                         <bibl>Historische und topographische Darstellung von Schönbrunn und seiner Umgegend (...) (Wien 1824) 153; &amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 428&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;.</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0383.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0383</note><note target="wkfm-0384.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0384</note><note target="wkfm-0477.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0477</note><note target="wkfm-0781.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0781</note><note target="wkfm-1059.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1059</note><note target="wkfm-1661.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1661</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47224">
+                     <orgName>Johann Michael Kienmayr</orgName>
+                  <noteGrp><note target="wkfm-0383.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0383</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

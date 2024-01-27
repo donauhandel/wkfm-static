@@ -89,7 +89,7 @@
                <lb facs="#facs_99_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_99_r1l3" n="N003"/><rs type="person" ref="#wkfm__47129">Frosch Johann Jacob</rs> burgerlicher Handlsmann
                <lb facs="#facs_99_r1l4" n="N004"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_99_r1l5" n="N005"/><rs type="person" ref="#wkfm__47130">Johann Jacob Frosch</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 364 welche
+               <lb facs="#facs_99_r1l5" n="N005"/><rs type="org" ref="#wkfm__47130">Johann Jacob Frosch</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 364 welche
                <lb facs="#facs_99_r1l6" n="N006"/>die Vorsteher des <choice><expan/><abbr>burgl:</abbr></choice> Handlsstands mits Anbringen de ps: 8<hi style="superscript">ten</hi> <choice><expan/><abbr>9br:</abbr></choice> 736 N<hi style="superscript">o</hi>
                <lb facs="#facs_99_r1l7" n="N007"/>363 mit anderen eingeleget
                <lb facs="#facs_99_r1l8" n="N008"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
@@ -105,34 +105,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47130">
-                     <orgName>Johann Jakob Frosch</orgName>
-                  <noteGrp><note target="wkfm-0767.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0767</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__47129">
-                     <persName>
-                        <forename>Johann Jakob</forename>
-                        <surname>Frosch</surname>
-                     </persName>
-                     <death><date>1761</date></death>                    
-                     <residence type="Geschäftsadresse">
-                        <placeName>Zum Grünen Baum nächst St. Stephan (Calender 1758)</placeName>
-                     </residence>
-                     <residence type="Bürgerrecht">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-                     <listBibl>
-                        <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 381.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-0767.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0767</note><note target="wkfm-0768.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0768</note></noteGrp></person>
-                <person xml:id="wkfm__46910" sameAs="#wkfm__43401 ">
+    <back><listPerson><person xml:id="wkfm__46910" sameAs="#wkfm__43401 ">
                      <persName>
                         <forename>Johann Georg</forename>
                         <surname>Mumb</surname>
@@ -162,11 +135,38 @@
                         <surname>Karner</surname>
                      </persName>
                <noteGrp><note target="wkfm-0767.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0767</note></noteGrp></person>
+                <person xml:id="wkfm__47129">
+                     <persName>
+                        <forename>Johann Jakob</forename>
+                        <surname>Frosch</surname>
+                     </persName>
+                     <death><date>1761</date></death>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zum Grünen Baum nächst St. Stephan (Calender 1758)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+                     <listBibl>
+                        <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 381.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0767.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0767</note><note target="wkfm-0768.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0768</note></noteGrp></person>
                 <person xml:id="wkfm__46912">
                      <persName>
                         <forename>Sara Maria</forename>
                         <surname>Mumb</surname>
                      </persName>
                <noteGrp><note target="wkfm-0767.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0767</note><note target="wkfm-1259.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1259</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47130">
+                     <orgName>Johann Jakob Frosch</orgName>
+                  <noteGrp><note target="wkfm-0767.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0767</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

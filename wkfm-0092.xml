@@ -105,10 +105,10 @@
                <lb facs="#facs_39_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_39_r1l3" n="N003"/><rs type="person" ref="#wkfm__11161">Bolza Johann Baptista</rs> K. K. Niderlags Verwanter
                <lb facs="#facs_39_r1l4" n="N004"/><seg type="orighead__firma">Firma oder Raggion</seg>
-               <lb facs="#facs_39_r1l5" n="N005"/><rs type="person" ref="#wkfm__44788">Johann Baptist und Johann Peter Bolza</rs> laut Anbringen de ps: 25<hi style="superscript">ten</hi> Junii 725 N<hi style="superscript">o</hi> 38
-               <lb facs="#facs_39_r1l6" n="N006"/><rs type="person" ref="#wkfm__47285">Johann Baptist Bolza</rs> laut oblatorien dd<hi style="superscript">to</hi> 4<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 736 N<hi style="superscript">o</hi> 1092.
+               <lb facs="#facs_39_r1l5" n="N005"/><rs type="org" ref="#wkfm__44788">Johann Baptist und Johann Peter Bolza</rs> laut Anbringen de ps: 25<hi style="superscript">ten</hi> Junii 725 N<hi style="superscript">o</hi> 38
+               <lb facs="#facs_39_r1l6" n="N006"/><rs type="org" ref="#wkfm__47285">Johann Baptist Bolza</rs> laut oblatorien dd<hi style="superscript">to</hi> 4<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 736 N<hi style="superscript">o</hi> 1092.
                <lb facs="#facs_39_r1l7" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
-               <lb facs="#facs_39_r1l8" n="N008"/>Mitls Anbringen de ps: 19<hi style="superscript">ten</hi> <choice><expan/><abbr>9br:</abbr></choice> 733 N<hi style="superscript">o</hi> 909 hat <rs type="person" ref="#wkfm__44788">Johann Baptist und Johann Peter Bolza</rs> <hi>hat</hi> die 
+               <lb facs="#facs_39_r1l8" n="N008"/>Mitls Anbringen de ps: 19<hi style="superscript">ten</hi> <choice><expan/><abbr>9br:</abbr></choice> 733 N<hi style="superscript">o</hi> 909 hat <rs type="org" ref="#wkfm__44788">Johann Baptist und Johann Peter Bolza</rs> <hi>hat</hi> die 
                <lb facs="#facs_39_r1l9" n="N009"/><choice><expan/><abbr>orig.</abbr></choice> Procura auf ihren Cassier <rs type="person" ref="#wkfm__32426">Carl Bolza</rs> Sohn des <rs type="person" ref="#wkfm__43841">Andre Carl <choice><expan/><abbr/></choice></rs><choice><expan/><abbr>seel.</abbr></choice> wehrend ihrer Abwesenheit
                <lb facs="#facs_39_line_1628440841843_354" n="N010"/>laut dd<hi style="superscript">to</hi> 1<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 732 <unclear>N<hi style="superscript">o</hi> 908</unclear> mit beygerukter Firma des <rs type="person" ref="#wkfm__32426">Carl Bolza</rs> in obigen Anbringen eingeleget.
                <lb facs="#facs_39_r1l12" n="N011"/>Mitls Anbringen de ps: 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> 734 N<hi style="superscript">o</hi> 910 ist diese Procura anwiderum aufgehoben worden.
@@ -137,33 +137,25 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__32426">
-                     <persName>
-                        <forename>Karl</forename>
-                        <surname>Bolza</surname>
-                     </persName>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Kassier der Firma Johann Baptist und Johann Peter Bolza</occupation>
-               <noteGrp><note target="wkfm-0092.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0092</note></noteGrp></person>
-                <person xml:id="wkfm__43841">
+    <back><listPerson><person xml:id="wkfm__43841">
                      <persName>
                         <forename>Andre Karl</forename>
                         <surname>Bolza</surname>
                      </persName>
                <noteGrp><note target="wkfm-0092.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0092</note></noteGrp></person>
-                <person xml:id="wkfm__9824">
+                <person xml:id="wkfm__41796">
                      <persName>
-                        <forename>Johann Peter</forename>
-                        <surname>Bolza</surname>
+                        <forename>Christoph Martin</forename>
+                        <surname>Conradi</surname>
                      </persName>
-                     <residence type="Geschäftsniederlassung">
+                     <residence type="Geburtsort">
+                        <placeName key="#wkfm-place__441">Leipzig</placeName>
+                     <location type="coords"><geo>51.339444444444446 12.371111111111112</geo></location></residence>
+                     <residence type="Wohnort">
                         <placeName key="#wkfm-place__925">Wien</placeName>
                      <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-               <noteGrp><note target="wkfm-0092.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0092</note><note target="wkfm-0093.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0093</note><note target="wkfm-1409.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1409</note><note target="wkfm-1410.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1410</note></noteGrp></person>
+                     <occupation>Buchhalter und Prokurist des Johann Baptist Bolza, Kassier und Prokurist des Joseph Bolza</occupation>
+               <noteGrp><note target="wkfm-0092.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0092</note><note target="wkfm-0259.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0259</note></noteGrp></person>
                 <person xml:id="wkfm__11161">
                      <persName>
                         <forename>Johann Baptist</forename>
@@ -178,19 +170,27 @@
                         <bibl>Harrer-Lucienfeld, Wien, seiner Häuser, Bd. 2.1, S. 8&amp;lt;br&amp;gt;Harrer-Lucienfeld, Wien, seiner Häuser, Bd. 4.2, S. 431&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0092.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0092</note><note target="wkfm-0093.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0093</note><note target="wkfm-1409.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1409</note><note target="wkfm-1410.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1410</note></noteGrp></person>
-                <person xml:id="wkfm__41796">
+                <person xml:id="wkfm__32426">
                      <persName>
-                        <forename>Christoph Martin</forename>
-                        <surname>Conradi</surname>
+                        <forename>Karl</forename>
+                        <surname>Bolza</surname>
                      </persName>
-                     <residence type="Geburtsort">
-                        <placeName key="#wkfm-place__441">Leipzig</placeName>
-                     <location type="coords"><geo>51.339444444444446 12.371111111111112</geo></location></residence>
                      <residence type="Wohnort">
                         <placeName key="#wkfm-place__925">Wien</placeName>
                      <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Buchhalter und Prokurist des Johann Baptist Bolza, Kassier und Prokurist des Joseph Bolza</occupation>
-               <noteGrp><note target="wkfm-0092.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0092</note><note target="wkfm-0259.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0259</note></noteGrp></person>
+                     <occupation>Kassier der Firma Johann Baptist und Johann Peter Bolza</occupation>
+               <noteGrp><note target="wkfm-0092.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0092</note></noteGrp></person>
+                <person xml:id="wkfm__9824">
+                     <persName>
+                        <forename>Johann Peter</forename>
+                        <surname>Bolza</surname>
+                     </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+               <noteGrp><note target="wkfm-0092.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0092</note><note target="wkfm-0093.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0093</note><note target="wkfm-1409.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1409</note><note target="wkfm-1410.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1410</note></noteGrp></person>
                 </listPerson><listOrg><org xml:id="wkfm__44788">
                      <orgName>Johann Baptist Bolza und Johann Peter Bolza</orgName>
                   <noteGrp><note target="wkfm-0092.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0092</note><note target="wkfm-0093.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0093</note></noteGrp></org>

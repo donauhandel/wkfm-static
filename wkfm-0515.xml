@@ -84,7 +84,7 @@
                <lb facs="#facs_15_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_15_r1l3" n="N003"/><rs type="person" ref="#wkfm__10359">Dietman Johann Michäl</rs> burgerlicher Handlsmann
                <lb facs="#facs_15_r1l4" n="N004"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_15_r1l5" n="N005"/><rs type="person" ref="#wkfm__46200">Johann Michael Dietman</rs> laut Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725
+               <lb facs="#facs_15_r1l5" n="N005"/><rs type="org" ref="#wkfm__46200">Johann Michael Dietman</rs> laut Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725
                <lb facs="#facs_15_r1l6" n="N006"/>N<hi style="superscript">o</hi> 945
                <lb facs="#facs_15_r1l7" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_15_r1l8" n="N008"/>In obiger Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 945 hat der <rs type="person" ref="#wkfm__10359">Dietman</rs>
@@ -96,20 +96,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46200">
-                     <orgName>Johann Michael Dietmann</orgName>
-                  <noteGrp><note target="wkfm-0515.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0515</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__46201" sameAs="#wkfm__11692 ">
-                     <persName>
-                        <forename>Jakob</forename>
-                        <surname>Schmidt</surname>
-                     </persName>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Angestellter und Prokurist des Johann Michael Dietmann</occupation>
-               <noteGrp><note target="wkfm-0515.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0515</note></noteGrp></person>
-                <person xml:id="wkfm__10359" sameAs="#wkfm__17863 ">
+    <back><listPerson><person xml:id="wkfm__10359" sameAs="#wkfm__17863 ">
                      <persName>
                         <forename>Johann Michael</forename>
                         <surname>Dietmann</surname>
@@ -137,5 +124,18 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 362.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0515.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0515</note><note target="wkfm-0516.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0516</note></noteGrp></person>
-                </listPerson></back></text>
+                <person xml:id="wkfm__46201" sameAs="#wkfm__11692 ">
+                     <persName>
+                        <forename>Jakob</forename>
+                        <surname>Schmidt</surname>
+                     </persName>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Angestellter und Prokurist des Johann Michael Dietmann</occupation>
+               <noteGrp><note target="wkfm-0515.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0515</note></noteGrp></person>
+                </listPerson><listOrg><org xml:id="wkfm__46200">
+                     <orgName>Johann Michael Dietmann</orgName>
+                  <noteGrp><note target="wkfm-0515.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0515</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

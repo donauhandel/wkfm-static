@@ -92,12 +92,12 @@
                <lb facs="#facs_53_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_53_r1l4" n="N003"/><rs type="person" ref="#wkfm__11940">v. Münch Christian</rs> kay: könig: Niderlags Verwanter
                <lb facs="#facs_53_r1l5" n="N004"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_53_r1l7" n="N005"/><rs type="person" ref="#wkfm__8334">v. Rauner <choice><expan/><abbr><unclear alternative="der\u0020Jüngere">Jg<hi style="superscript">re</hi></unclear></abbr></choice> und Münch</rs> laut Erklährung dd<hi style="superscript">to</hi> 26<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 1050 und
+               <lb facs="#facs_53_r1l7" n="N005"/><rs type="org" ref="#wkfm__8334">v. Rauner <choice><expan/><abbr><unclear alternative="der\u0020Jüngere">Jg<hi style="superscript">re</hi></unclear></abbr></choice> und Münch</rs> laut Erklährung dd<hi style="superscript">to</hi> 26<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 1050 und
                <lb facs="#facs_53_r1l8" n="N006"/>anbringen de ps. 8<hi style="superscript">ten</hi> May 725 N<hi style="superscript">o</hi> 1051
-               <lb facs="#facs_53_r1l9" n="N007"/><rs type="person" ref="#wkfm__46886">Christian Münch</rs> laut Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 733 N<hi style="superscript">o</hi> 1029 und Anbringen de
+               <lb facs="#facs_53_r1l9" n="N007"/><rs type="org" ref="#wkfm__46886">Christian Münch</rs> laut Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 733 N<hi style="superscript">o</hi> 1029 und Anbringen de
                <lb facs="#facs_53_r1l10" n="N008"/>ps: 24<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 730 N<hi style="superscript">o</hi> 1999.
                <lb facs="#facs_53_r1l11" n="N009"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
-               <lb facs="#facs_53_r1l13" n="N010"/>Die Raggion <rs type="person" ref="#wkfm__8334">v. Rauner <unclear>Igre</unclear> und Münch</rs> hat mitls Anbringen de ps: <hi>20<hi style="superscript"/></hi>ten<hi style="superscript">ten</hi> May 725 N<hi style="superscript">o</hi> 1051
+               <lb facs="#facs_53_r1l13" n="N010"/>Die Raggion <rs type="org" ref="#wkfm__8334">v. Rauner <unclear>Igre</unclear> und Münch</rs> hat mitls Anbringen de ps: <hi>20<hi style="superscript"/></hi>ten<hi style="superscript">ten</hi> May 725 N<hi style="superscript">o</hi> 1051
                <lb facs="#facs_53_r1l14" n="N011"/><hi>mit b</hi> und Erklährung dd<hi style="superscript">to</hi> 26<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 1050 angezeiget, das sie die Procura <hi>ihrem</hi> dem
                <lb facs="#facs_53_r1l15" n="N012"/><rs type="person" ref="#wkfm__46700">Adolph Wilhelm <unclear>Henner</unclear></rs> gegeben, auch die Firma des <rs type="person" ref="#wkfm__46700">Henne</rs> beygeruket
                <lb facs="#facs_53_r1l16" n="N013"/>Mitls Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 733 N<hi style="superscript">o</hi> 1029 und Anbringen de ps: 27 ej: hat der <rs type="person" ref="#wkfm__11940">v. Münch</rs>
@@ -112,7 +112,25 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__11940" sameAs="#wkfm__25749 ">
+    <back><listOrg><org xml:id="wkfm__46886">
+                     <orgName>Christian Münch</orgName>
+                  <noteGrp><note target="wkfm-1237.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1237</note></noteGrp></org>
+                <org xml:id="wkfm__8334">
+                     <orgName>Rauner und Münch</orgName>
+                  <noteGrp><note target="wkfm-1237.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1237</note><note target="wkfm-1238.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1238</note><note target="wkfm-1381.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1381</note><note target="wkfm-1382.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1382</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__46700">
+                     <persName>
+                        <forename>Johann Wilhelm</forename>
+                        <forename type="alt">Adolf Wilhelm</forename>
+                        <surname>Henner</surname>
+                        <surname type="alt">Henne</surname>
+                     </persName>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Prokurist bei Rauner und Münch</occupation>
+               <noteGrp><note target="wkfm-1237.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1237</note><note target="wkfm-1381.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1381</note></noteGrp></person>
+                <person xml:id="wkfm__11940" sameAs="#wkfm__25749 ">
                      <persName>
                         <forename>Christian</forename>
                         <surname>Münch</surname>
@@ -133,23 +151,5 @@
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                      <occupation type="aemter">Ksl. Kupferadministrator</occupation>
                <noteGrp><note target="wkfm-1237.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1237</note><note target="wkfm-1238.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1238</note><note target="wkfm-1382.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1382</note></noteGrp></person>
-                <person xml:id="wkfm__46700">
-                     <persName>
-                        <forename>Johann Wilhelm</forename>
-                        <forename type="alt">Adolf Wilhelm</forename>
-                        <surname>Henner</surname>
-                        <surname type="alt">Henne</surname>
-                     </persName>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Prokurist bei Rauner und Münch</occupation>
-               <noteGrp><note target="wkfm-1237.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1237</note><note target="wkfm-1381.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1381</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__8334">
-                     <orgName>Rauner und Münch</orgName>
-                  <noteGrp><note target="wkfm-1237.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1237</note><note target="wkfm-1238.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1238</note><note target="wkfm-1381.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1381</note><note target="wkfm-1382.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1382</note></noteGrp></org>
-                <org xml:id="wkfm__46886">
-                     <orgName>Christian Münch</orgName>
-                  <noteGrp><note target="wkfm-1237.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1237</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

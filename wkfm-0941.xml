@@ -85,7 +85,7 @@
                <lb facs="#facs_21_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_21_r1l3" n="N003"/><rs type="person" ref="#wkfm__46446">Heigl Lorenz</rs> k. k. Niderlags Verwanter
                <lb facs="#facs_21_r1l4" n="N004"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_21_r1l5" n="N005"/><rs type="person" ref="#wkfm__46447">Lorentz Heigl</rs> laut Anbringen de ps: 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 435
+               <lb facs="#facs_21_r1l5" n="N005"/><rs type="org" ref="#wkfm__46447">Lorentz Heigl</rs> laut Anbringen de ps: 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 435
                <lb facs="#facs_21_r1l6" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_21_r1l7" n="N007"/>Mitls Anbringen de ps: 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 984 hat der <rs type="person" ref="#wkfm__46446">Heigl</rs> die seinem Bedienten
                <lb facs="#facs_21_r1l8" n="N008"/><rs type="person" ref="#wkfm__25454">Matthias Franz Gschaider</rs> ertheilte unumschränkte Procura dd<hi style="superscript">to</hi> 24<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice>
@@ -98,18 +98,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46446">
-                     <persName>
-                        <forename>Lorenz</forename>
-                        <surname>Heigl</surname>
-                     </persName>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-               <noteGrp><note target="wkfm-0941.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0941</note><note target="wkfm-0942.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0942</note></noteGrp></person>
-                <person xml:id="wkfm__25454" sameAs="#wkfm__21999 ">
+    <back><listPerson><person xml:id="wkfm__25454" sameAs="#wkfm__21999 ">
                      <persName>
                         <forename>Matthias Franz</forename>
                         <forename type="alt">Franz</forename>
@@ -128,6 +117,17 @@
                      <occupation>Handelsmann, Angestellter und Prokurist des Lorenz Heigl</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                <noteGrp><note target="wkfm-0869.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0869</note><note target="wkfm-0870.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0870</note><note target="wkfm-0941.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0941</note><note target="wkfm-1780.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1780</note></noteGrp></person>
+                <person xml:id="wkfm__46446">
+                     <persName>
+                        <forename>Lorenz</forename>
+                        <surname>Heigl</surname>
+                     </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+               <noteGrp><note target="wkfm-0941.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0941</note><note target="wkfm-0942.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0942</note></noteGrp></person>
                 </listPerson><listOrg><org xml:id="wkfm__46447">
                      <orgName>Lorenz Heigl</orgName>
                   <noteGrp><note target="wkfm-0941.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0941</note></noteGrp></org>

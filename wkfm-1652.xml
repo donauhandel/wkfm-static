@@ -99,14 +99,14 @@
                <lb facs="#facs_194_r1l9" n="N008"/>hievon wie von dem Einlags Capital jährlichen 5 pC<hi style="superscript">to</hi> aus der Handlung abgereichet, Gewün
                <lb facs="#facs_194_r1l10" n="N009"/>und Verlust aber in zwey gleiche theile zertheilet werden, keiner particular negotia
                <lb facs="#facs_194_r1l11" n="N010"/>führen, und falß einer <hi>oder</hi> ohne des andern  Vorwissen Gelder ausleihen oder Cau-
-               <lb facs="#facs_194_r1l13" n="N011"/>tion leisten würde er den Schaden allein zu tragen schuldig seyn, die Raggion <rs type="person" ref="#wkfm__47553">Saliet und
+               <lb facs="#facs_194_r1l13" n="N011"/>tion leisten würde er den Schaden allein zu tragen schuldig seyn, die Raggion <rs type="org" ref="#wkfm__47553">Saliet und
                <lb break="no" facs="#facs_194_r1l14" n="N012"/>Pernat</rs> laufen, und beede hievon die Firma führen sollen.
                <lb facs="#facs_194_r1l15" n="N013"/>Mitls Anbringe de ps: 15<hi style="superscript">ten</hi> Julii 754 N<hi style="superscript">o</hi> 2061 und oblatorien dd<hi style="superscript">to</hi> 1<hi style="superscript">ten</hi> ej: N<hi style="superscript">o</hi> 1152 hat der
                <lb facs="#facs_194_r1l16" n="N014"/><rs type="person" ref="#wkfm__46153">Claudius Salliet</rs> respectivé angezeiget und kundgemacht, daß die societaet unter der Raggion
-               <lb facs="#facs_194_r1l17" n="N015"/><rs type="person" ref="#wkfm__47553">Salliet und Pernat</rs> mit 1<hi style="superscript">ma</hi> Julii 753 geendiget werden und er <rs type="person" ref="#wkfm__46153">Claudius Salliet</rs> entschlossen seye
+               <lb facs="#facs_194_r1l17" n="N015"/><rs type="org" ref="#wkfm__47553">Salliet und Pernat</rs> mit 1<hi style="superscript">ma</hi> Julii 753 geendiget werden und er <rs type="person" ref="#wkfm__46153">Claudius Salliet</rs> entschlossen seye
                <lb facs="#facs_194_r1l18" n="N016"/>das negotium mit eignen Capitalien zu continuiren, anebens aber sich seinen brudern <rs type="person" ref="#wkfm__47556">Michäl Sal-
                <lb break="no" facs="#facs_194_r1l19" n="N017"/>liet</rs> sich jedoch ohne sein des <rs type="person" ref="#wkfm__47556">Michäl Salliet</rs> eignen obligo und Gefahr associiret <hi>ha</hi> und die Raggion
-               <lb facs="#facs_194_r1l20" n="N018"/><hi>auf Salliet und Bruder</hi> auf <rs type="person" ref="#wkfm__47555">Claudij Salliet und Bruder</rs>, <hi>welch</hi> worvon sie beede die  Firma, wie solche beygeruket führen werden
+               <lb facs="#facs_194_r1l20" n="N018"/><hi>auf Salliet und Bruder</hi> auf <rs type="org" ref="#wkfm__47555">Claudij Salliet und Bruder</rs>, <hi>welch</hi> worvon sie beede die  Firma, wie solche beygeruket führen werden
                <lb facs="#facs_194_line_1630259717107_67" n="N019"/><unclear>abzuänderen</unclear>.
                <lb facs="#facs_194_r1l22" n="N020"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_194_r1l23" n="N021"/><seg type="orighead__other_notes">Anmerckungen</seg>
@@ -114,19 +114,24 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47555">
-                     <orgName>Claudius Saliet und Bruder</orgName>
-                  <noteGrp><note target="wkfm-1651.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1651</note><note target="wkfm-1652.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1652</note></noteGrp></org>
-                <org xml:id="wkfm__47553">
-                     <orgName>Saliet und Pernat</orgName>
-                  <noteGrp><note target="wkfm-1651.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1651</note><note target="wkfm-1652.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1652</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__47556">
+    <back><listPerson><person xml:id="wkfm__47556">
                      <persName>
                         <forename>Michael</forename>
                         <surname>Saliet</surname>
                         <surname type="alt">Salliet</surname>
                      </persName>
                      <death><date>1782</date></death>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+               <noteGrp><note target="wkfm-1651.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1651</note><note target="wkfm-1652.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1652</note></noteGrp></person>
+                <person xml:id="wkfm__47554">
+                     <persName>
+                        <forename>Johann</forename>
+                        <surname>Pernat</surname>
+                     </persName>
                      <residence type="Geschäftsniederlassung">
                         <placeName key="#wkfm-place__925">Wien</placeName>
                      <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
@@ -147,16 +152,11 @@
                         <bibl>Mittenzwei, Zwischen Gestern und Morgen, 26.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0457.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0457</note><note target="wkfm-0458.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0458</note><note target="wkfm-1651.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1651</note><note target="wkfm-1652.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1652</note></noteGrp></person>
-                <person xml:id="wkfm__47554">
-                     <persName>
-                        <forename>Johann</forename>
-                        <surname>Pernat</surname>
-                     </persName>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-               <noteGrp><note target="wkfm-1651.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1651</note><note target="wkfm-1652.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1652</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47553">
+                     <orgName>Saliet und Pernat</orgName>
+                  <noteGrp><note target="wkfm-1651.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1651</note><note target="wkfm-1652.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1652</note></noteGrp></org>
+                <org xml:id="wkfm__47555">
+                     <orgName>Claudius Saliet und Bruder</orgName>
+                  <noteGrp><note target="wkfm-1651.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1651</note><note target="wkfm-1652.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1652</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

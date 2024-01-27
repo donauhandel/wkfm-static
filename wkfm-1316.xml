@@ -126,13 +126,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46668">
-                     <persName>
-                        <forename>None</forename>
-                        <surname>Salvini</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-1316.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1316</note></noteGrp></person>
-                <person xml:id="wkfm__4528" sameAs="#wkfm__44892 ">
+    <back><listPerson><person xml:id="wkfm__4528" sameAs="#wkfm__44892 ">
                      <persName>
                         <forename>Bartholomäus</forename>
                         <surname>Patuzzi</surname>
@@ -199,5 +193,11 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 469.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0283.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0283</note><note target="wkfm-1315.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1315</note><note target="wkfm-1316.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1316</note></noteGrp></person>
+                <person xml:id="wkfm__46668">
+                     <persName>
+                        <forename>None</forename>
+                        <surname>Salvini</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-1316.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1316</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

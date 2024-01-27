@@ -81,7 +81,7 @@
                <lb facs="#facs_83_r2l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_83_r2l2" n="N003"/><rs type="person" ref="#wkfm__43179">Cammerling Joseph Gerhardt</rs> burgerlicher Eysenhandler
                <lb facs="#facs_83_r2l3" n="N004"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_83_r2l4" n="N005"/><rs type="person" ref="#wkfm__47234">Joseph Gerhardt Cammerling</rs> laut Anbringen de ps: 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice>
+               <lb facs="#facs_83_r2l4" n="N005"/><rs type="org" ref="#wkfm__47234">Joseph Gerhardt Cammerling</rs> laut Anbringen de ps: 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice>
                <lb facs="#facs_83_r2l5" n="N006"/>725 N<hi style="superscript">o</hi> 199.
                <lb facs="#facs_83_r2l6" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_83_r2l7" n="N008"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
@@ -90,10 +90,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47234">
-                     <orgName>Joseph Gerhard Kammerling</orgName>
-                  <noteGrp><note target="wkfm-0403.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0403</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__43179">
+    <back><listPerson><person xml:id="wkfm__43179">
                      <persName>
                         <forename>Joseph Gerhard</forename>
                         <surname>Kammerling</surname>
@@ -114,5 +111,8 @@
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 424 (26. Mai 1717).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0403.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0403</note><note target="wkfm-0404.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0404</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47234">
+                     <orgName>Joseph Gerhard Kammerling</orgName>
+                  <noteGrp><note target="wkfm-0403.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0403</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

@@ -89,7 +89,7 @@
             <ab facs="#facs_78_r1">
                <lb facs="#facs_78_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_78_r1l2" n="N002"/>Mitls Anbringen de ps: 4<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 740 N<hi style="superscript">o</hi> 647 hat der <rs type="person" ref="#wkfm__43201">Anton Rathgeb</rs> angezeiget,
-               <lb facs="#facs_78_r1l4" n="N003"/>daß er seine raggion von <rs type="person" ref="#wkfm__46702">Balthasar Johann Rathgeb</rs> auf <rs type="person" ref="#wkfm__46730">Balthasar Johann Rathgeb
+               <lb facs="#facs_78_r1l4" n="N003"/>daß er seine raggion von <rs type="org" ref="#wkfm__46702">Balthasar Johann Rathgeb</rs> auf <rs type="org" ref="#wkfm__46730">Balthasar Johann Rathgeb
                <lb break="no" facs="#facs_78_r1l5" n="N004"/>seel: Söhne</rs> abzuändern entschlossen.
                <lb facs="#facs_78_r1l7" n="N005"/>Mitls Anbringen de ps: 3<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 746 N<hi style="superscript">o</hi> 2035 und oblatorien sine dato N<hi style="superscript">o</hi> 1135 hat der <rs type="person" ref="#wkfm__46169">Melchior Rathgeb</rs>
                <lb facs="#facs_78_r1l8" n="N006"/>respective angezeiget und kundgemacht, daß sein bruder <rs type="person" ref="#wkfm__43201">Anton Rathgeb</rs> derge-
@@ -110,34 +110,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46730">
-                     <orgName>Balthasar Johann Rathgeb sel. Söhne</orgName>
-                  <noteGrp><note target="wkfm-1421.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1421</note><note target="wkfm-1422.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1422</note><note target="wkfm-1429.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1429</note><note target="wkfm-1430.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1430</note></noteGrp></org>
-                <org xml:id="wkfm__46702">
-                     <orgName>Balthasar Johann Rathgeb</orgName>
-                  <noteGrp><note target="wkfm-1383.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1383</note><note target="wkfm-1421.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1421</note><note target="wkfm-1422.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1422</note><note target="wkfm-1429.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1429</note><note target="wkfm-1430.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1430</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__43201">
-                     <persName>
-                        <forename>Anton</forename>
-                        <surname>Rathgeb</surname>
-                     </persName>
-                     <death><date>1766</date></death>
-                     <residence type="Bürgerrecht">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann, Materialist, Hausinhaber</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-                     <listBibl>
-                        <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 496.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-1421.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1421</note><note target="wkfm-1422.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1422</note><note target="wkfm-1430.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1430</note></noteGrp></person>
-                <person xml:id="wkfm__46744">
+    <back><listPerson><person xml:id="wkfm__46744">
                      <persName>
                         <forename>Eva Theresia</forename>
                         <surname>Hayderin</surname>
@@ -165,5 +138,32 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0471.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0471</note><note target="wkfm-0609.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0609</note><note target="wkfm-1422.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1422</note><note target="wkfm-1429.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1429</note><note target="wkfm-1430.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1430</note></noteGrp></person>
-                </listPerson></back></text>
+                <person xml:id="wkfm__43201">
+                     <persName>
+                        <forename>Anton</forename>
+                        <surname>Rathgeb</surname>
+                     </persName>
+                     <death><date>1766</date></death>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann, Materialist, Hausinhaber</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+                     <listBibl>
+                        <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 496.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-1421.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1421</note><note target="wkfm-1422.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1422</note><note target="wkfm-1430.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1430</note></noteGrp></person>
+                </listPerson><listOrg><org xml:id="wkfm__46702">
+                     <orgName>Balthasar Johann Rathgeb</orgName>
+                  <noteGrp><note target="wkfm-1383.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1383</note><note target="wkfm-1421.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1421</note><note target="wkfm-1422.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1422</note><note target="wkfm-1429.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1429</note><note target="wkfm-1430.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1430</note></noteGrp></org>
+                <org xml:id="wkfm__46730">
+                     <orgName>Balthasar Johann Rathgeb sel. Söhne</orgName>
+                  <noteGrp><note target="wkfm-1421.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1421</note><note target="wkfm-1422.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1422</note><note target="wkfm-1429.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1429</note><note target="wkfm-1430.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1430</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

@@ -80,7 +80,7 @@
                <lb facs="#facs_3_r2l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_3_r2l2" n="N003"/><rs type="person" ref="#wkfm__3431">Lehmann Georg</rs> kay: könig: Niderlags Verwanter
                <lb facs="#facs_3_r2l3" n="N004"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_3_r2l4" n="N005"/><rs type="person" ref="#wkfm__46777">Georg Lehmann</rs> laut Anbringen de ps: 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 507
+               <lb facs="#facs_3_r2l4" n="N005"/><rs type="org" ref="#wkfm__46777">Georg Lehmann</rs> laut Anbringen de ps: 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 507
                <lb facs="#facs_3_r2l5" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_3_r2l6" n="N007"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_3_r2l7" n="N008"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
@@ -88,7 +88,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__3431" sameAs="#wkfm__22226 ">
+    <back><listOrg><org xml:id="wkfm__46777">
+                     <orgName>Georg Lehmann</orgName>
+                  <noteGrp><note target="wkfm-1103.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1103</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__3431" sameAs="#wkfm__22226 ">
                      <persName>
                         <forename>Georg</forename>
                         <surname>Lehmann</surname>
@@ -117,8 +120,5 @@
                         <bibl>Bachleitner/Eybl/Fischer, Geschichte des Buchhandels in Österreich, 71f.; Paisey, Buchdrucker, 153 (Lehmann), &amp;lt;span&amp;gt;Senfelder, Gottesacker, 260&amp;lt;/span&amp;gt;; Diefenbacher u.a., Nürnberger Buchgewerbe, 673; Senfelder, Gottesacker, 260.</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1103.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1103</note><note target="wkfm-1104.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1104</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46777">
-                     <orgName>Georg Lehmann</orgName>
-                  <noteGrp><note target="wkfm-1103.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1103</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

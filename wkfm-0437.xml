@@ -80,7 +80,7 @@
                <lb facs="#facs_117_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_117_r1l3" n="N003"/><rs type="person" ref="#wkfm__46140">Kaufmann Anton Marx</rs> burgerlicher Eysenhandler
                <lb facs="#facs_117_r1l4" n="N004"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_117_r1l5" n="N005"/><rs type="person" ref="#wkfm__47249">Antonj Marx Kaufmann</rs> laut Anbringen de ps: 25<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 735 N<hi style="superscript">o</hi> 216
+               <lb facs="#facs_117_r1l5" n="N005"/><rs type="org" ref="#wkfm__47249">Antonj Marx Kaufmann</rs> laut Anbringen de ps: 25<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 735 N<hi style="superscript">o</hi> 216
                <lb facs="#facs_117_r1l6" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_117_r1l7" n="N007"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_117_r1l8" n="N008"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
@@ -88,7 +88,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46140" sameAs="#wkfm__39164 ">
+    <back><listOrg><org xml:id="wkfm__47249">
+                     <orgName>Anton Marx Kaufmann</orgName>
+                  <noteGrp><note target="wkfm-0437.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0437</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__46140" sameAs="#wkfm__39164 ">
                      <persName>
                         <forename>Anton Marx</forename>
                         <surname>Kaufmann</surname>
@@ -109,8 +112,5 @@
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 425 (Dezember 1728).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0437.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0437</note><note target="wkfm-0438.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0438</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__47249">
-                     <orgName>Anton Marx Kaufmann</orgName>
-                  <noteGrp><note target="wkfm-0437.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0437</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

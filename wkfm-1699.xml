@@ -81,7 +81,7 @@
                <lb facs="#facs_241_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_241_r1l3" n="N003"/><rs type="person" ref="#wkfm__47612">Scherr Johann Gottfrid</rs> burgerlicher Handlsmann
                <lb facs="#facs_241_r1l4" n="N004"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_241_r1l5" n="N005"/><rs type="person" ref="#wkfm__47613">Johann Gottfrid Scherr</rs> laut Erklährung dd<hi style="superscript">to</hi> 3<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> 755 N<hi style="superscript">o</hi> 786
+               <lb facs="#facs_241_r1l5" n="N005"/><rs type="org" ref="#wkfm__47613">Johann Gottfrid Scherr</rs> laut Erklährung dd<hi style="superscript">to</hi> 3<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> 755 N<hi style="superscript">o</hi> 786
                <lb facs="#facs_241_r1l6" n="N006"/>welche derselbe mitls Anbringen de ps: eadem N<hi style="superscript">o</hi> 787 eingeleget
                <lb facs="#facs_241_r1l7" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_241_r1l8" n="N008"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
@@ -90,7 +90,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47612">
+    <back><listOrg><org xml:id="wkfm__47613">
+                     <orgName>Johann Gottfried Scherr</orgName>
+                  <noteGrp><note target="wkfm-1699.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1699</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__47612">
                      <persName>
                         <forename>Johann Gottfried</forename>
                         <surname>Scherr</surname>
@@ -111,8 +114,5 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1699.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1699</note><note target="wkfm-1700.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1700</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__47613">
-                     <orgName>Johann Gottfried Scherr</orgName>
-                  <noteGrp><note target="wkfm-1699.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1699</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

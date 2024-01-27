@@ -85,7 +85,7 @@
                <lb facs="#facs_31_r1l4" n="N004"/><seg type="orighead__firma">Firma oder Raggion</seg>
                <lb facs="#facs_31_r1l5" n="N005"/><rs type="person" ref="#wkfm__23558">Mathias Anckherl</rs> laut Erklährung dd<hi style="superscript">to</hi> 14<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 730 N<hi style="superscript">o</hi> 16
                <lb facs="#facs_31_r1l6" n="N006"/>Vermög Anbringen de ps 21<hi style="superscript">ten</hi> Aprilis 760 hat des <rs type="person" ref="#wkfm__43792">Mathias Ankerl <choice><expan/><abbr>seel.</abbr></choice> Wittib</rs> angezeiget,
-               <lb facs="#facs_31_r1l7" n="N007"/>das sie diese Handlung unter der Raggion: <rs type="person" ref="#wkfm__46593">Mathias Ankerl <choice><expan/><abbr>seel.</abbr></choice> Wittib</rs> fortführe, und 
+               <lb facs="#facs_31_r1l7" n="N007"/>das sie diese Handlung unter der Raggion: <rs type="org" ref="#wkfm__46593">Mathias Ankerl <choice><expan/><abbr>seel.</abbr></choice> Wittib</rs> fortführe, und 
                <lb facs="#facs_31_r1l8" n="N008"/>ihre firma eingelegt. vide firma <choice><expan/><abbr>nro</abbr></choice> 16 1/2.
                <lb facs="#facs_31_r1l9" n="N009"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_31_r1l10" n="N010"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
@@ -94,23 +94,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46593">
-                     <orgName>Matthias Ankerl sel. Witwe</orgName>
-                  <noteGrp><note target="wkfm-0032.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0032</note><note target="wkfm-0036.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0036</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__43792">
-                     <persName>
-                        <forename>None</forename>
-                        <surname>None</surname>
-                     </persName>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsfrau</occupation>
-               <noteGrp><note target="wkfm-0036.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0036</note></noteGrp></person>
-                <person xml:id="wkfm__23558">
+    <back><listPerson><person xml:id="wkfm__23558">
                      <persName>
                         <forename>Matthias</forename>
                         <surname>Ankerl</surname>
@@ -141,5 +125,21 @@
                         <bibl>Huchler, Bürgeraufnahmen, 340.</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0036.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0036</note><note target="wkfm-0037.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0037</note></noteGrp></person>
-                </listPerson></back></text>
+                <person xml:id="wkfm__43792">
+                     <persName>
+                        <forename>None</forename>
+                        <surname>None</surname>
+                     </persName>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsfrau</occupation>
+               <noteGrp><note target="wkfm-0036.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0036</note></noteGrp></person>
+                </listPerson><listOrg><org xml:id="wkfm__46593">
+                     <orgName>Matthias Ankerl sel. Witwe</orgName>
+                  <noteGrp><note target="wkfm-0032.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0032</note><note target="wkfm-0036.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0036</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

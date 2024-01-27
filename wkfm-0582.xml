@@ -82,7 +82,7 @@
                <lb facs="#facs_82_r1l2" n="N002"/>In obigen Anbringen de ps: 22<hi style="superscript">ten</hi> <choice><expan/><abbr>9br:</abbr></choice> 735 N<hi style="superscript">o</hi> 1967 hat sich der <rs type="person" ref="#wkfm__6849">Erdmann Tech</rs>
                <lb facs="#facs_82_r1l3" n="N003"/>und <rs type="person" ref="#wkfm__26689">Joh: Gottlob Heß</rs> erklähret das sie mit einander in Compagnie stehen.
                <lb facs="#facs_82_r1l4" n="N004"/>Mitls Anbringen de ps: 27<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 738 N<hi style="superscript">o</hi> 1921 und oblatorien dd<hi style="superscript">to</hi> <choice><expan/><abbr>Febr:</abbr></choice> 736 N<hi style="superscript">o</hi>
-               <lb facs="#facs_82_r1l5" n="N005"/>1116 hat der <rs type="person" ref="#wkfm__6849">Erdmann Tech</rs> angezeiget und kund gemacht, daß die Raggion <rs type="person" ref="#wkfm__8067">Heß
+               <lb facs="#facs_82_r1l5" n="N005"/>1116 hat der <rs type="person" ref="#wkfm__6849">Erdmann Tech</rs> angezeiget und kund gemacht, daß die Raggion <rs type="org" ref="#wkfm__8067">Heß
                <lb break="no" facs="#facs_82_r1l6" n="N006"/>und Tech</rs> geendiget und er sein Separirtes Negotium in proprio unter seinen Nahmen
                <lb facs="#facs_82_r1l7" n="N007"/>und interesse zu continuieren entschlossen.
                <lb facs="#facs_82_r1l8" n="N008"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
@@ -91,10 +91,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__8067">
-                     <orgName>Hess und Tech</orgName>
-                  <noteGrp><note target="wkfm-0581.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0581</note><note target="wkfm-0582.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0582</note><note target="wkfm-1015.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1015</note><note target="wkfm-1016.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1016</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__26689" sameAs="#wkfm__27506 wkfm__31306 wkfm__31325 ">
+    <back><listPerson><person xml:id="wkfm__26689" sameAs="#wkfm__27506 wkfm__31306 wkfm__31325 ">
                      <persName>
                         <forename>Johann Gottlob</forename>
                         <surname>Hess</surname>
@@ -119,5 +116,8 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                <noteGrp><note target="wkfm-0581.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0581</note><note target="wkfm-0582.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0582</note><note target="wkfm-1015.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1015</note><note target="wkfm-1016.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1016</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__8067">
+                     <orgName>Hess und Tech</orgName>
+                  <noteGrp><note target="wkfm-0581.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0581</note><note target="wkfm-0582.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0582</note><note target="wkfm-1015.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1015</note><note target="wkfm-1016.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1016</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

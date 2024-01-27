@@ -114,12 +114,12 @@
                <lb facs="#facs_95_r2l1" n="N003"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_95_r2l4" n="N004"/><rs type="person" ref="#wkfm__46187">Riesch Wolfgang</rs> k. k. Niderlags Verwanter
                <lb facs="#facs_95_r2l5" n="N005"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_95_r2l6" n="N006"/><rs type="person" ref="#wkfm__46749">Erhardt Riesch</rs> laut oblatorien dd<hi style="superscript">to</hi> 7<hi style="superscript">ten</hi> May 753 N<hi style="superscript">o</hi> 1139 welche derselbe
+               <lb facs="#facs_95_r2l6" n="N006"/><rs type="org" ref="#wkfm__46749">Erhardt Riesch</rs> laut oblatorien dd<hi style="superscript">to</hi> 7<hi style="superscript">ten</hi> May 753 N<hi style="superscript">o</hi> 1139 welche derselbe
                <lb facs="#facs_95_r2l7" n="N007"/>mitls anbringen de ps: 18<hi style="superscript">ten</hi> May 753 N<hi style="superscript">o</hi> 1140 in <choice><expan/><abbr>orig:</abbr></choice> <hi>E</hi> eingeleget
                <lb facs="#facs_95_r2l9" n="N008"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_95_r2l10" n="N009"/>In obigen Anbringen de ps: 18<hi style="superscript">ten</hi> May 753 <hi>h</hi> N<hi style="superscript">o</hi> 1140 und oblatorien dd<hi style="superscript">to</hi> 7<hi style="superscript">ten</hi> ej: N<hi style="superscript">o</hi> 1139
                <lb facs="#facs_95_r2l13" n="N010"/>hat der der <rs type="person" ref="#wkfm__46187">Wolfgang Riesch</rs> respective angezeiget und kund gemacht, das er
-               <lb facs="#facs_95_r2l14" n="N011"/>von seiner auf <rs type="person" ref="#wkfm__46749">Erhardt Riesch</rs> führenden Raggion die Firma seinem bedienten
+               <lb facs="#facs_95_r2l14" n="N011"/>von seiner auf <rs type="org" ref="#wkfm__46749">Erhardt Riesch</rs> führenden Raggion die Firma seinem bedienten
                <lb facs="#facs_95_r2l16" n="N012"/><rs type="person" ref="#wkfm__46751">Christoph Beckh</rs> ertheilet habe, auch in denen leztern dessen Firma nebst seinen
                <lb facs="#facs_95_r2l17" n="N013"/>eigenen beygeruket
                <lb facs="#facs_95_r2l18" n="N014"/><choice><expan/><abbr>Ao</abbr></choice> 764 seine firma samt Procura auf den <rs type="person" ref="#wkfm__46751">Christoph Peck</rs> eingeleget in oblatoriis
@@ -129,7 +129,7 @@
                <lb facs="#facs_95_r2l22" n="N018"/>de ps: 18<hi style="superscript">ten</hi> May 753 N<hi style="superscript">o</hi> 1140 eingelegte oblatorien dahin erlassen, daß, zumahlen
                <lb facs="#facs_95_r2l23" n="N019"/>sein Vatter <rs type="person" ref="#wkfm__34454">Erhardt Riesch</rs> verstorben, und ihn zum universal Erben benehnet, er
                <lb facs="#facs_95_r2l24" n="N020"/>gleich wie der Verstorbene das negotium mit seiner Unterstüzung angefangen und fort-
-               <lb facs="#facs_95_r2l25" n="N021"/>geführert, ein solches unter dem Nahmen <rs type="person" ref="#wkfm__46749">Erhardt Riesch</rs> dergestalten <hi>zu</hi> continuiren <hi>ge</hi>
+               <lb facs="#facs_95_r2l25" n="N021"/>geführert, ein solches unter dem Nahmen <rs type="org" ref="#wkfm__46749">Erhardt Riesch</rs> dergestalten <hi>zu</hi> continuiren <hi>ge</hi>
                <lb facs="#facs_95_r2l26" n="N022"/>werde, daß nicht nur der befandliche Fundus verbleiben sondern alles unter seinem
                <lb facs="#facs_95_r2l27" n="N023"/>Obligo und Direction <hi>gefu</hi> die Firma anbey von ihm und dem <rs type="person" ref="#wkfm__46751">Christoph Bekh</rs> <hi>werde</hi>
                <lb facs="#facs_95_r2l28" n="N024"/>wie solche von beeden beygeruket, werde geführert werden.
@@ -141,7 +141,7 @@
                <lb facs="#facs_95_r2l34" n="N030"/>die eingesendete oblatorien eingelegt
                <lb facs="#facs_95_r2l35" n="N031"/>oben Sub: <choice><expan/><abbr>nro</abbr></choice> 1140 2/3
                <lb facs="#facs_95_r2l36" n="N032"/>Vermög Anbringen de pt: 3<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 775 hat der Hr. <rs type="person" ref="#wkfm__46187">Wolfgang v. 
-               <lb break="no" facs="#facs_95_r2l37" n="N033"/>Riesch</rs> angezeiget, das er die unter dem Namen <rs type="person" ref="#wkfm__46749">Erhard Riesch</rs> und
+               <lb break="no" facs="#facs_95_r2l37" n="N033"/>Riesch</rs> angezeiget, das er die unter dem Namen <rs type="org" ref="#wkfm__46749">Erhard Riesch</rs> und
                <lb facs="#facs_95_r2l38" n="N034"/>mit seinem obligo geführte handlung auch derselben accreditirte firma
                <lb facs="#facs_95_r2l39" n="N035"/>untern 31: Jener 775 mit Vorbehalt seiner Niderlags freyheit aufzu-
                <lb facs="#facs_95_r2l40" n="N036"/>heben sich entschlossen habe, also zwar das ebenbemeldte firma
@@ -154,38 +154,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46187">
-                     <persName>
-                        <forename>Wolfgang</forename>
-                        <surname>von Riesch</surname>
-                        <surname type="alt">Riesch</surname>
-                     </persName>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Bürgerrecht">
-                        <placeName key="#wkfm-place__2498">Lindau</placeName>
-                     </residence>
-                     <occupation>Handelsmann, Bankier</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-                     <occupation type="aemter">Freiherr</occupation>
-               <noteGrp><note target="wkfm-1447.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1447</note><note target="wkfm-1448.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1448</note></noteGrp></person>
-                <person xml:id="wkfm__34454">
-                     <persName>
-                        <forename>Erhard</forename>
-                        <surname>Riesch</surname>
-                     </persName>
-                     <death><date>1753</date></death>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-                     <listBibl>
-                        <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Kröpfel, Protestsantismus, Anhang 1, S. 8.&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-1435.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1435</note><note target="wkfm-1436.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1436</note><note target="wkfm-1447.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1447</note></noteGrp></person>
-                <person xml:id="wkfm__8701" sameAs="#wkfm__10165 ">
+    <back><listPerson><person xml:id="wkfm__8701" sameAs="#wkfm__10165 ">
                      <persName>
                         <forename>Johann Heinrich</forename>
                         <surname>Frohn</surname>
@@ -219,6 +188,37 @@ Jahrhunderts. Zeitschrift des Historischen Vereines für Steiermark 19
                      <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Angestellter und Prokurist der Firma Eberhard Riesch</occupation>
                <noteGrp><note target="wkfm-1447.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1447</note></noteGrp></person>
+                <person xml:id="wkfm__46187">
+                     <persName>
+                        <forename>Wolfgang</forename>
+                        <surname>von Riesch</surname>
+                        <surname type="alt">Riesch</surname>
+                     </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__2498">Lindau</placeName>
+                     </residence>
+                     <occupation>Handelsmann, Bankier</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+                     <occupation type="aemter">Freiherr</occupation>
+               <noteGrp><note target="wkfm-1447.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1447</note><note target="wkfm-1448.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1448</note></noteGrp></person>
+                <person xml:id="wkfm__34454">
+                     <persName>
+                        <forename>Erhard</forename>
+                        <surname>Riesch</surname>
+                     </persName>
+                     <death><date>1753</date></death>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+                     <listBibl>
+                        <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Kröpfel, Protestsantismus, Anhang 1, S. 8.&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-1435.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1435</note><note target="wkfm-1436.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1436</note><note target="wkfm-1447.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1447</note></noteGrp></person>
                 </listPerson><listOrg><org xml:id="wkfm__46749">
                      <orgName>Erhard Riesch</orgName>
                   <noteGrp><note target="wkfm-1435.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1435</note><note target="wkfm-1447.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1447</note><note target="wkfm-1448.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1448</note></noteGrp></org>

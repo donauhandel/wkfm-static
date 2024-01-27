@@ -97,7 +97,7 @@
                <lb facs="#facs_105_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_105_r1l3" n="N003"/><rs type="person" ref="#wkfm__46288">Traunwißer Johann Adam</rs> burgerlicher Handlsmann
                <lb facs="#facs_105_r1l4" n="N004"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_105_r1l5" n="N005"/><rs type="person" ref="#wkfm__46289">Johann Adam Traunwißer</rs> laut Erklährung dd<hi style="superscript">to</hi> 22<hi style="superscript">ten</hi> Junii 754 N<hi style="superscript">o</hi> 292
+               <lb facs="#facs_105_r1l5" n="N005"/><rs type="org" ref="#wkfm__46289">Johann Adam Traunwißer</rs> laut Erklährung dd<hi style="superscript">to</hi> 22<hi style="superscript">ten</hi> Junii 754 N<hi style="superscript">o</hi> 292
                <lb facs="#facs_105_r1l6" n="N006"/>welche der Supl: Mitls Anbringen de ps: eodem N<hi style="superscript">o</hi> 293 eingeleget.
                <lb facs="#facs_105_r1l7" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_105_r1l8" n="N008"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
@@ -122,7 +122,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46288">
+    <back><listOrg><org xml:id="wkfm__46289">
+                     <orgName>Johann Adam Traunwieser</orgName>
+                  <noteGrp><note target="wkfm-0605.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0605</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__46288">
                      <persName>
                         <forename>Johann Adam</forename>
                         <forename type="alt">Adam</forename>
@@ -146,12 +149,6 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0605.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0605</note><note target="wkfm-0606.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0606</note></noteGrp></person>
-                <person xml:id="wkfm__46290" sameAs="#wkfm__25429 ">
-                     <persName>
-                        <forename>Matthias</forename>
-                        <surname>Auer</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-0605.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0605</note></noteGrp></person>
                 <person xml:id="wkfm__9468" sameAs="#wkfm__18968 wkfm__46774 ">
                      <persName>
                         <forename>Wilhelm</forename>
@@ -184,8 +181,11 @@
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Raynaud, Savoyiardische Einwanderungen, 174 (&amp;#34;Genamy, Gauillaume&amp;#34;, Lebensdaten); Huchler, Bürgeraufnahmen, 421 (13. Mai 1719: &amp;#34;Janamy&amp;#34;).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0605.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0605</note><note target="wkfm-1069.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1069</note><note target="wkfm-1070.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1070</note><note target="wkfm-1437.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1437</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46289">
-                     <orgName>Johann Adam Traunwieser</orgName>
-                  <noteGrp><note target="wkfm-0605.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0605</note></noteGrp></org>
-                </listOrg></back></text>
+                <person xml:id="wkfm__46290" sameAs="#wkfm__25429 ">
+                     <persName>
+                        <forename>Matthias</forename>
+                        <surname>Auer</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0605.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0605</note></noteGrp></person>
+                </listPerson></back></text>
 </TEI>

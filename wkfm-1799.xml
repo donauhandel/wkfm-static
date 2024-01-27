@@ -91,7 +91,7 @@
                <lb facs="#facs_93_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_93_r1l2" n="N003"/><rs type="person" ref="#wkfm__47018">Wannerer Andre</rs> burgerlicher Handlsmann
                <lb facs="#facs_93_r1l3" n="N004"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_93_r1l4" n="N005"/><rs type="person" ref="#wkfm__47019">Andre Wonnerer</rs> laut Erklährung dd<hi style="superscript">to</hi> 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 741 N<hi style="superscript">o</hi> 828
+               <lb facs="#facs_93_r1l4" n="N005"/><rs type="org" ref="#wkfm__47019">Andre Wonnerer</rs> laut Erklährung dd<hi style="superscript">to</hi> 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 741 N<hi style="superscript">o</hi> 828
                <lb facs="#facs_93_r1l5" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_93_r1l7" n="N007"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_93_r1l8" n="N008"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
@@ -110,7 +110,13 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47018">
+    <back><listPerson><person xml:id="wkfm__47021">
+                     <persName>
+                        <forename>Klara Laisia (?)</forename>
+                        <surname>Wannerer</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-1799.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1799</note></noteGrp></person>
+                <person xml:id="wkfm__47018">
                      <persName>
                         <forename>Andre</forename>
                         <surname>Wannerer</surname>
@@ -135,12 +141,6 @@
                      <persName>
                         <forename>Maria Antonia</forename>
                         <surname>Wagnerin</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-1799.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1799</note></noteGrp></person>
-                <person xml:id="wkfm__47021">
-                     <persName>
-                        <forename>Klara Laisia (?)</forename>
-                        <surname>Wannerer</surname>
                      </persName>
                <noteGrp><note target="wkfm-1799.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1799</note></noteGrp></person>
                 </listPerson><listOrg><org xml:id="wkfm__47019">

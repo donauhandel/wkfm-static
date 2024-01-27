@@ -87,7 +87,7 @@
                <lb facs="#facs_37_r3l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_37_r3l3" n="N003"/><rs type="person" ref="#wkfm__46218">Dywaldt Johann Berhard</rs> burgerlicher Handlsmann
                <lb facs="#facs_37_r3l4" n="N004"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_37_r3l5" n="N005"/><rs type="person" ref="#wkfm__46219">Johann Bernhard Dywaldt</rs> laut Erklährung dd<hi style="superscript">to</hi> 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725
+               <lb facs="#facs_37_r3l5" n="N005"/><rs type="org" ref="#wkfm__46219">Johann Bernhard Dywaldt</rs> laut Erklährung dd<hi style="superscript">to</hi> 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725
                <lb facs="#facs_37_r3l6" n="N006"/>N<hi style="superscript">o</hi> 260
                <lb facs="#facs_37_r3l7" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_37_r3l8" n="N008"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
@@ -96,7 +96,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46218">
+    <back><listOrg><org xml:id="wkfm__46219">
+                     <orgName>Johann Bernhard Diewald</orgName>
+                  <noteGrp><note target="wkfm-0537.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0537</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__46218">
                      <persName>
                         <forename>Johann Bernhard</forename>
                         <surname>Diewald</surname>
@@ -122,8 +125,5 @@
                         <bibl>Huchler, Bürgeraufnahmen, 366.</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0537.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0537</note><note target="wkfm-0538.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0538</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46219">
-                     <orgName>Johann Bernhard Diewald</orgName>
-                  <noteGrp><note target="wkfm-0537.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0537</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

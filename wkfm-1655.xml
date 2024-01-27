@@ -85,7 +85,7 @@
                <lb facs="#facs_197_r1l1" n="N003"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_197_r1l2" n="N004"/><rs type="person" ref="#wkfm__47561">Schillinger Johann</rs> burgerlicher Handlsmann
                <lb facs="#facs_197_r1l3" n="N005"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_197_r1l4" n="N006"/><rs type="person" ref="#wkfm__47562">Johann Schillinger</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 764
+               <lb facs="#facs_197_r1l4" n="N006"/><rs type="org" ref="#wkfm__47562">Johann Schillinger</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 764
                <lb facs="#facs_197_r1l5" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_197_r1l6" n="N008"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_197_r1l7" n="N009"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
@@ -96,13 +96,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47563">
-                     <persName>
-                        <forename>Anna Maria</forename>
-                        <surname>Schillinger</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-1655.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1655</note></noteGrp></person>
-                <person xml:id="wkfm__47561" sameAs="#wkfm__22147 ">
+    <back><listOrg><org xml:id="wkfm__47562">
+                     <orgName>Johann Schillinger</orgName>
+                  <noteGrp><note target="wkfm-1655.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1655</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__47561" sameAs="#wkfm__22147 ">
                      <persName>
                         <forename>Johann</forename>
                         <surname>Schillinger</surname>
@@ -122,8 +119,11 @@
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 514.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1655.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1655</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__47562">
-                     <orgName>Johann Schillinger</orgName>
-                  <noteGrp><note target="wkfm-1655.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1655</note></noteGrp></org>
-                </listOrg></back></text>
+                <person xml:id="wkfm__47563">
+                     <persName>
+                        <forename>Anna Maria</forename>
+                        <surname>Schillinger</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-1655.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1655</note></noteGrp></person>
+                </listPerson></back></text>
 </TEI>

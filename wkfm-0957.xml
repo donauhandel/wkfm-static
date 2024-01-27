@@ -84,7 +84,7 @@
                <lb facs="#facs_37_r3l1" n="N003"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_37_r3l3" n="N004"/><rs type="person" ref="#wkfm__46463">Hofgartner Martin Wilhelm</rs> burgerlicher Handlsmann
                <lb facs="#facs_37_r3l4" n="N005"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_37_r3l5" n="N006"/><rs type="person" ref="#wkfm__46464">Martin Wilhelm Hofgartner</rs> laut Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> Apr: 725 N<hi style="superscript">o</hi>
+               <lb facs="#facs_37_r3l5" n="N006"/><rs type="org" ref="#wkfm__46464">Martin Wilhelm Hofgartner</rs> laut Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> Apr: 725 N<hi style="superscript">o</hi>
                <lb facs="#facs_37_r3l6" n="N007"/>442
                <lb facs="#facs_37_r3l7" n="N008"/>Vermög Anbringen de ps: 21<hi style="superscript">ten</hi> Aprilis 760 hat die <rs type="person" ref="#wkfm__46465">Martin Hofgartnerische
                <lb break="no" facs="#facs_37_r3l8" n="N009"/>Wittib</rs> ihre firma eingelegt <choice><expan/><abbr>nro</abbr></choice> 442 1/2
@@ -98,7 +98,21 @@
     <back><listOrg><org xml:id="wkfm__46464">
                      <orgName>Martin Wilhelm Hofgartner</orgName>
                   <noteGrp><note target="wkfm-0957.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0957</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__46463">
+                </listOrg><listPerson><person xml:id="wkfm__46465">
+                     <persName>
+                        <forename>None</forename>
+                        <surname>None</surname>
+                     </persName>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsfrau</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-0957.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0957</note></noteGrp></person>
+                <person xml:id="wkfm__46463">
                      <persName>
                         <forename>Martin Wilhelm</forename>
                         <surname>Hofgartner</surname>
@@ -122,20 +136,6 @@
                      <listBibl>
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 412.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
-               <noteGrp><note target="wkfm-0957.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0957</note></noteGrp></person>
-                <person xml:id="wkfm__46465">
-                     <persName>
-                        <forename>None</forename>
-                        <surname>None</surname>
-                     </persName>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsfrau</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0957.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0957</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

@@ -84,7 +84,7 @@
                <lb facs="#facs_7_r1l1" n="N001"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_7_r1l2" n="N002"/><rs type="person" ref="#wkfm__22849">Ott Joseph Leopold</rs> burgerlicher Leinwathandler
                <lb facs="#facs_7_r1l3" n="N003"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_7_r1l4" n="N004"/><rs type="person" ref="#wkfm__46646">Joseph Leopold Ott</rs> laut Anbringen de ps: 23<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 725 N<hi style="superscript">o</hi> 612
+               <lb facs="#facs_7_r1l4" n="N004"/><rs type="org" ref="#wkfm__46646">Joseph Leopold Ott</rs> laut Anbringen de ps: 23<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 725 N<hi style="superscript">o</hi> 612
                <lb facs="#facs_7_r1l5" n="N005"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_7_r1l6" n="N006"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_7_r1l7" n="N007"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
@@ -92,7 +92,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__22849">
+    <back><listOrg><org xml:id="wkfm__46646">
+                     <orgName>Joseph Leopold Ott</orgName>
+                  <noteGrp><note target="wkfm-1335.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1335</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__22849">
                      <persName>
                         <forename>Joseph Leopold</forename>
                         <surname>Ott</surname>
@@ -115,8 +118,5 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 474.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1335.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1335</note><note target="wkfm-1336.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1336</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46646">
-                     <orgName>Joseph Leopold Ott</orgName>
-                  <noteGrp><note target="wkfm-1335.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1335</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

@@ -85,7 +85,7 @@
                <lb facs="#facs_97_r2l1" n="N003"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_97_r2l2" n="N004"/><rs type="person" ref="#wkfm__29648">Vötter Leopold</rs> burgerlicher Handlsmann
                <lb facs="#facs_97_r2l3" n="N005"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_97_r2l4" n="N006"/><rs type="person" ref="#wkfm__47128">Leopold Vötter</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 363.
+               <lb facs="#facs_97_r2l4" n="N006"/><rs type="org" ref="#wkfm__47128">Leopold Vötter</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 363.
                <lb facs="#facs_97_r2l5" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_97_r2l6" n="N008"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_97_r2l7" n="N009"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
@@ -97,10 +97,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47128">
-                     <orgName>Leopold Vetter</orgName>
-                  <noteGrp><note target="wkfm-0765.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0765</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__29648">
+    <back><listPerson><person xml:id="wkfm__29648">
                      <persName>
                         <forename>Leopold</forename>
                         <surname>Vetter</surname>
@@ -125,5 +122,8 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 553 (März 1738: &amp;#34;Vötter&amp;#34;).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0765.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0765</note><note target="wkfm-0766.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0766</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47128">
+                     <orgName>Leopold Vetter</orgName>
+                  <noteGrp><note target="wkfm-0765.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0765</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

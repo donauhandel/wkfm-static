@@ -84,7 +84,7 @@
                <lb facs="#facs_54_r2l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 18<hi style="superscript">ten</hi> Julii 726 N<hi style="superscript">o</hi> 407 hat sich der
                <lb facs="#facs_54_r2l3" n="N003"/><rs type="person" ref="#wkfm__19817">Gouttro</rs> geäusseret, daß er mit keinen Compagnon verstanden seye.
                <lb facs="#facs_54_r2l4" n="N004"/>In obiger Erklährung dd<hi style="superscript">to</hi> 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 727 N<hi style="superscript">o</hi> 1952 hat sich die
-               <lb facs="#facs_54_r2l5" n="N005"/>Raggion <rs type="person" ref="#wkfm__46333">Gouttro et Schußbökh</rs> geäusseret, daß der <rs type="person" ref="#wkfm__46334">Johann
+               <lb facs="#facs_54_r2l5" n="N005"/>Raggion <rs type="org" ref="#wkfm__46333">Gouttro et Schußbökh</rs> geäusseret, daß der <rs type="person" ref="#wkfm__46334">Johann
                <lb break="no" facs="#facs_54_r2l6" n="N006"/>Schußbökh</rs> mit dem <rs type="person" ref="#wkfm__19817">Franz Gouttro</rs> in Compagnie getreten seye
                <lb facs="#facs_54_r2l7" n="N007"/>beede diese Handlung miteinander führen
                <lb facs="#facs_54_r2l8" n="N008"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
@@ -96,10 +96,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46333">
-                     <orgName>Gouttro und Schußböck</orgName>
-                  <noteGrp><note target="wkfm-0865.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0865</note><note target="wkfm-0866.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0866</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__46334">
+    <back><listPerson><person xml:id="wkfm__46334">
                      <persName>
                         <forename>Johann</forename>
                         <surname>Schußböck</surname>
@@ -142,5 +139,8 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 390 (Februar 1727); Raynaud, Savoyardische Einwanderungen, 87.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0865.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0865</note><note target="wkfm-0866.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0866</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46333">
+                     <orgName>Gouttro und Schußböck</orgName>
+                  <noteGrp><note target="wkfm-0865.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0865</note><note target="wkfm-0866.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0866</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

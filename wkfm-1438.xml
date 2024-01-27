@@ -101,7 +101,7 @@
                <lb facs="#facs_86_r1l4" n="N004"/>N<hi style="superscript">o</hi> 2037 eingeleget, kraft welchen die societaet von 1<hi style="superscript">ten</hi> auf 6 Jahr <hi>stab</hi> dergestalten sta-
                <lb facs="#facs_86_r1l5" n="N005"/>biliret worden, daß hievon ohne Erhüblichen Ursachen oder beeder Einwilligung hievon
                <lb facs="#facs_86_r1l6" n="N006"/>nicht abgegangen <hi>werden,</hi> und Ein Jahr vor Endigung dieser Zeit die Unterredung
-               <lb facs="#facs_86_r1l7" n="N007"/>gepflogen werden, <hi>so</hi> die Raggion <rs type="person" ref="#wkfm__43988">Gebrüder Ruard</rs> seyn, und der <rs type="person" ref="#wkfm__46754">Valentin</rs> dem <rs type="person" ref="#wkfm__43802">Johann
+               <lb facs="#facs_86_r1l7" n="N007"/>gepflogen werden, <hi>so</hi> die Raggion <rs type="org" ref="#wkfm__43988">Gebrüder Ruard</rs> seyn, und der <rs type="person" ref="#wkfm__46754">Valentin</rs> dem <rs type="person" ref="#wkfm__43802">Johann
                <lb break="no" facs="#facs_86_r1l8" n="N008"/>Baptista</rs> seinen in 37000 fl bestehenden Fundum dermassen <unclear>aquasciren,</unclear> das jedoch
                <lb facs="#facs_86_r1l9" n="N009"/>der Verlust bey denen debitorum ihm <rs type="person" ref="#wkfm__43802">Johann Baptista</rs> allein notiret werden, und er
                <lb facs="#facs_86_r1l10" n="N010"/><rs type="person" ref="#wkfm__46754">Valentin</rs> <hi>die Mark</hi> daselber keine Einlag leistet, die Märkte und Reisen ver-
@@ -126,20 +126,12 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__43988">
-                     <orgName>Gebrüder Ruard</orgName>
-                  <noteGrp><note target="wkfm-0299.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0299</note><note target="wkfm-1437.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1437</note><note target="wkfm-1438.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1438</note><note target="wkfm-1693.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1693</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__43802" sameAs="#wkfm__38592 wkfm__42025 ">
+    <back><listPerson><person xml:id="wkfm__46755">
                      <persName>
-                        <forename>Johann Baptist</forename>
-                        <surname>Ruard</surname>
+                        <forename>Maria Anna</forename>
+                        <surname>Orsetin</surname>
                      </persName>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-               <noteGrp><note target="wkfm-0052.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0052</note><note target="wkfm-0291.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0291</note><note target="wkfm-1437.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1437</note><note target="wkfm-1438.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1438</note><note target="wkfm-1441.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1441</note></noteGrp></person>
+               <noteGrp><note target="wkfm-1438.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1438</note></noteGrp></person>
                 <person xml:id="wkfm__46754">
                      <persName>
                         <forename>Valentin</forename>
@@ -151,11 +143,19 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                <noteGrp><note target="wkfm-1437.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1437</note><note target="wkfm-1438.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1438</note></noteGrp></person>
-                <person xml:id="wkfm__46755">
+                <person xml:id="wkfm__43802" sameAs="#wkfm__38592 wkfm__42025 ">
                      <persName>
-                        <forename>Maria Anna</forename>
-                        <surname>Orsetin</surname>
+                        <forename>Johann Baptist</forename>
+                        <surname>Ruard</surname>
                      </persName>
-               <noteGrp><note target="wkfm-1438.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1438</note></noteGrp></person>
-                </listPerson></back></text>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+               <noteGrp><note target="wkfm-0052.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0052</note><note target="wkfm-0291.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0291</note><note target="wkfm-1437.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1437</note><note target="wkfm-1438.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1438</note><note target="wkfm-1441.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1441</note></noteGrp></person>
+                </listPerson><listOrg><org xml:id="wkfm__43988">
+                     <orgName>Gebrüder Ruard</orgName>
+                  <noteGrp><note target="wkfm-0299.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0299</note><note target="wkfm-1437.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1437</note><note target="wkfm-1438.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1438</note><note target="wkfm-1693.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1693</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

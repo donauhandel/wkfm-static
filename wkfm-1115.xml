@@ -81,7 +81,7 @@
                <lb facs="#facs_15_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_15_r1l3" n="N003"/><rs type="person" ref="#wkfm__26314">Lüders Johann</rs> hofbefreyter Handlsmann
                <lb facs="#facs_15_r1l4" n="N004"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_15_r1l5" n="N005"/><rs type="person" ref="#wkfm__46788">Johann Lüders</rs> laut Anbringen von dessen bedienten <rs type="person" ref="#wkfm__46789">Johann Samuel <unclear>Bößler</unclear></rs>
+               <lb facs="#facs_15_r1l5" n="N005"/><rs type="org" ref="#wkfm__46788">Johann Lüders</rs> laut Anbringen von dessen bedienten <rs type="person" ref="#wkfm__46789">Johann Samuel <unclear>Bößler</unclear></rs>
                <lb facs="#facs_15_r1l6" n="N006"/>de ps: 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 512
                <lb facs="#facs_15_r1l7" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_15_line_1624519952332_2208" n="N008"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
@@ -90,7 +90,17 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__26314">
+    <back><listPerson><person xml:id="wkfm__46789">
+                     <persName>
+                        <forename>Johann Samuel</forename>
+                        <surname>Bößler</surname>
+                     </persName>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Angestellter bei Johann Lüders</occupation>
+               <noteGrp><note target="wkfm-1115.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1115</note></noteGrp></person>
+                <person xml:id="wkfm__26314">
                      <persName>
                         <forename>Johann</forename>
                         <surname>Lüders</surname>
@@ -100,16 +110,6 @@
                      <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
-               <noteGrp><note target="wkfm-1115.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1115</note></noteGrp></person>
-                <person xml:id="wkfm__46789">
-                     <persName>
-                        <forename>Johann Samuel</forename>
-                        <surname>Bößler</surname>
-                     </persName>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Angestellter bei Johann Lüders</occupation>
                <noteGrp><note target="wkfm-1115.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1115</note></noteGrp></person>
                 </listPerson><listOrg><org xml:id="wkfm__46788">
                      <orgName>Johann Lüders</orgName>

@@ -85,7 +85,7 @@
                <lb facs="#facs_133_r3l1" n="N003"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_133_r3l4" n="N004"/><rs type="person" ref="#wkfm__15956">Satzger Johann Anton</rs> burgerlicher Handlsmann
                <lb facs="#facs_133_r3l5" n="N005"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_133_r3l6" n="N006"/><rs type="person" ref="#wkfm__47493">Johannes Anth: Satzger</rs> laut Erklährung dd<hi style="superscript">to</hi> 11<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 733
+               <lb facs="#facs_133_r3l6" n="N006"/><rs type="org" ref="#wkfm__47493">Johannes Anth: Satzger</rs> laut Erklährung dd<hi style="superscript">to</hi> 11<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 733
                <lb facs="#facs_133_r3l7" n="N007"/>N<hi style="superscript">o</hi> 722
                <lb facs="#facs_133_r3l8" n="N008"/>Vermög Anbringen de ps: 8<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 764 hat sich des <rs type="person" ref="#wkfm__47494">Johann Anton Sazger <choice><expan/><abbr>seel:</abbr></choice> Wittib</rs>
                <lb facs="#facs_133_r3l9" n="N009"/>erkläret, daß sie diese Handlung bis St. Michäeli forführen wolle, und ihre firma eingeleget <choice><expan/><abbr>nro:</abbr></choice> 722 1/2
@@ -96,21 +96,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47494">
-                     <persName>
-                        <forename>None</forename>
-                        <surname>None</surname>
-                     </persName>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsfrau</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-1591.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1591</note></noteGrp></person>
-                <person xml:id="wkfm__15956">
+    <back><listOrg><org xml:id="wkfm__47493">
+                     <orgName>Johannes Anton Sazger</orgName>
+                  <noteGrp><note target="wkfm-1591.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1591</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__15956">
                      <persName>
                         <forename>Johann Anton</forename>
                         <surname>Sazger</surname>
@@ -135,8 +124,19 @@
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 509 (&amp;#34;Sätzger&amp;#34;).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1591.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1591</note><note target="wkfm-1592.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1592</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__47493">
-                     <orgName>Johannes Anton Sazger</orgName>
-                  <noteGrp><note target="wkfm-1591.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1591</note></noteGrp></org>
-                </listOrg></back></text>
+                <person xml:id="wkfm__47494">
+                     <persName>
+                        <forename>None</forename>
+                        <surname>None</surname>
+                     </persName>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsfrau</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-1591.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1591</note></noteGrp></person>
+                </listPerson></back></text>
 </TEI>

@@ -81,7 +81,7 @@
                <lb facs="#facs_13_r2l1" n="N003"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_13_r2l3" n="N004"/><rs type="person" ref="#wkfm__8109">Niller Johann Michäl</rs> burgerlicher Handlsmann
                <lb facs="#facs_13_r2l4" n="N005"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_13_r2l5" n="N006"/><rs type="person" ref="#wkfm__46658">Johann Michäl Niller</rs> <choice><expan/><abbr><hi>burgerl:</hi></abbr></choice> laut Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 603
+               <lb facs="#facs_13_r2l5" n="N006"/><rs type="org" ref="#wkfm__46658">Johann Michäl Niller</rs> <choice><expan/><abbr><hi>burgerl:</hi></abbr></choice> laut Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 603
                <lb facs="#facs_13_r2l6" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_13_r2l7" n="N008"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_13_r2l8" n="N009"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
@@ -89,7 +89,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__8109" sameAs="#wkfm__17837 ">
+    <back><listOrg><org xml:id="wkfm__46658">
+                     <orgName>Johann Michael Niller</orgName>
+                  <noteGrp><note target="wkfm-1305.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1305</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__8109" sameAs="#wkfm__17837 ">
                      <persName>
                         <forename>Johann Michael</forename>
                         <surname>Niller</surname>
@@ -116,8 +119,5 @@
                         <bibl>Harrer-Lucienfeld, Wien, seiner Häuser, Bd. 1.3, S. 708.; Huchler, Bürgeraufnahmen,&amp;amp;nbsp;531.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0455.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0455</note><note target="wkfm-1305.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1305</note><note target="wkfm-1306.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1306</note><note target="wkfm-1433.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1433</note><note target="wkfm-1443.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1443</note><note target="wkfm-1449.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1449</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46658">
-                     <orgName>Johann Michael Niller</orgName>
-                  <noteGrp><note target="wkfm-1305.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1305</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

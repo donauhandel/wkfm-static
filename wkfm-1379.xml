@@ -86,25 +86,51 @@
                <lb facs="#facs_27_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_27_r1l3" n="N003"/><rs type="person" ref="#wkfm__18191"><seg type="editorial_comment_seg"><unclear>Reitschl</unclear><note type="editorial_comment_note">Rietschl?</note></seg> Daniel Xaverius</rs>
                <lb facs="#facs_27_line_1624023323848_29" n="N004"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_27_r1l5" n="N005"/><rs type="person" ref="#wkfm__46696">Reitschlische Massa</rs> laut Anbringen deren administratoren de ps: 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725
+               <lb facs="#facs_27_r1l5" n="N005"/><rs type="org" ref="#wkfm__46696">Reitschlische Massa</rs> laut Anbringen deren administratoren de ps: 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725
                <lb facs="#facs_27_r1l6" n="N006"/>N<hi style="superscript">o</hi> 1049
                <lb facs="#facs_27_r1l7" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_27_r1l8" n="N008"/>In obigen Anbringen de ps: 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 1049 hat der <rs type="person" ref="#wkfm__8188">Ludwig Anton
                <lb break="no" facs="#facs_27_r1l9" n="N009"/>Visconti</rs> und <rs type="person" ref="#wkfm__46697">Johann Michäl <unclear>Symmann</unclear></rs> angezeiget, daß der <rs type="person" ref="#wkfm__18191">Reitschl</rs> seine
                <lb facs="#facs_27_line_1624023342225_38" n="N010"/>Handlung per cessionem seinem creditoribus übergeben und diese sie als Inspec-
                <lb facs="#facs_27_r1l11" n="N011"/>tores constituiret haben, sie auch diese Handlung <unclear>Noe</unclear> Creditoren unter der
-               <lb facs="#facs_27_r1l12" n="N012"/>Raggion <rs type="person" ref="#wkfm__46696">Reitschlische Massa</rs> führen
+               <lb facs="#facs_27_r1l12" n="N012"/>Raggion <rs type="org" ref="#wkfm__46696">Reitschlische Massa</rs> führen
                <lb facs="#facs_27_r1l13" n="N013"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_27_r1l14" n="N014"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
             </ab>
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46697">
+    <back><listOrg><org xml:id="wkfm__46696">
+                     <orgName>Reitschlische Massa</orgName>
+                  <noteGrp><note target="wkfm-1379.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1379</note><note target="wkfm-1380.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1380</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__46697">
                      <persName>
                         <forename>Johann Michael</forename>
                         <surname>Symann</surname>
                      </persName>
+               <noteGrp><note target="wkfm-1379.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1379</note></noteGrp></person>
+                <person xml:id="wkfm__18191" sameAs="#wkfm__13666 ">
+                     <persName>
+                        <forename>Daniel Xaver</forename>
+                        <surname>Ritschl</surname>
+                        <surname type="alt">Reitschl</surname>
+                     </persName>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zur Gundel im Gundelhof (Calender 1723)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <listBibl>
+                        <bibl>Huchler, Bürgeraufnahmen, 504 (&amp;#34;Ritschel&amp;#34;).</bibl>
+                     </listBibl>
                <noteGrp><note target="wkfm-1379.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1379</note></noteGrp></person>
                 <person xml:id="wkfm__8188" sameAs="#wkfm__11386 wkfm__9399 ">
                      <persName>
@@ -136,31 +162,5 @@
                         <bibl>&amp;lt;span&amp;gt;Dotter, Italienische Kaufleute, 137-139; Huchler, Bürgeraufnahmen, 550.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0709.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0709</note><note target="wkfm-0710.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0710</note><note target="wkfm-0820.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0820</note><note target="wkfm-1379.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1379</note></noteGrp></person>
-                <person xml:id="wkfm__18191" sameAs="#wkfm__13666 ">
-                     <persName>
-                        <forename>Daniel Xaver</forename>
-                        <surname>Ritschl</surname>
-                        <surname type="alt">Reitschl</surname>
-                     </persName>                    
-                     <residence type="Geschäftsadresse">
-                        <placeName>Zur Gundel im Gundelhof (Calender 1723)</placeName>
-                     </residence>
-                     <residence type="Bürgerrecht">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-                     <listBibl>
-                        <bibl>Huchler, Bürgeraufnahmen, 504 (&amp;#34;Ritschel&amp;#34;).</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-1379.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1379</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46696">
-                     <orgName>Reitschlische Massa</orgName>
-                  <noteGrp><note target="wkfm-1379.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1379</note><note target="wkfm-1380.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1380</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

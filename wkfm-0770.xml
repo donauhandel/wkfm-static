@@ -86,7 +86,7 @@
             <ab facs="#facs_102_r1">
                <lb facs="#facs_102_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_102_r1l2" n="N002"/>In obiger Erklährung sine dato N<hi style="superscript">o</hi> 366 hat sich der <rs type="person" ref="#wkfm__47133">Christian Peter 
-               <lb break="no" facs="#facs_102_r1l3" n="N003"/>Veigl</rs> und <rs type="person" ref="#wkfm__47135">Peter Farquet</rs> die Societaets Firma <rs type="person" ref="#wkfm__29979">Veigl und Farquet</rs> miteinan
+               <lb break="no" facs="#facs_102_r1l3" n="N003"/>Veigl</rs> und <rs type="person" ref="#wkfm__47135">Peter Farquet</rs> die Societaets Firma <rs type="org" ref="#wkfm__29979">Veigl und Farquet</rs> miteinan
                <lb facs="#facs_102_r1l4" n="N004"/>der eingeleget
                <lb facs="#facs_102_r1l5" n="N005"/>Mitls Anbringen de ps: 15<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 748 N<hi style="superscript">o</hi> 1945 hat der <rs type="person" ref="#wkfm__47133">Veigl</rs> angezeiget
                <lb facs="#facs_102_r1l6" n="N006"/>das, zumahlen ihm der <rs type="person" ref="#wkfm__47135">Farquet</rs> das an selben verkaufte Waaren Lager
@@ -104,28 +104,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47133">
-                     <persName>
-                        <forename>Christian Peter</forename>
-                        <surname>Veigl</surname>
-                     </persName>
-                     <death><date>1750</date></death>
-                     <residence type="Bürgerrecht">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-                     <listBibl>
-                        <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 549.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-0769.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0769</note><note target="wkfm-0770.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0770</note><note target="wkfm-0771.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0771</note><note target="wkfm-0772.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0772</note></noteGrp></person>
-                <person xml:id="wkfm__47135" sameAs="#wkfm__18681 ">
+    <back><listOrg><org xml:id="wkfm__29979">
+                     <orgName>Veigl und Farquet</orgName>
+                  <noteGrp><note target="wkfm-0769.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0769</note><note target="wkfm-0770.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0770</note><note target="wkfm-0771.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0771</note><note target="wkfm-0772.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0772</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__47135" sameAs="#wkfm__18681 ">
                      <persName>
                         <forename>Peter</forename>
                         <surname>Farquet</surname>
@@ -152,8 +134,26 @@
                         <surname type="alt">Veigl</surname>
                      </persName>
                <noteGrp><note target="wkfm-0770.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0770</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__29979">
-                     <orgName>Veigl und Farquet</orgName>
-                  <noteGrp><note target="wkfm-0769.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0769</note><note target="wkfm-0770.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0770</note><note target="wkfm-0771.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0771</note><note target="wkfm-0772.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0772</note></noteGrp></org>
-                </listOrg></back></text>
+                <person xml:id="wkfm__47133">
+                     <persName>
+                        <forename>Christian Peter</forename>
+                        <surname>Veigl</surname>
+                     </persName>
+                     <death><date>1750</date></death>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+                     <listBibl>
+                        <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 549.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0769.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0769</note><note target="wkfm-0770.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0770</note><note target="wkfm-0771.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0771</note><note target="wkfm-0772.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0772</note></noteGrp></person>
+                </listPerson></back></text>
 </TEI>

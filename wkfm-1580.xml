@@ -83,7 +83,7 @@
                <lb facs="#facs_122_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_122_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 23<hi style="superscript">ten</hi> Junii 728 N<hi style="superscript">o</hi> 1984 hat sich der <rs type="person" ref="#wkfm__43870">Schränzen-
                <lb break="no" facs="#facs_122_r1l3" n="N003"/>thaller</rs> geäusseret, daß er mit dem <rs type="person" ref="#wkfm__43868">Jacob Ingrueber</rs> in Compagnie
-               <lb facs="#facs_122_r1l4" n="N004"/>getretten seye und die Handlung unter der Societaets Raggion <rs type="person" ref="#wkfm__43869">Jacob
+               <lb facs="#facs_122_r1l4" n="N004"/>getretten seye und die Handlung unter der Societaets Raggion <rs type="org" ref="#wkfm__43869">Jacob
                <lb break="no" facs="#facs_122_r1l5" n="N005"/>Ingrueber et Compagnie</rs> <hi>geset</hi> geführet werden.
                <lb facs="#facs_122_r1l7" n="N006"/>In obigen Anbringen de ps: 1<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> 732 N<hi style="superscript">o</hi> 2047 hat <hi>sich</hi> der <rs type="person" ref="#wkfm__43870">Schräzen-
                <lb break="no" facs="#facs_122_r1l8" n="N007"/>thaller</rs> angezeiget, daß er sich schon vor einiger Zeit von dem <rs type="person" ref="#wkfm__43868">In-
@@ -95,7 +95,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43868">
+    <back><listOrg><org xml:id="wkfm__43869">
+                     <orgName>Jakob Ingruber &amp; Co.</orgName>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__43868">Ingruber, Jakob</persName></person></listPerson><noteGrp><note target="wkfm-1077.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1077</note><note target="wkfm-1078.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1078</note><note target="wkfm-1579.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1579</note><note target="wkfm-1580.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1580</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__43868">
                      <persName>
                         <forename>Jakob</forename>
                         <surname>Ingruber</surname>
@@ -140,8 +143,5 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1078.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1078</note><note target="wkfm-1579.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1579</note><note target="wkfm-1580.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1580</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__43869">
-                     <orgName>Jakob Ingruber &amp; Co.</orgName>
-                  <noteGrp><note target="wkfm-1077.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1077</note><note target="wkfm-1078.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1078</note><note target="wkfm-1579.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1579</note><note target="wkfm-1580.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1580</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

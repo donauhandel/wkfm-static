@@ -84,10 +84,10 @@
                <lb facs="#facs_5_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_5_r1l3" n="N003"/><rs type="person" ref="#wkfm__43854, 17264">Orsset Niclas Michäl</rs> burgerlicher Handlsmann	
                <lb facs="#facs_5_r1l4" n="N004"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_5_r1l5" n="N005"/><rs type="person" ref="#wkfm__17119">Gebrüder Orsset</rs> laut Erklährung  dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 2016
+               <lb facs="#facs_5_r1l5" n="N005"/><rs type="org" ref="#wkfm__17119">Gebrüder Orsset</rs> laut Erklährung  dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 2016
                <lb facs="#facs_5_r1l6" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_5_r1l7" n="N007"/>In obiger Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 2016 ist die Firma der
-               <lb facs="#facs_5_r1l8" n="N008"/>Raggion <rs type="person" ref="#wkfm__17119">Gebrüder Orsset</rs> von beeden sociis <rs type="person" ref="#wkfm__15430">Johann Orsset</rs> und <rs type="person" ref="#wkfm__43854, 17264">Niclas
+               <lb facs="#facs_5_r1l8" n="N008"/>Raggion <rs type="org" ref="#wkfm__17119">Gebrüder Orsset</rs> von beeden sociis <rs type="person" ref="#wkfm__15430">Johann Orsset</rs> und <rs type="person" ref="#wkfm__43854, 17264">Niclas
                <lb break="no" facs="#facs_5_r1l9" n="N009"/>Michäl Orsset</rs> eingeleget worden
                <lb facs="#facs_5_r1l10" n="N010"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_5_r1l11" n="N011"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
@@ -95,10 +95,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__17119">
-                     <orgName>Gebrüder Orset</orgName>
-                  <noteGrp><note target="wkfm-1331.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1331</note><note target="wkfm-1332.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1332</note><note target="wkfm-1333.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1333</note><note target="wkfm-1334.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1334</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__15430">
+    <back><listPerson><person xml:id="wkfm__15430">
                      <persName>
                         <forename>Johann</forename>
                         <surname>Orset</surname>
@@ -130,5 +127,8 @@
                         <bibl>&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 474 (6. Februar 1713)&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Raynaud, Savoyardische Einwanderungen, 211.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1331.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1331</note><note target="wkfm-1332.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1332</note><note target="wkfm-1333.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1333</note><note target="wkfm-1334.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1334</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__17119">
+                     <orgName>Gebrüder Orset</orgName>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__43854">Orset, Niklas Michael</persName></person><person><persName key="#wkfm__15430">Orset, Johann</persName></person></listPerson><noteGrp><note target="wkfm-1331.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1331</note><note target="wkfm-1332.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1332</note><note target="wkfm-1333.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1333</note><note target="wkfm-1334.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1334</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

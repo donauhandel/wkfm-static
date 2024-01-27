@@ -81,7 +81,7 @@
                <lb facs="#facs_67_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_67_r1l3" n="N003"/><rs type="person" ref="#wkfm__28324">Grämbsreither Franz Joseph</rs> burgerlicher Handlsmann
                <lb facs="#facs_67_r1l5" n="N004"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_67_r1l6" n="N005"/><rs type="person" ref="#wkfm__46346">Frantz Joseph Grämbsreither</rs> laut Erklährung dd<hi style="superscript">to</hi> 6<hi style="superscript">ten</hi>
+               <lb facs="#facs_67_r1l6" n="N005"/><rs type="org" ref="#wkfm__46346">Frantz Joseph Grämbsreither</rs> laut Erklährung dd<hi style="superscript">to</hi> 6<hi style="superscript">ten</hi>
                <lb facs="#facs_67_r1l7" n="N006"/>Junii 733 N<hi style="superscript">o</hi> 1957 det: sine dato N<hi style="superscript">o</hi> 1958 und dd<hi style="superscript">to</hi> 6<hi style="superscript">ten</hi> Junii 756 N<hi style="superscript">o</hi> 426.
                <lb facs="#facs_67_r1l8" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_67_r1l9" n="N008"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
@@ -90,10 +90,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46346">
-                     <orgName>Franz Joseph Grämbsreither</orgName>
-                  <noteGrp><note target="wkfm-0879.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0879</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__28324" sameAs="#wkfm__27585 ">
+    <back><listPerson><person xml:id="wkfm__28324" sameAs="#wkfm__27585 ">
                      <persName>
                         <forename>Franz Joseph</forename>
                         <surname>Grämbsreither</surname>
@@ -114,5 +111,8 @@
                         <bibl>Huchler, Bürgeraufnahmen, 437 (Juli 1733; &amp;#34;Krembsreitter&amp;#34;)&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0879.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0879</note><note target="wkfm-0880.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0880</note><note target="wkfm-0909.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0909</note><note target="wkfm-0928.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0928</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46346">
+                     <orgName>Franz Joseph Grämbsreither</orgName>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__10600">Härtl, Norbert</persName></person></listPerson><noteGrp><note target="wkfm-0879.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0879</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

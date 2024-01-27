@@ -84,7 +84,7 @@
                <lb facs="#facs_27_r4l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_27_r4l3" n="N003"/><rs type="person" ref="#wkfm__9652">Schleßinger Marx </rs>Jud
                <lb facs="#facs_27_r4l4" n="N004"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_27_r4l5" n="N005"/><rs type="person" ref="#wkfm__46626">Marx Schlesinger</rs> laut Anbringen de ps: 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 861
+               <lb facs="#facs_27_r4l5" n="N005"/><rs type="org" ref="#wkfm__46626">Marx Schlesinger</rs> laut Anbringen de ps: 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 861
                <lb facs="#facs_27_r4l6" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_27_r4l7" n="N007"/>Mitls Anbringen de ps: 29<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 726 N<hi style="superscript">o</hi> 1065 hat <hi>sich</hi> <rs type="person" ref="#wkfm__9652">Schlesinger</rs>
                <lb facs="#facs_27_r4l9" n="N008"/>die seinem Buchhalter <rs type="person" ref="#wkfm__30361">Nathan Seligmann</rs> <hi>ert</hi> unterm 28<hi style="superscript">ten</hi> <choice><expan/><abbr>9br:</abbr></choice> er=
@@ -96,24 +96,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__30361">
-                     <persName>
-                        <forename>Nathan</forename>
-                        <surname>Seligman</surname>
-                     </persName>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann, Buchhalter und Prokurist bei Marx Schlesinger</occupation>
-                     <occupation type="kaufmannsklasse">jüdisch</occupation>
-                     <listBibl>
-                        <bibl>Wachstein, Die Wiener Juden in Handel und Industrie.</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-1881.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1881</note><note target="wkfm-1889.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1889</note></noteGrp></person>
-                <person xml:id="wkfm__9652">
+    <back><listPerson><person xml:id="wkfm__9652">
                      <persName>
                         <forename>Marx</forename>
                         <surname>Schlesinger</surname>
@@ -130,6 +113,23 @@
                         <bibl>Wachstein, Die Wiener Juden in Handel und Industrie.</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1881.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1881</note><note target="wkfm-1882.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1882</note></noteGrp></person>
+                <person xml:id="wkfm__30361">
+                     <persName>
+                        <forename>Nathan</forename>
+                        <surname>Seligman</surname>
+                     </persName>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann, Buchhalter und Prokurist bei Marx Schlesinger</occupation>
+                     <occupation type="kaufmannsklasse">jüdisch</occupation>
+                     <listBibl>
+                        <bibl>Wachstein, Die Wiener Juden in Handel und Industrie.</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-1881.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1881</note><note target="wkfm-1889.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1889</note></noteGrp></person>
                 </listPerson><listOrg><org xml:id="wkfm__46626">
                      <orgName>Marx Schlesinger</orgName>
                   <noteGrp><note target="wkfm-1881.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1881</note></noteGrp></org>

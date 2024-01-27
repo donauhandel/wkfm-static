@@ -91,7 +91,7 @@
                <lb break="no" facs="#facs_16_r1l3" n="N003"/>Haymerl</rs> zugleich mit dem <rs type="person" ref="#wkfm__24831">Johann Wolfgang Haymerl</rs> erklähret, das sie ihre
                <lb facs="#facs_16_r1l4" n="N004"/>Handlung mit ihrer beyden Interesse und obligo ohne weithern Compagnon pro-
                <lb facs="#facs_16_r1l5" n="N005"/>sequiren
-               <lb facs="#facs_16_r1l6" n="N006"/>Mitls Anbringen de ps: 23<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 728 N<hi style="superscript">o</hi> 1851 hat die Raggion <rs type="person" ref="#wkfm__13569">Butterna und
+               <lb facs="#facs_16_r1l6" n="N006"/>Mitls Anbringen de ps: 23<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 728 N<hi style="superscript">o</hi> 1851 hat die Raggion <rs type="org" ref="#wkfm__13569">Butterna und
                <lb break="no" facs="#facs_16_r1l7" n="N007"/>Haymerl</rs> angezeiget, daß zwischen dem <rs type="person" ref="#wkfm__40680">Johann Matthias Butterna</rs>, dann
                <lb facs="#facs_16_r1l8" n="N008"/><hi>Johann</hi> <rs type="person" ref="#wkfm__11795">Philipp Joseph</rs> und <rs type="person" ref="#wkfm__24831">Johann Wolfgang Haymerl</rs> zu Aufricht und
                <lb facs="#facs_16_r1l9" n="N009"/>Fortpflanzung einer Gold und Silber Fabrique untern 30<hi style="superscript">ten</hi> Junii 727 eine
@@ -99,7 +99,7 @@
                <lb facs="#facs_16_r1l11" n="N011"/>Mitls Anbringen de ps: 14<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 748 N<hi style="superscript">o</hi> 1980 haben die gerichtlich aufgestelte
                <lb facs="#facs_16_r1l12" n="N012"/>administratores der Verlassenschaft des <rs type="person" ref="#wkfm__24831">Johann Wolfgang Haymerl</rs> als <rs type="person" ref="#wkfm__43905">Sigmund
                <lb break="no" facs="#facs_16_r1l13" n="N013"/>Joachin</rs> <hi>v. Haym</hi> und <rs type="person" ref="#wkfm__43906">Bernhard v. Haymerl</rs> angezeiget, daß die Handlung unter
-               <lb facs="#facs_16_r1l14" n="N014"/>der Raggion <rs type="person" ref="#wkfm__13569">Butterna und Haymerl</rs>, warunter der <rs type="person" ref="#wkfm__24831">Johann Wolfgang</rs> und <rs type="person" ref="#wkfm__11795">Phi-
+               <lb facs="#facs_16_r1l14" n="N014"/>der Raggion <rs type="org" ref="#wkfm__13569">Butterna und Haymerl</rs>, warunter der <rs type="person" ref="#wkfm__24831">Johann Wolfgang</rs> und <rs type="person" ref="#wkfm__11795">Phi-
                <lb break="no" facs="#facs_16_r1l15" n="N015"/>lip Joseph Haymerl</rs> mitinteressenten waren, bereits geendiget seye, und haben gebeten
                <lb facs="#facs_16_r1l16" n="N016"/>diese societaet judicialiter aufzuheben
                <lb facs="#facs_16_r1l17" n="N017"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
@@ -108,10 +108,13 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__13569">
-                     <orgName>Butterna und Heimerl</orgName>
-                  <noteGrp><note target="wkfm-0078.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0078</note><note target="wkfm-0079.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0079</note><note target="wkfm-0933.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0933</note><note target="wkfm-0934.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0934</note><note target="wkfm-0935.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0935</note><note target="wkfm-0936.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0936</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__24831">
+    <back><listPerson><person xml:id="wkfm__43906">
+                     <persName>
+                        <forename>Bernhard</forename>
+                        <surname>von Heimerl</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0195.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0195</note><note target="wkfm-0934.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0934</note><note target="wkfm-0936.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0936</note></noteGrp></person>
+                <person xml:id="wkfm__24831">
                      <persName>
                         <forename>Johann Wolf</forename>
                         <forename type="alt">Johann Wolfgang</forename>
@@ -150,13 +153,6 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                <noteGrp><note target="wkfm-0076.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0076</note><note target="wkfm-0077.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0077</note><note target="wkfm-0078.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0078</note><note target="wkfm-0079.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0079</note><note target="wkfm-0933.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0933</note><note target="wkfm-0934.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0934</note><note target="wkfm-0935.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0935</note><note target="wkfm-0936.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0936</note></noteGrp></person>
-                <person xml:id="wkfm__43905">
-                     <persName>
-                        <forename>Sigmund Joachim</forename>
-                        <surname>von Heimerl</surname>
-                     </persName>
-                     <occupation>N.Ö. Regierungssekretär</occupation>
-               <noteGrp><note target="wkfm-0195.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0195</note><note target="wkfm-0934.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0934</note><note target="wkfm-0936.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0936</note></noteGrp></person>
                 <person xml:id="wkfm__11795" sameAs="#wkfm__14432 ">
                      <persName>
                         <forename>Philipp Joseph</forename>
@@ -190,11 +186,15 @@ Donaumonarchie 6, Neu bearbeitete, deutschsprachige Ausgabe Wien 2013)
 270-272&amp;lt;/span&amp;gt;.&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0078.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0078</note><note target="wkfm-0079.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0079</note><note target="wkfm-0933.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0933</note><note target="wkfm-0934.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0934</note><note target="wkfm-0935.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0935</note><note target="wkfm-0936.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0936</note></noteGrp></person>
-                <person xml:id="wkfm__43906">
+                <person xml:id="wkfm__43905">
                      <persName>
-                        <forename>Bernhard</forename>
+                        <forename>Sigmund Joachim</forename>
                         <surname>von Heimerl</surname>
                      </persName>
+                     <occupation>N.Ö. Regierungssekretär</occupation>
                <noteGrp><note target="wkfm-0195.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0195</note><note target="wkfm-0934.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0934</note><note target="wkfm-0936.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0936</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__13569">
+                     <orgName>Butterna und Heimerl</orgName>
+                  <noteGrp><note target="wkfm-0078.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0078</note><note target="wkfm-0079.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0079</note><note target="wkfm-0933.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0933</note><note target="wkfm-0934.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0934</note><note target="wkfm-0935.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0935</note><note target="wkfm-0936.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0936</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

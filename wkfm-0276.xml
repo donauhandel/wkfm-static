@@ -99,7 +99,7 @@
                <lb facs="#facs_222_r1l11" n="N011"/><seg type="orighead__other_notes">Anmerckungen</seg>
                <lb facs="#facs_222_r1l12" n="N012"/>Vermög Anbringen de psto: 14<hi style="superscript">ten</hi> <choice><expan/><abbr>8b:</abbr></choice> 776 hat die <rs type="person" ref="#wkfm__43932">Franz Beda <choice><expan/><abbr>seel.</abbr></choice> Wittib</rs> ange
                <lb facs="#facs_222_r1l13" n="N013"/>zeiget, das sie die Handlung unter ihrer alleinigen obligo und firma fort-
-               <lb facs="#facs_222_r1l14" n="N014"/>führe, wie sie dann solche sub A eingeleget und lautet <rs type="person" ref="#wkfm__43933">Franz Beda <choice><expan/><abbr>seel.</abbr></choice>  
+               <lb facs="#facs_222_r1l14" n="N014"/>führe, wie sie dann solche sub A eingeleget und lautet <rs type="org" ref="#wkfm__43933">Franz Beda <choice><expan/><abbr>seel.</abbr></choice>  
                <lb break="no" facs="#facs_222_r1l15" n="N015"/>Wittib</rs> Sub N<hi style="superscript">o</hi> 135 1/2 bey den firmen: Worüber der bericht
                <lb facs="#facs_222_r1l16" n="N016"/>de psto: 25: <choice><expan/><abbr>8br:</abbr></choice> 776 von hierorts erstattet an Regierung erstattet
                <lb facs="#facs_222_r1l17" n="N017"/>worden und lieget diese solcher <rs type="person" ref="#wkfm__47377">Joh. Karl <unclear>Ristlischen</unclear></rs>
@@ -108,27 +108,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__43933">
-                     <orgName>Franz Beda sel. Witwe</orgName>
-                  <noteGrp><note target="wkfm-0276.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0276</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__43931">
-                     <persName>
-                        <forename>Maria Josepha</forename>
-                        <surname>Jenamy</surname>
-                        <surname type="alt">Jenamj</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-0276.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0276</note></noteGrp></person>
-                <person xml:id="wkfm__43932">
-                     <persName>
-                        <forename>Maria Anna</forename>
-                        <surname>Peternaderin</surname>
-                     </persName>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsfrau</occupation>
-               <noteGrp><note target="wkfm-0276.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0276</note></noteGrp></person>
-                <person xml:id="wkfm__25660">
+    <back><listPerson><person xml:id="wkfm__25660">
                      <persName>
                         <forename>Franz</forename>
                         <surname>Beda</surname>
@@ -152,11 +132,31 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0275.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0275</note><note target="wkfm-0276.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0276</note></noteGrp></person>
+                <person xml:id="wkfm__43931">
+                     <persName>
+                        <forename>Maria Josepha</forename>
+                        <surname>Jenamy</surname>
+                        <surname type="alt">Jenamj</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0276.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0276</note></noteGrp></person>
+                <person xml:id="wkfm__43932">
+                     <persName>
+                        <forename>Maria Anna</forename>
+                        <surname>Peternaderin</surname>
+                     </persName>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsfrau</occupation>
+               <noteGrp><note target="wkfm-0276.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0276</note></noteGrp></person>
                 <person xml:id="wkfm__47377">
                      <persName>
                         <forename>Johann Karl</forename>
                         <surname>Ristlisch</surname>
                      </persName>
                <noteGrp><note target="wkfm-0276.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0276</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__43933">
+                     <orgName>Franz Beda sel. Witwe</orgName>
+                  <noteGrp><note target="wkfm-0276.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0276</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

@@ -82,8 +82,8 @@
                <lb facs="#facs_65_r3l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_65_r3l2" n="N003"/><rs type="person" ref="#wkfm__8096">Cheret Claudius</rs> burgerlicher Handlsmann
                <lb facs="#facs_65_r3l3" n="N004"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_65_r3l4" n="N005"/><rs type="person" ref="#wkfm__47225">Claudi Cherett</rs> laut Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 191
-               <lb facs="#facs_65_r3l5" n="N006"/><rs type="person" ref="#wkfm__46114">Claudy Cheret et <choice><expan/><abbr>Comp:</abbr></choice></rs> laut Erklährung dd<hi style="superscript">to</hi> 22<hi style="superscript">ten</hi> <choice><expan/><abbr>Jun:</abbr></choice> 733 N<hi style="superscript">o</hi>
+               <lb facs="#facs_65_r3l4" n="N005"/><rs type="org" ref="#wkfm__47225">Claudi Cherett</rs> laut Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 191
+               <lb facs="#facs_65_r3l5" n="N006"/><rs type="org" ref="#wkfm__46114">Claudy Cheret et <choice><expan/><abbr>Comp:</abbr></choice></rs> laut Erklährung dd<hi style="superscript">to</hi> 22<hi style="superscript">ten</hi> <choice><expan/><abbr>Jun:</abbr></choice> 733 N<hi style="superscript">o</hi>
                <lb facs="#facs_65_r3l6" n="N007"/>1902
                <lb facs="#facs_65_r3l7" n="N008"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_65_r3l8" n="N009"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
@@ -92,13 +92,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46114">
-                     <orgName>Claudius Cheret &amp; Co.</orgName>
-                  <noteGrp><note target="wkfm-0385.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0385</note><note target="wkfm-0386.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0386</note></noteGrp></org>
-                <org xml:id="wkfm__47225">
-                     <orgName>Claudius Cheret</orgName>
-                  <noteGrp><note target="wkfm-0385.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0385</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__8096">
+    <back><listPerson><person xml:id="wkfm__8096">
                      <persName>
                         <forename>Claudius</forename>
                         <surname>Cheret</surname>
@@ -123,5 +117,11 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0385.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0385</note><note target="wkfm-0386.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0386</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46114">
+                     <orgName>Claudius Cheret &amp; Co.</orgName>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__8096">Cheret, Claudius</persName></person></listPerson><noteGrp><note target="wkfm-0385.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0385</note><note target="wkfm-0386.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0386</note></noteGrp></org>
+                <org xml:id="wkfm__47225">
+                     <orgName>Claudius Cheret</orgName>
+                  <noteGrp><note target="wkfm-0385.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0385</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

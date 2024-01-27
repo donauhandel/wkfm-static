@@ -84,7 +84,7 @@
                <lb facs="#facs_29_r4l1" n="N001"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_29_r4l2" n="N002"/><rs type="person" ref="#wkfm__24258">Eybel Johann Sebastian</rs> burgerlicher Handlsmann
                <lb facs="#facs_29_r4l4" n="N003"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_29_r4l5" n="N004"/><rs type="person" ref="#wkfm__46421">Johann Sebastian Eybel</rs> laut Erklährung sine dat N<hi style="superscript">o</hi> 310
+               <lb facs="#facs_29_r4l5" n="N004"/><rs type="org" ref="#wkfm__46421">Johann Sebastian Eybel</rs> laut Erklährung sine dat N<hi style="superscript">o</hi> 310
                <lb facs="#facs_29_r4l6" n="N005"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_29_r4l7" n="N006"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_29_r4l8" n="N007"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
@@ -92,10 +92,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46421">
-                     <orgName>Johann Sebastian Eibl</orgName>
-                  <noteGrp><note target="wkfm-0649.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0649</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__24258" sameAs="#wkfm__22866 ">
+    <back><listPerson><person xml:id="wkfm__24258" sameAs="#wkfm__22866 ">
                      <persName>
                         <forename>Johann Sebastian</forename>
                         <surname>Eibl</surname>
@@ -120,5 +117,8 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 273 (Juni 1732: Vorname nur &amp;#34;Sebastian&amp;#34;).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0307.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0307</note><note target="wkfm-0649.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0649</note><note target="wkfm-0650.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0650</note><note target="wkfm-0657.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0657</note><note target="wkfm-0663.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0663</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46421">
+                     <orgName>Johann Sebastian Eibl</orgName>
+                  <noteGrp><note target="wkfm-0649.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0649</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

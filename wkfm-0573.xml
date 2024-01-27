@@ -86,7 +86,7 @@
                <lb facs="#facs_73_line_1621968375242_5499" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_73_r2l2" n="N003"/><hi>Diw</hi> <rs type="person" ref="#wkfm__36606">Diwaldt Johann Georg</rs> burgerlicher Handlsmann
                <lb facs="#facs_73_r2l3" n="N004"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_73_r2l4" n="N005"/><rs type="person" ref="#wkfm__46249">Johann Georg Diwaldt</rs> laut Erklährung dd<hi style="superscript">to</hi> 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 733 N<hi style="superscript">o</hi> 277
+               <lb facs="#facs_73_r2l4" n="N005"/><rs type="org" ref="#wkfm__46249">Johann Georg Diwaldt</rs> laut Erklährung dd<hi style="superscript">to</hi> 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 733 N<hi style="superscript">o</hi> 277
                <lb facs="#facs_73_r2l5" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_73_r2l6" n="N007"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_73_r2l7" n="N008"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
@@ -94,10 +94,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46249">
-                     <orgName>Johann Georg Diewald</orgName>
-                  <noteGrp><note target="wkfm-0573.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0573</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__36606" sameAs="#wkfm__20759 ">
+    <back><listPerson><person xml:id="wkfm__36606" sameAs="#wkfm__20759 ">
                      <persName>
                         <forename>Johann Georg</forename>
                         <surname>Diewald</surname>
@@ -119,5 +116,8 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0573.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0573</note><note target="wkfm-0574.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0574</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46249">
+                     <orgName>Johann Georg Diewald</orgName>
+                  <noteGrp><note target="wkfm-0573.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0573</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

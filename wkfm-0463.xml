@@ -87,7 +87,7 @@
                <lb facs="#facs_143_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_143_r1l2" n="N003"/><rs type="person" ref="#wkfm__46159">Cura Franz</rs> burgerlicher Handlsmann
                <lb facs="#facs_143_r1l3" n="N004"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_143_r1l4" n="N005"/><rs type="person" ref="#wkfm__47258">Frantz Curä</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 226
+               <lb facs="#facs_143_r1l4" n="N005"/><rs type="org" ref="#wkfm__47258">Frantz Curä</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 226
                <lb facs="#facs_143_r1l5" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_143_r1l6" n="N007"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_143_r1l7" n="N008"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
@@ -103,7 +103,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46160">
+    <back><listOrg><org xml:id="wkfm__47258">
+                     <orgName>Franz Cura</orgName>
+                  <noteGrp><note target="wkfm-0463.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0463</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__46160">
                      <persName>
                         <forename>Eva Maria</forename>
                         <surname>Curain</surname>
@@ -130,8 +133,5 @@
                         <bibl>Huchler, Bürgeraufnahmen, 357.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0463.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0463</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__47258">
-                     <orgName>Franz Cura</orgName>
-                  <noteGrp><note target="wkfm-0463.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0463</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

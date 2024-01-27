@@ -83,10 +83,10 @@
                <lb facs="#facs_223_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_223_r1l3" n="N003"/><rs type="person" ref="#wkfm__43960">Perkhmann Johann Jacob</rs> burgerlicher Handlsmann
                <lb facs="#facs_223_r1l4" n="N004"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_223_r1l5" n="N005"/><rs type="person" ref="#wkfm__43962">Perckhman undt Perzinger</rs> laut Erklährung dd<hi style="superscript">to</hi> 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 742 N<hi style="superscript">o</hi> 136
+               <lb facs="#facs_223_r1l5" n="N005"/><rs type="org" ref="#wkfm__43962">Perckhman undt Perzinger</rs> laut Erklährung dd<hi style="superscript">to</hi> 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 742 N<hi style="superscript">o</hi> 136
                <lb facs="#facs_223_r1l6" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_223_r1l7" n="N007"/>In obigen Erklährung dd<hi style="superscript">to</hi> 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 742 N<hi style="superscript">o</hi> 136 ist Firm der
-               <lb facs="#facs_223_r1l8" n="N008"/>Raggion <rs type="person" ref="#wkfm__43962">Perckhman und Perzinger</rs> von beeden sociis <rs type="person" ref="#wkfm__43960">Johann Jacob
+               <lb facs="#facs_223_r1l8" n="N008"/>Raggion <rs type="org" ref="#wkfm__43962">Perckhman und Perzinger</rs> von beeden sociis <rs type="person" ref="#wkfm__43960">Johann Jacob
                <lb break="no" facs="#facs_223_r1l9" n="N009"/>Perckhman</rs> und <rs type="person" ref="#wkfm__43961">Johann Carl Pertzinger</rs> eingeleget worden
                <lb facs="#facs_223_r1l10" n="N010"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_223_r1l11" n="N011"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
@@ -94,18 +94,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43961">
-                     <persName>
-                        <forename>Johann Karl</forename>
-                        <surname>Perzinger</surname>
-                     </persName>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Angestellter des Johann Jakob Perkmann, Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-0277.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0277</note><note target="wkfm-0278.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0278</note></noteGrp></person>
-                <person xml:id="wkfm__43960">
+    <back><listPerson><person xml:id="wkfm__43960">
                      <persName>
                         <forename>Johann Jakob</forename>
                         <surname>Perkmann</surname>
@@ -120,6 +109,17 @@
                         <placeName key="#wkfm-place__925">Wien</placeName>
                      <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-0277.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0277</note><note target="wkfm-0278.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0278</note></noteGrp></person>
+                <person xml:id="wkfm__43961">
+                     <persName>
+                        <forename>Johann Karl</forename>
+                        <surname>Perzinger</surname>
+                     </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Angestellter des Johann Jakob Perkmann, Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0277.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0277</note><note target="wkfm-0278.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0278</note></noteGrp></person>
                 </listPerson><listOrg><org xml:id="wkfm__43962">

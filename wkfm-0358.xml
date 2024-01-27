@@ -76,7 +76,7 @@
             <ab facs="#facs_38_r1">
                <lb facs="#facs_38_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_38_r1l2" n="N002"/>In obigen Anbringen de ps: 19<hi style="superscript">ten</hi> May 725 N<hi style="superscript">o</hi> 1896 hat sich die Raggion
-               <lb facs="#facs_38_r1l3" n="N003"/><hi>Co</hi> <rs type="person" ref="#wkfm__26954">Andreas Coith und <choice><expan/><abbr>Comp:</abbr></choice></rs><choice><expan/><abbr/></choice> erklähret, daß <hi>her</hi>unter selber der 
+               <lb facs="#facs_38_r1l3" n="N003"/><hi>Co</hi> <rs type="org" ref="#wkfm__26954">Andreas Coith und <choice><expan/><abbr>Comp:</abbr></choice></rs><choice><expan/><abbr/></choice> erklähret, daß <hi>her</hi>unter selber der 
                <lb facs="#facs_38_r1l4" n="N004"/><rs type="person" ref="#wkfm__14104">Andre Coith</rs> und <rs type="person" ref="#wkfm__46111">Georg Korb</rs> die Handlung führen
                <lb facs="#facs_38_r1l5" n="N005"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_38_r1l6" n="N006"/><seg type="orighead__other_notes">Anmerckungen</seg>
@@ -84,18 +84,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46111">
-                     <persName>
-                        <forename>Georg</forename>
-                        <surname>Korb</surname>
-                     </persName>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-               <noteGrp><note target="wkfm-0358.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0358</note></noteGrp></person>
-                <person xml:id="wkfm__14104">
+    <back><listPerson><person xml:id="wkfm__14104">
                      <persName>
                         <forename>Andreas</forename>
                         <surname>Coith</surname>
@@ -112,6 +101,17 @@
                         <bibl>Christian Meltzern, Historia Schneebergensis renovata. Da ist: Erneuerte Stadt- u. Berg-Chronica Der im Ober-Ertz-Gebürge des belobten Meißens gelegenen Wohl-löbl. Freyen Berg-Stadt Schneeberg (...) (Schneeberg 1716). Mittenzwei, Zwischen Gestern und Morgen, 85 (zur ev. Religion der Coith)&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0357.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0357</note><note target="wkfm-0358.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0358</note></noteGrp></person>
+                <person xml:id="wkfm__46111">
+                     <persName>
+                        <forename>Georg</forename>
+                        <surname>Korb</surname>
+                     </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+               <noteGrp><note target="wkfm-0358.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0358</note></noteGrp></person>
                 </listPerson><listOrg><org xml:id="wkfm__26954">
                      <orgName>Andre Coith &amp; Co.</orgName>
                   <noteGrp><note target="wkfm-0357.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0357</note><note target="wkfm-0358.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0358</note></noteGrp></org>

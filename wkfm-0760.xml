@@ -119,16 +119,16 @@
             <ab facs="#facs_92_r1">
                <lb facs="#facs_92_r1l2" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_92_r1l3" n="N002"/>Mitls Anbringen de ps: 18<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 735 N<hi style="superscript">o</hi> 1938 hat der <rs type="person" ref="#wkfm__42886">Bernhard Falquet</rs> und <rs type="person" ref="#wkfm__43810">Bernhard Franz 
-               <lb break="no" facs="#facs_92_r1l4" n="N003"/>Violland</rs> angezeiget, daß sie beede in ihrem negotium societaeten stehen unter der Raggion <rs type="person" ref="#wkfm__23970">Falquet und Vio[lland]</rs>
-               <lb facs="#facs_92_r1l5" n="N004"/>Mitls Anbringen de ps: 7<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 740 N<hi style="superscript">o</hi> 1940 hat die Raggion <rs type="person" ref="#wkfm__23970">Falquet und Violland</rs> angezeiget, daß
+               <lb break="no" facs="#facs_92_r1l4" n="N003"/>Violland</rs> angezeiget, daß sie beede in ihrem negotium societaeten stehen unter der Raggion <rs type="org" ref="#wkfm__23970">Falquet und Vio[lland]</rs>
+               <lb facs="#facs_92_r1l5" n="N004"/>Mitls Anbringen de ps: 7<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 740 N<hi style="superscript">o</hi> 1940 hat die Raggion <rs type="org" ref="#wkfm__23970">Falquet und Violland</rs> angezeiget, daß
                <lb facs="#facs_92_r1l6" n="N005"/>die Societaet zwischen ihnen mit Ende 739 dergestalten dissolviret worden, daß jeder von ihnen deren
                <lb facs="#facs_92_r1l7" n="N006"/><unclear>Creditaribus</unclear> ihrer Raggion in Solidum zu haften schuldig seye solle.
-               <lb facs="#facs_92_r1l8" n="N007"/>Mitls Anbringen de ps: 7<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 740 N<hi style="superscript">o</hi> 1431 hat die Raggion <rs type="person" ref="#wkfm__39394">Falquet und Puthon</rs> angezeiget das 
+               <lb facs="#facs_92_r1l8" n="N007"/>Mitls Anbringen de ps: 7<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 740 N<hi style="superscript">o</hi> 1431 hat die Raggion <rs type="org" ref="#wkfm__39394">Falquet und Puthon</rs> angezeiget das 
                <lb facs="#facs_92_r1l9" n="N008"/>der <rs type="person" ref="#wkfm__42886">Bernhard Falquet</rs> und <rs type="person" ref="#wkfm__47120">Ludwig Puthon</rs> eine Societaet unter sich errichtet <unclear>nach</unclear> <hi><unclear>angezeige</unclear></hi> Ausweisung
                <lb facs="#facs_92_r1l10" n="N009"/>des unter ihnen den 16<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 739 <seg type="editorial_comment_seg">errichtet[en]<hi><unclear>untern</unclear></hi><note type="editorial_comment_note">vielleicht erst errichtet untern, dann ein -en über untern darüber geschrieben und den Rest ausgestrichen?</note></seg> Societaets Contract von welchen selbe einen von dem <rs type="person" ref="#wkfm__42886">Falquet</rs>
                <lb facs="#facs_92_r1l11" n="N010"/><hi>certificirten</hi> <hi><unclear>Extrac</unclear></hi> untern 6<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 740 attestirten Extracten N<hi style="superscript">o</hi> 1941 eingeleget, kraft welchen die Societaet
                <lb facs="#facs_92_r1l12" n="N011"/>von 1<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 740 biß <choice><expan/><abbr>det:</abbr></choice> 744 <unclear>fürdauren</unclear>, jedweder 20000 fl einlagen, Gewün und Verlust <hi>gleic</hi> zu gleichen
-               <lb facs="#facs_92_r1l13" n="N012"/>Theilen, jedweder in Handlungs affairen in solidum zu haften schuldig, und die Raggion <rs type="person" ref="#wkfm__39394">Falquet und Puthon</rs>
+               <lb facs="#facs_92_r1l13" n="N012"/>Theilen, jedweder in Handlungs affairen in solidum zu haften schuldig, und die Raggion <rs type="org" ref="#wkfm__39394">Falquet und Puthon</rs>
                <lb facs="#facs_92_r1l14" n="N013"/>seye solle.
                <lb facs="#facs_92_r1l15" n="N014"/>Mitls Anbringen de ps: 29<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 748 N<hi style="superscript">o</hi> 979 hat der <rs type="person" ref="#wkfm__42886">Falquet</rs> angezeiget, daß er sich von dem
                <lb facs="#facs_92_r1l16" n="N015"/><rs type="person" ref="#wkfm__47120">Ludwig Puthon</rs> dergestalten separiret, daß jedweder in solang in obligo verbleibet, biß die Passiva der
@@ -169,7 +169,43 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47120">
+    <back><listPerson><person xml:id="wkfm__42886">
+                     <persName>
+                        <forename>Bernhard</forename>
+                        <surname>Falquet</surname>
+                     </persName>
+                     <birth><date>14.12.1709</date></birth>
+                     <death><date>17.08.1769</date></death>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geburtsort">
+                        <placeName key="#wkfm-place__2502">Arâches-la-Frasse</placeName>
+                     </residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+                     <listBibl>
+                        <bibl>Budischowsky, Bernhard Falquet; Budischowsky, Puthon; Matis, Manufakturen, 270, 364.&amp;lt;br&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0251.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0251</note><note target="wkfm-0759.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0759</note><note target="wkfm-0760.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0760</note><note target="wkfm-0797.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0797</note><note target="wkfm-0798.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0798</note><note target="wkfm-0800.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0800</note></noteGrp></person>
+                <person xml:id="wkfm__43810">
+                     <persName>
+                        <forename>Bernhard Franz</forename>
+                        <surname>Violand</surname>
+                     </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+                     <listBibl>
+                        <bibl>Rauscher, Serles, Niederleger, 168.</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0070.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0070</note><note target="wkfm-0071.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0071</note><note target="wkfm-0760.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0760</note><note target="wkfm-0799.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0799</note><note target="wkfm-0800.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0800</note></noteGrp></person>
+                <person xml:id="wkfm__47120">
                      <persName>
                         <forename>Ludwig</forename>
                         <surname>Puthon</surname>
@@ -209,42 +245,6 @@
                         <bibl>&amp;lt;span&amp;gt;Budischowsky, Johann Georg Schuller, 12, 16.&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0760.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0760</note></noteGrp></person>
-                <person xml:id="wkfm__42886">
-                     <persName>
-                        <forename>Bernhard</forename>
-                        <surname>Falquet</surname>
-                     </persName>
-                     <birth><date>14.12.1709</date></birth>
-                     <death><date>17.08.1769</date></death>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geburtsort">
-                        <placeName key="#wkfm-place__2502">Arâches-la-Frasse</placeName>
-                     </residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-                     <listBibl>
-                        <bibl>Budischowsky, Bernhard Falquet; Budischowsky, Puthon; Matis, Manufakturen, 270, 364.&amp;lt;br&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-0251.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0251</note><note target="wkfm-0759.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0759</note><note target="wkfm-0760.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0760</note><note target="wkfm-0797.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0797</note><note target="wkfm-0798.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0798</note><note target="wkfm-0800.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0800</note></noteGrp></person>
-                <person xml:id="wkfm__43810">
-                     <persName>
-                        <forename>Bernhard Franz</forename>
-                        <surname>Violand</surname>
-                     </persName>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-                     <listBibl>
-                        <bibl>Rauscher, Serles, Niederleger, 168.</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-0070.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0070</note><note target="wkfm-0071.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0071</note><note target="wkfm-0760.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0760</note><note target="wkfm-0799.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0799</note><note target="wkfm-0800.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0800</note></noteGrp></person>
                 <person xml:id="wkfm__47121">
                      <persName>
                         <forename>Ignaz</forename>
@@ -256,11 +256,11 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                <noteGrp><note target="wkfm-0759.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0759</note><note target="wkfm-0760.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0760</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__39394">
-                     <orgName>Falquet und Puthon</orgName>
-                  <noteGrp><note target="wkfm-0759.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0759</note><note target="wkfm-0760.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0760</note></noteGrp></org>
-                <org xml:id="wkfm__23970">
+                </listPerson><listOrg><org xml:id="wkfm__23970">
                      <orgName>Falquet und Violand</orgName>
                   <noteGrp><note target="wkfm-0070.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0070</note><note target="wkfm-0759.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0759</note><note target="wkfm-0760.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0760</note><note target="wkfm-0799.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0799</note><note target="wkfm-0800.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0800</note></noteGrp></org>
+                <org xml:id="wkfm__39394">
+                     <orgName>Falquet und Puthon</orgName>
+                  <noteGrp><note target="wkfm-0759.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0759</note><note target="wkfm-0760.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0760</note></noteGrp></org>
                 </listOrg></back></text>
 </TEI>

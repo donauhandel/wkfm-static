@@ -85,7 +85,7 @@
                <lb facs="#facs_113_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_113_line_1624037502510_91" n="N003"/><rs type="person" ref="#wkfm__46838">Franzoni Franz</rs> burgerlicher Handlsmann
                <lb facs="#facs_113_r1l4" n="N004"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_113_r1l6" n="N005"/><rs type="person" ref="#wkfm__47146">Franz Franzoni</rs> laut Erklährung dd<hi style="superscript">to</hi> 30<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 742 N<hi style="superscript">o</hi> 370
+               <lb facs="#facs_113_r1l6" n="N005"/><rs type="org" ref="#wkfm__47146">Franz Franzoni</rs> laut Erklährung dd<hi style="superscript">to</hi> 30<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 742 N<hi style="superscript">o</hi> 370
                <lb facs="#facs_113_r1l7" n="N006"/><unclear><choice><expan/><abbr>Ao<hi/></abbr></choice><hi>ni</hi></unclear> 764. seiner Firma eingeleget <choice><expan/><abbr>nro</abbr></choice> 370 1/2
                <lb facs="#facs_113_r1l8" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_113_r1l9" n="N008"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
@@ -99,31 +99,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46838">
-                     <persName>
-                        <forename>Franz</forename>
-                        <surname>Franzoni</surname>
-                     </persName>
-                     <death><date>1779</date></death>                    
-                     <residence type="Geschäftsadresse">
-                        <placeName>Zum Haus von Österreich unter den Tuchlauben (Calender 1758)</placeName>
-                     </residence>
-                     <residence type="Bürgerrecht">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-                     <listBibl>
-                        <bibl>Mittenzwei, Zwischen Gestern und Morgen, 194f.; &amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 380.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-0781.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0781</note><note target="wkfm-0782.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0782</note><note target="wkfm-1175.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1175</note></noteGrp></person>
-                <person xml:id="wkfm__9731" sameAs="#wkfm__29936 ">
+    <back><listPerson><person xml:id="wkfm__9731" sameAs="#wkfm__29936 ">
                      <persName>
                         <forename>Johann Michael</forename>
                         <surname>Kienmayr</surname>
@@ -147,6 +123,30 @@
                         <bibl>Historische und topographische Darstellung von Schönbrunn und seiner Umgegend (...) (Wien 1824) 153; &amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 428&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;.</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0383.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0383</note><note target="wkfm-0384.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0384</note><note target="wkfm-0477.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0477</note><note target="wkfm-0781.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0781</note><note target="wkfm-1059.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1059</note><note target="wkfm-1661.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1661</note></noteGrp></person>
+                <person xml:id="wkfm__46838">
+                     <persName>
+                        <forename>Franz</forename>
+                        <surname>Franzoni</surname>
+                     </persName>
+                     <death><date>1779</date></death>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zum Haus von Österreich unter den Tuchlauben (Calender 1758)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+                     <listBibl>
+                        <bibl>Mittenzwei, Zwischen Gestern und Morgen, 194f.; &amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 380.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0781.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0781</note><note target="wkfm-0782.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0782</note><note target="wkfm-1175.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1175</note></noteGrp></person>
                 </listPerson><listOrg><org xml:id="wkfm__47146">
                      <orgName>Franz Franzoni</orgName>
                   <noteGrp><note target="wkfm-0781.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0781</note></noteGrp></org>

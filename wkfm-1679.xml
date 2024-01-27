@@ -95,7 +95,7 @@
                <lb facs="#facs_221_r1l5" n="N004"/>Ist Vermög Anzeige des ps: 24 <choice><expan/><abbr>9br:</abbr></choice> 778 den 15 erstbesagten Monaths
                <lb facs="#facs_221_r1l6" n="N005"/>und Jahr verstorben.
                <lb facs="#facs_221_r1l7" n="N006"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_221_r1l8" n="N007"/><rs type="person" ref="#wkfm__47587">Johannes Schwitzer</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 772 welche
+               <lb facs="#facs_221_r1l8" n="N007"/><rs type="org" ref="#wkfm__47587">Johannes Schwitzer</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 772 welche
                <lb facs="#facs_221_r1l9" n="N008"/>derselbe mitls Anbringen de ps: 25<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 753 <hi>eingel</hi> N<hi style="superscript">o</hi> 773 eingelegt
                <lb facs="#facs_221_r1l10" n="N009"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_221_r1l11" n="N010"/>Vermög Anbringen de ps: 24: <choice><expan/><abbr>9br:</abbr></choice> 778 hat <rs type="person" ref="#wkfm__47588">Theresia Schwitzerin</rs> ange-
@@ -103,7 +103,7 @@
                <lb facs="#facs_221_r1l13" n="N012"/>Erbin eingesezt worden, sohin ihr die Handlung eigen verblieben, und da-
                <lb facs="#facs_221_r1l14" n="N013"/>her die Handlungs firma ihrem Sohn <rs type="person" ref="#wkfm__47589">Johann Michael Schwitzer</rs>
                <lb facs="#facs_221_r1l15" n="N014"/>per procura anvertrauet habe, welche Sie sub B eingeleget, und lautet
-               <lb facs="#facs_221_r1l16" n="N015"/><rs type="person" ref="#wkfm__47590">Theresia Schwitzerin <choice><expan/><abbr>seel:</abbr></choice> Wittib</rs> vide Procuren <choice><expan/><abbr>Nro:</abbr></choice> 1076: 1/2
+               <lb facs="#facs_221_r1l16" n="N015"/><rs type="org" ref="#wkfm__47590">Theresia Schwitzerin <choice><expan/><abbr>seel:</abbr></choice> Wittib</rs> vide Procuren <choice><expan/><abbr>Nro:</abbr></choice> 1076: 1/2
                <lb facs="#facs_221_r1l17" n="N016"/>a <choice><expan/><abbr>Nro</abbr></choice> 876: <unclear>ansuchen</unclear> zusuchen
                <lb facs="#facs_221_r1l18" n="N017"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_221_r1l19" n="N018"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
@@ -114,38 +114,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47589">
-                     <persName>
-                        <forename>Johann Michael</forename>
-                        <surname>Schwitzer</surname>
-                     </persName>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Prokurist von Theresia Schwitzerin sel. Witwe</occupation>
-               <noteGrp><note target="wkfm-1679.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1679</note></noteGrp></person>
-                <person xml:id="wkfm__47586">
-                     <persName>
-                        <forename>Johann</forename>
-                        <surname>Schwitzer</surname>
-                     </persName>
-                     <death><date>15.11.1778</date></death>                    
-                     <residence type="Geschäftsadresse">
-                        <placeName>Zum Weißen Adler auf der Brandstatt (Calender 1758)</placeName>
-                     </residence>
-                     <residence type="Bürgerrecht">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-1679.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1679</note><note target="wkfm-1680.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1680</note></noteGrp></person>
-                <person xml:id="wkfm__10730">
+    <back><listPerson><person xml:id="wkfm__10730">
                      <persName>
                         <forename>Anton</forename>
                         <surname>Mader</surname>
@@ -189,11 +158,42 @@
                      <occupation>Handelsfrau</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1679.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1679</note><note target="wkfm-1680.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1680</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__47587">
-                     <orgName>Johannes Schwitzer</orgName>
-                  <noteGrp><note target="wkfm-1679.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1679</note></noteGrp></org>
-                <org xml:id="wkfm__47590">
+                <person xml:id="wkfm__47589">
+                     <persName>
+                        <forename>Johann Michael</forename>
+                        <surname>Schwitzer</surname>
+                     </persName>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Prokurist von Theresia Schwitzerin sel. Witwe</occupation>
+               <noteGrp><note target="wkfm-1679.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1679</note></noteGrp></person>
+                <person xml:id="wkfm__47586">
+                     <persName>
+                        <forename>Johann</forename>
+                        <surname>Schwitzer</surname>
+                     </persName>
+                     <death><date>15.11.1778</date></death>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zum Weißen Adler auf der Brandstatt (Calender 1758)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-1679.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1679</note><note target="wkfm-1680.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1680</note></noteGrp></person>
+                </listPerson><listOrg><org xml:id="wkfm__47590">
                      <orgName>Theresia Schwitzerin sel. Witwe</orgName>
+                  <noteGrp><note target="wkfm-1679.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1679</note></noteGrp></org>
+                <org xml:id="wkfm__47587">
+                     <orgName>Johannes Schwitzer</orgName>
                   <noteGrp><note target="wkfm-1679.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1679</note></noteGrp></org>
                 </listOrg></back></text>
 </TEI>

@@ -84,33 +84,13 @@
                <lb facs="#facs_8_r1l5" n="N005"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_8_r1l6" n="N006"/><seg type="orighead__other_notes">Anmerkungen</seg>
                <lb facs="#facs_8_r1l7" n="N007"/><seg type="editorial_comment_seg">Der <rs type="person" ref="#wkfm__43787">Paul Sorbait</rs> hat in seiner Erklährung dd<hi style="superscript">to</hi> 26<hi style="superscript">ten</hi>
-               <lb break="no" facs="#facs_8_r1l8" n="N008"/><choice><expan/><abbr>Jun:</abbr></choice> <hi>N<hi style="superscript"/></hi>o<hi/> 728 N<hi style="superscript">o</hi> 712 beygebracht das er des <rs type="person" ref="#wkfm__46580">Johann</rs>
-               <lb break="no" facs="#facs_8_r1l9" n="N009"/><rs type="person" ref="#wkfm__46580">Peter Au</rs> handlung käuflichen an sich gebracht habe.<note type="editorial_comment_note">Im Original ist der gesamte Abschnitt gestrichen.</note></seg>
+               <lb break="no" facs="#facs_8_r1l8" n="N008"/><choice><expan/><abbr>Jun:</abbr></choice> <hi>N<hi style="superscript"/></hi>o<hi/> 728 N<hi style="superscript">o</hi> 712 beygebracht das er des <rs type="org" ref="#wkfm__46580">Johann</rs>
+               <lb break="no" facs="#facs_8_r1l9" n="N009"/><rs type="org" ref="#wkfm__46580">Peter Au</rs> handlung käuflichen an sich gebracht habe.<note type="editorial_comment_note">Im Original ist der gesamte Abschnitt gestrichen.</note></seg>
             </ab>
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46580">
-                     <orgName>Johann Peter Au</orgName>
-                  <noteGrp><note target="wkfm-0012.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0012</note><note target="wkfm-0013.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0013</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__43786">
-                     <persName>
-                        <forename>Johann Peter</forename>
-                        <surname>Au</surname>
-                     </persName>
-                     <residence type="Bürgerrecht">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-0012.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0012</note><note target="wkfm-0013.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0013</note></noteGrp></person>
-                <person xml:id="wkfm__43787">
+    <back><listPerson><person xml:id="wkfm__43787">
                      <persName>
                         <forename>Paul</forename>
                         <surname>Sorbait</surname>
@@ -127,5 +107,25 @@
                      <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                <noteGrp><note target="wkfm-0013.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0013</note><note target="wkfm-1567.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1567</note><note target="wkfm-1568.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1568</note></noteGrp></person>
-                </listPerson></back></text>
+                <person xml:id="wkfm__43786">
+                     <persName>
+                        <forename>Johann Peter</forename>
+                        <surname>Au</surname>
+                     </persName>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-0012.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0012</note><note target="wkfm-0013.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0013</note></noteGrp></person>
+                </listPerson><listOrg><org xml:id="wkfm__46580">
+                     <orgName>Johann Peter Au</orgName>
+                  <noteGrp><note target="wkfm-0012.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0012</note><note target="wkfm-0013.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0013</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

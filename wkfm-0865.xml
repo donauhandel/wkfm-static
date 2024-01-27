@@ -81,8 +81,8 @@
                <lb facs="#facs_53_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_53_r1l3" n="N003"/><rs type="person" ref="#wkfm__19817">Gouttro Franz</rs> burgerlicher Handlsmann
                <lb facs="#facs_53_r1l4" n="N004"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_53_r1l5" n="N005"/><rs type="person" ref="#wkfm__46335">Frantz Gouttro</rs> laut Erklährung dd<hi style="superscript">to</hi> 18<hi style="superscript">ten</hi> <choice><expan/><abbr>Jul:</abbr></choice> 726 N<hi style="superscript">o</hi> 407
-               <lb facs="#facs_53_r1l6" n="N006"/><rs type="person" ref="#wkfm__46333">Gouttro et Schußböckh</rs> laut Erklährung dd<hi style="superscript">to</hi> 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 747 N<hi style="superscript">o</hi> 1952
+               <lb facs="#facs_53_r1l5" n="N005"/><rs type="org" ref="#wkfm__46335">Frantz Gouttro</rs> laut Erklährung dd<hi style="superscript">to</hi> 18<hi style="superscript">ten</hi> <choice><expan/><abbr>Jul:</abbr></choice> 726 N<hi style="superscript">o</hi> 407
+               <lb facs="#facs_53_r1l6" n="N006"/><rs type="org" ref="#wkfm__46333">Gouttro et Schußböckh</rs> laut Erklährung dd<hi style="superscript">to</hi> 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 747 N<hi style="superscript">o</hi> 1952
                <lb facs="#facs_53_r1l8" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_53_r1l9" n="N008"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_53_r1l10" n="N009"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
@@ -90,13 +90,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46335">
-                     <orgName>Franz Gouttro</orgName>
-                  <noteGrp><note target="wkfm-0865.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0865</note></noteGrp></org>
-                <org xml:id="wkfm__46333">
-                     <orgName>Gouttro und Schußböck</orgName>
-                  <noteGrp><note target="wkfm-0865.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0865</note><note target="wkfm-0866.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0866</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__19817">
+    <back><listPerson><person xml:id="wkfm__19817">
                      <persName>
                         <forename>Franz</forename>
                         <surname>Gouttro</surname>
@@ -124,5 +118,11 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 390 (Februar 1727); Raynaud, Savoyardische Einwanderungen, 87.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0865.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0865</note><note target="wkfm-0866.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0866</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46333">
+                     <orgName>Gouttro und Schußböck</orgName>
+                  <noteGrp><note target="wkfm-0865.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0865</note><note target="wkfm-0866.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0866</note></noteGrp></org>
+                <org xml:id="wkfm__46335">
+                     <orgName>Franz Gouttro</orgName>
+                  <noteGrp><note target="wkfm-0865.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0865</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

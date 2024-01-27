@@ -80,7 +80,7 @@
                <lb facs="#facs_9_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_9_r1l2" n="N003"/><rs type="person" ref="#wkfm__8584">Amadej Johann Maria</rs> burgerlicher Handlsmann
                <lb facs="#facs_9_r1l3" n="N004"/><seg type="orighead__firma">Firma oder Raggion</seg>
-               <lb facs="#facs_9_r1l4" n="N005"/><rs type="person" ref="#wkfm__46581">Johann Maria Amadey</rs> laut Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice>
+               <lb facs="#facs_9_r1l4" n="N005"/><rs type="org" ref="#wkfm__46581">Johann Maria Amadey</rs> laut Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice>
                <lb facs="#facs_9_r1l5" n="N006"/>725 N<hi style="superscript">o</hi> 5.
                <lb facs="#facs_9_r1l6" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_9_r1l7" n="N008"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
@@ -89,10 +89,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46581">
-                     <orgName>Johann Maria Amadei</orgName>
-                  <noteGrp><note target="wkfm-0014.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0014</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__8584">
+    <back><listPerson><person xml:id="wkfm__8584">
                      <persName>
                         <forename>Johann Maria</forename>
                         <surname>Amadei</surname>
@@ -119,5 +116,8 @@
                         <bibl>Dotter, Kaufleute, 107-109.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0014.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0014</note><note target="wkfm-0015.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0015</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46581">
+                     <orgName>Johann Maria Amadei</orgName>
+                  <noteGrp><note target="wkfm-0014.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0014</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

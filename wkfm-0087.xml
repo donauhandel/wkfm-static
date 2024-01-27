@@ -86,10 +86,10 @@
                <lb facs="#facs_34_r1l2" n="N002"/>Der <rs type="person" ref="#wkfm__13226">Johann Wilhelm</rs> und <rs type="person" ref="#wkfm__47283">Johann Noe Buirette</rs> haben sich in obigen
                <lb facs="#facs_34_line_1628437556344_216" n="N003"/>Anbringen <hi>und</hi> de ps: 8<hi style="superscript">ten</hi> May 725 N<hi style="superscript">o</hi> 888 und mit in der selben eingelegten Pro
                <lb facs="#facs_34_line_1628437590621_224" n="N004"/>cura auf <rs type="person" ref="#wkfm__12424">Bernhard Deglmann</rs> N<hi style="superscript">o</hi> 887 sich <hi>ihre</hi> erklähret, daß sie beede ihre
-               <lb facs="#facs_34_r1l6" n="N005"/>Handlung unter der Societats Firma <rs type="person" ref="#wkfm__10272">Buirette Gebrüder</rs> führen.
-               <lb facs="#facs_34_r1l7" n="N006"/><rs type="person" ref="#wkfm__43836">Johann Wilhelm Buirette <choice><expan/><abbr>seel:</abbr></choice> Sohn und <choice><expan/><abbr>Comp:</abbr></choice></rs> haben mitls Anbringen
+               <lb facs="#facs_34_r1l6" n="N005"/>Handlung unter der Societats Firma <rs type="org" ref="#wkfm__10272">Buirette Gebrüder</rs> führen.
+               <lb facs="#facs_34_r1l7" n="N006"/><rs type="org" ref="#wkfm__43836">Johann Wilhelm Buirette <choice><expan/><abbr>seel:</abbr></choice> Sohn und <choice><expan/><abbr>Comp:</abbr></choice></rs> haben mitls Anbringen
                <lb facs="#facs_34_r1l8" n="N007"/>de ps: 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 736 N<hi style="superscript">o</hi> 913 und Oblatorium dd<hi style="superscript">to</hi> <choice><expan/><abbr>Apr:</abbr></choice> 736 N<hi style="superscript">o</hi> 1093 ange
-               <lb facs="#facs_34_r1l9" n="N008"/>zeiget und kund=gemacht, daß das unter der Raggion <rs type="person" ref="#wkfm__27516">Johann Buirette
+               <lb facs="#facs_34_r1l9" n="N008"/>zeiget und kund=gemacht, daß das unter der Raggion <rs type="org" ref="#wkfm__27516">Johann Buirette
                <lb break="no" facs="#facs_34_r1l10" n="N009"/><choice><expan/><abbr>seel:</abbr></choice> Erben</rs> geloffene Negotium ihr Endschafft erreichet habe und der <rs type="person" ref="#wkfm__43839">Johann
                <lb break="no" facs="#facs_34_line_1621101151895_783" n="N010"/>Noe Buirette</rs> mit eigner Substanz und seiner Schwester <rs type="person" ref="#wkfm__43840">Charlotte <unclear alternative="Eleonore?">Eleo</unclear>
                <lb break="no" facs="#facs_34_line_1621101195646_795" n="N011"/>Von Baumann</rs> assistenz interesse und obligo unter obiger Raggion zu
@@ -100,22 +100,16 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43839">
-                     <persName>
-                        <forename>Johann Noah (II.)</forename>
-                        <forename type="alt">Johann Noe</forename>
-                        <surname>Buirette</surname>
-                     </persName>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-                     <listBibl>
-                        <bibl>Seibold, Die Blommart und ihr Handelshaus; &amp;lt;span&amp;gt;Seibold, Wirtschaftlicher Erfolg, 395.&amp;lt;/span&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-0086.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0086</note><note target="wkfm-0087.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0087</note></noteGrp></person>
-                <person xml:id="wkfm__13226">
+    <back><listOrg><org xml:id="wkfm__43836">
+                     <orgName>Johann Wilhelm Buirette sel. Sohn &amp; Co.</orgName>
+                  <noteGrp><note target="wkfm-0086.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0086</note><note target="wkfm-0087.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0087</note></noteGrp></org>
+                <org xml:id="wkfm__27516">
+                     <orgName>(Johann) Wilhelm Buirette sel. Erben</orgName>
+                  <noteGrp><note target="wkfm-0086.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0086</note><note target="wkfm-0087.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0087</note></noteGrp></org>
+                <org xml:id="wkfm__10272">
+                     <orgName>Gebrüder Buirette</orgName>
+                  <noteGrp><note target="wkfm-0086.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0086</note><note target="wkfm-0087.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0087</note><note target="wkfm-0088.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0088</note><note target="wkfm-0089.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0089</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__13226">
                      <persName>
                         <forename>Johann Wilhelm</forename>
                         <forename type="alt">Wilhelm</forename>
@@ -132,22 +126,6 @@
                         <bibl>Seibold, Wirtschaftlicher Erfolg, 1, 391-394; 2 (Blommart, Buirette)&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0086.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0086</note><note target="wkfm-0087.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0087</note><note target="wkfm-0089.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0089</note></noteGrp></person>
-                <person xml:id="wkfm__47283">
-                     <persName>
-                        <forename>Johann Noah (I.)</forename>
-                        <forename type="alt">Noe</forename>
-                        <forename type="alt">Johann Noe</forename>
-                        <surname>Buirette</surname>
-                     </persName>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-                     <listBibl>
-                        <bibl>Seibold, Wirtschaftlicher Erfolg, 394f.&amp;lt;br&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-0087.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0087</note><note target="wkfm-0088.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0088</note><note target="wkfm-0089.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0089</note></noteGrp></person>
                 <person xml:id="wkfm__12424">
                      <persName>
                         <forename>Johann Bernhard</forename>
@@ -172,14 +150,36 @@
                         <surname>von Baumann</surname>
                      </persName>
                <noteGrp><note target="wkfm-0086.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0086</note><note target="wkfm-0087.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0087</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__43836">
-                     <orgName>Johann Wilhelm Buirette sel. Sohn &amp; Co.</orgName>
-                  <noteGrp><note target="wkfm-0086.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0086</note><note target="wkfm-0087.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0087</note></noteGrp></org>
-                <org xml:id="wkfm__27516">
-                     <orgName>(Johann) Wilhelm Buirette sel. Erben</orgName>
-                  <noteGrp><note target="wkfm-0086.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0086</note><note target="wkfm-0087.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0087</note></noteGrp></org>
-                <org xml:id="wkfm__10272">
-                     <orgName>Gebrüder Buirette</orgName>
-                  <noteGrp><note target="wkfm-0086.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0086</note><note target="wkfm-0087.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0087</note><note target="wkfm-0088.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0088</note><note target="wkfm-0089.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0089</note></noteGrp></org>
-                </listOrg></back></text>
+                <person xml:id="wkfm__47283">
+                     <persName>
+                        <forename>Johann Noah (I.)</forename>
+                        <forename type="alt">Noe</forename>
+                        <forename type="alt">Johann Noe</forename>
+                        <surname>Buirette</surname>
+                     </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+                     <listBibl>
+                        <bibl>Seibold, Wirtschaftlicher Erfolg, 394f.&amp;lt;br&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0087.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0087</note><note target="wkfm-0088.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0088</note><note target="wkfm-0089.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0089</note></noteGrp></person>
+                <person xml:id="wkfm__43839">
+                     <persName>
+                        <forename>Johann Noah (II.)</forename>
+                        <forename type="alt">Johann Noe</forename>
+                        <surname>Buirette</surname>
+                     </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+                     <listBibl>
+                        <bibl>Seibold, Die Blommart und ihr Handelshaus; &amp;lt;span&amp;gt;Seibold, Wirtschaftlicher Erfolg, 395.&amp;lt;/span&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0086.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0086</note><note target="wkfm-0087.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0087</note></noteGrp></person>
+                </listPerson></back></text>
 </TEI>

@@ -84,7 +84,7 @@
                <lb facs="#facs_3_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_3_r1l3" n="N003"/><rs type="person" ref="#wkfm__37670">Ferner Franz Joseph</rs> burgerlicher Tuchlaubens Verwanter
                <lb facs="#facs_3_r1l4" n="N004"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_3_r1l5" n="N005"/><rs type="person" ref="#wkfm__47050">Frantz Joßeph Ferner laut Anbringen de ps: 18ten </rs><choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 320.
+               <lb facs="#facs_3_r1l5" n="N005"/><rs type="org" ref="#wkfm__47050">Frantz Joßeph Ferner laut Anbringen de ps: 18ten </rs><choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 320.
                <lb facs="#facs_3_r1l6" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_3_r1l7" n="N007"/>Der <rs type="person" ref="#wkfm__37670">Ferner</rs> hat mitls Anbringen de ps: 9<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 741 N<hi style="superscript">o</hi> 978. hat die seinem Buch-
                <lb facs="#facs_3_r1l8" n="N008"/>halter <rs type="person" ref="#wkfm__47051">Johann Georg Dumreicher</rs> wehrend seiner Abwesenheit ertheilte <choice><expan/><abbr>orig:</abbr></choice>
@@ -96,10 +96,17 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47050">
-                     <orgName>Franz Joseph Ferner</orgName>
-                  <noteGrp><note target="wkfm-0671.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0671</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__37670">
+    <back><listPerson><person xml:id="wkfm__47051">
+                     <persName>
+                        <forename>Johann Georg</forename>
+                        <surname>Dumreicher</surname>
+                     </persName>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Buchhalter und Prokurist bei Franz Joseph Ferner</occupation>
+               <noteGrp><note target="wkfm-0671.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0671</note></noteGrp></person>
+                <person xml:id="wkfm__37670">
                      <persName>
                         <forename>Franz Joseph</forename>
                         <surname>Ferner</surname>
@@ -117,15 +124,8 @@
                      <occupation>Tuchhändler</occupation>
                      <occupation type="kaufmannsklasse">tuchlaubensverwandt/bürgerlich</occupation>
                <noteGrp><note target="wkfm-0465.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0465</note><note target="wkfm-0671.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0671</note><note target="wkfm-0672.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0672</note></noteGrp></person>
-                <person xml:id="wkfm__47051">
-                     <persName>
-                        <forename>Johann Georg</forename>
-                        <surname>Dumreicher</surname>
-                     </persName>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Buchhalter und Prokurist bei Franz Joseph Ferner</occupation>
-               <noteGrp><note target="wkfm-0671.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0671</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47050">
+                     <orgName>Franz Joseph Ferner</orgName>
+                  <noteGrp><note target="wkfm-0671.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0671</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

@@ -92,7 +92,7 @@
                <lb facs="#facs_89_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_89_r1l3" n="N003"/><rs type="person" ref="#wkfm__46375">Gerardi Dominicus</rs> burgerlicher Handlsmann
                <lb facs="#facs_89_r1l4" n="N004"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_89_r1l5" n="N005"/><rs type="person" ref="#wkfm__46376">Dominicus Gerardi</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 422 welche selber
+               <lb facs="#facs_89_r1l5" n="N005"/><rs type="org" ref="#wkfm__46376">Dominicus Gerardi</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 422 welche selber
                <lb facs="#facs_89_r1l6" n="N006"/>mitls Anbringen de ps: 22<hi style="superscript">ten</hi> Junii 754 N<hi style="superscript">o</hi> 423 eingeleget
                <lb facs="#facs_89_r1l7" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_89_r1l8" n="N008"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
@@ -121,6 +121,12 @@
                         <surname>Gerardi</surname>
                      </persName>
                <noteGrp><note target="wkfm-0901.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0901</note></noteGrp></person>
+                <person xml:id="wkfm__46378">
+                     <persName>
+                        <forename>Maria Anna</forename>
+                        <surname>Gerardi</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0901.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0901</note></noteGrp></person>
                 <person xml:id="wkfm__46375">
                      <persName>
                         <forename>Dominicus</forename>
@@ -141,12 +147,6 @@
                      <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-0901.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0901</note></noteGrp></person>
-                <person xml:id="wkfm__46378">
-                     <persName>
-                        <forename>Maria Anna</forename>
-                        <surname>Gerardi</surname>
-                     </persName>
                <noteGrp><note target="wkfm-0901.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0901</note></noteGrp></person>
                 <person xml:id="wkfm__46379">
                      <persName>

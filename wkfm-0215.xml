@@ -94,7 +94,7 @@
                <lb facs="#facs_161_r3l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_161_r3l2" n="N003"/><rs type="person" ref="#wkfm__25146">Barbieri Joseph</rs> burgerlicher Handlsmann
                <lb facs="#facs_161_line_1621469204390_3093" n="N004"/><seg type="orighead__firma">Firma oder Raggion</seg>
-               <lb facs="#facs_161_r3l5" n="N005"/><rs type="person" ref="#wkfm__43913">Anton Polidoro et <choice><expan/><abbr>Comp:</abbr></choice></rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 9
+               <lb facs="#facs_161_r3l5" n="N005"/><rs type="org" ref="#wkfm__43913">Anton Polidoro et <choice><expan/><abbr>Comp:</abbr></choice></rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 9
                <lb facs="#facs_161_r3l6" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_161_line_1621469149782_3080" n="N007"/>In obiger Erklährung N<hi style="superscript">o</hi> 989 ist die Firma von beden sociis einge-
                <lb facs="#facs_161_r3l9" n="N008"/>leget worden.
@@ -108,7 +108,7 @@
                <lb facs="#facs_161_line_1621469336956_3143" n="N016"/>Instrument eingeleget <choice><expan/><abbr>pr</abbr></choice> 3000 fl
                <lb facs="#facs_161_r3l22" n="N017"/><choice><expan>Summa</expan><abbr>Sa</abbr></choice> 8000 fl
                <lb facs="#facs_161_r3l23" n="N018"/>Über die von dem <rs type="person" ref="#wkfm__25146">Barbieri</rs> gemachte Anzeige de ps: 13<hi style="superscript">ten</hi> May 740 N<hi style="superscript">o</hi> 1177
-               <lb facs="#facs_161_r3l24" n="N019"/>das er denen <rs type="person" ref="#wkfm__29793">Rozzio: Erben</rs> an aberkaufter Handlung allschon 10231 fl
+               <lb facs="#facs_161_r3l24" n="N019"/>das er denen <rs type="org" ref="#wkfm__29793">Rozzio: Erben</rs> an aberkaufter Handlung allschon 10231 fl
                <lb facs="#facs_161_r3l25" n="N020"/>48 x<hi style="superscript">r</hi> baar abgeführet mithin um 2231 fl 48 x<hi style="superscript">r</hi> mehr als 8000 fl eigen-
                <lb facs="#facs_161_r3l26" n="N021"/>thumlich besize, ist zufolge der hierauf erlassnen Auflag und Quittung
                <lb facs="#facs_161_r3l27" n="N022"/>dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> May 740 das <rs type="person" ref="#wkfm__9136">Carlo Barbieri:</rs> laut Instrument den <rs type="person" ref="#wkfm__25146">Joseph Bar</rs>-
@@ -117,52 +117,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__19355" sameAs="#wkfm__23789 wkfm__28994 ">
-                     <persName>
-                        <forename>Anton Lukas</forename>
-                        <forename type="alt">Anton</forename>
-                        <surname>Polidoro</surname>
-                     </persName>
-                     <residence type="Bürgerrecht">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geburtsort">
-                        <placeName key="#wkfm-place__2600">Torbole</placeName>
-                     </residence>
-                     <occupation>Handelsmann, Spezereihändler</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-0213.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0213</note><note target="wkfm-0214.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0214</note><note target="wkfm-0215.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0215</note><note target="wkfm-0216.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0216</note><note target="wkfm-0283.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0283</note></noteGrp></person>
-                <person xml:id="wkfm__25146">
-                     <persName>
-                        <forename>Joseph</forename>
-                        <surname>Barbieri</surname>
-                     </persName>
-                     <death><date>1774</date></death>                    
-                     <residence type="Geschäftsadresse">
-                        <placeName>Zur Goldenen Ketten im Freysinger-Hof (Calender 1758)</placeName>
-                     </residence>
-                     <residence type="Bürgerrecht">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-                     <listBibl>
-                        <bibl>Huchler, Bürgeraufnahmen, 344.&amp;lt;br&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-0213.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0213</note><note target="wkfm-0214.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0214</note><note target="wkfm-0215.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0215</note><note target="wkfm-0216.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0216</note></noteGrp></person>
-                <person xml:id="wkfm__9136">
+    <back><listPerson><person xml:id="wkfm__9136">
                      <persName>
                         <forename>Karl</forename>
                         <forename type="alt">Carlo</forename>
@@ -191,11 +146,56 @@
                         <bibl>&amp;lt;div&amp;gt;Dotter, Italienische Kaufleute, 109f.; Huchler, Bürgeraufnahmen, 344 (16. November 1711); Harrer-Lucienfeld, Wien, seiner Häuser, Bd. 2.2, S. 251.&amp;lt;/div&amp;gt;&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0102.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0102</note><note target="wkfm-0103.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0103</note><note target="wkfm-0215.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0215</note><note target="wkfm-0283.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0283</note><note target="wkfm-0305.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0305</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__43913">
-                     <orgName>Anton Polidoro &amp; Co.</orgName>
-                  <noteGrp><note target="wkfm-0213.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0213</note><note target="wkfm-0214.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0214</note><note target="wkfm-0215.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0215</note></noteGrp></org>
-                <org xml:id="wkfm__29793">
+                <person xml:id="wkfm__25146">
+                     <persName>
+                        <forename>Joseph</forename>
+                        <surname>Barbieri</surname>
+                     </persName>
+                     <death><date>1774</date></death>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zur Goldenen Ketten im Freysinger-Hof (Calender 1758)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+                     <listBibl>
+                        <bibl>Huchler, Bürgeraufnahmen, 344.&amp;lt;br&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0213.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0213</note><note target="wkfm-0214.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0214</note><note target="wkfm-0215.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0215</note><note target="wkfm-0216.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0216</note></noteGrp></person>
+                <person xml:id="wkfm__19355" sameAs="#wkfm__23789 wkfm__28994 ">
+                     <persName>
+                        <forename>Anton Lukas</forename>
+                        <forename type="alt">Anton</forename>
+                        <surname>Polidoro</surname>
+                     </persName>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geburtsort">
+                        <placeName key="#wkfm-place__2600">Torbole</placeName>
+                     </residence>
+                     <occupation>Handelsmann, Spezereihändler</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-0213.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0213</note><note target="wkfm-0214.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0214</note><note target="wkfm-0215.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0215</note><note target="wkfm-0216.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0216</note><note target="wkfm-0283.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0283</note></noteGrp></person>
+                </listPerson><listOrg><org xml:id="wkfm__29793">
                      <orgName>Rozzio sel. Erben</orgName>
                   <noteGrp><note target="wkfm-0215.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0215</note></noteGrp></org>
+                <org xml:id="wkfm__43913">
+                     <orgName>Anton Polidoro &amp; Co.</orgName>
+                  <noteGrp><note target="wkfm-0213.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0213</note><note target="wkfm-0214.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0214</note><note target="wkfm-0215.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0215</note></noteGrp></org>
                 </listOrg></back></text>
 </TEI>

@@ -89,7 +89,7 @@
                <lb facs="#facs_127_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_127_r1l3" n="N003"/><rs type="person" ref="#wkfm__46556">Hochenauer Johann Michäl</rs> burgerlicher Handlsmann
                <lb facs="#facs_127_r1l4" n="N004"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_127_r1l5" n="N005"/><rs type="person" ref="#wkfm__46557">Joh: Michael Hochenauer</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 486 welche
+               <lb facs="#facs_127_r1l5" n="N005"/><rs type="org" ref="#wkfm__46557">Joh: Michael Hochenauer</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 486 welche
                <lb facs="#facs_127_r1l6" n="N006"/>derselbe mitls Anbringen de ps: 25<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 753 N<hi style="superscript">o</hi> 485 eingeleget
                <lb facs="#facs_127_r1l7" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_127_r1l8" n="N008"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
@@ -105,10 +105,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46557">
-                     <orgName>Johann Michael Hochenauer</orgName>
-                  <noteGrp><note target="wkfm-1047.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1047</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__46556">
+    <back><listPerson><person xml:id="wkfm__46556">
                      <persName>
                         <forename>Johann Michael</forename>
                         <surname>Hochenauer</surname>
@@ -155,5 +152,8 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 570.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1047.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1047</note><note target="wkfm-1833.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1833</note><note target="wkfm-1834.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1834</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46557">
+                     <orgName>Johann Michael Hochenauer</orgName>
+                  <noteGrp><note target="wkfm-1047.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1047</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

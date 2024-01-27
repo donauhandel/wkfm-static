@@ -91,7 +91,7 @@
                <lb facs="#facs_199_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_199_r1l2" n="N003"/><rs type="person" ref="#wkfm__43950"><unclear>Bacil<hi>l</hi>er</unclear> Paul Anton</rs> hofbefreyter Handlsmann
                <lb facs="#facs_199_r1l3" n="N004"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_199_r1l4" n="N005"/><rs type="person" ref="#wkfm__43951">Baciler und Pichler</rs> laut <hi>Erklährung</hi> Anbringen de ps: 10<hi style="superscript">ten</hi> <choice><expan/><abbr>9br:</abbr></choice> 738 N<hi style="superscript">o</hi> 123
+               <lb facs="#facs_199_r1l4" n="N005"/><rs type="org" ref="#wkfm__43951">Baciler und Pichler</rs> laut <hi>Erklährung</hi> Anbringen de ps: 10<hi style="superscript">ten</hi> <choice><expan/><abbr>9br:</abbr></choice> 738 N<hi style="superscript">o</hi> 123
                <lb facs="#facs_199_r1l5" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_199_r1l6" n="N007"/>In obigen Anbringen de ps: 10<hi style="superscript">ten</hi> <choice><expan/><abbr>9br:</abbr></choice> 738 N<hi style="superscript">o</hi> 123 ist die firma von
                <lb facs="#facs_199_r1l7" n="N008"/>beeden sociis eingeleget worden.
@@ -105,13 +105,16 @@
                <lb facs="#facs_199_r1l15" n="N016"/>gerukter Fertigung untern 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 738 <unclear>durgehends</unclear> Wahr zu
                <lb facs="#facs_199_line_1621471423540_3892" n="N017"/>seyn und mit dem beysaz daß der <rs type="person" ref="#wkfm__12722">Scheigl</rs> die 8547 fl 51 x<hi style="superscript">r</hi> für eine richtige Schuld
                <lb facs="#facs_199_r1l18" n="N018"/>erkehnet, bestättiget, beedes in <choice><expan/><abbr>orig:</abbr></choice> <hi>eingeleget</hi> N<hi style="superscript">o</hi> 1184 nebst
-               <lb facs="#facs_199_r1l19" n="N019"/>dem Kauf Contract zwischen <rs type="person" ref="#wkfm__12722">Philipp Scheigl</rs> dann <rs type="person" ref="#wkfm__43951">Baciller und Pichler</rs>
+               <lb facs="#facs_199_r1l19" n="N019"/>dem Kauf Contract zwischen <rs type="person" ref="#wkfm__12722">Philipp Scheigl</rs> dann <rs type="org" ref="#wkfm__43951">Baciller und Pichler</rs>
                <lb facs="#facs_199_line_1621471397832_3871" n="N020"/>dd<hi style="superscript">to</hi> 9<hi style="superscript">ten</hi> Julii 737 er <unclear>vid:</unclear> No 1185 eingeleget.
             </ab>
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43950">
+    <back><listOrg><org xml:id="wkfm__43951">
+                     <orgName>Baciller und Pichler</orgName>
+                  <noteGrp><note target="wkfm-0253.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0253</note><note target="wkfm-0254.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0254</note><note target="wkfm-0255.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0255</note><note target="wkfm-0256.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0256</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__43950">
                      <persName>
                         <forename>Paul Anton</forename>
                         <surname>Baciller</surname>
@@ -133,8 +136,5 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
                <noteGrp><note target="wkfm-0253.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0253</note><note target="wkfm-0254.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0254</note><note target="wkfm-0255.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0255</note><note target="wkfm-1459.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1459</note><note target="wkfm-1460.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1460</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__43951">
-                     <orgName>Baciller und Pichler</orgName>
-                  <noteGrp><note target="wkfm-0253.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0253</note><note target="wkfm-0254.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0254</note><note target="wkfm-0255.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0255</note><note target="wkfm-0256.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0256</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

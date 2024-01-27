@@ -86,7 +86,7 @@
                <lb facs="#facs_51_r2l1" n="N001"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_51_r2l2" n="N002"/><rs type="person" ref="#wkfm__46229">Togneti Franz</rs> burgerlicher Handlsmann
                <lb facs="#facs_51_r2l3" n="N003"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_51_r2l4" n="N004"/><rs type="person" ref="#wkfm__46230">Frantz Togneti</rs> laut Erklährung dd<hi style="superscript">to</hi> 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 267
+               <lb facs="#facs_51_r2l4" n="N004"/><rs type="org" ref="#wkfm__46230">Frantz Togneti</rs> laut Erklährung dd<hi style="superscript">to</hi> 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 267
                <lb facs="#facs_51_r2l5" n="N005"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_51_r2l6" n="N006"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_51_r2l7" n="N007"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
@@ -94,10 +94,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46230">
-                     <orgName>Franz Togneti</orgName>
-                  <noteGrp><note target="wkfm-0551.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0551</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__46229">
+    <back><listPerson><person xml:id="wkfm__46229">
                      <persName>
                         <forename>Franz</forename>
                         <surname>Togneti</surname>
@@ -120,5 +117,8 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 364 (5. November 1721: &amp;#34;Dogneto&amp;#34;).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0551.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0551</note><note target="wkfm-0552.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0552</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46230">
+                     <orgName>Franz Togneti</orgName>
+                  <noteGrp><note target="wkfm-0551.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0551</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

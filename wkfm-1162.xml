@@ -83,7 +83,7 @@
                <lb facs="#facs_62_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_62_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 13<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 731 N<hi style="superscript">o</hi> 1990 hat hat sich der <rs type="person" ref="#wkfm__37701">Langwider</rs>
                <lb facs="#facs_62_r1l3" n="N003"/>nebst dem <rs type="person" ref="#wkfm__28699">Sebastian Johann Ampach</rs> geäusseret, daß sie ihre Handlung mit-
-               <lb facs="#facs_62_r1l4" n="N004"/>einander aufgerichtet und unter der societaets Firma <rs type="person" ref="#wkfm__20402">Langwider und Ampach</rs>
+               <lb facs="#facs_62_r1l4" n="N004"/>einander aufgerichtet und unter der societaets Firma <rs type="org" ref="#wkfm__20402">Langwider und Ampach</rs>
                <lb facs="#facs_62_r1l5" n="N005"/>führen werden
                <lb facs="#facs_62_r1l6" n="N006"/>Mitls Anbringen de ps: 7<hi style="superscript">ten</hi> Junii 734 N<hi style="superscript">o</hi> 1992 und Erklährung dd<hi style="superscript">to</hi> 22<hi style="superscript">ten</hi> May
                <lb facs="#facs_62_r1l7" n="N007"/>734 N<hi style="superscript">o</hi> 532 hat der <rs type="person" ref="#wkfm__37701">Langwider</rs> angezeiget, das die societaet mit dem
@@ -95,31 +95,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__20402">
-                     <orgName>Langwider und Ambach</orgName>
-                  <noteGrp><note target="wkfm-0040.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0040</note><note target="wkfm-1161.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1161</note><note target="wkfm-1162.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1162</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__28699" sameAs="#wkfm__40158 ">
-                     <persName>
-                        <forename>Sebastian Johann</forename>
-                        <surname>Ambach</surname>
-                        <surname type="alt">Ampach</surname>
-                     </persName>
-                     <residence type="Bürgerrecht">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-                     <listBibl>
-                        <bibl>Huchler, Bürgeraufnahmen, 338.</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-0040.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0040</note><note target="wkfm-0041.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0041</note><note target="wkfm-1161.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1161</note><note target="wkfm-1162.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1162</note></noteGrp></person>
-                <person xml:id="wkfm__37701">
+    <back><listPerson><person xml:id="wkfm__37701">
                      <persName>
                         <forename>Philipp Joseph</forename>
                         <surname>Langwider</surname>
@@ -144,5 +120,29 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 442.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0041.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0041</note><note target="wkfm-0297.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0297</note><note target="wkfm-0611.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0611</note><note target="wkfm-1161.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1161</note><note target="wkfm-1162.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1162</note></noteGrp></person>
-                </listPerson></back></text>
+                <person xml:id="wkfm__28699" sameAs="#wkfm__40158 ">
+                     <persName>
+                        <forename>Sebastian Johann</forename>
+                        <surname>Ambach</surname>
+                        <surname type="alt">Ampach</surname>
+                     </persName>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+                     <listBibl>
+                        <bibl>Huchler, Bürgeraufnahmen, 338.</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0040.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0040</note><note target="wkfm-0041.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0041</note><note target="wkfm-1161.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1161</note><note target="wkfm-1162.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1162</note></noteGrp></person>
+                </listPerson><listOrg><org xml:id="wkfm__20402">
+                     <orgName>Langwider und Ambach</orgName>
+                  <noteGrp><note target="wkfm-0040.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0040</note><note target="wkfm-1161.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1161</note><note target="wkfm-1162.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1162</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

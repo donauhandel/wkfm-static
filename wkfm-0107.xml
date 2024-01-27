@@ -82,9 +82,9 @@
                <lb facs="#facs_54_r1l2" n="N002"/>In obiger Erklährung hat sich der <rs type="person" ref="#wkfm__8116">Pehamb</rs> geäusseret, das
                <lb facs="#facs_54_r1l3" n="N003"/>er mit Niehmand interessiert seye.
                <lb facs="#facs_54_r1l4" n="N004"/>In obiger Erklährung dd<hi style="superscript">to</hi> 1<hi style="superscript">ten</hi> Julii 729 N<hi style="superscript">o</hi> 84 ist die Anzeige
-               <lb facs="#facs_54_r1l5" n="N005"/>gemacht, daß <hi>des Verstrobenen</hi> das unter dem Nahmen <rs type="person" ref="#wkfm__47292">Mathias
+               <lb facs="#facs_54_r1l5" n="N005"/>gemacht, daß <hi>des Verstrobenen</hi> das unter dem Nahmen <rs type="org" ref="#wkfm__47292">Mathias
                <lb break="no" facs="#facs_54_r1l6" n="N006"/>Pehamb</rs> gelofene Negotium nach dessen erfolgten Tots unter
-               <lb facs="#facs_54_r1l7" n="N007"/>der Raggion <rs type="person" ref="#wkfm__43847">Mathias Pehamb <choice><expan/><abbr>seel:</abbr></choice> Wittib und Franz Gerdill</rs>
+               <lb facs="#facs_54_r1l7" n="N007"/>der Raggion <rs type="org" ref="#wkfm__43847">Mathias Pehamb <choice><expan/><abbr>seel:</abbr></choice> Wittib und Franz Gerdill</rs>
                <lb facs="#facs_54_r1l8" n="N008"/>unter beeder obligo und <choice><expan>Interesse</expan><abbr>intee</abbr></choice> prosequiret werden wird
                <lb facs="#facs_54_r1l9" n="N009"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_54_r1l11" n="N010"/><seg type="orighead__other_notes">Anmerkungen</seg>
@@ -92,13 +92,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47292">
-                     <orgName>Matthias Beham</orgName>
-                  <noteGrp><note target="wkfm-0106.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0106</note><note target="wkfm-0107.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0107</note></noteGrp></org>
-                <org xml:id="wkfm__43847">
-                     <orgName>Matthias Beham sel. Witwe und Franz Gerdill</orgName>
-                  <noteGrp><note target="wkfm-0106.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0106</note><note target="wkfm-0107.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0107</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__8116">
+    <back><listPerson><person xml:id="wkfm__8116">
                      <persName>
                         <forename>Matthias</forename>
                         <surname>Beham</surname>
@@ -120,5 +114,11 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0106.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0106</note><note target="wkfm-0107.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0107</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47292">
+                     <orgName>Matthias Beham</orgName>
+                  <noteGrp><note target="wkfm-0106.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0106</note><note target="wkfm-0107.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0107</note></noteGrp></org>
+                <org xml:id="wkfm__43847">
+                     <orgName>Matthias Beham sel. Witwe und Franz Gerdill</orgName>
+                  <noteGrp><note target="wkfm-0106.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0106</note><note target="wkfm-0107.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0107</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

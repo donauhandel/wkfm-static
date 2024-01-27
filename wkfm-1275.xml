@@ -92,16 +92,16 @@
                <lb facs="#facs_91_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_91_r1l3" n="N003"/><rs type="person" ref="#wkfm__46729">Mayer Joseph</rs> burgerlicher Handlsmann
                <lb facs="#facs_91_r1l4" n="N004"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_91_r1l5" n="N005"/><rs type="person" ref="#wkfm__46728">Rebay und Mayer</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 586
-               <lb facs="#facs_91_r1l6" n="N006"/><rs type="person" ref="#wkfm__46537">Mayer und Hakell</rs> laut Anbringen de ps: 19<hi style="superscript">ten</hi> Junii 747 N<hi style="superscript">o</hi> 2005
-               <lb facs="#facs_91_r1l7" n="N007"/><rs type="person" ref="#wkfm__46929">Joseph Mayer</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 593 welche derselbe mitls
+               <lb facs="#facs_91_r1l5" n="N005"/><rs type="org" ref="#wkfm__46728">Rebay und Mayer</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 586
+               <lb facs="#facs_91_r1l6" n="N006"/><rs type="org" ref="#wkfm__46537">Mayer und Hakell</rs> laut Anbringen de ps: 19<hi style="superscript">ten</hi> Junii 747 N<hi style="superscript">o</hi> 2005
+               <lb facs="#facs_91_r1l7" n="N007"/><rs type="org" ref="#wkfm__46929">Joseph Mayer</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 593 welche derselbe mitls
                <lb facs="#facs_91_r1l8" n="N008"/>Anbringen de ps: 23<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 756 N<hi style="superscript">o</hi> 594 eingeleget
                <lb facs="#facs_91_r1l9" n="N009"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_91_r1l10" n="N010"/>In obiger Erklährung <hi>ist die</hi> sine dato N<hi style="superscript">o</hi> 586 ist die <hi>C</hi> Firma der Raggion
-               <lb facs="#facs_91_r1l12" n="N011"/><rs type="person" ref="#wkfm__46728">Rebay und Mayer</rs> von beeden sociis <rs type="person" ref="#wkfm__46729">Joseph Mayer</rs> und <rs type="person" ref="#wkfm__29325">Johann Heinrich Rebay</rs> einge-
+               <lb facs="#facs_91_r1l12" n="N011"/><rs type="org" ref="#wkfm__46728">Rebay und Mayer</rs> von beeden sociis <rs type="person" ref="#wkfm__46729">Joseph Mayer</rs> und <rs type="person" ref="#wkfm__29325">Johann Heinrich Rebay</rs> einge-
                <lb facs="#facs_91_r1l13" n="N012"/>leget worden
                <lb facs="#facs_91_r1l14" n="N013"/>In obigen Anbringen de ps: 19<hi style="superscript">ten</hi> Junii 747 N<hi style="superscript">o</hi> 2005 ist die Firma der Raggion
-               <lb facs="#facs_91_r1l15" n="N014"/><rs type="person" ref="#wkfm__46537">Mayer und Hakell</rs> von beeden sociis <rs type="person" ref="#wkfm__46729">Joseph Mayer</rs> und <rs type="person" ref="#wkfm__46535">Franz Hakell</rs> ein-
+               <lb facs="#facs_91_r1l15" n="N014"/><rs type="org" ref="#wkfm__46537">Mayer und Hakell</rs> von beeden sociis <rs type="person" ref="#wkfm__46729">Joseph Mayer</rs> und <rs type="person" ref="#wkfm__46535">Franz Hakell</rs> ein-
                <lb facs="#facs_91_r1l16" n="N015"/>geleget worden.
                <lb facs="#facs_91_r1l17" n="N016"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_91_r1l18" n="N017"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
@@ -137,27 +137,6 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 398.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1035.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1035</note><note target="wkfm-1036.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1036</note><note target="wkfm-1275.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1275</note><note target="wkfm-1276.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1276</note></noteGrp></person>
-                <person xml:id="wkfm__46729">
-                     <persName>
-                        <forename>Joseph</forename>
-                        <surname>Mayr</surname>
-                        <surname type="alt">Mayer</surname>
-                     </persName>
-                     <residence type="Bürgerrecht">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-                     <listBibl>
-                        <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 458 (April 1746).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-1275.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1275</note><note target="wkfm-1276.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1276</note><note target="wkfm-1420.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1420</note></noteGrp></person>
                 <person xml:id="wkfm__29325">
                      <persName>
                         <forename>Johann Heinrich</forename>
@@ -182,14 +161,35 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 497 (&amp;#34;Rebai&amp;#34;).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1036.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1036</note><note target="wkfm-1275.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1275</note><note target="wkfm-1276.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1276</note><note target="wkfm-1419.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1419</note><note target="wkfm-1420.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1420</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46728">
+                <person xml:id="wkfm__46729">
+                     <persName>
+                        <forename>Joseph</forename>
+                        <surname>Mayr</surname>
+                        <surname type="alt">Mayer</surname>
+                     </persName>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+                     <listBibl>
+                        <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 458 (April 1746).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-1275.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1275</note><note target="wkfm-1276.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1276</note><note target="wkfm-1420.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1420</note></noteGrp></person>
+                </listPerson><listOrg><org xml:id="wkfm__46929">
+                     <orgName>Joseph Mayr</orgName>
+                  <noteGrp><note target="wkfm-1275.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1275</note></noteGrp></org>
+                <org xml:id="wkfm__46728">
                      <orgName>Rebay und Mayr</orgName>
                   <noteGrp><note target="wkfm-1275.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1275</note><note target="wkfm-1276.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1276</note><note target="wkfm-1419.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1419</note><note target="wkfm-1420.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1420</note></noteGrp></org>
                 <org xml:id="wkfm__46537">
                      <orgName>Mayr und Hackl</orgName>
                   <noteGrp><note target="wkfm-1035.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1035</note><note target="wkfm-1036.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1036</note><note target="wkfm-1275.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1275</note><note target="wkfm-1276.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1276</note></noteGrp></org>
-                <org xml:id="wkfm__46929">
-                     <orgName>Joseph Mayr</orgName>
-                  <noteGrp><note target="wkfm-1275.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1275</note></noteGrp></org>
                 </listOrg></back></text>
 </TEI>

@@ -86,7 +86,7 @@
                <lb facs="#facs_209_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_209_r1l3" n="N003"/><rs type="person" ref="#wkfm__47370">Perger Johann Anton</rs> burgerlicher Handlsmann
                <lb facs="#facs_209_r1l4" n="N004"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_209_r1l5" n="N005"/><rs type="person" ref="#wkfm__47371">Johann Anton Perger</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 128
+               <lb facs="#facs_209_r1l5" n="N005"/><rs type="org" ref="#wkfm__47371">Johann Anton Perger</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 128
                <lb facs="#facs_209_r1l6" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_209_r1l7" n="N007"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_209_r1l8" n="N008"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
@@ -100,29 +100,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47370">
-                     <persName>
-                        <forename>Johann Anton</forename>
-                        <surname>Perger</surname>
-                     </persName>                    
-                     <residence type="Geschäftsadresse">
-                        <placeName>Zum Goldenen Hirschen unter den Tuchlauben (Calender 1758)</placeName>
-                     </residence>
-                     <residence type="Bürgerrecht">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-                     <listBibl>
-                        <bibl>Huchler, Bürgeraufnahmen, 480.</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-0263.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0263</note></noteGrp></person>
-                <person xml:id="wkfm__16482">
+    <back><listOrg><org xml:id="wkfm__47371">
+                     <orgName>Johann Anton Perger</orgName>
+                  <noteGrp><note target="wkfm-0263.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0263</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__16482">
                      <persName>
                         <forename>Cornelius Daniel</forename>
                         <surname>Schick</surname>
@@ -147,8 +128,27 @@
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 514.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0263.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0263</note><note target="wkfm-1507.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1507</note><note target="wkfm-1508.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1508</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__47371">
-                     <orgName>Johann Anton Perger</orgName>
-                  <noteGrp><note target="wkfm-0263.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0263</note></noteGrp></org>
-                </listOrg></back></text>
+                <person xml:id="wkfm__47370">
+                     <persName>
+                        <forename>Johann Anton</forename>
+                        <surname>Perger</surname>
+                     </persName>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zum Goldenen Hirschen unter den Tuchlauben (Calender 1758)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <listBibl>
+                        <bibl>Huchler, Bürgeraufnahmen, 480.</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0263.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0263</note></noteGrp></person>
+                </listPerson></back></text>
 </TEI>

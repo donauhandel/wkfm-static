@@ -82,7 +82,7 @@
                <lb facs="#facs_7_r1l2" n="N003"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_7_r1l4" n="N004"/><rs type="person" ref="#wkfm__46604">Zöhrer Johann Georg</rs> burgerlicher Handlsmann
                <lb facs="#facs_7_r1l5" n="N005"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_7_r1l6" n="N006"/><rs type="person" ref="#wkfm__46605">Johann Georg Zöhrer</rs> laut Erklährung dd<hi style="superscript">to</hi> 9<hi style="superscript">ten</hi> Julii 726 N<hi style="superscript">o</hi> 845
+               <lb facs="#facs_7_r1l6" n="N006"/><rs type="org" ref="#wkfm__46605">Johann Georg Zöhrer</rs> laut Erklährung dd<hi style="superscript">to</hi> 9<hi style="superscript">ten</hi> Julii 726 N<hi style="superscript">o</hi> 845
                <lb facs="#facs_7_r1l7" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_7_r1l8" n="N008"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_7_r1l9" n="N009"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
@@ -90,10 +90,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46605">
-                     <orgName>Johann Georg Zöhrer</orgName>
-                  <noteGrp><note target="wkfm-1837.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1837</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__46604">
+    <back><listPerson><person xml:id="wkfm__46604">
                      <persName>
                         <forename>Johann Georg</forename>
                         <surname>Zöhrer</surname>
@@ -113,5 +110,8 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 573.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1837.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1837</note><note target="wkfm-1838.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1838</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46605">
+                     <orgName>Johann Georg Zöhrer</orgName>
+                  <noteGrp><note target="wkfm-1837.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1837</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

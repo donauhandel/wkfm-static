@@ -80,7 +80,7 @@
                <lb facs="#facs_21_r2l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_21_r2l2" n="N003"/><rs type="person" ref="#wkfm__9920">Schwannasini Johann Baptista</rs> k. k. Niderlags Verwanter
                <lb facs="#facs_21_r2l3" n="N004"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_21_r2l4" n="N005"/><rs type="person" ref="#wkfm__47408">Johann Bapta Schwannasin</rs> laut Anbringen de ps: 11<hi style="superscript">ten</hi> Junii 725 N<hi style="superscript">o</hi> 666
+               <lb facs="#facs_21_r2l4" n="N005"/><rs type="org" ref="#wkfm__47408">Johann Bapta Schwannasin</rs> laut Anbringen de ps: 11<hi style="superscript">ten</hi> Junii 725 N<hi style="superscript">o</hi> 666
                <lb facs="#facs_21_r2l5" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_21_r2l6" n="N007"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_21_r2l7" n="N008"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
@@ -88,7 +88,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__9920">
+    <back><listOrg><org xml:id="wkfm__47408">
+                     <orgName>Johann Baptist Schwanesini</orgName>
+                  <noteGrp><note target="wkfm-1479.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1479</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__9920">
                      <persName>
                         <forename>Johann Baptist</forename>
                         <surname>Schwanesini</surname>
@@ -110,8 +113,5 @@
                         <bibl>Rauscher/Serles, Märkte, 79/Anm. 82.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1479.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1479</note><note target="wkfm-1480.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1480</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__47408">
-                     <orgName>Johann Baptist Schwanesini</orgName>
-                  <noteGrp><note target="wkfm-1479.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1479</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

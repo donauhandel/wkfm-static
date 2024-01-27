@@ -81,7 +81,7 @@
                <lb facs="#facs_87_r2l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_87_r2l3" n="N003"/><rs type="person" ref="#wkfm__16654">Schwandner Georg Gotthard</rs> burgerlicher Leinwathandler
                <lb facs="#facs_87_r2l5" n="N004"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_87_r2l6" n="N005"/><rs type="person" ref="#wkfm__47457">Georg Gotthard Schwandner</rs> laut Anbringen de ps: 23<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 725
+               <lb facs="#facs_87_r2l6" n="N005"/><rs type="org" ref="#wkfm__47457">Georg Gotthard Schwandner</rs> laut Anbringen de ps: 23<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 725
                <lb facs="#facs_87_r2l7" n="N006"/>N<hi style="superscript">o</hi> 699
                <lb facs="#facs_87_r2l8" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_87_r2l9" n="N008"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
@@ -90,10 +90,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47457">
-                     <orgName>Georg Gotthard Schwandner</orgName>
-                  <noteGrp><note target="wkfm-1545.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1545</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__16654" sameAs="#wkfm__16272 wkfm__18493 wkfm__19994 ">
+    <back><listPerson><person xml:id="wkfm__16654" sameAs="#wkfm__16272 wkfm__18493 wkfm__19994 ">
                      <persName>
                         <forename>Georg Gotthard</forename>
                         <surname>Schwandner</surname>
@@ -113,5 +110,8 @@
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 526 (30. April 1720).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1431.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1431</note><note target="wkfm-1545.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1545</note><note target="wkfm-1546.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1546</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47457">
+                     <orgName>Georg Gotthard Schwandner</orgName>
+                  <noteGrp><note target="wkfm-1545.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1545</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

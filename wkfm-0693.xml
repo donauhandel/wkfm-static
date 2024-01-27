@@ -83,7 +83,7 @@
                <lb facs="#facs_25_r3l3" n="N004"/><rs type="person" ref="#wkfm__12360">Fuchß Bernhard</rs> burgerlicher Handlsmann
                <lb facs="#facs_25_r3l4" n="N005"/><seg type="orighead__firma">Firma ad Raggion</seg>
                <lb facs="#facs_25_r3l5" n="N006"/><hi>Bernhardt Fuchß laut Erklährung dd<hi style="superscript"/></hi>to
-               <lb facs="#facs_25_r3l6" n="N007"/><rs type="person" ref="#wkfm__47068">Bernhardt Fuchß und Sohn</rs> laut Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 1932
+               <lb facs="#facs_25_r3l6" n="N007"/><rs type="org" ref="#wkfm__47068">Bernhardt Fuchß und Sohn</rs> laut Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 1932
                <lb facs="#facs_25_r3l7" n="N008"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_25_r3l8" n="N009"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_25_r3l9" n="N010"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
@@ -91,7 +91,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__12360" sameAs="#wkfm__41173 ">
+    <back><listOrg><org xml:id="wkfm__47068">
+                     <orgName>Bernhard Fuchs und Sohn</orgName>
+                  <noteGrp><note target="wkfm-0693.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0693</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__12360" sameAs="#wkfm__41173 ">
                      <persName>
                         <forename>Bernhard</forename>
                         <surname>Fuchs</surname>
@@ -115,8 +118,5 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0693.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0693</note><note target="wkfm-0694.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0694</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__47068">
-                     <orgName>Bernhard Fuchs und Sohn</orgName>
-                  <noteGrp><note target="wkfm-0693.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0693</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

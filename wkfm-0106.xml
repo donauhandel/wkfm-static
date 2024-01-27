@@ -84,12 +84,12 @@
                <lb facs="#facs_53_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_53_r1l2" n="N003"/><rs type="person" ref="#wkfm__8116">Pehamb Mathias</rs> burgerlicher Handlsmann
                <lb facs="#facs_53_r1l3" n="N004"/><seg type="orighead__firma">Firma oder Raggion</seg>
-               <lb facs="#facs_53_r1l4" n="N005"/><rs type="person" ref="#wkfm__47292">Mathias Pehamb</rs> laut Erkährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 45
-               <lb facs="#facs_53_r1l5" n="N006"/><rs type="person" ref="#wkfm__43847">Mathias Pehamb <choice><expan/><abbr>seel:</abbr></choice> Wittib und Franz Gerdill</rs> laut Erklährung
+               <lb facs="#facs_53_r1l4" n="N005"/><rs type="org" ref="#wkfm__47292">Mathias Pehamb</rs> laut Erkährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 45
+               <lb facs="#facs_53_r1l5" n="N006"/><rs type="org" ref="#wkfm__43847">Mathias Pehamb <choice><expan/><abbr>seel:</abbr></choice> Wittib und Franz Gerdill</rs> laut Erklährung
                <lb facs="#facs_53_r1l6" n="N007"/>dd<hi style="superscript">to</hi> 1<hi style="superscript">ten</hi> <choice><expan/><abbr>Jul:</abbr></choice> 729 N<hi style="superscript">o</hi> 84
                <lb facs="#facs_53_r1l7" n="N008"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_53_r1l8" n="N009"/>In obiger Erklährung dd<hi style="superscript">to</hi> 1<hi style="superscript">ten</hi> Julii 729 N<hi style="superscript">o</hi> 84 ist die Anzeige ge-
-               <lb facs="#facs_53_r1l9" n="N010"/>macht worden, daß von der Raggion <rs type="person" ref="#wkfm__43847">Mathias Pehamb <choice><expan/><abbr>seel.</abbr></choice> Wittib
+               <lb facs="#facs_53_r1l9" n="N010"/>macht worden, daß von der Raggion <rs type="org" ref="#wkfm__43847">Mathias Pehamb <choice><expan/><abbr>seel.</abbr></choice> Wittib
                <lb break="no" facs="#facs_53_r1l10" n="N011"/>und Franz Gerdill</rs> die Firma der <rs type="person" ref="#wkfm__43848">Franz Gerdill</rs> führen wird
                <lb facs="#facs_53_r1l11" n="N012"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_53_r1l12" n="N013"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
@@ -97,28 +97,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43848">
-                     <persName>
-                        <forename>Franz</forename>
-                        <surname>Gerdill</surname>
-                     </persName>
-                     <death><date>1735</date></death>
-                     <residence type="Bürgerrecht">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-                     <listBibl>
-                        <bibl>Huchler, Bürgeraufnahmen, 386.&amp;lt;br&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-0106.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0106</note></noteGrp></person>
-                <person xml:id="wkfm__8116">
+    <back><listPerson><person xml:id="wkfm__8116">
                      <persName>
                         <forename>Matthias</forename>
                         <surname>Beham</surname>
@@ -140,6 +119,27 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0106.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0106</note><note target="wkfm-0107.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0107</note></noteGrp></person>
+                <person xml:id="wkfm__43848">
+                     <persName>
+                        <forename>Franz</forename>
+                        <surname>Gerdill</surname>
+                     </persName>
+                     <death><date>1735</date></death>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+                     <listBibl>
+                        <bibl>Huchler, Bürgeraufnahmen, 386.&amp;lt;br&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0106.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0106</note></noteGrp></person>
                 </listPerson><listOrg><org xml:id="wkfm__47292">
                      <orgName>Matthias Beham</orgName>
                   <noteGrp><note target="wkfm-0106.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0106</note><note target="wkfm-0107.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0107</note></noteGrp></org>

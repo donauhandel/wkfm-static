@@ -87,14 +87,14 @@
                <lb facs="#facs_7_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_7_r1l3" n="N003"/><rs type="person" ref="#wkfm__11130">Hirschl Marx</rs> Jud
                <lb facs="#facs_7_r1l4" n="N004"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_7_r1l5" n="N005"/><rs type="person" ref="#wkfm__43820">Lazarus Hierschl Erben </rs>dann in particulari
-               <lb facs="#facs_7_r1l6" n="N006"/><rs type="person" ref="#wkfm__46616">Marx Hirschl </rs>beedes laut Anbringen de ps: 18<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 1960
+               <lb facs="#facs_7_r1l5" n="N005"/><rs type="org" ref="#wkfm__43820">Lazarus Hierschl Erben </rs>dann in particulari
+               <lb facs="#facs_7_r1l6" n="N006"/><rs type="org" ref="#wkfm__46616">Marx Hirschl </rs>beedes laut Anbringen de ps: 18<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 1960
                <lb facs="#facs_7_r1l7" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_7_r1l8" n="N008"/>Mitls Anbringen de ps: 23<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 734 N<hi style="superscript">o</hi> 993 hat der <rs type="person" ref="#wkfm__43821">Simon Veytl Maär </rs>Jud
                <lb facs="#facs_7_line_1630416612791_639" n="N009"/>die ihm von dem <rs type="person" ref="#wkfm__11130">Marx Hirschl</rs> auf seine eigne Raggion <rs type="person" ref="#wkfm__11130">Marx Hirschl</rs> ertheilte
                <lb facs="#facs_7_line_1630416669724_653" n="N010"/><choice><expan/><abbr>orig.</abbr></choice> Procura dd<hi style="superscript">to</hi> 18<hi style="superscript">ten</hi> Junii 734 N<hi style="superscript">o</hi> 992 eingeleget
                <lb facs="#facs_7_r1l15" n="N011"/>In obigen Anbringen de ps: 18<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 1960 ist die Firma oder Raggion
-               <lb facs="#facs_7_r1l16" n="N012"/><rs type="person" ref="#wkfm__43820">Lazarus Hirschels Erben</rs> von zweyen Brüdern und Sociis <rs type="person" ref="#wkfm__11130">Marx Hirschl</rs>
+               <lb facs="#facs_7_r1l16" n="N012"/><rs type="org" ref="#wkfm__43820">Lazarus Hirschels Erben</rs> von zweyen Brüdern und Sociis <rs type="person" ref="#wkfm__11130">Marx Hirschl</rs>
                <lb facs="#facs_7_r1l17" n="N013"/>und <rs type="person" ref="#wkfm__43822">Mayer Hirschl</rs> eingeleget worden.
                <lb facs="#facs_7_r1l18" n="N014"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_7_r1l19" n="N015"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
@@ -102,7 +102,17 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43822">
+    <back><listPerson><person xml:id="wkfm__43821">
+                     <persName>
+                        <forename>Simon Veitl</forename>
+                        <surname>Mäar</surname>
+                     </persName>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Prokurist des Marx Hirschl</occupation>
+               <noteGrp><note target="wkfm-1861.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1861</note></noteGrp></person>
+                <person xml:id="wkfm__43822">
                      <persName>
                         <forename>Mayr</forename>
                         <surname>Hirschl</surname>
@@ -119,16 +129,6 @@
                         <bibl>Wachstein, Die Wiener Juden in Handel und Industrie.</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1861.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1861</note><note target="wkfm-1862.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1862</note></noteGrp></person>
-                <person xml:id="wkfm__43821">
-                     <persName>
-                        <forename>Simon Veitl</forename>
-                        <surname>Mäar</surname>
-                     </persName>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Prokurist des Marx Hirschl</occupation>
-               <noteGrp><note target="wkfm-1861.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1861</note></noteGrp></person>
                 <person xml:id="wkfm__11130">
                      <persName>
                         <forename>Marx</forename>

@@ -84,7 +84,7 @@
                <lb facs="#facs_77_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_77_r1l3" n="N003"/><rs type="person" ref="#wkfm__10201">Bittoni Johann Leonhard</rs> burgerlicher Handlsmann
                <lb facs="#facs_77_r1l4" n="N004"/><seg type="orighead__firma">Firma oder Raggion</seg>
-               <lb facs="#facs_77_r1l5" n="N005"/><rs type="person" ref="#wkfm__47305">Johann <hi>Bernhar</hi> Leonhard Bittoni</rs> laut Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi>
+               <lb facs="#facs_77_r1l5" n="N005"/><rs type="org" ref="#wkfm__47305">Johann <hi>Bernhar</hi> Leonhard Bittoni</rs> laut Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi>
                <lb facs="#facs_77_r1l6" n="N006"/><choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 97
                <lb facs="#facs_77_line_1628441889876_618" n="N008"/>Mitls Anbringen de ps: 29<hi style="superscript">ten</hi> May 727 N<hi style="superscript">o</hi> 897 hat der <rs type="person" ref="#wkfm__10201">Pottoni</rs> die wehrend seiner Abwesenheit seinem bedienten <rs type="person" ref="#wkfm__43880">Johann
                <lb break="no" facs="#facs_77_r1l9" n="N009"/>Michäl Mayr</rs> untern 24<hi style="superscript">ten</hi> May 727 ertheilte <choice><expan/><abbr>orig:</abbr></choice> Procura mit beygerukter Firma
@@ -95,10 +95,17 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47305">
-                     <orgName>Johann Leonhard Bittoni</orgName>
-                  <noteGrp><note target="wkfm-0130.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0130</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__10201" sameAs="#wkfm__8501 ">
+    <back><listPerson><person xml:id="wkfm__43880" sameAs="#wkfm__22087 ">
+                     <persName>
+                        <forename>Johann Michael</forename>
+                        <surname>Mayr</surname>
+                     </persName>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Angestellter und Prokurist des Johann Leonhard Bittoni</occupation>
+               <noteGrp><note target="wkfm-0130.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0130</note></noteGrp></person>
+                <person xml:id="wkfm__10201" sameAs="#wkfm__8501 ">
                      <persName>
                         <forename>Johann Leonhard</forename>
                         <surname>Bittoni</surname>
@@ -120,15 +127,8 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0130.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0130</note><note target="wkfm-0131.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0131</note><note target="wkfm-0798.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0798</note><note target="wkfm-1263.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1263</note></noteGrp></person>
-                <person xml:id="wkfm__43880" sameAs="#wkfm__22087 ">
-                     <persName>
-                        <forename>Johann Michael</forename>
-                        <surname>Mayr</surname>
-                     </persName>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Angestellter und Prokurist des Johann Leonhard Bittoni</occupation>
-               <noteGrp><note target="wkfm-0130.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0130</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47305">
+                     <orgName>Johann Leonhard Bittoni</orgName>
+                  <noteGrp><note target="wkfm-0130.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0130</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

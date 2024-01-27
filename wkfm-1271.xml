@@ -87,7 +87,7 @@
                <lb facs="#facs_87_r3l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_87_r3l2" n="N003"/><rs type="person" ref="#wkfm__30195">Muth Anton</rs> burgerlicher Handlsmann
                <lb facs="#facs_87_r3l3" n="N004"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_87_r3l4" n="N005"/><rs type="person" ref="#wkfm__46925">Antony Muth</rs> laut Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 743 N<hi style="superscript">o</hi> 584
+               <lb facs="#facs_87_r3l4" n="N005"/><rs type="org" ref="#wkfm__46925">Antony Muth</rs> laut Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 743 N<hi style="superscript">o</hi> 584
                <lb facs="#facs_87_line_1624963463572_2663" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_87_r3l5" n="N007"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_87_r3l6" n="N008"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
@@ -102,13 +102,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46926">
-                     <persName>
-                        <forename>Eva Margarita</forename>
-                        <surname>Muth</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-1271.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1271</note></noteGrp></person>
-                <person xml:id="wkfm__30195">
+    <back><listOrg><org xml:id="wkfm__46925">
+                     <orgName>Anton Muth</orgName>
+                  <noteGrp><note target="wkfm-1271.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1271</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__30195">
                      <persName>
                         <forename>Anton</forename>
                         <surname>Muth</surname>
@@ -126,8 +123,11 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1271.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1271</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46925">
-                     <orgName>Anton Muth</orgName>
-                  <noteGrp><note target="wkfm-1271.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1271</note></noteGrp></org>
-                </listOrg></back></text>
+                <person xml:id="wkfm__46926">
+                     <persName>
+                        <forename>Eva Margarita</forename>
+                        <surname>Muth</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-1271.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1271</note></noteGrp></person>
+                </listPerson></back></text>
 </TEI>

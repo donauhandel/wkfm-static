@@ -108,7 +108,7 @@
                <lb facs="#facs_96_r1l5" n="N005"/>Mitls oblatorien dd<hi style="superscript">to</hi> 1<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 756 N<hi style="superscript">o</hi> 1133 und Anbringen de ps: 22<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> 755 N<hi style="superscript">o</hi> <unclear>2010</unclear>
                <lb facs="#facs_96_r1l6" n="N006"/>hat der <rs type="person" ref="#wkfm__46932">Müller</rs> <hi>angezeiget</hi> kund gemacht und angezeiget, daß er künftiglich sein
                <lb facs="#facs_96_r1l7" n="N007"/>negotium in Gesellschaft des <rs type="person" ref="#wkfm__46935">Julius Fridrich Coith</rs> unter beederseitigen Impegno und
-               <lb facs="#facs_96_r1l8" n="N008"/>Firmirung unter der Dita <rs type="person" ref="#wkfm__46934">Georg Christoph Müller et Compagnie</rs> fortführen
+               <lb facs="#facs_96_r1l8" n="N008"/>Firmirung unter der Dita <rs type="org" ref="#wkfm__46934">Georg Christoph Müller et Compagnie</rs> fortführen
                <lb facs="#facs_96_r1l9" n="N009"/>werde anbey dem mit dem <rs type="person" ref="#wkfm__46935">Julius Fridrich Coith</rs> untern 1<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 755 abgeschlossenen
                <lb facs="#facs_96_r1l10" n="N010"/>societaets Contract N<hi style="superscript">o</hi> 2012 in <choice><expan/><abbr>orig:</abbr></choice> eingeleget kraft welchen der <rs type="person" ref="#wkfm__46935">Coith</rs> 4000 fl eingeleget <unclear>hat</unclear>
                <lb facs="#facs_96_r1l11" n="N011"/>dieses Capital sowohl als <hi>das</hi> jenes des <rs type="person" ref="#wkfm__46932">Müllers</rs> und seiner Ehewirthin jährlichen mit 5 <choice><expan/><abbr>pC<hi style="superscript">to</hi></abbr></choice> <choice><expan/><abbr><hi>intee</hi></abbr></choice> verinte-
@@ -137,35 +137,13 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46935">
+    <back><listPerson><person xml:id="wkfm__46936">
                      <persName>
-                        <forename>Julius Friedrich</forename>
-                        <surname>Coith</surname>
+                        <forename>None</forename>
+                        <surname>None</surname>
                      </persName>
-                     <death><date>1775</date></death>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Kassier und Prokurist bei Georg Christoph Müller</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-                     <listBibl>
-                        <bibl>&amp;lt;span&amp;gt;Mittenzwei, Zwischen Gestern und Morgen, 25 (zum Todesjahr) 85 (zur ev. Religion der Coith)&amp;lt;/span&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-1279.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1279</note><note target="wkfm-1280.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1280</note></noteGrp></person>
-                <person xml:id="wkfm__46932">
-                     <persName>
-                        <forename>Georg Christoph</forename>
-                        <surname>Müller</surname>
-                     </persName>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Angestellter bei Daniel Wohlgemut, Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-                     <listBibl>
-                        <bibl>Mittenzwei, Zwischen Gestern und Morgen, 120; Senfelder, Gottesacker, 260.&amp;lt;br&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-1279.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1279</note><note target="wkfm-1280.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1280</note><note target="wkfm-1709.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1709</note></noteGrp></person>
+                     <death><date>1792</date></death>
+               <noteGrp><note target="wkfm-1280.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1280</note></noteGrp></person>
                 <person xml:id="wkfm__9287" sameAs="#wkfm__7559 ">
                      <persName>
                         <forename>Daniel</forename>
@@ -180,13 +158,35 @@
                         <bibl>Senfelder, Gottesacker, 260.</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0289.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0289</note><note target="wkfm-1279.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1279</note><note target="wkfm-1280.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1280</note><note target="wkfm-1709.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1709</note><note target="wkfm-1710.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1710</note></noteGrp></person>
-                <person xml:id="wkfm__46936">
+                <person xml:id="wkfm__46932">
                      <persName>
-                        <forename>None</forename>
-                        <surname>None</surname>
+                        <forename>Georg Christoph</forename>
+                        <surname>Müller</surname>
                      </persName>
-                     <death><date>1792</date></death>
-               <noteGrp><note target="wkfm-1280.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1280</note></noteGrp></person>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Angestellter bei Daniel Wohlgemut, Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+                     <listBibl>
+                        <bibl>Mittenzwei, Zwischen Gestern und Morgen, 120; Senfelder, Gottesacker, 260.&amp;lt;br&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-1279.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1279</note><note target="wkfm-1280.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1280</note><note target="wkfm-1709.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1709</note></noteGrp></person>
+                <person xml:id="wkfm__46935">
+                     <persName>
+                        <forename>Julius Friedrich</forename>
+                        <surname>Coith</surname>
+                     </persName>
+                     <death><date>1775</date></death>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Kassier und Prokurist bei Georg Christoph Müller</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+                     <listBibl>
+                        <bibl>&amp;lt;span&amp;gt;Mittenzwei, Zwischen Gestern und Morgen, 25 (zum Todesjahr) 85 (zur ev. Religion der Coith)&amp;lt;/span&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-1279.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1279</note><note target="wkfm-1280.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1280</note></noteGrp></person>
                 </listPerson><listOrg><org xml:id="wkfm__46934">
                      <orgName>Georg Christoph Müller &amp; Co.</orgName>
                   <noteGrp><note target="wkfm-1279.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1279</note><note target="wkfm-1280.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1280</note></noteGrp></org>

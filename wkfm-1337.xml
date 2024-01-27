@@ -83,7 +83,7 @@
                <lb facs="#facs_9_r2l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_9_r2l3" n="N003"/><rs type="person" ref="#wkfm__9606">Ostermayr David</rs> Kay. König: Niderlags Verwanter
                <lb facs="#facs_9_r2l4" n="N004"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_9_r2l5" n="N005"/><rs type="person" ref="#wkfm__46647">David Ostermayr</rs> laut Procura dd<hi style="superscript">to</hi> 10<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 725 N<hi style="superscript">o</hi> 1044
+               <lb facs="#facs_9_r2l5" n="N005"/><rs type="org" ref="#wkfm__46647">David Ostermayr</rs> laut Procura dd<hi style="superscript">to</hi> 10<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 725 N<hi style="superscript">o</hi> 1044
                <lb facs="#facs_9_r2l6" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_9_r2l7" n="N007"/>Mitls Anbringen de ps: 30<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 725 N<hi style="superscript">o</hi> 1045 hat der <rs type="person" ref="#wkfm__9606">Ostermayr</rs> die
                <lb facs="#facs_9_r2l8" n="N008"/>seinem Bedienten <rs type="person" ref="#wkfm__29746">David Niggus</rs> ertheilte <choice><expan/><abbr>orig:</abbr></choice> Procura mit beygerukter
@@ -94,20 +94,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46647">
-                     <orgName>David Ostermayr</orgName>
-                  <noteGrp><note target="wkfm-1337.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1337</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__29746">
-                     <persName>
-                        <forename>David</forename>
-                        <surname>Niggus</surname>
-                     </persName>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Angestellter und Prokurist des David Ostermayr</occupation>
-               <noteGrp><note target="wkfm-1337.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1337</note></noteGrp></person>
-                <person xml:id="wkfm__9606">
+    <back><listPerson><person xml:id="wkfm__9606">
                      <persName>
                         <forename>David</forename>
                         <surname>Ostermayr</surname>
@@ -127,5 +114,18 @@
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Haemmerle, Hochzeitsbücher, 260, Nr. 3550.&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1337.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1337</note><note target="wkfm-1338.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1338</note></noteGrp></person>
-                </listPerson></back></text>
+                <person xml:id="wkfm__29746">
+                     <persName>
+                        <forename>David</forename>
+                        <surname>Niggus</surname>
+                     </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Angestellter und Prokurist des David Ostermayr</occupation>
+               <noteGrp><note target="wkfm-1337.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1337</note></noteGrp></person>
+                </listPerson><listOrg><org xml:id="wkfm__46647">
+                     <orgName>David Ostermayr</orgName>
+                  <noteGrp><note target="wkfm-1337.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1337</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

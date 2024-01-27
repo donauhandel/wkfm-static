@@ -85,10 +85,10 @@
                <lb facs="#facs_161_r2l1" n="N003"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_161_r2l2" n="N004"/><rs type="person" ref="#wkfm__43783">Spätl Melchior</rs> burgerlicher Handlsmann
                <lb facs="#facs_161_r2l3" n="N005"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_161_r2l4" n="N006"/><rs type="person" ref="#wkfm__30445">Herculiano Amadei e <choice><expan/><abbr>Comp:</abbr></choice></rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 21
+               <lb facs="#facs_161_r2l4" n="N006"/><rs type="org" ref="#wkfm__30445">Herculiano Amadei e <choice><expan/><abbr>Comp:</abbr></choice></rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 21
                <lb facs="#facs_161_r2l5" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_161_r2l6" n="N008"/>In obiger Erklährung sine dato N<hi style="superscript">o</hi> 21 ist die Firma der Raggion
-               <lb facs="#facs_161_r2l7" n="N009"/><rs type="person" ref="#wkfm__30445">Herculiano Amadei e <choice><expan/><abbr>Comp:</abbr></choice></rs> von beeden sociis <rs type="person" ref="#wkfm__8591">Herculiano Amadei</rs>
+               <lb facs="#facs_161_r2l7" n="N009"/><rs type="org" ref="#wkfm__30445">Herculiano Amadei e <choice><expan/><abbr>Comp:</abbr></choice></rs> von beeden sociis <rs type="person" ref="#wkfm__8591">Herculiano Amadei</rs>
                <lb facs="#facs_161_r2l8" n="N010"/>und <rs type="person" ref="#wkfm__43783">Melchior Spätl</rs> eingeleget worden.
                <lb facs="#facs_161_r2l9" n="N011"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_161_r2l10" n="N012"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
@@ -96,37 +96,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__30445">
-                     <orgName>Herculiano Amadei &amp; Co.</orgName>
-                  <noteGrp><note target="wkfm-0016.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0016</note><note target="wkfm-0017.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0017</note><note target="wkfm-1619.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1619</note><note target="wkfm-1620.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1620</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__8591">
-                     <persName>
-                        <forename>Herculiano</forename>
-                        <forename type="alt">Kilian</forename>
-                        <surname>Amadei</surname>
-                     </persName>
-                     <affiliation>
-                        <orgName key="#wkfm__30445">Herculiano Amadei &amp; Co.</orgName>
-                     </affiliation>                    
-                     <residence type="Geschäftsadresse">
-                        <placeName>Zum Grünen Fässel auf dem Kohlmarkt (Calender 1723)</placeName>
-                     </residence>
-                     <residence type="Bürgerrecht">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-                     <listBibl>
-                        <bibl>Huchler, Bürgeraufnahmen, 339 (5. November 1710).</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-0016.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0016</note><note target="wkfm-0017.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0017</note><note target="wkfm-1619.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1619</note><note target="wkfm-1620.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1620</note></noteGrp></person>
-                <person xml:id="wkfm__43783" sameAs="#wkfm__42711 ">
+    <back><listPerson><person xml:id="wkfm__43783" sameAs="#wkfm__42711 ">
                      <persName>
                         <forename>Melchior</forename>
                         <surname>Spätl</surname>
@@ -156,5 +126,35 @@
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 533.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0016.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0016</note><note target="wkfm-0017.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0017</note><note target="wkfm-1619.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1619</note><note target="wkfm-1620.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1620</note></noteGrp></person>
-                </listPerson></back></text>
+                <person xml:id="wkfm__8591">
+                     <persName>
+                        <forename>Herculiano</forename>
+                        <forename type="alt">Kilian</forename>
+                        <surname>Amadei</surname>
+                     </persName>
+                     <affiliation>
+                        <orgName key="#wkfm__30445">Herculiano Amadei &amp; Co.</orgName>
+                     </affiliation>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zum Grünen Fässel auf dem Kohlmarkt (Calender 1723)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+                     <listBibl>
+                        <bibl>Huchler, Bürgeraufnahmen, 339 (5. November 1710).</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0016.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0016</note><note target="wkfm-0017.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0017</note><note target="wkfm-1619.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1619</note><note target="wkfm-1620.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1620</note></noteGrp></person>
+                </listPerson><listOrg><org xml:id="wkfm__30445">
+                     <orgName>Herculiano Amadei &amp; Co.</orgName>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__43783">Spätl, Melchior</persName></person><person><persName key="#wkfm__8591">Amadei, Herculiano Kilian</persName></person></listPerson><noteGrp><note target="wkfm-0016.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0016</note><note target="wkfm-0017.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0017</note><note target="wkfm-1619.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1619</note><note target="wkfm-1620.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1620</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

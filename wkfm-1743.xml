@@ -82,7 +82,7 @@
                <lb facs="#facs_37_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_37_r1l2" n="N003"/><rs type="person" ref="#wkfm__26085">Wurmscher Fabricius</rs> burgerlicher Handlsmann
                <lb facs="#facs_37_r1l3" n="N004"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_37_r1l4" n="N005"/><rs type="person" ref="#wkfm__46973">Fabrizi Wurmscher</rs> laut Erklährung <hi>dd<hi style="superscript"/></hi>to<hi style="superscript">o</hi> 801
+               <lb facs="#facs_37_r1l4" n="N005"/><rs type="org" ref="#wkfm__46973">Fabrizi Wurmscher</rs> laut Erklährung <hi>dd<hi style="superscript"/></hi>to<hi style="superscript">o</hi> 801
                <lb facs="#facs_37_r1l5" n="N006"/>Mittels Anbringen de ps: 21<hi style="superscript">ten</hi> Aprilis 760 hat des <rs type="person" ref="#wkfm__46974">Fabricii Wurmscher
                <lb break="no" facs="#facs_37_r1l6" n="N007"/><choice><expan/><abbr>seel:</abbr></choice> Wittib</rs> ihre firma eingelegt <choice><expan/><abbr>nro</abbr></choice> 801 1/2
                <lb facs="#facs_37_r1l7" n="N008"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
@@ -92,10 +92,21 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46973">
-                     <orgName>Fabricius Wurmscher</orgName>
-                  <noteGrp><note target="wkfm-1743.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1743</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__26085">
+    <back><listPerson><person xml:id="wkfm__46974">
+                     <persName>
+                        <forename>None</forename>
+                        <surname>None</surname>
+                     </persName>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsfrau</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-1743.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1743</note></noteGrp></person>
+                <person xml:id="wkfm__26085">
                      <persName>
                         <forename>Fabrizius</forename>
                         <surname>Wurmseher</surname>
@@ -123,19 +134,8 @@
                         <bibl>Huchler, Bürgeraufnahmen, 569 (27. Juli 1714: &amp;#34;Wurmbsegger&amp;#34;).&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1743.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1743</note><note target="wkfm-1744.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1744</note></noteGrp></person>
-                <person xml:id="wkfm__46974">
-                     <persName>
-                        <forename>None</forename>
-                        <surname>None</surname>
-                     </persName>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsfrau</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-1743.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1743</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46973">
+                     <orgName>Fabricius Wurmscher</orgName>
+                  <noteGrp><note target="wkfm-1743.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1743</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

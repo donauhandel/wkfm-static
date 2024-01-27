@@ -85,16 +85,16 @@
             <ab facs="#facs_4_r1">
                <lb facs="#facs_4_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_4_r1l2" n="N002"/>In obigen Anbringen de ps: 13<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 2017 <hi>hat</hi> ist die Anzeige
-               <lb facs="#facs_4_r1l3" n="N003"/>gemacht worden, das das Negotium unter der Raggion <rs type="person" ref="#wkfm__8148">Rad und Hößlin</rs>
+               <lb facs="#facs_4_r1l3" n="N003"/>gemacht worden, das das Negotium unter der Raggion <rs type="org" ref="#wkfm__8148">Rad und Hößlin</rs>
                <lb facs="#facs_4_r1l4" n="N004"/>mit interesse und obligo des <rs type="person" ref="#wkfm__46522">Christoph Rad</rs> <rs type="person" ref="#wkfm__46521">Philipp Albrecht Hößlin</rs>
                <lb facs="#facs_4_r1l5" n="N005"/>und <rs type="person" ref="#wkfm__23197">Bartholomaei Falkh</rs> <hi>gefn</hi> unter allen dreyen firmirung geführet
                <lb facs="#facs_4_r1l6" n="N006"/>werde.
                <lb facs="#facs_4_r1l7" n="N007"/>Mitls Anbringen de ps: 15<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 739 N<hi style="superscript">o</hi> 1515 und 1969 dann oblatorien dd<hi style="superscript">to</hi>
-               <lb facs="#facs_4_r1l8" n="N008"/>2<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 737 N<hi style="superscript">o</hi> 1129 hat die Raggion <rs type="person" ref="#wkfm__30066">Hößlin und Falk </rs>angezeiget und
-               <lb facs="#facs_4_r1l9" n="N009"/>kund gemacht, daß das unter der Raggion <rs type="person" ref="#wkfm__8148">Rad und Hößlin</rs> gelofene nego-
+               <lb facs="#facs_4_r1l8" n="N008"/>2<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 737 N<hi style="superscript">o</hi> 1129 hat die Raggion <rs type="org" ref="#wkfm__30066">Hößlin und Falk </rs>angezeiget und
+               <lb facs="#facs_4_r1l9" n="N009"/>kund gemacht, daß das unter der Raggion <rs type="org" ref="#wkfm__8148">Rad und Hößlin</rs> gelofene nego-
                <lb facs="#facs_4_r1l10" n="N010"/>tium mit Ende 736 sich geendiget, der <rs type="person" ref="#wkfm__46521">Hößlin</rs> und <rs type="person" ref="#wkfm__23197">Falkh</rs> aber alle Rad und
                <lb facs="#facs_4_r1l11" n="N011"/>Hößlin: activa und passiva auf sich genohmen und entschlossen haben, dieses negotium
-               <lb facs="#facs_4_r1l12" n="N012"/>unter der Raggion <rs type="person" ref="#wkfm__30066">Hößlin und Falkh</rs> mit bederseithigen <choice><expan/><abbr>intee:</abbr></choice> und obligo zu prose-
+               <lb facs="#facs_4_r1l12" n="N012"/>unter der Raggion <rs type="org" ref="#wkfm__30066">Hößlin und Falkh</rs> mit bederseithigen <choice><expan/><abbr>intee:</abbr></choice> und obligo zu prose-
                <lb facs="#facs_4_r1l13" n="N013"/>quiren.
                <lb facs="#facs_4_r1l14" n="N014"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_4_r1l15" n="N015"/><seg type="orighead__other_notes">Anmerckungen</seg>
@@ -102,7 +102,34 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__23197">
+    <back><listPerson><person xml:id="wkfm__46522">
+                     <persName>
+                        <forename>Christoph</forename>
+                        <forename type="alt">Johann Christoph</forename>
+                        <surname>Rad</surname>
+                        <surname type="alt">von Rad</surname>
+                     </persName>
+                     <death><date>1730</date></death>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__40">Augsburg</placeName>
+                     <location type="coords"><geo>48.37138888888889 10.898333333333333</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__40">Augsburg</placeName>
+                     <location type="coords"><geo>48.37138888888889 10.898333333333333</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__40">Augsburg</placeName>
+                     <location type="coords"><geo>48.37138888888889 10.898333333333333</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+                     <occupation type="aemter">Assessor am Stadtgericht Augsburg</occupation>
+                     <listBibl>
+                        <bibl>Seibold, Wirtschaftlicher Erfolg, Bd 1, 243-248; &amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Haemmerle, Hochzeitsbücher, 256, Nr. 3480&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;; 259, Nr. 3538 (Christoph Rad d. Ä.); 261, Nr. 3568 (Christoph); 270, Nr. 3706 (Christoph von Rad, Witwer).&amp;lt;br&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-1023.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1023</note><note target="wkfm-1024.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1024</note><note target="wkfm-1355.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1355</note><note target="wkfm-1356.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1356</note></noteGrp></person>
+                <person xml:id="wkfm__23197">
                      <persName>
                         <forename>Bartholomäus</forename>
                         <surname>Falck</surname>
@@ -151,38 +178,11 @@
                         <bibl>&amp;lt;span&amp;gt;Seibold, Wirtschaftlicher Erfolg, Bd 1, 245, 254; &amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Haemmerle, Hochzeitsbücher, 267, Nr. 3675; &amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Kröpfel, Protestsantismus, Anhang 1, S. 7.&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1023.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1023</note><note target="wkfm-1024.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1024</note><note target="wkfm-1355.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1355</note><note target="wkfm-1356.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1356</note></noteGrp></person>
-                <person xml:id="wkfm__46522">
-                     <persName>
-                        <forename>Christoph</forename>
-                        <forename type="alt">Johann Christoph</forename>
-                        <surname>Rad</surname>
-                        <surname type="alt">von Rad</surname>
-                     </persName>
-                     <death><date>1730</date></death>
-                     <residence type="Bürgerrecht">
-                        <placeName key="#wkfm-place__40">Augsburg</placeName>
-                     <location type="coords"><geo>48.37138888888889 10.898333333333333</geo></location></residence>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__40">Augsburg</placeName>
-                     <location type="coords"><geo>48.37138888888889 10.898333333333333</geo></location></residence>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__40">Augsburg</placeName>
-                     <location type="coords"><geo>48.37138888888889 10.898333333333333</geo></location></residence>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-                     <occupation type="aemter">Assessor am Stadtgericht Augsburg</occupation>
-                     <listBibl>
-                        <bibl>Seibold, Wirtschaftlicher Erfolg, Bd 1, 243-248; &amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Haemmerle, Hochzeitsbücher, 256, Nr. 3480&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;; 259, Nr. 3538 (Christoph Rad d. Ä.); 261, Nr. 3568 (Christoph); 270, Nr. 3706 (Christoph von Rad, Witwer).&amp;lt;br&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-1023.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1023</note><note target="wkfm-1024.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1024</note><note target="wkfm-1355.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1355</note><note target="wkfm-1356.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1356</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__8148">
-                     <orgName>Rad und Hößlin</orgName>
-                  <noteGrp><note target="wkfm-1023.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1023</note><note target="wkfm-1024.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1024</note><note target="wkfm-1355.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1355</note><note target="wkfm-1356.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1356</note></noteGrp></org>
-                <org xml:id="wkfm__30066">
+                </listPerson><listOrg><org xml:id="wkfm__30066">
                      <orgName>Hößlin und Falck</orgName>
                   <noteGrp><note target="wkfm-1023.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1023</note><note target="wkfm-1024.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1024</note><note target="wkfm-1356.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1356</note></noteGrp></org>
+                <org xml:id="wkfm__8148">
+                     <orgName>Rad und Hößlin</orgName>
+                  <noteGrp><note target="wkfm-1023.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1023</note><note target="wkfm-1024.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1024</note><note target="wkfm-1355.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1355</note><note target="wkfm-1356.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1356</note></noteGrp></org>
                 </listOrg></back></text>
 </TEI>

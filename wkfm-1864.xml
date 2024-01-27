@@ -81,10 +81,10 @@
                <lb facs="#facs_10_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_10_r1l2" n="N002"/>In obigen anbringen de ps: 18<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 1960 hat sich der <rs type="person" ref="#wkfm__43823">Mayer
                <lb break="no" facs="#facs_10_r1l3" n="N003"/>Hierschel </rs>nebst seinem Bruder <rs type="person" ref="#wkfm__11130">Marx Hierschel</rs> erklähret, daß unter
-               <lb facs="#facs_10_r1l4" n="N004"/>der Raggion <rs type="person" ref="#wkfm__43820">Lazaruß Hierschels Erben</rs> das negotium mit Interesse und
+               <lb facs="#facs_10_r1l4" n="N004"/>der Raggion <rs type="org" ref="#wkfm__43820">Lazaruß Hierschels Erben</rs> das negotium mit Interesse und
                <lb facs="#facs_10_r1l5" n="N005"/>Obligo ihrer dreyer Brüder <rs type="person" ref="#wkfm__43823">Philipp Hierschel</rs>, <rs type="person" ref="#wkfm__11130">Marx Hierschel</rs> und
                <lb facs="#facs_10_r1l6" n="N006"/><rs type="person" ref="#wkfm__43823">Mayer Hierschel</rs> und Firmierung beeder leztern laufen, jenes aber, 
-               <lb facs="#facs_10_r1l7" n="N007"/>was unter der Raggion <rs type="person" ref="#wkfm__46617">Mayer Hierschel </rs>laufet, nicht die Societaet son=
+               <lb facs="#facs_10_r1l7" n="N007"/>was unter der Raggion <rs type="org" ref="#wkfm__46617">Mayer Hierschel </rs>laufet, nicht die Societaet son=
                <lb facs="#facs_10_r1l8" n="N008"/>dern ihn <rs type="person" ref="#wkfm__43823">Mayr Hierschel</rs> in particulari angehe.
                <lb facs="#facs_10_r1l9" n="N009"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_10_r1l10" n="N010"/><seg type="orighead__other_notes">Anmerckungen</seg>
@@ -92,7 +92,13 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43823">
+    <back><listOrg><org xml:id="wkfm__46617">
+                     <orgName>Mayr Hirschl</orgName>
+                  <noteGrp><note target="wkfm-1864.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1864</note></noteGrp></org>
+                <org xml:id="wkfm__43820">
+                     <orgName>Lazarus Hirschl Erben</orgName>
+                  <noteGrp><note target="wkfm-1861.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1861</note><note target="wkfm-1862.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1862</note><note target="wkfm-1863.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1863</note><note target="wkfm-1864.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1864</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__43823">
                      <persName>
                         <forename>Philipp</forename>
                         <surname>Hirschl</surname>
@@ -121,11 +127,5 @@
                         <bibl>Wachstein, Die Wiener Juden in Handel und Industrie.</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1861.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1861</note><note target="wkfm-1862.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1862</note><note target="wkfm-1863.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1863</note><note target="wkfm-1864.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1864</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__43820">
-                     <orgName>Lazarus Hirschl Erben</orgName>
-                  <noteGrp><note target="wkfm-1861.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1861</note><note target="wkfm-1862.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1862</note><note target="wkfm-1863.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1863</note><note target="wkfm-1864.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1864</note></noteGrp></org>
-                <org xml:id="wkfm__46617">
-                     <orgName>Mayr Hirschl</orgName>
-                  <noteGrp><note target="wkfm-1864.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1864</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

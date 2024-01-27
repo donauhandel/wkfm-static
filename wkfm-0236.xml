@@ -103,7 +103,7 @@
                <lb facs="#facs_182_r1l8" n="N008"/>sein <rs type="person" ref="#wkfm__46908">Sohn</rs> in Compagnie zu nehmen bevorstehen und sohin die Nuzung
                <lb facs="#facs_182_r1l9" n="N009"/>in 3 Theil zertheilet und der dritte theil gedachten <rs type="person" ref="#wkfm__46908">Moserischen Sohn</rs> zuweisen
                <lb facs="#facs_182_r1l10" n="N010"/>die Raggion solang in <rs type="person" ref="#wkfm__10641">Moser Vatter</rs> und <rs type="person" ref="#wkfm__46908">Sohn</rs> hierunter begriffen
-               <lb facs="#facs_182_r1l11" n="N011"/><rs type="person" ref="#wkfm__43924">Carl Joseph Moser et <choice><expan/><abbr>Compag:</abbr></choice></rs> lauten, und die Zwistigkeiten nicht
+               <lb facs="#facs_182_r1l11" n="N011"/><rs type="org" ref="#wkfm__43924">Carl Joseph Moser et <choice><expan/><abbr>Compag:</abbr></choice></rs> lauten, und die Zwistigkeiten nicht
                <lb facs="#facs_182_r1l12" n="N012"/>anderst alß vor zweyen Handlungs Vorständen bey 1500 fl Pönnfall
                <lb facs="#facs_182_r1l13" n="N013"/>zur burgenlad ausgemacht werden sollen, stabiliret worden.
                <lb facs="#facs_182_r1l14" n="N014"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
@@ -121,24 +121,12 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43925">
-                     <persName>
-                        <forename>Maria Anna</forename>
-                        <surname>Moserin</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-0236.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0236</note></noteGrp></person>
-                <person xml:id="wkfm__46908">
+    <back><listPerson><person xml:id="wkfm__46908">
                      <persName>
                         <forename>None</forename>
                         <surname>None</surname>
                      </persName>
                <noteGrp><note target="wkfm-0236.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0236</note><note target="wkfm-1256.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1256</note></noteGrp></person>
-                <person xml:id="wkfm__43926">
-                     <persName>
-                        <forename>Rosalia</forename>
-                        <surname>Sindlin</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-0236.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0236</note></noteGrp></person>
                 <person xml:id="wkfm__10641">
                      <persName>
                         <forename>Karl Joseph</forename>
@@ -163,6 +151,12 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 466.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0235.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0235</note><note target="wkfm-0236.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0236</note><note target="wkfm-1049.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1049</note><note target="wkfm-1209.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1209</note><note target="wkfm-1210.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1210</note><note target="wkfm-1255.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1255</note><note target="wkfm-1256.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1256</note></noteGrp></person>
+                <person xml:id="wkfm__43925">
+                     <persName>
+                        <forename>Maria Anna</forename>
+                        <surname>Moserin</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0236.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0236</note></noteGrp></person>
                 <person xml:id="wkfm__46560">
                      <persName>
                         <forename>Johann Adam</forename>
@@ -184,6 +178,12 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 478.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0235.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0235</note><note target="wkfm-0236.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0236</note><note target="wkfm-1049.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1049</note><note target="wkfm-1050.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1050</note><note target="wkfm-1255.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1255</note><note target="wkfm-1256.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1256</note></noteGrp></person>
+                <person xml:id="wkfm__43926">
+                     <persName>
+                        <forename>Rosalia</forename>
+                        <surname>Sindlin</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0236.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0236</note></noteGrp></person>
                 </listPerson><listOrg><org xml:id="wkfm__43924">
                      <orgName>Karl Joseph Moser &amp; Co.</orgName>
                   <noteGrp><note target="wkfm-0235.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0235</note><note target="wkfm-0236.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0236</note><note target="wkfm-1049.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1049</note><note target="wkfm-1050.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1050</note><note target="wkfm-1255.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1255</note><note target="wkfm-1256.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1256</note></noteGrp></org>

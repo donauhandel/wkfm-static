@@ -81,7 +81,7 @@
                <lb facs="#facs_55_r1l2" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_55_r1l3" n="N003"/><rs type="person" ref="#wkfm__43849">Bandian Johann Georg <choice><expan/><abbr>seel:</abbr></choice> Wittib</rs> burgerliche Handlsfrau
                <lb facs="#facs_55_r1l4" n="N004"/><seg type="orighead__firma">Firma oder Raggion</seg>
-               <lb facs="#facs_55_r1l5" n="N005"/><rs type="person" ref="#wkfm__47294">Johann Georg Bandian seelige Wittib</rs> laut Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi>
+               <lb facs="#facs_55_r1l5" n="N005"/><rs type="org" ref="#wkfm__47294">Johann Georg Bandian seelige Wittib</rs> laut Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi>
                <lb facs="#facs_55_r1l6" n="N006"/><choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 46
                <lb facs="#facs_55_r1l7" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_55_r1l8" n="N008"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
@@ -90,10 +90,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47294">
-                     <orgName>Johann Georg Bandian sel. Witwe</orgName>
-                  <noteGrp><note target="wkfm-0108.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0108</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__43849">
+    <back><listPerson><person xml:id="wkfm__43849">
                      <persName>
                         <forename>None</forename>
                         <surname>Bandianin</surname>
@@ -110,5 +107,8 @@
                         <bibl>Huchler, Bürgeraufnahmen, 344.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0108.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0108</note><note target="wkfm-0109.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0109</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47294">
+                     <orgName>Johann Georg Bandian sel. Witwe</orgName>
+                  <noteGrp><note target="wkfm-0108.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0108</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

@@ -86,18 +86,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43972">
-                     <persName>
-                        <forename>Valerio</forename>
-                        <surname>Valentini</surname>
-                     </persName>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-0288.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0288</note></noteGrp></person>
-                <person xml:id="wkfm__43969">
+    <back><listPerson><person xml:id="wkfm__43969">
                      <persName>
                         <forename>Joseph</forename>
                         <surname>Patuzzi</surname>
@@ -125,6 +114,17 @@
                         <bibl>&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 476 (Dezember 1745).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;&amp;lt;div&amp;gt;Harrer-Lucienfeld, Wien, seiner Häuser, Bd. 6.1, S. 210.&amp;lt;br&amp;gt;&amp;lt;span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0287.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0287</note><note target="wkfm-0288.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0288</note></noteGrp></person>
+                <person xml:id="wkfm__43972">
+                     <persName>
+                        <forename>Valerio</forename>
+                        <surname>Valentini</surname>
+                     </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-0288.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0288</note></noteGrp></person>
                 <person xml:id="wkfm__43973">
                      <persName>
                         <forename>Bartholomäus</forename>

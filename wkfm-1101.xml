@@ -93,22 +93,22 @@
             <ab facs="#facs_1_r2">
                <lb facs="#facs_1_r2l2" n="N001"/>544
                <lb facs="#facs_1_r2l1" n="N003"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_1_r2l3" n="N004"/><rs type="person" ref="#wkfm__17801">Löschenkohl Hannß Christoph <choice><expan/><abbr><hi>seel:</hi></abbr></choice> Erben</rs> k. k. Niderlags Verwante
+               <lb facs="#facs_1_r2l3" n="N004"/><rs type="org" ref="#wkfm__17801">Löschenkohl Hannß Christoph <choice><expan/><abbr><hi>seel:</hi></abbr></choice> Erben</rs> k. k. Niderlags Verwante
                <lb facs="#facs_1_r2l4" n="N005"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_1_r2l5" n="N006"/><rs type="person" ref="#wkfm__17801">Hannß Christoph Loschenk<hi>h</hi>ohl <choice><expan/><abbr>seel:</abbr></choice> Erben</rs> laut Procura dd<hi style="superscript">to</hi> 31<hi style="superscript">ten</hi> Julii 732 N<hi style="superscript">o</hi>
+               <lb facs="#facs_1_r2l5" n="N006"/><rs type="org" ref="#wkfm__17801">Hannß Christoph Loschenk<hi>h</hi>ohl <choice><expan/><abbr>seel:</abbr></choice> Erben</rs> laut Procura dd<hi style="superscript">to</hi> 31<hi style="superscript">ten</hi> Julii 732 N<hi style="superscript">o</hi>
                <lb facs="#facs_1_r2l6" n="N007"/>1009
                <lb facs="#facs_1_r2l7" n="N008"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
-               <lb facs="#facs_1_r2l8" n="N009"/>Mitls Anbringen de ps: 10<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 1986 haben die <rs type="person" ref="#wkfm__17801">Löschenkohl: Erben</rs> angezeiget daß ihre
+               <lb facs="#facs_1_r2l8" n="N009"/>Mitls Anbringen de ps: 10<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 1986 haben die <rs type="org" ref="#wkfm__17801">Löschenkohl: Erben</rs> angezeiget daß ihre
                <lb facs="#facs_1_r2l9" n="N010"/>Raggion unter allseitiger firmirung deren hierunter begriffenen interessenten nemlich den <rs type="person" ref="#wkfm__14663">Georg Christoph</rs>
                <lb facs="#facs_1_r2l11" n="N011"/>und <rs type="person" ref="#wkfm__9516">Hieronimus Löschenkohl</rs> dann des <rs type="person" ref="#wkfm__20532">Andre Mühl</rs> laufe
-               <lb facs="#facs_1_r2l13" n="N012"/>Mitls Anbringen de ps: 1<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 732 N<hi style="superscript">o</hi> 1010 haben die <rs type="person" ref="#wkfm__17801">Löschenkohl: Erben</rs> die wehrender Abwesenheit des <rs type="person" ref="#wkfm__14663">Georg Christoph Lö-
+               <lb facs="#facs_1_r2l13" n="N012"/>Mitls Anbringen de ps: 1<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 732 N<hi style="superscript">o</hi> 1010 haben die <rs type="org" ref="#wkfm__17801">Löschenkohl: Erben</rs> die wehrender Abwesenheit des <rs type="person" ref="#wkfm__14663">Georg Christoph Lö-
                <lb break="no" facs="#facs_1_r2l14" n="N013"/>schenkohl</rs> ihren Cassier <rs type="person" ref="#wkfm__46776">Joseph Ekhart</rs> unter 31<hi style="superscript">ten</hi> Julii 732 ertheilte <choice><expan/><abbr>orig:</abbr></choice> Procura N<hi style="superscript">o</hi> 1009 mit beygerukter Firma des 
                <lb facs="#facs_1_r2l15" n="N014"/><rs type="person" ref="#wkfm__46776">Ekhart</rs> eingelegt.
                <lb facs="#facs_1_r2l16" n="N015"/>Mitls Anbringen de ps: 11<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 732 <hi>ist</hi> N<hi style="superscript">o</hi> 1011 ist diese procura widerrufen worden.
-               <lb facs="#facs_1_r2l18" n="N016"/>Mitls Anbringen de ps: 1<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 736 N<hi style="superscript">o</hi> 1013 haben die <rs type="person" ref="#wkfm__17801">Löschenkohl: Erben</rs> die wehrender Abwesenheit ihres Loschenkohls ihren
+               <lb facs="#facs_1_r2l18" n="N016"/>Mitls Anbringen de ps: 1<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 736 N<hi style="superscript">o</hi> 1013 haben die <rs type="org" ref="#wkfm__17801">Löschenkohl: Erben</rs> die wehrender Abwesenheit ihres Loschenkohls ihren
                <lb facs="#facs_1_r2l19" n="N017"/>Cassier <rs type="person" ref="#wkfm__46776">Joseph Ekhart</rs> untern 29<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 736 ertheilte <choice><expan/><abbr>orig:</abbr></choice> procura N<hi style="superscript">o</hi> 1012 mit beygerukter Firma des <rs type="person" ref="#wkfm__46776">Ekhart</rs> eingeleget
                <lb facs="#facs_1_r2l20" n="N018"/>Mitls Anbringen de ps: 9<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 766 N<hi style="superscript">o</hi> 1014 ist diese Procura widerruffen worden.
-               <lb facs="#facs_1_r2l22" n="N019"/>Mitls Anbringen de ps: 3<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 737 N<hi style="superscript">o</hi> 1016 haben die <rs type="person" ref="#wkfm__17801">Löschenkohl: Erben</rs> die wehrender Abwesenheit der <rs type="person" ref="#wkfm__14663">Georg Christoph Löschen-
+               <lb facs="#facs_1_r2l22" n="N019"/>Mitls Anbringen de ps: 3<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 737 N<hi style="superscript">o</hi> 1016 haben die <rs type="org" ref="#wkfm__17801">Löschenkohl: Erben</rs> die wehrender Abwesenheit der <rs type="person" ref="#wkfm__14663">Georg Christoph Löschen-
                <lb break="no" facs="#facs_1_line_1629129433188_64" n="N020"/>kohl</rs> ihrem Cassier <rs type="person" ref="#wkfm__46776">Joseph Ekhart</rs> untern nemblichen dato ertheilte <choice><expan/><abbr>orig:</abbr></choice> procura N<hi style="superscript">o</hi> <unclear>1015</unclear> samt beygerukter Firma des <rs type="person" ref="#wkfm__46776">Ekhart</rs> eingeleget.
                <lb facs="#facs_1_r2l24" n="N021"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_1_r2l25" n="N022"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
@@ -116,20 +116,36 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__20532">
+    <back><listPerson><person xml:id="wkfm__14663">
                      <persName>
-                        <forename>Andre Christian</forename>
-                        <surname>Mühl</surname>
+                        <forename>Georg Christoph</forename>
+                        <surname>Löschenkohl</surname>
                      </persName>
+                     <birth><date>1689</date></birth>
+                     <death><date>1742</date></death>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <residence type="Geschäftsniederlassung">
                         <placeName key="#wkfm-place__925">Wien</placeName>
                      <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                      <listBibl>
-                        <bibl>&amp;lt;div&amp;gt;Annegret Schaper, Ein langer Abschied vom Christentum. Johann Christian Edelmann (1698-1767) und die deutsche Frühaufklärung (Marburg 1996) 78-82 (mit zahlreichen Fehlern).&amp;lt;/div&amp;gt;&amp;lt;div&amp;gt;Wilhelm Kühnert, Johann Christian Edelmann. Ein Beitrag zur Geschichte des österreichischen Protestantismus in der ersten Hälfte des 18. Jahrhunderts. Jahrbuch der Gesellschaft für Geschichte des Protestantismus in Österreich 67 (1951) 25-35, 30f. v.a. Anm. 18, S. 33f. (zur Wohnung Mühls); &amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Kühnert, Taufbuch, 106.&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;br&amp;gt;&amp;lt;/div&amp;gt;</bibl>
+                        <bibl>&amp;lt;span&amp;gt;Kröpfel, Protestantismus, Anhang 1, S. 4.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1101.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1101</note><note target="wkfm-1102.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1102</note></noteGrp></person>
+                <person xml:id="wkfm__46776">
+                     <persName>
+                        <forename>Joseph</forename>
+                        <surname>Eckhard</surname>
+                        <surname type="alt">Ekhart</surname>
+                     </persName>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Kassier und Prokurist bei Johann Christoph Löschenkohl sel. Erben</occupation>
+               <noteGrp><note target="wkfm-1101.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1101</note></noteGrp></person>
                 <person xml:id="wkfm__9516">
                      <persName>
                         <forename>Hieronymus</forename>
@@ -147,34 +163,18 @@
                         <bibl>&amp;lt;span&amp;gt;Schönfeld, Wirtschaftsgeschichte Regensburgs, 57f.&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1101.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1101</note><note target="wkfm-1102.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1102</note></noteGrp></person>
-                <person xml:id="wkfm__46776">
+                <person xml:id="wkfm__20532">
                      <persName>
-                        <forename>Joseph</forename>
-                        <surname>Eckhard</surname>
-                        <surname type="alt">Ekhart</surname>
+                        <forename>Andre Christian</forename>
+                        <surname>Mühl</surname>
                      </persName>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Kassier und Prokurist bei Johann Christoph Löschenkohl sel. Erben</occupation>
-               <noteGrp><note target="wkfm-1101.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1101</note></noteGrp></person>
-                <person xml:id="wkfm__14663">
-                     <persName>
-                        <forename>Georg Christoph</forename>
-                        <surname>Löschenkohl</surname>
-                     </persName>
-                     <birth><date>1689</date></birth>
-                     <death><date>1742</date></death>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <residence type="Geschäftsniederlassung">
                         <placeName key="#wkfm-place__925">Wien</placeName>
                      <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                      <listBibl>
-                        <bibl>&amp;lt;span&amp;gt;Kröpfel, Protestantismus, Anhang 1, S. 4.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
+                        <bibl>&amp;lt;div&amp;gt;Annegret Schaper, Ein langer Abschied vom Christentum. Johann Christian Edelmann (1698-1767) und die deutsche Frühaufklärung (Marburg 1996) 78-82 (mit zahlreichen Fehlern).&amp;lt;/div&amp;gt;&amp;lt;div&amp;gt;Wilhelm Kühnert, Johann Christian Edelmann. Ein Beitrag zur Geschichte des österreichischen Protestantismus in der ersten Hälfte des 18. Jahrhunderts. Jahrbuch der Gesellschaft für Geschichte des Protestantismus in Österreich 67 (1951) 25-35, 30f. v.a. Anm. 18, S. 33f. (zur Wohnung Mühls); &amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Kühnert, Taufbuch, 106.&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;br&amp;gt;&amp;lt;/div&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1101.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1101</note><note target="wkfm-1102.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1102</note></noteGrp></person>
                 </listPerson><listOrg><org xml:id="wkfm__17801">

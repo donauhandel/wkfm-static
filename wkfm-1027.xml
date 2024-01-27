@@ -96,12 +96,12 @@
                <lb facs="#facs_107_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_107_r1l2" n="N003"/><rs type="person" ref="#wkfm__46170">Hammer Franz Joseph</rs> burgerlicher Tuchlaubens Verwanter
                <lb facs="#facs_107_r1l4" n="N004"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_107_r1l5" n="N005"/><rs type="person" ref="#wkfm__46392">Stephan von Haidern <choice><expan/><abbr>seel:</abbr></choice> Wittib und Hammer</rs> laut societaets Contract dd<hi style="superscript">to</hi> <hi>24<hi style="superscript"/></hi>ten<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice>
+               <lb facs="#facs_107_r1l5" n="N005"/><rs type="org" ref="#wkfm__46392">Stephan von Haidern <choice><expan/><abbr>seel:</abbr></choice> Wittib und Hammer</rs> laut societaets Contract dd<hi style="superscript">to</hi> <hi>24<hi style="superscript"/></hi>ten<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice>
                <lb facs="#facs_107_r1l6" n="N006"/>740 N<hi style="superscript">o</hi> <hi>1972</hi> <unclear>1518</unclear>
-               <lb facs="#facs_107_r1l7" n="N007"/><rs type="person" ref="#wkfm__46525">Franz Joseph Hammer</rs> laut Anbringen de ps: 18<hi style="superscript">ten</hi> Julii 743 N<hi style="superscript">o</hi> 476
+               <lb facs="#facs_107_r1l7" n="N007"/><rs type="org" ref="#wkfm__46525">Franz Joseph Hammer</rs> laut Anbringen de ps: 18<hi style="superscript">ten</hi> Julii 743 N<hi style="superscript">o</hi> 476
                <lb facs="#facs_107_r1l8" n="N008"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_107_r1l9" n="N009"/>In obigen societaets contract ddto 27<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> <choice><expan/><abbr><hi>Mart:</hi></abbr></choice> 741 N<hi style="superscript">o</hi> <hi>1972</hi> 1518 ist vorgesehen worden
-               <lb facs="#facs_107_r1l10" n="N010"/>daß die Firma der Raggion <rs type="person" ref="#wkfm__46392">Stephan von Haidern <choice><expan/><abbr>seel:</abbr></choice> Wittib und Hammer</rs> von 
+               <lb facs="#facs_107_r1l10" n="N010"/>daß die Firma der Raggion <rs type="org" ref="#wkfm__46392">Stephan von Haidern <choice><expan/><abbr>seel:</abbr></choice> Wittib und Hammer</rs> von 
                <lb facs="#facs_107_r1l11" n="N011"/>beeden sociis der <rs type="person" ref="#wkfm__46393">Haiderischen Wittib Anna Susanna</rs> und dem <rs type="person" ref="#wkfm__46170">Franz Joseph
                <lb break="no" facs="#facs_107_r1l12" n="N012"/>Hammer</rs> geführet werden solle.
                <lb facs="#facs_107_r1l13" n="N013"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
@@ -149,13 +149,6 @@
                         <bibl>Huchler, Bürgeraufnahmen, 400.</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0471.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0471</note><note target="wkfm-0923.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0923</note><note target="wkfm-0924.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0924</note><note target="wkfm-1027.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1027</note><note target="wkfm-1028.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1028</note><note target="wkfm-1181.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1181</note></noteGrp></person>
-                <person xml:id="wkfm__46526">
-                     <persName>
-                        <forename>None</forename>
-                        <surname>von Dietmansdorf</surname>
-                     </persName>
-                     <occupation type="aemter">Dr.</occupation>
-               <noteGrp><note target="wkfm-1027.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1027</note></noteGrp></person>
                 <person xml:id="wkfm__46393">
                      <persName>
                         <forename>Anna Susanna</forename>
@@ -175,5 +168,12 @@
                      <occupation>Tuchhändlerin</occupation>
                      <occupation type="kaufmannsklasse">tuchlaubensverwandt/bürgerlich</occupation>
                <noteGrp><note target="wkfm-0923.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0923</note><note target="wkfm-0924.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0924</note><note target="wkfm-1027.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1027</note><note target="wkfm-1028.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1028</note></noteGrp></person>
+                <person xml:id="wkfm__46526">
+                     <persName>
+                        <forename>None</forename>
+                        <surname>von Dietmansdorf</surname>
+                     </persName>
+                     <occupation type="aemter">Dr.</occupation>
+               <noteGrp><note target="wkfm-1027.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1027</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

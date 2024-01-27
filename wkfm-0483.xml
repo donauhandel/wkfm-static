@@ -100,7 +100,7 @@
                <lb facs="#facs_163_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_163_r1l3" n="N003"/><rs type="person" ref="#wkfm__46176">Kraschinkh Joseph</rs> burgerlicher Handlsmann
                <lb facs="#facs_163_r1l4" n="N004"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_163_r1l5" n="N005"/><rs type="person" ref="#wkfm__47264">Joseph Kraschinkh</rs> laut Erklährung dd<hi style="superscript">to</hi> 28<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 753 N<hi style="superscript">o</hi> 235
+               <lb facs="#facs_163_r1l5" n="N005"/><rs type="org" ref="#wkfm__47264">Joseph Kraschinkh</rs> laut Erklährung dd<hi style="superscript">to</hi> 28<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 753 N<hi style="superscript">o</hi> 235
                <lb facs="#facs_163_r1l6" n="N006"/>welche <hi>demselbe</hi> derselbe mitls Anbringen de ps: <hi>28ten</hi> eodem N<hi style="superscript">o</hi> 236 einge-
                <lb facs="#facs_163_r1l7" n="N007"/>leget
                <lb facs="#facs_163_r1l8" n="N008"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
@@ -127,10 +127,11 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46177">
+    <back><listPerson><person xml:id="wkfm__13628">
                      <persName>
-                        <forename>Jakob</forename>
-                        <surname>Kraschink</surname>
+                        <forename>Johann Georg</forename>
+                        <surname>Reintaler</surname>
+                        <surname type="alt">Reinthaller</surname>
                      </persName>
                <noteGrp><note target="wkfm-0483.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0483</note></noteGrp></person>
                 <person xml:id="wkfm__31324" sameAs="#wkfm__25469 ">
@@ -190,11 +191,10 @@
                      <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsfrau</occupation>
                <noteGrp><note target="wkfm-0483.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0483</note></noteGrp></person>
-                <person xml:id="wkfm__13628">
+                <person xml:id="wkfm__46177">
                      <persName>
-                        <forename>Johann Georg</forename>
-                        <surname>Reintaler</surname>
-                        <surname type="alt">Reinthaller</surname>
+                        <forename>Jakob</forename>
+                        <surname>Kraschink</surname>
                      </persName>
                <noteGrp><note target="wkfm-0483.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0483</note></noteGrp></person>
                 </listPerson><listOrg><org xml:id="wkfm__47264">

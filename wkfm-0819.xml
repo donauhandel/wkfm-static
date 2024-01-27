@@ -80,7 +80,7 @@
                <lb facs="#facs_7_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_7_r1l3" n="N003"/><rs type="person" ref="#wkfm__8421">Geramb Franz Anton</rs> hofbefreyter Handlsmann
                <lb facs="#facs_7_r1l4" n="N004"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_7_r1l5" n="N005"/><rs type="person" ref="#wkfm__46301">Frantz Antonj Geramb</rs> laut Anbringen de ps: 19<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 1950
+               <lb facs="#facs_7_r1l5" n="N005"/><rs type="org" ref="#wkfm__46301">Frantz Antonj Geramb</rs> laut Anbringen de ps: 19<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 1950
                <lb facs="#facs_7_r1l6" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_7_r1l7" n="N007"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_7_r1l8" n="N008"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
@@ -90,7 +90,7 @@
       </body>
     <back><listOrg><org xml:id="wkfm__46301">
                      <orgName>Franz Anton Geramb</orgName>
-                  <noteGrp><note target="wkfm-0819.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0819</note></noteGrp></org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__8188">Visconti, Ludwig Anton</persName></person></listPerson><noteGrp><note target="wkfm-0819.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0819</note></noteGrp></org>
                 </listOrg><listPerson><person xml:id="wkfm__8421">
                      <persName>
                         <forename>Franz Anton</forename>

@@ -82,7 +82,7 @@
                <lb facs="#facs_117_r1l2" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_117_r1l3" n="N003"/><rs type="person" ref="#wkfm__47327">Pökh Johann Michael</rs> burgerlicher Handlsmann
                <lb facs="#facs_117_r1l4" n="N004"/><seg type="orighead__firma">Firma oder Raggion</seg>
-               <lb facs="#facs_117_r1l5" n="N005"/><rs type="person" ref="#wkfm__47328">Johann <hi>Michäl</hi> Michael Pökh</rs> laut Erklährung dd<hi style="superscript">to</hi> 13<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 726 N<hi style="superscript">o</hi> 77
+               <lb facs="#facs_117_r1l5" n="N005"/><rs type="org" ref="#wkfm__47328">Johann <hi>Michäl</hi> Michael Pökh</rs> laut Erklährung dd<hi style="superscript">to</hi> 13<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 726 N<hi style="superscript">o</hi> 77
                <lb facs="#facs_117_r1l6" n="N006"/><unclear>und</unclear> weitheren Erklährung dd<hi style="superscript">to</hi> 14<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 726 N<hi style="superscript">o</hi> 1847 wie auch 
                <lb facs="#facs_117_r1l7" n="N007"/>ps: 28<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 727 N<hi style="superscript">o</hi> 1849
                <lb facs="#facs_117_r1l8" n="N008"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
@@ -92,7 +92,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47327" sameAs="#wkfm__9675 ">
+    <back><listOrg><org xml:id="wkfm__47328">
+                     <orgName>Johann Michael Pöck</orgName>
+                  <noteGrp><note target="wkfm-0170.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0170</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__47327" sameAs="#wkfm__9675 ">
                      <persName>
                         <forename>Johann Michael</forename>
                         <surname>Pöck</surname>
@@ -115,8 +118,5 @@
                      <occupation type="aemter">Vorsteher der bürgerl. Handelsleute</occupation>
                      <occupation type="aemter">Senior des bürgerl. Handelsstands</occupation>
                <noteGrp><note target="wkfm-0170.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0170</note><note target="wkfm-0171.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0171</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__47328">
-                     <orgName>Johann Michael Pöck</orgName>
-                  <noteGrp><note target="wkfm-0170.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0170</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

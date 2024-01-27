@@ -84,7 +84,7 @@
                <lb facs="#facs_17_r2l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_17_r2l3" n="N003"/><rs type="person" ref="#wkfm__8592">Gazzinelli Aurelio</rs> hofbefreyter Handlsmann
                <lb facs="#facs_17_r2l4" n="N004"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_17_r2l5" n="N005"/><rs type="person" ref="#wkfm__46307">Aurelio Gazzinelli</rs> laut Anbringen de ps: 25<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 388
+               <lb facs="#facs_17_r2l5" n="N005"/><rs type="org" ref="#wkfm__46307">Aurelio Gazzinelli</rs> laut Anbringen de ps: 25<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 388
                <lb facs="#facs_17_r2l6" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_17_r2l7" n="N007"/>Mitls Anbringen de ps: 16<hi style="superscript">ten</hi> May 737 N<hi style="superscript">o</hi> 982 hat der <rs type="person" ref="#wkfm__8592">Gazzinelli</rs> angezeiget das
                <lb facs="#facs_17_r2l8" n="N008"/>er seinen Sohn <rs type="person" ref="#wkfm__46308">Joseph Gazzinelli</rs> <hi>die</hi> wehrend seiner Abwesenheit die <gap/>
@@ -99,17 +99,7 @@
     <back><listOrg><org xml:id="wkfm__46307">
                      <orgName>Aurelio Gazzinelli</orgName>
                   <noteGrp><note target="wkfm-0829.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0829</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__46308">
-                     <persName>
-                        <forename>Joseph</forename>
-                        <surname>Gazzinelli</surname>
-                     </persName>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Prokurist der Firma Aurelio Gazzinelli</occupation>
-               <noteGrp><note target="wkfm-0829.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0829</note></noteGrp></person>
-                <person xml:id="wkfm__8592">
+                </listOrg><listPerson><person xml:id="wkfm__8592">
                      <persName>
                         <forename>Aurelio</forename>
                         <surname>Gazzinelli</surname>
@@ -119,6 +109,16 @@
                      <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
+               <noteGrp><note target="wkfm-0829.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0829</note></noteGrp></person>
+                <person xml:id="wkfm__46308">
+                     <persName>
+                        <forename>Joseph</forename>
+                        <surname>Gazzinelli</surname>
+                     </persName>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Prokurist der Firma Aurelio Gazzinelli</occupation>
                <noteGrp><note target="wkfm-0829.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0829</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

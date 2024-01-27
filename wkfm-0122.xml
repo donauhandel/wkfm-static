@@ -79,7 +79,7 @@
                <lb facs="#facs_69_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_69_r1l2" n="N003"/><rs type="person" ref="#wkfm__4528">Patuzzi Bartholomeo</rs> burgerlicher Handlsmann
                <lb facs="#facs_69_r1l3" n="N004"/><seg type="orighead__firma">Firma oder Raggion</seg>
-               <lb facs="#facs_69_r1l4" n="N005"/><rs type="person" ref="#wkfm__47301">Bartholome Patuzzi</rs> laut Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 53
+               <lb facs="#facs_69_r1l4" n="N005"/><rs type="org" ref="#wkfm__47301">Bartholome Patuzzi</rs> laut Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 53
                <lb facs="#facs_69_r1l5" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_69_r1l6" n="N007"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_69_r1l7" n="N008"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
@@ -87,7 +87,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__4528" sameAs="#wkfm__44892 ">
+    <back><listOrg><org xml:id="wkfm__47301">
+                     <orgName>Bartholomäus Patuzzi</orgName>
+                  <noteGrp><note target="wkfm-0122.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0122</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__4528" sameAs="#wkfm__44892 ">
                      <persName>
                         <forename>Bartholomäus</forename>
                         <surname>Patuzzi</surname>
@@ -129,8 +132,5 @@
 .&amp;lt;/div&amp;gt;&amp;lt;div&amp;gt;Harrer-Lucienfeld, Wien, seiner Häuser, Bd. 6.1, S. 210-211.&amp;lt;/div&amp;gt;&amp;lt;div&amp;gt;Huchler, Bürgeraufnahmen, 101 (13. Juli 1707).&amp;lt;br&amp;gt;&amp;lt;/div&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0122.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0122</note><note target="wkfm-0123.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0123</note><note target="wkfm-0287.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0287</note><note target="wkfm-1316.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1316</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__47301">
-                     <orgName>Bartholomäus Patuzzi</orgName>
-                  <noteGrp><note target="wkfm-0122.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0122</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

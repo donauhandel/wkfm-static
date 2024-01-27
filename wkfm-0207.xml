@@ -92,7 +92,13 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43910" sameAs="#wkfm__44511 wkfm__23794 wkfm__47346 ">
+    <back><listPerson><person xml:id="wkfm__43911">
+                     <persName>
+                        <forename>Maria Anna</forename>
+                        <surname>Paurin</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0207.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0207</note></noteGrp></person>
+                <person xml:id="wkfm__43910" sameAs="#wkfm__44511 wkfm__23794 wkfm__47346 ">
                      <persName>
                         <forename>Christian Johann</forename>
                         <surname>Burgholzer</surname>
@@ -111,11 +117,5 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0206.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0206</note><note target="wkfm-0207.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0207</note></noteGrp></person>
-                <person xml:id="wkfm__43911">
-                     <persName>
-                        <forename>Maria Anna</forename>
-                        <surname>Paurin</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-0207.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0207</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

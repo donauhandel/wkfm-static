@@ -99,7 +99,7 @@
                <lb facs="#facs_85_r2l1" n="N001"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_85_r2l2" n="N002"/><rs type="person" ref="#wkfm__46264">Diwalt Johann Leopold</rs> burgerlicher Handlsmann
                <lb facs="#facs_85_r2l3" n="N003"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_85_r2l4" n="N004"/><rs type="person" ref="#wkfm__46265">Johann Leopold Diwalt</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 280
+               <lb facs="#facs_85_r2l4" n="N004"/><rs type="org" ref="#wkfm__46265">Johann Leopold Diwalt</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 280
                <lb facs="#facs_85_line_1621967267269_5017" n="N005"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_85_r2l7" n="N006"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_85_r2l8" n="N007"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
@@ -116,10 +116,13 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46265">
-                     <orgName>Johann Leopold Diewald</orgName>
-                  <noteGrp><note target="wkfm-0585.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0585</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__46264">
+    <back><listPerson><person xml:id="wkfm__46266">
+                     <persName>
+                        <forename>Judith</forename>
+                        <surname>Diewald</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0585.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0585</note></noteGrp></person>
+                <person xml:id="wkfm__46264">
                      <persName>
                         <forename>Johann Leopold</forename>
                         <surname>Diewald</surname>
@@ -141,11 +144,8 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 362 (April 1738).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0585.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0585</note></noteGrp></person>
-                <person xml:id="wkfm__46266">
-                     <persName>
-                        <forename>Judith</forename>
-                        <surname>Diewald</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-0585.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0585</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46265">
+                     <orgName>Johann Leopold Diewald</orgName>
+                  <noteGrp><note target="wkfm-0585.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0585</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

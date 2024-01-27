@@ -96,10 +96,10 @@
                <lb facs="#facs_103_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_103_r1l2" n="N003"/><rs type="person" ref="#wkfm__47135">Farquet Peter</rs> burgerlicher Handlsmann
                <lb facs="#facs_103_r1l3" n="N004"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_103_r1l4" n="N005"/><rs type="person" ref="#wkfm__29979">Veigl und Farquet</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 366
+               <lb facs="#facs_103_r1l4" n="N005"/><rs type="org" ref="#wkfm__29979">Veigl und Farquet</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 366
                <lb facs="#facs_103_r1l5" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_103_r1l6" n="N007"/>In obiger Erklährung sine dato N<hi style="superscript">o</hi> 366 ist die Firma der Raggion
-               <lb facs="#facs_103_r1l7" n="N008"/><rs type="person" ref="#wkfm__29979">Veigl und Farquet</rs> von beeden sociis <rs type="person" ref="#wkfm__47133">Christian Peter Veigl</rs> und <rs type="person" ref="#wkfm__47135">Peter
+               <lb facs="#facs_103_r1l7" n="N008"/><rs type="org" ref="#wkfm__29979">Veigl und Farquet</rs> von beeden sociis <rs type="person" ref="#wkfm__47133">Christian Peter Veigl</rs> und <rs type="person" ref="#wkfm__47135">Peter
                <lb break="no" facs="#facs_103_r1l8" n="N009"/>Farquet</rs> eingeleget worden
                <lb facs="#facs_103_r1l9" n="N010"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_103_r1l10" n="N011"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
@@ -107,10 +107,10 @@
                <lb facs="#facs_103_line_1626112452637_931" n="N013"/>welchen Ende selbe zwey <choice><expan/><abbr>orig:</abbr></choice> Cautions Instrumenta eingeleget;
                <lb facs="#facs_103_r1l13" n="N014"/>mitls Anbringen de ps: 8<hi style="superscript">ten</hi> <choice><expan/><abbr>9br:</abbr></choice> 735 N<hi style="superscript">o</hi> 1419
                <lb facs="#facs_103_line_1626112452637_930" n="N015"/>alß von
-               <lb facs="#facs_103_line_1626111812235_876" n="N016"/><rs type="person" ref="#wkfm__20102">Ludwig und Leopold Lidl</rs> dd<hi style="superscript">to</hi> 15<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 736 N<hi style="superscript">o</hi> 1418 <choice><expan/><abbr>pr</abbr></choice> 4000 fl
+               <lb facs="#facs_103_line_1626111812235_876" n="N016"/><rs type="org" ref="#wkfm__20102">Ludwig und Leopold Lidl</rs> dd<hi style="superscript">to</hi> 15<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 736 N<hi style="superscript">o</hi> 1418 <choice><expan/><abbr>pr</abbr></choice> 4000 fl
                <lb facs="#facs_103_line_1626111804696_869" n="N017"/>dann von <rs type="person" ref="#wkfm__39083">Joseph Johann <unclear>Prauweyß</unclear></rs><unclear/> <choice><expan/><abbr>pr</abbr></choice> 4000 fl
                <lb facs="#facs_103_r1l22" n="N018"/><choice><expan/><abbr>Sa</abbr></choice> 8000 fl
-               <lb facs="#facs_103_r1l23" n="N019"/>Über die von dem <rs type="person" ref="#wkfm__29979">Veigl und Farquet</rs> eingelegte Ausweisungs Specification
+               <lb facs="#facs_103_r1l23" n="N019"/>Über die von dem <rs type="org" ref="#wkfm__29979">Veigl und Farquet</rs> eingelegte Ausweisungs Specification
                <lb facs="#facs_103_line_1626111847739_885" n="N020"/>N<hi style="superscript">o</hi> 1422 <choice><expan/><abbr><hi>pr</hi></abbr></choice> in avanzo <choice><expan/><abbr>pr</abbr></choice> 16217 fl
                <lb facs="#facs_103_line_1626111866255_892" n="N021"/>und hierübervon dem <rs type="person" ref="#wkfm__47133">Veigl</rs> laut allda beygerukter Formulo jurandi und
                <lb facs="#facs_103_r1l29" n="N022"/>decretation dd<hi style="superscript">to</hi> 11<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 745 N<hi style="superscript">o</hi> 1423 abgelegten Cörperlichen Eyd ist zu folgender
@@ -120,7 +120,28 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47135" sameAs="#wkfm__18681 ">
+    <back><listPerson><person xml:id="wkfm__39083" sameAs="#wkfm__25107 wkfm__22176 wkfm__25107 wkfm__44065 ">
+                     <persName>
+                        <forename>Joseph Johann</forename>
+                        <surname>Prauneis</surname>
+                        <surname type="alt">Prauneyß</surname>
+                     </persName>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+                     <listBibl>
+                        <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 490 (Dezember 1733: &amp;#34;Joseph&amp;#34;).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0208.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0208</note><note target="wkfm-0209.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0209</note><note target="wkfm-0769.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0769</note><note target="wkfm-0771.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0771</note></noteGrp></person>
+                <person xml:id="wkfm__47135" sameAs="#wkfm__18681 ">
                      <persName>
                         <forename>Peter</forename>
                         <surname>Farquet</surname>
@@ -161,27 +182,6 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 549.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0769.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0769</note><note target="wkfm-0770.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0770</note><note target="wkfm-0771.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0771</note><note target="wkfm-0772.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0772</note></noteGrp></person>
-                <person xml:id="wkfm__39083" sameAs="#wkfm__25107 wkfm__22176 wkfm__25107 wkfm__44065 ">
-                     <persName>
-                        <forename>Joseph Johann</forename>
-                        <surname>Prauneis</surname>
-                        <surname type="alt">Prauneyß</surname>
-                     </persName>
-                     <residence type="Bürgerrecht">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-                     <listBibl>
-                        <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 490 (Dezember 1733: &amp;#34;Joseph&amp;#34;).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-0208.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0208</note><note target="wkfm-0209.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0209</note><note target="wkfm-0769.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0769</note><note target="wkfm-0771.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0771</note></noteGrp></person>
                 </listPerson><listOrg><org xml:id="wkfm__29979">
                      <orgName>Veigl und Farquet</orgName>
                   <noteGrp><note target="wkfm-0769.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0769</note><note target="wkfm-0770.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0770</note><note target="wkfm-0771.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0771</note><note target="wkfm-0772.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0772</note></noteGrp></org>

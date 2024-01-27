@@ -91,7 +91,7 @@
                <lb facs="#facs_35_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_35_r1l3" n="N003"/><rs type="person" ref="#wkfm__8587">Rozzio <hi>Maria</hi> Giova: Maria</rs> burgerlicher Handlsmann
                <lb facs="#facs_35_r1l4" n="N004"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_35_r1l6" n="N005"/><rs type="person" ref="#wkfm__46704">Gio: Ma: Rozzio</rs> laut Erklährung dd<hi style="superscript">to</hi> 17<hi style="superscript">ten</hi> Apr: 725 N<hi style="superscript">o</hi> 627
+               <lb facs="#facs_35_r1l6" n="N005"/><rs type="org" ref="#wkfm__46704">Gio: Ma: Rozzio</rs> laut Erklährung dd<hi style="superscript">to</hi> 17<hi style="superscript">ten</hi> Apr: 725 N<hi style="superscript">o</hi> 627
                <lb facs="#facs_35_r1l8" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_35_r1l9" n="N007"/>Mitls Anbringen de ps: 26<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 726 N<hi style="superscript">o</hi> 1052 hat der <rs type="person" ref="#wkfm__8587">Rozzio</rs> dem <rs type="person" ref="#wkfm__46705">Joseph Fleischer</rs> wehrend seiner Abwe-
                <lb facs="#facs_35_r1l10" n="N008"/>senheit ertheilet, auch die Firma von dem Fleischer beygeruket.
@@ -135,15 +135,25 @@
                         <bibl>Staatskalender für das Jahr 1745, 264.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0433.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0433</note><note target="wkfm-0461.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0461</note><note target="wkfm-0713.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0713</note><note target="wkfm-1387.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1387</note><note target="wkfm-1388.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1388</note></noteGrp></person>
-                <person xml:id="wkfm__46706">
+                <person xml:id="wkfm__46707">
                      <persName>
-                        <forename>Leonhard Adam</forename>
-                        <surname>Ziegler</surname>
+                        <forename>Karl</forename>
+                        <surname>Alay</surname>
                      </persName>
                      <residence type="Wohnort">
                         <placeName key="#wkfm-place__925">Wien</placeName>
                      <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Angestellter und Prokurist bei Giovanni Maria Rozzio</occupation>
+                     <occupation>Prokurist bei Giovanni Maria Rozzio</occupation>
+               <noteGrp><note target="wkfm-1387.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1387</note></noteGrp></person>
+                <person xml:id="wkfm__46705">
+                     <persName>
+                        <forename>Joseph</forename>
+                        <surname>Fleischer</surname>
+                     </persName>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Prokurist bei Giovanni Maria Rozzio</occupation>
                <noteGrp><note target="wkfm-1387.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1387</note></noteGrp></person>
                 <person xml:id="wkfm__8587">
                      <persName>
@@ -173,25 +183,15 @@
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Dotter, Italienische Kaufleute, 126f.; Huchler, Bürgeraufnahmen, 506.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1387.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1387</note><note target="wkfm-1388.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1388</note></noteGrp></person>
-                <person xml:id="wkfm__46707">
+                <person xml:id="wkfm__46706">
                      <persName>
-                        <forename>Karl</forename>
-                        <surname>Alay</surname>
+                        <forename>Leonhard Adam</forename>
+                        <surname>Ziegler</surname>
                      </persName>
                      <residence type="Wohnort">
                         <placeName key="#wkfm-place__925">Wien</placeName>
                      <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Prokurist bei Giovanni Maria Rozzio</occupation>
-               <noteGrp><note target="wkfm-1387.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1387</note></noteGrp></person>
-                <person xml:id="wkfm__46705">
-                     <persName>
-                        <forename>Joseph</forename>
-                        <surname>Fleischer</surname>
-                     </persName>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Prokurist bei Giovanni Maria Rozzio</occupation>
+                     <occupation>Angestellter und Prokurist bei Giovanni Maria Rozzio</occupation>
                <noteGrp><note target="wkfm-1387.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1387</note></noteGrp></person>
                 </listPerson><listOrg><org xml:id="wkfm__46704">
                      <orgName>Giovanni Maria Rozzio</orgName>

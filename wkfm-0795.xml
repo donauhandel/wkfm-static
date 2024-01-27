@@ -92,7 +92,7 @@
                <lb facs="#facs_127_r1l5" n="N005"/><choice><expan/><abbr>Ao.</abbr></choice> 763 die Firma eingelegt, mit gemachter Erklärung, daß der <rs type="person" ref="#wkfm__47173">Joseph Carl v. Fuchs</rs>
                <lb facs="#facs_127_line_1623150494629_172" n="N006"/><unclear>respectu</unclear> seines Handlungs Antheil alle Gewalt und Vollmacht seine<hi>r</hi>m Bruder <rs type="person" ref="#wkfm__47172">Joseph Nepomuck
                <lb break="no" facs="#facs_127_r1l7" n="N007"/>v. Fuchs</rs> vollkomen übertrage, zu welchem Ende dan auch der <rs type="person" ref="#wkfm__47172">Joseph Nepomuck v. Fuchs</rs> in dessen
-               <lb facs="#facs_127_line_1621029097633_640" n="N008"/>diese Societät betrefenden Fällen die Handlungs Firma: <rs type="person" ref="#wkfm__47174">Joseph Carl Fuchs <choice><expan/><abbr>seel:</abbr></choice> Söhn</rs>e <hi>zeichnet</hi> allein führen
+               <lb facs="#facs_127_line_1621029097633_640" n="N008"/>diese Societät betrefenden Fällen die Handlungs Firma: <rs type="org" ref="#wkfm__47174">Joseph Carl Fuchs <choice><expan/><abbr>seel:</abbr></choice> Söhn</rs>e <hi>zeichnet</hi> allein führen
                <lb facs="#facs_127_r1l11" n="N009"/>werde. vide firma <choice><expan/><abbr>nro:</abbr></choice> 385.
                <lb facs="#facs_127_r1l12" n="N010"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_127_r1l13" n="N011"/><seg type="orighead__oblatorien">Oblatorien und Avocationen</seg>
@@ -123,6 +123,16 @@
                      <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-0795.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0795</note></noteGrp></person>
+                <person xml:id="wkfm__47173">
+                     <persName>
+                        <forename>Joseph Karl</forename>
+                        <surname>von Fuchs</surname>
+                     </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
                <noteGrp><note target="wkfm-0795.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0795</note></noteGrp></person>
                 <person xml:id="wkfm__1411" sameAs="#wkfm__1402 ">
                      <persName>
@@ -157,16 +167,6 @@
                         <bibl>&amp;lt;span&amp;gt;Mittenzwei, Zwischen gestern und morgen, 117; &amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 382 (13 November 1715)&amp;lt;/span&amp;gt;.&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0699.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0699</note><note target="wkfm-0700.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0700</note><note target="wkfm-0795.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0795</note></noteGrp></person>
-                <person xml:id="wkfm__47173">
-                     <persName>
-                        <forename>Joseph Karl</forename>
-                        <surname>von Fuchs</surname>
-                     </persName>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-               <noteGrp><note target="wkfm-0795.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0795</note></noteGrp></person>
                 </listPerson><listOrg><org xml:id="wkfm__47174">
                      <orgName>Joseph Karl Fuchs sel. Söhne</orgName>
                   <noteGrp><note target="wkfm-0795.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0795</note></noteGrp></org>

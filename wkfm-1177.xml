@@ -94,7 +94,7 @@
                <lb facs="#facs_77_r2l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_77_r2l3" n="N003"/><rs type="person" ref="#wkfm__46841"><unclear>Langenser</unclear> Johann Georg</rs> burgerlicher Handlsmann
                <lb facs="#facs_77_r2l4" n="N004"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_77_r2l5" n="N005"/><rs type="person" ref="#wkfm__46842">Johann Georg <unclear>Langenser</unclear></rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 541 welche
+               <lb facs="#facs_77_r2l5" n="N005"/><rs type="org" ref="#wkfm__46842">Johann Georg <unclear>Langenser</unclear></rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 541 welche
                <lb facs="#facs_77_r2l6" n="N006"/>der Supl: mitls Anbringen de ps: 14<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 754 N<hi style="superscript">o</hi> 542
                <lb facs="#facs_77_r2l7" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_77_r2l8" n="N008"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
@@ -116,10 +116,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46842">
-                     <orgName>Johann Georg Langenser</orgName>
-                  <noteGrp><note target="wkfm-1177.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1177</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__46843" sameAs="#wkfm__43421 ">
+    <back><listPerson><person xml:id="wkfm__46843" sameAs="#wkfm__43421 ">
                      <persName>
                         <forename>Johann</forename>
                         <surname>Engelhard</surname>
@@ -134,6 +131,13 @@
                         <surname type="alt">Langenser</surname>
                      </persName>
                <noteGrp><note target="wkfm-1177.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1177</note><note target="wkfm-1178.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1178</note></noteGrp></person>
+                <person xml:id="wkfm__46844">
+                     <persName>
+                        <forename>Maria Anna</forename>
+                        <surname>Pillerin</surname>
+                        <surname type="alt">Müllner</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-1177.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1177</note><note target="wkfm-1284.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1284</note></noteGrp></person>
                 <person xml:id="wkfm__46841">
                      <persName>
                         <forename>Johann Georg</forename>
@@ -151,12 +155,8 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1177.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1177</note></noteGrp></person>
-                <person xml:id="wkfm__46844">
-                     <persName>
-                        <forename>Maria Anna</forename>
-                        <surname>Pillerin</surname>
-                        <surname type="alt">Müllner</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-1177.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1177</note><note target="wkfm-1284.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1284</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46842">
+                     <orgName>Johann Georg Langenser</orgName>
+                  <noteGrp><note target="wkfm-1177.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1177</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

@@ -103,7 +103,7 @@
                <lb facs="#facs_44_r1l8" n="N008"/>vorgesetzt worden Daher obgemeldter Curator des <rs type="person" ref="#wkfm__43797">Aufner</rs> <choice><expan/><abbr>seel.</abbr></choice> Testament
                <lb facs="#facs_44_r1l9" n="N009"/>in E die Inventaria der Handlung und übrigen Effecten in F G et
                <lb facs="#facs_44_r1l10" n="N010"/>H den Reithhandlers bericht J und des Administrators Firma K
-               <lb facs="#facs_44_r1l11" n="N011"/>welche lautet <rs type="person" ref="#wkfm__46599"><hi style="text-decoration: underline;">Joseph Aufner <choice><expan/><abbr>seel.</abbr></choice> Wittib</hi></rs> eingeleget. N<hi style="superscript">o</hi> 25: bey
+               <lb facs="#facs_44_r1l11" n="N011"/>welche lautet <rs type="org" ref="#wkfm__46599"><hi style="text-decoration: underline;">Joseph Aufner <choice><expan/><abbr>seel.</abbr></choice> Wittib</hi></rs> eingeleget. N<hi style="superscript">o</hi> 25: bey
                <lb facs="#facs_44_r1l12" n="N012"/>den Firmen.
                <lb facs="#facs_44_r1l13" n="N013"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_44_r1l14" n="N014"/>Den 10<hi style="superscript">ten</hi> Marty 768 hat der <rs type="person" ref="#wkfm__43797">Joseph Aufner</rs> seinen mit der <rs type="person" ref="#wkfm__43799">Maria Anna
@@ -114,7 +114,7 @@
                <lb facs="#facs_44_r1l19" n="N019"/>Guth contratiret worden <choice><expan/><abbr><seg type="editorial_comment_seg">pp.<note type="editorial_comment_note">pro petito (nach Antrag)</note></seg></abbr></choice> <choice><expan/><abbr>nro:</abbr></choice> 2077.
                <lb facs="#facs_44_r1l20" n="N020"/><seg type="orighead__other_notes">Anmerkungen</seg>
                <lb facs="#facs_44_r1l21" n="N021"/>Vermög Anbringen de psto 24: July 775 hat die <rs type="person" ref="#wkfm__43799">Anna Maria Aufnerin</rs>
-               <lb facs="#facs_44_r1l22" n="N022"/>angezeiget, daß sie diese Handlung unter der <rs type="person" ref="#wkfm__46599">Firma Aufner <choice><expan/><abbr>seel:</abbr></choice>
+               <lb facs="#facs_44_r1l22" n="N022"/>angezeiget, daß sie diese Handlung unter der <rs type="org" ref="#wkfm__46599">Firma Aufner <choice><expan/><abbr>seel:</abbr></choice>
                <lb break="no" facs="#facs_44_r1l23" n="N023"/>Wittib</rs> fortführen werde, und hat diese ihre Firma dieser An-
                <lb facs="#facs_44_r1l24" n="N024"/>zeige sub A beygelegt.
                <lb facs="#facs_44_r1l25" n="N025"/><seg type="editorial_comment_seg"><hi>0</hi><note type="editorial_comment_note">Einfügezeichen, Fortseztung des Textes oben in der Rubrik Societaets Contract und Interessenten</note></seg>
@@ -122,22 +122,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43799">
-                     <persName>
-                        <forename>Maria Anna</forename>
-                        <surname>Auffner</surname>
-                        <surname type="alt">Voggin</surname>
-                     </persName>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsfrau</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-0049.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0049</note></noteGrp></person>
-                <person xml:id="wkfm__43797">
+    <back><listOrg><org xml:id="wkfm__46599">
+                     <orgName>Joseph Auffner sel. Witwe</orgName>
+                  <noteGrp><note target="wkfm-0049.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0049</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__43797">
                      <persName>
                         <forename>Joseph</forename>
                         <surname>Auffner</surname>
@@ -161,8 +149,20 @@
                         <bibl>Huchler, Bürgeraufnahmen, 342.</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0048.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0048</note><note target="wkfm-0049.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0049</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46599">
-                     <orgName>Joseph Auffner sel. Witwe</orgName>
-                  <noteGrp><note target="wkfm-0049.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0049</note></noteGrp></org>
-                </listOrg></back></text>
+                <person xml:id="wkfm__43799">
+                     <persName>
+                        <forename>Maria Anna</forename>
+                        <surname>Auffner</surname>
+                        <surname type="alt">Voggin</surname>
+                     </persName>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsfrau</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-0049.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0049</note></noteGrp></person>
+                </listPerson></back></text>
 </TEI>

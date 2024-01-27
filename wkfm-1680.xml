@@ -98,7 +98,7 @@
             <ab facs="#facs_222_r1">
                <lb facs="#facs_222_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_222_r1l2" n="N002"/>Nota <choice><expan/><abbr>Ao</abbr></choice> 783 ist diese Handlung
-               <lb facs="#facs_222_r1l3" n="N003"/>an die <rs type="person" ref="#wkfm__47591">Gebrüder Schwitzer</rs> über-
+               <lb facs="#facs_222_r1l3" n="N003"/>an die <rs type="org" ref="#wkfm__47591">Gebrüder Schwitzer</rs> über-
                <lb facs="#facs_222_r1l4" n="N004"/>lassen worden.
                <lb facs="#facs_222_r1l5" n="N005"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_222_r1l6" n="N006"/><choice><expan/><abbr>Ao:</abbr></choice> 764 hat der <rs type="person" ref="#wkfm__47586">Johannes Schwizer</rs> seinen mit der <rs type="person" ref="#wkfm__47592">Francisca
@@ -127,10 +127,21 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47591">
-                     <orgName>Gebrüder Schwitzer</orgName>
-                  <noteGrp><note target="wkfm-1680.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1680</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__47586">
+    <back><listPerson><person xml:id="wkfm__47588">
+                     <persName>
+                        <forename>Theresia</forename>
+                        <surname>Schwitzerin</surname>
+                     </persName>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsfrau</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-1679.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1679</note><note target="wkfm-1680.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1680</note></noteGrp></person>
+                <person xml:id="wkfm__47586">
                      <persName>
                         <forename>Johann</forename>
                         <surname>Schwitzer</surname>
@@ -151,20 +162,6 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1679.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1679</note><note target="wkfm-1680.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1680</note></noteGrp></person>
-                <person xml:id="wkfm__47588">
-                     <persName>
-                        <forename>Theresia</forename>
-                        <surname>Schwitzerin</surname>
-                     </persName>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsfrau</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-1679.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1679</note><note target="wkfm-1680.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1680</note></noteGrp></person>
                 <person xml:id="wkfm__47592">
                      <persName>
                         <forename>Franziska</forename>
@@ -172,5 +169,8 @@
                         <surname type="alt">Schwitzer</surname>
                      </persName>
                <noteGrp><note target="wkfm-1680.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1680</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47591">
+                     <orgName>Gebrüder Schwitzer</orgName>
+                  <noteGrp><note target="wkfm-1680.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1680</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

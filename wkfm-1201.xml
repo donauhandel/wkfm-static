@@ -86,7 +86,7 @@
                <lb facs="#facs_17_r2l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_17_r2l3" n="N003"/><rs type="person" ref="#wkfm__8583">Malengo Domenico</rs> kay: könig: Niderlags Verwanter
                <lb facs="#facs_17_line_1624960263118_740" n="N004"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_17_r2l4" n="N005"/><rs type="person" ref="#wkfm__46862">Dominico Malengo</rs> laut Anbringen de ps: 28<hi style="superscript">ten</hi> May 725 N<hi style="superscript">o</hi> 1022
+               <lb facs="#facs_17_r2l4" n="N005"/><rs type="org" ref="#wkfm__46862">Dominico Malengo</rs> laut Anbringen de ps: 28<hi style="superscript">ten</hi> May 725 N<hi style="superscript">o</hi> 1022
                <lb facs="#facs_17_r2l5" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_17_r2l6" n="N007"/>Mitls Anbringen de ps: 28<hi style="superscript">ten</hi> May 725 N<hi style="superscript">o</hi> 1022 hat der <rs type="person" ref="#wkfm__35690">Peter Scanzoni</rs>
                <lb facs="#facs_17_r2l7" n="N008"/>angezeiget, das er von dem <hi>P</hi> <rs type="person" ref="#wkfm__8583">Malengo</rs> die Procura, wie selbe allschon gerichtl:
@@ -100,7 +100,20 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__8583" sameAs="#wkfm__9621 ">
+    <back><listOrg><org xml:id="wkfm__46862">
+                     <orgName>Dominicus Malengo</orgName>
+                  <noteGrp><note target="wkfm-1201.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1201</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__35690" sameAs="#wkfm__34998 wkfm__38216 ">
+                     <persName>
+                        <forename>Peter</forename>
+                        <surname>Scanzoni</surname>
+                     </persName>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Prokurist bei Dominicus Malengo</occupation>
+               <noteGrp><note target="wkfm-1201.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1201</note></noteGrp></person>
+                <person xml:id="wkfm__8583" sameAs="#wkfm__9621 ">
                      <persName>
                         <forename>Dominicus</forename>
                         <surname>Malengo</surname>
@@ -120,18 +133,5 @@
                         <bibl>Dotter, Kaufleute, 106f.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1201.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1201</note></noteGrp></person>
-                <person xml:id="wkfm__35690" sameAs="#wkfm__34998 wkfm__38216 ">
-                     <persName>
-                        <forename>Peter</forename>
-                        <surname>Scanzoni</surname>
-                     </persName>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Prokurist bei Dominicus Malengo</occupation>
-               <noteGrp><note target="wkfm-1201.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1201</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46862">
-                     <orgName>Dominicus Malengo</orgName>
-                  <noteGrp><note target="wkfm-1201.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1201</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

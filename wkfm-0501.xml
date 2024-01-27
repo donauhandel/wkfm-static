@@ -86,10 +86,10 @@
                <lb facs="#facs_1_r1l1" n="N003"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_1_r1l4" n="N004"/><rs type="person" ref="#wkfm__8192">de Trevano Joseph</rs> k. k. Niderlags Verwanter
                <lb facs="#facs_1_r1l6" n="N005"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_1_r1l7" n="N006"/><rs type="person" ref="#wkfm__46188">Joseph de Trevano</rs> laut Anbringen de ps: 18<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 241
-               <lb facs="#facs_1_r1l9" n="N007"/><rs type="person" ref="#wkfm__12271">De Trevano E Consoni</rs> laut: Anbringen de ps: 3<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 726 N<hi style="superscript">o</hi> 1917
+               <lb facs="#facs_1_r1l7" n="N006"/><rs type="org" ref="#wkfm__46188">Joseph de Trevano</rs> laut Anbringen de ps: 18<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 241
+               <lb facs="#facs_1_r1l9" n="N007"/><rs type="org" ref="#wkfm__12271">De Trevano E Consoni</rs> laut: Anbringen de ps: 3<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 726 N<hi style="superscript">o</hi> 1917
                <lb facs="#facs_1_r1l10" n="N008"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
-               <lb facs="#facs_1_r1l11" n="N009"/>In obigen Anbringen de ps: 3 <choice><expan/><abbr>8br:</abbr></choice> 726 N<hi style="superscript">o</hi> 1917 ist von der Raggion <rs type="person" ref="#wkfm__12271">de <unclear>Trevano</unclear>
+               <lb facs="#facs_1_r1l11" n="N009"/>In obigen Anbringen de ps: 3 <choice><expan/><abbr>8br:</abbr></choice> 726 N<hi style="superscript">o</hi> 1917 ist von der Raggion <rs type="org" ref="#wkfm__12271">de <unclear>Trevano</unclear>
                <lb break="no" facs="#facs_1_r1l12" n="N010"/>E Consoni</rs> von beeden sociis <rs type="person" ref="#wkfm__8192">Joseph de Trevano</rs> und <rs type="person" ref="#wkfm__17087">Caspar Consoni</rs> <unclear>einge-</unclear>
                <lb facs="#facs_1_r1l13" n="N011"/>leget worden.
                <lb facs="#facs_1_r1l14" n="N012"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>

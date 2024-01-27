@@ -104,7 +104,7 @@
                <lb facs="#facs_45_r2l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_45_r2l2" n="N003"/><rs type="person" ref="#wkfm__46293">Aichinger Johann Thadaeus</rs> burgerlicher Handlsmann
                <lb facs="#facs_45_r2l3" n="N004"/><seg type="orighead__firma">Firma oder Raggion</seg>
-               <lb facs="#facs_45_r2l4" n="N005"/><rs type="person" ref="#wkfm__43800">Johann Thadaeus Aichinger</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 24.
+               <lb facs="#facs_45_r2l4" n="N005"/><rs type="org" ref="#wkfm__43800">Johann Thadaeus Aichinger</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 24.
                <lb facs="#facs_45_r2l5" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_45_r2l6" n="N007"/>Mittels anbringen de ps: 15: Juli 785 hat <rs type="person" ref="#wkfm__46293">Johann Thadaeus Aichinger</rs>
                <lb facs="#facs_45_line_1621281224229_151" n="N008"/>angezeiget, daß er wegen Gesundtheits Umständen sich auf 6 Mo-
@@ -121,7 +121,7 @@
                <lb facs="#facs_45_r2l22" n="N019"/>diert worden
                <lb facs="#facs_45_r2l19" n="N020"/>wie auch das von gedacht seiner Ehewirthin dahin ausgestelte
                <lb facs="#facs_45_r2l21" n="N021"/>Certiorirte <choice><expan/><abbr>orig:</abbr></choice> Instrument, daß sie diese 5503 fl an ihm
-               <lb facs="#facs_45_r2l23" n="N022"/><rs type="person" ref="#wkfm__43800">Aichinger </rs>zu seiner Stabilirung gänzlichen uberlassen und 
+               <lb facs="#facs_45_r2l23" n="N022"/><rs type="org" ref="#wkfm__43800">Aichinger </rs>zu seiner Stabilirung gänzlichen uberlassen und 
                <lb facs="#facs_45_r2l24" n="N023"/>übertragen habe dd<hi style="superscript">to</hi> 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 747 N<hi style="superscript">o</hi> 1161 eingeleget <unclear>sohin</unclear>
                <lb facs="#facs_45_line_1621281592131_207" n="N024"/>laut formulo jurandi de ps: 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 747 N<hi style="superscript">o</hi> 1157 mit einem cörperlichen 
                <lb facs="#facs_45_r2l26" n="N025"/>Eyd betheiert das seine Ehewirthin dise 5503 fl ererbet und ihm 
@@ -137,33 +137,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46293">
-                     <persName>
-                        <forename>Johann Thaddäus</forename>
-                        <surname>Aichinger</surname>
-                     </persName>                    
-                     <residence type="Geschäftsadresse">
-                        <placeName>Zum 3. Goldenen Löwen auf der Brandstatt (Calender 1758)</placeName>
-                     </residence>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__566">Nürnberg</placeName>
-                     <location type="coords"><geo>49.45416666666667 11.0775</geo></location></residence>
-                     <residence type="Bürgerrecht">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-                     <listBibl>
-                        <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 325, 337 (&amp;#34;Thadeus Aichinger&amp;#34;). Ein Johann Aichinger, Handelsmann, wurde im April 1737 zum Wiener Bürger aufgenommen (ebd. 325).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-0050.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0050</note><note target="wkfm-0051.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0051</note><note target="wkfm-0607.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0607</note></noteGrp></person>
-                <person xml:id="wkfm__23514" sameAs="#wkfm__24590 wkfm__40475 wkfm__25587 ">
+    <back><listOrg><org xml:id="wkfm__43800">
+                     <orgName>Johann Thaddäus Aichinger</orgName>
+                  <noteGrp><note target="wkfm-0050.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0050</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__23514" sameAs="#wkfm__24590 wkfm__40475 wkfm__25587 ">
                      <persName>
                         <forename>Franz Anton</forename>
                         <surname>Kollminzer</surname>
@@ -189,8 +166,31 @@
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 424 (Dezember 1733).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0050.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0050</note><note target="wkfm-0425.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0425</note><note target="wkfm-0426.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0426</note><note target="wkfm-1695.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1695</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__43800">
-                     <orgName>Johann Thaddäus Aichinger</orgName>
-                  <noteGrp><note target="wkfm-0050.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0050</note></noteGrp></org>
-                </listOrg></back></text>
+                <person xml:id="wkfm__46293">
+                     <persName>
+                        <forename>Johann Thaddäus</forename>
+                        <surname>Aichinger</surname>
+                     </persName>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zum 3. Goldenen Löwen auf der Brandstatt (Calender 1758)</placeName>
+                     </residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__566">Nürnberg</placeName>
+                     <location type="coords"><geo>49.45416666666667 11.0775</geo></location></residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+                     <listBibl>
+                        <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 325, 337 (&amp;#34;Thadeus Aichinger&amp;#34;). Ein Johann Aichinger, Handelsmann, wurde im April 1737 zum Wiener Bürger aufgenommen (ebd. 325).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0050.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0050</note><note target="wkfm-0051.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0051</note><note target="wkfm-0607.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0607</note></noteGrp></person>
+                </listPerson></back></text>
 </TEI>

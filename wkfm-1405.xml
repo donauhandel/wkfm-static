@@ -82,9 +82,9 @@
                <lb facs="#facs_53_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_53_line_1624024603634_490" n="N003"/><rs type="person" ref="#wkfm__5636">Rigotti Hieronimus</rs> burgerlicher Handlsmann
                <lb facs="#facs_53_r1l3" n="N004"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_53_line_1624024647230_503" n="N005"/><rs type="person" ref="#wkfm__46716">Hieronimus Rigotti</rs> laut Erklährung dd<hi style="superscript">to</hi> 8<hi style="superscript">ten</hi> Junii 728 N<hi style="superscript">o</hi> 635
-               <lb facs="#facs_53_r1l6" n="N006"/><rs type="person" ref="#wkfm__13208">Peisser et Rigotti</rs> laut Äusserung in dem Anbringen de ps: 27<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 732 N<hi style="superscript">o</hi> 2022
-               <lb facs="#facs_53_r1l7" n="N007"/><rs type="person" ref="#wkfm__46716">Hieronimus Rigotti</rs> laut Anbringen de ps: 27<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 732 N<hi style="superscript">o</hi> 2022
+               <lb facs="#facs_53_line_1624024647230_503" n="N005"/><rs type="org" ref="#wkfm__46716">Hieronimus Rigotti</rs> laut Erklährung dd<hi style="superscript">to</hi> 8<hi style="superscript">ten</hi> Junii 728 N<hi style="superscript">o</hi> 635
+               <lb facs="#facs_53_r1l6" n="N006"/><rs type="org" ref="#wkfm__13208">Peisser et Rigotti</rs> laut Äusserung in dem Anbringen de ps: 27<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 732 N<hi style="superscript">o</hi> 2022
+               <lb facs="#facs_53_r1l7" n="N007"/><rs type="org" ref="#wkfm__46716">Hieronimus Rigotti</rs> laut Anbringen de ps: 27<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 732 N<hi style="superscript">o</hi> 2022
                <lb facs="#facs_53_r1l8" n="N008"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_53_r1l9" n="N009"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_53_r1l10" n="N010"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
@@ -128,11 +128,11 @@
                         <bibl>Dotter, Kaufleute, 126f.</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0197.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0197</note><note target="wkfm-0875.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0875</note><note target="wkfm-0876.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0876</note><note target="wkfm-1228.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1228</note><note target="wkfm-1405.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1405</note><note target="wkfm-1406.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1406</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46716">
-                     <orgName>Hieronymus Rigotti</orgName>
-                  <noteGrp><note target="wkfm-1228.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1228</note><note target="wkfm-1405.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1405</note><note target="wkfm-1406.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1406</note></noteGrp></org>
-                <org xml:id="wkfm__13208">
+                </listPerson><listOrg><org xml:id="wkfm__13208">
                      <orgName>Peisser und Rigotti</orgName>
-                  <noteGrp><note target="wkfm-0196.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0196</note><note target="wkfm-1405.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1405</note><note target="wkfm-1406.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1406</note></noteGrp></org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__4646">Peisser, Joseph</persName></person><person><persName key="#wkfm__5636">Rigotti, Hieronymus</persName></person></listPerson><noteGrp><note target="wkfm-0196.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0196</note><note target="wkfm-1405.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1405</note><note target="wkfm-1406.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1406</note></noteGrp></org>
+                <org xml:id="wkfm__46716">
+                     <orgName>Hieronymus Rigotti</orgName>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__10730">Mader, Anton</persName></person></listPerson><noteGrp><note target="wkfm-1228.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1228</note><note target="wkfm-1405.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1405</note><note target="wkfm-1406.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1406</note></noteGrp></org>
                 </listOrg></back></text>
 </TEI>

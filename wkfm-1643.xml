@@ -108,31 +108,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47544">
-                     <persName>
-                        <forename>Martin</forename>
-                        <surname>Sensel</surname>
-                     </persName>
-                     <residence type="Bürgerrecht">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-1643.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1643</note><note target="wkfm-1644.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1644</note></noteGrp></person>
-                <person xml:id="wkfm__47545" sameAs="#wkfm__47026 ">
-                     <persName>
-                        <forename>Maria Anna</forename>
-                        <surname>Jenamy</surname>
-                        <surname type="alt">Jenamin</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-1643.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1643</note></noteGrp></person>
-                <person xml:id="wkfm__47188">
+    <back><listPerson><person xml:id="wkfm__47188">
                      <persName>
                         <forename>Franz</forename>
                         <surname>Fuljod</surname>
@@ -149,5 +125,29 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0805.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0805</note><note target="wkfm-1643.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1643</note><note target="wkfm-1644.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1644</note></noteGrp></person>
+                <person xml:id="wkfm__47545" sameAs="#wkfm__47026 ">
+                     <persName>
+                        <forename>Maria Anna</forename>
+                        <surname>Jenamy</surname>
+                        <surname type="alt">Jenamin</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-1643.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1643</note></noteGrp></person>
+                <person xml:id="wkfm__47544">
+                     <persName>
+                        <forename>Martin</forename>
+                        <surname>Sensel</surname>
+                     </persName>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-1643.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1643</note><note target="wkfm-1644.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1644</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

@@ -80,7 +80,7 @@
                <lb facs="#facs_227_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_227_line_1621472303804_4338" n="N003"/><rs type="person" ref="#wkfm__43795">Pleyer Joseph</rs> burgerlicher Tuchlaubens Verwanter
                <lb facs="#facs_227_r1l3" n="N004"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_227_r1l4" n="N005"/><rs type="person" ref="#wkfm__47379">Joseph Pleyer</rs> laut Erklährung dd<hi style="superscript">to</hi> 13<hi style="superscript">ten</hi> Julii 756 N<hi style="superscript">o</hi> 165
+               <lb facs="#facs_227_r1l4" n="N005"/><rs type="org" ref="#wkfm__47379">Joseph Pleyer</rs> laut Erklährung dd<hi style="superscript">to</hi> 13<hi style="superscript">ten</hi> Julii 756 N<hi style="superscript">o</hi> 165
                <lb facs="#facs_227_r1l5" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_227_r1l6" n="N007"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_227_r1l7" n="N008"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
@@ -88,10 +88,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47379">
-                     <orgName>Joseph Pleyer</orgName>
-                  <noteGrp><note target="wkfm-0281.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0281</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__43795">
+    <back><listPerson><person xml:id="wkfm__43795">
                      <persName>
                         <forename>Joseph</forename>
                         <surname>Pleyer</surname>
@@ -114,5 +111,8 @@
                         <bibl>&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 486.&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Harrer-Lucienfeld, Wien, seiner Häuser, Bd. 1.1, S. 207&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0047.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0047</note><note target="wkfm-0281.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0281</note><note target="wkfm-0282.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0282</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47379">
+                     <orgName>Joseph Pleyer</orgName>
+                  <noteGrp><note target="wkfm-0281.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0281</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

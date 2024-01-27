@@ -77,27 +77,14 @@
                <lb facs="#facs_58_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_58_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 727 N<hi style="superscript">o</hi> 2067 hat sich der
                <lb facs="#facs_58_r1l3" n="N003"/><rs type="person" ref="#wkfm__9643">Joh: Jacob Wattau</rs> geäusseret das er und der <rs type="person" ref="#wkfm__46989">Pejrand</rs> die Handlung
-               <lb facs="#facs_58_r1l4" n="N004"/>unter der Firma <rs type="person" ref="#wkfm__46988">J. Jacob Wattau et Pejrand</rs> führen
+               <lb facs="#facs_58_r1l4" n="N004"/>unter der Firma <rs type="org" ref="#wkfm__46988">J. Jacob Wattau et Pejrand</rs> führen
                <lb facs="#facs_58_r1l5" n="N005"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_58_r1l6" n="N006"/><seg type="orighead__other_notes">Anmerckungen</seg>
             </ab>
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46988">
-                     <orgName>Johann Jakob Wattau und Pejrand</orgName>
-                  <noteGrp><note target="wkfm-1763.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1763</note><note target="wkfm-1764.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1764</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__46989">
-                     <persName>
-                        <forename>None</forename>
-                        <surname>Pejrand</surname>
-                     </persName>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-               <noteGrp><note target="wkfm-1764.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1764</note></noteGrp></person>
-                <person xml:id="wkfm__9643">
+    <back><listPerson><person xml:id="wkfm__9643">
                      <persName>
                         <forename>Johann Jakob</forename>
                         <surname>Wattau</surname>
@@ -120,5 +107,18 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 556.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1763.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1763</note><note target="wkfm-1764.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1764</note></noteGrp></person>
-                </listPerson></back></text>
+                <person xml:id="wkfm__46989">
+                     <persName>
+                        <forename>None</forename>
+                        <surname>Pejrand</surname>
+                     </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+               <noteGrp><note target="wkfm-1764.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1764</note></noteGrp></person>
+                </listPerson><listOrg><org xml:id="wkfm__46988">
+                     <orgName>Johann Jakob Wattau und Pejrand</orgName>
+                  <noteGrp><note target="wkfm-1763.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1763</note><note target="wkfm-1764.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1764</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

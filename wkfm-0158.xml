@@ -81,7 +81,7 @@
                <lb facs="#facs_105_r1l2" n="N002"/><seg type="orighead__name">Nahmen u. Class</seg>
                <lb facs="#facs_105_r1l3" n="N003"/><rs type="person" ref="#wkfm__15544">Benedetti Johann Georg</rs> burgerlicher Handlsmann
                <lb facs="#facs_105_r1l4" n="N004"/><seg type="orighead__firma">Firma oder Raggion</seg>
-               <lb facs="#facs_105_r1l5" n="N005"/><rs type="person" ref="#wkfm__47320">Johann <seg type="editorial_comment_seg">Jehorg<note type="editorial_comment_note">Sic!</note></seg> Benedetti</rs> laut Erklährung dd<hi style="superscript">to</hi> 20<hi style="superscript">ten</hi> <unclear>Juni</unclear>
+               <lb facs="#facs_105_r1l5" n="N005"/><rs type="org" ref="#wkfm__47320">Johann <seg type="editorial_comment_seg">Jehorg<note type="editorial_comment_note">Sic!</note></seg> Benedetti</rs> laut Erklährung dd<hi style="superscript">to</hi> 20<hi style="superscript">ten</hi> <unclear>Juni</unclear>
                <lb facs="#facs_105_r1l6" n="N006"/>725 N<hi style="superscript">o</hi> 71
                <lb facs="#facs_105_r1l7" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_105_r1l8" n="N008"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
@@ -90,10 +90,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47320">
-                     <orgName>Johann Georg Benedetti</orgName>
-                  <noteGrp><note target="wkfm-0158.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0158</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__15544">
+    <back><listPerson><person xml:id="wkfm__15544">
                      <persName>
                         <forename>Johann Georg</forename>
                         <surname>Benedetti</surname>
@@ -113,5 +110,8 @@
                         <bibl>Huchler, Bürgeraufnahmen, 346.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0158.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0158</note><note target="wkfm-0159.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0159</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47320">
+                     <orgName>Johann Georg Benedetti</orgName>
+                  <noteGrp><note target="wkfm-0158.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0158</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

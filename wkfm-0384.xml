@@ -93,27 +93,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46113" sameAs="#wkfm__19234 ">
-                     <persName>
-                        <forename>Anton</forename>
-                        <surname>Kienmayr</surname>
-                     </persName>
-                     <residence type="Bürgerrecht">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-                     <listBibl>
-                        <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 428 (März 1749: &amp;#34;Kiemayr&amp;#34;).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-0384.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0384</note><note target="wkfm-0477.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0477</note></noteGrp></person>
-                <person xml:id="wkfm__9731" sameAs="#wkfm__29936 ">
+    <back><listPerson><person xml:id="wkfm__9731" sameAs="#wkfm__29936 ">
                      <persName>
                         <forename>Johann Michael</forename>
                         <surname>Kienmayr</surname>
@@ -137,5 +117,25 @@
                         <bibl>Historische und topographische Darstellung von Schönbrunn und seiner Umgegend (...) (Wien 1824) 153; &amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 428&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;.</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0383.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0383</note><note target="wkfm-0384.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0384</note><note target="wkfm-0477.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0477</note><note target="wkfm-0781.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0781</note><note target="wkfm-1059.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1059</note><note target="wkfm-1661.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1661</note></noteGrp></person>
+                <person xml:id="wkfm__46113" sameAs="#wkfm__19234 ">
+                     <persName>
+                        <forename>Anton</forename>
+                        <surname>Kienmayr</surname>
+                     </persName>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+                     <listBibl>
+                        <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 428 (März 1749: &amp;#34;Kiemayr&amp;#34;).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0384.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0384</note><note target="wkfm-0477.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0477</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

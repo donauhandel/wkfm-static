@@ -81,7 +81,7 @@
                <lb facs="#facs_155_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_155_r1l3" n="N003"/><rs type="person" ref="#wkfm__14033">Schröckh Johann Wolfgang</rs> kay: könig: Niderlags Verwanter
                <lb facs="#facs_155_r1l4" n="N004"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_155_r1l5" n="N005"/><rs type="person" ref="#wkfm__47509">Johann Wolfgang Schröckh</rs> laut Anbringen de ps: 22<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 735 N<hi style="superscript">o</hi> 737
+               <lb facs="#facs_155_r1l5" n="N005"/><rs type="org" ref="#wkfm__47509">Johann Wolfgang Schröckh</rs> laut Anbringen de ps: 22<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 735 N<hi style="superscript">o</hi> 737
                <lb facs="#facs_155_r1l6" n="N006"/><choice><expan/><abbr>Ao</abbr></choice> 763 seine weitere firma eingelegt <choice><expan/><abbr>nro:</abbr></choice> 794
                <lb facs="#facs_155_r1l7" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_155_r1l8" n="N008"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
@@ -90,7 +90,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__14033">
+    <back><listOrg><org xml:id="wkfm__47509">
+                     <orgName>Johann Wolfgang Schröck</orgName>
+                  <noteGrp><note target="wkfm-1613.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1613</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__14033">
                      <persName>
                         <forename>Johann Wolfgang</forename>
                         <surname>Schröck</surname>
@@ -101,8 +104,5 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                <noteGrp><note target="wkfm-1613.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1613</note><note target="wkfm-1614.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1614</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__47509">
-                     <orgName>Johann Wolfgang Schröck</orgName>
-                  <noteGrp><note target="wkfm-1613.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1613</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

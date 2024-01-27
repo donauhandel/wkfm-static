@@ -86,7 +86,7 @@
                <lb facs="#facs_19_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_19_r1l3" n="N003"/><rs type="person" ref="#wkfm__8754">Hengsberger Matthias</rs>
                <lb facs="#facs_19_r1l4" n="N004"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_19_r1l5" n="N005"/><rs type="person" ref="#wkfm__46444">Matthias Hengsberger</rs> laut Anbringen de ps: 19<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 986
+               <lb facs="#facs_19_r1l5" n="N005"/><rs type="org" ref="#wkfm__46444">Matthias Hengsberger</rs> laut Anbringen de ps: 19<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 986
                <lb facs="#facs_19_r1l6" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_19_r1l7" n="N007"/>In obigen Anbringen de ps: 19<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 986 hat sich der <hi>Heg</hi> <rs type="person" ref="#wkfm__8754">Hengsberger</rs> erklährert
                <lb facs="#facs_19_r1l8" n="N008"/>daß sein Vetter <rs type="person" ref="#wkfm__12736">Andre Neymayster</rs> ein für allemahl die Firma und Procura
@@ -100,30 +100,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__8754">
-                     <persName>
-                        <forename>Matthias</forename>
-                        <surname>Hengsberger</surname>
-                     </persName>
-                     <death><date>1739</date></death>
-                     <residence type="Bürgerrecht">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann, Seidenhändler</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-                     <occupation type="aemter">Äußerer Rat</occupation>
-                     <occupation type="aemter">Vorsteher der bürgerl. Handelsleute</occupation>
-                     <listBibl>
-                        <bibl>Egon Komorzynski, Lessings Braut in Wien, in: Alt-Wiener Kalender für das Jahr 1925 [Wien 1925] 64-91, hier 68; &amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Karschulin, Seidenindustrie 2, 4.&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-0939.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0939</note><note target="wkfm-1714.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1714</note></noteGrp></person>
-                <person xml:id="wkfm__12736" sameAs="#wkfm__14423 ">
+    <back><listOrg><org xml:id="wkfm__46444">
+                     <orgName>Matthias Hengsberger</orgName>
+                  <noteGrp><note target="wkfm-0939.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0939</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__12736" sameAs="#wkfm__14423 ">
                      <persName>
                         <forename>Andreas</forename>
                         <surname>Neumaister</surname>
@@ -150,8 +130,28 @@
                         <bibl>Huchler, Bürgeraufnahmen, 470.</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0939.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0939</note><note target="wkfm-1309.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1309</note><note target="wkfm-1310.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1310</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46444">
-                     <orgName>Matthias Hengsberger</orgName>
-                  <noteGrp><note target="wkfm-0939.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0939</note></noteGrp></org>
-                </listOrg></back></text>
+                <person xml:id="wkfm__8754">
+                     <persName>
+                        <forename>Matthias</forename>
+                        <surname>Hengsberger</surname>
+                     </persName>
+                     <death><date>1739</date></death>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann, Seidenhändler</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+                     <occupation type="aemter">Äußerer Rat</occupation>
+                     <occupation type="aemter">Vorsteher der bürgerl. Handelsleute</occupation>
+                     <listBibl>
+                        <bibl>Egon Komorzynski, Lessings Braut in Wien, in: Alt-Wiener Kalender für das Jahr 1925 [Wien 1925] 64-91, hier 68; &amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Karschulin, Seidenindustrie 2, 4.&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0939.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0939</note><note target="wkfm-1714.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1714</note></noteGrp></person>
+                </listPerson></back></text>
 </TEI>

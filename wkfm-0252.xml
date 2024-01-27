@@ -115,7 +115,7 @@
                <lb facs="#facs_198_r1l19" n="N020"/><rs type="person" ref="#wkfm__43946">Philibert Anton Perinet</rs>, <rs type="person" ref="#wkfm__43947">Peter Bassy</rs> und <rs type="person" ref="#wkfm__43948">Franz Bassy</rs>, das alle 4 gleich
                <lb facs="#facs_198_r1l20" n="N021"/>um das 1/4tl interessiret seynd, samt der von <rs type="person" ref="#wkfm__43942">Michael Bassy</rs> und <rs type="person" ref="#wkfm__43946">Philipert Anton
                <lb break="no" facs="#facs_198_r1l21" n="N022"/>Berinet</rs> gezeichneten firma in Societäts Contractur Sub <choice><expan/><abbr>nro:</abbr></choice> 1887
-               <lb facs="#facs_198_r1l22" n="N023"/>Vermög Anbringen de ps: 27. Septembris 770 hat <rs type="person" ref="#wkfm__43944">Michael Passy
+               <lb facs="#facs_198_r1l22" n="N023"/>Vermög Anbringen de ps: 27. Septembris 770 hat <rs type="org" ref="#wkfm__43944">Michael Passy
                <lb break="no" facs="#facs_198_r1l23" n="N024"/>Perinet et <choice><expan/><abbr>Comp:</abbr></choice></rs> angezeiget, das ihr gewester associe <rs type="person" ref="#wkfm__43948">Franz
                <lb break="no" facs="#facs_198_r1l24" n="N025"/>Passy</rs> ausgetretten, die übrigen Compagnonen aber in ihrer Societät
                <lb facs="#facs_198_line_1621471322490_3832" n="N026"/>verblieben seyen. In societäts Cont: <choice><expan/><abbr>nro</abbr></choice> 1887 1/2
@@ -126,28 +126,6 @@
     <back><listPerson><person xml:id="wkfm__43948" sameAs="#wkfm__36625 ">
                      <persName>
                         <forename>Franz</forename>
-                        <surname>Passy</surname>
-                     </persName>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-               <noteGrp><note target="wkfm-0251.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0251</note><note target="wkfm-0252.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0252</note></noteGrp></person>
-                <person xml:id="wkfm__43946">
-                     <persName>
-                        <forename>Phillibert Anton</forename>
-                        <surname>Perinet</surname>
-                     </persName>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-               <noteGrp><note target="wkfm-0251.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0251</note><note target="wkfm-0252.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0252</note></noteGrp></person>
-                <person xml:id="wkfm__43947">
-                     <persName>
-                        <forename>Peter</forename>
                         <surname>Passy</surname>
                      </persName>
                      <residence type="Geschäftsniederlassung">
@@ -170,6 +148,28 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                <noteGrp><note target="wkfm-0251.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0251</note><note target="wkfm-0252.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0252</note><note target="wkfm-0303.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0303</note><note target="wkfm-1441.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1441</note></noteGrp></person>
+                <person xml:id="wkfm__43946">
+                     <persName>
+                        <forename>Phillibert Anton</forename>
+                        <surname>Perinet</surname>
+                     </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+               <noteGrp><note target="wkfm-0251.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0251</note><note target="wkfm-0252.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0252</note></noteGrp></person>
+                <person xml:id="wkfm__43947">
+                     <persName>
+                        <forename>Peter</forename>
+                        <surname>Passy</surname>
+                     </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+               <noteGrp><note target="wkfm-0251.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0251</note><note target="wkfm-0252.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0252</note></noteGrp></person>
                 </listPerson><listOrg><org xml:id="wkfm__43944">
                      <orgName>Passy, Perinet &amp; Co.</orgName>
                   <noteGrp><note target="wkfm-0251.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0251</note><note target="wkfm-0252.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0252</note><note target="wkfm-1693.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1693</note></noteGrp></org>

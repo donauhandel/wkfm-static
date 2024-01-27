@@ -79,7 +79,7 @@
                <lb facs="#facs_16_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 29<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 725 N<hi style="superscript">o</hi> 2065 hat sich der
                <lb facs="#facs_16_r1l3" n="N003"/><rs type="person" ref="#wkfm__46959">Georg Christoph Würth</rs> nebst seinem brudern <rs type="person" ref="#wkfm__29681">Johann Caspar
                <lb break="no" facs="#facs_16_r1l4" n="N004"/>Würth</rs> erklähret das nur sie beede und sonsten Niemand an der
-               <lb facs="#facs_16_r1l5" n="N005"/>Raggion <rs type="person" ref="#wkfm__44080">Caspar Würths <choice><expan/><abbr>seel:</abbr></choice> Söhne</rs> participieren
+               <lb facs="#facs_16_r1l5" n="N005"/>Raggion <rs type="org" ref="#wkfm__44080">Caspar Würths <choice><expan/><abbr>seel:</abbr></choice> Söhne</rs> participieren
                <lb facs="#facs_16_r1l6" n="N006"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_16_r1l7" n="N007"/><seg type="orighead__other_notes">Anmerckungen</seg>
             </ab>
@@ -89,7 +89,21 @@
     <back><listOrg><org xml:id="wkfm__44080">
                      <orgName>Kaspar Würth sel. Söhne</orgName>
                   <noteGrp><note target="wkfm-1721.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1721</note><note target="wkfm-1722.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1722</note><note target="wkfm-1723.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1723</note><note target="wkfm-1724.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1724</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__29681">
+                </listOrg><listPerson><person xml:id="wkfm__46959">
+                     <persName>
+                        <forename>Georg Christoph</forename>
+                        <surname>Würth</surname>
+                     </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+                     <listBibl>
+                        <bibl>&amp;lt;span&amp;gt;Siehe Senfelder, Friedhof, 243 (Niederleger Michael Gottfried und Georg Friedrich von Wirth); &amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;Haemmerle, Hochzeitsbücher, 258, Nr. 3512.&amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-1721.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1721</note><note target="wkfm-1722.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1722</note><note target="wkfm-1724.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1724</note></noteGrp></person>
+                <person xml:id="wkfm__29681">
                      <persName>
                         <forename>Johann Kaspar</forename>
                         <surname>Würth</surname>
@@ -109,19 +123,5 @@
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Haemmerle, Hochzeitsbücher, 261, Nr. 3570.&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1722.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1722</note><note target="wkfm-1723.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1723</note><note target="wkfm-1724.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1724</note></noteGrp></person>
-                <person xml:id="wkfm__46959">
-                     <persName>
-                        <forename>Georg Christoph</forename>
-                        <surname>Würth</surname>
-                     </persName>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-                     <listBibl>
-                        <bibl>&amp;lt;span&amp;gt;Siehe Senfelder, Friedhof, 243 (Niederleger Michael Gottfried und Georg Friedrich von Wirth); &amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;Haemmerle, Hochzeitsbücher, 258, Nr. 3512.&amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-1721.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1721</note><note target="wkfm-1722.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1722</note><note target="wkfm-1724.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1724</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

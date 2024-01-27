@@ -89,8 +89,8 @@
                <lb facs="#facs_19_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_19_r1l3" n="N003"/><rs type="person" ref="#wkfm__8489">Rößler Paul</rs> kay: könig: Niderlags Verwanter
                <lb facs="#facs_19_r1l4" n="N004"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_19_r1l5" n="N005"/><rs type="person" ref="#wkfm__46688">Paull Rößler</rs> laut Anbringen de ps: 19<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 620
-               <lb facs="#facs_19_r1l6" n="N006"/><rs type="person" ref="#wkfm__46689">Paul Rößler: Seeliche Wüttüb</rs> laut Anbringen de ps: 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 725 N<hi style="superscript">o</hi>
+               <lb facs="#facs_19_r1l5" n="N005"/><rs type="org" ref="#wkfm__46688">Paull Rößler</rs> laut Anbringen de ps: 19<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 620
+               <lb facs="#facs_19_r1l6" n="N006"/><rs type="org" ref="#wkfm__46689">Paul Rößler: Seeliche Wüttüb</rs> laut Anbringen de ps: 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 725 N<hi style="superscript">o</hi>
                <lb facs="#facs_19_r1l7" n="N007"/>643
                <lb facs="#facs_19_r1l8" n="N008"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_19_r1l9" n="N009"/>Mitls Anbringen de ps: 19<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 1048 hat der <rs type="person" ref="#wkfm__8489">Rößler</rs> die seinem Vettern
@@ -106,13 +106,21 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46688">
-                     <orgName>Paul Rössler</orgName>
-                  <noteGrp><note target="wkfm-1371.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1371</note></noteGrp></org>
-                <org xml:id="wkfm__46689">
-                     <orgName>Paul Rössler sel. Witwe</orgName>
-                  <noteGrp><note target="wkfm-1371.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1371</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__46687" sameAs="#wkfm__17462 ">
+    <back><listPerson><person xml:id="wkfm__20473">
+                     <persName>
+                        <forename>None</forename>
+                        <surname>None</surname>
+                     </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsfrau</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+                     <listBibl>
+                        <bibl>&amp;lt;span&amp;gt;Kröpfel, Protestantismus, Anhang 1, S. 4.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-1371.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1371</note><note target="wkfm-1372.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1372</note></noteGrp></person>
+                <person xml:id="wkfm__46687" sameAs="#wkfm__17462 ">
                      <persName>
                         <forename>Johann Paul</forename>
                         <surname>Rössler</surname>
@@ -121,16 +129,6 @@
                         <placeName key="#wkfm-place__925">Wien</placeName>
                      <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Prokurist des Paul Rössler</occupation>
-               <noteGrp><note target="wkfm-1371.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1371</note></noteGrp></person>
-                <person xml:id="wkfm__46690">
-                     <persName>
-                        <forename>Georg Philipp</forename>
-                        <surname>Beer</surname>
-                     </persName>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Prokurist bei Paul Rössler sel. Witwe</occupation>
                <noteGrp><note target="wkfm-1371.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1371</note></noteGrp></person>
                 <person xml:id="wkfm__8489" sameAs="#wkfm__17462 ">
                      <persName>
@@ -146,19 +144,21 @@
                         <bibl>Senfelder, Gottesacker, 262, 266; Kaiserlicher (...) Staats= und Stands Calender (...) [1723] (Wien), 243; &amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Kühnert, Taufbuch, 106.&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1371.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1371</note><note target="wkfm-1372.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1372</note></noteGrp></person>
-                <person xml:id="wkfm__20473">
+                <person xml:id="wkfm__46690">
                      <persName>
-                        <forename>None</forename>
-                        <surname>None</surname>
+                        <forename>Georg Philipp</forename>
+                        <surname>Beer</surname>
                      </persName>
-                     <residence type="Geschäftsniederlassung">
+                     <residence type="Wohnort">
                         <placeName key="#wkfm-place__925">Wien</placeName>
                      <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsfrau</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-                     <listBibl>
-                        <bibl>&amp;lt;span&amp;gt;Kröpfel, Protestantismus, Anhang 1, S. 4.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-1371.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1371</note><note target="wkfm-1372.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1372</note></noteGrp></person>
-                </listPerson></back></text>
+                     <occupation>Prokurist bei Paul Rössler sel. Witwe</occupation>
+               <noteGrp><note target="wkfm-1371.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1371</note></noteGrp></person>
+                </listPerson><listOrg><org xml:id="wkfm__46688">
+                     <orgName>Paul Rössler</orgName>
+                  <noteGrp><note target="wkfm-1371.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1371</note></noteGrp></org>
+                <org xml:id="wkfm__46689">
+                     <orgName>Paul Rössler sel. Witwe</orgName>
+                  <noteGrp><note target="wkfm-1371.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1371</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

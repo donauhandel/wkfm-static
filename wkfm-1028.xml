@@ -108,10 +108,10 @@
                <lb facs="#facs_108_r1l12" n="N012"/>spesen, gewün und Verlust jedwedern theil zur helfte zukommen, daß <unclear>dermahlige</unclear> 
                <lb facs="#facs_108_r1l14" n="N013"/>Waaren lager der <rs type="person" ref="#wkfm__46393">Hayderin</rs> Eigenthumlich verbleiben selbe aber hingegen
                <lb facs="#facs_108_r1l15" n="N014"/>für die von dem <rs type="person" ref="#wkfm__46170">Hammer</rs> in die societaet eingelegte 7000 fl denen Creditoribus
-               <lb facs="#facs_108_r1l16" n="N015"/>haften dann die Raggion <rs type="person" ref="#wkfm__46392">Stephan v. Haydern <choice><expan/><abbr>seel:</abbr></choice> Wittib und Hammer</rs> unter beeder firmirung
+               <lb facs="#facs_108_r1l16" n="N015"/>haften dann die Raggion <rs type="org" ref="#wkfm__46392">Stephan v. Haydern <choice><expan/><abbr>seel:</abbr></choice> Wittib und Hammer</rs> unter beeder firmirung
                <lb facs="#facs_108_r1l17" n="N016"/>seyn solle.
-               <lb facs="#facs_108_r1l18" n="N017"/>Mitls Anbringen de ps: 18<hi style="superscript">ten</hi> <choice><expan/><abbr>Jul:</abbr></choice> 743 N<hi style="superscript">o</hi> 476 hat sich der <rs type="person" ref="#wkfm__46170">Hammer</rs> erklähret, daß er die vorhin <rs type="person" ref="#wkfm__46392">Hayderische
-               <lb break="no" facs="#facs_108_r1l19" n="N018"/>handlung</rs>  nunmehro unter seiner eignen Raggion <rs type="person" ref="#wkfm__46525">Franz Joseph Hammer</rs> führe.
+               <lb facs="#facs_108_r1l18" n="N017"/>Mitls Anbringen de ps: 18<hi style="superscript">ten</hi> <choice><expan/><abbr>Jul:</abbr></choice> 743 N<hi style="superscript">o</hi> 476 hat sich der <rs type="person" ref="#wkfm__46170">Hammer</rs> erklähret, daß er die vorhin <rs type="org" ref="#wkfm__46392">Hayderische
+               <lb break="no" facs="#facs_108_r1l19" n="N018"/>handlung</rs>  nunmehro unter seiner eignen Raggion <rs type="org" ref="#wkfm__46525">Franz Joseph Hammer</rs> führe.
                <lb facs="#facs_108_r1l23" n="N019"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_108_r1l24" n="N020"/>Mitls Anbringen de ps: 4<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 743 N<hi style="superscript">o</hi> 2170 hat der <rs type="person" ref="#wkfm__46170">Hammer</rs> den mit der
                <lb facs="#facs_108_r1l25" n="N021"/><rs type="person" ref="#wkfm__46393">Anna Susanna von Haydern</rs> untern 16<hi style="superscript">ten</hi> <choice><expan/><abbr>9br:</abbr></choice> 741 <hi>N<hi style="superscript"/></hi>o
@@ -123,13 +123,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46525">
-                     <orgName>Franz Joseph Hammer</orgName>
-                  <noteGrp><note target="wkfm-1027.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1027</note><note target="wkfm-1028.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1028</note></noteGrp></org>
-                <org xml:id="wkfm__46392">
-                     <orgName>Stephan von Haydern sel. Witwe und Hammer</orgName>
-                  <noteGrp><note target="wkfm-0923.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0923</note><note target="wkfm-0924.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0924</note><note target="wkfm-1027.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1027</note><note target="wkfm-1028.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1028</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__46170">
+    <back><listPerson><person xml:id="wkfm__46170">
                      <persName>
                         <forename>Franz Joseph</forename>
                         <forename type="alt">Franz</forename>
@@ -170,5 +164,11 @@
                      <occupation>Tuchhändlerin</occupation>
                      <occupation type="kaufmannsklasse">tuchlaubensverwandt/bürgerlich</occupation>
                <noteGrp><note target="wkfm-0923.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0923</note><note target="wkfm-0924.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0924</note><note target="wkfm-1027.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1027</note><note target="wkfm-1028.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1028</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46392">
+                     <orgName>Stephan von Haydern sel. Witwe und Hammer</orgName>
+                  <noteGrp><note target="wkfm-0923.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0923</note><note target="wkfm-0924.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0924</note><note target="wkfm-1027.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1027</note><note target="wkfm-1028.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1028</note></noteGrp></org>
+                <org xml:id="wkfm__46525">
+                     <orgName>Franz Joseph Hammer</orgName>
+                  <noteGrp><note target="wkfm-1027.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1027</note><note target="wkfm-1028.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1028</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

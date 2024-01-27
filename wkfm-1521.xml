@@ -81,7 +81,7 @@
                <lb facs="#facs_63_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_63_r1l3" n="N003"/><rs type="person" ref="#wkfm__10324">Seboldt Anton</rs> burgerlicher Handlsmann
                <lb facs="#facs_63_r1l4" n="N004"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_63_r1l5" n="N005"/><rs type="person" ref="#wkfm__47439">Antoni Seboldt</rs> laut Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 687
+               <lb facs="#facs_63_r1l5" n="N005"/><rs type="org" ref="#wkfm__47439">Antoni Seboldt</rs> laut Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 687
                <lb facs="#facs_63_r1l6" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_63_r1l7" n="N007"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_63_r1l8" n="N008"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
@@ -89,10 +89,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47439">
-                     <orgName>Anton Sebald</orgName>
-                  <noteGrp><note target="wkfm-1521.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1521</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__10324">
+    <back><listPerson><person xml:id="wkfm__10324">
                      <persName>
                         <forename>Anton</forename>
                         <surname>Sebald</surname>
@@ -116,5 +113,8 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 528.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1521.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1521</note><note target="wkfm-1522.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1522</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47439">
+                     <orgName>Anton Sebald</orgName>
+                  <noteGrp><note target="wkfm-1521.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1521</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

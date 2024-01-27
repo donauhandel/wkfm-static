@@ -80,7 +80,7 @@
                <lb facs="#facs_65_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_65_r1l3" n="N003"/><rs type="person" ref="#wkfm__15189">Ruebakher Georg</rs> burgerlicher Handlsmann
                <lb facs="#facs_65_r1l4" n="N004"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_65_r1l5" n="N005"/><rs type="person" ref="#wkfm__46726">Geörg Ruebakher</rs> laut Erklährung dd<hi style="superscript">to</hi> 18<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 733 N<hi style="superscript">o</hi> 640
+               <lb facs="#facs_65_r1l5" n="N005"/><rs type="org" ref="#wkfm__46726">Geörg Ruebakher</rs> laut Erklährung dd<hi style="superscript">to</hi> 18<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 733 N<hi style="superscript">o</hi> 640
                <lb facs="#facs_65_r1l6" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_65_r1l7" n="N007"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_65_r1l8" n="N008"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
@@ -88,10 +88,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46726">
-                     <orgName>Georg Rubacker</orgName>
-                  <noteGrp><note target="wkfm-1417.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1417</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__15189" sameAs="#wkfm__14715 ">
+    <back><listPerson><person xml:id="wkfm__15189" sameAs="#wkfm__14715 ">
                      <persName>
                         <forename>Georg</forename>
                         <surname>Rubacker</surname>
@@ -113,5 +110,8 @@
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 507 (Juli 1733: &amp;#34;Ruebacher&amp;#34;).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1417.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1417</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46726">
+                     <orgName>Georg Rubacker</orgName>
+                  <noteGrp><note target="wkfm-1417.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1417</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

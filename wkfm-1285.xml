@@ -84,7 +84,7 @@
                <lb facs="#facs_101_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_101_r1l2" n="N003"/><rs type="person" ref="#wkfm__46784">Mayer Michäl Augustin</rs> burgerlichen Tuchlaubens Verwanter
                <lb facs="#facs_101_r1l3" n="N004"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_101_r1l4" n="N005"/><rs type="person" ref="#wkfm__46783">Anton Lang et <choice><expan/><abbr>Compag:</abbr></choice></rs> laut societaets Contract dd<hi style="superscript">to</hi> 5<hi style="superscript">ten</hi> Junii 751 N<hi style="superscript">o</hi> 2009
+               <lb facs="#facs_101_r1l4" n="N005"/><rs type="org" ref="#wkfm__46783">Anton Lang et <choice><expan/><abbr>Compag:</abbr></choice></rs> laut societaets Contract dd<hi style="superscript">to</hi> 5<hi style="superscript">ten</hi> Junii 751 N<hi style="superscript">o</hi> 2009
                <lb facs="#facs_101_r1l5" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_101_r1l6" n="N007"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_101_r1l7" n="N008"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
@@ -95,28 +95,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46783">
-                     <orgName>Anton Lang &amp; Co.</orgName>
-                  <noteGrp><note target="wkfm-1109.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1109</note><note target="wkfm-1110.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1110</note><note target="wkfm-1285.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1285</note><note target="wkfm-1286.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1286</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__46784">
-                     <persName>
-                        <forename>Michael Augustin</forename>
-                        <surname>Mayr</surname>
-                     </persName>
-                     <death><date>1775</date></death>
-                     <residence type="Bürgerrecht">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Tuchhändler</occupation>
-                     <occupation type="kaufmannsklasse">tuchlaubensverwandt/bürgerlich</occupation>
-               <noteGrp><note target="wkfm-1110.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1110</note><note target="wkfm-1285.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1285</note><note target="wkfm-1286.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1286</note></noteGrp></person>
-                <person xml:id="wkfm__8089">
+    <back><listPerson><person xml:id="wkfm__8089">
                      <persName>
                         <forename>Anton</forename>
                         <surname>Lang</surname>
@@ -137,5 +116,26 @@
                      <occupation>Tuchhändler</occupation>
                      <occupation type="kaufmannsklasse">tuchlaubensverwandt/bürgerlich</occupation>
                <noteGrp><note target="wkfm-1109.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1109</note><note target="wkfm-1110.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1110</note><note target="wkfm-1285.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1285</note><note target="wkfm-1286.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1286</note></noteGrp></person>
-                </listPerson></back></text>
+                <person xml:id="wkfm__46784">
+                     <persName>
+                        <forename>Michael Augustin</forename>
+                        <surname>Mayr</surname>
+                     </persName>
+                     <death><date>1775</date></death>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Tuchhändler</occupation>
+                     <occupation type="kaufmannsklasse">tuchlaubensverwandt/bürgerlich</occupation>
+               <noteGrp><note target="wkfm-1110.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1110</note><note target="wkfm-1285.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1285</note><note target="wkfm-1286.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1286</note></noteGrp></person>
+                </listPerson><listOrg><org xml:id="wkfm__46783">
+                     <orgName>Anton Lang &amp; Co.</orgName>
+                  <noteGrp><note target="wkfm-1109.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1109</note><note target="wkfm-1110.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1110</note><note target="wkfm-1285.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1285</note><note target="wkfm-1286.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1286</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

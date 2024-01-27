@@ -122,7 +122,7 @@
                <lb facs="#facs_116_r1l6" n="N006"/>leget kraft welchen die societaet durch 5 Jahr von 1<hi style="superscript">ten</hi> Junii 747 bis dat: 752 dergestalten
                <lb facs="#facs_116_r1l7" n="N007"/><unclear>fürtauren</unclear> <hi>solle,</hi> daß durch diese zeit keiner hievon abgehe, von dem eingelegten Capital
                <lb facs="#facs_116_r1l8" n="N008"/>nichts herausnehmen sondern biß zu Ende auch ohne <choice><expan/><abbr>intee</abbr></choice> ligen zu lassen schuldig seyn solle
-               <lb facs="#facs_116_r1l9" n="N009"/>beede die Handlung beobachten, die <unclear>Märkte</unclear> frequentiren und unter der Raggion <rs type="person" ref="#wkfm__46537">Mayer und Hakell</rs> die Firma führen, die Handlung
+               <lb facs="#facs_116_r1l9" n="N009"/>beede die Handlung beobachten, die <unclear>Märkte</unclear> frequentiren und unter der Raggion <rs type="org" ref="#wkfm__46537">Mayer und Hakell</rs> die Firma führen, die Handlung
                <lb facs="#facs_116_r1l10" n="N010"/>Unkosten gemeinsamblich bestritten, jedweder nicht mehr alß jährl: 600 fl  aconto des Gewüns herausnehmen, alle Monath Cassa
                <lb facs="#facs_116_r1l11" n="N011"/>gemacht und Extract formiret, alle Jahr Billanz gezogen, und der Gewünn in gleich theil zu guten geschrieben werde, keiner
                <lb facs="#facs_116_r1l12" n="N012"/>ohne des andern Vorwissen <hi><unclear>unter</unclear></hi> in der Handlung etwas Wichtiges unternehmen, Waaren beställen, bürgschaft leisten, ausser-
@@ -163,27 +163,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46541">
-                     <persName>
-                        <forename>Johann</forename>
-                        <surname>Hackl</surname>
-                     </persName>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Prokurist bei Franz Hackl</occupation>
-               <noteGrp><note target="wkfm-1036.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1036</note></noteGrp></person>
-                <person xml:id="wkfm__46540">
-                     <persName>
-                        <forename>Matthias Joseph</forename>
-                        <surname>Seidl</surname>
-                     </persName>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Angestellter bei Franz Hackl</occupation>
-               <noteGrp><note target="wkfm-1036.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1036</note></noteGrp></person>
-                <person xml:id="wkfm__46535">
+    <back><listPerson><person xml:id="wkfm__46535">
                      <persName>
                         <forename>Franz</forename>
                         <surname>Hackl</surname>
@@ -208,26 +188,15 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 398.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1035.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1035</note><note target="wkfm-1036.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1036</note><note target="wkfm-1275.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1275</note><note target="wkfm-1276.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1276</note></noteGrp></person>
-                <person xml:id="wkfm__46536" sameAs="#wkfm__46729 ">
+                <person xml:id="wkfm__46541">
                      <persName>
-                        <forename>Joseph</forename>
-                        <surname>Mayr</surname>
-                     </persName>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-1035.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1035</note><note target="wkfm-1036.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1036</note></noteGrp></person>
-                <person xml:id="wkfm__46539">
-                     <persName>
-                        <forename>Franz Xaver</forename>
+                        <forename>Johann</forename>
                         <surname>Hackl</surname>
                      </persName>
                      <residence type="Wohnort">
                         <placeName key="#wkfm-place__925">Wien</placeName>
                      <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Angestellter bei Franz Hackl</occupation>
+                     <occupation>Prokurist bei Franz Hackl</occupation>
                <noteGrp><note target="wkfm-1036.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1036</note></noteGrp></person>
                 <person xml:id="wkfm__29325">
                      <persName>
@@ -253,6 +222,37 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 497 (&amp;#34;Rebai&amp;#34;).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1036.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1036</note><note target="wkfm-1275.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1275</note><note target="wkfm-1276.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1276</note><note target="wkfm-1419.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1419</note><note target="wkfm-1420.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1420</note></noteGrp></person>
+                <person xml:id="wkfm__46540">
+                     <persName>
+                        <forename>Matthias Joseph</forename>
+                        <surname>Seidl</surname>
+                     </persName>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Angestellter bei Franz Hackl</occupation>
+               <noteGrp><note target="wkfm-1036.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1036</note></noteGrp></person>
+                <person xml:id="wkfm__46536" sameAs="#wkfm__46729 ">
+                     <persName>
+                        <forename>Joseph</forename>
+                        <surname>Mayr</surname>
+                     </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-1035.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1035</note><note target="wkfm-1036.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1036</note></noteGrp></person>
+                <person xml:id="wkfm__46539">
+                     <persName>
+                        <forename>Franz Xaver</forename>
+                        <surname>Hackl</surname>
+                     </persName>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Angestellter bei Franz Hackl</occupation>
+               <noteGrp><note target="wkfm-1036.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1036</note></noteGrp></person>
                 </listPerson><listOrg><org xml:id="wkfm__46537">
                      <orgName>Mayr und Hackl</orgName>
                   <noteGrp><note target="wkfm-1035.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1035</note><note target="wkfm-1036.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1036</note><note target="wkfm-1275.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1275</note><note target="wkfm-1276.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1276</note></noteGrp></org>

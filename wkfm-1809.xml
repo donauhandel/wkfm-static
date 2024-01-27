@@ -87,14 +87,14 @@
                <lb facs="#facs_103_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_103_r1l2" n="N003"/><rs type="person" ref="#wkfm__25597">Weigl Johann Michäl</rs> burgerlicher Handlsmann
                <lb facs="#facs_103_r1l3" n="N004"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_103_r1l4" n="N005"/><rs type="person" ref="#wkfm__47031">Johann Michael Weigl</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 834
+               <lb facs="#facs_103_r1l4" n="N005"/><rs type="org" ref="#wkfm__47031">Johann Michael Weigl</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 834
                <lb facs="#facs_103_r1l5" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_103_r1l6" n="N007"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_103_r1l7" n="N008"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
                <lb facs="#facs_103_r1l8" n="N009"/>Der <rs type="person" ref="#wkfm__25597">Weigl</rs> hat zu Ausweisung seines Fundi Copiam vidimatam von zweyen
                <lb facs="#facs_103_r1l9" n="N010"/><gap/> ihm lautenden und untern 15<hi style="superscript">ten</hi> Julii 745 von ihm mit einem Corperlichen
                <lb facs="#facs_103_r1l10" n="N011"/>Eyd ihrer Richtigkeit halber bestattigten Wechselbriefen N<hi style="superscript">o</hi> 1810 eingeleget
-               <lb facs="#facs_103_r1l11" n="N012"/>nemlich von <rs type="person" ref="#wkfm__46453">Joseph Hökhstainer <choice><expan/><abbr>seel:</abbr></choice> Wittib und Sohn</rs> dd<hi style="superscript">to</hi> 2<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 745
+               <lb facs="#facs_103_r1l11" n="N012"/>nemlich von <rs type="org" ref="#wkfm__46453">Joseph Hökhstainer <choice><expan/><abbr>seel:</abbr></choice> Wittib und Sohn</rs> dd<hi style="superscript">to</hi> 2<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 745
                <lb facs="#facs_103_r1l13" n="N013"/><gap/> 2500 fl
                <lb facs="#facs_103_r1l15" n="N014"/>dann von <rs type="person" ref="#wkfm__41799">Marx Joseph Hinkh</rs> dd<hi style="superscript">to</hi> 8<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 745 <choice><expan/><abbr>pr</abbr></choice> 1650 fl
                <lb facs="#facs_103_r1l16" n="N015"/><choice><expan/><abbr>Sa</abbr></choice> 4150 fl
@@ -102,13 +102,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46453">
-                     <orgName>Joseph Höcksteiner sel. Witwe und Sohn</orgName>
-                  <noteGrp><note target="wkfm-0949.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0949</note><note target="wkfm-0950.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0950</note><note target="wkfm-1809.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1809</note></noteGrp></org>
-                <org xml:id="wkfm__47031">
-                     <orgName>Johann Michael Weigl</orgName>
-                  <noteGrp><note target="wkfm-1809.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1809</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__25597">
+    <back><listPerson><person xml:id="wkfm__25597">
                      <persName>
                         <forename>Johann Michael</forename>
                         <surname>Weigl</surname>
@@ -134,5 +128,11 @@
                         <surname>Hink</surname>
                      </persName>
                <noteGrp><note target="wkfm-1809.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1809</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46453">
+                     <orgName>Joseph Höcksteiner sel. Witwe und Sohn</orgName>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__46454">Höcksteiner, Franz Karl</persName></person></listPerson><noteGrp><note target="wkfm-0949.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0949</note><note target="wkfm-0950.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0950</note><note target="wkfm-1809.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1809</note></noteGrp></org>
+                <org xml:id="wkfm__47031">
+                     <orgName>Johann Michael Weigl</orgName>
+                  <noteGrp><note target="wkfm-1809.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1809</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

@@ -89,14 +89,14 @@
                <lb facs="#facs_59_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_59_r1l3" n="N003"/><rs type="person" ref="#wkfm__8331">Wellner Thomas</rs> <hi>bur</hi> burgerlicher Handlsmann
                <lb facs="#facs_59_r1l4" n="N004"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_59_r1l5" n="N005"/><rs type="person" ref="#wkfm__16083">Krahmer und Wellner</rs> laut Anbringen de ps: 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 1894
-               <lb facs="#facs_59_r1l6" n="N006"/><rs type="person" ref="#wkfm__27575">Thomaß Wellner und <choice><expan/><abbr>Comp:</abbr></choice></rs> laut Anbringen de ps: 17<hi style="superscript">ten</hi> Julii 727 N<hi style="superscript">o</hi> 2069
-               <lb facs="#facs_59_r1l7" n="N007"/><rs type="person" ref="#wkfm__46990">Thomas Wellner</rs> laut Anbringen de ps: 8<hi style="superscript">ten</hi> Junii 733 N<hi style="superscript">o</hi> 2072
+               <lb facs="#facs_59_r1l5" n="N005"/><rs type="org" ref="#wkfm__16083">Krahmer und Wellner</rs> laut Anbringen de ps: 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 1894
+               <lb facs="#facs_59_r1l6" n="N006"/><rs type="org" ref="#wkfm__27575">Thomaß Wellner und <choice><expan/><abbr>Comp:</abbr></choice></rs> laut Anbringen de ps: 17<hi style="superscript">ten</hi> Julii 727 N<hi style="superscript">o</hi> 2069
+               <lb facs="#facs_59_r1l7" n="N007"/><rs type="org" ref="#wkfm__46990">Thomas Wellner</rs> laut Anbringen de ps: 8<hi style="superscript">ten</hi> Junii 733 N<hi style="superscript">o</hi> 2072
                <lb facs="#facs_59_r1l8" n="N008"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_59_r1l9" n="N009"/>In obigen Anbringen de ps: 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 1894 die Firma der Raggion
-               <lb facs="#facs_59_r1l10" n="N010"/><rs type="person" ref="#wkfm__16083">Krahmer und Wellner</rs> von beeden sociis <rs type="person" ref="#wkfm__46109">Eberhardt Krahmer</rs> und <rs type="person" ref="#wkfm__8331">Thomas
+               <lb facs="#facs_59_r1l10" n="N010"/><rs type="org" ref="#wkfm__16083">Krahmer und Wellner</rs> von beeden sociis <rs type="person" ref="#wkfm__46109">Eberhardt Krahmer</rs> und <rs type="person" ref="#wkfm__8331">Thomas
                <lb break="no" facs="#facs_59_r1l11" n="N011"/>Wellner</rs> eingeleget worden
-               <lb facs="#facs_59_r1l12" n="N012"/>In obigen Anbringen de ps: 17<hi style="superscript">ten</hi> Julii 727 N<hi style="superscript">o</hi> 2069 ist die Firma der Raggion <rs type="person" ref="#wkfm__27575">Tho-
+               <lb facs="#facs_59_r1l12" n="N012"/>In obigen Anbringen de ps: 17<hi style="superscript">ten</hi> Julii 727 N<hi style="superscript">o</hi> 2069 ist die Firma der Raggion <rs type="org" ref="#wkfm__27575">Tho-
                <lb break="no" facs="#facs_59_r1l13" n="N013"/>maß Wellner und <choice><expan/><abbr>Comp:</abbr></choice></rs> von beeden sociis <rs type="person" ref="#wkfm__8331">Thomas Wellner</rs> und <rs type="person" ref="#wkfm__46991">Johann Jacob
                <lb break="no" facs="#facs_59_r1l14" n="N014"/>Buchmann</rs> eingleget worden
                <lb facs="#facs_59_r1l15" n="N015"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
@@ -105,16 +105,27 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46991">
+    <back><listPerson><person xml:id="wkfm__46109">
                      <persName>
-                        <forename>Johann Jakob</forename>
-                        <surname>Buchmann</surname>
+                        <forename>Eberhard</forename>
+                        <surname>Kramer</surname>
+                        <surname type="alt">Krahmer</surname>
                      </persName>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <residence type="Geschäftsniederlassung">
                         <placeName key="#wkfm-place__925">Wien</placeName>
                      <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
-               <noteGrp><note target="wkfm-1765.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1765</note><note target="wkfm-1766.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1766</note></noteGrp></person>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+                     <listBibl>
+                        <bibl>Huchler, Bürgeraufnahmen, 435 (23. April 1725: &amp;#34;Johann Eberhardt&amp;#34;).&amp;lt;br&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0347.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0347</note><note target="wkfm-0348.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0348</note><note target="wkfm-1765.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1765</note><note target="wkfm-1766.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1766</note></noteGrp></person>
                 <person xml:id="wkfm__8331">
                      <persName>
                         <forename>Thomas</forename>
@@ -138,27 +149,16 @@ Ehren-Gerüsten [...] (1741) 269; Isabella Henriette van Eeghen,
 Inventaris van het familie-archief Brants, 111; &amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 559&amp;lt;/span&amp;gt;.</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0347.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0347</note><note target="wkfm-0348.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0348</note><note target="wkfm-1765.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1765</note><note target="wkfm-1766.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1766</note></noteGrp></person>
-                <person xml:id="wkfm__46109">
+                <person xml:id="wkfm__46991">
                      <persName>
-                        <forename>Eberhard</forename>
-                        <surname>Kramer</surname>
-                        <surname type="alt">Krahmer</surname>
+                        <forename>Johann Jakob</forename>
+                        <surname>Buchmann</surname>
                      </persName>
-                     <residence type="Bürgerrecht">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <residence type="Geschäftsniederlassung">
                         <placeName key="#wkfm-place__925">Wien</placeName>
                      <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-                     <listBibl>
-                        <bibl>Huchler, Bürgeraufnahmen, 435 (23. April 1725: &amp;#34;Johann Eberhardt&amp;#34;).&amp;lt;br&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-0347.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0347</note><note target="wkfm-0348.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0348</note><note target="wkfm-1765.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1765</note><note target="wkfm-1766.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1766</note></noteGrp></person>
+               <noteGrp><note target="wkfm-1765.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1765</note><note target="wkfm-1766.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1766</note></noteGrp></person>
                 </listPerson><listOrg><org xml:id="wkfm__46990">
                      <orgName>Thomas Wellner</orgName>
                   <noteGrp><note target="wkfm-1765.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1765</note><note target="wkfm-1766.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1766</note></noteGrp></org>

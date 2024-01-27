@@ -125,7 +125,18 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47605">
+    <back><listPerson><person xml:id="wkfm__46692" sameAs="#wkfm__18088 ">
+                     <persName>
+                        <forename>Johann Christoph</forename>
+                        <surname>Rossmann</surname>
+                     </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Leinwandhändler</occupation>
+                     <occupation type="kaufmannsklasse">hofbefreit</occupation>
+               <noteGrp><note target="wkfm-1375.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1375</note><note target="wkfm-1376.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1376</note><note target="wkfm-1695.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1695</note></noteGrp></person>
+                <person xml:id="wkfm__47605">
                      <persName>
                         <forename>Anton Thomas</forename>
                         <surname>Schreiber</surname>
@@ -145,17 +156,6 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1695.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1695</note></noteGrp></person>
-                <person xml:id="wkfm__46692" sameAs="#wkfm__18088 ">
-                     <persName>
-                        <forename>Johann Christoph</forename>
-                        <surname>Rossmann</surname>
-                     </persName>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Leinwandhändler</occupation>
-                     <occupation type="kaufmannsklasse">hofbefreit</occupation>
-               <noteGrp><note target="wkfm-1375.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1375</note><note target="wkfm-1376.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1376</note><note target="wkfm-1695.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1695</note></noteGrp></person>
                 <person xml:id="wkfm__23514" sameAs="#wkfm__24590 wkfm__40475 wkfm__25587 ">
                      <persName>
                         <forename>Franz Anton</forename>

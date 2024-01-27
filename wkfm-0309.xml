@@ -81,7 +81,7 @@
                <lb facs="#facs_255_r2l1" n="N003"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_255_r2l2" n="N004"/><rs type="person" ref="#wkfm__44035">Benvenuti Domenico</rs> burg: Handlsmann
                <lb facs="#facs_255_r2l3" n="N005"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_255_r2l4" n="N006"/><rs type="person" ref="#wkfm__47393">Dom:co Benvenuti</rs> laut Erkährung sine dato N<hi style="superscript">o</hi> 149, welche der
+               <lb facs="#facs_255_r2l4" n="N006"/><rs type="org" ref="#wkfm__47393">Dom:co Benvenuti</rs> laut Erkährung sine dato N<hi style="superscript">o</hi> 149, welche der
                <lb facs="#facs_255_r2l5" n="N007"/>Benvenuti mitls Anbringen de <hi><unclear>Jan</unclear></hi> 4<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 753 N<hi style="superscript">o</hi> 150 eingeleget
                <lb facs="#facs_255_r2l6" n="N008"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_255_r2l7" n="N009"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
@@ -90,10 +90,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47393">
-                     <orgName>Domenico Benvenuti</orgName>
-                  <noteGrp><note target="wkfm-0309.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0309</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__44035" sameAs="#wkfm__32106 wkfm__37741 ">
+    <back><listPerson><person xml:id="wkfm__44035" sameAs="#wkfm__32106 wkfm__37741 ">
                      <persName>
                         <forename>Dominicus</forename>
                         <surname>Benvenuti</surname>
@@ -114,5 +111,8 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0309.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0309</note><note target="wkfm-0310.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0310</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47393">
+                     <orgName>Domenico Benvenuti</orgName>
+                  <noteGrp><note target="wkfm-0309.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0309</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

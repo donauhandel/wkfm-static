@@ -81,7 +81,7 @@
                <lb facs="#facs_33_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_33_r1l3" n="N003"/><rs type="person" ref="#wkfm__8812">Maiz Johann Michäl</rs> burgerlicher Handlsmann
                <lb facs="#facs_33_r1l4" n="N004"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_33_r1l5" n="N005"/><rs type="person" ref="#wkfm__46870">Johann Michael Mäiz</rs> laut Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi>
+               <lb facs="#facs_33_r1l5" n="N005"/><rs type="org" ref="#wkfm__46870">Johann Michael Mäiz</rs> laut Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi>
                <lb facs="#facs_33_r1l6" n="N006"/>557
                <lb facs="#facs_33_r1l7" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_33_r1l8" n="N008"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
@@ -90,10 +90,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46870">
-                     <orgName>Johann Michael Maiz</orgName>
-                  <noteGrp><note target="wkfm-1217.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1217</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__8812" sameAs="#wkfm__22472 ">
+    <back><listPerson><person xml:id="wkfm__8812" sameAs="#wkfm__22472 ">
                      <persName>
                         <forename>Johann Michael</forename>
                         <surname>Maiz</surname>
@@ -113,5 +110,8 @@
                      <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                <noteGrp><note target="wkfm-1217.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1217</note><note target="wkfm-1218.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1218</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46870">
+                     <orgName>Johann Michael Maiz</orgName>
+                  <noteGrp><note target="wkfm-1217.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1217</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

@@ -95,7 +95,7 @@
                <lb facs="#facs_93_r2l1" n="N001"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_93_r2l2" n="N002"/><rs type="person" ref="#wkfm__37748">Dietschj Johann</rs> burgerlicher Handlsmann
                <lb facs="#facs_93_r2l3" n="N003"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_93_r2l4" n="N004"/><rs type="person" ref="#wkfm__46274">Johann Dietschj</rs> laut Erklährung dd<hi style="superscript">to</hi> 18<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 743 N<hi style="superscript">o</hi> 286
+               <lb facs="#facs_93_r2l4" n="N004"/><rs type="org" ref="#wkfm__46274">Johann Dietschj</rs> laut Erklährung dd<hi style="superscript">to</hi> 18<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 743 N<hi style="superscript">o</hi> 286
                <lb facs="#facs_93_r2l5" n="N005"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_93_r2l6" n="N006"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_93_r2l7" n="N007"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
@@ -114,13 +114,40 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46275">
+    <back><listOrg><org xml:id="wkfm__46274">
+                     <orgName>Johann Dietschi</orgName>
+                  <noteGrp><note target="wkfm-0593.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0593</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__46275">
                      <persName>
                         <forename>Theresia</forename>
                         <surname>Wiegathin</surname>
                         <surname type="alt">Dietschi</surname>
                      </persName>
                <noteGrp><note target="wkfm-0593.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0593</note><note target="wkfm-0594.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0594</note></noteGrp></person>
+                <person xml:id="wkfm__43997">
+                     <persName>
+                        <forename>Johann Georg</forename>
+                        <surname>Dietschi</surname>
+                     </persName>
+                     <death><date>1757</date></death>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geburtsort">
+                        <placeName key="#wkfm-place__1385">Bürs</placeName>
+                     <location type="coords"><geo>47.14972222222222 9.8</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+                     <listBibl>
+                        <bibl>Huchler, Bürgeraufnahmen,&amp;amp;nbsp;362.</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0303.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0303</note><note target="wkfm-0553.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0553</note><note target="wkfm-0554.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0554</note><note target="wkfm-0593.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0593</note><note target="wkfm-0594.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0594</note><note target="wkfm-0596.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0596</note></noteGrp></person>
                 <person xml:id="wkfm__37748">
                      <persName>
                         <forename>Johann</forename>
@@ -148,32 +175,5 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 362 (Jänner 1741).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0554.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0554</note><note target="wkfm-0593.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0593</note><note target="wkfm-0594.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0594</note><note target="wkfm-0596.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0596</note><note target="wkfm-1323.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1323</note><note target="wkfm-1325.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1325</note></noteGrp></person>
-                <person xml:id="wkfm__43997">
-                     <persName>
-                        <forename>Johann Georg</forename>
-                        <surname>Dietschi</surname>
-                     </persName>
-                     <death><date>1757</date></death>
-                     <residence type="Bürgerrecht">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geburtsort">
-                        <placeName key="#wkfm-place__1385">Bürs</placeName>
-                     <location type="coords"><geo>47.14972222222222 9.8</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-                     <listBibl>
-                        <bibl>Huchler, Bürgeraufnahmen,&amp;amp;nbsp;362.</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-0303.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0303</note><note target="wkfm-0553.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0553</note><note target="wkfm-0554.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0554</note><note target="wkfm-0593.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0593</note><note target="wkfm-0594.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0594</note><note target="wkfm-0596.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0596</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46274">
-                     <orgName>Johann Dietschi</orgName>
-                  <noteGrp><note target="wkfm-0593.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0593</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

@@ -82,7 +82,7 @@
                <lb facs="#facs_63_r2l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_63_r2l3" n="N003"/><rs type="person" ref="#wkfm__10173">Dußel Johann Dominicus</rs> burgerlicher Handlsmann
                <lb facs="#facs_63_r2l4" n="N004"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_63_r2l5" n="N005"/><rs type="person" ref="#wkfm__46238">Johann <hi>Dommini</hi> Domini<hi style="superscript">co</hi> Dußel</rs> laut Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 727 N<hi style="superscript">o</hi>
+               <lb facs="#facs_63_r2l5" n="N005"/><rs type="org" ref="#wkfm__46238">Johann <hi>Dommini</hi> Domini<hi style="superscript">co</hi> Dußel</rs> laut Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 727 N<hi style="superscript">o</hi>
                <lb facs="#facs_63_r2l6" n="N006"/>272
                <lb facs="#facs_63_r2l7" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_63_r2l8" n="N008"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
@@ -91,7 +91,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__10173" sameAs="#wkfm__8276 ">
+    <back><listOrg><org xml:id="wkfm__46238">
+                     <orgName>Johann Dominik Dußl</orgName>
+                  <noteGrp><note target="wkfm-0563.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0563</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__10173" sameAs="#wkfm__8276 ">
                      <persName>
                         <forename>Johann Dominicus</forename>
                         <surname>Dußl</surname>
@@ -115,8 +118,5 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 366 (Februar 1727).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0563.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0563</note><note target="wkfm-0564.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0564</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46238">
-                     <orgName>Johann Dominik Dußl</orgName>
-                  <noteGrp><note target="wkfm-0563.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0563</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

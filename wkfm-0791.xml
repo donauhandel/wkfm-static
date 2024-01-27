@@ -85,7 +85,7 @@
                <lb facs="#facs_123_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_123_r1l2" n="N003"/><rs type="person" ref="#wkfm__43798">Ferrari Dominicus Anton</rs> burgerlicher Handlsmann
                <lb facs="#facs_123_r1l3" n="N004"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_123_r1l4" n="N005"/><rs type="person" ref="#wkfm__47163">Dom Anton Ferrari</rs> laut Anbringen de ps: 26<hi style="superscript">ten</hi> Aug: 743 N<hi style="superscript">o</hi> 375
+               <lb facs="#facs_123_r1l4" n="N005"/><rs type="org" ref="#wkfm__47163">Dom Anton Ferrari</rs> laut Anbringen de ps: 26<hi style="superscript">ten</hi> Aug: 743 N<hi style="superscript">o</hi> 375
                <lb facs="#facs_123_r1l5" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_123_r1l6" n="N007"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_123_r1l7" n="N008"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
@@ -98,7 +98,22 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43798">
+    <back><listPerson><person xml:id="wkfm__15300">
+                     <persName>
+                        <forename>Johann Anton</forename>
+                        <surname>Bormastini</surname>
+                        <surname type="alt">Bormastino</surname>
+                     </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geburtsort">
+                        <placeName key="#wkfm-place__2542">Bormio</placeName>
+                     </residence>
+                     <occupation>Handelsmann, Prokurist für Johann Anton Bormastino d. J.</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+               <noteGrp><note target="wkfm-0076.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0076</note><note target="wkfm-0077.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0077</note><note target="wkfm-0078.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0078</note><note target="wkfm-0079.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0079</note><note target="wkfm-0194.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0194</note><note target="wkfm-0791.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0791</note></noteGrp></person>
+                <person xml:id="wkfm__43798">
                      <persName>
                         <forename>Dominicus Anton</forename>
                         <surname>Ferrari</surname>
@@ -123,21 +138,6 @@
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 375 (&amp;#34;Dominicus Ferari&amp;#34;)&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0048.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0048</note><note target="wkfm-0791.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0791</note><note target="wkfm-0792.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0792</note></noteGrp></person>
-                <person xml:id="wkfm__15300">
-                     <persName>
-                        <forename>Johann Anton</forename>
-                        <surname>Bormastini</surname>
-                        <surname type="alt">Bormastino</surname>
-                     </persName>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geburtsort">
-                        <placeName key="#wkfm-place__2542">Bormio</placeName>
-                     </residence>
-                     <occupation>Handelsmann, Prokurist für Johann Anton Bormastino d. J.</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-               <noteGrp><note target="wkfm-0076.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0076</note><note target="wkfm-0077.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0077</note><note target="wkfm-0078.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0078</note><note target="wkfm-0079.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0079</note><note target="wkfm-0194.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0194</note><note target="wkfm-0791.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0791</note></noteGrp></person>
                 <person xml:id="wkfm__47164">
                      <persName>
                         <forename>Joseph Karl</forename>

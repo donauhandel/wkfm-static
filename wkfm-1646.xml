@@ -90,14 +90,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47549">
-                     <persName>
-                        <forename>Helena</forename>
-                        <surname>Stofferin</surname>
-                        <surname type="alt">Peisserin</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-1645.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1645</note><note target="wkfm-1646.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1646</note></noteGrp></person>
-                <person xml:id="wkfm__47546">
+    <back><listPerson><person xml:id="wkfm__47546">
                      <persName>
                         <forename>Franz Ludwig</forename>
                         <surname>Stofferin</surname>
@@ -117,6 +110,13 @@
                      <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-1645.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1645</note><note target="wkfm-1646.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1646</note></noteGrp></person>
+                <person xml:id="wkfm__47549">
+                     <persName>
+                        <forename>Helena</forename>
+                        <surname>Stofferin</surname>
+                        <surname type="alt">Peisserin</surname>
+                     </persName>
                <noteGrp><note target="wkfm-1645.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1645</note><note target="wkfm-1646.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1646</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

@@ -77,7 +77,7 @@
                <lb facs="#facs_112_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_112_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 13<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 729 N<hi style="superscript">o</hi> 2046 hat sich der
                <lb facs="#facs_112_r1l3" n="N003"/><rs type="person" ref="#wkfm__47477">Schell</rs> nebst dem <rs type="person" ref="#wkfm__47479">Appoldt</rs> geäusseret, daß sie beede ihre Handlung
-               <lb facs="#facs_112_r1l4" n="N004"/>unter der Societaets Raggion<rs type="person" ref="#wkfm__47478"> Schell und Appold</rs> miteinander führen
+               <lb facs="#facs_112_r1l4" n="N004"/>unter der Societaets Raggion<rs type="org" ref="#wkfm__47478"> Schell und Appold</rs> miteinander führen
                <lb facs="#facs_112_r1l6" n="N005"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_112_r1l7" n="N006"/><seg type="orighead__other_notes">Anmerckungen</seg>
             </ab>
@@ -87,21 +87,7 @@
     <back><listOrg><org xml:id="wkfm__47478">
                      <orgName>Schell und Appold</orgName>
                   <noteGrp><note target="wkfm-1569.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1569</note><note target="wkfm-1570.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1570</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__47479">
-                     <persName>
-                        <forename>None</forename>
-                        <surname>Appold</surname>
-                     </persName>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-                     <listBibl>
-                        <bibl>Huchler, Bürgeraufnahmen, 340.&amp;lt;br&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-1570.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1570</note></noteGrp></person>
-                <person xml:id="wkfm__47477" sameAs="#wkfm__13387 wkfm__16092 wkfm__32169 ">
+                </listOrg><listPerson><person xml:id="wkfm__47477" sameAs="#wkfm__13387 wkfm__16092 wkfm__32169 ">
                      <persName>
                         <forename>None</forename>
                         <surname>Schell</surname>
@@ -121,5 +107,19 @@
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 512 (&amp;#34;Johann Schell&amp;#34;).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1569.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1569</note><note target="wkfm-1570.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1570</note></noteGrp></person>
+                <person xml:id="wkfm__47479">
+                     <persName>
+                        <forename>None</forename>
+                        <surname>Appold</surname>
+                     </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+                     <listBibl>
+                        <bibl>Huchler, Bürgeraufnahmen, 340.&amp;lt;br&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-1570.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1570</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

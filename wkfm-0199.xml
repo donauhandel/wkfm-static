@@ -82,7 +82,7 @@
             
             <ab facs="#facs_146_r1">
                <lb facs="#facs_146_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
-               <lb facs="#facs_146_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 26<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 733 N<hi style="superscript">o</hi> 1860 hat sich <rs type="person" ref="#wkfm__23672">Pingizer
+               <lb facs="#facs_146_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 26<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 733 N<hi style="superscript">o</hi> 1860 hat sich <rs type="org" ref="#wkfm__23672">Pingizer
                <lb break="no" facs="#facs_146_r1l3" n="N003"/>et Pittonj junior</rs> geäusseret, daß sie ihre Handlung miteinander
                <lb facs="#facs_146_r1l4" n="N004"/>angetretten haben und prosequiren werden.
                <lb facs="#facs_146_r1l5" n="N005"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>

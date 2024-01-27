@@ -97,10 +97,10 @@
                <lb facs="#facs_85_r1l2" n="N003"/>Ruard
                <lb facs="#facs_85_r1l4" n="N004"/><rs type="person" ref="#wkfm__43802">Ruard Johann Baptista</rs> k. k. Niderlags Verwanter
                <lb facs="#facs_85_r1l5" n="N005"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_85_r1l6" n="N006"/><rs type="person" ref="#wkfm__46753">Johann Baptista Ruard</rs> laut Billanz dd<hi style="superscript">to</hi> <hi>3</hi>1<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> 746 N<hi style="superscript">o</hi> 1673 <hi>und</hi>
-               <lb facs="#facs_85_r1l7" n="N007"/><rs type="person" ref="#wkfm__43988">Gebrüder Ruard</rs> laut Anbringe de ps: 18<hi style="superscript">ten</hi> May 747 N<hi style="superscript">o</hi> 2038
+               <lb facs="#facs_85_r1l6" n="N006"/><rs type="org" ref="#wkfm__46753">Johann Baptista Ruard</rs> laut Billanz dd<hi style="superscript">to</hi> <hi>3</hi>1<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> 746 N<hi style="superscript">o</hi> 1673 <hi>und</hi>
+               <lb facs="#facs_85_r1l7" n="N007"/><rs type="org" ref="#wkfm__43988">Gebrüder Ruard</rs> laut Anbringe de ps: 18<hi style="superscript">ten</hi> May 747 N<hi style="superscript">o</hi> 2038
                <lb facs="#facs_85_r1l8" n="N008"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
-               <lb facs="#facs_85_r1l9" n="N009"/>In obigen Anbringen de ps: 18<hi style="superscript">ten</hi> May 747 N<hi style="superscript">o</hi> 2038 ist die Firma der Raggion <rs type="person" ref="#wkfm__43988">Gebrüder
+               <lb facs="#facs_85_r1l9" n="N009"/>In obigen Anbringen de ps: 18<hi style="superscript">ten</hi> May 747 N<hi style="superscript">o</hi> 2038 ist die Firma der Raggion <rs type="org" ref="#wkfm__43988">Gebrüder
                <lb break="no" facs="#facs_85_r1l10" n="N010"/>Ruard</rs> von beeden sociis <rs type="person" ref="#wkfm__43802">Johann Baptista Ruard</rs> und <rs type="person" ref="#wkfm__46754">Valentin Ruard</rs> eingeleget
                <lb facs="#facs_85_r1l11" n="N011"/>worden
                <lb facs="#facs_85_r1l12" n="N012"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
@@ -120,35 +120,13 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__43988">
-                     <orgName>Gebrüder Ruard</orgName>
-                  <noteGrp><note target="wkfm-0299.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0299</note><note target="wkfm-1437.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1437</note><note target="wkfm-1438.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1438</note><note target="wkfm-1693.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1693</note></noteGrp></org>
-                <org xml:id="wkfm__46753">
+    <back><listOrg><org xml:id="wkfm__46753">
                      <orgName>Johann Baptista Ruard</orgName>
                   <noteGrp><note target="wkfm-1437.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1437</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__43802" sameAs="#wkfm__38592 wkfm__42025 ">
-                     <persName>
-                        <forename>Johann Baptist</forename>
-                        <surname>Ruard</surname>
-                     </persName>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-               <noteGrp><note target="wkfm-0052.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0052</note><note target="wkfm-0291.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0291</note><note target="wkfm-1437.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1437</note><note target="wkfm-1438.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1438</note><note target="wkfm-1441.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1441</note></noteGrp></person>
-                <person xml:id="wkfm__46754">
-                     <persName>
-                        <forename>Valentin</forename>
-                        <surname>Ruard</surname>
-                     </persName>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-               <noteGrp><note target="wkfm-1437.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1437</note><note target="wkfm-1438.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1438</note></noteGrp></person>
-                <person xml:id="wkfm__9468" sameAs="#wkfm__18968 wkfm__46774 ">
+                <org xml:id="wkfm__43988">
+                     <orgName>Gebrüder Ruard</orgName>
+                  <noteGrp><note target="wkfm-0299.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0299</note><note target="wkfm-1437.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1437</note><note target="wkfm-1438.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1438</note><note target="wkfm-1693.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1693</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__9468" sameAs="#wkfm__18968 wkfm__46774 ">
                      <persName>
                         <forename>Wilhelm</forename>
                         <forename type="alt">Guillaume </forename>
@@ -180,5 +158,27 @@
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Raynaud, Savoyiardische Einwanderungen, 174 (&amp;#34;Genamy, Gauillaume&amp;#34;, Lebensdaten); Huchler, Bürgeraufnahmen, 421 (13. Mai 1719: &amp;#34;Janamy&amp;#34;).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0605.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0605</note><note target="wkfm-1069.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1069</note><note target="wkfm-1070.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1070</note><note target="wkfm-1437.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1437</note></noteGrp></person>
+                <person xml:id="wkfm__43802" sameAs="#wkfm__38592 wkfm__42025 ">
+                     <persName>
+                        <forename>Johann Baptist</forename>
+                        <surname>Ruard</surname>
+                     </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+               <noteGrp><note target="wkfm-0052.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0052</note><note target="wkfm-0291.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0291</note><note target="wkfm-1437.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1437</note><note target="wkfm-1438.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1438</note><note target="wkfm-1441.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1441</note></noteGrp></person>
+                <person xml:id="wkfm__46754">
+                     <persName>
+                        <forename>Valentin</forename>
+                        <surname>Ruard</surname>
+                     </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+               <noteGrp><note target="wkfm-1437.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1437</note><note target="wkfm-1438.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1438</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

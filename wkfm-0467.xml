@@ -87,7 +87,7 @@
                <lb facs="#facs_147_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_147_r1l2" n="N003"/><rs type="person" ref="#wkfm__46165">Kroyß Franz Joseph</rs> burgerlicher Handlsmann
                <lb facs="#facs_147_r1l3" n="N004"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_147_r1l4" n="N005"/><rs type="person" ref="#wkfm__47259">Franz Joseph Kroyß</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 227
+               <lb facs="#facs_147_r1l4" n="N005"/><rs type="org" ref="#wkfm__47259">Franz Joseph Kroyß</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 227
                <lb facs="#facs_147_r1l5" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_147_r1l6" n="N007"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_147_r1l7" n="N008"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
@@ -103,10 +103,35 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47259">
-                     <orgName>Franz Joseph Kroyss</orgName>
-                  <noteGrp><note target="wkfm-0467.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0467</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__46165">
+    <back><listPerson><person xml:id="wkfm__8802">
+                     <persName>
+                        <forename>Lukas Joseph</forename>
+                        <forename type="alt">Lukas</forename>
+                        <surname>Setti</surname>
+                     </persName>
+                     <death><date>1763</date></death>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zum Grünen Löwen nälchst St. Stephan (Calender 1723)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geburtsort">
+                        <placeName key="#wkfm-place__2547">Maderno</placeName>
+                     </residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+                     <listBibl>
+                        <bibl>&amp;lt;span&amp;gt;Dotter, Italienische Kaufleute, 128-131; Huchler, Bürgeraufnahmen, 530 (27. Juli 1714: &amp;#34;Lukas&amp;#34;).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0445.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0445</note><note target="wkfm-0467.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0467</note><note target="wkfm-0811.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0811</note><note target="wkfm-1312.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1312</note><note target="wkfm-1505.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1505</note><note target="wkfm-1506.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1506</note><note target="wkfm-1597.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1597</note><note target="wkfm-1598.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1598</note><note target="wkfm-1675.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1675</note></noteGrp></person>
+                <person xml:id="wkfm__46165">
                      <persName>
                         <forename>Franz Joseph</forename>
                         <surname>Kroyss</surname>
@@ -138,33 +163,8 @@
                         <surname>Kroyss</surname>
                      </persName>
                <noteGrp><note target="wkfm-0467.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0467</note></noteGrp></person>
-                <person xml:id="wkfm__8802">
-                     <persName>
-                        <forename>Lukas Joseph</forename>
-                        <forename type="alt">Lukas</forename>
-                        <surname>Setti</surname>
-                     </persName>
-                     <death><date>1763</date></death>                    
-                     <residence type="Geschäftsadresse">
-                        <placeName>Zum Grünen Löwen nälchst St. Stephan (Calender 1723)</placeName>
-                     </residence>
-                     <residence type="Bürgerrecht">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geburtsort">
-                        <placeName key="#wkfm-place__2547">Maderno</placeName>
-                     </residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-                     <listBibl>
-                        <bibl>&amp;lt;span&amp;gt;Dotter, Italienische Kaufleute, 128-131; Huchler, Bürgeraufnahmen, 530 (27. Juli 1714: &amp;#34;Lukas&amp;#34;).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-0445.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0445</note><note target="wkfm-0467.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0467</note><note target="wkfm-0811.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0811</note><note target="wkfm-1312.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1312</note><note target="wkfm-1505.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1505</note><note target="wkfm-1506.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1506</note><note target="wkfm-1597.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1597</note><note target="wkfm-1598.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1598</note><note target="wkfm-1675.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1675</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47259">
+                     <orgName>Franz Joseph Kroyss</orgName>
+                  <noteGrp><note target="wkfm-0467.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0467</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

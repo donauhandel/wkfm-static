@@ -81,7 +81,7 @@
                <lb facs="#facs_129_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_129_r1l3" n="N003"/><rs type="person" ref="#wkfm__30296">Condray Petter</rs> burgerlicher Handlsmann
                <lb facs="#facs_129_r1l4" n="N004"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_129_r1l5" n="N005"/><rs type="person" ref="#wkfm__46147">Petter Contray et Joseph Condray</rs> laut Erkährung sine dato N<hi style="superscript">o</hi> 221
+               <lb facs="#facs_129_r1l5" n="N005"/><rs type="org" ref="#wkfm__46147">Petter Contray et Joseph Condray</rs> laut Erkährung sine dato N<hi style="superscript">o</hi> 221
                <lb facs="#facs_129_r1l6" n="N006"/><hi>Joseph C</hi>
                <lb facs="#facs_129_r1l7" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_129_r1l8" n="N008"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
@@ -90,7 +90,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__30296">
+    <back><listOrg><org xml:id="wkfm__46147">
+                     <orgName>Peter Condray und Joseph Condray</orgName>
+                  <noteGrp><note target="wkfm-0449.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0449</note><note target="wkfm-0450.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0450</note><note target="wkfm-0451.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0451</note><note target="wkfm-0452.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0452</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__30296">
                      <persName>
                         <forename>Peter</forename>
                         <surname>Condray</surname>
@@ -110,8 +113,5 @@
                         <bibl>Huchler, Bürgeraufnahmen, 356 (Juni 1732 &amp;#34;Contary&amp;#34;).&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0386.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0386</note><note target="wkfm-0449.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0449</note><note target="wkfm-0450.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0450</note><note target="wkfm-0452.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0452</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46147">
-                     <orgName>Peter Condray und Joseph Condray</orgName>
-                  <noteGrp><note target="wkfm-0449.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0449</note><note target="wkfm-0450.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0450</note><note target="wkfm-0451.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0451</note><note target="wkfm-0452.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0452</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

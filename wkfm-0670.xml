@@ -78,7 +78,7 @@
                <lb facs="#facs_2_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_2_r1l2" n="N002"/>Der <rs type="person" ref="#wkfm__8333">Jacob Föhr</rs> hat in obigen Anbringen de ps: 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 1931
                <lb facs="#facs_2_r1l3" n="N003"/>mit dem <rs type="person" ref="#wkfm__47049">Johann Wanner</rs> die gemeinsame Societaets Raggion
-               <lb facs="#facs_2_r1l4" n="N004"/><rs type="person" ref="#wkfm__9030">Föhr und Wanner</rs> angegeben, anbey das sie keinen anderen interessenten
+               <lb facs="#facs_2_r1l4" n="N004"/><rs type="org" ref="#wkfm__9030">Föhr und Wanner</rs> angegeben, anbey das sie keinen anderen interessenten
                <lb facs="#facs_2_r1l5" n="N005"/>haben sich erklähret.
                <lb facs="#facs_2_r1l6" n="N006"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_2_r1l7" n="N007"/><seg type="orighead__other_notes">Anmerckungen</seg>
@@ -86,10 +86,18 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__9030">
-                     <orgName>Föhr und Wanner</orgName>
-                  <noteGrp><note target="wkfm-0669.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0669</note><note target="wkfm-0670.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0670</note><note target="wkfm-1721.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1721</note><note target="wkfm-1723.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1723</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__8333" sameAs="#wkfm__32230 ">
+    <back><listPerson><person xml:id="wkfm__47049">
+                     <persName>
+                        <forename>Johann</forename>
+                        <surname>Wanner</surname>
+                     </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+               <noteGrp><note target="wkfm-0669.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0669</note><note target="wkfm-0670.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0670</note></noteGrp></person>
+                <person xml:id="wkfm__8333" sameAs="#wkfm__32230 ">
                      <persName>
                         <forename>Jakob</forename>
                         <surname>Föhr</surname>
@@ -108,16 +116,8 @@
                         <bibl>Senfelder, Gottesacker, 258; &amp;lt;span&amp;gt;Kröpfel, Protestantismus, Anhang 1 , S. 6 (Merkantil-Wechselgerichts-Assessor); Zollinger, Kriegsfuß&amp;lt;/span&amp;gt;; Zorn, Handels- und Industriegeschichte, 86f.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0669.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0669</note><note target="wkfm-0670.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0670</note></noteGrp></person>
-                <person xml:id="wkfm__47049">
-                     <persName>
-                        <forename>Johann</forename>
-                        <surname>Wanner</surname>
-                     </persName>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-               <noteGrp><note target="wkfm-0669.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0669</note><note target="wkfm-0670.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0670</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__9030">
+                     <orgName>Föhr und Wanner</orgName>
+                  <noteGrp><note target="wkfm-0669.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0669</note><note target="wkfm-0670.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0670</note><note target="wkfm-1721.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1721</note><note target="wkfm-1723.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1723</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

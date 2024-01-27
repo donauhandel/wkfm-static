@@ -92,19 +92,19 @@
                <lb facs="#facs_235_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_235_r1l3" n="N003"/><rs type="person" ref="#wkfm__47603">Steyrer Johann Georg</rs> burgerlicher Handlsmann
                <lb facs="#facs_235_r1l4" n="N004"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_235_r1l5" n="N005"/><rs type="person" ref="#wkfm__47604">Johann Georg Steyrer</rs> laut Erklährung dd<hi style="superscript">to</hi> 28<hi style="superscript">ten</hi> <choice><expan/><abbr>9br:</abbr></choice> 754 N<hi style="superscript">o</hi> 784
+               <lb facs="#facs_235_r1l5" n="N005"/><rs type="org" ref="#wkfm__47604">Johann Georg Steyrer</rs> laut Erklährung dd<hi style="superscript">to</hi> 28<hi style="superscript">ten</hi> <choice><expan/><abbr>9br:</abbr></choice> 754 N<hi style="superscript">o</hi> 784
                <lb facs="#facs_235_r1l6" n="N006"/>welche derselbe mitls Anbringen de ps: 2<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> 754 N<hi style="superscript">o</hi> 785 eingeleget
                <lb facs="#facs_235_r1l7" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_235_r1l8" n="N008"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_235_r1l10" n="N009"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
                <lb facs="#facs_235_r1l12" n="N010"/>Der <rs type="person" ref="#wkfm__47603">Steyrer</rs> hat seinen Fundum mitls der Specification N<hi style="superscript">o</hi> 1769 folgender maßen
-               <lb facs="#facs_235_r1l13" n="N011"/>ausgewisen, nemlich daß er eigenthumlich besize an dreyen von <rs type="person" ref="#wkfm__43988">Gebrüder
+               <lb facs="#facs_235_r1l13" n="N011"/>ausgewisen, nemlich daß er eigenthumlich besize an dreyen von <rs type="org" ref="#wkfm__43988">Gebrüder
                <lb break="no" facs="#facs_235_r1l14" n="N012"/>Ruard</rs> ausgestelten Wechslbriefen dd<hi style="superscript">to</hi> 28<hi style="superscript">ten</hi> May 1<hi style="superscript">ten</hi> <hi>J</hi> und 24<hi style="superscript">ten</hi> Julii pr respective 700 fl
                <lb facs="#facs_235_r1l15" n="N013"/>500 fl und 500 fl N<hi style="superscript">o</hi> 1770, 1771 et 1772 in Copiis vidimatis zusamen 1700 fl
                <lb facs="#facs_235_r1l16" n="N014"/>an det: von <rs type="person" ref="#wkfm__42662">Franz Ignaz Kurz</rs> dd<hi style="superscript">to</hi> 1<hi style="superscript">ten</hi> Julii 754 N<hi style="superscript">o</hi> 1773 in Copia vid: 2500 fl
                <lb facs="#facs_235_r1l17" n="N015"/>an det: von <rs type="person" ref="#wkfm__47043">Johann Andre Weygant</rs> dd<hi style="superscript">to</hi> 1<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 754 N<hi style="superscript">o</hi> 1774 in Cop: vid: 400 fl
                <lb facs="#facs_235_r1l18" n="N016"/>an det: von <rs type="person" ref="#wkfm__46174">Franz Anton Krenn</rs> dd<hi style="superscript">to</hi> 12<hi style="superscript">ten</hi> ej: N<hi style="superscript">o</hi> 1775 in Copia vid: 507 fl 30 x<hi style="superscript">r</hi>
-               <lb facs="#facs_235_r1l19" n="N017"/>in det: von <rs type="person" ref="#wkfm__43944">Bassy <hi>und</hi> Perinet und <choice><expan/><abbr>Comp:</abbr></choice></rs> dd<hi style="superscript">to</hi> 18<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 754 N<hi style="superscript">o</hi> 1776 in Cop: vid: 1015 fl
+               <lb facs="#facs_235_r1l19" n="N017"/>in det: von <rs type="org" ref="#wkfm__43944">Bassy <hi>und</hi> Perinet und <choice><expan/><abbr>Comp:</abbr></choice></rs> dd<hi style="superscript">to</hi> 18<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 754 N<hi style="superscript">o</hi> 1776 in Cop: vid: 1015 fl
                <lb facs="#facs_235_r1l20" n="N018"/>an einer Landschafts obligation dd<hi style="superscript">to</hi> 2<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 753 N<hi style="superscript">o</hi> 1777 in Copia vidim: 1500 fl
                <lb facs="#facs_235_r1l21" n="N019"/>an einer <choice><expan>Oberkammeramts</expan><abbr>O C Ambts</abbr></choice> obligation dd<hi style="superscript">to</hi> 21<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 750 N<hi style="superscript">o</hi> 1778 in Cipia vid: 500 fl
                <lb facs="#facs_235_r1l22" n="N020"/><choice><expan/><abbr>Sa</abbr></choice> 8122 fl 30 x<hi style="superscript">r</hi>
@@ -115,13 +115,35 @@
     <back><listOrg><org xml:id="wkfm__43988">
                      <orgName>Gebrüder Ruard</orgName>
                   <noteGrp><note target="wkfm-0299.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0299</note><note target="wkfm-1437.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1437</note><note target="wkfm-1438.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1438</note><note target="wkfm-1693.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1693</note></noteGrp></org>
-                <org xml:id="wkfm__43944">
-                     <orgName>Passy, Perinet &amp; Co.</orgName>
-                  <noteGrp><note target="wkfm-0251.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0251</note><note target="wkfm-0252.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0252</note><note target="wkfm-1693.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1693</note></noteGrp></org>
                 <org xml:id="wkfm__47604">
                      <orgName>Johann Georg Steyrer</orgName>
                   <noteGrp><note target="wkfm-1693.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1693</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__42662">
+                <org xml:id="wkfm__43944">
+                     <orgName>Passy, Perinet &amp; Co.</orgName>
+                  <noteGrp><note target="wkfm-0251.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0251</note><note target="wkfm-0252.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0252</note><note target="wkfm-1693.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1693</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__47043">
+                     <persName>
+                        <forename>Johann Andre</forename>
+                        <surname>Weygant</surname>
+                        <surname type="alt">Weigant</surname>
+                     </persName>
+                     <death><date>1787</date></death>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Beim Weißen Rössel zu Mariahilf (Calender 1758)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-1693.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1693</note><note target="wkfm-1817.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1817</note><note target="wkfm-1818.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1818</note></noteGrp></person>
+                <person xml:id="wkfm__42662">
                      <persName>
                         <forename>Franz Ignaz</forename>
                         <surname>Kurz</surname>
@@ -146,49 +168,6 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 440.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0455.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0455</note><note target="wkfm-1433.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1433</note><note target="wkfm-1681.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1681</note><note target="wkfm-1693.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1693</note></noteGrp></person>
-                <person xml:id="wkfm__46174">
-                     <persName>
-                        <forename>Franz Anton</forename>
-                        <surname>Krenn</surname>
-                        <surname type="alt">Kren</surname>
-                     </persName>                    
-                     <residence type="Geschäftsadresse">
-                        <placeName>Zum Goldenen Fässel unter den Tuchlauben (Calender 1758)</placeName>
-                     </residence>
-                     <residence type="Bürgerrecht">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-0481.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0481</note><note target="wkfm-0482.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0482</note><note target="wkfm-1693.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1693</note></noteGrp></person>
-                <person xml:id="wkfm__47043">
-                     <persName>
-                        <forename>Johann Andre</forename>
-                        <surname>Weygant</surname>
-                        <surname type="alt">Weigant</surname>
-                     </persName>
-                     <death><date>1787</date></death>                    
-                     <residence type="Geschäftsadresse">
-                        <placeName>Beim Weißen Rössel zu Mariahilf (Calender 1758)</placeName>
-                     </residence>
-                     <residence type="Bürgerrecht">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-1693.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1693</note><note target="wkfm-1817.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1817</note><note target="wkfm-1818.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1818</note></noteGrp></person>
                 <person xml:id="wkfm__47603">
                      <persName>
                         <forename>Johann Georg</forename>
@@ -210,5 +189,26 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1693.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1693</note></noteGrp></person>
+                <person xml:id="wkfm__46174">
+                     <persName>
+                        <forename>Franz Anton</forename>
+                        <surname>Krenn</surname>
+                        <surname type="alt">Kren</surname>
+                     </persName>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zum Goldenen Fässel unter den Tuchlauben (Calender 1758)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-0481.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0481</note><note target="wkfm-0482.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0482</note><note target="wkfm-1693.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1693</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

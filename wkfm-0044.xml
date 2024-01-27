@@ -86,7 +86,7 @@
                <lb facs="#facs_39_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_39_r1l3" n="N003"/><rs type="person" ref="#wkfm__15550">Adam Bernhard</rs> K. K. Niederlags Verwanter
                <lb facs="#facs_39_r1l4" n="N004"/><seg type="orighead__firma">Firma oder Raggion</seg>
-               <lb facs="#facs_39_r1l5" n="N005"/><rs type="person" ref="#wkfm__46597">Bernhard Adam</rs> laut der eingelegten Vollmacht dd<hi style="superscript">to</hi> 2<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 736 N<hi style="superscript">o</hi> 881.
+               <lb facs="#facs_39_r1l5" n="N005"/><rs type="org" ref="#wkfm__46597">Bernhard Adam</rs> laut der eingelegten Vollmacht dd<hi style="superscript">to</hi> 2<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 736 N<hi style="superscript">o</hi> 881.
                <lb facs="#facs_39_r1l6" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_39_line_1628376479294_87" n="N007"/>Der <rs type="person" ref="#wkfm__15550">Bernhard Adam</rs> hat mitls des Anbringens de ps: 13<hi style="superscript">ten</hi> <choice><expan/><abbr><hi>Feb:</hi></abbr></choice> Augusti 736 N<hi style="superscript">o</hi> 882 die wehrend
                <lb facs="#facs_39_r1l9" n="N008"/>seiner Abwesenheit auf seinen Brudern <rs type="person" ref="#wkfm__17568">David Adam</rs> ausgestelte <choice><expan/><abbr>orig:</abbr></choice> Procura nebst
@@ -100,7 +100,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__15550">
+    <back><listOrg><org xml:id="wkfm__46597">
+                     <orgName>Bernhard Adam</orgName>
+                  <noteGrp><note target="wkfm-0044.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0044</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__15550">
                      <persName>
                         <forename>Bernhard</forename>
                         <surname>Adam</surname>
@@ -125,8 +128,5 @@
                         <bibl>&amp;lt;span&amp;gt;Kröpfel, Protestantismus, Anhang 1, S. 5.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0044.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0044</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46597">
-                     <orgName>Bernhard Adam</orgName>
-                  <noteGrp><note target="wkfm-0044.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0044</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

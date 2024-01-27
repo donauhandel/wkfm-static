@@ -90,7 +90,7 @@
                <lb facs="#facs_201_r2l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_201_r2l2" n="N003"/><rs type="person" ref="#wkfm__43953">Pichler Christian</rs> hofbefreyter Handelsmann
                <lb facs="#facs_201_r2l3" n="N004"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_201_r2l4" n="N005"/><rs type="person" ref="#wkfm__43951">Baciler und Pichler</rs> laut Anbringen de ps: 10<hi style="superscript">ten</hi> <choice><expan/><abbr>9br:</abbr></choice> 738 N<hi style="superscript">o</hi> 123
+               <lb facs="#facs_201_r2l4" n="N005"/><rs type="org" ref="#wkfm__43951">Baciler und Pichler</rs> laut Anbringen de ps: 10<hi style="superscript">ten</hi> <choice><expan/><abbr>9br:</abbr></choice> 738 N<hi style="superscript">o</hi> 123
                <lb facs="#facs_201_r2l5" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_201_r2l7" n="N007"/>In obigen Anbringen de ps: 10<hi style="superscript">ten</hi> <choice><expan/><abbr>9br:</abbr></choice> 738 N<hi style="superscript">o</hi> 123 ist die Firma von beden 
                <lb facs="#facs_201_r2l8" n="N008"/>sociis eingeleget worden
@@ -109,21 +109,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__43951">
-                     <orgName>Baciller und Pichler</orgName>
-                  <noteGrp><note target="wkfm-0253.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0253</note><note target="wkfm-0254.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0254</note><note target="wkfm-0255.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0255</note><note target="wkfm-0256.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0256</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__12722">
-                     <persName>
-                        <forename>Philipp</forename>
-                        <surname>Scheigl</surname>
-                     </persName>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">hofbefreit</occupation>
-               <noteGrp><note target="wkfm-0253.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0253</note><note target="wkfm-0254.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0254</note><note target="wkfm-0255.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0255</note><note target="wkfm-1459.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1459</note><note target="wkfm-1460.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1460</note></noteGrp></person>
-                <person xml:id="wkfm__43952">
+    <back><listPerson><person xml:id="wkfm__43952">
                      <persName>
                         <forename>Johann Joseph</forename>
                         <surname>Roth</surname>
@@ -140,5 +126,19 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
                <noteGrp><note target="wkfm-0254.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0254</note><note target="wkfm-0255.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0255</note><note target="wkfm-0256.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0256</note></noteGrp></person>
-                </listPerson></back></text>
+                <person xml:id="wkfm__12722">
+                     <persName>
+                        <forename>Philipp</forename>
+                        <surname>Scheigl</surname>
+                     </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">hofbefreit</occupation>
+               <noteGrp><note target="wkfm-0253.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0253</note><note target="wkfm-0254.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0254</note><note target="wkfm-0255.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0255</note><note target="wkfm-1459.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1459</note><note target="wkfm-1460.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1460</note></noteGrp></person>
+                </listPerson><listOrg><org xml:id="wkfm__43951">
+                     <orgName>Baciller und Pichler</orgName>
+                  <noteGrp><note target="wkfm-0253.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0253</note><note target="wkfm-0254.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0254</note><note target="wkfm-0255.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0255</note><note target="wkfm-0256.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0256</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

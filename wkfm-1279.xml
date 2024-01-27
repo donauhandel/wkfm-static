@@ -107,16 +107,16 @@
                <lb facs="#facs_95_r2l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_95_r2l3" n="N003"/><rs type="person" ref="#wkfm__46932">Müller Georg Christoph</rs> kay: könig: Niderlags Verwanter
                <lb facs="#facs_95_r2l4" n="N004"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_95_r2l5" n="N005"/><rs type="person" ref="#wkfm__46933">Georg Christoph Müller</rs> laut oblatorien dd<hi style="superscript">to</hi> 13<hi style="superscript">ten</hi> Martii 748 N<hi style="superscript">o</hi> 1131 welche derselbe mitls
+               <lb facs="#facs_95_r2l5" n="N005"/><rs type="org" ref="#wkfm__46933">Georg Christoph Müller</rs> laut oblatorien dd<hi style="superscript">to</hi> 13<hi style="superscript">ten</hi> Martii 748 N<hi style="superscript">o</hi> 1131 welche derselbe mitls
                <lb facs="#facs_95_r2l6" n="N006"/>Anbringen de ps: 1<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 749 N<hi style="superscript">o</hi> 1132
-               <lb facs="#facs_95_r2l7" n="N007"/><rs type="person" ref="#wkfm__46934">Georg Christoph Müller et Compagnie</rs> laut oblatorien dd<hi style="superscript">to</hi> 1<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 756 N<hi style="superscript">o</hi> 1133 welche derselbe
+               <lb facs="#facs_95_r2l7" n="N007"/><rs type="org" ref="#wkfm__46934">Georg Christoph Müller et Compagnie</rs> laut oblatorien dd<hi style="superscript">to</hi> 1<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 756 N<hi style="superscript">o</hi> 1133 welche derselbe
                <lb facs="#facs_95_r2l8" n="N008"/>mitls anbringen de ps: 22<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> 755 N<hi style="superscript">o</hi> 1037 eingeleget
                <lb facs="#facs_95_r2l9" n="N009"/><choice><expan/><abbr>Ao</abbr></choice> 763 die firma eingelegt Sub <choice><expan/><abbr>nro:</abbr></choice> 596 1/2
                <lb facs="#facs_95_r2l10" n="N010"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_95_r2l11" n="N011"/>Mitls Anbringen de ps: 10<hi style="superscript">ten</hi> Julii 750 N<hi style="superscript">o</hi> 1037 hat der <rs type="person" ref="#wkfm__46932">Müller</rs> die seinem Cassier <rs type="person" ref="#wkfm__46935">Julius
                <lb break="no" facs="#facs_95_r2l12" n="N012"/>Fridrich Coith</rs> <hi>ertheilte weg</hi> wehrend seiner Abwesenheit ertheilte <choice><expan/><abbr>orig:</abbr></choice> procura dd<hi style="superscript">to</hi> 10<hi style="superscript">ten</hi>
                <lb facs="#facs_95_r2l13" n="N013"/>Julii 750 mit beygerukter Firma des <rs type="person" ref="#wkfm__46935">Coith</rs> N<hi style="superscript">o</hi> 1036 eingeleget
-               <lb facs="#facs_95_r2l14" n="N014"/>In obigen oblatorien dd<hi style="superscript">to</hi> 1<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 756 N<hi style="superscript">o</hi> 1133 ist die Firma der Raggion <rs type="person" ref="#wkfm__46934">GeorChristoph
+               <lb facs="#facs_95_r2l14" n="N014"/>In obigen oblatorien dd<hi style="superscript">to</hi> 1<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 756 N<hi style="superscript">o</hi> 1133 ist die Firma der Raggion <rs type="org" ref="#wkfm__46934">GeorChristoph
                <lb break="no" facs="#facs_95_r2l15" n="N015"/>Müller et <choice><expan/><abbr>Compag:</abbr></choice></rs> von beeden sociis <rs type="person" ref="#wkfm__46932">Georg Christoph Müller</rs> und <rs type="person" ref="#wkfm__46935">Julius Fridrich Coith</rs>
                <lb facs="#facs_95_r2l16" n="N016"/>kundgemacht und eingeleget worden
                <lb facs="#facs_95_r2l17" n="N017"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
@@ -126,9 +126,9 @@
                <lb facs="#facs_95_r2l21" n="N021"/>die Wohlgemuth: Creditores nach denen dem <rs type="person" ref="#wkfm__9287">Wohlgemuth</rs> meistentheils eingestanden terminen abzuführen
                <lb facs="#facs_95_r2l22" n="N022"/>die von ihm <rs type="person" ref="#wkfm__46932">Müller</rs> bestallende Waaren könten zu seiner disposition an <rs type="person" ref="#wkfm__29745">Christian Hößlin</rs> nacher
                <lb facs="#facs_95_r2l23" n="N023"/>Augspurg nebst dem netto Gewücht ubersendet werden, bey Verfallheit werde er alle paratualitaet leisten.
-               <lb facs="#facs_95_r2l24" n="N024"/>Die Raggion <hi>Mülle</hi> <rs type="person" ref="#wkfm__46934">Georg Christoph Müller et <choice><expan/><abbr>Compag:</abbr></choice></rs> hat mitls denen oblatorien dd<hi style="superscript">to</hi> 1<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 756
+               <lb facs="#facs_95_r2l24" n="N024"/>Die Raggion <hi>Mülle</hi> <rs type="org" ref="#wkfm__46934">Georg Christoph Müller et <choice><expan/><abbr>Compag:</abbr></choice></rs> hat mitls denen oblatorien dd<hi style="superscript">to</hi> 1<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 756
                <lb facs="#facs_95_r2l25" n="N025"/>N<hi style="superscript">o</hi> 1133 in <choice><expan/><abbr>orig:</abbr></choice> kund gemacht, daß der <rs type="person" ref="#wkfm__46932">Müller</rs> sein negotium künftig in Gesellschaft des <rs type="person" ref="#wkfm__46935">Julius
-               <lb break="no" facs="#facs_95_r2l26" n="N026"/>Fridrich Coith</rs> unter der Dita <rs type="person" ref="#wkfm__46934">Georg Christoph Müller et Compagnie</rs> unter beederseitigen impegno
+               <lb break="no" facs="#facs_95_r2l26" n="N026"/>Fridrich Coith</rs> unter der Dita <rs type="org" ref="#wkfm__46934">Georg Christoph Müller et Compagnie</rs> unter beederseitigen impegno
                <lb facs="#facs_95_r2l27" n="N027"/>und Firmirung wie solche beygeruket fortführen werde
                <lb facs="#facs_95_r2l28" n="N028"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
                <lb facs="#facs_95_r2l29" n="N029"/>Der <rs type="person" ref="#wkfm__46932">Müller</rs> hat zu Ausweisung seines Fundi den Entwurf seines ult: <choice><expan/><abbr>Apr:</abbr></choice> 748 gehabten
@@ -142,27 +142,20 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46935">
+    <back><listPerson><person xml:id="wkfm__9287" sameAs="#wkfm__7559 ">
                      <persName>
-                        <forename>Julius Friedrich</forename>
-                        <surname>Coith</surname>
+                        <forename>Daniel</forename>
+                        <surname>Wohlgemut</surname>
                      </persName>
-                     <death><date>1775</date></death>
-                     <residence type="Wohnort">
+                     <residence type="Geschäftsniederlassung">
                         <placeName key="#wkfm-place__925">Wien</placeName>
                      <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Kassier und Prokurist bei Georg Christoph Müller</occupation>
+                     <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                      <listBibl>
-                        <bibl>&amp;lt;span&amp;gt;Mittenzwei, Zwischen Gestern und Morgen, 25 (zum Todesjahr) 85 (zur ev. Religion der Coith)&amp;lt;/span&amp;gt;</bibl>
+                        <bibl>Senfelder, Gottesacker, 260.</bibl>
                      </listBibl>
-               <noteGrp><note target="wkfm-1279.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1279</note><note target="wkfm-1280.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1280</note></noteGrp></person>
-                <person xml:id="wkfm__29745">
-                     <persName>
-                        <forename>Christian</forename>
-                        <surname>Hößlin</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-1279.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1279</note></noteGrp></person>
+               <noteGrp><note target="wkfm-0289.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0289</note><note target="wkfm-1279.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1279</note><note target="wkfm-1280.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1280</note><note target="wkfm-1709.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1709</note><note target="wkfm-1710.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1710</note></noteGrp></person>
                 <person xml:id="wkfm__46932">
                      <persName>
                         <forename>Georg Christoph</forename>
@@ -177,25 +170,32 @@
                         <bibl>Mittenzwei, Zwischen Gestern und Morgen, 120; Senfelder, Gottesacker, 260.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1279.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1279</note><note target="wkfm-1280.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1280</note><note target="wkfm-1709.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1709</note></noteGrp></person>
-                <person xml:id="wkfm__9287" sameAs="#wkfm__7559 ">
+                <person xml:id="wkfm__29745">
                      <persName>
-                        <forename>Daniel</forename>
-                        <surname>Wohlgemut</surname>
+                        <forename>Christian</forename>
+                        <surname>Hößlin</surname>
                      </persName>
-                     <residence type="Geschäftsniederlassung">
+               <noteGrp><note target="wkfm-1279.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1279</note></noteGrp></person>
+                <person xml:id="wkfm__46935">
+                     <persName>
+                        <forename>Julius Friedrich</forename>
+                        <surname>Coith</surname>
+                     </persName>
+                     <death><date>1775</date></death>
+                     <residence type="Wohnort">
                         <placeName key="#wkfm-place__925">Wien</placeName>
                      <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
+                     <occupation>Kassier und Prokurist bei Georg Christoph Müller</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                      <listBibl>
-                        <bibl>Senfelder, Gottesacker, 260.</bibl>
+                        <bibl>&amp;lt;span&amp;gt;Mittenzwei, Zwischen Gestern und Morgen, 25 (zum Todesjahr) 85 (zur ev. Religion der Coith)&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
-               <noteGrp><note target="wkfm-0289.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0289</note><note target="wkfm-1279.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1279</note><note target="wkfm-1280.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1280</note><note target="wkfm-1709.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1709</note><note target="wkfm-1710.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1710</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46933">
-                     <orgName>Georg Christoph Müller</orgName>
-                  <noteGrp><note target="wkfm-1279.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1279</note></noteGrp></org>
-                <org xml:id="wkfm__46934">
+               <noteGrp><note target="wkfm-1279.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1279</note><note target="wkfm-1280.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1280</note></noteGrp></person>
+                </listPerson><listOrg><org xml:id="wkfm__46934">
                      <orgName>Georg Christoph Müller &amp; Co.</orgName>
                   <noteGrp><note target="wkfm-1279.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1279</note><note target="wkfm-1280.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1280</note></noteGrp></org>
+                <org xml:id="wkfm__46933">
+                     <orgName>Georg Christoph Müller</orgName>
+                  <noteGrp><note target="wkfm-1279.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1279</note></noteGrp></org>
                 </listOrg></back></text>
 </TEI>

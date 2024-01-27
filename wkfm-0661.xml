@@ -86,7 +86,7 @@
                <lb facs="#facs_41_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_41_r1l3" n="N003"/><rs type="person" ref="#wkfm__46436">Ettenreicher Johann Heinrich</rs> burgerlicher Tuchlaubens Verwanter
                <lb facs="#facs_41_r1l4" n="N004"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_41_r1l5" n="N005"/><rs type="person" ref="#wkfm__46437">Johann Heinrich Ettenreicher</rs> laut Anbringen de ps: 29<hi style="superscript">ten</hi> Julii 743 N<hi style="superscript">o</hi>
+               <lb facs="#facs_41_r1l5" n="N005"/><rs type="org" ref="#wkfm__46437">Johann Heinrich Ettenreicher</rs> laut Anbringen de ps: 29<hi style="superscript">ten</hi> Julii 743 N<hi style="superscript">o</hi>
                <lb facs="#facs_41_r1l6" n="N006"/>318.
                <lb facs="#facs_41_r1l7" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_41_r1l8" n="N008"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
@@ -100,16 +100,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46437">
-                     <orgName>Johann Heinrich Ettenreicher</orgName>
-                  <noteGrp><note target="wkfm-0661.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0661</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__46438">
-                     <persName>
-                        <forename>Joseph</forename>
-                        <surname>Ettenreicher</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-0661.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0661</note></noteGrp></person>
-                <person xml:id="wkfm__46436">
+    <back><listPerson><person xml:id="wkfm__46436">
                      <persName>
                         <forename>Johann Heinrich</forename>
                         <surname>Ettenreicher</surname>
@@ -126,5 +117,14 @@
                      <occupation>Tuchhändler</occupation>
                      <occupation type="kaufmannsklasse">tuchlaubensverwandt/bürgerlich</occupation>
                <noteGrp><note target="wkfm-0661.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0661</note></noteGrp></person>
-                </listPerson></back></text>
+                <person xml:id="wkfm__46438">
+                     <persName>
+                        <forename>Joseph</forename>
+                        <surname>Ettenreicher</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0661.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0661</note></noteGrp></person>
+                </listPerson><listOrg><org xml:id="wkfm__46437">
+                     <orgName>Johann Heinrich Ettenreicher</orgName>
+                  <noteGrp><note target="wkfm-0661.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0661</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

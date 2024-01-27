@@ -124,16 +124,6 @@
                         <surname>Priestersberger</surname>
                      </persName>
                <noteGrp><note target="wkfm-0315.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0315</note></noteGrp></person>
-                <person xml:id="wkfm__24382">
-                     <persName>
-                        <forename>Maria Judith</forename>
-                        <surname>Priesterbergerin</surname>
-                     </persName>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsfrau</occupation>
-               <noteGrp><note target="wkfm-0315.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0315</note></noteGrp></person>
                 <person xml:id="wkfm__44043">
                      <persName>
                         <forename>Joseph</forename>
@@ -161,6 +151,16 @@
                      <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-0315.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0315</note></noteGrp></person>
+                <person xml:id="wkfm__24382">
+                     <persName>
+                        <forename>Maria Judith</forename>
+                        <surname>Priesterbergerin</surname>
+                     </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsfrau</occupation>
                <noteGrp><note target="wkfm-0315.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0315</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

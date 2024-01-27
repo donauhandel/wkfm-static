@@ -80,7 +80,7 @@
                <lb facs="#facs_83_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_83_r1l3" n="N003"/><rs type="person" ref="#wkfm__5112">Bollin Caspar Joseph</rs> burgerlicher Handlsmann
                <lb facs="#facs_83_r1l4" n="N004"/><seg type="orighead__firma">Firma oder Raggion</seg>
-               <lb facs="#facs_83_r1l5" n="N005"/><rs type="person" ref="#wkfm__47309">Caspar Joseph Bollin</rs> laut Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 60
+               <lb facs="#facs_83_r1l5" n="N005"/><rs type="org" ref="#wkfm__47309">Caspar Joseph Bollin</rs> laut Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 60
                <lb facs="#facs_83_r1l6" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_83_r1l7" n="N007"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_83_r1l8" n="N008"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
@@ -88,7 +88,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__5112" sameAs="#wkfm__17338 ">
+    <back><listOrg><org xml:id="wkfm__47309">
+                     <orgName>Kaspar Joseph Pollin</orgName>
+                  <noteGrp><note target="wkfm-0136.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0136</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__5112" sameAs="#wkfm__17338 ">
                      <persName>
                         <forename>Kaspar Joseph</forename>
                         <surname>Pollin</surname>
@@ -115,8 +118,5 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 487.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0136.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0136</note><note target="wkfm-0137.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0137</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__47309">
-                     <orgName>Kaspar Joseph Pollin</orgName>
-                  <noteGrp><note target="wkfm-0136.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0136</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

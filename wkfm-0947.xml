@@ -81,7 +81,7 @@
                <lb facs="#facs_27_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_27_r1l3" n="N003"/><rs type="person" ref="#wkfm__42596">Höchenberger Johann Zacharias</rs> hofbefreyter Leinwathandler
                <lb facs="#facs_27_r1l5" n="N004"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_27_r1l6" n="N005"/><rs type="person" ref="#wkfm__46451">Johann Zacharias Höchenberger</rs> laut Anbringen de ps: 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725
+               <lb facs="#facs_27_r1l6" n="N005"/><rs type="org" ref="#wkfm__46451">Johann Zacharias Höchenberger</rs> laut Anbringen de ps: 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725
                <lb facs="#facs_27_r1l7" n="N006"/>N<hi style="superscript">o</hi> 438
                <lb facs="#facs_27_r1l8" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_27_r1l9" n="N008"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
@@ -90,10 +90,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46451">
-                     <orgName>Johann Zacharias Hechenberger</orgName>
-                  <noteGrp><note target="wkfm-0947.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0947</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__42596" sameAs="#wkfm__18529 wkfm__19285 ">
+    <back><listPerson><person xml:id="wkfm__42596" sameAs="#wkfm__18529 wkfm__19285 ">
                      <persName>
                         <forename>Johann Zacharias</forename>
                         <surname>Hechenberger</surname>
@@ -105,5 +102,8 @@
                      <occupation>Leinwandhändler</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
                <noteGrp><note target="wkfm-0947.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0947</note><note target="wkfm-0948.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0948</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46451">
+                     <orgName>Johann Zacharias Hechenberger</orgName>
+                  <noteGrp><note target="wkfm-0947.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0947</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

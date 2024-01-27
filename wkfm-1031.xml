@@ -87,8 +87,8 @@
                <lb facs="#facs_111_r2l2" n="N003"/><rs type="person" ref="#wkfm__30193">Hillebrandt Martin Peter</rs> burgerlicher Handlsmann
                <lb facs="#facs_111_r2l3" n="N004"/><seg type="orighead__firma">Firma ad Raggion</seg>
                <lb facs="#facs_111_r2l4" n="N005"/><hi><rs type="person" ref="#wkfm__30193">Martin Peter Hillebrandt</rs> laut Erklärung dd<hi style="superscript"/></hi>to
-               <lb facs="#facs_111_r2l5" n="N006"/><rs type="person" ref="#wkfm__42340">Johann Pöhamb und Martin Hillebrand</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 132
-               <lb facs="#facs_111_r2l6" n="N007"/><rs type="person" ref="#wkfm__46533">Martin Peter Hillebrandt</rs> laut Erklährung dd<hi style="superscript">to</hi> 3<hi style="superscript">ten</hi> <choice><expan/><abbr>9br:</abbr></choice> 743 N<hi style="superscript">o</hi> 477.
+               <lb facs="#facs_111_r2l5" n="N006"/><rs type="org" ref="#wkfm__42340">Johann Pöhamb und Martin Hillebrand</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 132
+               <lb facs="#facs_111_r2l6" n="N007"/><rs type="org" ref="#wkfm__46533">Martin Peter Hillebrandt</rs> laut Erklährung dd<hi style="superscript">to</hi> 3<hi style="superscript">ten</hi> <choice><expan/><abbr>9br:</abbr></choice> 743 N<hi style="superscript">o</hi> 477.
                <lb facs="#facs_111_r2l7" n="N008"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_111_r2l8" n="N009"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_111_r2l9" n="N010"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
@@ -101,13 +101,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46533">
-                     <orgName>Martin Peter Hilleprand</orgName>
-                  <noteGrp><note target="wkfm-1031.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1031</note></noteGrp></org>
-                <org xml:id="wkfm__42340">
-                     <orgName>Beham und Hilleprand, Johann Beham und Martin Hilleprand</orgName>
-                  <noteGrp><note target="wkfm-1031.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1031</note><note target="wkfm-1032.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1032</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__30193" sameAs="#wkfm__43959 ">
+    <back><listPerson><person xml:id="wkfm__30193" sameAs="#wkfm__43959 ">
                      <persName>
                         <forename>Martin Peter</forename>
                         <surname>Hilleprand</surname>
@@ -150,5 +144,11 @@
                      <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                <noteGrp><note target="wkfm-1031.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1031</note><note target="wkfm-1032.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1032</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46533">
+                     <orgName>Martin Peter Hilleprand</orgName>
+                  <noteGrp><note target="wkfm-1031.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1031</note></noteGrp></org>
+                <org xml:id="wkfm__42340">
+                     <orgName>Beham und Hilleprand, Johann Beham und Martin Hilleprand</orgName>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__46532">Beham, Johann</persName></person></listPerson><noteGrp><note target="wkfm-1031.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1031</note><note target="wkfm-1032.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1032</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

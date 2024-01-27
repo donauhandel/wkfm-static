@@ -91,10 +91,10 @@
                <lb facs="#facs_117_r5l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_117_r5l3" n="N003"/><rs type="person" ref="#wkfm__46542">Höltzl Anton Matthias</rs> burgerlicher Handlsmann
                <lb facs="#facs_117_r5l4" n="N004"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_117_r5l5" n="N005"/><rs type="person" ref="#wkfm__38549">Mayer und Höltzl</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 580
-               <lb facs="#facs_117_r5l6" n="N006"/><rs type="person" ref="#wkfm__46544">Antoni Mathias Höltzl</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 1529
+               <lb facs="#facs_117_r5l5" n="N005"/><rs type="org" ref="#wkfm__38549">Mayer und Höltzl</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 580
+               <lb facs="#facs_117_r5l6" n="N006"/><rs type="org" ref="#wkfm__46544">Antoni Mathias Höltzl</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 1529
                <lb facs="#facs_117_r5l7" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
-               <lb facs="#facs_117_r5l8" n="N008"/>In obiger Erklährung sine dato N<hi style="superscript">o</hi> 580 ist die Firma der Raggion <rs type="person" ref="#wkfm__38549">Mayer
+               <lb facs="#facs_117_r5l8" n="N008"/>In obiger Erklährung sine dato N<hi style="superscript">o</hi> 580 ist die Firma der Raggion <rs type="org" ref="#wkfm__38549">Mayer
                <lb break="no" facs="#facs_117_r5l9" n="N009"/>und Holtzl</rs> von beeden sociis <rs type="person" ref="#wkfm__46543">Joh: Michäl Mayer</rs> und <rs type="person" ref="#wkfm__46542">Anton Matthias Höltzl</rs>
                <lb facs="#facs_117_r5l10" n="N010"/>eingeleget worden
                <lb facs="#facs_117_r5l11" n="N011"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>

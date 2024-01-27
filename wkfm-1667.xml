@@ -103,25 +103,25 @@
                <lb facs="#facs_209_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_209_r1l3" n="N003"/>Von <rs type="person" ref="#wkfm__44051">Scheidlin Johann Caspar</rs> kay: könig: Niderlagsverwanter
                <lb facs="#facs_209_r1l4" n="N004"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_209_r1l5" n="N005"/><rs type="person" ref="#wkfm__44048">Zacharias Krinner Schmidt et <choice><expan/><abbr>Comp:</abbr></choice></rs> laut Anbringen de ps: 9<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 727 N<hi style="superscript">o</hi> 1899
-               <lb facs="#facs_209_r1l6" n="N006"/><rs type="person" ref="#wkfm__44049">Kriner Schmidt und Scheidlin</rs> laut Anbringen de ps: 27<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 728 N<hi style="superscript">o</hi> 935
-               <lb facs="#facs_209_r1l7" n="N007"/><rs type="person" ref="#wkfm__47575">Johann Caspar v. Scheidlin</rs> laut oblatorien dd<hi style="superscript">to</hi> 1<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> 748 N<hi style="superscript">o</hi> 1148.
+               <lb facs="#facs_209_r1l5" n="N005"/><rs type="org" ref="#wkfm__44048">Zacharias Krinner Schmidt et <choice><expan/><abbr>Comp:</abbr></choice></rs> laut Anbringen de ps: 9<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 727 N<hi style="superscript">o</hi> 1899
+               <lb facs="#facs_209_r1l6" n="N006"/><rs type="org" ref="#wkfm__44049">Kriner Schmidt und Scheidlin</rs> laut Anbringen de ps: 27<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 728 N<hi style="superscript">o</hi> 935
+               <lb facs="#facs_209_r1l7" n="N007"/><rs type="org" ref="#wkfm__47575">Johann Caspar v. Scheidlin</rs> laut oblatorien dd<hi style="superscript">to</hi> 1<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> 748 N<hi style="superscript">o</hi> 1148.
                <lb facs="#facs_209_r1l9" n="N008"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
-               <lb facs="#facs_209_r1l11" n="N009"/>Die Raggion <rs type="person" ref="#wkfm__44048">Zacharias Kriner Schmidt et <choice><expan/><abbr>Comp:</abbr></choice></rs> hat in obigen Anbringen de ps: 9<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 727
+               <lb facs="#facs_209_r1l11" n="N009"/>Die Raggion <rs type="org" ref="#wkfm__44048">Zacharias Kriner Schmidt et <choice><expan/><abbr>Comp:</abbr></choice></rs> hat in obigen Anbringen de ps: 9<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 727
                <lb facs="#facs_209_r1l12" n="N010"/>N<hi style="superscript">o</hi> 1899 angezeiget das von selber allein der Firma von ihren <rs type="person" ref="#wkfm__11308">Matthias <unclear>Laßgallner</unclear></rs> glauben
                <lb facs="#facs_209_r1l13" n="N011"/>zu geben seye.
-               <lb facs="#facs_209_r1l14" n="N012"/>Die Raggion <rs type="person" ref="#wkfm__44049">Kriner Schmidt und Scheidlin</rs> hat sich in obigen Anbringen de ps: 27<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 728
+               <lb facs="#facs_209_r1l14" n="N012"/>Die Raggion <rs type="org" ref="#wkfm__44049">Kriner Schmidt und Scheidlin</rs> hat sich in obigen Anbringen de ps: 27<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 728
                <lb facs="#facs_209_r1l15" n="N013"/>N<hi style="superscript">o</hi> 935 erklähret, das ihre Firma allein von <rs type="person" ref="#wkfm__44051">Johann Caspar Scheidlin</rs> in desen Abwesenheit
                <lb facs="#facs_209_r1l16" n="N014"/>von ihrm Cassier <rs type="person" ref="#wkfm__9744">Peter Kuzer</rs>, wie beede beygeruket werde geführet werden.
                <lb facs="#facs_209_r1l17" n="N015"/>Mitls Anbringen de ps: 23<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> 748 N<hi style="superscript">o</hi> 2059 hat der <rs type="person" ref="#wkfm__44051">Johann Caspar v. Scheidlin</rs> die seinem
                <lb facs="#facs_209_r1l18" n="N016"/>bedienten <rs type="person" ref="#wkfm__46780">Mattheo Thomann</rs> untern 12<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> 748 ertheilte <choice><expan/><abbr>orig:</abbr></choice> Procura mit beygerukter
                <lb facs="#facs_209_r1l19" n="N017"/>Firma des <rs type="person" ref="#wkfm__46780">Thoman</rs> N<hi style="superscript">o</hi> 1075 eingeleget.
                <lb facs="#facs_209_r1l21" n="N018"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
-               <lb facs="#facs_209_r1l22" n="N019"/>Die Raggion <rs type="person" ref="#wkfm__44049">Kriner Schmidt und Scheidin</rs> hat mitls avocatorien dd<hi style="superscript">to</hi> 1<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> 748 N<hi style="superscript">o</hi> 1149 in
+               <lb facs="#facs_209_r1l22" n="N019"/>Die Raggion <rs type="org" ref="#wkfm__44049">Kriner Schmidt und Scheidin</rs> hat mitls avocatorien dd<hi style="superscript">to</hi> 1<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> 748 N<hi style="superscript">o</hi> 1149 in
                <lb facs="#facs_209_r1l23" n="N020"/><choice><expan/><abbr>orig:</abbr></choice> wie auch des <rs type="person" ref="#wkfm__44051">Johann Caspar v. Scheidlin</rs> mitls oblatorien dd<hi style="superscript">to</hi> eadem N<hi style="superscript">o</hi> 1148 in <choice><expan/><abbr>orig:</abbr></choice>
                <lb facs="#facs_209_r1l24" n="N021"/>kund gemacht, das ihre societaet mit Ende dieß Jahrs aufhören und kunftighin der <rs type="person" ref="#wkfm__44053">Joh:
-               <lb break="no" facs="#facs_209_r1l25" n="N022"/>Andre von Schmidt</rs> unter der Raggion <rs type="person" ref="#wkfm__44050">Kriner und Schmidt</rs> sowohl alß auch der
-               <lb facs="#facs_209_r1l26" n="N023"/><rs type="person" ref="#wkfm__47575">Johann Caspar v. Scheidin</rs> unter seinen eigenen Nahmen jeder für sich nego-
+               <lb break="no" facs="#facs_209_r1l25" n="N022"/>Andre von Schmidt</rs> unter der Raggion <rs type="org" ref="#wkfm__44050">Kriner und Schmidt</rs> sowohl alß auch der
+               <lb facs="#facs_209_r1l26" n="N023"/><rs type="org" ref="#wkfm__47575">Johann Caspar v. Scheidin</rs> unter seinen eigenen Nahmen jeder für sich nego-
                <lb facs="#facs_209_r1l27" n="N024"/>tiiren werde albey hätten sich die freunde mit ihren nach ofenhabenden
                <lb facs="#facs_209_r1l28" n="N025"/>Rechnungen an <rs type="person" ref="#wkfm__44051">Johann Caspar v. Scheidlin</rs> in Wien zu addressiren, welcher
                <lb facs="#facs_209_r1l29" n="N026"/>solche nach ihrer Verständnuß in besorgung zu nehmen und zu <unclear>adjustiren</unclear>
@@ -134,19 +134,26 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__44049">
-                     <orgName>Kriner, Schmidt und Scheidlin</orgName>
-                  <noteGrp><note target="wkfm-0321.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0321</note><note target="wkfm-0322.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0322</note><note target="wkfm-1667.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1667</note><note target="wkfm-1668.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1668</note><note target="wkfm-1669.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1669</note><note target="wkfm-1670.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1670</note></noteGrp></org>
-                <org xml:id="wkfm__44050">
-                     <orgName>Kriner und Schmidt</orgName>
-                  <noteGrp><note target="wkfm-0321.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0321</note><note target="wkfm-0322.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0322</note><note target="wkfm-1667.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1667</note><note target="wkfm-1668.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1668</note><note target="wkfm-1669.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1669</note><note target="wkfm-1670.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1670</note></noteGrp></org>
-                <org xml:id="wkfm__47575">
+    <back><listOrg><org xml:id="wkfm__47575">
                      <orgName>Johann Kaspar von Scheidlin</orgName>
                   <noteGrp><note target="wkfm-1667.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1667</note><note target="wkfm-1668.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1668</note></noteGrp></org>
                 <org xml:id="wkfm__44048">
                      <orgName>Zacharias Kriner, Schmidt &amp; Co.</orgName>
                   <noteGrp><note target="wkfm-0321.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0321</note><note target="wkfm-0322.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0322</note><note target="wkfm-1667.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1667</note><note target="wkfm-1668.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1668</note><note target="wkfm-1669.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1669</note><note target="wkfm-1670.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1670</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__11308" sameAs="#wkfm__43501 ">
+                <org xml:id="wkfm__44050">
+                     <orgName>Kriner und Schmidt</orgName>
+                  <noteGrp><note target="wkfm-0321.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0321</note><note target="wkfm-0322.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0322</note><note target="wkfm-1667.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1667</note><note target="wkfm-1668.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1668</note><note target="wkfm-1669.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1669</note><note target="wkfm-1670.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1670</note></noteGrp></org>
+                <org xml:id="wkfm__44049">
+                     <orgName>Kriner, Schmidt und Scheidlin</orgName>
+                  <noteGrp><note target="wkfm-0321.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0321</note><note target="wkfm-0322.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0322</note><note target="wkfm-1667.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1667</note><note target="wkfm-1668.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1668</note><note target="wkfm-1669.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1669</note><note target="wkfm-1670.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1670</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__9744">
+                     <persName>
+                        <forename>Peter</forename>
+                        <surname>Kuzer</surname>
+                     </persName>
+                     <occupation>Kassier und Prokurist bei Kriner, Schmidt und Scheidlin</occupation>
+               <noteGrp><note target="wkfm-0321.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0321</note><note target="wkfm-1667.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1667</note><note target="wkfm-1669.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1669</note></noteGrp></person>
+                <person xml:id="wkfm__11308" sameAs="#wkfm__43501 ">
                      <persName>
                         <forename>Matthias</forename>
                         <surname>Laßgallner</surname>
@@ -161,26 +168,6 @@
 Verträge, derzeit im n. ö. Landesarchiv, 1. Teil, in: Monatsblatt der 
 Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 154) 
 205-211, hier 209.&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-0321.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0321</note><note target="wkfm-0322.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0322</note><note target="wkfm-1667.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1667</note><note target="wkfm-1668.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1668</note><note target="wkfm-1669.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1669</note><note target="wkfm-1670.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1670</note></noteGrp></person>
-                <person xml:id="wkfm__44053">
-                     <persName>
-                        <forename>Johann Andre</forename>
-                        <surname>von Schmidt</surname>
-                        <surname type="alt">Schmidt</surname>
-                     </persName>
-                     <birth><date>1691</date></birth>
-                     <death><date>1760</date></death>
-                     <residence type="Bürgerrecht">
-                        <placeName key="#wkfm-place__566">Nürnberg</placeName>
-                     <location type="coords"><geo>49.45416666666667 11.0775</geo></location></residence>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-                     <listBibl>
-                        <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Seibold, Wirtschaftlicher Erfolg, Bd. 1, 453-455.&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0321.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0321</note><note target="wkfm-0322.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0322</note><note target="wkfm-1667.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1667</note><note target="wkfm-1668.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1668</note><note target="wkfm-1669.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1669</note><note target="wkfm-1670.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1670</note></noteGrp></person>
                 <person xml:id="wkfm__46780">
@@ -226,12 +213,25 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                         <bibl>&amp;lt;span&amp;gt;Seibold, Wirtschaftlicher Erfolg, Bd. 1, 453f., 504-507; &amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Mittenzwei, Zwischen Gestern und Morgen, 49, 74, &amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0321.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0321</note><note target="wkfm-0322.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0322</note><note target="wkfm-1667.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1667</note><note target="wkfm-1668.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1668</note><note target="wkfm-1669.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1669</note><note target="wkfm-1670.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1670</note></noteGrp></person>
-                <person xml:id="wkfm__9744">
+                <person xml:id="wkfm__44053">
                      <persName>
-                        <forename>Peter</forename>
-                        <surname>Kuzer</surname>
+                        <forename>Johann Andre</forename>
+                        <surname>von Schmidt</surname>
+                        <surname type="alt">Schmidt</surname>
                      </persName>
-                     <occupation>Kassier und Prokurist bei Kriner, Schmidt und Scheidlin</occupation>
-               <noteGrp><note target="wkfm-0321.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0321</note><note target="wkfm-1667.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1667</note><note target="wkfm-1669.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1669</note></noteGrp></person>
+                     <birth><date>1691</date></birth>
+                     <death><date>1760</date></death>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__566">Nürnberg</placeName>
+                     <location type="coords"><geo>49.45416666666667 11.0775</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+                     <listBibl>
+                        <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Seibold, Wirtschaftlicher Erfolg, Bd. 1, 453-455.&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0321.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0321</note><note target="wkfm-0322.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0322</note><note target="wkfm-1667.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1667</note><note target="wkfm-1668.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1668</note><note target="wkfm-1669.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1669</note><note target="wkfm-1670.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1670</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

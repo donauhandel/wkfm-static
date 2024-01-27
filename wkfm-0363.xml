@@ -84,7 +84,7 @@
                <lb facs="#facs_43_r2l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_43_r2l3" n="N003"/><rs type="person" ref="#wkfm__8589">Cerletti Anton</rs> burgerlicher Handlsmann
                <lb facs="#facs_43_r2l4" n="N004"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_43_r2l5" n="N005"/><rs type="person" ref="#wkfm__47214">Antoni Cerletti</rs> laut Erklährung dd<hi style="superscript">to</hi> 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 180
+               <lb facs="#facs_43_r2l5" n="N005"/><rs type="org" ref="#wkfm__47214">Antoni Cerletti</rs> laut Erklährung dd<hi style="superscript">to</hi> 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 180
                <lb facs="#facs_43_r2l6" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_43_r2l7" n="N007"/>Mitls Anbringen de ps: 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 726 N<hi style="superscript">o</hi> 932 hat der <rs type="person" ref="#wkfm__8589">Cerletti</rs>
                <lb facs="#facs_43_r2l8" n="N008"/>die dem <rs type="person" ref="#wkfm__8411">Domenico Vanossi</rs> wehrend seiner <hi>Ab</hi> des <rs type="person" ref="#wkfm__8589">Cerletti</rs> Abwesen-
@@ -96,10 +96,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47214">
-                     <orgName>Anton Cerletti</orgName>
-                  <noteGrp><note target="wkfm-0363.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0363</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__8589">
+    <back><listPerson><person xml:id="wkfm__8589">
                      <persName>
                         <forename>Anton</forename>
                         <surname>Cerletti</surname>
@@ -144,5 +141,8 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 549 (August 1726).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0363.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0363</note><note target="wkfm-0473.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0473</note><note target="wkfm-0725.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0725</note><note target="wkfm-0726.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0726</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47214">
+                     <orgName>Anton Cerletti</orgName>
+                  <noteGrp><note target="wkfm-0363.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0363</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

@@ -93,7 +93,7 @@
             <ab facs="#facs_122_r1">
                <lb facs="#facs_122_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_122_r1l2" n="N002"/>In obiger Erklährung sine dato N<hi style="superscript">o</hi> 374 hat sich der <rs type="person" ref="#wkfm__47156">Fläschiz</rs> geäuss[ert]
-               <lb facs="#facs_122_r1l3" n="N003"/>daß er sein negotium alß Socius von <unclear>deren</unclear> <rs type="person" ref="#wkfm__47157">Michäl Schikh Erben</rs> <hi>unter</hi> <unclear>füh[re]</unclear>
+               <lb facs="#facs_122_r1l3" n="N003"/>daß er sein negotium alß Socius von <unclear>deren</unclear> <rs type="org" ref="#wkfm__47157">Michäl Schikh Erben</rs> <hi>unter</hi> <unclear>füh[re]</unclear>
                <lb facs="#facs_122_r1l4" n="N004"/>Mitls Anbringen de ps: 7<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 745 N<hi style="superscript">o</hi> 1942 hat der <rs type="person" ref="#wkfm__47156">Fläschitz</rs> ange-
                <lb facs="#facs_122_r1l5" n="N005"/>zeiget daß ihm der <rs type="person" ref="#wkfm__47162">Conrad Schikh</rs> durch daß <choice><expan/><abbr>orig.</abbr></choice> Schreiben dd<hi style="superscript">to</hi> <unclear>Wienn</unclear>
                <lb facs="#facs_122_r1l6" n="N006"/>den 3<hi style="superscript">ten</hi> May 754 N<hi style="superscript">o</hi> 1943 die Societaet aufgekündet an bey <hi>lan</hi> mitls An-
@@ -115,7 +115,17 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47156">
+    <back><listPerson><person xml:id="wkfm__47162">
+                     <persName>
+                        <forename>Konrad</forename>
+                        <surname>Schick</surname>
+                     </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+               <noteGrp><note target="wkfm-0790.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0790</note></noteGrp></person>
+                <person xml:id="wkfm__47156">
                      <persName>
                         <forename>Johann Peter</forename>
                         <surname>Fläschitz</surname>
@@ -157,16 +167,6 @@
                      <occupation>Handelsfrau</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0789.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0789</note><note target="wkfm-0790.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0790</note></noteGrp></person>
-                <person xml:id="wkfm__47162">
-                     <persName>
-                        <forename>Konrad</forename>
-                        <surname>Schick</surname>
-                     </persName>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-               <noteGrp><note target="wkfm-0790.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0790</note></noteGrp></person>
                 </listPerson><listOrg><org xml:id="wkfm__47157">
                      <orgName>Michael Schick sel. Erben &amp; Co.</orgName>
                   <noteGrp><note target="wkfm-0789.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0789</note><note target="wkfm-0790.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0790</note></noteGrp></org>

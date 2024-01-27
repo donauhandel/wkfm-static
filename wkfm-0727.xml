@@ -79,7 +79,7 @@
                <lb facs="#facs_59_r2l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_59_r2l2" n="N003"/><rs type="person" ref="#wkfm__8801">Früeß Anton</rs> burgerlicher Handlsmann
                <lb facs="#facs_59_r2l3" n="N004"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_59_r2l4" n="N005"/><rs type="person" ref="#wkfm__47094">Antony Früeß</rs> laut Erklährung dd<hi style="superscript">to</hi> 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 728 N<hi style="superscript">o</hi> 345
+               <lb facs="#facs_59_r2l4" n="N005"/><rs type="org" ref="#wkfm__47094">Antony Früeß</rs> laut Erklährung dd<hi style="superscript">to</hi> 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 728 N<hi style="superscript">o</hi> 345
                <lb facs="#facs_59_r2l5" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_59_r2l6" n="N007"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_59_r2l7" n="N008"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
@@ -87,7 +87,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__8801" sameAs="#wkfm__27397 ">
+    <back><listOrg><org xml:id="wkfm__47094">
+                     <orgName>Anton Fries (Früeß)</orgName>
+                  <noteGrp><note target="wkfm-0727.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0727</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__8801" sameAs="#wkfm__27397 ">
                      <persName>
                         <forename>Anton</forename>
                         <surname>Fries</surname>
@@ -106,8 +109,5 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0727.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0727</note><note target="wkfm-0728.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0728</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__47094">
-                     <orgName>Anton Fries (Früeß)</orgName>
-                  <noteGrp><note target="wkfm-0727.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0727</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

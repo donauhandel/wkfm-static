@@ -87,7 +87,7 @@
                <lb facs="#facs_95_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_95_r1l3" n="N003"/><rs type="person" ref="#wkfm__46276">Träge Johann Sebastian</rs> burgerlicher Handlsmann
                <lb facs="#facs_95_r1l4" n="N004"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_95_r1l5" n="N005"/><rs type="person" ref="#wkfm__46277">Johann Sebastian Träge</rs> laut Erklährung dd<hi style="superscript">to</hi> 18<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 742 N<hi style="superscript">o</hi> 287
+               <lb facs="#facs_95_r1l5" n="N005"/><rs type="org" ref="#wkfm__46277">Johann Sebastian Träge</rs> laut Erklährung dd<hi style="superscript">to</hi> 18<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 742 N<hi style="superscript">o</hi> 287
                <lb facs="#facs_95_line_1621966410301_4743" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_95_r1l8" n="N007"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_95_r1l9" n="N008"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
@@ -102,7 +102,14 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46276">
+    <back><listPerson><person xml:id="wkfm__46278">
+                     <persName>
+                        <forename>Franz</forename>
+                        <surname>Förstl</surname>
+                     </persName>
+                     <death><date>1741</date></death>
+               <noteGrp><note target="wkfm-0595.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0595</note></noteGrp></person>
+                <person xml:id="wkfm__46276">
                      <persName>
                         <forename>Johann Sebastian</forename>
                         <surname>Träge</surname>
@@ -125,13 +132,6 @@
                      <listBibl>
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 546.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
-               <noteGrp><note target="wkfm-0595.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0595</note></noteGrp></person>
-                <person xml:id="wkfm__46278">
-                     <persName>
-                        <forename>Franz</forename>
-                        <surname>Förstl</surname>
-                     </persName>
-                     <death><date>1741</date></death>
                <noteGrp><note target="wkfm-0595.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0595</note></noteGrp></person>
                 </listPerson><listOrg><org xml:id="wkfm__46277">
                      <orgName>Johann Sebastian Träge</orgName>

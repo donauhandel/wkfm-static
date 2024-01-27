@@ -80,7 +80,7 @@
                <lb facs="#facs_59_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_59_r1l3" n="N003"/><rs type="person" ref="#wkfm__40184">Trenkher Christian</rs> burgerlicher Eysenhandler
                <lb facs="#facs_59_r1l4" n="N004"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_59_r1l5" n="N005"/><rs type="person" ref="#wkfm__46235">Christian Trenckher</rs> laut Anbringen de ps: 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 725 N<hi style="superscript">o</hi> 271
+               <lb facs="#facs_59_r1l5" n="N005"/><rs type="org" ref="#wkfm__46235">Christian Trenckher</rs> laut Anbringen de ps: 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 725 N<hi style="superscript">o</hi> 271
                <lb facs="#facs_59_r1l6" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_59_r1l7" n="N007"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_59_r1l8" n="N008"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
@@ -88,7 +88,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__40184" sameAs="#wkfm__37427 wkfm__39812 ">
+    <back><listOrg><org xml:id="wkfm__46235">
+                     <orgName>Christian Trenker</orgName>
+                  <noteGrp><note target="wkfm-0559.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0559</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__40184" sameAs="#wkfm__37427 wkfm__39812 ">
                      <persName>
                         <forename>Christian</forename>
                         <surname>Trenker</surname>
@@ -109,8 +112,5 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 547 (5. April 1723).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0559.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0559</note><note target="wkfm-0560.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0560</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46235">
-                     <orgName>Christian Trenker</orgName>
-                  <noteGrp><note target="wkfm-0559.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0559</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

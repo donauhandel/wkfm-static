@@ -86,7 +86,7 @@
                <lb facs="#facs_152_r1l5" n="N004"/>Mitls Anbringen de ps: 28<hi style="superscript">ten</hi> <hi>A</hi> <choice><expan/><abbr>7br:</abbr></choice> 747 N<hi style="superscript">o</hi> 2058 hat der <rs type="person" ref="#wkfm__47182">Scholz</rs> den mit seinem
                <lb facs="#facs_152_r1l6" n="N005"/>Tochter Mann <rs type="person" ref="#wkfm__47181">Carl Heinrich Tittel</rs> untern 25<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 747 geschlossenen societaets
                <lb facs="#facs_152_r1l7" n="N006"/>Contract angezeiget und solchen in <choice><expan/><abbr>orig:</abbr></choice> N<hi style="superscript">o</hi> 2057 eingeleget, kraft welchen die
-               <lb facs="#facs_152_r1l8" n="N007"/>Raggion<rs type="person" ref="#wkfm__47180"> Balthasar Sigmund Scholz und Compagnie</rs> laufen, der <rs type="person" ref="#wkfm__47181">Tittel</rs>, zumahlen
+               <lb facs="#facs_152_r1l8" n="N007"/>Raggion<rs type="org" ref="#wkfm__47180"> Balthasar Sigmund Scholz und Compagnie</rs> laufen, der <rs type="person" ref="#wkfm__47181">Tittel</rs>, zumahlen
                <lb facs="#facs_152_r1l9" n="N008"/>selber keine vale Einlag leister, alle aperas, und gewahr ohne sich in <unclear>andere</unclear>
                <lb facs="#facs_152_r1l10" n="N009"/>negotio einzulassen pactiren und hingegegen der halber Nuzen zühen
                <lb facs="#facs_152_r1l11" n="N010"/>solle.
@@ -96,21 +96,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47181">
-                     <persName>
-                        <forename>Karl Heinrich</forename>
-                        <surname>Tittel</surname>
-                     </persName>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-                     <listBibl>
-                        <bibl>Senfelder, Gottesacker, 257.&amp;lt;br&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-0801.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0801</note><note target="wkfm-0802.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0802</note><note target="wkfm-1609.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1609</note><note target="wkfm-1610.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1610</note></noteGrp></person>
-                <person xml:id="wkfm__47182">
+    <back><listOrg><org xml:id="wkfm__47180">
+                     <orgName>Balthasar Sigmund Scholz &amp; Co.</orgName>
+                  <noteGrp><note target="wkfm-0801.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0801</note><note target="wkfm-0802.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0802</note><note target="wkfm-1609.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1609</note><note target="wkfm-1610.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1610</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__47182">
                      <persName>
                         <forename>Balthasar Sigmund</forename>
                         <surname>Scholz</surname>
@@ -126,8 +115,19 @@
                         <bibl>&amp;lt;span&amp;gt;Kröpfel, Protestsantismus, Anhang 1, S. 6.&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0801.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0801</note><note target="wkfm-1609.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1609</note><note target="wkfm-1610.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1610</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__47180">
-                     <orgName>Balthasar Sigmund Scholz &amp; Co.</orgName>
-                  <noteGrp><note target="wkfm-0801.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0801</note><note target="wkfm-0802.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0802</note><note target="wkfm-1609.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1609</note><note target="wkfm-1610.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1610</note></noteGrp></org>
-                </listOrg></back></text>
+                <person xml:id="wkfm__47181">
+                     <persName>
+                        <forename>Karl Heinrich</forename>
+                        <surname>Tittel</surname>
+                     </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+                     <listBibl>
+                        <bibl>Senfelder, Gottesacker, 257.&amp;lt;br&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0801.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0801</note><note target="wkfm-0802.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0802</note><note target="wkfm-1609.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1609</note><note target="wkfm-1610.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1610</note></noteGrp></person>
+                </listPerson></back></text>
 </TEI>

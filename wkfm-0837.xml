@@ -81,7 +81,7 @@
                <lb facs="#facs_25_r2l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_25_r2l3" n="N003"/><rs type="person" ref="#wkfm__1864">Güsser Michäl Franz</rs> bürgerlicher Handlsmann
                <lb facs="#facs_25_r2l4" n="N004"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_25_r2l5" n="N005"/><hi>N</hi> <rs type="person" ref="#wkfm__46312">Michael Franz <hi>Güs</hi> Güsser</rs> laut Erklährung dd<hi style="superscript">to</hi>
+               <lb facs="#facs_25_r2l5" n="N005"/><hi>N</hi> <rs type="org" ref="#wkfm__46312">Michael Franz <hi>Güs</hi> Güsser</rs> laut Erklährung dd<hi style="superscript">to</hi>
                <lb facs="#facs_25_r2l6" n="N006"/>17<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 392
                <lb facs="#facs_25_r2l7" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_25_r2l8" n="N008"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
@@ -90,7 +90,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__1864" sameAs="#wkfm__19284 ">
+    <back><listOrg><org xml:id="wkfm__46312">
+                     <orgName>Michael Franz Güsser</orgName>
+                  <noteGrp><note target="wkfm-0837.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0837</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__1864" sameAs="#wkfm__19284 ">
                      <persName>
                         <forename>Michael Franz</forename>
                         <surname>Güsser</surname>
@@ -110,8 +113,5 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0837.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0837</note><note target="wkfm-0838.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0838</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46312">
-                     <orgName>Michael Franz Güsser</orgName>
-                  <noteGrp><note target="wkfm-0837.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0837</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

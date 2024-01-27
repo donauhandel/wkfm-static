@@ -82,7 +82,7 @@
                <lb facs="#facs_23_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_23_r1l3" n="N003"/><rs type="person" ref="#wkfm__17436">Gallermayr Georg Philipp</rs> burgerlicher Handlsmann
                <lb facs="#facs_23_r1l4" n="N004"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_23_r1l5" n="N005"/><rs type="person" ref="#wkfm__46311">Georg Philipp Gallermayr</rs> laut Erklährung dd<hi style="superscript">to</hi> <choice><expan/><abbr>Apr:</abbr></choice>
+               <lb facs="#facs_23_r1l5" n="N005"/><rs type="org" ref="#wkfm__46311">Georg Philipp Gallermayr</rs> laut Erklährung dd<hi style="superscript">to</hi> <choice><expan/><abbr>Apr:</abbr></choice>
                <lb facs="#facs_23_r1l6" n="N006"/>725 N<hi style="superscript">o</hi> 391
                <lb facs="#facs_23_r1l7" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_23_r1l8" n="N008"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
@@ -91,7 +91,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__17436">
+    <back><listOrg><org xml:id="wkfm__46311">
+                     <orgName>Georg Philipp Gallermayr</orgName>
+                  <noteGrp><note target="wkfm-0835.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0835</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__17436">
                      <persName>
                         <forename>Georg Philipp</forename>
                         <surname>Gallermayr</surname>
@@ -111,8 +114,5 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0835.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0835</note><note target="wkfm-0836.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0836</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46311">
-                     <orgName>Georg Philipp Gallermayr</orgName>
-                  <noteGrp><note target="wkfm-0835.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0835</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

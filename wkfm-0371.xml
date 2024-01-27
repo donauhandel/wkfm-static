@@ -80,7 +80,7 @@
                <lb facs="#facs_51_r2l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_51_r2l3" n="N003"/><rs type="person" ref="#wkfm__46112">Kunerth Franz Wilhelm</rs> burgerlicher Handlsmann
                <lb facs="#facs_51_r2l4" n="N004"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_51_r2l5" n="N005"/><rs type="person" ref="#wkfm__47218">Frantz Willhel. Kunerth</rs> laut Erklährung dd<hi style="superscript">to</hi> 18<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 184
+               <lb facs="#facs_51_r2l5" n="N005"/><rs type="org" ref="#wkfm__47218">Frantz Willhel. Kunerth</rs> laut Erklährung dd<hi style="superscript">to</hi> 18<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 184
                <lb facs="#facs_51_r2l6" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_51_r2l7" n="N007"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_51_r2l8" n="N008"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
@@ -88,7 +88,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46112" sameAs="#wkfm__15682 wkfm__18186 wkfm__44104 ">
+    <back><listOrg><org xml:id="wkfm__47218">
+                     <orgName>Franz Wilhelm Kunerth</orgName>
+                  <noteGrp><note target="wkfm-0371.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0371</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__46112" sameAs="#wkfm__15682 wkfm__18186 wkfm__44104 ">
                      <persName>
                         <forename>Franz Wilhelm</forename>
                         <surname>Kunerth</surname>
@@ -113,8 +116,5 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 439.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0371.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0371</note><note target="wkfm-0372.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0372</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__47218">
-                     <orgName>Franz Wilhelm Kunerth</orgName>
-                  <noteGrp><note target="wkfm-0371.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0371</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

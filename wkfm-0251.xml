@@ -108,26 +108,26 @@
                <lb facs="#facs_197_r1l2" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_197_r1l3" n="N003"/><rs type="person" ref="#wkfm__43942">Passy Michael</rs> k. k. Niderlags Verwanter
                <lb facs="#facs_197_r1l4" n="N004"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_197_r1l5" n="N005"/><rs type="person" ref="#wkfm__47365">Michäel Passy</rs> laut anbringen de ps: 13<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 738 N<hi style="superscript">o</hi> 122
+               <lb facs="#facs_197_r1l5" n="N005"/><rs type="org" ref="#wkfm__47365">Michäel Passy</rs> laut anbringen de ps: 13<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 738 N<hi style="superscript">o</hi> 122
                <lb facs="#facs_197_r1l6" n="N006"/><rs type="person" ref="#wkfm__43943">Passy et Perinet</rs> laut Anbringen de ps: 23<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 744 N<hi style="superscript">o</hi> 1881 und oblatorien dd<hi style="superscript">to</hi> 2<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 750 N<hi style="superscript">o</hi> 1101
-               <lb facs="#facs_197_r1l7" n="N007"/><rs type="person" ref="#wkfm__43944">Passy Perinet et Comp:</rs> laut Anbringen de ps: 8<hi style="superscript">ten</hi> Aug: 754 N<hi style="superscript">o</hi> 1887 und oblatorien dd<hi style="superscript">to</hi> 5<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> N<hi style="superscript">o</hi> 1107
+               <lb facs="#facs_197_r1l7" n="N007"/><rs type="org" ref="#wkfm__43944">Passy Perinet et Comp:</rs> laut Anbringen de ps: 8<hi style="superscript">ten</hi> Aug: 754 N<hi style="superscript">o</hi> 1887 und oblatorien dd<hi style="superscript">to</hi> 5<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> N<hi style="superscript">o</hi> 1107
                <lb facs="#facs_197_r1l8" n="N008"/>den 29<hi style="superscript">ten</hi> Novembris 763 die <unclear>abermahlige</unclear> firma eingelegt sub <choice><expan/><abbr>nro:</abbr></choice> 166
                <lb facs="#facs_197_r1l9" n="N009"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_197_r1l10" n="N010"/>In dem von der Raggion <rs type="person" ref="#wkfm__43943">Passy und Perinet</rs> untern 2<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 750 N<hi style="superscript">o</hi> 1101 erlassenen obla-
                <lb facs="#facs_197_r1l11" n="N011"/>torium ist die firma von beeden sociis <hi>eingeleget worden</hi> beygeruket worden
-               <lb facs="#facs_197_r1l12" n="N012"/>Mitls Anbringen de ps: 8<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 754 N<hi style="superscript">o</hi> 1887 ist von der Raggion <rs type="person" ref="#wkfm__43944">Passy Perinet
+               <lb facs="#facs_197_r1l12" n="N012"/>Mitls Anbringen de ps: 8<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 754 N<hi style="superscript">o</hi> 1887 ist von der Raggion <rs type="org" ref="#wkfm__43944">Passy Perinet
                <lb break="no" facs="#facs_197_r1l13" n="N013"/>et <choice><expan/><abbr>Comp:</abbr></choice></rs> die Firma allein von <rs type="person" ref="#wkfm__43942">Michael Passy</rs> und <rs type="person" ref="#wkfm__43946">Philibert Anton Perinet</rs> einge-
                <lb facs="#facs_197_r1l14" n="N014"/>leget worden.
                <lb facs="#facs_197_r1l15" n="N015"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_197_r1l16" n="N016"/>Die Raggion <rs type="person" ref="#wkfm__43943">Passy und Perinet</rs> hat die oblatorien untern 2<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 750 N<hi style="superscript">o</hi> 1101
                <lb facs="#facs_197_r1l17" n="N017"/>dahin erlassen, daß die durch 13 Jahr subsistirende societaet unter der Raggion
-               <lb facs="#facs_197_r1l18" n="N018"/>in Augspurg <rs type="person" ref="#wkfm__29682">Perinet und Passy</rs> und allein <rs type="person" ref="#wkfm__43942">Michäl Passy</rs> mit ende vorigen Jahrs ter-
+               <lb facs="#facs_197_r1l18" n="N018"/>in Augspurg <rs type="org" ref="#wkfm__29682">Perinet und Passy</rs> und allein <rs type="person" ref="#wkfm__43942">Michäl Passy</rs> mit ende vorigen Jahrs ter-
                <lb facs="#facs_197_r1l19" n="N019"/>miniret seye, der <rs type="person" ref="#wkfm__43942">Michäl Passy</rs> habe sich aber entschlossen, die societaet mit dem <rs type="person" ref="#wkfm__43946">Phili-
                <lb break="no" facs="#facs_197_r1l20" n="N020"/>bert Perinet</rs> mit genugsamen Fundi und unter der Raggion <rs type="person" ref="#wkfm__43943">Passy und Perinet</rs>, wie vorhero zu
                <lb facs="#facs_197_r1l21" n="N021"/>continuiren
-               <lb facs="#facs_197_r1l22" n="N022"/>Die Raggion <rs type="person" ref="#wkfm__43944">Passy Perinet und Comp</rs> hat die weithern oblatorien untern 5<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice>
+               <lb facs="#facs_197_r1l22" n="N022"/>Die Raggion <rs type="org" ref="#wkfm__43944">Passy Perinet und Comp</rs> hat die weithern oblatorien untern 5<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice>
                <lb facs="#facs_197_r1l23" n="N023"/>754 N<hi style="superscript">o</hi> 1107 dahin erlassen, das der <rs type="person" ref="#wkfm__43947">Peter</rs> und <rs type="person" ref="#wkfm__43948">Franz Passy</rs> in das negotium associret
-               <lb facs="#facs_197_r1l24" n="N024"/>und die Raggion auf <rs type="person" ref="#wkfm__43944">Passy Perinet und <choice><expan/><abbr>Comp:</abbr></choice></rs> abgeändert worden seye.
+               <lb facs="#facs_197_r1l24" n="N024"/>und die Raggion auf <rs type="org" ref="#wkfm__43944">Passy Perinet und <choice><expan/><abbr>Comp:</abbr></choice></rs> abgeändert worden seye.
                <lb facs="#facs_197_r1l25" n="N025"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
                <lb facs="#facs_197_r1l26" n="N026"/>Der <rs type="person" ref="#wkfm__43942">Michäl Passy</rs> hat seinen fundum mitls dreyer von <rs type="person" ref="#wkfm__29551">Franz
                <lb break="no" facs="#facs_197_r1l27" n="N027"/>Decret</rs>, <rs type="person" ref="#wkfm__42886">Bernhard Falquet</rs>, <rs type="person" ref="#wkfm__4694 oder 43814">Johann Bapt: Perinet</rs> und <rs type="person" ref="#wkfm__43949">Anton
@@ -144,92 +144,16 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__29682">
-                     <orgName>Perinet und Passy</orgName>
+    <back><listOrg><org xml:id="wkfm__47365">
+                     <orgName>Michael Passy</orgName>
                   <noteGrp><note target="wkfm-0251.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0251</note></noteGrp></org>
                 <org xml:id="wkfm__43944">
                      <orgName>Passy, Perinet &amp; Co.</orgName>
                   <noteGrp><note target="wkfm-0251.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0251</note><note target="wkfm-0252.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0252</note><note target="wkfm-1693.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1693</note></noteGrp></org>
-                <org xml:id="wkfm__47365">
-                     <orgName>Michael Passy</orgName>
+                <org xml:id="wkfm__29682">
+                     <orgName>Perinet und Passy</orgName>
                   <noteGrp><note target="wkfm-0251.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0251</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__29551">
-                     <persName>
-                        <forename>Franz</forename>
-                        <surname>Decret</surname>
-                     </persName>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geburtsort">
-                        <placeName key="#wkfm-place__2502">Arâches-la-Frasse</placeName>
-                     </residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-                     <listBibl>
-                        <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Beim niederösterr. Landmarschall&amp;#39;schen Gerichte hinterlegte 
-Verträge, derzeit im n. ö. Landesarchiv, 1. Teil, in: Monatsblatt der 
-Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 154) 
-205-211, 211.&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-0251.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0251</note><note target="wkfm-0575.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0575</note><note target="wkfm-0576.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0576</note></noteGrp></person>
-                <person xml:id="wkfm__43948" sameAs="#wkfm__36625 ">
-                     <persName>
-                        <forename>Franz</forename>
-                        <surname>Passy</surname>
-                     </persName>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-               <noteGrp><note target="wkfm-0251.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0251</note><note target="wkfm-0252.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0252</note></noteGrp></person>
-                <person xml:id="wkfm__43949">
-                     <persName>
-                        <forename>Anton</forename>
-                        <surname>Holz</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-0251.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0251</note></noteGrp></person>
-                <person xml:id="wkfm__43946">
-                     <persName>
-                        <forename>Phillibert Anton</forename>
-                        <surname>Perinet</surname>
-                     </persName>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-               <noteGrp><note target="wkfm-0251.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0251</note><note target="wkfm-0252.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0252</note></noteGrp></person>
-                <person xml:id="wkfm__43947">
-                     <persName>
-                        <forename>Peter</forename>
-                        <surname>Passy</surname>
-                     </persName>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-               <noteGrp><note target="wkfm-0251.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0251</note><note target="wkfm-0252.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0252</note></noteGrp></person>
-                <person xml:id="wkfm__43942">
-                     <persName>
-                        <forename>Michael</forename>
-                        <surname>Passy</surname>
-                     </persName>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geburtsort">
-                        <placeName key="#wkfm-place__2502">Arâches-la-Frasse</placeName>
-                     </residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-               <noteGrp><note target="wkfm-0251.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0251</note><note target="wkfm-0252.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0252</note><note target="wkfm-0303.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0303</note><note target="wkfm-1441.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1441</note></noteGrp></person>
-                <person xml:id="wkfm__42886">
+                </listOrg><listPerson><person xml:id="wkfm__42886">
                      <persName>
                         <forename>Bernhard</forename>
                         <surname>Falquet</surname>
@@ -251,6 +175,23 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                         <bibl>Budischowsky, Bernhard Falquet; Budischowsky, Puthon; Matis, Manufakturen, 270, 364.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0251.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0251</note><note target="wkfm-0759.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0759</note><note target="wkfm-0760.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0760</note><note target="wkfm-0797.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0797</note><note target="wkfm-0798.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0798</note><note target="wkfm-0800.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0800</note></noteGrp></person>
+                <person xml:id="wkfm__43948" sameAs="#wkfm__36625 ">
+                     <persName>
+                        <forename>Franz</forename>
+                        <surname>Passy</surname>
+                     </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+               <noteGrp><note target="wkfm-0251.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0251</note><note target="wkfm-0252.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0252</note></noteGrp></person>
+                <person xml:id="wkfm__43949">
+                     <persName>
+                        <forename>Anton</forename>
+                        <surname>Holz</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0251.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0251</note></noteGrp></person>
                 <person xml:id="wkfm__4694" sameAs="#wkfm__4693 ">
                      <persName>
                         <forename>Johann Baptist</forename>
@@ -274,5 +215,64 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                         <bibl>&amp;lt;div&amp;gt;Rauscher, Serles, Niederleger, 168f.&amp;lt;/div&amp;gt;&amp;lt;div&amp;gt;Harrer-Lucienfeld, Wien, seiner Häuser, Bd. 1.3, S. 727&amp;lt;/div&amp;gt;&amp;lt;div&amp;gt;Raynaud, Savoyardische Einwanderungen, 216&amp;lt;br&amp;gt;&amp;lt;/div&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0070.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0070</note><note target="wkfm-0071.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0071</note><note target="wkfm-0251.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0251</note><note target="wkfm-0799.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0799</note><note target="wkfm-0800.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0800</note></noteGrp></person>
+                <person xml:id="wkfm__43947">
+                     <persName>
+                        <forename>Peter</forename>
+                        <surname>Passy</surname>
+                     </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+               <noteGrp><note target="wkfm-0251.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0251</note><note target="wkfm-0252.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0252</note></noteGrp></person>
+                <person xml:id="wkfm__29551">
+                     <persName>
+                        <forename>Franz</forename>
+                        <surname>Decret</surname>
+                     </persName>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geburtsort">
+                        <placeName key="#wkfm-place__2502">Arâches-la-Frasse</placeName>
+                     </residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+                     <listBibl>
+                        <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Beim niederösterr. Landmarschall&amp;#39;schen Gerichte hinterlegte 
+Verträge, derzeit im n. ö. Landesarchiv, 1. Teil, in: Monatsblatt der 
+Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 154) 
+205-211, 211.&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0251.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0251</note><note target="wkfm-0575.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0575</note><note target="wkfm-0576.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0576</note></noteGrp></person>
+                <person xml:id="wkfm__43942">
+                     <persName>
+                        <forename>Michael</forename>
+                        <surname>Passy</surname>
+                     </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geburtsort">
+                        <placeName key="#wkfm-place__2502">Arâches-la-Frasse</placeName>
+                     </residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+               <noteGrp><note target="wkfm-0251.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0251</note><note target="wkfm-0252.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0252</note><note target="wkfm-0303.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0303</note><note target="wkfm-1441.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1441</note></noteGrp></person>
+                <person xml:id="wkfm__43946">
+                     <persName>
+                        <forename>Phillibert Anton</forename>
+                        <surname>Perinet</surname>
+                     </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+               <noteGrp><note target="wkfm-0251.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0251</note><note target="wkfm-0252.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0252</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

@@ -87,7 +87,7 @@
                <lb facs="#facs_5_r1l1" n="N003"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_5_r1l4" n="N004"/><rs type="person" ref="#wkfm__626">De St. Nicolo Domenico</rs> burgerlicher Handlsmann
                <lb facs="#facs_5_r1l5" n="N005"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_5_r1l6" n="N006"/><rs type="person" ref="#wkfm__46653">Dom. de St. Nicolo</rs> laut Erklährung dd<hi style="superscript">to</hi> 17ten <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 599
+               <lb facs="#facs_5_r1l6" n="N006"/><rs type="org" ref="#wkfm__46653">Dom. de St. Nicolo</rs> laut Erklährung dd<hi style="superscript">to</hi> 17ten <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 599
                <lb facs="#facs_5_r1l7" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_5_r1l8" n="N008"/>Mitls Anbringen de ps: 7<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 728 N<hi style="superscript">o</hi> 1043 hat der <rs type="person" ref="#wkfm__626">St. Nicolo</rs> die wehrend
                <lb facs="#facs_5_r1l9" n="N009"/>seinem Abwesenheit seinen Brudern <rs type="person" ref="#wkfm__18406">Johann de St. Nicolo</rs> ertheilte <choice><expan/><abbr>orig:</abbr></choice>
@@ -99,7 +99,36 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__626">
+    <back><listOrg><org xml:id="wkfm__46653">
+                     <orgName>Dominicus de S. Nicola</orgName>
+                  <noteGrp><note target="wkfm-25378454.xml" type="mentions">Wiener Merkantilprotokoll Nr. 25378454</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__18406" sameAs="#wkfm__4300 ">
+                     <persName>
+                        <forename>Johann</forename>
+                        <forename type="alt">Johann Baptista</forename>
+                        <surname>de S. Nicola</surname>
+                     </persName>
+                     <birth><date>1691</date></birth>
+                     <death><date>1772</date></death>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Bei der Silbernen Kugel nächst dem Bischofhof (Calender 1758)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann, Prokurist bei Dominicus de S. Nicola</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+                     <listBibl>
+                        <bibl>Dotter, Italienische Kaufleute, 120f.&amp;lt;br&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0237.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0237</note><note target="wkfm-1319.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1319</note><note target="wkfm-1320.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1320</note><note target="wkfm-25378454.xml" type="mentions">Wiener Merkantilprotokoll Nr. 25378454</note></noteGrp></person>
+                <person xml:id="wkfm__626">
                      <persName>
                         <forename>Dominicus</forename>
                         <surname>de S. Nicola</surname>
@@ -131,34 +160,5 @@
                         <bibl>Dotter, Kaufleute, 123-127; Rauscher, Serles, Märkte, 80.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-25378454.xml" type="mentions">Wiener Merkantilprotokoll Nr. 25378454</note><note target="wkfm-25378456.xml" type="mentions">Wiener Merkantilprotokoll Nr. 25378456</note></noteGrp></person>
-                <person xml:id="wkfm__18406" sameAs="#wkfm__4300 ">
-                     <persName>
-                        <forename>Johann</forename>
-                        <forename type="alt">Johann Baptista</forename>
-                        <surname>de S. Nicola</surname>
-                     </persName>
-                     <birth><date>1691</date></birth>
-                     <death><date>1772</date></death>                    
-                     <residence type="Geschäftsadresse">
-                        <placeName>Bei der Silbernen Kugel nächst dem Bischofhof (Calender 1758)</placeName>
-                     </residence>
-                     <residence type="Bürgerrecht">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann, Prokurist bei Dominicus de S. Nicola</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-                     <listBibl>
-                        <bibl>Dotter, Italienische Kaufleute, 120f.&amp;lt;br&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-0237.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0237</note><note target="wkfm-1319.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1319</note><note target="wkfm-1320.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1320</note><note target="wkfm-25378454.xml" type="mentions">Wiener Merkantilprotokoll Nr. 25378454</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46653">
-                     <orgName>Dominicus de S. Nicola</orgName>
-                  <noteGrp><note target="wkfm-25378454.xml" type="mentions">Wiener Merkantilprotokoll Nr. 25378454</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

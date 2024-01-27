@@ -100,7 +100,7 @@
                <lb facs="#facs_120_r1l3" n="N003"/>sich seinen Sohn <rs type="person" ref="#wkfm__46547">Joseph Höltzl</rs> auf 4 Jahr vermög Societaets-Con-
                <lb facs="#facs_120_r1l5" n="N004"/>tract A dd: 15 April 775 associrte habe, zu welchem Ende
                <lb facs="#facs_120_r1l6" n="N005"/>er auch die in Hinkunft führende Handlungs firma
-               <lb facs="#facs_120_r1l7" n="N006"/>Sub B eingeleget, welche lautet: <rs type="person" ref="#wkfm__46548">Franz Hölzl et <choice><expan/><abbr>Comp:</abbr></choice></rs>
+               <lb facs="#facs_120_r1l7" n="N006"/>Sub B eingeleget, welche lautet: <rs type="org" ref="#wkfm__46548">Franz Hölzl et <choice><expan/><abbr>Comp:</abbr></choice></rs>
                <lb facs="#facs_120_r1l8" n="N007"/>und um dessen protocollirung gebetten; Worüber sich der
                <lb facs="#facs_120_r1l9" n="N008"/>Supplicant über die von seiner Ehewirthin Eingelegten Er-
                <lb facs="#facs_120_r1l10" n="N009"/>klärung, daß sie wider diese errichtete Societaet nicht entge-
@@ -126,7 +126,27 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46545">
+    <back><listOrg><org xml:id="wkfm__46548">
+                     <orgName>Franz Hölzl &amp; Co.</orgName>
+                  <noteGrp><note target="wkfm-1040.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1040</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__46549">
+                     <persName>
+                        <forename>Susanna</forename>
+                        <surname>Stelzerin</surname>
+                        <surname type="alt">Hölzl</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-1040.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1040</note></noteGrp></person>
+                <person xml:id="wkfm__46547">
+                     <persName>
+                        <forename>Joseph</forename>
+                        <surname>Hölzl</surname>
+                     </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+               <noteGrp><note target="wkfm-1040.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1040</note></noteGrp></person>
+                <person xml:id="wkfm__46545">
                      <persName>
                         <forename>Franz</forename>
                         <surname>Hölzl</surname>
@@ -149,25 +169,5 @@
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 415.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1039.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1039</note><note target="wkfm-1040.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1040</note></noteGrp></person>
-                <person xml:id="wkfm__46547">
-                     <persName>
-                        <forename>Joseph</forename>
-                        <surname>Hölzl</surname>
-                     </persName>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-               <noteGrp><note target="wkfm-1040.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1040</note></noteGrp></person>
-                <person xml:id="wkfm__46549">
-                     <persName>
-                        <forename>Susanna</forename>
-                        <surname>Stelzerin</surname>
-                        <surname type="alt">Hölzl</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-1040.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1040</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46548">
-                     <orgName>Franz Hölzl &amp; Co.</orgName>
-                  <noteGrp><note target="wkfm-1040.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1040</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

@@ -79,7 +79,7 @@
                <lb facs="#facs_41_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_41_r1l2" n="N003"/><rs type="person" ref="#wkfm__484">Cleaß Anton</rs> burgerlicher Handlsmann
                <lb facs="#facs_41_r1l3" n="N004"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_41_r1l4" n="N005"/><rs type="person" ref="#wkfm__47213">Antonj Cleaß</rs> laut Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 179
+               <lb facs="#facs_41_r1l4" n="N005"/><rs type="org" ref="#wkfm__47213">Antonj Cleaß</rs> laut Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 179
                <lb facs="#facs_41_r1l5" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_41_r1l6" n="N007"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_41_r1l7" n="N008"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
@@ -87,10 +87,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47213">
-                     <orgName>Anton Cleas</orgName>
-                  <noteGrp><note target="wkfm-0361.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0361</note><note target="wkfm-0413.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0413</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__484">
+    <back><listPerson><person xml:id="wkfm__484">
                      <persName>
                         <forename>Anton</forename>
                         <surname>Cleas</surname>
@@ -125,5 +122,8 @@
                         <bibl>Raynaud, Einwanderungen, 151.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0361.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0361</note><note target="wkfm-0362.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0362</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47213">
+                     <orgName>Anton Cleas</orgName>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__484">Cleas, Anton</persName></person></listPerson><noteGrp><note target="wkfm-0361.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0361</note><note target="wkfm-0413.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0413</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

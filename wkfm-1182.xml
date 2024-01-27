@@ -106,7 +106,7 @@
                <lb facs="#facs_82_r1l5" n="N005"/>der überlebende <hi>sich</hi> auch vor Verlauf dieser zeit <hi><unclear>er</unclear></hi> <hi>mit</hi> sich mit selben <unclear>einzuverstehen</unclear>
                <lb facs="#facs_82_r1l6" n="N006"/>schuldig, die Aufkündung 1 Jahr vor verschlüssung deren 6 gemacht und <hi>bey</hi> der Separa-
                <lb facs="#facs_82_r1l7" n="N007"/>tion die Einverständnus wegen beybehaltung des <hi>P</hi> <unclear>Posto</unclear> getroffen die Raggion
-               <lb facs="#facs_82_r1l8" n="N008"/><rs type="person" ref="#wkfm__46849">Lang und Solderer</rs> unter beeder Firmirung laufen, jedweder 4000 fl einlegen
+               <lb facs="#facs_82_r1l8" n="N008"/><rs type="org" ref="#wkfm__46849">Lang und Solderer</rs> unter beeder Firmirung laufen, jedweder 4000 fl einlegen
                <lb facs="#facs_82_r1l9" n="N009"/>gewüne und Verlust zu gleichen theilen seyen, über die gemeinsame Haushaltung jedoch 
                <lb facs="#facs_82_r1l10" n="N010"/>annoch jährl: 300 fl herauszunehmen befugt, bey zertheilung der Haushaltung aber eine
                <lb facs="#facs_82_r1l11" n="N011"/>neue dißfällige Einverständnus getroffen, der <rs type="person" ref="#wkfm__46850">Solderer</rs> die Buchhaltung Correspon-
@@ -133,17 +133,12 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46850">
+    <back><listPerson><person xml:id="wkfm__46851">
                      <persName>
-                        <forename>Johann Paul</forename>
-                        <forename type="alt">Paul</forename>
-                        <surname>Solderer</surname>
+                        <forename>Theresia</forename>
+                        <surname>Gartnerin</surname>
+                        <surname type="alt">Garttnerin</surname>
                      </persName>
-                     <death><date>1758</date></death>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Tuchhändler</occupation>
                <noteGrp><note target="wkfm-1182.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1182</note></noteGrp></person>
                 <person xml:id="wkfm__46785">
                      <persName>
@@ -162,12 +157,17 @@
                      <occupation>Tuchhändler</occupation>
                      <occupation type="kaufmannsklasse">tuchlaubensverwandt/bürgerlich</occupation>
                <noteGrp><note target="wkfm-1110.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1110</note><note target="wkfm-1181.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1181</note><note target="wkfm-1182.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1182</note><note target="wkfm-1286.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1286</note></noteGrp></person>
-                <person xml:id="wkfm__46851">
+                <person xml:id="wkfm__46850">
                      <persName>
-                        <forename>Theresia</forename>
-                        <surname>Gartnerin</surname>
-                        <surname type="alt">Garttnerin</surname>
+                        <forename>Johann Paul</forename>
+                        <forename type="alt">Paul</forename>
+                        <surname>Solderer</surname>
                      </persName>
+                     <death><date>1758</date></death>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Tuchhändler</occupation>
                <noteGrp><note target="wkfm-1182.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1182</note></noteGrp></person>
                 </listPerson><listOrg><org xml:id="wkfm__46849">
                      <orgName>Lang und Solderer</orgName>

@@ -96,9 +96,9 @@
                <lb facs="#facs_4_r1l3" n="N003"/>erklähret, daß er sein Negotium als sein Eigenthum allein führe.
                <lb facs="#facs_4_r1l4" n="N004"/>In obigen Anbringen de ps: 24<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 740 N<hi style="superscript">o</hi> 1972 hat des <rs type="person" ref="#wkfm__46393">Stephan von Haydern <choice><expan/><abbr>seel:</abbr></choice>
                <lb break="no" facs="#facs_4_r1l5" n="N005"/>Wittib Anna Susanna</rs> und Sohn <rs type="person" ref="#wkfm__46394">Leopold v. Haydern</rs> angezeigete, daß sie die
-               <lb facs="#facs_4_r1l6" n="N006"/><rs type="person" ref="#wkfm__46390">Stephan Hayderische Handlung</rs> in societate continuiren werden, wessenthalber sie
+               <lb facs="#facs_4_r1l6" n="N006"/><rs type="org" ref="#wkfm__46390">Stephan Hayderische Handlung</rs> in societate continuiren werden, wessenthalber sie
                <lb facs="#facs_4_r1l7" n="N007"/>untern 1<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 739 einen societaets contract geschlossen, und in selben stipulirert haben
-               <lb facs="#facs_4_r1l8" n="N008"/>das jeder von ihnen die Firman haben, und die Raggion <rs type="person" ref="#wkfm__46391">Stephan von Hayder <choice><expan/><abbr>seel:</abbr></choice>
+               <lb facs="#facs_4_r1l8" n="N008"/>das jeder von ihnen die Firman haben, und die Raggion <rs type="org" ref="#wkfm__46391">Stephan von Hayder <choice><expan/><abbr>seel:</abbr></choice>
                <lb break="no" facs="#facs_4_r1l9" n="N009"/>Wittib und Sohn</rs> laufen solle.
                <lb facs="#facs_4_r1l10" n="N010"/>Mitls obigen Anbringen de ps: 27<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 741 N<hi style="superscript">o</hi> 1973 hat die <hi>Anna Ha</hi> <rs type="person" ref="#wkfm__46393">Anna Susanna von Haydern</rs>
                <lb facs="#facs_4_r1l11" n="N011"/>angezeiget, daß ihr Sohn <rs type="person" ref="#wkfm__46394">Leopold von Haydern</rs> verstorben und sie entschlossen seye, ihren
@@ -110,7 +110,7 @@
                <lb facs="#facs_4_r1l19" n="N017"/>die Handlung an jemanden andern übertragen können sondern er <rs type="person" ref="#wkfm__46170">Hammer</rs> allezeit den Vorzug um den Kosten habe
                <lb facs="#facs_4_r1l21" n="N018"/>der Handlungs <hi>gewün</hi> spesen, gewün und verlust <hi>sollen gleiche</hi> jedwedern theil zur helfte zukommen, das dermahlige
                <lb facs="#facs_4_r1l22" n="N019"/>Waarenlager aber der <rs type="person" ref="#wkfm__46393">Hayderin</rs> eigenthum verbleiben, <unclear>aber</unclear> über die von dem  <rs type="person" ref="#wkfm__46170">Hammer</rs> eingelegte 7000 fl sollen der
-               <lb facs="#facs_4_r1l24" n="N020"/><rs type="person" ref="#wkfm__46393">Hayderin</rs> allein des Hamer handlungs Creditoren hafften, die Raggion <hi><unclear>solle ey</unclear></hi> <rs type="person" ref="#wkfm__46392">Stephan <seg type="editorial_comment_seg">Hammer<note type="editorial_comment_note">Wahrscheinlich falsch\u003a Stattdessen Hayder</note></seg> <choice><expan/><abbr>seel:</abbr></choice> Wittib und Hammer</rs> <seg type="editorial_comment_seg"><hi>0</hi><note type="editorial_comment_note">Fortsetzung unten unter Anmerckungen</note></seg>
+               <lb facs="#facs_4_r1l24" n="N020"/><rs type="person" ref="#wkfm__46393">Hayderin</rs> allein des Hamer handlungs Creditoren hafften, die Raggion <hi><unclear>solle ey</unclear></hi> <rs type="org" ref="#wkfm__46392">Stephan <seg type="editorial_comment_seg">Hammer<note type="editorial_comment_note">Wahrscheinlich falsch\u003a Stattdessen Hayder</note></seg> <choice><expan/><abbr>seel:</abbr></choice> Wittib und Hammer</rs> <seg type="editorial_comment_seg"><hi>0</hi><note type="editorial_comment_note">Fortsetzung unten unter Anmerckungen</note></seg>
                <lb facs="#facs_4_r1l25" n="N021"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
             </ab>
             
@@ -138,6 +138,27 @@
                         <bibl>Huchler, Bürgeraufnahmen, 400.</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0471.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0471</note><note target="wkfm-0923.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0923</note><note target="wkfm-0924.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0924</note><note target="wkfm-1027.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1027</note><note target="wkfm-1028.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1028</note><note target="wkfm-1181.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1181</note></noteGrp></person>
+                <person xml:id="wkfm__46394">
+                     <persName>
+                        <forename>Leopold</forename>
+                        <surname>von Haydern</surname>
+                     </persName>
+                     <death><date>1741/42</date></death>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Tuchhändler</occupation>
+                     <occupation type="kaufmannsklasse">tuchlaubensverwandt/bürgerlich</occupation>
+                     <listBibl>
+                        <bibl>Huchler, Bürgeraufnahmen, 404 (&amp;#34;Haydern&amp;#34;).</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0923.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0923</note><note target="wkfm-0924.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0924</note></noteGrp></person>
                 <person xml:id="wkfm__46393">
                      <persName>
                         <forename>Anna Susanna</forename>
@@ -174,35 +195,14 @@
                      <occupation>Tuchhändler</occupation>
                      <occupation type="kaufmannsklasse">tuchlaubensverwandt/bürgerlich</occupation>
                <noteGrp><note target="wkfm-0923.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0923</note><note target="wkfm-0924.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0924</note></noteGrp></person>
-                <person xml:id="wkfm__46394">
-                     <persName>
-                        <forename>Leopold</forename>
-                        <surname>von Haydern</surname>
-                     </persName>
-                     <death><date>1741/42</date></death>
-                     <residence type="Bürgerrecht">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Tuchhändler</occupation>
-                     <occupation type="kaufmannsklasse">tuchlaubensverwandt/bürgerlich</occupation>
-                     <listBibl>
-                        <bibl>Huchler, Bürgeraufnahmen, 404 (&amp;#34;Haydern&amp;#34;).</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-0923.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0923</note><note target="wkfm-0924.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0924</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46390">
-                     <orgName>Stephan Joseph Haider</orgName>
-                  <noteGrp><note target="wkfm-0923.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0923</note><note target="wkfm-0924.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0924</note></noteGrp></org>
-                <org xml:id="wkfm__46392">
+                </listPerson><listOrg><org xml:id="wkfm__46392">
                      <orgName>Stephan von Haydern sel. Witwe und Hammer</orgName>
                   <noteGrp><note target="wkfm-0923.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0923</note><note target="wkfm-0924.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0924</note><note target="wkfm-1027.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1027</note><note target="wkfm-1028.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1028</note></noteGrp></org>
                 <org xml:id="wkfm__46391">
                      <orgName>Stephan von Haydern sel. Witwe und Sohn</orgName>
+                  <noteGrp><note target="wkfm-0923.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0923</note><note target="wkfm-0924.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0924</note></noteGrp></org>
+                <org xml:id="wkfm__46390">
+                     <orgName>Stephan Joseph Haider</orgName>
                   <noteGrp><note target="wkfm-0923.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0923</note><note target="wkfm-0924.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0924</note></noteGrp></org>
                 </listOrg></back></text>
 </TEI>

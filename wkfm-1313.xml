@@ -82,9 +82,9 @@
                <lb facs="#facs_21_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_21_r1l3" n="N003"/>Neuhaußer Matthias burgerlicher Handlsmann
                <lb facs="#facs_21_r1l4" n="N004"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_21_r1l5" n="N005"/><rs type="person" ref="#wkfm__46662">Matthias Neuhaußer</rs> laut Erklährung dd<hi style="superscript">to</hi> 10<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 733 N<hi style="superscript">o</hi> 606
-               <lb facs="#facs_21_r1l6" n="N006"/><rs type="person" ref="#wkfm__46663">Mathias Neuhauser <choice><expan/><abbr>seel:</abbr></choice> Wittib</rs>
-               <lb facs="#facs_21_r1l7" n="N007"/><rs type="person" ref="#wkfm__46666">Mathias Neuhauser <choice><expan/><abbr>seel:</abbr></choice> Wittib und Sohn</rs>
+               <lb facs="#facs_21_r1l5" n="N005"/><rs type="org" ref="#wkfm__46662">Matthias Neuhaußer</rs> laut Erklährung dd<hi style="superscript">to</hi> 10<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 733 N<hi style="superscript">o</hi> 606
+               <lb facs="#facs_21_r1l6" n="N006"/><rs type="org" ref="#wkfm__46663">Mathias Neuhauser <choice><expan/><abbr>seel:</abbr></choice> Wittib</rs>
+               <lb facs="#facs_21_r1l7" n="N007"/><rs type="org" ref="#wkfm__46666">Mathias Neuhauser <choice><expan/><abbr>seel:</abbr></choice> Wittib und Sohn</rs>
                <lb facs="#facs_21_r1l8" n="N008"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_21_line_1625040902901_967" n="N009"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_21_r1l9" n="N010"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
@@ -92,14 +92,14 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46662">
-                     <orgName>Matthias Neuhauser</orgName>
+    <back><listOrg><org xml:id="wkfm__46663">
+                     <orgName>Matthias Neuhauser sel. Witwe</orgName>
                   <noteGrp><note target="wkfm-1313.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1313</note></noteGrp></org>
                 <org xml:id="wkfm__46666">
                      <orgName>Matthias Neuhauser sel. Wite und Sohn</orgName>
                   <noteGrp><note target="wkfm-1313.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1313</note></noteGrp></org>
-                <org xml:id="wkfm__46663">
-                     <orgName>Matthias Neuhauser sel. Witwe</orgName>
+                <org xml:id="wkfm__46662">
+                     <orgName>Matthias Neuhauser</orgName>
                   <noteGrp><note target="wkfm-1313.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1313</note></noteGrp></org>
                 </listOrg></back></text>
 </TEI>

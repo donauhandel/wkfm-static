@@ -82,8 +82,8 @@
                <lb facs="#facs_73_r2l1" n="N003"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_73_r2l3" n="N004"/><rs type="person" ref="#wkfm__30269">Fünffer Franz Joseph</rs> burgerlicher <hi>Handlsmann</hi> <choice><expan/><abbr>Tuchlaubensverwan.</abbr></choice>
                <lb facs="#facs_73_r2l4" n="N005"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_73_r2l5" n="N006"/><rs type="person" ref="#wkfm__8264">Fünffer, und <hi>Pränk</hi> Pränckhl</rs> laut Anbringen de ps: 27<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 732 N<hi style="superscript">o</hi> 1935
-               <lb facs="#facs_73_r2l6" n="N007"/><rs type="person" ref="#wkfm__47105">Franz Joseph Fünffer</rs> laut Anbringen de ps: 4<hi style="superscript">ten</hi> Junii 736 1939
+               <lb facs="#facs_73_r2l5" n="N006"/><rs type="org" ref="#wkfm__8264">Fünffer, und <hi>Pränk</hi> Pränckhl</rs> laut Anbringen de ps: 27<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 732 N<hi style="superscript">o</hi> 1935
+               <lb facs="#facs_73_r2l6" n="N007"/><rs type="org" ref="#wkfm__47105">Franz Joseph Fünffer</rs> laut Anbringen de ps: 4<hi style="superscript">ten</hi> Junii 736 1939
                <lb facs="#facs_73_r2l7" n="N008"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_73_r2l8" n="N009"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_73_r2l9" n="N010"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
@@ -91,7 +91,13 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__30269">
+    <back><listOrg><org xml:id="wkfm__47105">
+                     <orgName>Franz Joseph Fünfer</orgName>
+                  <noteGrp><note target="wkfm-0741.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0741</note></noteGrp></org>
+                <org xml:id="wkfm__8264">
+                     <orgName>Fünfer und Pränkl</orgName>
+                  <noteGrp><note target="wkfm-0741.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0741</note><note target="wkfm-0742.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0742</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__30269">
                      <persName>
                         <forename>Franz Joseph</forename>
                         <surname>Fünfer</surname>
@@ -112,11 +118,5 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 382 (Mai 1728).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0741.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0741</note><note target="wkfm-0742.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0742</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__8264">
-                     <orgName>Fünfer und Pränkl</orgName>
-                  <noteGrp><note target="wkfm-0741.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0741</note><note target="wkfm-0742.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0742</note></noteGrp></org>
-                <org xml:id="wkfm__47105">
-                     <orgName>Franz Joseph Fünfer</orgName>
-                  <noteGrp><note target="wkfm-0741.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0741</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

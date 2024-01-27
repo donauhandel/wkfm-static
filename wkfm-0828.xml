@@ -89,9 +89,9 @@
                <lb facs="#facs_16_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_16_r1l2" n="N002"/>In obigen Anbringen de ps: 21<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 980 haben die <rs type="person" ref="#wkfm__16221">Gundianischen
                <lb break="no" facs="#facs_16_r1l3" n="N003"/>Erben</rs> sich erklähret, daß sie ihr Negotium unter ihnen 7 Erben annoch 
-               <lb facs="#facs_16_r1l4" n="N004"/>gemeinschafftlich unter der Raggion<rs type="person" ref="#wkfm__8105"> Philipp Gundian <choice><expan/><abbr>Seel:</abbr></choice> Erben</rs> in <unclear>Con-</unclear>
+               <lb facs="#facs_16_r1l4" n="N004"/>gemeinschafftlich unter der Raggion<rs type="org" ref="#wkfm__8105"> Philipp Gundian <choice><expan/><abbr>Seel:</abbr></choice> Erben</rs> in <unclear>Con-</unclear>
                <lb facs="#facs_16_r1l5" n="N005"/>formitate der Anzeige von <choice><expan/><abbr>Ao</abbr></choice> 718 führen.
-               <lb facs="#facs_16_r1l6" n="N006"/>Der <rs type="person" ref="#wkfm__46306">Gottlieb Schönthann</rs> hat ein von denen <hi>zur</hi> <rs type="person" ref="#wkfm__8105">Philipp Gundian <choice><expan/><abbr>seel:</abbr></choice> Erben</rs> untern 9<hi style="superscript">ten</hi> Julii
+               <lb facs="#facs_16_r1l6" n="N006"/>Der <rs type="person" ref="#wkfm__46306">Gottlieb Schönthann</rs> hat ein von denen <hi>zur</hi> <rs type="org" ref="#wkfm__8105">Philipp Gundian <choice><expan/><abbr>seel:</abbr></choice> Erben</rs> untern 9<hi style="superscript">ten</hi> Julii
                <lb facs="#facs_16_r1l7" n="N007"/>736 N<hi style="superscript">o</hi> 1710 dahin ausgesteltes Instrument, daß er <rs type="person" ref="#wkfm__46306">Schönthann</rs> in ihrer handlung um den 7<hi style="superscript">ten</hi> theil
                <lb facs="#facs_16_r1l8" n="N008"/>utile e danno interessiret seye <hi>seye</hi> wie auch den mit dem <rs type="person" ref="#wkfm__42309">Joseph Franz Gundian</rs> untern
                <lb facs="#facs_16_r1l9" n="N009"/>1<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 730 abgeschlossenen Contract N<hi style="superscript">o</hi> 2050 in Copia vidimata eingeleget, kraft welchen ihm
@@ -119,6 +119,12 @@
                      <occupation>Handelsmann, Direktor der Firma Philipp Gundian sel. Erben</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0828.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0828</note></noteGrp></person>
+                <person xml:id="wkfm__16221">
+                     <persName>
+                        <forename>None</forename>
+                        <surname>None</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0827.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0827</note><note target="wkfm-0828.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0828</note></noteGrp></person>
                 <person xml:id="wkfm__42309">
                      <persName>
                         <forename>Joseph Franz</forename>
@@ -133,14 +139,8 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 397.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0827.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0827</note><note target="wkfm-0828.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0828</note><note target="wkfm-1624.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1624</note></noteGrp></person>
-                <person xml:id="wkfm__16221">
-                     <persName>
-                        <forename>None</forename>
-                        <surname>None</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-0827.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0827</note><note target="wkfm-0828.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0828</note></noteGrp></person>
                 </listPerson><listOrg><org xml:id="wkfm__8105">
                      <orgName>Philipp Gundian sel. Erben</orgName>
-                  <noteGrp><note target="wkfm-0827.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0827</note><note target="wkfm-0828.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0828</note><note target="wkfm-1623.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1623</note><note target="wkfm-1624.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1624</note></noteGrp></org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__47519">Schönthann, Johann Gottlieb</persName></person></listPerson><noteGrp><note target="wkfm-0827.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0827</note><note target="wkfm-0828.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0828</note><note target="wkfm-1623.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1623</note><note target="wkfm-1624.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1624</note></noteGrp></org>
                 </listOrg></back></text>
 </TEI>

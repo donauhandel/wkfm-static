@@ -82,8 +82,8 @@
                <lb facs="#facs_143_r1l2" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_143_r1l3" n="N003"/><rs type="person" ref="#wkfm__4646">Peisser Joseph</rs> burgerlicher Handlsmann
                <lb facs="#facs_143_r1l4" n="N004"/><seg type="orighead__firma">Firma oder Raggion</seg>
-               <lb facs="#facs_143_r1l5" n="N005"/><rs type="person" ref="#wkfm__13208">Peisser et Rigotti</rs> laut anregung in dem Anbringen de ps: 21<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 732 N<hi style="superscript">o</hi> 1861
-               <lb facs="#facs_143_r1l6" n="N006"/><rs type="person" ref="#wkfm__47341">Joseph Peisser</rs> laut Anbringen de pr: 21<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 732 N<hi style="superscript">o</hi> 1861
+               <lb facs="#facs_143_r1l5" n="N005"/><rs type="org" ref="#wkfm__13208">Peisser et Rigotti</rs> laut anregung in dem Anbringen de ps: 21<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 732 N<hi style="superscript">o</hi> 1861
+               <lb facs="#facs_143_r1l6" n="N006"/><rs type="org" ref="#wkfm__47341">Joseph Peisser</rs> laut Anbringen de pr: 21<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 732 N<hi style="superscript">o</hi> 1861
                <lb facs="#facs_143_r1l7" n="N007"/>und de ps: 8<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 734 N<hi style="superscript">o</hi> 96.
                <lb facs="#facs_143_r1l8" n="N008"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_143_r1l9" n="N009"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
@@ -92,12 +92,12 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47341">
+    <back><listOrg><org xml:id="wkfm__13208">
+                     <orgName>Peisser und Rigotti</orgName>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__4646">Peisser, Joseph</persName></person><person><persName key="#wkfm__5636">Rigotti, Hieronymus</persName></person></listPerson><noteGrp><note target="wkfm-0196.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0196</note><note target="wkfm-1405.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1405</note><note target="wkfm-1406.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1406</note></noteGrp></org>
+                <org xml:id="wkfm__47341">
                      <orgName>Joseph Peisser</orgName>
                   <noteGrp><note target="wkfm-0196.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0196</note><note target="wkfm-1645.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1645</note></noteGrp></org>
-                <org xml:id="wkfm__13208">
-                     <orgName>Peisser und Rigotti</orgName>
-                  <noteGrp><note target="wkfm-0196.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0196</note><note target="wkfm-1405.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1405</note><note target="wkfm-1406.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1406</note></noteGrp></org>
                 </listOrg><listPerson><person xml:id="wkfm__4646" sameAs="#wkfm__28419 ">
                      <persName>
                         <forename>Joseph</forename>

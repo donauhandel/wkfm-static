@@ -89,7 +89,7 @@
                <lb facs="#facs_225_r2l1" n="N004"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_225_r2l4" n="N005"/><rs type="person" ref="#wkfm__47596">Stüffer Joseph Anton</rs> burgerlicher Handlsmann
                <lb facs="#facs_225_r2l5" n="N006"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_225_r2l6" n="N007"/><rs type="person" ref="#wkfm__47597">Joseph Antony Stüffer</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 768
+               <lb facs="#facs_225_r2l6" n="N007"/><rs type="org" ref="#wkfm__47597">Joseph Antony Stüffer</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 768
                <lb facs="#facs_225_r2l7" n="N008"/>welche derselbe mitls Anbringen de ps: 22<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 753 N<hi style="superscript">o</hi> 769 eingelegt
                <lb facs="#facs_225_r2l8" n="N009"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_225_r2l9" n="N010"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
@@ -102,24 +102,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47596">
-                     <persName>
-                        <forename>Joseph Anton</forename>
-                        <surname>Stüffer</surname>
-                     </persName>
-                     <residence type="Bürgerrecht">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-1683.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1683</note></noteGrp></person>
-                <person xml:id="wkfm__47448" sameAs="#wkfm__31918 ">
+    <back><listOrg><org xml:id="wkfm__47597">
+                     <orgName>Joseph Anton Stüffer</orgName>
+                  <noteGrp><note target="wkfm-1683.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1683</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__47448" sameAs="#wkfm__31918 ">
                      <persName>
                         <forename>Johann Georg</forename>
                         <surname>Stüffer</surname>
@@ -136,8 +122,22 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1535.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1535</note><note target="wkfm-1536.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1536</note><note target="wkfm-1683.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1683</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__47597">
-                     <orgName>Joseph Anton Stüffer</orgName>
-                  <noteGrp><note target="wkfm-1683.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1683</note></noteGrp></org>
-                </listOrg></back></text>
+                <person xml:id="wkfm__47596">
+                     <persName>
+                        <forename>Joseph Anton</forename>
+                        <surname>Stüffer</surname>
+                     </persName>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-1683.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1683</note></noteGrp></person>
+                </listPerson></back></text>
 </TEI>

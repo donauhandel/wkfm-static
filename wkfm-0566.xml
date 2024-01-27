@@ -95,15 +95,15 @@
                <lb facs="#facs_66_r1l5" n="N004"/>gemacht, das nachdem des <rs type="person" ref="#wkfm__46243">Johann Andre v. Mayern</rs> Negotium durch dessen Tod geendiget
                <lb facs="#facs_66_r1l6" n="N005"/>dessen Tochter und Erbin Fr <rs type="person" ref="#wkfm__46242">Renata v. Palm</rs> in Folge der vätterlichen disposition ihnen das Ne-
                <lb facs="#facs_66_r1l7" n="N006"/>gotium zu ihrer disposition übergeben habe, und sie solches mit selbsteignen und gedachter
-               <lb facs="#facs_66_r1l8" n="N007"/><rs type="person" ref="#wkfm__46242">v. Palm</rs> Capitalien unter der Raggion <rs type="person" ref="#wkfm__10900">Dohm und Ely</rs> zu prosequiren gesinnet seyen.
+               <lb facs="#facs_66_r1l8" n="N007"/><rs type="person" ref="#wkfm__46242">v. Palm</rs> Capitalien unter der Raggion <rs type="org" ref="#wkfm__10900">Dohm und Ely</rs> zu prosequiren gesinnet seyen.
                <lb facs="#facs_66_r1l9" n="N008"/>In obigen Anbringen de ps: 8<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 751 N<hi style="superscript">o</hi> 1927 und oblatorien dd<hi style="superscript">to</hi> 1<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 751 N<hi style="superscript">o</hi> 1117 hat
                <lb facs="#facs_66_r1l10" n="N009"/>der <rs type="person" ref="#wkfm__46239">Hermann Fridrich v. Dohm zu <hi>Dohm</hi> Dohmkirchen</rs> angezeiget und kund gemacht
-               <lb facs="#facs_66_r1l11" n="N010"/>daß das Negotium unter der Raggion <rs type="person" ref="#wkfm__10900">Dohm und Ely</rs> finiret seye, er <rs type="person" ref="#wkfm__46239">v. Dohm</rs> dem <rs type="person" ref="#wkfm__22683">Ely</rs>
+               <lb facs="#facs_66_r1l11" n="N010"/>daß das Negotium unter der Raggion <rs type="org" ref="#wkfm__10900">Dohm und Ely</rs> finiret seye, er <rs type="person" ref="#wkfm__46239">v. Dohm</rs> dem <rs type="person" ref="#wkfm__22683">Ely</rs>
                <lb facs="#facs_66_r1l12" n="N011"/>hinausbezahlet und das negotium cum onere et commodo auf sich allein genohmen habe,
                <lb facs="#facs_66_r1l13" n="N012"/>anbey gesinnet seye, solches mit seinem alleinigen obligo auf vorigen fuß zu con-
                <lb facs="#facs_66_r1l14" n="N013"/>tinuiren <hi>seinen b jüngeren brudern aber</hi> weil er aber ohne Kinder seye, seinen jüngern
                <lb facs="#facs_66_r1l15" n="N014"/>Brudern <rs type="person" ref="#wkfm__46241">Johann Ludolph von Dohm zu <hi>Dohmk</hi> Dohmkirchen</rs> zu associren und die Raggion
-               <lb facs="#facs_66_r1l16" n="N015"/><rs type="person" ref="#wkfm__46240">Gebrüder von Dohm</rs> laufen zu lassen
+               <lb facs="#facs_66_r1l16" n="N015"/><rs type="org" ref="#wkfm__46240">Gebrüder von Dohm</rs> laufen zu lassen
                <lb facs="#facs_66_r1l17" n="N016"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_66_r1l18" n="N017"/><seg type="orighead__other_notes">Anmerckungen</seg>
                <lb facs="#facs_66_r1l19" n="N018"/>Vermög Anbringen de ps: 3<hi style="superscript">ten</hi> Jenner 763 hat der Hermann Friderich
@@ -124,17 +124,6 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                <noteGrp><note target="wkfm-0565.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0565</note><note target="wkfm-0566.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0566</note><note target="wkfm-1185.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1185</note><note target="wkfm-1186.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1186</note></noteGrp></person>
-                <person xml:id="wkfm__22683">
-                     <persName>
-                        <forename>Johann Georg</forename>
-                        <surname>Ely</surname>
-                     </persName>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-               <noteGrp><note target="wkfm-0565.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0565</note><note target="wkfm-0566.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0566</note></noteGrp></person>
                 <person xml:id="wkfm__46242">
                      <persName>
                         <forename>Renata</forename>
@@ -158,6 +147,17 @@
                      <occupation>Handelsmann, Wechsler</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                      <occupation type="aemter">Kommerzienrat</occupation>
+               <noteGrp><note target="wkfm-0565.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0565</note><note target="wkfm-0566.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0566</note></noteGrp></person>
+                <person xml:id="wkfm__22683">
+                     <persName>
+                        <forename>Johann Georg</forename>
+                        <surname>Ely</surname>
+                     </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                <noteGrp><note target="wkfm-0565.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0565</note><note target="wkfm-0566.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0566</note></noteGrp></person>
                 <person xml:id="wkfm__46241">
                      <persName>

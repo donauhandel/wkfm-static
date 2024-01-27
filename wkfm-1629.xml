@@ -93,7 +93,7 @@
                <lb facs="#facs_171_r1l1" n="N004"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_171_r1l2" n="N005"/><rs type="person" ref="#wkfm__47529">Stäninger Johann Joseph</rs> burgerlicher Handlsmann
                <lb facs="#facs_171_r1l3" n="N006"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_171_r1l4" n="N007"/><rs type="person" ref="#wkfm__47530">Johann Joseph Stäninger</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 745
+               <lb facs="#facs_171_r1l4" n="N007"/><rs type="org" ref="#wkfm__47530">Johann Joseph Stäninger</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 745
                <lb facs="#facs_171_r1l5" n="N008"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_171_r1l6" n="N009"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_171_r1l7" n="N010"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
@@ -109,10 +109,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47530">
-                     <orgName>Johann Joseph Stäninger</orgName>
-                  <noteGrp><note target="wkfm-1629.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1629</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__47531">
+    <back><listPerson><person xml:id="wkfm__47531">
                      <persName>
                         <forename>Maria Magdalena</forename>
                         <surname>Stäninger</surname>
@@ -137,5 +134,8 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1629.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1629</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47530">
+                     <orgName>Johann Joseph Stäninger</orgName>
+                  <noteGrp><note target="wkfm-1629.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1629</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

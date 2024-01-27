@@ -85,11 +85,11 @@
                <lb facs="#facs_30_r1l2" n="N002"/>In obigen Anbringen de ps: 8<hi style="superscript">ten</hi> May 725 N<hi style="superscript">o</hi> 1051 und <hi>Anbringen de ps:</hi> Er-
                <lb facs="#facs_30_r1l3" n="N003"/>klährung dd<hi style="superscript">to</hi> 26<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 1050 hat der <rs type="person" ref="#wkfm__46698">v. Rauner der Jüngere</rs> nebst
                <lb facs="#facs_30_line_1624023470611_75" n="N004"/>dem <rs type="person" ref="#wkfm__11940">Christian v. Münch</rs> angezeiget, daß sie das Negotium unter der societaet
-               <lb facs="#facs_30_r1l6" n="N005"/>Raggion <rs type="person" ref="#wkfm__8334">v. Rauner <choice><expan>der Jüngere (?)</expan><abbr>Ig<hi style="superscript">re</hi> </abbr></choice>und Münch</rs> mit <hi>be</hi> ihrer beeden interesse und
+               <lb facs="#facs_30_r1l6" n="N005"/>Raggion <rs type="org" ref="#wkfm__8334">v. Rauner <choice><expan>der Jüngere (?)</expan><abbr>Ig<hi style="superscript">re</hi> </abbr></choice>und Münch</rs> mit <hi>be</hi> ihrer beeden interesse und
                <lb facs="#facs_30_r1l7" n="N006"/>obligo <hi>unter</hi> führen.
                <lb facs="#facs_30_r1l8" n="N007"/>Mitls Anbringen de ps: 27<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 733 N<hi style="superscript">o</hi> 1999 hat der <rs type="person" ref="#wkfm__11940">Christian v.
                <lb break="no" facs="#facs_30_r1l9" n="N008"/>Münch</rs> angezeiget, daß durch den Todfall des <rs type="person" ref="#wkfm__46698">v. Rauner des jüngeren</rs>
-               <lb facs="#facs_30_r1l10" n="N009"/>die raggion <rs type="person" ref="#wkfm__8334">von Rauner Jg<hi style="superscript">re</hi> und Münch</rs> geendiget worden, und er <rs type="person" ref="#wkfm__11940">v.
+               <lb facs="#facs_30_r1l10" n="N009"/>die raggion <rs type="org" ref="#wkfm__8334">von Rauner Jg<hi style="superscript">re</hi> und Münch</rs> geendiget worden, und er <rs type="person" ref="#wkfm__11940">v.
                <lb break="no" facs="#facs_30_r1l11" n="N010"/>Münch</rs> gesinnet seye, daß negotium unter seinem alleinigen Nahmen
                <lb facs="#facs_30_r1l12" n="N011"/>interesse und obligo zu führen.
                <lb facs="#facs_30_r1l13" n="N012"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
@@ -98,7 +98,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__11940" sameAs="#wkfm__25749 ">
+    <back><listOrg><org xml:id="wkfm__8334">
+                     <orgName>Rauner und Münch</orgName>
+                  <noteGrp><note target="wkfm-1237.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1237</note><note target="wkfm-1238.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1238</note><note target="wkfm-1381.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1381</note><note target="wkfm-1382.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1382</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__11940" sameAs="#wkfm__25749 ">
                      <persName>
                         <forename>Christian</forename>
                         <surname>Münch</surname>
@@ -138,8 +141,5 @@
                         <bibl>&amp;lt;div&amp;gt;Seibold, Wirtschaftlicher Erfolg, Bd. 1, 268-282; &amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Haemmerle, Hochzeitsbücher, 257, Nr. 3499; 267, Nr. 3669&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;.&amp;lt;/div&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1238.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1238</note><note target="wkfm-1381.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1381</note><note target="wkfm-1382.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1382</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__8334">
-                     <orgName>Rauner und Münch</orgName>
-                  <noteGrp><note target="wkfm-1237.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1237</note><note target="wkfm-1238.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1238</note><note target="wkfm-1381.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1381</note><note target="wkfm-1382.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1382</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

@@ -80,7 +80,7 @@
                <lb facs="#facs_137_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_137_r1l3" n="N003"/><rs type="person" ref="#wkfm__10071">Silber Ignaz Matthias</rs> burgerlicher Handlsmann
                <lb facs="#facs_137_r1l6" n="N004"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_137_r1l7" n="N005"/><rs type="person" ref="#wkfm__47497">Ignatz Mathias Silber</rs> laut Erklährung dd<hi style="superscript">to</hi> 18<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 733 N<hi style="superscript">o</hi> 724
+               <lb facs="#facs_137_r1l7" n="N005"/><rs type="org" ref="#wkfm__47497">Ignatz Mathias Silber</rs> laut Erklährung dd<hi style="superscript">to</hi> 18<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 733 N<hi style="superscript">o</hi> 724
                <lb facs="#facs_137_r1l8" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_137_r1l9" n="N007"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_137_r1l10" n="N008"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
@@ -88,7 +88,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__10071">
+    <back><listOrg><org xml:id="wkfm__47497">
+                     <orgName>Ignaz Matthias Silber</orgName>
+                  <noteGrp><note target="wkfm-1595.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1595</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__10071">
                      <persName>
                         <forename>Ignaz Matthias</forename>
                         <surname>Silber</surname>
@@ -114,8 +117,5 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 531 (&amp;#34;Ignaz&amp;#34;).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1595.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1595</note><note target="wkfm-1596.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1596</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__47497">
-                     <orgName>Ignaz Matthias Silber</orgName>
-                  <noteGrp><note target="wkfm-1595.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1595</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

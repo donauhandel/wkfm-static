@@ -95,7 +95,7 @@
                <lb facs="#facs_167_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_167_r1l2" n="N003"/><rs type="person" ref="#wkfm__46180">Kritsch Franz</rs> burgerlicher Handlsmann
                <lb facs="#facs_167_r1l3" n="N004"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_167_r1l4" n="N005"/><rs type="person" ref="#wkfm__47266">Frantz Kritsch</rs> laut Erklährung dd<hi style="superscript">to</hi> 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> 753 N<hi style="superscript">o</hi> 237
+               <lb facs="#facs_167_r1l4" n="N005"/><rs type="org" ref="#wkfm__47266">Frantz Kritsch</rs> laut Erklährung dd<hi style="superscript">to</hi> 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> 753 N<hi style="superscript">o</hi> 237
                <lb facs="#facs_167_r1l5" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_167_r1l6" n="N007"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_167_line_1621963689687_3558" n="N008"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
@@ -107,7 +107,7 @@
                <lb facs="#facs_167_line_1621963655952_3541" n="N014"/>an <choice><expan/><abbr>intee</abbr></choice> hievon durch 16 Jahr 1120 fl
                <lb facs="#facs_167_line_1621963650063_3535" n="N015"/>an erspahrten salario 600 fl
                <lb facs="#facs_167_r1l17" n="N016"/>zusamen Eigenthum 3120 fl
-               <lb facs="#facs_167_r1l19" n="N017"/>Zu Completirung des Ubrigen hat <rs type="person" ref="#wkfm__46152">Crettier Bouvard et Comp:</rs> <hi>daß <choice><expan/><abbr>orig:</abbr></choice></hi>
+               <lb facs="#facs_167_r1l19" n="N017"/>Zu Completirung des Ubrigen hat <rs type="org" ref="#wkfm__46152">Crettier Bouvard et Comp:</rs> <hi>daß <choice><expan/><abbr>orig:</abbr></choice></hi>
                <lb facs="#facs_167_line_1621963754552_3613" n="N018"/>das Cautions Instrument dd<hi style="superscript">to</hi> 3<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 751 eingelegte <choice><expan/><abbr>pr</abbr></choice> 4880 fl
                <lb facs="#facs_167_r1l23" n="N019"/><choice><expan/><abbr>Sa</abbr></choice> 8000 fl
                <lb facs="#facs_167_line_1621964106009_3724" n="N020"/>Über die von dem <rs type="person" ref="#wkfm__46180">Kritsch</rs> eingelegte Billanz <choice><expan/><abbr>pr</abbr></choice> 11540 fl 15 <unclear>Creuzer N<hi style="superscript">o</hi> 1350</unclear> und hierüber laut For-

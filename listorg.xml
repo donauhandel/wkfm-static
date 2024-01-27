@@ -123,7 +123,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   <noteGrp><note target="wkfm-0581.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0581</note><note target="wkfm-0582.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0582</note><note target="wkfm-1015.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1015</note><note target="wkfm-1016.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1016</note></noteGrp></org>
                 <org xml:id="wkfm__8105">
                      <orgName>Philipp Gundian sel. Erben</orgName>
-                  <noteGrp><note target="wkfm-0827.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0827</note><note target="wkfm-0828.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0828</note><note target="wkfm-1623.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1623</note><note target="wkfm-1624.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1624</note></noteGrp></org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__47519">Schönthann, Johann Gottlieb</persName></person></listPerson><noteGrp><note target="wkfm-0827.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0827</note><note target="wkfm-0828.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0828</note><note target="wkfm-1623.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1623</note><note target="wkfm-1624.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1624</note></noteGrp></org>
                 <org xml:id="wkfm__8148">
                      <orgName>Rad und Hößlin</orgName>
                   <noteGrp><note target="wkfm-1023.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1023</note><note target="wkfm-1024.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1024</note><note target="wkfm-1355.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1355</note><note target="wkfm-1356.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1356</note></noteGrp></org>
@@ -267,7 +267,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   </org>
                 <org xml:id="wkfm__13208">
                      <orgName>Peisser und Rigotti</orgName>
-                  <noteGrp><note target="wkfm-0196.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0196</note><note target="wkfm-1405.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1405</note><note target="wkfm-1406.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1406</note></noteGrp></org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__4646">Peisser, Joseph</persName></person><person><persName key="#wkfm__5636">Rigotti, Hieronymus</persName></person></listPerson><noteGrp><note target="wkfm-0196.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0196</note><note target="wkfm-1405.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1405</note><note target="wkfm-1406.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1406</note></noteGrp></org>
                 <org xml:id="wkfm__13303">
                      <orgName>Paul Schedlberger sel. Erben</orgName>
                   </org>
@@ -330,7 +330,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   <noteGrp><note target="wkfm-0237.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0237</note></noteGrp></org>
                 <org xml:id="wkfm__17119">
                      <orgName>Gebrüder Orset</orgName>
-                  <noteGrp><note target="wkfm-1331.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1331</note><note target="wkfm-1332.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1332</note><note target="wkfm-1333.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1333</note><note target="wkfm-1334.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1334</note></noteGrp></org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__43854">Orset, Niklas Michael</persName></person><person><persName key="#wkfm__15430">Orset, Johann</persName></person></listPerson><noteGrp><note target="wkfm-1331.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1331</note><note target="wkfm-1332.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1332</note><note target="wkfm-1333.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1333</note><note target="wkfm-1334.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1334</note></noteGrp></org>
                 <org xml:id="wkfm__17566">
                      <orgName>Martin und Raffeseder</orgName>
                   <noteGrp><note target="wkfm-1225.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1225</note><note target="wkfm-1226.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1226</note></noteGrp></org>
@@ -378,7 +378,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   <noteGrp><note target="wkfm-0040.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0040</note><note target="wkfm-1161.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1161</note><note target="wkfm-1162.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1162</note></noteGrp></org>
                 <org xml:id="wkfm__20610">
                      <orgName>Peter und Krazer</orgName>
-                  <noteGrp><note target="wkfm-0182.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0182</note><note target="wkfm-0183.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0183</note><note target="wkfm-0459.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0459</note><note target="wkfm-0460.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0460</note></noteGrp></org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__43895">Krazer, Michael Justus</persName></person></listPerson><noteGrp><note target="wkfm-0182.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0182</note><note target="wkfm-0183.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0183</note><note target="wkfm-0459.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0459</note><note target="wkfm-0460.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0460</note></noteGrp></org>
                 <org xml:id="wkfm__20612">
                      <orgName>Veit Müllnitsch sel. Erben</orgName>
                   </org>
@@ -390,7 +390,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   </org>
                 <org xml:id="wkfm__20968">
                      <orgName>Niklas Saliet &amp; Co.</orgName>
-                  <noteGrp><note target="wkfm-1475.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1475</note><note target="wkfm-1476.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1476</note></noteGrp></org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__13222">Saliet, Niklas Nikolaus</persName></person></listPerson><noteGrp><note target="wkfm-1475.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1475</note><note target="wkfm-1476.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1476</note></noteGrp></org>
                 <org xml:id="wkfm__21676">
                      <orgName>Bäumler und Lothes</orgName>
                   </org>
@@ -453,7 +453,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   </org>
                 <org xml:id="wkfm__25274">
                      <orgName>Höcksteiner und Hink</orgName>
-                  <noteGrp><note target="wkfm-0975.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0975</note><note target="wkfm-0976.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0976</note></noteGrp></org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__23505">Höcksteiner, Karl</persName></person></listPerson><noteGrp><note target="wkfm-0975.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0975</note><note target="wkfm-0976.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0976</note></noteGrp></org>
                 <org xml:id="wkfm__25501">
                      <orgName>Briffant &amp; Co.</orgName>
                   </org>
@@ -540,7 +540,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   <noteGrp><note target="wkfm-0069.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0069</note></noteGrp></org>
                 <org xml:id="wkfm__30445">
                      <orgName>Herculiano Amadei &amp; Co.</orgName>
-                  <noteGrp><note target="wkfm-0016.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0016</note><note target="wkfm-0017.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0017</note><note target="wkfm-1619.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1619</note><note target="wkfm-1620.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1620</note></noteGrp></org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__43783">Spätl, Melchior</persName></person><person><persName key="#wkfm__8591">Amadei, Herculiano Kilian</persName></person></listPerson><noteGrp><note target="wkfm-0016.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0016</note><note target="wkfm-0017.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0017</note><note target="wkfm-1619.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1619</note><note target="wkfm-1620.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1620</note></noteGrp></org>
                 <org xml:id="wkfm__30766">
                      <orgName>Vinzenz Joanelli und Benedikt Joanelli</orgName>
                   </org>
@@ -603,7 +603,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   </org>
                 <org xml:id="wkfm__37828">
                      <orgName>Egger und Babitsch</orgName>
-                  <noteGrp><note target="wkfm-0647.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0647</note><note target="wkfm-0648.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0648</note></noteGrp></org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__27912">Babitsch, Johann Ignaz</persName></person></listPerson><noteGrp><note target="wkfm-0647.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0647</note><note target="wkfm-0648.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0648</note></noteGrp></org>
                 <org xml:id="wkfm__37941">
                      <orgName>Segalla und Bingingini, Segalla e Bigongini</orgName>
                   </org>
@@ -681,7 +681,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   <noteGrp><note target="wkfm-0046.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0046</note></noteGrp></org>
                 <org xml:id="wkfm__42340">
                      <orgName>Beham und Hilleprand, Johann Beham und Martin Hilleprand</orgName>
-                  <noteGrp><note target="wkfm-1031.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1031</note><note target="wkfm-1032.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1032</note></noteGrp></org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__46532">Beham, Johann</persName></person></listPerson><noteGrp><note target="wkfm-1031.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1031</note><note target="wkfm-1032.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1032</note></noteGrp></org>
                 <org xml:id="wkfm__42526">
                      <orgName>Hilleprand und Isenflamm</orgName>
                   </org>
@@ -690,7 +690,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   </org>
                 <org xml:id="wkfm__43229">
                      <orgName>Johann Georg Grones &amp; Co.</orgName>
-                  <noteGrp><note target="wkfm-0875.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0875</note><note target="wkfm-0876.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0876</note></noteGrp></org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__5636">Rigotti, Hieronymus</persName></person></listPerson><noteGrp><note target="wkfm-0875.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0875</note><note target="wkfm-0876.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0876</note></noteGrp></org>
                 <org xml:id="wkfm__43410">
                      <orgName>Georg Hilleprand sel. Witwe</orgName>
                   </org>
@@ -732,16 +732,16 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   <noteGrp><note target="wkfm-0106.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0106</note><note target="wkfm-0107.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0107</note></noteGrp></org>
                 <org xml:id="wkfm__43850">
                      <orgName>Johann Jakob Pauminger sel. Witwe und Anton Oberleithner</orgName>
-                  <noteGrp><note target="wkfm-0112.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0112</note><note target="wkfm-0113.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0113</note></noteGrp></org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__43856">Oberleithner, Anton</persName></person></listPerson><noteGrp><note target="wkfm-0112.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0112</note><note target="wkfm-0113.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0113</note></noteGrp></org>
                 <org xml:id="wkfm__43867">
                      <orgName>Gervais Jenamy &amp; Sohn</orgName>
                   <noteGrp><note target="wkfm-1071.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1071</note></noteGrp></org>
                 <org xml:id="wkfm__43869">
                      <orgName>Jakob Ingruber &amp; Co.</orgName>
-                  <noteGrp><note target="wkfm-1077.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1077</note><note target="wkfm-1078.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1078</note><note target="wkfm-1579.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1579</note><note target="wkfm-1580.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1580</note></noteGrp></org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__43868">Ingruber, Jakob</persName></person></listPerson><noteGrp><note target="wkfm-1077.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1077</note><note target="wkfm-1078.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1078</note><note target="wkfm-1579.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1579</note><note target="wkfm-1580.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1580</note></noteGrp></org>
                 <org xml:id="wkfm__43885">
                      <orgName>Johann Franz Prager sel. Witwe und Kleinrath</orgName>
-                  <noteGrp><note target="wkfm-0154.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0154</note><note target="wkfm-0485.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0485</note></noteGrp></org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__43887">Kleinrath, Franz</persName></person></listPerson><noteGrp><note target="wkfm-0154.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0154</note><note target="wkfm-0485.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0485</note></noteGrp></org>
                 <org xml:id="wkfm__43903">
                      <orgName>Karl Joseph Stark &amp; Co.</orgName>
                   <noteGrp><note target="wkfm-0194.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0194</note><note target="wkfm-0195.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0195</note><note target="wkfm-1471.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1471</note><note target="wkfm-1472.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1472</note></noteGrp></org>
@@ -753,7 +753,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   <noteGrp><note target="wkfm-0235.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0235</note><note target="wkfm-0236.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0236</note><note target="wkfm-1049.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1049</note><note target="wkfm-1050.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1050</note><note target="wkfm-1255.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1255</note><note target="wkfm-1256.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1256</note></noteGrp></org>
                 <org xml:id="wkfm__43930">
                      <orgName>Franz Beda</orgName>
-                  <noteGrp><note target="wkfm-0275.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0275</note></noteGrp></org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__25660">Beda, Franz</persName></person></listPerson><noteGrp><note target="wkfm-0275.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0275</note></noteGrp></org>
                 <org xml:id="wkfm__43933">
                      <orgName>Franz Beda sel. Witwe</orgName>
                   <noteGrp><note target="wkfm-0276.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0276</note></noteGrp></org>
@@ -780,7 +780,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   <noteGrp><note target="wkfm-0299.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0299</note><note target="wkfm-1437.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1437</note><note target="wkfm-1438.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1438</note><note target="wkfm-1693.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1693</note></noteGrp></org>
                 <org xml:id="wkfm__44011">
                      <orgName>Karl Barbieri sel. Söhne und Erben, Barbieri sel. Söhne</orgName>
-                  <noteGrp><note target="wkfm-0305.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0305</note><note target="wkfm-0306.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0306</note><note target="wkfm-1685.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1685</note></noteGrp></org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__44012">Barbieri, Anton</persName></person><person><persName key="#wkfm__44015">Barbieri, Ignaz</persName></person></listPerson><noteGrp><note target="wkfm-0305.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0305</note><note target="wkfm-0306.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0306</note><note target="wkfm-1685.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1685</note></noteGrp></org>
                 <org xml:id="wkfm__44048">
                      <orgName>Zacharias Kriner, Schmidt &amp; Co.</orgName>
                   <noteGrp><note target="wkfm-0321.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0321</note><note target="wkfm-0322.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0322</note><note target="wkfm-1667.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1667</note><note target="wkfm-1668.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1668</note><note target="wkfm-1669.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1669</note><note target="wkfm-1670.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1670</note></noteGrp></org>
@@ -801,7 +801,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   <noteGrp><note target="wkfm-1721.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1721</note><note target="wkfm-1722.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1722</note><note target="wkfm-1723.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1723</note><note target="wkfm-1724.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1724</note></noteGrp></org>
                 <org xml:id="wkfm__44587">
                      <orgName>Joachim Negri &amp; Co., Gioacchino Negri &amp; Co.</orgName>
-                  <noteGrp><note target="wkfm-1315.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1315</note></noteGrp></org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__4528">Patuzzi, Bartholomäus</persName></person></listPerson><noteGrp><note target="wkfm-1315.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1315</note></noteGrp></org>
                 <org xml:id="wkfm__44785">
                      <orgName>Johann Christoph Haas &amp; Söhne</orgName>
                   <noteGrp><note target="wkfm-0953.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0953</note><note target="wkfm-0954.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0954</note></noteGrp></org>
@@ -828,7 +828,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   <noteGrp><note target="wkfm-0341.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0341</note><note target="wkfm-0342.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0342</note><note target="wkfm-0343.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0343</note><note target="wkfm-0344.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0344</note></noteGrp></org>
                 <org xml:id="wkfm__46114">
                      <orgName>Claudius Cheret &amp; Co.</orgName>
-                  <noteGrp><note target="wkfm-0385.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0385</note><note target="wkfm-0386.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0386</note></noteGrp></org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__8096">Cheret, Claudius</persName></person></listPerson><noteGrp><note target="wkfm-0385.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0385</note><note target="wkfm-0386.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0386</note></noteGrp></org>
                 <org xml:id="wkfm__46147">
                      <orgName>Peter Condray und Joseph Condray</orgName>
                   <noteGrp><note target="wkfm-0449.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0449</note><note target="wkfm-0450.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0450</note><note target="wkfm-0451.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0451</note><note target="wkfm-0452.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0452</note></noteGrp></org>
@@ -882,7 +882,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   <noteGrp><note target="wkfm-0523.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0523</note></noteGrp></org>
                 <org xml:id="wkfm__46209">
                      <orgName>Johann Jakob Damian</orgName>
-                  <noteGrp><note target="wkfm-0525.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0525</note></noteGrp></org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__8813">Damian, Johann Jakob</persName></person></listPerson><noteGrp><note target="wkfm-0525.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0525</note></noteGrp></org>
                 <org xml:id="wkfm__46211">
                      <orgName>Franz Karl Deck</orgName>
                   <noteGrp><note target="wkfm-0527.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0527</note></noteGrp></org>
@@ -921,7 +921,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   <noteGrp><note target="wkfm-0551.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0551</note></noteGrp></org>
                 <org xml:id="wkfm__46231">
                      <orgName>Johann Georg Dietschi</orgName>
-                  <noteGrp><note target="wkfm-0553.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0553</note></noteGrp></org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__37748">Dietschi, Johann</persName></person></listPerson><noteGrp><note target="wkfm-0553.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0553</note></noteGrp></org>
                 <org xml:id="wkfm__46232">
                      <orgName>Kaspar Teibler</orgName>
                   <noteGrp><note target="wkfm-0555.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0555</note></noteGrp></org>
@@ -984,7 +984,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   <noteGrp><note target="wkfm-0589.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0589</note></noteGrp></org>
                 <org xml:id="wkfm__46272">
                      <orgName>Gilbert Anton Deschamps</orgName>
-                  <noteGrp><note target="wkfm-0591.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0591</note></noteGrp></org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__46273">Merkl, Leopold</persName></person></listPerson><noteGrp><note target="wkfm-0591.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0591</note></noteGrp></org>
                 <org xml:id="wkfm__46274">
                      <orgName>Johann Dietschi</orgName>
                   <noteGrp><note target="wkfm-0593.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0593</note></noteGrp></org>
@@ -996,7 +996,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   <noteGrp><note target="wkfm-0597.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0597</note></noteGrp></org>
                 <org xml:id="wkfm__46285">
                      <orgName>Johann Michael Traunfellner</orgName>
-                  <noteGrp><note target="wkfm-0601.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0601</note></noteGrp></org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__46284">Traunfellner, Johann Michael</persName></person></listPerson><noteGrp><note target="wkfm-0601.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0601</note></noteGrp></org>
                 <org xml:id="wkfm__46287">
                      <orgName>Joseph Leopold Diewald</orgName>
                   <noteGrp><note target="wkfm-0603.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0603</note></noteGrp></org>
@@ -1023,7 +1023,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   <noteGrp><note target="wkfm-0817.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0817</note></noteGrp></org>
                 <org xml:id="wkfm__46301">
                      <orgName>Franz Anton Geramb</orgName>
-                  <noteGrp><note target="wkfm-0819.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0819</note></noteGrp></org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__8188">Visconti, Ludwig Anton</persName></person></listPerson><noteGrp><note target="wkfm-0819.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0819</note></noteGrp></org>
                 <org xml:id="wkfm__46303">
                      <orgName>Peter Garnier</orgName>
                   <noteGrp><note target="wkfm-0823.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0823</note></noteGrp></org>
@@ -1068,7 +1068,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   <noteGrp><note target="wkfm-0851.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0851</note></noteGrp></org>
                 <org xml:id="wkfm__46322">
                      <orgName>Johann Michael Glück</orgName>
-                  <noteGrp><note target="wkfm-0853.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0853</note></noteGrp></org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__46323">None, None</persName></person></listPerson><noteGrp><note target="wkfm-0853.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0853</note></noteGrp></org>
                 <org xml:id="wkfm__46325">
                      <orgName>Johann Grosserbauer</orgName>
                   <noteGrp><note target="wkfm-0855.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0855</note></noteGrp></org>
@@ -1113,7 +1113,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   <noteGrp><note target="wkfm-0877.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0877</note></noteGrp></org>
                 <org xml:id="wkfm__46346">
                      <orgName>Franz Joseph Grämbsreither</orgName>
-                  <noteGrp><note target="wkfm-0879.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0879</note></noteGrp></org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__10600">Härtl, Norbert</persName></person></listPerson><noteGrp><note target="wkfm-0879.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0879</note></noteGrp></org>
                 <org xml:id="wkfm__46348">
                      <orgName>Johann Michael Gäbler</orgName>
                   <noteGrp><note target="wkfm-0881.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0881</note></noteGrp></org>
@@ -1266,7 +1266,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   <noteGrp><note target="wkfm-0949.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0949</note><note target="wkfm-0950.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0950</note></noteGrp></org>
                 <org xml:id="wkfm__46453">
                      <orgName>Joseph Höcksteiner sel. Witwe und Sohn</orgName>
-                  <noteGrp><note target="wkfm-0949.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0949</note><note target="wkfm-0950.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0950</note><note target="wkfm-1809.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1809</note></noteGrp></org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__46454">Höcksteiner, Franz Karl</persName></person></listPerson><noteGrp><note target="wkfm-0949.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0949</note><note target="wkfm-0950.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0950</note><note target="wkfm-1809.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1809</note></noteGrp></org>
                 <org xml:id="wkfm__46457">
                      <orgName>Johann Jakob Hauzenberger</orgName>
                   <noteGrp><note target="wkfm-0951.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0951</note></noteGrp></org>
@@ -1302,7 +1302,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   <noteGrp><note target="wkfm-0973.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0973</note></noteGrp></org>
                 <org xml:id="wkfm__46478">
                      <orgName>Karl Höcksteiner</orgName>
-                  <noteGrp><note target="wkfm-0975.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0975</note></noteGrp></org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__23505">Höcksteiner, Karl</persName></person></listPerson><noteGrp><note target="wkfm-0975.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0975</note></noteGrp></org>
                 <org xml:id="wkfm__46479">
                      <orgName>Franz Huber</orgName>
                   <noteGrp><note target="wkfm-0977.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0977</note></noteGrp></org>
@@ -1368,7 +1368,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   <noteGrp><note target="wkfm-1021.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1021</note></noteGrp></org>
                 <org xml:id="wkfm__46524">
                      <orgName>Paul Herzog</orgName>
-                  <noteGrp><note target="wkfm-1025.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1025</note></noteGrp></org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__46523">Herzog, Paul</persName></person></listPerson><noteGrp><note target="wkfm-1025.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1025</note></noteGrp></org>
                 <org xml:id="wkfm__46525">
                      <orgName>Franz Joseph Hammer</orgName>
                   <noteGrp><note target="wkfm-1027.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1027</note><note target="wkfm-1028.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1028</note></noteGrp></org>
@@ -1410,7 +1410,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   <noteGrp><note target="wkfm-1053.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1053</note></noteGrp></org>
                 <org xml:id="wkfm__46575">
                      <orgName>Norbert Härtl</orgName>
-                  <noteGrp><note target="wkfm-0927.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0927</note></noteGrp></org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__46574">Härtl, Joseph</persName></person></listPerson><noteGrp><note target="wkfm-0927.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0927</note></noteGrp></org>
                 <org xml:id="wkfm__46577">
                      <orgName>Marco Abandio</orgName>
                   <noteGrp><note target="wkfm-0006.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0006</note></noteGrp></org>
@@ -1722,7 +1722,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   <noteGrp><note target="wkfm-1403.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1403</note></noteGrp></org>
                 <org xml:id="wkfm__46716">
                      <orgName>Hieronymus Rigotti</orgName>
-                  <noteGrp><note target="wkfm-1228.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1228</note><note target="wkfm-1405.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1405</note><note target="wkfm-1406.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1406</note></noteGrp></org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__10730">Mader, Anton</persName></person></listPerson><noteGrp><note target="wkfm-1228.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1228</note><note target="wkfm-1405.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1405</note><note target="wkfm-1406.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1406</note></noteGrp></org>
                 <org xml:id="wkfm__46717">
                      <orgName>Bonaventura Riesch</orgName>
                   <noteGrp><note target="wkfm-1407.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1407</note></noteGrp></org>
@@ -2232,10 +2232,10 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   <noteGrp><note target="wkfm-0695.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0695</note></noteGrp></org>
                 <org xml:id="wkfm__47073">
                      <orgName>Joseph Förschl</orgName>
-                  <noteGrp><note target="wkfm-0697.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0697</note></noteGrp></org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__1118">Förschl, Joseph</persName></person></listPerson><noteGrp><note target="wkfm-0697.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0697</note></noteGrp></org>
                 <org xml:id="wkfm__47074">
                      <orgName>Joseph Karl Fuchs</orgName>
-                  <noteGrp><note target="wkfm-0699.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0699</note></noteGrp></org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__1411">Fux, Joseph Karl</persName></person></listPerson><noteGrp><note target="wkfm-0699.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0699</note></noteGrp></org>
                 <org xml:id="wkfm__47075">
                      <orgName>Michael Fieglmillner</orgName>
                   <noteGrp><note target="wkfm-0701.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0701</note></noteGrp></org>
@@ -2433,7 +2433,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   <noteGrp><note target="wkfm-0339.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0339</note></noteGrp></org>
                 <org xml:id="wkfm__47207">
                      <orgName>Anton Matthias Kircher</orgName>
-                  <noteGrp><note target="wkfm-0345.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0345</note></noteGrp></org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__46108">Kircher, Joseph</persName></person><person><persName key="#wkfm__41599">Togniola, Johann Peter</persName></person></listPerson><noteGrp><note target="wkfm-0345.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0345</note></noteGrp></org>
                 <org xml:id="wkfm__47208">
                      <orgName>Karl Joseph Krazer</orgName>
                   <noteGrp><note target="wkfm-0349.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0349</note></noteGrp></org>
@@ -2451,7 +2451,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   <noteGrp><note target="wkfm-0359.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0359</note></noteGrp></org>
                 <org xml:id="wkfm__47213">
                      <orgName>Anton Cleas</orgName>
-                  <noteGrp><note target="wkfm-0361.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0361</note><note target="wkfm-0413.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0413</note></noteGrp></org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__484">Cleas, Anton</persName></person></listPerson><noteGrp><note target="wkfm-0361.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0361</note><note target="wkfm-0413.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0413</note></noteGrp></org>
                 <org xml:id="wkfm__47214">
                      <orgName>Anton Cerletti</orgName>
                   <noteGrp><note target="wkfm-0363.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0363</note></noteGrp></org>
@@ -2856,7 +2856,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   <noteGrp><note target="wkfm-0229.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0229</note></noteGrp></org>
                 <org xml:id="wkfm__47357">
                      <orgName>Anton Pillitschotti</orgName>
-                  <noteGrp><note target="wkfm-0231.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0231</note></noteGrp></org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__47624">Pillitschotti, Georg</persName></person></listPerson><noteGrp><note target="wkfm-0231.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0231</note></noteGrp></org>
                 <org xml:id="wkfm__47358">
                      <orgName>Johann Ignaz Babitsch</orgName>
                   <noteGrp><note target="wkfm-0233.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0233</note></noteGrp></org>
@@ -2898,7 +2898,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   <noteGrp><note target="wkfm-0267.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0267</note></noteGrp></org>
                 <org xml:id="wkfm__47374">
                      <orgName>Johann Pohamb</orgName>
-                  <noteGrp><note target="wkfm-0269.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0269</note></noteGrp></org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__43959">Hilleprand, Martin</persName></person></listPerson><noteGrp><note target="wkfm-0269.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0269</note></noteGrp></org>
                 <org xml:id="wkfm__47375">
                      <orgName>Johann Adam Pieller</orgName>
                   <noteGrp><note target="wkfm-0271.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0271</note></noteGrp></org>
@@ -3021,7 +3021,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   <noteGrp><note target="wkfm-1511.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1511</note></noteGrp></org>
                 <org xml:id="wkfm__47433">
                      <orgName>Laurent Stass</orgName>
-                  <noteGrp><note target="wkfm-1513.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1513</note></noteGrp></org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__8439">Stass, Lorenz Laurent Laurenz</persName></person></listPerson><noteGrp><note target="wkfm-1513.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1513</note></noteGrp></org>
                 <org xml:id="wkfm__47435">
                      <orgName>Maria Magdalena Stockhammerin</orgName>
                   <noteGrp><note target="wkfm-1515.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1515</note></noteGrp></org>

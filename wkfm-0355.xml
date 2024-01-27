@@ -83,7 +83,7 @@
                <lb facs="#facs_35_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_35_r1l2" n="N003"/><rs type="person" ref="#wkfm__2848">Kern Matthias</rs> k. k. Niderlags Verwanter
                <lb facs="#facs_35_r1l3" n="N004"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_35_r1l4" n="N005"/><rs type="person" ref="#wkfm__47211">Matthias Kern</rs> laut Anbringen de ps: 8<hi style="superscript">ten</hi> May 725 N<hi style="superscript">o</hi> 177
+               <lb facs="#facs_35_r1l4" n="N005"/><rs type="org" ref="#wkfm__47211">Matthias Kern</rs> laut Anbringen de ps: 8<hi style="superscript">ten</hi> May 725 N<hi style="superscript">o</hi> 177
                <lb facs="#facs_35_r1l5" n="N006"/><rs type="person" ref="#wkfm__18491">Matthias Kern <choice><expan/><abbr>seel</abbr></choice> Wittib</rs> laut Anbringen de ps: 18<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> <seg type="editorial_comment_seg">725<note type="editorial_comment_note">Evtl. stimmt das Jahr nicht, aus dem folgen würde, dass Kern im Sommer 1725 verstarb. Siehe die folgende Rubrik.</note></seg> N<hi style="superscript">o</hi> 214
                <lb facs="#facs_35_line_1621955224665_556" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_35_line_1621955272957_575" n="N008"/>Mitl Anbringen de ps: 12<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 733 N<hi style="superscript">o</hi> 936 hat der <rs type="person" ref="#wkfm__2848">Kern</rs> seinen Sohn <rs type="person" ref="#wkfm__28228">Johann
@@ -95,23 +95,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__28228">
-                     <persName>
-                        <forename>Johann Kaspar</forename>
-                        <surname>Kern</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-0355.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0355</note></noteGrp></person>
-                <person xml:id="wkfm__18491">
-                     <persName>
-                        <forename>None</forename>
-                        <surname>Kern</surname>
-                     </persName>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsfrau</occupation>
-               <noteGrp><note target="wkfm-0355.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0355</note></noteGrp></person>
-                <person xml:id="wkfm__2848">
+    <back><listOrg><org xml:id="wkfm__47211">
+                     <orgName>Matthias Kern</orgName>
+                  <noteGrp><note target="wkfm-0355.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0355</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__2848">
                      <persName>
                         <forename>Matthias</forename>
                         <surname>Kern</surname>
@@ -129,8 +116,21 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                <noteGrp><note target="wkfm-0355.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0355</note><note target="wkfm-0356.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0356</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__47211">
-                     <orgName>Matthias Kern</orgName>
-                  <noteGrp><note target="wkfm-0355.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0355</note></noteGrp></org>
-                </listOrg></back></text>
+                <person xml:id="wkfm__18491">
+                     <persName>
+                        <forename>None</forename>
+                        <surname>Kern</surname>
+                     </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsfrau</occupation>
+               <noteGrp><note target="wkfm-0355.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0355</note></noteGrp></person>
+                <person xml:id="wkfm__28228">
+                     <persName>
+                        <forename>Johann Kaspar</forename>
+                        <surname>Kern</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0355.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0355</note></noteGrp></person>
+                </listPerson></back></text>
 </TEI>

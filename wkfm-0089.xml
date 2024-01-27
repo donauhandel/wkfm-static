@@ -81,14 +81,17 @@
                <lb facs="#facs_36_r1l3" n="N003"/>Anbringen de ps: 8<hi style="superscript">ten</hi> May 725 N<hi style="superscript">o</hi> 888 und in der mit selben eingelegten
                <lb facs="#facs_36_r1l4" n="N004"/>Procura auf <rs type="person" ref="#wkfm__12424">Bernhard Deglmann </rs>dd<hi style="superscript">to</hi> 12<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 887 sich
                <lb facs="#facs_36_r1l5" n="N005"/>erklähret das sie beide ihre Handlung unter der Societaets Firma
-               <lb facs="#facs_36_r1l6" n="N006"/><rs type="person" ref="#wkfm__10272">Buirette Gebrüder</rs> führen.
+               <lb facs="#facs_36_r1l6" n="N006"/><rs type="org" ref="#wkfm__10272">Buirette Gebrüder</rs> führen.
                <lb facs="#facs_36_r1l7" n="N007"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_36_r1l8" n="N008"/><seg type="orighead__other_notes">Anmerkungen</seg>
             </ab>
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47283">
+    <back><listOrg><org xml:id="wkfm__10272">
+                     <orgName>Gebrüder Buirette</orgName>
+                  <noteGrp><note target="wkfm-0086.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0086</note><note target="wkfm-0087.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0087</note><note target="wkfm-0088.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0088</note><note target="wkfm-0089.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0089</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__47283">
                      <persName>
                         <forename>Johann Noah (I.)</forename>
                         <forename type="alt">Noe</forename>
@@ -104,6 +107,23 @@
                         <bibl>Seibold, Wirtschaftlicher Erfolg, 394f.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0087.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0087</note><note target="wkfm-0088.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0088</note><note target="wkfm-0089.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0089</note></noteGrp></person>
+                <person xml:id="wkfm__13226">
+                     <persName>
+                        <forename>Johann Wilhelm</forename>
+                        <forename type="alt">Wilhelm</forename>
+                        <surname>Buirette</surname>
+                     </persName>
+                     <birth><date>1668</date></birth>
+                     <death><date>1722</date></death>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+                     <listBibl>
+                        <bibl>Seibold, Wirtschaftlicher Erfolg, 1, 391-394; 2 (Blommart, Buirette)&amp;lt;br&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0086.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0086</note><note target="wkfm-0087.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0087</note><note target="wkfm-0089.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0089</note></noteGrp></person>
                 <person xml:id="wkfm__12424">
                      <persName>
                         <forename>Johann Bernhard</forename>
@@ -122,25 +142,5 @@
                         <bibl>Senfelder, Gottesacker, 268.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0086.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0086</note><note target="wkfm-0087.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0087</note><note target="wkfm-0088.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0088</note><note target="wkfm-0089.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0089</note></noteGrp></person>
-                <person xml:id="wkfm__13226">
-                     <persName>
-                        <forename>Johann Wilhelm</forename>
-                        <forename type="alt">Wilhelm</forename>
-                        <surname>Buirette</surname>
-                     </persName>
-                     <birth><date>1668</date></birth>
-                     <death><date>1722</date></death>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-                     <listBibl>
-                        <bibl>Seibold, Wirtschaftlicher Erfolg, 1, 391-394; 2 (Blommart, Buirette)&amp;lt;br&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-0086.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0086</note><note target="wkfm-0087.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0087</note><note target="wkfm-0089.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0089</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__10272">
-                     <orgName>Gebrüder Buirette</orgName>
-                  <noteGrp><note target="wkfm-0086.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0086</note><note target="wkfm-0087.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0087</note><note target="wkfm-0088.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0088</note><note target="wkfm-0089.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0089</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

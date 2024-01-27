@@ -120,37 +120,37 @@
                <lb facs="#facs_141_r2l2" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_141_r2l3" n="N003"/><rs type="person" ref="#wkfm__36354">Bormastino Johann Anton der jüngere</rs> hofbefreyter Handlsmann
                <lb facs="#facs_141_r2l4" n="N004"/><seg type="orighead__firma">Firma oder Raggion</seg>
-               <lb facs="#facs_141_r2l5" n="N005"/><rs type="person" ref="#wkfm__43903">Carl Joseph Starkh und Compag:</rs> laut Anbringen de ps: 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 2039
-               <lb facs="#facs_141_r2l6" n="N006"/><rs type="person" ref="#wkfm__47340">Johann Anton Barmastino der jüngere</rs> laut Anbringen de ps: 5<hi style="superscript">ten</hi> Julii 731 N<hi style="superscript">o</hi> 1858
+               <lb facs="#facs_141_r2l5" n="N005"/><rs type="org" ref="#wkfm__43903">Carl Joseph Starkh und Compag:</rs> laut Anbringen de ps: 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 2039
+               <lb facs="#facs_141_r2l6" n="N006"/><rs type="org" ref="#wkfm__47340">Johann Anton Barmastino der jüngere</rs> laut Anbringen de ps: 5<hi style="superscript">ten</hi> Julii 731 N<hi style="superscript">o</hi> 1858
                <lb facs="#facs_141_r2l7" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_141_r2l8" n="N008"/>In obigen Anbringen de ps: 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 2039 ist die firma von obigen <rs type="person" ref="#wkfm__36354">Bormastino</rs> und dem <rs type="person" ref="#wkfm__10683">Carl Joseph
-               <lb break="no" facs="#facs_141_r2l9" n="N009"/>Starkh</rs> für die Raggion <rs type="person" ref="#wkfm__43903">Carl Joseph Starkh und <choice><expan/><abbr>Compag:</abbr></choice></rs> eingeleget worden
+               <lb break="no" facs="#facs_141_r2l9" n="N009"/>Starkh</rs> für die Raggion <rs type="org" ref="#wkfm__43903">Carl Joseph Starkh und <choice><expan/><abbr>Compag:</abbr></choice></rs> eingeleget worden
                <lb facs="#facs_141_r2l10" n="N010"/>Laut Anbringen de ps: 29<hi style="superscript">ten</hi> May 726 N<hi style="superscript">o</hi> 706 ist die firma von erstgedachter Raggion von <rs type="person" ref="#wkfm__10683">Carl Joseph Starkhl</rs>
                <lb facs="#facs_141_r2l11" n="N011"/>allein mit dem beysaz keiner andern Glauben zu geben, eingeleget worden
                <lb facs="#facs_141_r2l12" n="N012"/>Laut Anbringen de ps: 24<hi style="superscript">ten</hi> <choice><expan/><abbr>9br:</abbr></choice> 729 N<hi style="superscript">o</hi> 86 hat sich obiger <rs type="person" ref="#wkfm__36354">Bormastino</rs> erklähret, daß er die erste Persohn in dem
-               <lb facs="#facs_141_r2l13" n="N013"/>unter der Raggion <rs type="person" ref="#wkfm__43903">Carl Joseph Starkh und <choice><expan/><abbr>Compag:</abbr></choice></rs> laufenden Negotio seye, wehrend seiner Abwesenheit habe
+               <lb facs="#facs_141_r2l13" n="N013"/>unter der Raggion <rs type="org" ref="#wkfm__43903">Carl Joseph Starkh und <choice><expan/><abbr>Compag:</abbr></choice></rs> laufenden Negotio seye, wehrend seiner Abwesenheit habe
                <lb facs="#facs_141_line_1628443608142_928" n="N014"/>der <rs type="person" ref="#wkfm__10683">Carl Joseph Starkh</rs> und <rs type="person" ref="#wkfm__15300">Johann Anton Bormastino k. k. Niderlags Verwanter</rs>, an welchen <unclear>lezteren</unclear> er die Pro-
                <lb facs="#facs_141_r2l15" n="N015"/>cura gegeben hatte, geführet, nunmehro aber wider er <rs type="person" ref="#wkfm__36354">Bormastino der jüngere</rs> allein und mit aufhöbung
-               <lb facs="#facs_141_r2l16" n="N016"/>der von dem <rs type="person" ref="#wkfm__10683">Starkh</rs> gehabten Firmierung, <hi>die</hi> mit bewilligung seiner interessierten <rs type="person" ref="#wkfm__9133">Bormastino et Butterna</rs> die
-               <lb facs="#facs_141_r2l17" n="N017"/>firma <rs type="person" ref="#wkfm__43903">Carl Joseph Starkh und <choice><expan/><abbr>Comag:</abbr></choice></rs><choice><expan/><abbr/></choice> wie selbe in <gap/> beygeruket führen, welcher Erklährung <rs type="person" ref="#wkfm__9133">Bormastino und
+               <lb facs="#facs_141_r2l16" n="N016"/>der von dem <rs type="person" ref="#wkfm__10683">Starkh</rs> gehabten Firmierung, <hi>die</hi> mit bewilligung seiner interessierten <rs type="org" ref="#wkfm__9133">Bormastino et Butterna</rs> die
+               <lb facs="#facs_141_r2l17" n="N017"/>firma <rs type="org" ref="#wkfm__43903">Carl Joseph Starkh und <choice><expan/><abbr>Comag:</abbr></choice></rs><choice><expan/><abbr/></choice> wie selbe in <gap/> beygeruket führen, welcher Erklährung <rs type="org" ref="#wkfm__9133">Bormastino und
                <lb break="no" facs="#facs_141_r2l18" n="N018"/>Butterna</rs> mitls Anbringen de ps: 24<hi style="superscript">ten</hi> <choice><expan/><abbr>9br:</abbr></choice> 729 N<hi style="superscript">o</hi> 87 gänzlich beygestimmet.
                <lb facs="#facs_141_r2l19" n="N019"/>Mitls Anbringen de ps: 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 732 N<hi style="superscript">o</hi> 1859 ist die Procura der Raggion <rs type="person" ref="#wkfm__36354">Johann Anton Bormastino der jüngere</rs>
                <lb facs="#facs_141_r2l21" n="N020"/>dem <rs type="person" ref="#wkfm__16922"><unclear>Maximilian Hochmayr</unclear></rs> und in dessen Abwesenheit dem <rs type="person" ref="#wkfm__15300">Johann Anton Bormastino der ältere</rs> ertheilet und beder Firma beyge-
                <lb facs="#facs_141_r2l20" n="N021"/>ruket worden
                <lb facs="#facs_141_r2l22" n="N022"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
-               <lb facs="#facs_141_r2l24" n="N023"/>In der von dem <rs type="person" ref="#wkfm__43904">Klaninger von Klanberg</rs> untern 16<hi style="superscript">ten</hi> May 726 ausgestelten und von <rs type="person" ref="#wkfm__43903">Carl Joseph Starkh
+               <lb facs="#facs_141_r2l24" n="N023"/>In der von dem <rs type="person" ref="#wkfm__43904">Klaninger von Klanberg</rs> untern 16<hi style="superscript">ten</hi> May 726 ausgestelten und von <rs type="org" ref="#wkfm__43903">Carl Joseph Starkh
                <lb break="no" facs="#facs_141_line_1621466448030_2316" n="N024"/>und Compagnie</rs> mitls des Anbringens de ps: 29<hi style="superscript">ten</hi> May 726 N<hi style="superscript">o</hi> 2044 in Copia vidimata eingelegten
                <lb facs="#facs_141_r2l27" n="N025"/>Societaets dessolutions und Austrettungs Erklährung N<hi style="superscript">o</hi> 2045 wird angeführet, das erst gemelte
                <lb facs="#facs_141_r2l28" n="N026"/>Raggion über den untern 31<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 723 errichtetete societaets Contract die oblatorien unter 24<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice>
                <lb facs="#facs_141_r2l29" n="N027"/><unclear>d.</unclear> a. erlassen habe.
-               <lb facs="#facs_141_line_1621466616014_2348" n="N028"/>Mitls obigen Anbringen de ps: 29<hi style="superscript">ten</hi> May 726 N<hi style="superscript">o</hi> 706 seynd von <rs type="person" ref="#wkfm__43903">Carl Joseph Starkh und <choice><expan/><abbr>Comp:</abbr></choice></rs> die <choice><expan/><abbr>orig:</abbr></choice> oblatorien N<hi style="superscript">o</hi> 1142 dahin eingeleget worden, daß das Nego-
-               <lb facs="#facs_141_r2l32" n="N029"/>tium unter der Raggion <rs type="person" ref="#wkfm__43903">Carl Joseph Starkh und <choice><expan/><abbr>Compag:</abbr></choice></rs> mit interesse des <rs type="person" ref="#wkfm__43904">Ferdinand Klaninger von Klanberg</rs> und <rs type="person" ref="#wkfm__36354">Johann
+               <lb facs="#facs_141_line_1621466616014_2348" n="N028"/>Mitls obigen Anbringen de ps: 29<hi style="superscript">ten</hi> May 726 N<hi style="superscript">o</hi> 706 seynd von <rs type="org" ref="#wkfm__43903">Carl Joseph Starkh und <choice><expan/><abbr>Comp:</abbr></choice></rs> die <choice><expan/><abbr>orig:</abbr></choice> oblatorien N<hi style="superscript">o</hi> 1142 dahin eingeleget worden, daß das Nego-
+               <lb facs="#facs_141_r2l32" n="N029"/>tium unter der Raggion <rs type="org" ref="#wkfm__43903">Carl Joseph Starkh und <choice><expan/><abbr>Compag:</abbr></choice></rs> mit interesse des <rs type="person" ref="#wkfm__43904">Ferdinand Klaninger von Klanberg</rs> und <rs type="person" ref="#wkfm__36354">Johann
                <lb break="no" facs="#facs_141_r2l33" n="N030"/>Anton Bormastino</rs> ihre gänzliche Endschaft erreichet habe, und zugleich unter erstgemelter Raggion mit gänzlicher aus-
-               <lb facs="#facs_141_r2l34" n="N031"/>schlüssung des <rs type="person" ref="#wkfm__43904">Klanninger</rs> mit eigenen Capitalien und Interesse von <rs type="person" ref="#wkfm__9133">Bormastino e Butterna</rs> unter alleiniger
+               <lb facs="#facs_141_r2l34" n="N031"/>schlüssung des <rs type="person" ref="#wkfm__43904">Klanninger</rs> mit eigenen Capitalien und Interesse von <rs type="org" ref="#wkfm__9133">Bormastino e Butterna</rs> unter alleiniger
                <lb facs="#facs_141_r2l36" n="N032"/>Firmirung des <rs type="person" ref="#wkfm__10683">Carl Joseph Starkh</rs> <unclear>erneueret</unclear> worden seye.
                <lb facs="#facs_141_line_1621466736128_2386" n="N033"/>Mitls Anbringen de ps: 22<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> 729 N<hi style="superscript">o</hi> 1144 hat <rs type="person" ref="#wkfm__36354">Johann Anton Bormastino der jüngere</rs> die dahin erlassene oblatorien
-               <lb facs="#facs_141_line_1621466319257_2287" n="N034"/>in <choice><expan/><abbr>orig:</abbr></choice> sine Dato N<hi style="superscript">o</hi> 1143 eingeleget, daß die Compagnie der Raggion <rs type="person" ref="#wkfm__43903">Carl Joseph Starkh und <choice><expan/><abbr>Compag:</abbr></choice></rs>
-               <lb facs="#facs_141_line_1621466253593_2267" n="N035"/>mit interesse von <rs type="person" ref="#wkfm__9133">Bormastino e Butterna</rs>
+               <lb facs="#facs_141_line_1621466319257_2287" n="N034"/>in <choice><expan/><abbr>orig:</abbr></choice> sine Dato N<hi style="superscript">o</hi> 1143 eingeleget, daß die Compagnie der Raggion <rs type="org" ref="#wkfm__43903">Carl Joseph Starkh und <choice><expan/><abbr>Compag:</abbr></choice></rs>
+               <lb facs="#facs_141_line_1621466253593_2267" n="N035"/>mit interesse von <rs type="org" ref="#wkfm__9133">Bormastino e Butterna</rs>
                <lb facs="#facs_141_r2l41" n="N036"/><unclear>in</unclear> abgewichenen Monath <choice><expan/><abbr>Apr:</abbr></choice> 728 ihr Endschafft erreichet habe, welche aber <unclear>sohin</unclear> anwiderum
                <lb facs="#facs_141_r2l42" n="N037"/>und biß <unclear>nunzu</unclear> unter nemlicher Raggion mit interesse deren nemlichen und des <rs type="person" ref="#wkfm__8593">Johann Maria von Tinti</rs> unter <hi>0</hi>
                <lb facs="#facs_141_r2l43" n="N038"/><seg type="orighead__fundi">Fundi Ausweisung</seg><seg type="editorial_comment_seg"><note type="editorial_comment_note">Der Folgende Text bildet das Ende der Rubrik Oblatorien und Avocatorien</note></seg>
@@ -159,37 +159,39 @@
                <lb facs="#facs_141_r2l48" n="N041"/>worden
                <lb facs="#facs_141_r2l49" n="N042"/>Mitls Anbringen de ps: 5<hi style="superscript">ten</hi> Julii 731 <hi>hat d</hi> N<hi style="superscript">o</hi> 1858 hat der <rs type="person" ref="#wkfm__36354">Johann Anton Bormastino der
                <lb break="no" facs="#facs_141_r2l50" n="N043"/>jüngere</rs> die von <hi>de</hi> ihm untern 30<hi style="superscript">ten</hi> <choice><expan/><abbr>Jan:</abbr></choice> 731 dahin erlassene oblatorien N<hi style="superscript">o</hi> 1090 in <choice><expan/><abbr>org:</abbr></choice> einge-
-               <lb facs="#facs_141_r2l51" n="N044"/>leget, daß die Raggion <rs type="person" ref="#wkfm__43903">Carl Joseph Starkh und <choice><expan/><abbr>Compag:</abbr></choice></rs> unter nemlichen dato ihr Endschafft er-
+               <lb facs="#facs_141_r2l51" n="N044"/>leget, daß die Raggion <rs type="org" ref="#wkfm__43903">Carl Joseph Starkh und <choice><expan/><abbr>Compag:</abbr></choice></rs> unter nemlichen dato ihr Endschafft er-
                <lb facs="#facs_141_r2l52" n="N045"/>reichet habe, und das Negotium <hi>nebst dem Stralicio der vorigen</hi> unter der Raggion <rs type="person" ref="#wkfm__36354">Johann
-               <lb break="no" facs="#facs_141_r2l53" n="N046"/>Anton Bormastino der jüngere</rs> mit interesse des <rs type="person" ref="#wkfm__9133">Bormastino e Butterna</rs> nebst dem
+               <lb break="no" facs="#facs_141_r2l53" n="N046"/>Anton Bormastino der jüngere</rs> mit interesse des <rs type="org" ref="#wkfm__9133">Bormastino e Butterna</rs> nebst dem
                <lb facs="#facs_141_r2l54" n="N047"/>Stralcio der vorigen Raggion unter Firmirung des <rs type="person" ref="#wkfm__36354">Johann Anton Bormastino des jüngern</rs>
                <lb facs="#facs_141_r2l55" n="N048"/>fortgesezet werden wird.
             </ab>
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47340">
-                     <orgName>Johann Anton Bormastino der Jüngere</orgName>
-                  <noteGrp><note target="wkfm-0194.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0194</note></noteGrp></org>
-                <org xml:id="wkfm__43903">
-                     <orgName>Karl Joseph Stark &amp; Co.</orgName>
-                  <noteGrp><note target="wkfm-0194.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0194</note><note target="wkfm-0195.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0195</note><note target="wkfm-1471.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1471</note><note target="wkfm-1472.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1472</note></noteGrp></org>
-                <org xml:id="wkfm__9133">
-                     <orgName>Bormastini und Butterna, Johann Anton Bormastini und Butterna</orgName>
-                  <noteGrp><note target="wkfm-0077.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0077</note><note target="wkfm-0078.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0078</note><note target="wkfm-0079.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0079</note><note target="wkfm-0194.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0194</note><note target="wkfm-0195.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0195</note><note target="wkfm-1471.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1471</note><note target="wkfm-1472.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1472</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__8593">
+    <back><listPerson><person xml:id="wkfm__43904" sameAs="#wkfm__10646 ">
                      <persName>
-                        <forename>Johann Maria</forename>
-                        <surname>von Tinti</surname>
-                        <surname type="alt">Tinti</surname>
+                        <forename>Franz Ferdinand</forename>
+                        <surname>Klaninger von Klanberg</surname>
                      </persName>
-                     <death><date>1733</date></death>
+                     <occupation>Handelsmann, ksl. Hoflieferant, ksl. Theatrallieferant</occupation>
+                     <listBibl>
+                        <bibl>Andrea Sommer-Mathis u.a. (Hgg.), Pietro Metastasio - uomo universale (1698-1782). Festgabe der Österreichischen Akademie der Wissenschaften zum 300. Geburtstag von Pietro Metastasio (Sitzungsberichte der Österreichische Akademie der Wissenschaften, Philosophisch-Historische Klasse 676, Wien 2000) 78-81, 85; Andrea Sommer-Mathis, Hoftheater und Hofoper, in: Michael Hochedlinger u.a. (Hgg.), Verwaltungsgeschichte der Habsburgermonarchie, 1/1, 175-181, hier 176.</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0194.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0194</note><note target="wkfm-0195.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0195</note><note target="wkfm-1471.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1471</note><note target="wkfm-1472.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1472</note></noteGrp></person>
+                <person xml:id="wkfm__36354">
+                     <persName>
+                        <forename>Johann Anton</forename>
+                        <forename type="alt">Anton</forename>
+                        <surname>Bormastini</surname>
+                        <surname type="alt">Wormastin</surname>
+                        <surname type="alt">Bormastino</surname>
+                     </persName>
                      <residence type="Geschäftsniederlassung">
                         <placeName key="#wkfm-place__925">Wien</placeName>
                      <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-               <noteGrp><note target="wkfm-0194.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0194</note><note target="wkfm-0195.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0195</note><note target="wkfm-0997.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0997</note><note target="wkfm-0998.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0998</note><note target="wkfm-1471.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1471</note><note target="wkfm-1472.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1472</note></noteGrp></person>
+                     <occupation type="kaufmannsklasse">hofbefreit</occupation>
+               <noteGrp><note target="wkfm-0194.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0194</note><note target="wkfm-0195.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0195</note><note target="wkfm-1471.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1471</note><note target="wkfm-1472.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1472</note></noteGrp></person>
                 <person xml:id="wkfm__16922">
                      <persName>
                         <forename>Maximilian</forename>
@@ -216,16 +218,6 @@
                      <occupation>Handelsmann, Prokurist für Johann Anton Bormastino d. J.</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                <noteGrp><note target="wkfm-0076.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0076</note><note target="wkfm-0077.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0077</note><note target="wkfm-0078.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0078</note><note target="wkfm-0079.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0079</note><note target="wkfm-0194.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0194</note><note target="wkfm-0791.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0791</note></noteGrp></person>
-                <person xml:id="wkfm__43904" sameAs="#wkfm__10646 ">
-                     <persName>
-                        <forename>Franz Ferdinand</forename>
-                        <surname>Klaninger von Klanberg</surname>
-                     </persName>
-                     <occupation>Handelsmann, ksl. Hoflieferant, ksl. Theatrallieferant</occupation>
-                     <listBibl>
-                        <bibl>Andrea Sommer-Mathis u.a. (Hgg.), Pietro Metastasio - uomo universale (1698-1782). Festgabe der Österreichischen Akademie der Wissenschaften zum 300. Geburtstag von Pietro Metastasio (Sitzungsberichte der Österreichische Akademie der Wissenschaften, Philosophisch-Historische Klasse 676, Wien 2000) 78-81, 85; Andrea Sommer-Mathis, Hoftheater und Hofoper, in: Michael Hochedlinger u.a. (Hgg.), Verwaltungsgeschichte der Habsburgermonarchie, 1/1, 175-181, hier 176.</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-0194.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0194</note><note target="wkfm-0195.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0195</note><note target="wkfm-1471.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1471</note><note target="wkfm-1472.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1472</note></noteGrp></person>
                 <person xml:id="wkfm__10683" sameAs="#wkfm__38095 ">
                      <persName>
                         <forename>Karl Joseph</forename>
@@ -237,19 +229,27 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
                <noteGrp><note target="wkfm-0194.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0194</note><note target="wkfm-0195.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0195</note><note target="wkfm-1471.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1471</note><note target="wkfm-1472.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1472</note></noteGrp></person>
-                <person xml:id="wkfm__36354">
+                <person xml:id="wkfm__8593">
                      <persName>
-                        <forename>Johann Anton</forename>
-                        <forename type="alt">Anton</forename>
-                        <surname>Bormastini</surname>
-                        <surname type="alt">Wormastin</surname>
-                        <surname type="alt">Bormastino</surname>
+                        <forename>Johann Maria</forename>
+                        <surname>von Tinti</surname>
+                        <surname type="alt">Tinti</surname>
                      </persName>
+                     <death><date>1733</date></death>
                      <residence type="Geschäftsniederlassung">
                         <placeName key="#wkfm-place__925">Wien</placeName>
                      <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">hofbefreit</occupation>
-               <noteGrp><note target="wkfm-0194.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0194</note><note target="wkfm-0195.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0195</note><note target="wkfm-1471.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1471</note><note target="wkfm-1472.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1472</note></noteGrp></person>
-                </listPerson></back></text>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+               <noteGrp><note target="wkfm-0194.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0194</note><note target="wkfm-0195.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0195</note><note target="wkfm-0997.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0997</note><note target="wkfm-0998.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0998</note><note target="wkfm-1471.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1471</note><note target="wkfm-1472.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1472</note></noteGrp></person>
+                </listPerson><listOrg><org xml:id="wkfm__47340">
+                     <orgName>Johann Anton Bormastino der Jüngere</orgName>
+                  <noteGrp><note target="wkfm-0194.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0194</note></noteGrp></org>
+                <org xml:id="wkfm__9133">
+                     <orgName>Bormastini und Butterna, Johann Anton Bormastini und Butterna</orgName>
+                  <noteGrp><note target="wkfm-0077.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0077</note><note target="wkfm-0078.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0078</note><note target="wkfm-0079.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0079</note><note target="wkfm-0194.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0194</note><note target="wkfm-0195.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0195</note><note target="wkfm-1471.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1471</note><note target="wkfm-1472.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1472</note></noteGrp></org>
+                <org xml:id="wkfm__43903">
+                     <orgName>Karl Joseph Stark &amp; Co.</orgName>
+                  <noteGrp><note target="wkfm-0194.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0194</note><note target="wkfm-0195.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0195</note><note target="wkfm-1471.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1471</note><note target="wkfm-1472.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1472</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

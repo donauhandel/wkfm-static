@@ -81,7 +81,7 @@
                <lb facs="#facs_7_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_7_r1l3" n="N003"/><rs type="person" ref="#wkfm__10600">Härtl Norbert</rs> burgerlicher Handlsmann
                <lb facs="#facs_7_r1l4" n="N004"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_7_r1l5" n="N005"/><rs type="person" ref="#wkfm__46575">Norbert Härtl </rs>laut Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 430
+               <lb facs="#facs_7_r1l5" n="N005"/><rs type="org" ref="#wkfm__46575">Norbert Härtl </rs>laut Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 430
                <lb facs="#facs_7_r1l7" n="N006"/>und Anbringen de ps: 18<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 431
                <lb facs="#facs_7_r1l8" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_7_r1l9" n="N008"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
@@ -92,7 +92,7 @@
       </body>
     <back><listOrg><org xml:id="wkfm__46575">
                      <orgName>Norbert Härtl</orgName>
-                  <noteGrp><note target="wkfm-0927.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0927</note></noteGrp></org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__46574">Härtl, Joseph</persName></person></listPerson><noteGrp><note target="wkfm-0927.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0927</note></noteGrp></org>
                 </listOrg><listPerson><person xml:id="wkfm__10600">
                      <persName>
                         <forename>Norbert</forename>

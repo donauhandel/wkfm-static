@@ -80,7 +80,7 @@
                <lb facs="#facs_21_r3l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_21_r3l3" n="N003"/><rs type="person" ref="#wkfm__46793">Loiprecht Johann Michäl</rs> hofbefreyter Wachshandler
                <lb facs="#facs_21_r3l4" n="N004"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_21_r3l5" n="N005"/><rs type="person" ref="#wkfm__46794">Johann Michael Loiprecht</rs> laut Anbringen de ps: 21<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 515
+               <lb facs="#facs_21_r3l5" n="N005"/><rs type="org" ref="#wkfm__46794">Johann Michael Loiprecht</rs> laut Anbringen de ps: 21<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 515
                <lb facs="#facs_21_r3l6" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_21_r3l7" n="N007"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_21_r3l8" n="N008"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
@@ -88,7 +88,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46793">
+    <back><listOrg><org xml:id="wkfm__46794">
+                     <orgName>Johann Michael Loiprecht</orgName>
+                  <noteGrp><note target="wkfm-1121.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1121</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__46793">
                      <persName>
                         <forename>Johann Michael</forename>
                         <surname>Loiprecht</surname>
@@ -99,8 +102,5 @@
                      <occupation>Wachshändler</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
                <noteGrp><note target="wkfm-1121.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1121</note><note target="wkfm-1122.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1122</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46794">
-                     <orgName>Johann Michael Loiprecht</orgName>
-                  <noteGrp><note target="wkfm-1121.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1121</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

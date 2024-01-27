@@ -88,24 +88,18 @@
                <lb facs="#facs_189_r2l1" n="N004"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_189_r2l3" n="N005"/><rs type="person" ref="#wkfm__43989">Schmitt Jacob Mattheus</rs> burgerlicher Handlsmann
                <lb facs="#facs_189_r2l5" n="N006"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_189_r2l6" n="N007"/><rs type="person" ref="#wkfm__47550">Jacob Matheus Schmitt</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 759
+               <lb facs="#facs_189_r2l6" n="N007"/><rs type="org" ref="#wkfm__47550">Jacob Matheus Schmitt</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 759
                <lb facs="#facs_189_r2l7" n="N008"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_189_r2l8" n="N009"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_189_r2l9" n="N010"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
                <lb facs="#facs_189_r2l10" n="N011"/>Der <rs type="person" ref="#wkfm__43989">Schmitt</rs> hat zu Ausweisung seines Fundi die <choice><expan/><abbr>orig:</abbr></choice> <hi>Billanz dd<hi style="superscript"/></hi>to
-               <lb facs="#facs_189_r2l11" n="N012"/>von <rs type="person" ref="#wkfm__38549">Meyer und Höltzl</rs> attestirte Billanz dd<hi style="superscript">to</hi> ult: <choice><expan/><abbr>7br:</abbr></choice> 743 N<hi style="superscript">o</hi> 1721
+               <lb facs="#facs_189_r2l11" n="N012"/>von <rs type="org" ref="#wkfm__38549">Meyer und Höltzl</rs> attestirte Billanz dd<hi style="superscript">to</hi> ult: <choice><expan/><abbr>7br:</abbr></choice> 743 N<hi style="superscript">o</hi> 1721
                <lb facs="#facs_189_r2l12" n="N013"/>eingeleget an Übermaß <choice><expan/><abbr>pr</abbr></choice> 8461 fl 12 x<hi style="superscript">r</hi>
             </ab>
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47550">
-                     <orgName>Jakob Matthäus Schmidt</orgName>
-                  <noteGrp><note target="wkfm-1647.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1647</note></noteGrp></org>
-                <org xml:id="wkfm__38549">
-                     <orgName>Mayr und Hölzl</orgName>
-                  <noteGrp><note target="wkfm-1037.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1037</note><note target="wkfm-1038.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1038</note><note target="wkfm-1263.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1263</note><note target="wkfm-1264.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1264</note><note target="wkfm-1647.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1647</note><note target="wkfm-1649.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1649</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__43989">
+    <back><listPerson><person xml:id="wkfm__43989">
                      <persName>
                         <forename>Jakob Matthäus</forename>
                         <surname>Schmidt</surname>
@@ -130,5 +124,11 @@
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 518.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0299.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0299</note><note target="wkfm-0597.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0597</note><note target="wkfm-1647.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1647</note><note target="wkfm-1648.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1648</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__38549">
+                     <orgName>Mayr und Hölzl</orgName>
+                  <noteGrp><note target="wkfm-1037.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1037</note><note target="wkfm-1038.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1038</note><note target="wkfm-1263.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1263</note><note target="wkfm-1264.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1264</note><note target="wkfm-1647.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1647</note><note target="wkfm-1649.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1649</note></noteGrp></org>
+                <org xml:id="wkfm__47550">
+                     <orgName>Jakob Matthäus Schmidt</orgName>
+                  <noteGrp><note target="wkfm-1647.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1647</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

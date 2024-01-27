@@ -90,14 +90,14 @@
                <lb facs="#facs_15_r2l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_15_r2l3" n="N003"/><rs type="person" ref="#wkfm__11795">Haymerl Philipp Joseph</rs>
                <lb facs="#facs_15_r2l4" n="N004"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_15_r2l5" n="N005"/><rs type="person" ref="#wkfm__46400">Johann Wolfgang und Philipp Joseph Haymerl</rs> laut Anbringen de ps:
+               <lb facs="#facs_15_r2l5" n="N005"/><rs type="org" ref="#wkfm__46400">Johann Wolfgang und Philipp Joseph Haymerl</rs> laut Anbringen de ps:
                <lb facs="#facs_15_r2l6" n="N006"/>19<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 1961
-               <lb facs="#facs_15_r2l7" n="N007"/><rs type="person" ref="#wkfm__13569">Butterna und Haymerl</rs> laut Anbringen de ps: 23<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 728 N<hi style="superscript">o</hi> 1851
+               <lb facs="#facs_15_r2l7" n="N007"/><rs type="org" ref="#wkfm__13569">Butterna und Haymerl</rs> laut Anbringen de ps: 23<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 728 N<hi style="superscript">o</hi> 1851
                <lb facs="#facs_15_r2l8" n="N008"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
-               <lb facs="#facs_15_r2l9" n="N009"/>In obigen Anbringen de ps: 19<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 1961 ist die Firma der Raggion <rs type="person" ref="#wkfm__46400">Johann
+               <lb facs="#facs_15_r2l9" n="N009"/>In obigen Anbringen de ps: 19<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 1961 ist die Firma der Raggion <rs type="org" ref="#wkfm__46400">Johann
                <lb break="no" facs="#facs_15_r2l10" n="N010"/>Wolfgang und Philipp Joseph Haymerl</rs> von beeden sociis <rs type="person" ref="#wkfm__24831">Johann Wolfgang
                <lb break="no" facs="#facs_15_r2l11" n="N011"/>Haymerl</rs> und <rs type="person" ref="#wkfm__11795">Philipp Joseph Haymerl</rs> eingeleget worden
-               <lb facs="#facs_15_r2l12" n="N012"/>In obigen Anbringen de ps: 23<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 728 N<hi style="superscript">o</hi> 1851 ist von der Raggion <rs type="person" ref="#wkfm__13569">Butterna und
+               <lb facs="#facs_15_r2l12" n="N012"/>In obigen Anbringen de ps: 23<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 728 N<hi style="superscript">o</hi> 1851 ist von der Raggion <rs type="org" ref="#wkfm__13569">Butterna und
                <lb break="no" facs="#facs_15_r2l13" n="N013"/>Haymerl</rs> die Anzeige gemacht worden, daß von dieser Raggion jedweder deren
                <lb facs="#facs_15_r2l14" n="N014"/>Interessenten als der <rs type="person" ref="#wkfm__40680">Johann Matthias Butterna</rs>, <rs type="person" ref="#wkfm__24831">Johann Wolfgang</rs> und
                <lb facs="#facs_15_r2l15" n="N015"/><rs type="person" ref="#wkfm__11795">Philipp Joseph Haymerl</rs> die Firma habe.
@@ -107,12 +107,12 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__13569">
-                     <orgName>Butterna und Heimerl</orgName>
-                  <noteGrp><note target="wkfm-0078.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0078</note><note target="wkfm-0079.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0079</note><note target="wkfm-0933.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0933</note><note target="wkfm-0934.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0934</note><note target="wkfm-0935.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0935</note><note target="wkfm-0936.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0936</note></noteGrp></org>
-                <org xml:id="wkfm__46400">
+    <back><listOrg><org xml:id="wkfm__46400">
                      <orgName>Johann Wolfgang Heimerl und Philipp Joseph Heimerl</orgName>
                   <noteGrp><note target="wkfm-0195.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0195</note><note target="wkfm-0933.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0933</note><note target="wkfm-0935.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0935</note></noteGrp></org>
+                <org xml:id="wkfm__13569">
+                     <orgName>Butterna und Heimerl</orgName>
+                  <noteGrp><note target="wkfm-0078.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0078</note><note target="wkfm-0079.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0079</note><note target="wkfm-0933.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0933</note><note target="wkfm-0934.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0934</note><note target="wkfm-0935.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0935</note><note target="wkfm-0936.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0936</note></noteGrp></org>
                 </listOrg><listPerson><person xml:id="wkfm__24831">
                      <persName>
                         <forename>Johann Wolf</forename>

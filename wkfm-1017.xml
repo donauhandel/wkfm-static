@@ -97,7 +97,7 @@
                <lb facs="#facs_97_r3l1" n="N001"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_97_r3l2" n="N002"/><rs type="person" ref="#wkfm__46510">Helmbsteiner Hieronimus</rs> burgerlicher Handlsmann
                <lb facs="#facs_97_r3l3" n="N003"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_97_r3l4" n="N004"/><rs type="person" ref="#wkfm__46511">Hieronymus Helmbsteiner</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 470
+               <lb facs="#facs_97_r3l4" n="N004"/><rs type="org" ref="#wkfm__46511">Hieronymus Helmbsteiner</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 470
                <lb facs="#facs_97_r3l5" n="N006"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_97_r3l6" n="N007"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
                <lb facs="#facs_97_r3l7" n="N008"/>Der <rs type="person" ref="#wkfm__46510">Helmbsteiner</rs> hat zu ausweisung seines handlungs Fundi dem zwischen
@@ -115,14 +115,16 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46511">
-                     <orgName>Hieronymus Helmsteiner</orgName>
-                  <noteGrp><note target="wkfm-1017.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1017</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__46514">
+    <back><listPerson><person xml:id="wkfm__46513">
                      <persName>
-                        <forename>Maria Magdalena</forename>
-                        <surname>Helmsteiner</surname>
+                        <forename>Melchior</forename>
+                        <surname>Spenger</surname>
                      </persName>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Richter zu Maria Hilf</occupation>
+                     <occupation type="aemter">Richter</occupation>
                <noteGrp><note target="wkfm-1017.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1017</note></noteGrp></person>
                 <person xml:id="wkfm__46510">
                      <persName>
@@ -142,22 +144,20 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1017.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1017</note></noteGrp></person>
+                <person xml:id="wkfm__46514">
+                     <persName>
+                        <forename>Maria Magdalena</forename>
+                        <surname>Helmsteiner</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-1017.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1017</note></noteGrp></person>
                 <person xml:id="wkfm__46512" sameAs="#wkfm__11115 ">
                      <persName>
                         <forename>Anna Maria Elisabetha</forename>
                         <surname>Strasserin</surname>
                      </persName>
                <noteGrp><note target="wkfm-1017.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1017</note></noteGrp></person>
-                <person xml:id="wkfm__46513">
-                     <persName>
-                        <forename>Melchior</forename>
-                        <surname>Spenger</surname>
-                     </persName>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Richter zu Maria Hilf</occupation>
-                     <occupation type="aemter">Richter</occupation>
-               <noteGrp><note target="wkfm-1017.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1017</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46511">
+                     <orgName>Hieronymus Helmsteiner</orgName>
+                  <noteGrp><note target="wkfm-1017.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1017</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

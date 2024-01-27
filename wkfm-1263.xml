@@ -104,9 +104,9 @@
                <lb facs="#facs_79_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_79_r1l2" n="N003"/><rs type="person" ref="#wkfm__46543">Mayer Johann Michäl</rs> burgerlicher Handlsmann
                <lb facs="#facs_79_r1l3" n="N004"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_79_r1l4" n="N005"/><rs type="person" ref="#wkfm__38549">Mayer und Höltzl</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 580
+               <lb facs="#facs_79_r1l4" n="N005"/><rs type="org" ref="#wkfm__38549">Mayer und Höltzl</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 580
                <lb facs="#facs_79_r1l5" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
-               <lb facs="#facs_79_r1l8" n="N007"/>In obiger Erklährung <hi>hat</hi> sine dato N<hi style="superscript">o</hi> 580 ist die Firma der Raggion <rs type="person" ref="#wkfm__38549">Mayer und
+               <lb facs="#facs_79_r1l8" n="N007"/>In obiger Erklährung <hi>hat</hi> sine dato N<hi style="superscript">o</hi> 580 ist die Firma der Raggion <rs type="org" ref="#wkfm__38549">Mayer und
                <lb break="no" facs="#facs_79_r1l9" n="N008"/>Höltzl</rs> von beeden sociis <rs type="person" ref="#wkfm__46543">Johann Michäl Mayer</rs> und <rs type="person" ref="#wkfm__46542">Anton Höltzl</rs> einge-
                <lb facs="#facs_79_r1l10" n="N009"/>leget worden
                <lb facs="#facs_79_r1l11" n="N010"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
@@ -125,7 +125,7 @@
                <lb facs="#facs_79_r1l26" n="N023"/>und an ihn durch Cession dd<hi style="superscript">to</hi> 6<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 737 N<hi style="superscript">o</hi> 1613 in vidimus übertragen
                <lb facs="#facs_79_r1l29" n="N024"/>zweyen obligationen alß dd<hi style="superscript">to</hi> 20<hi style="superscript">ten</hi> <hi>Mart</hi> <choice><expan/><abbr>7br:</abbr></choice> 735 <hi>737</hi> N<hi style="superscript">o</hi> 1611 in <choice><expan/><abbr><hi>orig:</hi></abbr></choice> vidimus 1400 fl
                <lb facs="#facs_79_r1l31" n="N025"/>dann dd<hi style="superscript">to</hi> 29<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> d. a. N<hi style="superscript">o</hi> 1612 in Copia vidimata 300 fl
-               <lb facs="#facs_79_r1l33" n="N026"/>der <rs type="person" ref="#wkfm__46543">Mayer</rs> Vermög obliation von <rs type="person" ref="#wkfm__23672">Pigizer und Pettoni</rs> <unclear>gan:</unclear> dd<hi style="superscript">to</hi>
+               <lb facs="#facs_79_r1l33" n="N026"/>der <rs type="person" ref="#wkfm__46543">Mayer</rs> Vermög obliation von <rs type="org" ref="#wkfm__23672">Pigizer und Pettoni</rs> <unclear>gan:</unclear> dd<hi style="superscript">to</hi>
                <lb facs="#facs_79_r1l34" n="N027"/>13<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 737 N<hi style="superscript">o</hi> 1610 in <choice><expan/><abbr>orig:</abbr></choice> 1100 fl
                <lb facs="#facs_79_r1l36" n="N028"/>zusamen Eigenthum 5800 fl
                <lb facs="#facs_79_r1l37" n="N029"/>Dann hat der <rs type="person" ref="#wkfm__9344">Anton Matthias Kürcher</rs> ein <choice><expan/><abbr>orig:</abbr></choice> Instrument dd<hi style="superscript">to</hi> 20<hi style="superscript">ten</hi>
@@ -137,13 +137,27 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__38549">
-                     <orgName>Mayr und Hölzl</orgName>
-                  <noteGrp><note target="wkfm-1037.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1037</note><note target="wkfm-1038.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1038</note><note target="wkfm-1263.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1263</note><note target="wkfm-1264.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1264</note><note target="wkfm-1647.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1647</note><note target="wkfm-1649.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1649</note></noteGrp></org>
-                <org xml:id="wkfm__23672">
-                     <orgName>Pingizer und Bittoni (Junior)</orgName>
-                  <noteGrp><note target="wkfm-0198.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0198</note><note target="wkfm-0199.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0199</note><note target="wkfm-1263.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1263</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__9344" sameAs="#wkfm__15825 ">
+    <back><listPerson><person xml:id="wkfm__46543" sameAs="#wkfm__43880 wkfm__22087 ">
+                     <persName>
+                        <forename>Johann Michael</forename>
+                        <surname>Mayr</surname>
+                     </persName>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+                     <listBibl>
+                        <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 458.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-1037.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1037</note><note target="wkfm-1263.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1263</note><note target="wkfm-1264.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1264</note><note target="wkfm-1661.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1661</note></noteGrp></person>
+                <person xml:id="wkfm__9344" sameAs="#wkfm__15825 ">
                      <persName>
                         <forename>Anton Matthias</forename>
                         <surname>Kircher</surname>
@@ -167,26 +181,6 @@
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 429 (14. März 1711: &amp;#34;Mathias&amp;#34;).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0345.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0345</note><note target="wkfm-0346.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0346</note><note target="wkfm-0475.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0475</note><note target="wkfm-0476.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0476</note><note target="wkfm-0579.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0579</note><note target="wkfm-0580.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0580</note><note target="wkfm-1263.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1263</note><note target="wkfm-1635.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1635</note></noteGrp></person>
-                <person xml:id="wkfm__46543" sameAs="#wkfm__43880 wkfm__22087 ">
-                     <persName>
-                        <forename>Johann Michael</forename>
-                        <surname>Mayr</surname>
-                     </persName>
-                     <residence type="Bürgerrecht">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-                     <listBibl>
-                        <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 458.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-1037.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1037</note><note target="wkfm-1263.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1263</note><note target="wkfm-1264.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1264</note><note target="wkfm-1661.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1661</note></noteGrp></person>
                 <person xml:id="wkfm__10201" sameAs="#wkfm__8501 ">
                      <persName>
                         <forename>Johann Leonhard</forename>
@@ -233,5 +227,11 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1037.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1037</note><note target="wkfm-1038.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1038</note><note target="wkfm-1263.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1263</note><note target="wkfm-1264.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1264</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__23672">
+                     <orgName>Pingizer und Bittoni (Junior)</orgName>
+                  <noteGrp><note target="wkfm-0198.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0198</note><note target="wkfm-0199.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0199</note><note target="wkfm-1263.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1263</note></noteGrp></org>
+                <org xml:id="wkfm__38549">
+                     <orgName>Mayr und Hölzl</orgName>
+                  <noteGrp><note target="wkfm-1037.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1037</note><note target="wkfm-1038.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1038</note><note target="wkfm-1263.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1263</note><note target="wkfm-1264.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1264</note><note target="wkfm-1647.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1647</note><note target="wkfm-1649.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1649</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

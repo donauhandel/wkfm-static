@@ -104,7 +104,18 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47110">
+    <back><listPerson><person xml:id="wkfm__47112">
+                     <persName>
+                        <forename>Jakob</forename>
+                        <surname>Weibel</surname>
+                        <surname type="alt">Weil</surname>
+                     </persName>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Prokurist bei Ignaz Franz Anton Feigl</occupation>
+               <noteGrp><note target="wkfm-0749.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0749</note></noteGrp></person>
+                <person xml:id="wkfm__47110">
                      <persName>
                         <forename>Ignaz Franz Anton</forename>
                         <surname>Feigl</surname>
@@ -125,16 +136,5 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0749.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0749</note><note target="wkfm-0750.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0750</note></noteGrp></person>
-                <person xml:id="wkfm__47112">
-                     <persName>
-                        <forename>Jakob</forename>
-                        <surname>Weibel</surname>
-                        <surname type="alt">Weil</surname>
-                     </persName>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Prokurist bei Ignaz Franz Anton Feigl</occupation>
-               <noteGrp><note target="wkfm-0749.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0749</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

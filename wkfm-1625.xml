@@ -87,7 +87,7 @@
                <lb facs="#facs_167_r2l1" n="N003"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_167_r2l2" n="N004"/><rs type="person" ref="#wkfm__47522">Schmidt Ignaz</rs> burgerlicher Handlsmann
                <lb facs="#facs_167_r2l3" n="N005"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_167_r2l4" n="N006"/><rs type="person" ref="#wkfm__47521">Ignat: Schmidt</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 742
+               <lb facs="#facs_167_r2l4" n="N006"/><rs type="org" ref="#wkfm__47521">Ignat: Schmidt</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 742
                <lb facs="#facs_167_r2l5" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_167_r2l6" n="N008"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_167_r2l7" n="N009"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
@@ -99,13 +99,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47523">
-                     <persName>
-                        <forename>Georg Philipp</forename>
-                        <surname>von Batz</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-1625.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1625</note></noteGrp></person>
-                <person xml:id="wkfm__47522" sameAs="#wkfm__13086 ">
+    <back><listPerson><person xml:id="wkfm__47522" sameAs="#wkfm__13086 ">
                      <persName>
                         <forename>Ignaz</forename>
                         <surname>Schmidt</surname>
@@ -125,6 +119,12 @@
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 519.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1625.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1625</note><note target="wkfm-1626.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1626</note></noteGrp></person>
+                <person xml:id="wkfm__47523">
+                     <persName>
+                        <forename>Georg Philipp</forename>
+                        <surname>von Batz</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-1625.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1625</note></noteGrp></person>
                 </listPerson><listOrg><org xml:id="wkfm__47521">
                      <orgName>Ignaz Schmidt</orgName>
                   <noteGrp><note target="wkfm-1625.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1625</note></noteGrp></org>

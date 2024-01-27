@@ -85,10 +85,10 @@
                <lb facs="#facs_29_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_29_r1l3" n="N003"/><rs type="person" ref="#wkfm__46698">v. Rauner der jüngere</rs> kay: könig: Niderlags Verwanter
                <lb facs="#facs_29_r1l5" n="N004"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_29_r1l6" n="N005"/><rs type="person" ref="#wkfm__8334">v. Rauner Ig<hi style="superscript">re</hi> und Münch</rs> laut Erkährung dd<hi style="superscript">to</hi> 26<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 1050
+               <lb facs="#facs_29_r1l6" n="N005"/><rs type="org" ref="#wkfm__8334">v. Rauner Ig<hi style="superscript">re</hi> und Münch</rs> laut Erkährung dd<hi style="superscript">to</hi> 26<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 1050
                <lb facs="#facs_29_r1l7" n="N006"/>und anbringen de ps: 8<hi style="superscript">ten</hi> May 725 N<hi style="superscript">o</hi> 1051
                <lb facs="#facs_29_r1l8" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
-               <lb facs="#facs_29_r1l9" n="N008"/>Die Raggion <rs type="person" ref="#wkfm__8334">v. Rauner Ig<hi style="superscript">re</hi> und Münch</rs> hat mitls anbringen de ps: 8<hi style="superscript">ten</hi> May 725 N<hi style="superscript">o</hi> 1051
+               <lb facs="#facs_29_r1l9" n="N008"/>Die Raggion <rs type="org" ref="#wkfm__8334">v. Rauner Ig<hi style="superscript">re</hi> und Münch</rs> hat mitls anbringen de ps: 8<hi style="superscript">ten</hi> May 725 N<hi style="superscript">o</hi> 1051
                <lb facs="#facs_29_r1l10" n="N009"/>und Erklährung dd<hi style="superscript">to</hi> 26<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 1050 angezeiget, daß sie die Procura
                <lb facs="#facs_29_r1l11" n="N010"/>dem <rs type="person" ref="#wkfm__46700">Johann Wilhelm Henner</rs> gegeben haben, auch die Firma des Henner einge-
                <lb facs="#facs_29_r1l12" n="N011"/>leget.
@@ -101,7 +101,19 @@
     <back><listOrg><org xml:id="wkfm__8334">
                      <orgName>Rauner und Münch</orgName>
                   <noteGrp><note target="wkfm-1237.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1237</note><note target="wkfm-1238.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1238</note><note target="wkfm-1381.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1381</note><note target="wkfm-1382.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1382</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__46698">
+                </listOrg><listPerson><person xml:id="wkfm__46700">
+                     <persName>
+                        <forename>Johann Wilhelm</forename>
+                        <forename type="alt">Adolf Wilhelm</forename>
+                        <surname>Henner</surname>
+                        <surname type="alt">Henne</surname>
+                     </persName>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Prokurist bei Rauner und Münch</occupation>
+               <noteGrp><note target="wkfm-1237.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1237</note><note target="wkfm-1381.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1381</note></noteGrp></person>
+                <person xml:id="wkfm__46698">
                      <persName>
                         <forename>Johann Thomas</forename>
                         <surname>von Rauner</surname>
@@ -120,17 +132,5 @@
                         <bibl>&amp;lt;div&amp;gt;Seibold, Wirtschaftlicher Erfolg, Bd. 1, 268-282; &amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Haemmerle, Hochzeitsbücher, 257, Nr. 3499; 267, Nr. 3669&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;.&amp;lt;/div&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1238.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1238</note><note target="wkfm-1381.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1381</note><note target="wkfm-1382.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1382</note></noteGrp></person>
-                <person xml:id="wkfm__46700">
-                     <persName>
-                        <forename>Johann Wilhelm</forename>
-                        <forename type="alt">Adolf Wilhelm</forename>
-                        <surname>Henner</surname>
-                        <surname type="alt">Henne</surname>
-                     </persName>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Prokurist bei Rauner und Münch</occupation>
-               <noteGrp><note target="wkfm-1237.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1237</note><note target="wkfm-1381.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1381</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

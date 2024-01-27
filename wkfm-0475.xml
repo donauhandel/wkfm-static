@@ -100,7 +100,35 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__41599" sameAs="#wkfm__29586 ">
+    <back><listPerson><person xml:id="wkfm__46108">
+                     <persName>
+                        <forename>Joseph</forename>
+                        <surname>Kircher</surname>
+                        <surname type="alt">Kirchner</surname>
+                     </persName>
+                     <death><date>1780?</date></death>
+                     <affiliation>
+                        <orgName key="#wkfm__47207">Anton Matthias Kircher</orgName>
+                     </affiliation>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zum Roten Igel unter den Tuchlauben (Calender 1758)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+                     <listBibl>
+                        <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 429 (Dezember 1748: &amp;#34;Kirchner&amp;#34;).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0346.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0346</note><note target="wkfm-0475.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0475</note><note target="wkfm-0476.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0476</note><note target="wkfm-0580.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0580</note></noteGrp></person>
+                <person xml:id="wkfm__41599" sameAs="#wkfm__29586 ">
                      <persName>
                         <forename>Johann Peter</forename>
                         <surname>Togniola</surname>
@@ -132,34 +160,6 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 546; Schachinger, Entwicklung der Maulbeerbaum- u. Seidenkultur in Wien und NÖ, 154.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0346.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0346</note><note target="wkfm-0475.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0475</note><note target="wkfm-0476.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0476</note><note target="wkfm-0579.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0579</note><note target="wkfm-0580.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0580</note></noteGrp></person>
-                <person xml:id="wkfm__46108">
-                     <persName>
-                        <forename>Joseph</forename>
-                        <surname>Kircher</surname>
-                        <surname type="alt">Kirchner</surname>
-                     </persName>
-                     <death><date>1780?</date></death>
-                     <affiliation>
-                        <orgName key="#wkfm__47207">Anton Matthias Kircher</orgName>
-                     </affiliation>                    
-                     <residence type="Geschäftsadresse">
-                        <placeName>Zum Roten Igel unter den Tuchlauben (Calender 1758)</placeName>
-                     </residence>
-                     <residence type="Bürgerrecht">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-                     <listBibl>
-                        <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 429 (Dezember 1748: &amp;#34;Kirchner&amp;#34;).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-0346.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0346</note><note target="wkfm-0475.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0475</note><note target="wkfm-0476.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0476</note><note target="wkfm-0580.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0580</note></noteGrp></person>
                 <person xml:id="wkfm__9344" sameAs="#wkfm__15825 ">
                      <persName>
                         <forename>Anton Matthias</forename>

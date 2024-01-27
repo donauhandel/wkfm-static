@@ -87,7 +87,7 @@
             
             <ab facs="#facs_16_r1">
                <lb facs="#facs_16_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
-               <lb facs="#facs_16_line_1628381645762_469" n="N002"/>In obigen Anbringen de ps: 19<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 1846 haben sich die <rs type="person" ref="#wkfm__30430">Gebrüder Palm</rs> erklähret das ihre 
+               <lb facs="#facs_16_line_1628381645762_469" n="N002"/>In obigen Anbringen de ps: 19<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 1846 haben sich die <rs type="org" ref="#wkfm__30430">Gebrüder Palm</rs> erklähret das ihre 
                <lb facs="#facs_16_r1l4" n="N003"/>Handlung nach Inhalt des unter ihnen errichteten Contracts dd<hi style="superscript">to</hi> 1<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 723
                <lb facs="#facs_16_r1l5" n="N004"/>auf 3 Jahr lang unter des <rs type="person" ref="#wkfm__43805">Franz Gottlieb Palm</rs> Directorio und mit dessen
                <lb facs="#facs_16_r1l6" n="N005"/>obligo wie auch mit dem von <rs type="person" ref="#wkfm__43808">Jonathan von Palm</rs>, <rs type="person" ref="#wkfm__43809">Franz von Palm</rs>, <rs type="person" ref="#wkfm__24663">Carl
@@ -100,7 +100,7 @@
                <lb facs="#facs_16_r1l12" n="N012"/>die übrige interessenten das Negotium zu continuieren gesinnet seyen, 
                <lb facs="#facs_16_line_1621290245050_782" n="N013"/>Fundo von 100000 fl gemacht und davon dem <rs type="person" ref="#wkfm__13459">Johann Heinrich Stammetz</rs>
                <lb facs="#facs_16_line_1621290262064_792" n="N014"/>mit 20 m fl um 1/5 <choice><expan/><abbr>tl.</abbr></choice> <hi>nacher </hi>nebst zuziehung des vom ihm <rs type="person" ref="#wkfm__13459">Stammetz</rs> <unclear>eigenthum</unclear>
-               <lb facs="#facs_16_r1l18" n="N015"/>unter der Raggion <rs type="person" ref="#wkfm__43807">Christian Kaltschmid <choice><expan/><abbr>seel.</abbr></choice> Wittib et Compagno</rs> geführte
+               <lb facs="#facs_16_r1l18" n="N015"/>unter der Raggion <rs type="org" ref="#wkfm__43807">Christian Kaltschmid <choice><expan/><abbr>seel.</abbr></choice> Wittib et Compagno</rs> geführte
                <lb facs="#facs_16_r1l19" n="N016"/>negotien <hi><unclear>nego </unclear></hi>interessiert haben.
                <lb facs="#facs_16_r1l20" n="N017"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_16_r1l21" n="N018"/><seg type="orighead__other_notes">Anmerkungen</seg>
@@ -145,36 +145,6 @@
                         <bibl>Kollmer, Familie Palm, 45-90.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0069.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0069</note></noteGrp></person>
-                <person xml:id="wkfm__22880">
-                     <persName>
-                        <forename>Johann Heinrich</forename>
-                        <surname>von Palm</surname>
-                     </persName>
-                     <birth><date>1687</date></birth>
-                     <death><date>1744</date></death>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-                     <listBibl>
-                        <bibl>Kollmer, Familie Palm, passim; &amp;lt;span&amp;gt;Kröpfel, Protestantismus, Anhang 1, S. 5; &amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Kühnert, Taufbuch, 106.&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-0069.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0069</note></noteGrp></person>
-                <person xml:id="wkfm__13459">
-                     <persName>
-                        <forename>Johann Heinrich</forename>
-                        <surname>Stametz</surname>
-                     </persName>
-                     <death><date>1782</date></death>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Herkunft-Aschach">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann, Prokurist der Gebrüder Palm</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-                     <listBibl>
-                        <bibl>Mittenzwei, Zwischen gestern und morgen, S. 116; Stökl, Protestantismus, 229. Ein Heinrich Stametz (der Vater?) ist erwähnt bei Senfelder, Gottesacker, 269.&amp;lt;br&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-0068.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0068</note><note target="wkfm-0069.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0069</note></noteGrp></person>
                 <person xml:id="wkfm__43805">
                      <persName>
                         <forename>Franz Gottlieb</forename>
@@ -199,11 +169,41 @@
                         <bibl>Kollmer, Familie Palm, 55 und passim.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0068.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0068</note><note target="wkfm-0069.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0069</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__30430">
-                     <orgName>Gebrüder Franz Gottlieb von Palm und Leopold Karl von Palm</orgName>
-                  <noteGrp><note target="wkfm-0069.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0069</note></noteGrp></org>
-                <org xml:id="wkfm__43807">
+                <person xml:id="wkfm__13459">
+                     <persName>
+                        <forename>Johann Heinrich</forename>
+                        <surname>Stametz</surname>
+                     </persName>
+                     <death><date>1782</date></death>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Herkunft-Aschach">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann, Prokurist der Gebrüder Palm</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+                     <listBibl>
+                        <bibl>Mittenzwei, Zwischen gestern und morgen, S. 116; Stökl, Protestantismus, 229. Ein Heinrich Stametz (der Vater?) ist erwähnt bei Senfelder, Gottesacker, 269.&amp;lt;br&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0068.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0068</note><note target="wkfm-0069.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0069</note></noteGrp></person>
+                <person xml:id="wkfm__22880">
+                     <persName>
+                        <forename>Johann Heinrich</forename>
+                        <surname>von Palm</surname>
+                     </persName>
+                     <birth><date>1687</date></birth>
+                     <death><date>1744</date></death>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+                     <listBibl>
+                        <bibl>Kollmer, Familie Palm, passim; &amp;lt;span&amp;gt;Kröpfel, Protestantismus, Anhang 1, S. 5; &amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Kühnert, Taufbuch, 106.&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0069.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0069</note></noteGrp></person>
+                </listPerson><listOrg><org xml:id="wkfm__43807">
                      <orgName>Christian Kaltschmidt sel. Witwe &amp; Co.</orgName>
                   <noteGrp><note target="wkfm-0068.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0068</note><note target="wkfm-0069.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0069</note></noteGrp></org>
+                <org xml:id="wkfm__30430">
+                     <orgName>Gebrüder Franz Gottlieb von Palm und Leopold Karl von Palm</orgName>
+                  <noteGrp><note target="wkfm-0069.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0069</note></noteGrp></org>
                 </listOrg></back></text>
 </TEI>

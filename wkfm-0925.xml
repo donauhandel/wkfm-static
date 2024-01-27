@@ -79,7 +79,7 @@
                <lb facs="#facs_5_r3l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_5_r3l2" n="N003"/><rs type="person" ref="#wkfm__11600">Hukher Maximilian</rs> hofbefreyter Leinwathandler
                <lb facs="#facs_5_r3l3" n="N004"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_5_r3l4" n="N005"/><rs type="person" ref="#wkfm__46395">Maximilian Hukher</rs> laut Anbringen de ps: 18<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 429
+               <lb facs="#facs_5_r3l4" n="N005"/><rs type="org" ref="#wkfm__46395">Maximilian Hukher</rs> laut Anbringen de ps: 18<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 429
                <lb facs="#facs_5_r3l5" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_5_r3l6" n="N007"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_5_r3l7" n="N008"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
@@ -87,7 +87,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__11600">
+    <back><listOrg><org xml:id="wkfm__46395">
+                     <orgName>Maximilian Hucker</orgName>
+                  <noteGrp><note target="wkfm-0925.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0925</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__11600">
                      <persName>
                         <forename>Maximilian</forename>
                         <surname>Hucker</surname>
@@ -103,8 +106,5 @@
                      <occupation>Leinwandhändler</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
                <noteGrp><note target="wkfm-0925.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0925</note><note target="wkfm-0926.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0926</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46395">
-                     <orgName>Maximilian Hucker</orgName>
-                  <noteGrp><note target="wkfm-0925.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0925</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

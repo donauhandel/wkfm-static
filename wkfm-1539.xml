@@ -82,7 +82,7 @@
                <lb facs="#facs_81_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_81_r1l3" n="N003"/><rs type="person" ref="#wkfm__47452">Steigmiller Johann Ernst</rs> burgerlicher <hi>Handlsmann</hi> Zukerbäker
                <lb facs="#facs_81_r1l4" n="N004"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_81_r1l5" n="N005"/><rs type="person" ref="#wkfm__47453">Johann Ernst Steigmüller</rs> laut Erklährung dd<hi style="superscript">to</hi> 18<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725
+               <lb facs="#facs_81_r1l5" n="N005"/><rs type="org" ref="#wkfm__47453">Johann Ernst Steigmüller</rs> laut Erklährung dd<hi style="superscript">to</hi> 18<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725
                <lb facs="#facs_81_r1l6" n="N006"/>N<hi style="superscript">o</hi> 696
                <lb facs="#facs_81_r1l7" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_81_r1l9" n="N008"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
@@ -91,7 +91,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47452">
+    <back><listOrg><org xml:id="wkfm__47453">
+                     <orgName>Johann Ernst Steigmiller</orgName>
+                  <noteGrp><note target="wkfm-1539.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1539</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__47452">
                      <persName>
                         <forename>Johann Ernst</forename>
                         <surname>Steigmiller</surname>
@@ -111,8 +114,5 @@
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 537 (14. März 1711: &amp;#34;Johann&amp;#34;).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1539.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1539</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__47453">
-                     <orgName>Johann Ernst Steigmiller</orgName>
-                  <noteGrp><note target="wkfm-1539.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1539</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

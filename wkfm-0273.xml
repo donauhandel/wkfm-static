@@ -79,7 +79,7 @@
                <lb facs="#facs_219_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_219_r1l2" n="N003"/><rs type="person" ref="#wkfm__43929">Pindter Leopold</rs> burg: Handlsmann
                <lb facs="#facs_219_r1l3" n="N004"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_219_r1l4" n="N005"/><rs type="person" ref="#wkfm__47376">Leopoldt Pindter</rs> laut Erklährung dd<hi style="superscript">to</hi> 18<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 743 N<hi style="superscript">o</hi> 134
+               <lb facs="#facs_219_r1l4" n="N005"/><rs type="org" ref="#wkfm__47376">Leopoldt Pindter</rs> laut Erklährung dd<hi style="superscript">to</hi> 18<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 743 N<hi style="superscript">o</hi> 134
                <lb facs="#facs_219_r1l5" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_219_r1l6" n="N007"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_219_r1l7" n="N008"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
@@ -87,10 +87,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47376">
-                     <orgName>Leopold Pindter</orgName>
-                  <noteGrp><note target="wkfm-0273.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0273</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__43929">
+    <back><listPerson><person xml:id="wkfm__43929">
                      <persName>
                         <forename>Leopold</forename>
                         <surname>Pindter</surname>
@@ -107,5 +104,8 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0273.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0273</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47376">
+                     <orgName>Leopold Pindter</orgName>
+                  <noteGrp><note target="wkfm-0273.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0273</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

@@ -83,7 +83,7 @@
                <lb facs="#facs_74_r1l3" n="N003"/>der <rs type="person" ref="#wkfm__30269">Franz Joseph Fünffer</rs> und <rs type="person" ref="#wkfm__46767">Matthias Pränkhl</rs> erklähret
                <lb facs="#facs_74_r1l4" n="N004"/>daß sie beede ihre Handlung alß gleiche Socii und Compagnons
                <lb facs="#facs_74_r1l5" n="N005"/>einer für beede und beede für einen jedweder zu <unclear>Solidum</unclear>
-               <lb facs="#facs_74_r1l6" n="N006"/>unter der Societaets Raggion <rs type="person" ref="#wkfm__8264">Funffe<unclear>r,</unclear> und Pränkhl</rs> führen.
+               <lb facs="#facs_74_r1l6" n="N006"/>unter der Societaets Raggion <rs type="org" ref="#wkfm__8264">Funffe<unclear>r,</unclear> und Pränkhl</rs> führen.
                <lb facs="#facs_74_r1l7" n="N007"/>Mitls Anbringen de ps: 4<hi style="superscript">ten</hi> Junii 736 N<hi style="superscript">o</hi> 1939 hat der <rs type="person" ref="#wkfm__30269">Fünfer</rs> ange-
                <lb facs="#facs_74_r1l8" n="N008"/>zeiget, daß er sich von dem <rs type="person" ref="#wkfm__46767">Pränkhl</rs> separiret habe.
                <lb facs="#facs_74_r1l9" n="N009"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
@@ -92,7 +92,25 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__30269">
+    <back><listPerson><person xml:id="wkfm__46767">
+                     <persName>
+                        <forename>Matthias</forename>
+                        <surname>Pränkl</surname>
+                     </persName>
+                     <death><date>1757</date></death>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Tuchhändler</occupation>
+                     <occupation type="kaufmannsklasse">tuchlaubensverwandt/bürgerlich</occupation>
+               <noteGrp><note target="wkfm-0742.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0742</note><note target="wkfm-1445.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1445</note></noteGrp></person>
+                <person xml:id="wkfm__30269">
                      <persName>
                         <forename>Franz Joseph</forename>
                         <surname>Fünfer</surname>
@@ -113,24 +131,6 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 382 (Mai 1728).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0741.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0741</note><note target="wkfm-0742.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0742</note></noteGrp></person>
-                <person xml:id="wkfm__46767">
-                     <persName>
-                        <forename>Matthias</forename>
-                        <surname>Pränkl</surname>
-                     </persName>
-                     <death><date>1757</date></death>
-                     <residence type="Bürgerrecht">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Tuchhändler</occupation>
-                     <occupation type="kaufmannsklasse">tuchlaubensverwandt/bürgerlich</occupation>
-               <noteGrp><note target="wkfm-0742.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0742</note><note target="wkfm-1445.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1445</note></noteGrp></person>
                 </listPerson><listOrg><org xml:id="wkfm__8264">
                      <orgName>Fünfer und Pränkl</orgName>
                   <noteGrp><note target="wkfm-0741.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0741</note><note target="wkfm-0742.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0742</note></noteGrp></org>

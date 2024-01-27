@@ -81,8 +81,8 @@
                <lb facs="#facs_55_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_55_r1l4" n="N003"/><rs type="person" ref="#wkfm__23505">Hokhstainer Carl</rs> burgerlicher Handlsmann
                <lb facs="#facs_55_r1l5" n="N004"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_55_r1l6" n="N005"/><rs type="person" ref="#wkfm__46478">Carl Hökhstainer</rs> laut Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 451
-               <lb facs="#facs_55_r1l7" n="N006"/><rs type="person" ref="#wkfm__25274">Hökhstainer et Hink</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 468
+               <lb facs="#facs_55_r1l6" n="N005"/><rs type="org" ref="#wkfm__46478">Carl Hökhstainer</rs> laut Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 451
+               <lb facs="#facs_55_r1l7" n="N006"/><rs type="org" ref="#wkfm__25274">Hökhstainer et Hink</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 468
                <lb facs="#facs_55_r1l8" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_55_r1l9" n="N008"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_55_r1l10" n="N009"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
@@ -90,13 +90,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46478">
-                     <orgName>Karl Höcksteiner</orgName>
-                  <noteGrp><note target="wkfm-0975.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0975</note></noteGrp></org>
-                <org xml:id="wkfm__25274">
-                     <orgName>Höcksteiner und Hink</orgName>
-                  <noteGrp><note target="wkfm-0975.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0975</note><note target="wkfm-0976.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0976</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__23505">
+    <back><listPerson><person xml:id="wkfm__23505">
                      <persName>
                         <forename>Karl</forename>
                         <surname>Höcksteiner</surname>
@@ -125,5 +119,11 @@
                         <bibl>Huchler, Bürgeraufnahmen, 414 (&amp;#34;Hökhsteiner&amp;#34;).&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0975.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0975</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__25274">
+                     <orgName>Höcksteiner und Hink</orgName>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__23505">Höcksteiner, Karl</persName></person></listPerson><noteGrp><note target="wkfm-0975.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0975</note><note target="wkfm-0976.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0976</note></noteGrp></org>
+                <org xml:id="wkfm__46478">
+                     <orgName>Karl Höcksteiner</orgName>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__23505">Höcksteiner, Karl</persName></person></listPerson><noteGrp><note target="wkfm-0975.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0975</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

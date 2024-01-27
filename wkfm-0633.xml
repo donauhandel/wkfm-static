@@ -86,7 +86,7 @@
                <lb facs="#facs_13_r3l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_13_line_1619202496219_800" n="N003"/><hi><unclear>Eenas</unclear></hi> <rs type="person" ref="#wkfm__46410"><unclear>Eenns</unclear> Johann Anton</rs> burgerlicher Handlsmann
                <lb facs="#facs_13_r3l5" n="N004"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_13_r3l6" n="N005"/><rs type="person" ref="#wkfm__46411">Johann <hi>E</hi> Antonj <unclear>Eenns</unclear></rs> laut Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 302
+               <lb facs="#facs_13_r3l6" n="N005"/><rs type="org" ref="#wkfm__46411">Johann <hi>E</hi> Antonj <unclear>Eenns</unclear></rs> laut Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 302
                <lb facs="#facs_13_r3l7" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_13_r3l8" n="N007"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_13_r3l9" n="N008"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
@@ -94,7 +94,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46410">
+    <back><listOrg><org xml:id="wkfm__46411">
+                     <orgName>Johann Anton Enns</orgName>
+                  <noteGrp><note target="wkfm-0633.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0633</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__46410">
                      <persName>
                         <forename>Johann Anton</forename>
                         <surname>Enns</surname>
@@ -118,8 +121,5 @@
                         <bibl>Huchler, Bürgeraufnahmen, 371.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0633.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0633</note><note target="wkfm-0634.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0634</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46411">
-                     <orgName>Johann Anton Enns</orgName>
-                  <noteGrp><note target="wkfm-0633.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0633</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

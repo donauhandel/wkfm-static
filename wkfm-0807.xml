@@ -93,7 +93,7 @@
                <lb facs="#facs_139_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_139_r1l3" n="N003"/><rs type="person" ref="#wkfm__47190">Frieß Johann</rs> K. K. Niderlags Verwanter
                <lb facs="#facs_139_r1l4" n="N004"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_139_line_1621875747657_110" n="N005"/><rs type="person" ref="#wkfm__47191">Johannes Frieß</rs> laut Oblatorien dd<hi style="superscript">to</hi> 1<hi style="superscript">ten</hi> May 752 N<hi style="superscript">o</hi> 1122 welche der <choice><expan/><abbr>supl.</abbr></choice> mitls
+               <lb facs="#facs_139_line_1621875747657_110" n="N005"/><rs type="org" ref="#wkfm__47191">Johannes Frieß</rs> laut Oblatorien dd<hi style="superscript">to</hi> 1<hi style="superscript">ten</hi> May 752 N<hi style="superscript">o</hi> 1122 welche der <choice><expan/><abbr>supl.</abbr></choice> mitls
                <lb facs="#facs_139_r1l7" n="N006"/>Anbringen de ps: 11<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 755 N<hi style="superscript">o</hi> 1123 eingeleget
                <lb facs="#facs_139_r1l8" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_139_r1l9" n="N008"/>In obigen Oblatorien dd<hi style="superscript">to</hi> 1<hi style="superscript">ten</hi> May 752 N<hi style="superscript">o</hi> 1122 hat der <rs type="person" ref="#wkfm__47190">Frieß</rs> kund gemacht, daß
@@ -117,17 +117,7 @@
     <back><listOrg><org xml:id="wkfm__47191">
                      <orgName>Johannes Fries</orgName>
                   <noteGrp><note target="wkfm-0807.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0807</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__47192" sameAs="#wkfm__43528 ">
-                     <persName>
-                        <forename>Johann Georg</forename>
-                        <surname>Haas</surname>
-                     </persName>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Angestellter und Prokurist bei Johann Fries</occupation>
-               <noteGrp><note target="wkfm-0807.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0807</note></noteGrp></person>
-                <person xml:id="wkfm__47190" sameAs="#wkfm__23466 ">
+                </listOrg><listPerson><person xml:id="wkfm__47190" sameAs="#wkfm__23466 ">
                      <persName>
                         <forename>Johann</forename>
                         <surname>Fries</surname>
@@ -151,6 +141,16 @@
                      <listBibl>
                         <bibl>Matis, Grafen von Fries, 484-492; Matis, Ansätze der Industrialisierung, 195; Mikoletzky, Schweizer Händler, 169-171; Stökl, Protestantismus, 220f.; Mittenzwei, Zwischen Gestern und Morgen, passim; Dickson, Finance 1, passim; Matis, Manufakturen, 297.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
+               <noteGrp><note target="wkfm-0807.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0807</note></noteGrp></person>
+                <person xml:id="wkfm__47192" sameAs="#wkfm__43528 ">
+                     <persName>
+                        <forename>Johann Georg</forename>
+                        <surname>Haas</surname>
+                     </persName>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Angestellter und Prokurist bei Johann Fries</occupation>
                <noteGrp><note target="wkfm-0807.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0807</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

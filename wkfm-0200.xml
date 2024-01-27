@@ -79,7 +79,7 @@
                <lb facs="#facs_147_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_147_r1l2" n="N003"/><rs type="person" ref="#wkfm__43909">Piwänkho Jacob</rs> burgerlicher Handlsmann
                <lb facs="#facs_147_r1l3" n="N004"/><seg type="orighead__firma">Firma oder Raggion</seg>
-               <lb facs="#facs_147_r1l4" n="N005"/><rs type="person" ref="#wkfm__47342">Jacob Piwänkho</rs> laut Erklährung dd<hi style="superscript">to</hi> 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 733 N<hi style="superscript">o</hi> 91
+               <lb facs="#facs_147_r1l4" n="N005"/><rs type="org" ref="#wkfm__47342">Jacob Piwänkho</rs> laut Erklährung dd<hi style="superscript">to</hi> 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 733 N<hi style="superscript">o</hi> 91
                <lb facs="#facs_147_line_1621467998034_2712" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_147_r1l5" n="N007"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_147_r1l6" n="N008"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
@@ -87,10 +87,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47342">
-                     <orgName>Jakob Piwanko</orgName>
-                  <noteGrp><note target="wkfm-0200.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0200</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__43909" sameAs="#wkfm__42791 ">
+    <back><listPerson><person xml:id="wkfm__43909" sameAs="#wkfm__42791 ">
                      <persName>
                         <forename>Jakob</forename>
                         <surname>Piwanko</surname>
@@ -122,5 +119,8 @@
                         <bibl>&amp;lt;span&amp;gt;Budischowky, Die Edlen von Tschoffen, 175/Anm. 10, 187.&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0200.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0200</note><note target="wkfm-0201.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0201</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47342">
+                     <orgName>Jakob Piwanko</orgName>
+                  <noteGrp><note target="wkfm-0200.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0200</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

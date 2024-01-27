@@ -97,11 +97,11 @@
                <lb facs="#facs_30_r1l5" n="N005"/>Mitls Anbringen de ps: 28<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> 739 N<hi style="superscript">o</hi> 1971 hat der Hökhsteinerische Sohn
                <lb facs="#facs_30_r1l6" n="N006"/><rs type="person" ref="#wkfm__46454">Franz Carl</rs> angezeiget daß ihn seine Mutter alß des <rs type="person" ref="#wkfm__46455">Joseph Hökstainer
                <lb break="no" facs="#facs_30_r1l7" n="N007"/>rukgelassene Wittib</rs> in Compagnie genohmen habe, und inhinkunft die
-               <lb facs="#facs_30_r1l8" n="N008"/>die Handlung unter der societaets firma <rs type="person" ref="#wkfm__46453">Joseph Hökhstainer <choice><expan/><abbr>seel:</abbr></choice> Wittib
+               <lb facs="#facs_30_r1l8" n="N008"/>die Handlung unter der societaets firma <rs type="org" ref="#wkfm__46453">Joseph Hökhstainer <choice><expan/><abbr>seel:</abbr></choice> Wittib
                <lb break="no" facs="#facs_30_r1l9" n="N009"/>und Sohn</rs> prosequiret werden solle, gedacht seine Mutter habe anbey
                <lb facs="#facs_30_r1l10" n="N010"/>den in <choice><expan/><abbr>orig:</abbr></choice> N<hi style="superscript">o</hi> 1972 eingelegten revers untern 23<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> 739 dahin ausge-
                <lb facs="#facs_30_r1l11" n="N011"/>stehlet, daß sie mit Schadloßhaltung seiner alle activa und Passiva
-               <lb facs="#facs_30_r1l12" n="N012"/>so unter der raggion <rs type="person" ref="#wkfm__46452">Joseph Hökhsteiner</rs> biß zu seiner Eintrettung
+               <lb facs="#facs_30_r1l12" n="N012"/>so unter der raggion <rs type="org" ref="#wkfm__46452">Joseph Hökhsteiner</rs> biß zu seiner Eintrettung
                <lb facs="#facs_30_r1l13" n="N013"/>in die Compagnie auf sich allein nehmen wolle.
                <lb facs="#facs_30_r1l14" n="N014"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_30_r1l15" n="N015"/>Mitls Anbringen de ps: 10<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> 739 N<hi style="superscript">o</hi> 2168 hat der<rs type="person" ref="#wkfm__46454"> Hokhsteiner: Sohn</rs> und socius
@@ -116,29 +116,13 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__8186">
-                     <persName>
-                        <forename>Joseph</forename>
-                        <surname>Höcksteiner</surname>
-                     </persName>
-                     <death><date>1737</date></death>                    
-                     <residence type="Geschäftsadresse">
-                        <placeName>Zum Goldenen Fässel nächst dem Peters-Friedhof (Calender 1723)</placeName>
-                     </residence>
-                     <residence type="Bürgerrecht">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann, Materialist</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-                     <occupation type="aemter">Vorsteher der bürgerl. Handelsleute</occupation>
-               <noteGrp><note target="wkfm-0949.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0949</note><note target="wkfm-0950.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0950</note></noteGrp></person>
-                <person xml:id="wkfm__46455">
+    <back><listOrg><org xml:id="wkfm__46453">
+                     <orgName>Joseph Höcksteiner sel. Witwe und Sohn</orgName>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__46454">Höcksteiner, Franz Karl</persName></person></listPerson><noteGrp><note target="wkfm-0949.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0949</note><note target="wkfm-0950.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0950</note><note target="wkfm-1809.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1809</note></noteGrp></org>
+                <org xml:id="wkfm__46452">
+                     <orgName>Joseph Höcksteiner</orgName>
+                  <noteGrp><note target="wkfm-0949.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0949</note><note target="wkfm-0950.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0950</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__46455">
                      <persName>
                         <forename>Anna Katharina</forename>
                         <surname>Höcksteiner</surname>
@@ -186,11 +170,27 @@
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 412.&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0949.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0949</note><note target="wkfm-0950.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0950</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46453">
-                     <orgName>Joseph Höcksteiner sel. Witwe und Sohn</orgName>
-                  <noteGrp><note target="wkfm-0949.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0949</note><note target="wkfm-0950.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0950</note><note target="wkfm-1809.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1809</note></noteGrp></org>
-                <org xml:id="wkfm__46452">
-                     <orgName>Joseph Höcksteiner</orgName>
-                  <noteGrp><note target="wkfm-0949.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0949</note><note target="wkfm-0950.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0950</note></noteGrp></org>
-                </listOrg></back></text>
+                <person xml:id="wkfm__8186">
+                     <persName>
+                        <forename>Joseph</forename>
+                        <surname>Höcksteiner</surname>
+                     </persName>
+                     <death><date>1737</date></death>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zum Goldenen Fässel nächst dem Peters-Friedhof (Calender 1723)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann, Materialist</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+                     <occupation type="aemter">Vorsteher der bürgerl. Handelsleute</occupation>
+               <noteGrp><note target="wkfm-0949.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0949</note><note target="wkfm-0950.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0950</note></noteGrp></person>
+                </listPerson></back></text>
 </TEI>

@@ -80,7 +80,7 @@
                <lb facs="#facs_131_r2l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_131_r2l3" n="N003"/><rs type="person" ref="#wkfm__26303">Sartory Johann Georg</rs> burgerlicher Handlsmann
                <lb facs="#facs_131_r2l5" n="N004"/><seg type="orighead__firma">Firma ad Raggion</seg>
-               <lb facs="#facs_131_r2l6" n="N005"/><rs type="person" ref="#wkfm__47492">Johann Georg Särtory</rs> laut Erklährung dd<hi style="superscript">to</hi> 14<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 733 N<hi style="superscript">o</hi> 721
+               <lb facs="#facs_131_r2l6" n="N005"/><rs type="org" ref="#wkfm__47492">Johann Georg Särtory</rs> laut Erklährung dd<hi style="superscript">to</hi> 14<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 733 N<hi style="superscript">o</hi> 721
                <lb facs="#facs_131_line_1626333631762_338" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_131_r2l7" n="N007"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_131_r2l8" n="N008"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
@@ -88,7 +88,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__26303" sameAs="#wkfm__22461 ">
+    <back><listOrg><org xml:id="wkfm__47492">
+                     <orgName>Johann Georg Sartori</orgName>
+                  <noteGrp><note target="wkfm-1589.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1589</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__26303" sameAs="#wkfm__22461 ">
                      <persName>
                         <forename>Johann Georg</forename>
                         <surname>Sartori</surname>
@@ -112,8 +115,5 @@
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 509.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1589.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1589</note><note target="wkfm-1590.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1590</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__47492">
-                     <orgName>Johann Georg Sartori</orgName>
-                  <noteGrp><note target="wkfm-1589.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1589</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

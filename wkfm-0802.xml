@@ -81,8 +81,8 @@
                <lb facs="#facs_134_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_134_r1l2" n="N002"/><hi>M</hi> In obigen Ablatorien dd<hi style="superscript">to</hi> 1<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> 751 N<hi style="superscript">o</hi> 1121 hat der <rs type="person" ref="#wkfm__47178">Volkmar</rs> kund ge-
                <lb facs="#facs_134_r1l3" n="N003"/>macht, das die zwischen ihm und dem <rs type="person" ref="#wkfm__47181">Carl Heinrich Tittel</rs> <hi>for</hi> in fortsezung der
-               <lb facs="#facs_134_r1l4" n="N004"/>Handlung des <rs type="person" ref="#wkfm__47183">Balthasar Sigmund Scholz</rs> unter der Raggion <rs type="person" ref="#wkfm__47180">Baltasar Sigmund Scholtz
-               <lb break="no" facs="#facs_134_line_1621876973407_436" n="N005"/>und Compagnie</rs> vorgeweste Societaet unter nemlichen dato geendiget, und er die <rs type="person" ref="#wkfm__47184">Kircheisische</rs> übernohmene
+               <lb facs="#facs_134_r1l4" n="N004"/>Handlung des <rs type="org" ref="#wkfm__47183">Balthasar Sigmund Scholz</rs> unter der Raggion <rs type="org" ref="#wkfm__47180">Baltasar Sigmund Scholtz
+               <lb break="no" facs="#facs_134_line_1621876973407_436" n="N005"/>und Compagnie</rs> vorgeweste Societaet unter nemlichen dato geendiget, und er die <rs type="org" ref="#wkfm__47184">Kircheisische</rs> übernohmene
                <lb facs="#facs_134_r1l7" n="N006"/>Handlung unter seinen alleinigen Nahmen und obligo forsezen werde.
                <lb facs="#facs_134_r1l8" n="N007"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_134_r1l9" n="N008"/><seg type="orighead__other_notes">Anmerckungen</seg><seg type="editorial_comment_seg"><note type="editorial_comment_note">Diese Anmerkung bezieht sich auf den folgenden Eintrag zu Anton Faber</note></seg>
@@ -92,7 +92,16 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47178">
+    <back><listOrg><org xml:id="wkfm__47184">
+                     <orgName>Christian Kircheisen sel. Witwe</orgName>
+                  <noteGrp><note target="wkfm-0801.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0801</note><note target="wkfm-0802.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0802</note></noteGrp></org>
+                <org xml:id="wkfm__47180">
+                     <orgName>Balthasar Sigmund Scholz &amp; Co.</orgName>
+                  <noteGrp><note target="wkfm-0801.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0801</note><note target="wkfm-0802.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0802</note><note target="wkfm-1609.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1609</note><note target="wkfm-1610.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1610</note></noteGrp></org>
+                <org xml:id="wkfm__47183">
+                     <orgName>Balthasar Sigmund Scholz</orgName>
+                  <noteGrp><note target="wkfm-0802.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0802</note><note target="wkfm-1609.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1609</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__47178">
                      <persName>
                         <forename>Adam Christian</forename>
                         <surname>Volkmar</surname>
@@ -107,6 +116,17 @@
                         <bibl>&amp;lt;span&amp;gt;Senfelder, Gottesacker, 257.&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0801.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0801</note><note target="wkfm-0802.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0802</note></noteGrp></person>
+                <person xml:id="wkfm__47187">
+                     <persName>
+                        <forename>Johann Franz</forename>
+                        <surname>Faber</surname>
+                     </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-0802.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0802</note></noteGrp></person>
                 <person xml:id="wkfm__47181">
                      <persName>
                         <forename>Karl Heinrich</forename>
@@ -121,25 +141,5 @@
                         <bibl>Senfelder, Gottesacker, 257.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0801.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0801</note><note target="wkfm-0802.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0802</note><note target="wkfm-1609.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1609</note><note target="wkfm-1610.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1610</note></noteGrp></person>
-                <person xml:id="wkfm__47187">
-                     <persName>
-                        <forename>Johann Franz</forename>
-                        <surname>Faber</surname>
-                     </persName>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-0802.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0802</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__47183">
-                     <orgName>Balthasar Sigmund Scholz</orgName>
-                  <noteGrp><note target="wkfm-0802.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0802</note><note target="wkfm-1609.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1609</note></noteGrp></org>
-                <org xml:id="wkfm__47180">
-                     <orgName>Balthasar Sigmund Scholz &amp; Co.</orgName>
-                  <noteGrp><note target="wkfm-0801.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0801</note><note target="wkfm-0802.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0802</note><note target="wkfm-1609.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1609</note><note target="wkfm-1610.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1610</note></noteGrp></org>
-                <org xml:id="wkfm__47184">
-                     <orgName>Christian Kircheisen sel. Witwe</orgName>
-                  <noteGrp><note target="wkfm-0801.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0801</note><note target="wkfm-0802.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0802</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

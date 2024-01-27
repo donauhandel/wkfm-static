@@ -89,8 +89,8 @@
                <lb facs="#facs_70_r1l6" n="N006"/>dd<hi style="superscript">to</hi> 10<hi style="superscript">ten</hi> Julii 744 N<hi style="superscript">o</hi> 588 in Copia vidimato die Niderlags freyheit auf die
                <lb facs="#facs_70_r1l7" n="N007"/>von seiner Ehewirthin als Tochter anererbte Marci: Handlung dergestalten
                <lb facs="#facs_70_r1l8" n="N008"/>verwilliget worden seye, daß er solche <unclear>ohne gemahlen</unclear> ein<hi>e</hi> Separirtes negotium
-               <lb facs="#facs_70_r1l9" n="N009"/>zu stabiliren unter der raggion <rs type="person" ref="#wkfm__46901">Marci und Plattensteiner</rs> fortrühren möge,
-               <lb facs="#facs_70_r1l10" n="N010"/>er auch das Marei: negotium unter gemelter raggion <rs type="person" ref="#wkfm__46901">Marci und Plattensteiner</rs>
+               <lb facs="#facs_70_r1l9" n="N009"/>zu stabiliren unter der raggion <rs type="org" ref="#wkfm__46901">Marci und Plattensteiner</rs> fortrühren möge,
+               <lb facs="#facs_70_r1l10" n="N010"/>er auch das Marei: negotium unter gemelter raggion <rs type="org" ref="#wkfm__46901">Marci und Plattensteiner</rs>
                <lb facs="#facs_70_r1l11" n="N011"/>fort<hi>zu</hi>führen werde
                <lb facs="#facs_70_r1l12" n="N012"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_70_r1l13" n="N013"/><seg type="orighead__other_notes">Anmerckungen</seg>
@@ -98,18 +98,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46902">
-                     <persName>
-                        <forename>Georg Wilhelm</forename>
-                        <surname>Plattensteiner</surname>
-                     </persName>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-               <noteGrp><note target="wkfm-1254.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1254</note></noteGrp></person>
-                <person xml:id="wkfm__8413" sameAs="#wkfm__21745 ">
+    <back><listPerson><person xml:id="wkfm__8413" sameAs="#wkfm__21745 ">
                      <persName>
                         <forename>Johann Cornelius</forename>
                         <surname>Marei</surname>
@@ -121,6 +110,17 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                <noteGrp><note target="wkfm-1253.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1253</note><note target="wkfm-1254.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1254</note></noteGrp></person>
+                <person xml:id="wkfm__46902">
+                     <persName>
+                        <forename>Georg Wilhelm</forename>
+                        <surname>Plattensteiner</surname>
+                     </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+               <noteGrp><note target="wkfm-1254.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1254</note></noteGrp></person>
                 </listPerson><listOrg><org xml:id="wkfm__46901">
                      <orgName>Marci und Plattensteiner</orgName>
                   <noteGrp><note target="wkfm-1253.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1253</note><note target="wkfm-1254.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1254</note></noteGrp></org>
