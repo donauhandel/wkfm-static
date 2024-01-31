@@ -33,6 +33,23 @@
                             <h1 class="text-center display-3 pb-3">
                                 <xsl:value-of select="$doc_title"/>
                             </h1>
+                            <div class="row">
+                                <div class="col-2"/>
+                                <div class="col-8">
+                                    <p>Bei den hier gelisteten Firmen handelt es sich um alle
+                                        identifizierten Firmen/Handelshäuser sämtlicher <a
+                                            href="https://donauhandel.univie.ac.at/"
+                                            title="Link zur Donauhandel Projekt Website">Projekte zum
+                                            Donauhandel</a>. Firmen, die im Merkantilprotokoll erwähnt
+                                        werden, können über die Spalte <strong>Erwähnungen</strong>
+                                        identifiziert/gefiltert werden. Die Spalte
+                                        <strong>Beteiligte</strong> gibt Auskunft darüber, ob und
+                                        wie vielen <a href="listperson.html"
+                                            title="Link zum Personenregister">Personen</a> zur jeweiligen
+                                        Firma in Beziehung stehen.</p>
+                                </div>
+                                <div class="col-2"/>
+                            </div>
                             
                             <table class="table" id="myTable">
                                 <thead>

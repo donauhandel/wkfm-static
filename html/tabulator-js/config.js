@@ -5,8 +5,5 @@ var config = {
     layout: "fitColumns",
     tooltips: true,
     dataLoader: true,
-    pagination: "local",
-    paginationSize: 15,
-    paginationCounter: "rows",
     locale: "de",
 };
