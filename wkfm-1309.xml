@@ -88,13 +88,16 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__12736" sameAs="#wkfm__14423 ">
+    <back><listOrg><org xml:id="wkfm__46660">
+                     <orgName>Andrea Neumaister (Neymaister)</orgName>
+                  <noteGrp><note target="wkfm-1309.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1309</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__12736" sameAs="#wkfm__14423 ">
                      <persName>
                         <forename>Andreas</forename>
                         <surname>Neumaister</surname>
-                        <surname type="alt">Neumeister</surname>
                         <surname type="alt">Neymayster</surname>
                         <surname type="alt">Neymaister</surname>
+                        <surname type="alt">Neumeister</surname>
                      </persName>
                      <death><date>1766</date></death>
                      <residence type="Geburtsort">
@@ -115,8 +118,5 @@
                         <bibl>Huchler, Bürgeraufnahmen, 470.</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0939.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0939</note><note target="wkfm-1309.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1309</note><note target="wkfm-1310.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1310</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46660">
-                     <orgName>Andrea Neumaister (Neymaister)</orgName>
-                  <noteGrp><note target="wkfm-1309.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1309</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

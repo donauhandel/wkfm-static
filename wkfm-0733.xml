@@ -88,10 +88,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47097">
-                     <orgName>Jakob Franz Fäber</orgName>
-                  <noteGrp><note target="wkfm-0733.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0733</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__14315">
+    <back><listPerson><person xml:id="wkfm__14315">
                      <persName>
                         <forename>Jakob Franz</forename>
                         <surname>Fäber</surname>
@@ -111,5 +108,8 @@
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 372 (Juni 1728).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0733.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0733</note><note target="wkfm-0734.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0734</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47097">
+                     <orgName>Jakob Franz Fäber</orgName>
+                  <noteGrp><note target="wkfm-0733.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0733</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

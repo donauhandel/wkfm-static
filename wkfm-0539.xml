@@ -90,10 +90,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46220">
-                     <orgName>Johann Georg Decker</orgName>
-                  <noteGrp><note target="wkfm-0539.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0539</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__36435" sameAs="#wkfm__15050 ">
+    <back><listPerson><person xml:id="wkfm__36435" sameAs="#wkfm__15050 ">
                      <persName>
                         <forename>Johann Georg</forename>
                         <surname>Decker</surname>
@@ -105,5 +102,8 @@
                         <bibl>Huchler, Bürgeraufnahmen, 360 (&amp;#34;Dekher&amp;#34;).&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0539.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0539</note><note target="wkfm-0540.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0540</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46220">
+                     <orgName>Johann Georg Decker</orgName>
+                  <noteGrp><note target="wkfm-0539.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0539</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

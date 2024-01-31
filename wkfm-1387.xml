@@ -110,20 +110,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46704">
-                     <orgName>Giovanni Maria Rozzio</orgName>
-                  <noteGrp><note target="wkfm-1387.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1387</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__46707">
-                     <persName>
-                        <forename>Karl</forename>
-                        <surname>Alay</surname>
-                     </persName>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Prokurist bei Giovanni Maria Rozzio</occupation>
-               <noteGrp><note target="wkfm-1387.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1387</note></noteGrp></person>
-                <person xml:id="wkfm__46706">
+    <back><listPerson><person xml:id="wkfm__46706">
                      <persName>
                         <forename>Leonhard Adam</forename>
                         <surname>Ziegler</surname>
@@ -132,6 +119,16 @@
                         <placeName key="#wkfm-place__925">Wien</placeName>
                      <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Angestellter und Prokurist bei Giovanni Maria Rozzio</occupation>
+               <noteGrp><note target="wkfm-1387.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1387</note></noteGrp></person>
+                <person xml:id="wkfm__46707">
+                     <persName>
+                        <forename>Karl</forename>
+                        <surname>Alay</surname>
+                     </persName>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Prokurist bei Giovanni Maria Rozzio</occupation>
                <noteGrp><note target="wkfm-1387.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1387</note></noteGrp></person>
                 <person xml:id="wkfm__24742" sameAs="#wkfm__24669 ">
                      <persName>
@@ -196,5 +193,8 @@
                      <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Prokurist bei Giovanni Maria Rozzio</occupation>
                <noteGrp><note target="wkfm-1387.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1387</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46704">
+                     <orgName>Giovanni Maria Rozzio</orgName>
+                  <noteGrp><note target="wkfm-1387.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1387</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

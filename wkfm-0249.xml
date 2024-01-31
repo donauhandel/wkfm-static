@@ -101,10 +101,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47364">
-                     <orgName>Joseph Premlechner</orgName>
-                  <noteGrp><note target="wkfm-0249.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0249</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__9481" sameAs="#wkfm__8422 wkfm__21682 ">
+    <back><listPerson><person xml:id="wkfm__9481" sameAs="#wkfm__8422 wkfm__21682 ">
                      <persName>
                         <forename>Lorenz Anton</forename>
                         <surname>Premlechner</surname>
@@ -144,5 +141,8 @@
                      <occupation>Tuchhändler, Prokurist des Lorenz Anton Premlechner</occupation>
                      <occupation type="kaufmannsklasse">tuchlaubensverwandt/bürgerlich</occupation>
                <noteGrp><note target="wkfm-0064.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0064</note><note target="wkfm-0249.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0249</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47364">
+                     <orgName>Joseph Premlechner</orgName>
+                  <noteGrp><note target="wkfm-0249.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0249</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

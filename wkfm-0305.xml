@@ -130,39 +130,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__44011">
-                     <orgName>Karl Barbieri sel. Söhne und Erben, Barbieri sel. Söhne</orgName>
-                  <listPerson type="affiliated"><person><persName key="#wkfm__44012">Barbieri, Anton</persName></person><person><persName key="#wkfm__44015">Barbieri, Ignaz</persName></person></listPerson><noteGrp><note target="wkfm-0305.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0305</note><note target="wkfm-0306.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0306</note><note target="wkfm-1685.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1685</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__9136">
-                     <persName>
-                        <forename>Karl</forename>
-                        <forename type="alt">Carlo</forename>
-                        <surname>Barbieri</surname>
-                        <surname type="alt">Barbiri</surname>
-                     </persName>
-                     <death><date>1749</date></death>                    
-                     <residence type="Geschäftsadresse">
-                        <placeName>Zum Goldenen Stern auf dem Hof (Calender 1723)</placeName>
-                     </residence>
-                     <residence type="Bürgerrecht">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geburtsort">
-                        <placeName key="#wkfm-place__2551">Fasano</placeName>
-                     </residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-                     <listBibl>
-                        <bibl>&amp;lt;div&amp;gt;Dotter, Italienische Kaufleute, 109f.; Huchler, Bürgeraufnahmen, 344 (16. November 1711); Harrer-Lucienfeld, Wien, seiner Häuser, Bd. 2.2, S. 251.&amp;lt;/div&amp;gt;&amp;lt;br&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-0102.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0102</note><note target="wkfm-0103.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0103</note><note target="wkfm-0215.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0215</note><note target="wkfm-0283.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0283</note><note target="wkfm-0305.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0305</note></noteGrp></person>
-                <person xml:id="wkfm__44012">
+    <back><listPerson><person xml:id="wkfm__44012">
                      <persName>
                         <forename>Anton</forename>
                         <surname>Barbieri</surname>
@@ -210,5 +178,37 @@
                      <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                <noteGrp><note target="wkfm-0305.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0305</note><note target="wkfm-0306.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0306</note></noteGrp></person>
-                </listPerson></back></text>
+                <person xml:id="wkfm__9136">
+                     <persName>
+                        <forename>Karl</forename>
+                        <forename type="alt">Carlo</forename>
+                        <surname>Barbieri</surname>
+                        <surname type="alt">Barbiri</surname>
+                     </persName>
+                     <death><date>1749</date></death>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zum Goldenen Stern auf dem Hof (Calender 1723)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geburtsort">
+                        <placeName key="#wkfm-place__2551">Fasano</placeName>
+                     </residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+                     <listBibl>
+                        <bibl>&amp;lt;div&amp;gt;Dotter, Italienische Kaufleute, 109f.; Huchler, Bürgeraufnahmen, 344 (16. November 1711); Harrer-Lucienfeld, Wien, seiner Häuser, Bd. 2.2, S. 251.&amp;lt;/div&amp;gt;&amp;lt;br&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0102.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0102</note><note target="wkfm-0103.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0103</note><note target="wkfm-0215.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0215</note><note target="wkfm-0283.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0283</note><note target="wkfm-0305.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0305</note></noteGrp></person>
+                </listPerson><listOrg><org xml:id="wkfm__44011">
+                     <orgName>Karl Barbieri sel. Söhne und Erben, Barbieri sel. Söhne</orgName>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__44015">Barbieri, Ignaz</persName></person><person><persName key="#wkfm__44012">Barbieri, Anton</persName></person></listPerson><noteGrp><note target="wkfm-0305.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0305</note><note target="wkfm-0306.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0306</note><note target="wkfm-1685.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1685</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

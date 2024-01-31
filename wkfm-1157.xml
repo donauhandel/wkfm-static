@@ -92,7 +92,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__27548">
+    <back><listOrg><org xml:id="wkfm__46820">
+                     <orgName>Johann Michael Leeb</orgName>
+                  <noteGrp><note target="wkfm-1157.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1157</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__27548">
                      <persName>
                         <forename>Johann Michael</forename>
                         <surname>Leeb</surname>
@@ -109,8 +112,5 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1157.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1157</note><note target="wkfm-1158.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1158</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46820">
-                     <orgName>Johann Michael Leeb</orgName>
-                  <noteGrp><note target="wkfm-1157.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1157</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

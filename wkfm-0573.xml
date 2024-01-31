@@ -94,10 +94,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46249">
-                     <orgName>Johann Georg Diewald</orgName>
-                  <noteGrp><note target="wkfm-0573.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0573</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__36606" sameAs="#wkfm__20759 ">
+    <back><listPerson><person xml:id="wkfm__36606" sameAs="#wkfm__20759 ">
                      <persName>
                         <forename>Johann Georg</forename>
                         <surname>Diewald</surname>
@@ -119,5 +116,8 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0573.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0573</note><note target="wkfm-0574.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0574</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46249">
+                     <orgName>Johann Georg Diewald</orgName>
+                  <noteGrp><note target="wkfm-0573.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0573</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

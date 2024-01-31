@@ -87,10 +87,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47212">
-                     <orgName>Six Kaltschmid</orgName>
-                  <noteGrp><note target="wkfm-0359.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0359</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__31160">
+    <back><listPerson><person xml:id="wkfm__31160">
                      <persName>
                         <forename>Sixtus</forename>
                         <surname>Kaltschmid</surname>
@@ -102,5 +99,8 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                <noteGrp><note target="wkfm-0359.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0359</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47212">
+                     <orgName>Six Kaltschmid</orgName>
+                  <noteGrp><note target="wkfm-0359.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0359</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

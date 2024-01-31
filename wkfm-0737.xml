@@ -88,7 +88,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47101">
+    <back><listOrg><org xml:id="wkfm__47102">
+                     <orgName>Johann Ferdinand Volland</orgName>
+                  <noteGrp><note target="wkfm-0737.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0737</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__47101">
                      <persName>
                         <forename>Johann Ferdinand</forename>
                         <surname>Volland</surname>
@@ -101,8 +104,5 @@
                      <occupation>Leinwandhändler</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
                <noteGrp><note target="wkfm-0737.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0737</note><note target="wkfm-0738.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0738</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__47102">
-                     <orgName>Johann Ferdinand Volland</orgName>
-                  <noteGrp><note target="wkfm-0737.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0737</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

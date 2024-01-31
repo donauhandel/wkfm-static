@@ -88,10 +88,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46962">
-                     <orgName>Georg Wagner</orgName>
-                  <noteGrp><note target="wkfm-1727.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1727</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__7111">
+    <back><listPerson><person xml:id="wkfm__7111">
                      <persName>
                         <forename>Georg</forename>
                         <surname>Wagner</surname>
@@ -126,5 +123,8 @@
                         <bibl>Dotter, Italienische Kaufleute, 135.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1727.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1727</note><note target="wkfm-1728.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1728</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46962">
+                     <orgName>Georg Wagner</orgName>
+                  <noteGrp><note target="wkfm-1727.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1727</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

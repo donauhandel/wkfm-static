@@ -128,16 +128,19 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__43807">
-                     <orgName>Christian Kaltschmidt sel. Witwe &amp; Co.</orgName>
-                  <noteGrp><note target="wkfm-0068.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0068</note><note target="wkfm-0069.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0069</note></noteGrp></org>
-                <org xml:id="wkfm__47274">
-                     <orgName>Johann Heinrich Stametz</orgName>
-                  <noteGrp><note target="wkfm-0068.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0068</note></noteGrp></org>
-                <org xml:id="wkfm__9690">
-                     <orgName>Gebrüder Palm</orgName>
-                  <noteGrp><note target="wkfm-0068.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0068</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__43805">
+    <back><listPerson><person xml:id="wkfm__43806">
+                     <persName>
+                        <forename>Leopold Karl</forename>
+                        <surname>von Palm</surname>
+                     </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Direktor der Gebrüder Palm</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+                     <occupation type="aemter">Freiherr</occupation>
+               <noteGrp><note target="wkfm-0068.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0068</note></noteGrp></person>
+                <person xml:id="wkfm__43805">
                      <persName>
                         <forename>Franz Gottlieb</forename>
                         <surname>Palm</surname>
@@ -161,18 +164,6 @@
                         <bibl>Kollmer, Familie Palm, 55 und passim.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0068.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0068</note><note target="wkfm-0069.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0069</note></noteGrp></person>
-                <person xml:id="wkfm__43806">
-                     <persName>
-                        <forename>Leopold Karl</forename>
-                        <surname>von Palm</surname>
-                     </persName>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Direktor der Gebrüder Palm</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-                     <occupation type="aemter">Freiherr</occupation>
-               <noteGrp><note target="wkfm-0068.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0068</note></noteGrp></person>
                 <person xml:id="wkfm__13459">
                      <persName>
                         <forename>Johann Heinrich</forename>
@@ -191,5 +182,14 @@
                         <bibl>Mittenzwei, Zwischen gestern und morgen, S. 116; Stökl, Protestantismus, 229. Ein Heinrich Stametz (der Vater?) ist erwähnt bei Senfelder, Gottesacker, 269.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0068.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0068</note><note target="wkfm-0069.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0069</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__43807">
+                     <orgName>Christian Kaltschmidt sel. Witwe &amp; Co.</orgName>
+                  <noteGrp><note target="wkfm-0068.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0068</note><note target="wkfm-0069.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0069</note></noteGrp></org>
+                <org xml:id="wkfm__9690">
+                     <orgName>Gebrüder Palm</orgName>
+                  <noteGrp><note target="wkfm-0068.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0068</note></noteGrp></org>
+                <org xml:id="wkfm__47274">
+                     <orgName>Johann Heinrich Stametz</orgName>
+                  <noteGrp><note target="wkfm-0068.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0068</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

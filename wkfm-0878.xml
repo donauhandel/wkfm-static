@@ -96,7 +96,14 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46343">
+    <back><listPerson><person xml:id="wkfm__46345">
+                     <persName>
+                        <forename>Benigna</forename>
+                        <surname>Sedlmayrin</surname>
+                        <surname type="alt">Gruber</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0878.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0878</note></noteGrp></person>
+                <person xml:id="wkfm__46343">
                      <persName>
                         <forename>Leopold</forename>
                         <surname>Gruber</surname>
@@ -121,12 +128,5 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 395.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0877.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0877</note><note target="wkfm-0878.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0878</note></noteGrp></person>
-                <person xml:id="wkfm__46345">
-                     <persName>
-                        <forename>Benigna</forename>
-                        <surname>Sedlmayrin</surname>
-                        <surname type="alt">Gruber</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-0878.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0878</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

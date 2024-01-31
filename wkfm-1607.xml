@@ -88,7 +88,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__23562">
+    <back><listOrg><org xml:id="wkfm__47507">
+                     <orgName>Franz Bernhard Schadt</orgName>
+                  <noteGrp><note target="wkfm-1607.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1607</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__23562">
                      <persName>
                         <forename>Franz Bernhard</forename>
                         <surname>Schadt</surname>
@@ -108,8 +111,5 @@
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 510.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1607.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1607</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__47507">
-                     <orgName>Franz Bernhard Schadt</orgName>
-                  <noteGrp><note target="wkfm-1607.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1607</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

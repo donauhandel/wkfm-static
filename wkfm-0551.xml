@@ -94,10 +94,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46230">
-                     <orgName>Franz Togneti</orgName>
-                  <noteGrp><note target="wkfm-0551.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0551</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__46229">
+    <back><listPerson><person xml:id="wkfm__46229">
                      <persName>
                         <forename>Franz</forename>
                         <surname>Togneti</surname>
@@ -120,5 +117,8 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 364 (5. November 1721: &amp;#34;Dogneto&amp;#34;).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0551.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0551</note><note target="wkfm-0552.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0552</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46230">
+                     <orgName>Franz Togneti</orgName>
+                  <noteGrp><note target="wkfm-0551.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0551</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

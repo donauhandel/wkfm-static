@@ -91,10 +91,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47235">
-                     <orgName>Johann Andre Kaufmann sel. Erbin</orgName>
-                  <noteGrp><note target="wkfm-0405.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0405</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__46123">
+    <back><listPerson><person xml:id="wkfm__46123">
                      <persName>
                         <forename>None</forename>
                         <surname>None</surname>
@@ -108,5 +105,8 @@
                      <occupation>Eisenhändlerin</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0405.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0405</note><note target="wkfm-0406.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0406</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47235">
+                     <orgName>Johann Andre Kaufmann sel. Erbin</orgName>
+                  <noteGrp><note target="wkfm-0405.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0405</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

@@ -100,18 +100,12 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47520">
-                     <orgName>Johann Gottlieb Schönthann</orgName>
-                  <noteGrp><note target="wkfm-1623.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1623</note></noteGrp></org>
-                <org xml:id="wkfm__8105">
-                     <orgName>Philipp Gundian sel. Erben</orgName>
-                  <listPerson type="affiliated"><person><persName key="#wkfm__47519">Schönthann, Johann Gottlieb</persName></person></listPerson><noteGrp><note target="wkfm-0827.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0827</note><note target="wkfm-0828.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0828</note><note target="wkfm-1623.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1623</note><note target="wkfm-1624.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1624</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__47519">
+    <back><listPerson><person xml:id="wkfm__47519">
                      <persName>
                         <forename>Johann Gottlieb</forename>
                         <surname>Schönthann</surname>
-                        <surname type="alt">Schenthan</surname>
                         <surname type="alt">Schönthan von Pernwaldt</surname>
+                        <surname type="alt">Schenthan</surname>
                      </persName>
                      <death><date>1772</date></death>
                      <affiliation>
@@ -135,5 +129,11 @@
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 513 (Februar 1737: &amp;#34;Schenthan&amp;#34;). Zur Familie siehe von Pantz, Gewerken, 297-301.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1623.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1623</note><note target="wkfm-1624.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1624</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__8105">
+                     <orgName>Philipp Gundian sel. Erben</orgName>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__47519">Schönthann, Johann Gottlieb</persName></person></listPerson><noteGrp><note target="wkfm-0827.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0827</note><note target="wkfm-0828.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0828</note><note target="wkfm-1623.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1623</note><note target="wkfm-1624.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1624</note></noteGrp></org>
+                <org xml:id="wkfm__47520">
+                     <orgName>Johann Gottlieb Schönthann</orgName>
+                  <noteGrp><note target="wkfm-1623.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1623</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

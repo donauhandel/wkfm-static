@@ -85,8 +85,8 @@
     <back><listPerson><person xml:id="wkfm__8439" sameAs="#wkfm__15984 wkfm__29926 ">
                      <persName>
                         <forename>Lorenz</forename>
-                        <forename type="alt">Laurent</forename>
                         <forename type="alt">Laurenz</forename>
+                        <forename type="alt">Laurent</forename>
                         <surname>Stass</surname>
                         <surname type="alt">Stäß</surname>
                      </persName>

@@ -93,10 +93,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47333">
-                     <orgName>Johann Christoph Bahn</orgName>
-                  <noteGrp><note target="wkfm-0180.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0180</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__10013" sameAs="#wkfm__12857 ">
+    <back><listPerson><person xml:id="wkfm__10013" sameAs="#wkfm__12857 ">
                      <persName>
                         <forename>Johann Christian</forename>
                         <surname>Bahn</surname>
@@ -110,5 +107,8 @@
                         <bibl>Wolfram Koeppe, Vienna circa 1780. An Imperial Silver Service Rediscovered (New York u.a. 2010) 26.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0180.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0180</note><note target="wkfm-0181.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0181</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47333">
+                     <orgName>Johann Christoph Bahn</orgName>
+                  <noteGrp><note target="wkfm-0180.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0180</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

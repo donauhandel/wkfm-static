@@ -88,10 +88,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46506">
-                     <orgName>Joseph Anton Heim</orgName>
-                  <noteGrp><note target="wkfm-1011.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1011</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__25804">
+    <back><listPerson><person xml:id="wkfm__25804">
                      <persName>
                         <forename>Joseph Anton</forename>
                         <surname>Heim</surname>
@@ -116,5 +113,8 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 405 (Dezember 1729).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1011.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1011</note><note target="wkfm-1012.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1012</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46506">
+                     <orgName>Joseph Anton Heim</orgName>
+                  <noteGrp><note target="wkfm-1011.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1011</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

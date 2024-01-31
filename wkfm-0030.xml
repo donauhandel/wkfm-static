@@ -89,7 +89,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__15941">
+    <back><listOrg><org xml:id="wkfm__46589">
+                     <orgName>Reichard Friedrich Aigner</orgName>
+                  <noteGrp><note target="wkfm-0030.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0030</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__15941">
                      <persName>
                         <forename>Reichard Friedrich</forename>
                         <surname>Aigner</surname>
@@ -112,8 +115,5 @@
                         <bibl>Huchler, Bürgeraufnahmen, 337.</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0030.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0030</note><note target="wkfm-0031.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0031</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46589">
-                     <orgName>Reichard Friedrich Aigner</orgName>
-                  <noteGrp><note target="wkfm-0030.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0030</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

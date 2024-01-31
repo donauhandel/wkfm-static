@@ -89,10 +89,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47307">
-                     <orgName>Franz Gottlieb Preissl</orgName>
-                  <noteGrp><note target="wkfm-0132.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0132</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__5251">
+    <back><listPerson><person xml:id="wkfm__5251">
                      <persName>
                         <forename>Franz Gottlieb</forename>
                         <surname>Preisl</surname>
@@ -119,5 +116,8 @@
                         <bibl>Huchler, Bürgeraufnahmen, 490 (22. Dezember 1713).&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0132.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0132</note><note target="wkfm-0133.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0133</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47307">
+                     <orgName>Franz Gottlieb Preissl</orgName>
+                  <noteGrp><note target="wkfm-0132.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0132</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

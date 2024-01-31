@@ -106,7 +106,16 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43969">
+    <back><listPerson><person xml:id="wkfm__43971">
+                     <persName>
+                        <forename>Karl</forename>
+                        <surname>Patuzzi</surname>
+                     </persName>
+                     <listBibl>
+                        <bibl>Harrer-Lucienfeld, Wien, seine Häuser, Bd. 6.1, S. 210.&amp;lt;br&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0287.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0287</note></noteGrp></person>
+                <person xml:id="wkfm__43969">
                      <persName>
                         <forename>Joseph</forename>
                         <surname>Patuzzi</surname>
@@ -134,17 +143,6 @@
                         <bibl>&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 476 (Dezember 1745).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;&amp;lt;div&amp;gt;Harrer-Lucienfeld, Wien, seiner Häuser, Bd. 6.1, S. 210.&amp;lt;br&amp;gt;&amp;lt;span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0287.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0287</note><note target="wkfm-0288.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0288</note></noteGrp></person>
-                <person xml:id="wkfm__43970" sameAs="#wkfm__24470 ">
-                     <persName>
-                        <forename>Johann Franz</forename>
-                        <surname>Patuzzi</surname>
-                        <surname type="alt">Batuzzi</surname>
-                     </persName>
-                     <death><date>1755</date></death>
-                     <listBibl>
-                        <bibl>Harrer-Lucienfeld, Wien, seiner Häuser, Bd. 6.1, S. 210.&amp;lt;br&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-0287.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0287</note></noteGrp></person>
                 <person xml:id="wkfm__4528" sameAs="#wkfm__44892 ">
                      <persName>
                         <forename>Bartholomäus</forename>
@@ -187,13 +185,15 @@
 .&amp;lt;/div&amp;gt;&amp;lt;div&amp;gt;Harrer-Lucienfeld, Wien, seiner Häuser, Bd. 6.1, S. 210-211.&amp;lt;/div&amp;gt;&amp;lt;div&amp;gt;Huchler, Bürgeraufnahmen, 101 (13. Juli 1707).&amp;lt;br&amp;gt;&amp;lt;/div&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0122.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0122</note><note target="wkfm-0123.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0123</note><note target="wkfm-0287.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0287</note><note target="wkfm-1316.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1316</note></noteGrp></person>
-                <person xml:id="wkfm__43971">
+                <person xml:id="wkfm__43970" sameAs="#wkfm__24470 ">
                      <persName>
-                        <forename>Karl</forename>
+                        <forename>Johann Franz</forename>
                         <surname>Patuzzi</surname>
+                        <surname type="alt">Batuzzi</surname>
                      </persName>
+                     <death><date>1755</date></death>
                      <listBibl>
-                        <bibl>Harrer-Lucienfeld, Wien, seine Häuser, Bd. 6.1, S. 210.&amp;lt;br&amp;gt;</bibl>
+                        <bibl>Harrer-Lucienfeld, Wien, seiner Häuser, Bd. 6.1, S. 210.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0287.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0287</note></noteGrp></person>
                 </listPerson><listOrg><org xml:id="wkfm__47383">

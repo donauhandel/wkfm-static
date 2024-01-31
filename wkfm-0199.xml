@@ -98,10 +98,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__23672">
-                     <orgName>Pingizer und Bittoni (Junior)</orgName>
-                  <noteGrp><note target="wkfm-0198.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0198</note><note target="wkfm-0199.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0199</note><note target="wkfm-1263.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1263</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__43907">
+    <back><listPerson><person xml:id="wkfm__43907">
                      <persName>
                         <forename>Maria Josepha</forename>
                         <surname>Kautsamerin</surname>
@@ -122,5 +119,8 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 485 (Februar 1733).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0199.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0199</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__23672">
+                     <orgName>Pingizer und Bittoni (Junior)</orgName>
+                  <noteGrp><note target="wkfm-0198.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0198</note><note target="wkfm-0199.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0199</note><note target="wkfm-1263.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1263</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

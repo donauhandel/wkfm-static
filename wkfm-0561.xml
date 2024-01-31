@@ -115,10 +115,17 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46236">
-                     <orgName>Ruprecht Traunpauer</orgName>
-                  <noteGrp><note target="wkfm-0561.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0561</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__6935">
+    <back><listPerson><person xml:id="wkfm__17851">
+                     <persName>
+                        <forename>Johann Georg</forename>
+                        <surname>Dietmann</surname>
+                     </persName>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Prokurist des Ruprecht Traunpauer</occupation>
+               <noteGrp><note target="wkfm-0561.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0561</note></noteGrp></person>
+                <person xml:id="wkfm__6935">
                      <persName>
                         <forename>Ruprecht</forename>
                         <surname>Traunpauer</surname>
@@ -156,15 +163,8 @@
                      <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Prokurist des Ruprecht Traunpauer</occupation>
                <noteGrp><note target="wkfm-0561.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0561</note></noteGrp></person>
-                <person xml:id="wkfm__17851">
-                     <persName>
-                        <forename>Johann Georg</forename>
-                        <surname>Dietmann</surname>
-                     </persName>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Prokurist des Ruprecht Traunpauer</occupation>
-               <noteGrp><note target="wkfm-0561.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0561</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46236">
+                     <orgName>Ruprecht Traunpauer</orgName>
+                  <noteGrp><note target="wkfm-0561.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0561</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

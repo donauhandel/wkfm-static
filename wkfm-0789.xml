@@ -142,8 +142,8 @@
                      <persName>
                         <forename>Maria Eleonora</forename>
                         <surname>Mayrhoferin</surname>
-                        <surname type="alt">Stellmacher</surname>
                         <surname type="alt">Fläschitz</surname>
+                        <surname type="alt">Stellmacher</surname>
                      </persName>
                      <residence type="Wohnort">
                         <placeName key="#wkfm-place__925">Wien</placeName>
@@ -157,11 +157,11 @@
                 </listPerson><listOrg><org xml:id="wkfm__47158">
                      <orgName>Johann Peter Fläschitz</orgName>
                   <noteGrp><note target="wkfm-0789.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0789</note></noteGrp></org>
-                <org xml:id="wkfm__47161">
-                     <orgName>Johann Peter Fläschitz sel. Witwe</orgName>
-                  <noteGrp><note target="wkfm-0789.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0789</note></noteGrp></org>
                 <org xml:id="wkfm__47157">
                      <orgName>Michael Schick sel. Erben &amp; Co.</orgName>
                   <noteGrp><note target="wkfm-0789.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0789</note><note target="wkfm-0790.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0790</note></noteGrp></org>
+                <org xml:id="wkfm__47161">
+                     <orgName>Johann Peter Fläschitz sel. Witwe</orgName>
+                  <noteGrp><note target="wkfm-0789.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0789</note></noteGrp></org>
                 </listOrg></back></text>
 </TEI>

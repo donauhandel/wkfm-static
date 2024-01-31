@@ -88,18 +88,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46459">
-                     <persName>
-                        <forename>Johann Jakob</forename>
-                        <surname>Haas</surname>
-                     </persName>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann, Prokurist der Firma Johann Christoph Haas</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-               <noteGrp><note target="wkfm-0953.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0953</note><note target="wkfm-0954.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0954</note></noteGrp></person>
-                <person xml:id="wkfm__46460">
+    <back><listOrg><org xml:id="wkfm__44785">
+                     <orgName>Johann Christoph Haas &amp; Söhne</orgName>
+                  <noteGrp><note target="wkfm-0953.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0953</note><note target="wkfm-0954.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0954</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__46460">
                      <persName>
                         <forename>Franz Anton</forename>
                         <surname>Haas</surname>
@@ -121,8 +113,16 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                <noteGrp><note target="wkfm-0953.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0953</note><note target="wkfm-0954.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0954</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__44785">
-                     <orgName>Johann Christoph Haas &amp; Söhne</orgName>
-                  <noteGrp><note target="wkfm-0953.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0953</note><note target="wkfm-0954.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0954</note></noteGrp></org>
-                </listOrg></back></text>
+                <person xml:id="wkfm__46459">
+                     <persName>
+                        <forename>Johann Jakob</forename>
+                        <surname>Haas</surname>
+                     </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann, Prokurist der Firma Johann Christoph Haas</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+               <noteGrp><note target="wkfm-0953.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0953</note><note target="wkfm-0954.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0954</note></noteGrp></person>
+                </listPerson></back></text>
 </TEI>

@@ -87,7 +87,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__9136">
+    <back><listOrg><org xml:id="wkfm__47290">
+                     <orgName>Carlo Barbieri</orgName>
+                  <noteGrp><note target="wkfm-0102.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0102</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__9136">
                      <persName>
                         <forename>Karl</forename>
                         <forename type="alt">Carlo</forename>
@@ -116,8 +119,5 @@
                         <bibl>&amp;lt;div&amp;gt;Dotter, Italienische Kaufleute, 109f.; Huchler, Bürgeraufnahmen, 344 (16. November 1711); Harrer-Lucienfeld, Wien, seiner Häuser, Bd. 2.2, S. 251.&amp;lt;/div&amp;gt;&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0102.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0102</note><note target="wkfm-0103.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0103</note><note target="wkfm-0215.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0215</note><note target="wkfm-0283.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0283</note><note target="wkfm-0305.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0305</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__47290">
-                     <orgName>Carlo Barbieri</orgName>
-                  <noteGrp><note target="wkfm-0102.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0102</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

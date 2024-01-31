@@ -137,11 +137,15 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43841">
+    <back><listPerson><person xml:id="wkfm__32426">
                      <persName>
-                        <forename>Andre Karl</forename>
+                        <forename>Karl</forename>
                         <surname>Bolza</surname>
                      </persName>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Kassier der Firma Johann Baptist und Johann Peter Bolza</occupation>
                <noteGrp><note target="wkfm-0092.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0092</note></noteGrp></person>
                 <person xml:id="wkfm__9824">
                      <persName>
@@ -181,15 +185,11 @@
                      <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Buchhalter und Prokurist des Johann Baptist Bolza, Kassier und Prokurist des Joseph Bolza</occupation>
                <noteGrp><note target="wkfm-0092.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0092</note><note target="wkfm-0259.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0259</note></noteGrp></person>
-                <person xml:id="wkfm__32426">
+                <person xml:id="wkfm__43841">
                      <persName>
-                        <forename>Karl</forename>
+                        <forename>Andre Karl</forename>
                         <surname>Bolza</surname>
                      </persName>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Kassier der Firma Johann Baptist und Johann Peter Bolza</occupation>
                <noteGrp><note target="wkfm-0092.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0092</note></noteGrp></person>
                 </listPerson><listOrg><org xml:id="wkfm__44788">
                      <orgName>Johann Baptist Bolza und Johann Peter Bolza</orgName>

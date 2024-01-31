@@ -92,10 +92,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46246">
-                     <orgName>Simon Diton</orgName>
-                  <noteGrp><note target="wkfm-0569.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0569</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__46245">
+    <back><listPerson><person xml:id="wkfm__46245">
                      <persName>
                         <forename>Simon</forename>
                         <surname>Diton</surname>
@@ -112,5 +109,8 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0569.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0569</note><note target="wkfm-0570.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0570</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46246">
+                     <orgName>Simon Diton</orgName>
+                  <noteGrp><note target="wkfm-0569.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0569</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

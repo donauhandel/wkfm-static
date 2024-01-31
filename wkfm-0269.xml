@@ -105,7 +105,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43958">
+    <back><listOrg><org xml:id="wkfm__47374">
+                     <orgName>Johann Pohamb</orgName>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__43959">Hilleprand, Martin</persName></person></listPerson><noteGrp><note target="wkfm-0269.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0269</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__43958">
                      <persName>
                         <forename>Johann</forename>
                         <surname>Pohamb</surname>
@@ -121,8 +124,5 @@
                      <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                <noteGrp><note target="wkfm-0269.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0269</note><note target="wkfm-0270.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0270</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__47374">
-                     <orgName>Johann Pohamb</orgName>
-                  <listPerson type="affiliated"><person><persName key="#wkfm__43959">Hilleprand, Martin</persName></person></listPerson><noteGrp><note target="wkfm-0269.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0269</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

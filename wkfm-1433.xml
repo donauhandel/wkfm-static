@@ -110,7 +110,54 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__8109" sameAs="#wkfm__17837 ">
+    <back><listPerson><person xml:id="wkfm__42662">
+                     <persName>
+                        <forename>Franz Ignaz</forename>
+                        <surname>Kurz</surname>
+                        <surname type="alt">Kurtz</surname>
+                     </persName>
+                     <death><date>1774?</date></death>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zur Weißen Taube auf dem alten Bauernmarkt (Calender 1758)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+                     <listBibl>
+                        <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 440.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0455.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0455</note><note target="wkfm-1433.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1433</note><note target="wkfm-1681.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1681</note><note target="wkfm-1693.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1693</note></noteGrp></person>
+                <person xml:id="wkfm__46747">
+                     <persName>
+                        <forename>Johann Georg</forename>
+                        <surname>Razer</surname>
+                        <surname type="alt">Ratzer</surname>
+                     </persName>
+                     <death><date>1762</date></death>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zum Roten Kreuz nächst St. Stephan (Calender 1754)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-1433.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1433</note><note target="wkfm-1443.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1443</note></noteGrp></person>
+                <person xml:id="wkfm__8109" sameAs="#wkfm__17837 ">
                      <persName>
                         <forename>Johann Michael</forename>
                         <surname>Niller</surname>
@@ -137,53 +184,6 @@
                         <bibl>Harrer-Lucienfeld, Wien, seiner Häuser, Bd. 1.3, S. 708.; Huchler, Bürgeraufnahmen,&amp;amp;nbsp;531.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0455.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0455</note><note target="wkfm-1305.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1305</note><note target="wkfm-1306.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1306</note><note target="wkfm-1433.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1433</note><note target="wkfm-1443.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1443</note><note target="wkfm-1449.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1449</note></noteGrp></person>
-                <person xml:id="wkfm__46747">
-                     <persName>
-                        <forename>Johann Georg</forename>
-                        <surname>Razer</surname>
-                        <surname type="alt">Ratzer</surname>
-                     </persName>
-                     <death><date>1762</date></death>                    
-                     <residence type="Geschäftsadresse">
-                        <placeName>Zum Roten Kreuz nächst St. Stephan (Calender 1754)</placeName>
-                     </residence>
-                     <residence type="Bürgerrecht">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-1433.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1433</note><note target="wkfm-1443.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1443</note></noteGrp></person>
-                <person xml:id="wkfm__42662">
-                     <persName>
-                        <forename>Franz Ignaz</forename>
-                        <surname>Kurz</surname>
-                        <surname type="alt">Kurtz</surname>
-                     </persName>
-                     <death><date>1774?</date></death>                    
-                     <residence type="Geschäftsadresse">
-                        <placeName>Zur Weißen Taube auf dem alten Bauernmarkt (Calender 1758)</placeName>
-                     </residence>
-                     <residence type="Bürgerrecht">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-                     <listBibl>
-                        <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 440.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-0455.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0455</note><note target="wkfm-1433.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1433</note><note target="wkfm-1681.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1681</note><note target="wkfm-1693.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1693</note></noteGrp></person>
                 </listPerson><listOrg><org xml:id="wkfm__46748">
                      <orgName>Johann Georg Razer</orgName>
                   <noteGrp><note target="wkfm-1433.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1433</note></noteGrp></org>

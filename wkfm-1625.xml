@@ -99,10 +99,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47521">
-                     <orgName>Ignaz Schmidt</orgName>
-                  <noteGrp><note target="wkfm-1625.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1625</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__47523">
+    <back><listPerson><person xml:id="wkfm__47523">
                      <persName>
                         <forename>Georg Philipp</forename>
                         <surname>von Batz</surname>
@@ -128,5 +125,8 @@
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 519.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1625.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1625</note><note target="wkfm-1626.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1626</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47521">
+                     <orgName>Ignaz Schmidt</orgName>
+                  <noteGrp><note target="wkfm-1625.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1625</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

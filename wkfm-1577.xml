@@ -88,7 +88,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47483" sameAs="#wkfm__26144 ">
+    <back><listOrg><org xml:id="wkfm__47484">
+                     <orgName>Johann Paul Schwehel</orgName>
+                  <noteGrp><note target="wkfm-1577.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1577</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__47483" sameAs="#wkfm__26144 ">
                      <persName>
                         <forename>Johann Paul</forename>
                         <surname>Schwehel</surname>
@@ -108,8 +111,5 @@
                         <bibl>Huchler, Bürgeraufnahmen, 527 (September 1731: &amp;#34;Schwechel&amp;#34;).&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1577.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1577</note><note target="wkfm-1578.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1578</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__47484">
-                     <orgName>Johann Paul Schwehel</orgName>
-                  <noteGrp><note target="wkfm-1577.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1577</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

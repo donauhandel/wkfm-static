@@ -88,7 +88,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46692" sameAs="#wkfm__18088 ">
+    <back><listOrg><org xml:id="wkfm__46693">
+                     <orgName>Johann Christoph Rossmann</orgName>
+                  <noteGrp><note target="wkfm-1375.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1375</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__46692" sameAs="#wkfm__18088 ">
                      <persName>
                         <forename>Johann Christoph</forename>
                         <surname>Rossmann</surname>
@@ -99,8 +102,5 @@
                      <occupation>Leinwandhändler</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
                <noteGrp><note target="wkfm-1375.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1375</note><note target="wkfm-1376.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1376</note><note target="wkfm-1695.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1695</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46693">
-                     <orgName>Johann Christoph Rossmann</orgName>
-                  <noteGrp><note target="wkfm-1375.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1375</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

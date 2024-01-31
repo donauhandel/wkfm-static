@@ -102,11 +102,11 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__43867">
-                     <orgName>Gervais Jenamy &amp; Sohn</orgName>
-                  <noteGrp><note target="wkfm-1071.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1071</note></noteGrp></org>
-                <org xml:id="wkfm__46635">
+    <back><listOrg><org xml:id="wkfm__46635">
                      <orgName>Gervasius Jenamy</orgName>
+                  <noteGrp><note target="wkfm-1071.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1071</note></noteGrp></org>
+                <org xml:id="wkfm__43867">
+                     <orgName>Gervais Jenamy &amp; Sohn</orgName>
                   <noteGrp><note target="wkfm-1071.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1071</note></noteGrp></org>
                 </listOrg></back></text>
 </TEI>

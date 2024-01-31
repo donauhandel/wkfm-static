@@ -88,7 +88,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46813">
+    <back><listOrg><org xml:id="wkfm__46814">
+                     <orgName>Franz Leuthner</orgName>
+                  <noteGrp><note target="wkfm-1145.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1145</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__46813">
                      <persName>
                         <forename>Franz</forename>
                         <surname>Leuthner</surname>
@@ -109,8 +112,5 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 445 (August 1726).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1145.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1145</note><note target="wkfm-1146.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1146</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46814">
-                     <orgName>Franz Leuthner</orgName>
-                  <noteGrp><note target="wkfm-1145.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1145</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

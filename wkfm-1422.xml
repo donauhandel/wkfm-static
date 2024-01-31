@@ -126,34 +126,7 @@
                 <org xml:id="wkfm__46730">
                      <orgName>Balthasar Johann Rathgeb sel. Söhne</orgName>
                   <noteGrp><note target="wkfm-1421.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1421</note><note target="wkfm-1422.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1422</note><note target="wkfm-1429.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1429</note><note target="wkfm-1430.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1430</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__46731">
-                     <persName>
-                        <forename>Franziska</forename>
-                        <surname>Kircherin</surname>
-                        <surname type="alt">Rathgeb</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-1422.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1422</note></noteGrp></person>
-                <person xml:id="wkfm__46169">
-                     <persName>
-                        <forename>Melchior</forename>
-                        <surname>Rathgeb</surname>
-                     </persName>                    
-                     <residence type="Geschäftsadresse">
-                        <placeName>Zum Schmeckenden Wurm in der oberen Bäckerstraße (Calender 1758)</placeName>
-                     </residence>
-                     <residence type="Bürgerrecht">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-0471.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0471</note><note target="wkfm-0609.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0609</note><note target="wkfm-1422.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1422</note><note target="wkfm-1429.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1429</note><note target="wkfm-1430.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1430</note></noteGrp></person>
-                <person xml:id="wkfm__46701" sameAs="#wkfm__26028 ">
+                </listOrg><listPerson><person xml:id="wkfm__46701" sameAs="#wkfm__26028 ">
                      <persName>
                         <forename>Balthasar Johann</forename>
                         <surname>Rathgeb</surname>
@@ -177,6 +150,13 @@
                         <surname>Weygertin</surname>
                      </persName>
                <noteGrp><note target="wkfm-1422.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1422</note></noteGrp></person>
+                <person xml:id="wkfm__46731">
+                     <persName>
+                        <forename>Franziska</forename>
+                        <surname>Kircherin</surname>
+                        <surname type="alt">Rathgeb</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-1422.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1422</note></noteGrp></person>
                 <person xml:id="wkfm__43201">
                      <persName>
                         <forename>Anton</forename>
@@ -198,5 +178,25 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 496.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1421.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1421</note><note target="wkfm-1422.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1422</note><note target="wkfm-1430.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1430</note></noteGrp></person>
+                <person xml:id="wkfm__46169">
+                     <persName>
+                        <forename>Melchior</forename>
+                        <surname>Rathgeb</surname>
+                     </persName>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zum Schmeckenden Wurm in der oberen Bäckerstraße (Calender 1758)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-0471.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0471</note><note target="wkfm-0609.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0609</note><note target="wkfm-1422.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1422</note><note target="wkfm-1429.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1429</note><note target="wkfm-1430.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1430</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

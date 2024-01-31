@@ -94,10 +94,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46594">
-                     <orgName>Franz Auchter</orgName>
-                  <noteGrp><note target="wkfm-0038.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0038</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__17118">
+    <back><listPerson><person xml:id="wkfm__17118">
                      <persName>
                         <forename>Franz</forename>
                         <surname>Auchter</surname>
@@ -122,5 +119,8 @@
                         <bibl>Huchler, Bürgeraufnahmen, 342.</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0027.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0027</note><note target="wkfm-0038.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0038</note><note target="wkfm-0039.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0039</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46594">
+                     <orgName>Franz Auchter</orgName>
+                  <noteGrp><note target="wkfm-0038.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0038</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

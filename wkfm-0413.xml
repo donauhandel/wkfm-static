@@ -87,10 +87,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47213">
-                     <orgName>Anton Cleas</orgName>
-                  <listPerson type="affiliated"><person><persName key="#wkfm__484">Cleas, Anton</persName></person></listPerson><noteGrp><note target="wkfm-0361.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0361</note><note target="wkfm-0413.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0413</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__46127">
+    <back><listPerson><person xml:id="wkfm__46127">
                      <persName>
                         <forename>Karl Joseph</forename>
                         <surname>Cleas</surname>
@@ -113,5 +110,8 @@
                         <bibl>Huchler, Bürgeraufnahmen, 355.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0413.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0413</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47213">
+                     <orgName>Anton Cleas</orgName>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__484">Cleas, Anton</persName></person></listPerson><noteGrp><note target="wkfm-0361.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0361</note><note target="wkfm-0413.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0413</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

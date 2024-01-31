@@ -90,7 +90,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__8812" sameAs="#wkfm__22472 ">
+    <back><listOrg><org xml:id="wkfm__46870">
+                     <orgName>Johann Michael Maiz</orgName>
+                  <noteGrp><note target="wkfm-1217.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1217</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__8812" sameAs="#wkfm__22472 ">
                      <persName>
                         <forename>Johann Michael</forename>
                         <surname>Maiz</surname>
@@ -110,8 +113,5 @@
                      <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                <noteGrp><note target="wkfm-1217.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1217</note><note target="wkfm-1218.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1218</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46870">
-                     <orgName>Johann Michael Maiz</orgName>
-                  <noteGrp><note target="wkfm-1217.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1217</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

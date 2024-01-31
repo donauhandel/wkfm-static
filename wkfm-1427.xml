@@ -114,18 +114,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46742">
-                     <persName>
-                        <forename>Barbara</forename>
-                        <surname>Reindl</surname>
-                     </persName>
-                     <death><date>1766</date></death>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Spezereihändlerin</occupation>
-               <noteGrp><note target="wkfm-1427.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1427</note></noteGrp></person>
-                <person xml:id="wkfm__46738">
+    <back><listOrg><org xml:id="wkfm__46739">
+                     <orgName>Ferdinand Reindl</orgName>
+                  <noteGrp><note target="wkfm-1427.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1427</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__46738">
                      <persName>
                         <forename>Ferdinand</forename>
                         <surname>Reindl</surname>
@@ -149,6 +141,12 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 499.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1427.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1427</note><note target="wkfm-1428.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1428</note></noteGrp></person>
+                <person xml:id="wkfm__46740">
+                     <persName>
+                        <forename>None</forename>
+                        <surname>None</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-1427.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1427</note></noteGrp></person>
                 <person xml:id="wkfm__24741" sameAs="#wkfm__19329 wkfm__25413 wkfm__8849 ">
                      <persName>
                         <forename>Anton Gabriel</forename>
@@ -173,12 +171,6 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 549.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0753.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0753</note><note target="wkfm-0754.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0754</note><note target="wkfm-1427.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1427</note></noteGrp></person>
-                <person xml:id="wkfm__46740">
-                     <persName>
-                        <forename>None</forename>
-                        <surname>None</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-1427.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1427</note></noteGrp></person>
                 <person xml:id="wkfm__46741">
                      <persName>
                         <forename>Johann Georg</forename>
@@ -189,8 +181,16 @@
                      <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Prokurist des Ferdinand Reindl</occupation>
                <noteGrp><note target="wkfm-1427.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1427</note><note target="wkfm-1428.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1428</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46739">
-                     <orgName>Ferdinand Reindl</orgName>
-                  <noteGrp><note target="wkfm-1427.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1427</note></noteGrp></org>
-                </listOrg></back></text>
+                <person xml:id="wkfm__46742">
+                     <persName>
+                        <forename>Barbara</forename>
+                        <surname>Reindl</surname>
+                     </persName>
+                     <death><date>1766</date></death>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Spezereihändlerin</occupation>
+               <noteGrp><note target="wkfm-1427.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1427</note></noteGrp></person>
+                </listPerson></back></text>
 </TEI>

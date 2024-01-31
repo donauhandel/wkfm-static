@@ -139,6 +139,26 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                <noteGrp><note target="wkfm-0581.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0581</note><note target="wkfm-0582.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0582</note><note target="wkfm-1015.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1015</note><note target="wkfm-1016.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1016</note></noteGrp></person>
+                <person xml:id="wkfm__37608">
+                     <persName>
+                        <forename>Joachim Andre</forename>
+                        <surname>Press</surname>
+                     </persName>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Buchhalter und Prokurist bei Johann Gottlob Hess</occupation>
+               <noteGrp><note target="wkfm-1015.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1015</note></noteGrp></person>
+                <person xml:id="wkfm__34650" sameAs="#wkfm__41535 wkfm__34651 ">
+                     <persName>
+                        <forename>Leonhard Balthasar</forename>
+                        <surname>Schkler</surname>
+                     </persName>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Buchhalter und Prokurist bei Hess und Tech und bei Johann Gottlob Hess</occupation>
+               <noteGrp><note target="wkfm-1015.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1015</note></noteGrp></person>
                 <person xml:id="wkfm__6849">
                      <persName>
                         <forename>Erdmann</forename>
@@ -153,31 +173,11 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                <noteGrp><note target="wkfm-0581.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0581</note><note target="wkfm-0582.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0582</note><note target="wkfm-1015.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1015</note><note target="wkfm-1016.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1016</note></noteGrp></person>
-                <person xml:id="wkfm__34650" sameAs="#wkfm__41535 wkfm__34651 ">
-                     <persName>
-                        <forename>Leonhard Balthasar</forename>
-                        <surname>Schkler</surname>
-                     </persName>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Buchhalter und Prokurist bei Hess und Tech und bei Johann Gottlob Hess</occupation>
-               <noteGrp><note target="wkfm-1015.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1015</note></noteGrp></person>
-                <person xml:id="wkfm__37608">
-                     <persName>
-                        <forename>Joachim Andre</forename>
-                        <surname>Press</surname>
-                     </persName>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Buchhalter und Prokurist bei Johann Gottlob Hess</occupation>
-               <noteGrp><note target="wkfm-1015.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1015</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__8067">
-                     <orgName>Hess und Tech</orgName>
-                  <noteGrp><note target="wkfm-0581.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0581</note><note target="wkfm-0582.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0582</note><note target="wkfm-1015.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1015</note><note target="wkfm-1016.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1016</note></noteGrp></org>
-                <org xml:id="wkfm__46509">
+                </listPerson><listOrg><org xml:id="wkfm__46509">
                      <orgName>Johann Gottlob Hess</orgName>
                   <noteGrp><note target="wkfm-1015.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1015</note><note target="wkfm-1016.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1016</note></noteGrp></org>
+                <org xml:id="wkfm__8067">
+                     <orgName>Hess und Tech</orgName>
+                  <noteGrp><note target="wkfm-0581.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0581</note><note target="wkfm-0582.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0582</note><note target="wkfm-1015.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1015</note><note target="wkfm-1016.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1016</note></noteGrp></org>
                 </listOrg></back></text>
 </TEI>

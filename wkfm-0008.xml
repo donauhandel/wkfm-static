@@ -108,21 +108,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43782">
-                     <persName>
-                        <forename>Anton</forename>
-                        <surname>Segalla</surname>
-                     </persName>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Prokurist bei Johann Peter Augustin, Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">hofbefreit</occupation>
-               <noteGrp><note target="wkfm-0008.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0008</note><note target="wkfm-1557.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1557</note><note target="wkfm-1558.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1558</note></noteGrp></person>
-                <person xml:id="wkfm__9919" sameAs="#wkfm__13957 ">
+    <back><listPerson><person xml:id="wkfm__9919" sameAs="#wkfm__13957 ">
                      <persName>
                         <forename>Johann Peter</forename>
                         <surname>Augustin</surname>
@@ -136,6 +122,20 @@
                      <occupation>Handelsmann, Wechselherr</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                <noteGrp><note target="wkfm-0008.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0008</note><note target="wkfm-0009.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0009</note></noteGrp></person>
+                <person xml:id="wkfm__43782">
+                     <persName>
+                        <forename>Anton</forename>
+                        <surname>Segalla</surname>
+                     </persName>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Prokurist bei Johann Peter Augustin, Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">hofbefreit</occupation>
+               <noteGrp><note target="wkfm-0008.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0008</note><note target="wkfm-1557.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1557</note><note target="wkfm-1558.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1558</note></noteGrp></person>
                 </listPerson><listOrg><org xml:id="wkfm__46578">
                      <orgName>Johann Peter Augustin, Gio. Pietro Augusti</orgName>
                   <noteGrp><note target="wkfm-0008.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0008</note></noteGrp></org>

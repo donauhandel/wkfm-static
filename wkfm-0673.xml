@@ -87,10 +87,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47052">
-                     <orgName>Johann Fuchs</orgName>
-                  <noteGrp><note target="wkfm-0673.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0673</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__8277">
+    <back><listPerson><person xml:id="wkfm__8277">
                      <persName>
                         <forename>Johann</forename>
                         <surname>Fuchs</surname>
@@ -108,5 +105,8 @@
                      <occupation>Tuchhändler</occupation>
                      <occupation type="kaufmannsklasse">tuchlaubensverwandt/bürgerlich</occupation>
                <noteGrp><note target="wkfm-0673.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0673</note><note target="wkfm-0674.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0674</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47052">
+                     <orgName>Johann Fuchs</orgName>
+                  <noteGrp><note target="wkfm-0673.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0673</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

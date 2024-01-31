@@ -95,10 +95,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46464">
-                     <orgName>Martin Wilhelm Hofgartner</orgName>
-                  <noteGrp><note target="wkfm-0957.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0957</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__46463">
+    <back><listPerson><person xml:id="wkfm__46463">
                      <persName>
                         <forename>Martin Wilhelm</forename>
                         <surname>Hofgartner</surname>
@@ -137,5 +134,8 @@
                      <occupation>Handelsfrau</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0957.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0957</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46464">
+                     <orgName>Martin Wilhelm Hofgartner</orgName>
+                  <noteGrp><note target="wkfm-0957.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0957</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

@@ -109,20 +109,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46780">
-                     <persName>
-                        <forename>Matthias</forename>
-                        <surname>Thomann</surname>
-                     </persName>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Prokurist bei Johann Luz, Angestellter und Prokurist bei Johann Kaspar von Scheidlin</occupation>
-                     <listBibl>
-                        <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Kühnert, Taufbuch, 106; &amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Mittenzwei, Zwischen Gestern und Morgen, 86&amp;lt;/span&amp;gt;.&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-1105.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1105</note><note target="wkfm-1667.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1667</note></noteGrp></person>
-                <person xml:id="wkfm__46779">
+    <back><listPerson><person xml:id="wkfm__46779">
                      <persName>
                         <forename>Johann Leonhard</forename>
                         <surname>Spengelin</surname>
@@ -143,6 +130,19 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                <noteGrp><note target="wkfm-1105.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1105</note><note target="wkfm-1106.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1106</note><note target="wkfm-1407.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1407</note><note target="wkfm-1408.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1408</note></noteGrp></person>
+                <person xml:id="wkfm__46780">
+                     <persName>
+                        <forename>Matthias</forename>
+                        <surname>Thomann</surname>
+                     </persName>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Prokurist bei Johann Luz, Angestellter und Prokurist bei Johann Kaspar von Scheidlin</occupation>
+                     <listBibl>
+                        <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Kühnert, Taufbuch, 106; &amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Mittenzwei, Zwischen Gestern und Morgen, 86&amp;lt;/span&amp;gt;.&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-1105.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1105</note><note target="wkfm-1667.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1667</note></noteGrp></person>
                 <person xml:id="wkfm__3658" sameAs="#wkfm__14338 ">
                      <persName>
                         <forename>Johann</forename>

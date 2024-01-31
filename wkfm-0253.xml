@@ -111,10 +111,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__43951">
-                     <orgName>Baciller und Pichler</orgName>
-                  <noteGrp><note target="wkfm-0253.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0253</note><note target="wkfm-0254.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0254</note><note target="wkfm-0255.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0255</note><note target="wkfm-0256.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0256</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__12722">
+    <back><listPerson><person xml:id="wkfm__12722">
                      <persName>
                         <forename>Philipp</forename>
                         <surname>Scheigl</surname>
@@ -136,5 +133,8 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
                <noteGrp><note target="wkfm-0253.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0253</note><note target="wkfm-0254.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0254</note><note target="wkfm-0256.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0256</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__43951">
+                     <orgName>Baciller und Pichler</orgName>
+                  <noteGrp><note target="wkfm-0253.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0253</note><note target="wkfm-0254.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0254</note><note target="wkfm-0255.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0255</note><note target="wkfm-0256.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0256</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

@@ -86,7 +86,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46118">
+    <back><listOrg><org xml:id="wkfm__47229">
+                     <orgName>Thomas Georg Kreps</orgName>
+                  <noteGrp><note target="wkfm-0393.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0393</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__46118">
                      <persName>
                         <forename>Thomas Georg</forename>
                         <surname>Kreps</surname>
@@ -111,8 +114,5 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 437.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0393.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0393</note><note target="wkfm-0394.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0394</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__47229">
-                     <orgName>Thomas Georg Kreps</orgName>
-                  <noteGrp><note target="wkfm-0393.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0393</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

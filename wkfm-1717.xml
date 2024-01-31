@@ -96,7 +96,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43611">
+    <back><listOrg><org xml:id="wkfm__46956">
+                     <orgName>Franz Anton Wolf &amp; Co.</orgName>
+                  <noteGrp><note target="wkfm-1717.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1717</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__43611">
                      <persName>
                         <forename>Johann Heinrich</forename>
                         <surname>Rang</surname>
@@ -134,8 +137,5 @@
                      <occupation>Spiegelhändler</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1717.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1717</note><note target="wkfm-1718.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1718</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46956">
-                     <orgName>Franz Anton Wolf &amp; Co.</orgName>
-                  <noteGrp><note target="wkfm-1717.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1717</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

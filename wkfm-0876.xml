@@ -99,10 +99,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__43229">
-                     <orgName>Johann Georg Grones &amp; Co.</orgName>
-                  <listPerson type="affiliated"><person><persName key="#wkfm__5636">Rigotti, Hieronymus</persName></person></listPerson><noteGrp><note target="wkfm-0875.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0875</note><note target="wkfm-0876.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0876</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__5636">
+    <back><listPerson><person xml:id="wkfm__5636">
                      <persName>
                         <forename>Hieronymus</forename>
                         <surname>Rigotti</surname>
@@ -142,8 +139,8 @@
                      <persName>
                         <forename>Johann Georg</forename>
                         <surname>Grones</surname>
-                        <surname type="alt">Groness</surname>
                         <surname type="alt">Gromes</surname>
+                        <surname type="alt">Groness</surname>
                      </persName>
                      <residence type="Bürgerrecht">
                         <placeName key="#wkfm-place__925">Wien</placeName>
@@ -160,5 +157,8 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 394 (Jänner 1732).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0875.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0875</note><note target="wkfm-0876.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0876</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__43229">
+                     <orgName>Johann Georg Grones &amp; Co.</orgName>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__5636">Rigotti, Hieronymus</persName></person></listPerson><noteGrp><note target="wkfm-0875.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0875</note><note target="wkfm-0876.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0876</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

@@ -88,10 +88,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47424">
-                     <orgName>Michael Schweifer</orgName>
-                  <noteGrp><note target="wkfm-1499.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1499</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__12358">
+    <back><listPerson><person xml:id="wkfm__12358">
                      <persName>
                         <forename>Michael</forename>
                         <surname>Schweifer</surname>
@@ -117,5 +114,8 @@
                         <bibl>Huchler, Bürgeraufnahmen, 526 (&amp;#34;Schwaiffer&amp;#34;).</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1499.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1499</note><note target="wkfm-1500.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1500</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47424">
+                     <orgName>Michael Schweifer</orgName>
+                  <noteGrp><note target="wkfm-1499.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1499</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

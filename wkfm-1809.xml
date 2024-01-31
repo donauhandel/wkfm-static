@@ -102,19 +102,13 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46453">
-                     <orgName>Joseph Höcksteiner sel. Witwe und Sohn</orgName>
-                  <listPerson type="affiliated"><person><persName key="#wkfm__46454">Höcksteiner, Franz Karl</persName></person></listPerson><noteGrp><note target="wkfm-0949.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0949</note><note target="wkfm-0950.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0950</note><note target="wkfm-1809.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1809</note></noteGrp></org>
-                <org xml:id="wkfm__47031">
+    <back><listOrg><org xml:id="wkfm__47031">
                      <orgName>Johann Michael Weigl</orgName>
                   <noteGrp><note target="wkfm-1809.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1809</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__41799">
-                     <persName>
-                        <forename>Marx Joseph</forename>
-                        <surname>Hink</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-1809.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1809</note></noteGrp></person>
-                <person xml:id="wkfm__25597">
+                <org xml:id="wkfm__46453">
+                     <orgName>Joseph Höcksteiner sel. Witwe und Sohn</orgName>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__46454">Höcksteiner, Franz Karl</persName></person></listPerson><noteGrp><note target="wkfm-0949.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0949</note><note target="wkfm-0950.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0950</note><note target="wkfm-1809.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1809</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__25597">
                      <persName>
                         <forename>Johann Michael</forename>
                         <surname>Weigl</surname>
@@ -134,5 +128,11 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 557.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1662.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1662</note><note target="wkfm-1809.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1809</note></noteGrp></person>
+                <person xml:id="wkfm__41799">
+                     <persName>
+                        <forename>Marx Joseph</forename>
+                        <surname>Hink</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-1809.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1809</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

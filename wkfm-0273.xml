@@ -87,10 +87,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47376">
-                     <orgName>Leopold Pindter</orgName>
-                  <noteGrp><note target="wkfm-0273.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0273</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__43929">
+    <back><listPerson><person xml:id="wkfm__43929">
                      <persName>
                         <forename>Leopold</forename>
                         <surname>Pindter</surname>
@@ -107,5 +104,8 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0273.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0273</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47376">
+                     <orgName>Leopold Pindter</orgName>
+                  <noteGrp><note target="wkfm-0273.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0273</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

@@ -123,7 +123,34 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43989">
+    <back><listOrg><org xml:id="wkfm__46280">
+                     <orgName>Simon Anton Denk</orgName>
+                  <noteGrp><note target="wkfm-0597.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0597</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__46279">
+                     <persName>
+                        <forename>Simon Anton</forename>
+                        <surname>Denk</surname>
+                        <surname type="alt">Denckh</surname>
+                     </persName>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zum Roten Apfel auf dem alten Bauernmarkt (Calender 1758)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+                     <listBibl>
+                        <bibl>Huchler, Bürgeraufnahmen, 360.&amp;lt;br&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0597.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0597</note><note target="wkfm-0598.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0598</note></noteGrp></person>
+                <person xml:id="wkfm__43989">
                      <persName>
                         <forename>Jakob Matthäus</forename>
                         <surname>Schmidt</surname>
@@ -148,32 +175,5 @@
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 518.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0299.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0299</note><note target="wkfm-0597.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0597</note><note target="wkfm-1647.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1647</note><note target="wkfm-1648.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1648</note></noteGrp></person>
-                <person xml:id="wkfm__46279">
-                     <persName>
-                        <forename>Simon Anton</forename>
-                        <surname>Denk</surname>
-                        <surname type="alt">Denckh</surname>
-                     </persName>                    
-                     <residence type="Geschäftsadresse">
-                        <placeName>Zum Roten Apfel auf dem alten Bauernmarkt (Calender 1758)</placeName>
-                     </residence>
-                     <residence type="Bürgerrecht">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-                     <listBibl>
-                        <bibl>Huchler, Bürgeraufnahmen, 360.&amp;lt;br&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-0597.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0597</note><note target="wkfm-0598.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0598</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46280">
-                     <orgName>Simon Anton Denk</orgName>
-                  <noteGrp><note target="wkfm-0597.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0597</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

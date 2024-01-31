@@ -88,10 +88,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46702">
-                     <orgName>Balthasar Johann Rathgeb</orgName>
-                  <noteGrp><note target="wkfm-1383.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1383</note><note target="wkfm-1421.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1421</note><note target="wkfm-1422.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1422</note><note target="wkfm-1429.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1429</note><note target="wkfm-1430.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1430</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__46701" sameAs="#wkfm__26028 ">
+    <back><listPerson><person xml:id="wkfm__46701" sameAs="#wkfm__26028 ">
                      <persName>
                         <forename>Balthasar Johann</forename>
                         <surname>Rathgeb</surname>
@@ -109,5 +106,8 @@
                      <occupation>Handelsmann, Materialist</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1383.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1383</note><note target="wkfm-1421.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1421</note><note target="wkfm-1422.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1422</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46702">
+                     <orgName>Balthasar Johann Rathgeb</orgName>
+                  <noteGrp><note target="wkfm-1383.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1383</note><note target="wkfm-1421.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1421</note><note target="wkfm-1422.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1422</note><note target="wkfm-1429.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1429</note><note target="wkfm-1430.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1430</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

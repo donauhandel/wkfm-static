@@ -104,7 +104,17 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__23529">
+    <back><listPerson><person xml:id="wkfm__47324" sameAs="#wkfm__23529 ">
+                     <persName>
+                        <forename>Franz Ignaz</forename>
+                        <surname>Sorakkl [?]</surname>
+                     </persName>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Angestellter und Prokurist bei Joseph Bernini und Gebrüder</occupation>
+               <noteGrp><note target="wkfm-0164.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0164</note></noteGrp></person>
+                <person xml:id="wkfm__23529">
                      <persName>
                         <forename>Franz Ignaz</forename>
                         <surname>Sinabell</surname>
@@ -129,16 +139,6 @@
                      <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                <noteGrp><note target="wkfm-0164.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0164</note><note target="wkfm-0165.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0165</note><note target="wkfm-0239.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0239</note><note target="wkfm-0240.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0240</note></noteGrp></person>
-                <person xml:id="wkfm__47324" sameAs="#wkfm__23529 ">
-                     <persName>
-                        <forename>Franz Ignaz</forename>
-                        <surname>Sorakkl [?]</surname>
-                     </persName>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Angestellter und Prokurist bei Joseph Bernini und Gebrüder</occupation>
-               <noteGrp><note target="wkfm-0164.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0164</note></noteGrp></person>
                 </listPerson><listOrg><org xml:id="wkfm__9072">
                      <orgName>Joseph Bernini und Gebrüder, Joseph Gebrüder von Bernini</orgName>
                   <noteGrp><note target="wkfm-0164.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0164</note></noteGrp></org>

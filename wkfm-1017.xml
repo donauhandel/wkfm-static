@@ -115,7 +115,13 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46512" sameAs="#wkfm__11115 ">
+    <back><listPerson><person xml:id="wkfm__46514">
+                     <persName>
+                        <forename>Maria Magdalena</forename>
+                        <surname>Helmsteiner</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-1017.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1017</note></noteGrp></person>
+                <person xml:id="wkfm__46512" sameAs="#wkfm__11115 ">
                      <persName>
                         <forename>Anna Maria Elisabetha</forename>
                         <surname>Strasserin</surname>
@@ -131,12 +137,6 @@
                      <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Richter zu Maria Hilf</occupation>
                      <occupation type="aemter">Richter</occupation>
-               <noteGrp><note target="wkfm-1017.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1017</note></noteGrp></person>
-                <person xml:id="wkfm__46514">
-                     <persName>
-                        <forename>Maria Magdalena</forename>
-                        <surname>Helmsteiner</surname>
-                     </persName>
                <noteGrp><note target="wkfm-1017.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1017</note></noteGrp></person>
                 <person xml:id="wkfm__46510">
                      <persName>

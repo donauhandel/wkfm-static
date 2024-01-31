@@ -119,12 +119,12 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47266">
-                     <orgName>Franz Kritsch</orgName>
-                  <noteGrp><note target="wkfm-0487.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0487</note></noteGrp></org>
-                <org xml:id="wkfm__46152">
+    <back><listOrg><org xml:id="wkfm__46152">
                      <orgName>Crettier, Bouvard &amp; Co.</orgName>
                   <noteGrp><note target="wkfm-0457.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0457</note><note target="wkfm-0458.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0458</note><note target="wkfm-0487.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0487</note></noteGrp></org>
+                <org xml:id="wkfm__47266">
+                     <orgName>Franz Kritsch</orgName>
+                  <noteGrp><note target="wkfm-0487.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0487</note></noteGrp></org>
                 </listOrg><listPerson><person xml:id="wkfm__46180">
                      <persName>
                         <forename>Franz</forename>

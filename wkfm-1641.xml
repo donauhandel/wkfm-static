@@ -90,7 +90,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47542">
+    <back><listOrg><org xml:id="wkfm__47543">
+                     <orgName>Franz Peter Siecheit</orgName>
+                  <noteGrp><note target="wkfm-1641.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1641</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__47542">
                      <persName>
                         <forename>Franz Peter</forename>
                         <surname>Siechheit</surname>
@@ -113,8 +116,5 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1641.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1641</note><note target="wkfm-1642.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1642</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__47543">
-                     <orgName>Franz Peter Siecheit</orgName>
-                  <noteGrp><note target="wkfm-1641.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1641</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

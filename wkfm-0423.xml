@@ -147,31 +147,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__21476">
-                     <persName>
-                        <forename>Philipp Jakob</forename>
-                        <surname>Bender</surname>
-                        <surname type="alt">von Bender</surname>
-                     </persName>
-                     <birth><date>ca. 1686</date></birth>
-                     <death><date>13.07.1767</date></death>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geburtsort">
-                        <placeName key="#wkfm-place__2475">Babenhausen (Hessen)</placeName>
-                     </residence>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__2476">Potzneusiedl</placeName>
-                     </residence>
-                     <occupation>Handelsmann, Wechsler</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-                     <occupation type="aemter">Edler</occupation>
-                     <listBibl>
-                        <bibl>&amp;lt;div&amp;gt;Albert Schuch, Zur Geschichte der Lederfabrikation im Gebiet des heutigen Burgenlandes (18. und 19. Jahrhundert) (Burgenländische Forschungen 85, Eisenstadt 2002) 100-103; &amp;lt;span&amp;gt;Stökl, Protestantismus, 228; Harrer-Lucienfeld, Wien, seiner Häuser, Bd. 6.1, 126; &amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Kröpfel, Protestantismus, Anhang 1, S. 4 (Tod des 2jährigen Sohnes Carl Christoph im Hilleprandischen Haus im Jahr 1741)&amp;lt;/span&amp;gt;.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-0241.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0241</note><note target="wkfm-0242.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0242</note><note target="wkfm-0423.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0423</note><note target="wkfm-0424.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0424</note></noteGrp></person>
-                <person xml:id="wkfm__37955">
+    <back><listPerson><person xml:id="wkfm__37955">
                      <persName>
                         <forename>Jakob</forename>
                         <surname>Küner</surname>
@@ -204,6 +180,41 @@
                         <bibl>Seibold, Wirtschaftlicher Erfolg, Bd. 1, 146; Stökl, Protestantismus, 228; &amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Haemmerle, Hochzeitsbücher, 277, Nr. 3812; &amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;Jetztlebende Kauffmannschafft 1. Versuch, 258.&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0423.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0423</note><note target="wkfm-0424.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0424</note><note target="wkfm-1067.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1067</note><note target="wkfm-1068.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1068</note></noteGrp></person>
+                <person xml:id="wkfm__46134">
+                     <persName>
+                        <forename>Wolfgang</forename>
+                        <surname>Riesch</surname>
+                     </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+               <noteGrp><note target="wkfm-0423.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0423</note><note target="wkfm-0424.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0424</note></noteGrp></person>
+                <person xml:id="wkfm__21476">
+                     <persName>
+                        <forename>Philipp Jakob</forename>
+                        <surname>Bender</surname>
+                        <surname type="alt">von Bender</surname>
+                     </persName>
+                     <birth><date>ca. 1686</date></birth>
+                     <death><date>13.07.1767</date></death>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geburtsort">
+                        <placeName key="#wkfm-place__2475">Babenhausen (Hessen)</placeName>
+                     </residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__2476">Potzneusiedl</placeName>
+                     </residence>
+                     <occupation>Handelsmann, Wechsler</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+                     <occupation type="aemter">Edler</occupation>
+                     <listBibl>
+                        <bibl>&amp;lt;div&amp;gt;Albert Schuch, Zur Geschichte der Lederfabrikation im Gebiet des heutigen Burgenlandes (18. und 19. Jahrhundert) (Burgenländische Forschungen 85, Eisenstadt 2002) 100-103; &amp;lt;span&amp;gt;Stökl, Protestantismus, 228; Harrer-Lucienfeld, Wien, seiner Häuser, Bd. 6.1, 126; &amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Kröpfel, Protestantismus, Anhang 1, S. 4 (Tod des 2jährigen Sohnes Carl Christoph im Hilleprandischen Haus im Jahr 1741)&amp;lt;/span&amp;gt;.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0241.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0241</note><note target="wkfm-0242.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0242</note><note target="wkfm-0423.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0423</note><note target="wkfm-0424.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0424</note></noteGrp></person>
                 <person xml:id="wkfm__46133">
                      <persName>
                         <forename>Jakob</forename>
@@ -233,25 +244,14 @@
                         <bibl>Ernst Heinrich Kneschke (Hg.), Neues Allgemeines Deutsches Adels-Lexicon, Bd. 9 (Leipzig 1870) 436.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0423.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0423</note></noteGrp></person>
-                <person xml:id="wkfm__46134">
-                     <persName>
-                        <forename>Wolfgang</forename>
-                        <surname>Riesch</surname>
-                     </persName>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-               <noteGrp><note target="wkfm-0423.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0423</note><note target="wkfm-0424.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0424</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__40640">
+                </listPerson><listOrg><org xml:id="wkfm__23520">
+                     <orgName>Küner und Bender</orgName>
+                  <noteGrp><note target="wkfm-0423.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0423</note><note target="wkfm-0424.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0424</note></noteGrp></org>
+                <org xml:id="wkfm__40640">
                      <orgName>Küner &amp; Co.</orgName>
                   <noteGrp><note target="wkfm-0423.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0423</note><note target="wkfm-0424.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0424</note></noteGrp></org>
                 <org xml:id="wkfm__12421">
                      <orgName>Isenflamm und Küner</orgName>
                   <noteGrp><note target="wkfm-0423.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0423</note><note target="wkfm-0424.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0424</note><note target="wkfm-1067.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1067</note><note target="wkfm-1068.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1068</note></noteGrp></org>
-                <org xml:id="wkfm__23520">
-                     <orgName>Küner und Bender</orgName>
-                  <noteGrp><note target="wkfm-0423.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0423</note><note target="wkfm-0424.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0424</note></noteGrp></org>
                 </listOrg></back></text>
 </TEI>

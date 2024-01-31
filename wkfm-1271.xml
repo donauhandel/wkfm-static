@@ -102,10 +102,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46925">
-                     <orgName>Anton Muth</orgName>
-                  <noteGrp><note target="wkfm-1271.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1271</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__46926">
+    <back><listPerson><person xml:id="wkfm__46926">
                      <persName>
                         <forename>Eva Margarita</forename>
                         <surname>Muth</surname>
@@ -129,5 +126,8 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1271.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1271</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46925">
+                     <orgName>Anton Muth</orgName>
+                  <noteGrp><note target="wkfm-1271.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1271</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

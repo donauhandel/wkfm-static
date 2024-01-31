@@ -88,10 +88,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46711">
-                     <orgName>Augustin Joseph Ruppert</orgName>
-                  <noteGrp><note target="wkfm-1393.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1393</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__46710">
+    <back><listPerson><person xml:id="wkfm__46710">
                      <persName>
                         <forename>Augustin Joseph</forename>
                         <surname>Ruppert</surname>
@@ -111,5 +108,8 @@
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 508.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1393.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1393</note><note target="wkfm-1394.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1394</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46711">
+                     <orgName>Augustin Joseph Ruppert</orgName>
+                  <noteGrp><note target="wkfm-1393.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1393</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

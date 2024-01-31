@@ -92,7 +92,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46319">
+    <back><listOrg><org xml:id="wkfm__46320">
+                     <orgName>Joseph Goffet</orgName>
+                  <noteGrp><note target="wkfm-0851.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0851</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__46319">
                      <persName>
                         <forename>Joseph</forename>
                         <surname>Goffet</surname>
@@ -116,8 +119,5 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 389.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0851.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0851</note><note target="wkfm-0852.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0852</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46320">
-                     <orgName>Joseph Goffet</orgName>
-                  <noteGrp><note target="wkfm-0851.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0851</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

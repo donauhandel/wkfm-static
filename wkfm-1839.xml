@@ -90,10 +90,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46606">
-                     <orgName>Matthäus Zetner</orgName>
-                  <noteGrp><note target="wkfm-1839.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1839</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__43858">
+    <back><listPerson><person xml:id="wkfm__43858">
                      <persName>
                         <forename>Matthäus</forename>
                         <surname>Zetner</surname>
@@ -116,5 +113,8 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 571.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1839.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1839</note><note target="wkfm-1840.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1840</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46606">
+                     <orgName>Matthäus Zetner</orgName>
+                  <noteGrp><note target="wkfm-1839.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1839</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

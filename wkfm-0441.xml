@@ -103,12 +103,15 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46142" sameAs="#wkfm__33448 ">
+    <back><listOrg><org xml:id="wkfm__47251">
+                     <orgName>Franz Karl Kriner</orgName>
+                  <noteGrp><note target="wkfm-0441.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0441</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__46142" sameAs="#wkfm__33448 ">
                      <persName>
                         <forename>Franz Karl</forename>
                         <surname>Kriner</surname>
-                        <surname type="alt">Krinner</surname>
                         <surname type="alt">Krüner</surname>
+                        <surname type="alt">Krinner</surname>
                      </persName>
                      <residence type="Bürgerrecht">
                         <placeName key="#wkfm-place__925">Wien</placeName>
@@ -131,8 +134,5 @@
                         <surname>Kriner</surname>
                      </persName>
                <noteGrp><note target="wkfm-0441.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0441</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__47251">
-                     <orgName>Franz Karl Kriner</orgName>
-                  <noteGrp><note target="wkfm-0441.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0441</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

@@ -88,10 +88,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46786">
-                     <orgName>Paul Leeb sel. Witwe</orgName>
-                  <noteGrp><note target="wkfm-1111.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1111</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__12091">
+    <back><listPerson><person xml:id="wkfm__12091">
                      <persName>
                         <forename>None</forename>
                         <surname>None</surname>
@@ -105,5 +102,8 @@
                      <occupation>Tuchhändlerin, Handelsfrau</occupation>
                      <occupation type="kaufmannsklasse">tuchlaubensverwandt/bürgerlich</occupation>
                <noteGrp><note target="wkfm-1111.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1111</note><note target="wkfm-1112.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1112</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46786">
+                     <orgName>Paul Leeb sel. Witwe</orgName>
+                  <noteGrp><note target="wkfm-1111.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1111</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

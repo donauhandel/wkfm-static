@@ -92,7 +92,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43835">
+    <back><listOrg><org xml:id="wkfm__47282">
+                     <orgName>Johann Bernhard Büttner</orgName>
+                  <noteGrp><note target="wkfm-0084.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0084</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__43835">
                      <persName>
                         <forename>Johann Bernhard</forename>
                         <surname>Büttner</surname>
@@ -106,8 +109,5 @@
                      <occupation>Goldarbeiter</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
                <noteGrp><note target="wkfm-0084.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0084</note><note target="wkfm-0085.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0085</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__47282">
-                     <orgName>Johann Bernhard Büttner</orgName>
-                  <noteGrp><note target="wkfm-0084.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0084</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

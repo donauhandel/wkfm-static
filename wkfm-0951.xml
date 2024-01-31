@@ -110,24 +110,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__16778">
-                     <orgName>Gaun und Zanchoni</orgName>
-                  <noteGrp><note target="wkfm-0951.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0951</note></noteGrp></org>
-                <org xml:id="wkfm__46457">
-                     <orgName>Johann Jakob Hauzenberger</orgName>
-                  <noteGrp><note target="wkfm-0951.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0951</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__46458">
-                     <persName>
-                        <forename>Franz Joseph</forename>
-                        <surname>Hagenbrunner</surname>
-                        <surname type="alt">Hagenpruner</surname>
-                     </persName>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Kassier und Prokurist des Johann Jakob Hauzenberger</occupation>
-               <noteGrp><note target="wkfm-0951.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0951</note></noteGrp></person>
-                <person xml:id="wkfm__9703" sameAs="#wkfm__28031 wkfm__18055 ">
+    <back><listPerson><person xml:id="wkfm__9703" sameAs="#wkfm__28031 wkfm__18055 ">
                      <persName>
                         <forename>Johann Jakob</forename>
                         <surname>Hauzenberger</surname>
@@ -139,5 +122,22 @@
                      <occupation>Handelsmann, Wechsler</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
                <noteGrp><note target="wkfm-0951.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0951</note><note target="wkfm-0952.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0952</note></noteGrp></person>
-                </listPerson></back></text>
+                <person xml:id="wkfm__46458">
+                     <persName>
+                        <forename>Franz Joseph</forename>
+                        <surname>Hagenbrunner</surname>
+                        <surname type="alt">Hagenpruner</surname>
+                     </persName>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Kassier und Prokurist des Johann Jakob Hauzenberger</occupation>
+               <noteGrp><note target="wkfm-0951.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0951</note></noteGrp></person>
+                </listPerson><listOrg><org xml:id="wkfm__46457">
+                     <orgName>Johann Jakob Hauzenberger</orgName>
+                  <noteGrp><note target="wkfm-0951.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0951</note></noteGrp></org>
+                <org xml:id="wkfm__16778">
+                     <orgName>Gaun und Zanchoni</orgName>
+                  <noteGrp><note target="wkfm-0951.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0951</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

@@ -235,9 +235,9 @@
                      <persName>
                         <forename>Eva Barbara</forename>
                         <surname>Peisserin</surname>
-                        <surname type="alt">Peisser von Wertenau</surname>
                         <surname type="alt">Schuller</surname>
                         <surname type="alt">Puthon</surname>
+                        <surname type="alt">Peisser von Wertenau</surname>
                      </persName>
                      <birth><date>26.10.1723</date></birth>
                      <death><date>29.10.1803</date></death>
@@ -256,11 +256,11 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                <noteGrp><note target="wkfm-0759.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0759</note><note target="wkfm-0760.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0760</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__39394">
-                     <orgName>Falquet und Puthon</orgName>
-                  <noteGrp><note target="wkfm-0759.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0759</note><note target="wkfm-0760.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0760</note></noteGrp></org>
-                <org xml:id="wkfm__23970">
+                </listPerson><listOrg><org xml:id="wkfm__23970">
                      <orgName>Falquet und Violand</orgName>
                   <noteGrp><note target="wkfm-0070.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0070</note><note target="wkfm-0759.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0759</note><note target="wkfm-0760.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0760</note><note target="wkfm-0799.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0799</note><note target="wkfm-0800.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0800</note></noteGrp></org>
+                <org xml:id="wkfm__39394">
+                     <orgName>Falquet und Puthon</orgName>
+                  <noteGrp><note target="wkfm-0759.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0759</note><note target="wkfm-0760.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0760</note></noteGrp></org>
                 </listOrg></back></text>
 </TEI>

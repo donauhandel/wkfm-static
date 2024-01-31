@@ -90,12 +90,15 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__26080" sameAs="#wkfm__8808 wkfm__35496 ">
+    <back><listOrg><org xml:id="wkfm__46316">
+                     <orgName>Johann Gregory Grindler</orgName>
+                  <noteGrp><note target="wkfm-0845.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0845</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__26080" sameAs="#wkfm__8808 wkfm__35496 ">
                      <persName>
                         <forename>Johann Gregor</forename>
                         <surname>Grindler</surname>
-                        <surname type="alt">Grindtler</surname>
                         <surname type="alt">Gründler</surname>
+                        <surname type="alt">Grindtler</surname>
                      </persName>                    
                      <residence type="Geschäftsadresse">
                         <placeName>Zum Goldenen Pfau nächst dem Kärtnertor in eigener Behausung (Calender 1758), Zum Pfauen nächst dem Kärntnertor (Calender 1723)</placeName>
@@ -115,8 +118,5 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 394; &amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;Gericke, Wiener Musikalienhandel, 32 (kein Buchhändler, kein bedeutender Musikalienhändler).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0845.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0845</note><note target="wkfm-0846.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0846</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46316">
-                     <orgName>Johann Gregory Grindler</orgName>
-                  <noteGrp><note target="wkfm-0845.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0845</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

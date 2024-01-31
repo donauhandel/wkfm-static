@@ -88,10 +88,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47506">
-                     <orgName>Johann Stöger</orgName>
-                  <noteGrp><note target="wkfm-1605.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1605</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__47505" sameAs="#wkfm__25340 ">
+    <back><listPerson><person xml:id="wkfm__47505" sameAs="#wkfm__25340 ">
                      <persName>
                         <forename>Johann</forename>
                         <surname>Stöger</surname>
@@ -112,5 +109,8 @@
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 539 (Juni 1728).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1605.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1605</note><note target="wkfm-1606.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1606</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47506">
+                     <orgName>Johann Stöger</orgName>
+                  <noteGrp><note target="wkfm-1605.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1605</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

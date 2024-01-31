@@ -98,7 +98,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__22485">
+    <back><listOrg><org xml:id="wkfm__47355">
+                     <orgName>Matthias Piller</orgName>
+                  <noteGrp><note target="wkfm-0229.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0229</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__22485">
                      <persName>
                         <forename>Matthias</forename>
                         <surname>Piller</surname>
@@ -119,8 +122,5 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 484.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0229.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0229</note><note target="wkfm-0230.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0230</note><note target="wkfm-1283.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1283</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__47355">
-                     <orgName>Matthias Piller</orgName>
-                  <noteGrp><note target="wkfm-0229.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0229</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

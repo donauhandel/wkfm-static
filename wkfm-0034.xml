@@ -88,10 +88,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46591">
-                     <orgName>Johann Gottlieb Arminger</orgName>
-                  <noteGrp><note target="wkfm-0034.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0034</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__15439">
+    <back><listPerson><person xml:id="wkfm__15439">
                      <persName>
                         <forename>Johann Gottlieb</forename>
                         <surname>Arminger</surname>
@@ -120,5 +117,8 @@
                         <bibl>Huchler, Bürgeraufnahmen, 341.</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0034.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0034</note><note target="wkfm-0035.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0035</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46591">
+                     <orgName>Johann Gottlieb Arminger</orgName>
+                  <noteGrp><note target="wkfm-0034.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0034</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

@@ -107,10 +107,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47363">
-                     <orgName>Johann Praun</orgName>
-                  <noteGrp><note target="wkfm-0247.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0247</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__43940" sameAs="#wkfm__17290 ">
+    <back><listPerson><person xml:id="wkfm__43940" sameAs="#wkfm__17290 ">
                      <persName>
                         <forename>Johann</forename>
                         <surname>Praun</surname>
@@ -136,5 +133,8 @@
                         <surname>Praun</surname>
                      </persName>
                <noteGrp><note target="wkfm-0247.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0247</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47363">
+                     <orgName>Johann Praun</orgName>
+                  <noteGrp><note target="wkfm-0247.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0247</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

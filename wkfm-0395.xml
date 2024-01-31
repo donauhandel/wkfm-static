@@ -89,10 +89,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47230">
-                     <orgName>Christoph Zimmermann (Cimmermann)</orgName>
-                  <noteGrp><note target="wkfm-0395.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0395</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__46119" sameAs="#wkfm__8060 ">
+    <back><listPerson><person xml:id="wkfm__46119" sameAs="#wkfm__8060 ">
                      <persName>
                         <forename>Christoph</forename>
                         <surname>Zimmermann</surname>
@@ -116,5 +113,8 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 572 (2. März 1716: &amp;#34;Christian&amp;#34;).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0395.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0395</note><note target="wkfm-0396.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0396</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47230">
+                     <orgName>Christoph Zimmermann (Cimmermann)</orgName>
+                  <noteGrp><note target="wkfm-0395.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0395</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

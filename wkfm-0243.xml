@@ -105,7 +105,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43938" sameAs="#wkfm__13078 ">
+    <back><listOrg><org xml:id="wkfm__47361">
+                     <orgName>Johann Georg Braun</orgName>
+                  <noteGrp><note target="wkfm-0243.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0243</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__43938" sameAs="#wkfm__13078 ">
                      <persName>
                         <forename>Johann Georg</forename>
                         <surname>Braun</surname>
@@ -145,8 +148,5 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 368; &amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;Jetztlebende Kauffmannschafft 1. Versuch, 257.&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0243.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0243</note><note target="wkfm-0647.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0647</note><note target="wkfm-0648.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0648</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__47361">
-                     <orgName>Johann Georg Braun</orgName>
-                  <noteGrp><note target="wkfm-0243.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0243</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

@@ -88,12 +88,12 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46783">
-                     <orgName>Anton Lang &amp; Co.</orgName>
-                  <noteGrp><note target="wkfm-1109.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1109</note><note target="wkfm-1110.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1110</note><note target="wkfm-1285.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1285</note><note target="wkfm-1286.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1286</note></noteGrp></org>
-                <org xml:id="wkfm__46782">
+    <back><listOrg><org xml:id="wkfm__46782">
                      <orgName>Anton Lang</orgName>
                   <noteGrp><note target="wkfm-1109.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1109</note></noteGrp></org>
+                <org xml:id="wkfm__46783">
+                     <orgName>Anton Lang &amp; Co.</orgName>
+                  <noteGrp><note target="wkfm-1109.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1109</note><note target="wkfm-1110.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1110</note><note target="wkfm-1285.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1285</note><note target="wkfm-1286.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1286</note></noteGrp></org>
                 </listOrg><listPerson><person xml:id="wkfm__8089">
                      <persName>
                         <forename>Anton</forename>

@@ -117,10 +117,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46609">
-                     <orgName>Adam Zott</orgName>
-                  <noteGrp><note target="wkfm-1845.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1845</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__43860">
+    <back><listPerson><person xml:id="wkfm__43860">
                      <persName>
                         <forename>Adam</forename>
                         <surname>Zott</surname>
@@ -149,5 +146,8 @@
                         <surname>Stumer</surname>
                      </persName>
                <noteGrp><note target="wkfm-1845.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1845</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46609">
+                     <orgName>Adam Zott</orgName>
+                  <noteGrp><note target="wkfm-1845.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1845</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

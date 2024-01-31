@@ -92,7 +92,13 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__4646" sameAs="#wkfm__28419 ">
+    <back><listOrg><org xml:id="wkfm__47341">
+                     <orgName>Joseph Peisser</orgName>
+                  <noteGrp><note target="wkfm-0196.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0196</note><note target="wkfm-1645.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1645</note></noteGrp></org>
+                <org xml:id="wkfm__13208">
+                     <orgName>Peisser und Rigotti</orgName>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__5636">Rigotti, Hieronymus</persName></person><person><persName key="#wkfm__4646">Peisser, Joseph</persName></person></listPerson><noteGrp><note target="wkfm-0196.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0196</note><note target="wkfm-1405.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1405</note><note target="wkfm-1406.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1406</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__4646" sameAs="#wkfm__28419 ">
                      <persName>
                         <forename>Joseph</forename>
                         <surname>Peisser</surname>
@@ -122,11 +128,5 @@
                         <bibl>&amp;lt;div&amp;gt;Scheiber, 600 Jahre, 67f.; &amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 479.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;&amp;lt;div&amp;gt;Harrer-Lucienfeld, Wien, seiner Häuser, Bd. 1.1, S. 178&amp;lt;br&amp;gt;&amp;lt;span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0196.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0196</note><note target="wkfm-0197.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0197</note><note target="wkfm-1645.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1645</note><note target="wkfm-1849.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1849</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__47341">
-                     <orgName>Joseph Peisser</orgName>
-                  <noteGrp><note target="wkfm-0196.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0196</note><note target="wkfm-1645.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1645</note></noteGrp></org>
-                <org xml:id="wkfm__13208">
-                     <orgName>Peisser und Rigotti</orgName>
-                  <listPerson type="affiliated"><person><persName key="#wkfm__4646">Peisser, Joseph</persName></person><person><persName key="#wkfm__5636">Rigotti, Hieronymus</persName></person></listPerson><noteGrp><note target="wkfm-0196.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0196</note><note target="wkfm-1405.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1405</note><note target="wkfm-1406.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1406</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

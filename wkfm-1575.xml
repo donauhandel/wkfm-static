@@ -90,10 +90,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47482">
-                     <orgName>Franz Anton Sartori</orgName>
-                  <noteGrp><note target="wkfm-1575.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1575</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__18530">
+    <back><listPerson><person xml:id="wkfm__18530">
                      <persName>
                         <forename>Franz Anton</forename>
                         <surname>Sartori</surname>
@@ -113,5 +110,8 @@
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 509.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1575.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1575</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47482">
+                     <orgName>Franz Anton Sartori</orgName>
+                  <noteGrp><note target="wkfm-1575.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1575</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

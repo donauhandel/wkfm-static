@@ -90,7 +90,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__14422">
+    <back><listOrg><org xml:id="wkfm__46630">
+                     <orgName>Leb Wertheimer</orgName>
+                  <noteGrp><note target="wkfm-1895.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1895</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__14422">
                      <persName>
                         <forename>Leb</forename>
                         <surname>Wertheimer</surname>
@@ -107,8 +110,5 @@
                         <bibl>Wachstein, Die Wiener Juden in Handel und Industrie.</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1895.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1895</note><note target="wkfm-1896.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1896</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46630">
-                     <orgName>Leb Wertheimer</orgName>
-                  <noteGrp><note target="wkfm-1895.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1895</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

@@ -98,12 +98,12 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__43229">
-                     <orgName>Johann Georg Grones &amp; Co.</orgName>
-                  <listPerson type="affiliated"><person><persName key="#wkfm__5636">Rigotti, Hieronymus</persName></person></listPerson><noteGrp><note target="wkfm-0875.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0875</note><note target="wkfm-0876.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0876</note></noteGrp></org>
-                <org xml:id="wkfm__46342">
+    <back><listOrg><org xml:id="wkfm__46342">
                      <orgName>Johann Georg Gromes</orgName>
                   <noteGrp><note target="wkfm-0875.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0875</note></noteGrp></org>
+                <org xml:id="wkfm__43229">
+                     <orgName>Johann Georg Grones &amp; Co.</orgName>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__5636">Rigotti, Hieronymus</persName></person></listPerson><noteGrp><note target="wkfm-0875.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0875</note><note target="wkfm-0876.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0876</note></noteGrp></org>
                 </listOrg><listPerson><person xml:id="wkfm__5636">
                      <persName>
                         <forename>Hieronymus</forename>
@@ -144,8 +144,8 @@
                      <persName>
                         <forename>Johann Georg</forename>
                         <surname>Grones</surname>
-                        <surname type="alt">Groness</surname>
                         <surname type="alt">Gromes</surname>
+                        <surname type="alt">Groness</surname>
                      </persName>
                      <residence type="Bürgerrecht">
                         <placeName key="#wkfm-place__925">Wien</placeName>

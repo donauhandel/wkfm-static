@@ -88,7 +88,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46488" sameAs="#wkfm__40458 ">
+    <back><listOrg><org xml:id="wkfm__46489">
+                     <orgName>Jakob Hänrich</orgName>
+                  <noteGrp><note target="wkfm-0991.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0991</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__46488" sameAs="#wkfm__40458 ">
                      <persName>
                         <forename>Jakob</forename>
                         <surname>Hänrich</surname>
@@ -108,8 +111,5 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 401.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0991.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0991</note><note target="wkfm-0992.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0992</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46489">
-                     <orgName>Jakob Hänrich</orgName>
-                  <noteGrp><note target="wkfm-0991.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0991</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

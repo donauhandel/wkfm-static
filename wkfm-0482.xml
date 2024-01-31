@@ -93,7 +93,14 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46174">
+    <back><listPerson><person xml:id="wkfm__46175">
+                     <persName>
+                        <forename>Maria Anna</forename>
+                        <surname>Einederin</surname>
+                        <surname type="alt">Krenn</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0482.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0482</note></noteGrp></person>
+                <person xml:id="wkfm__46174">
                      <persName>
                         <forename>Franz Anton</forename>
                         <surname>Krenn</surname>
@@ -114,12 +121,5 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0481.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0481</note><note target="wkfm-0482.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0482</note><note target="wkfm-1693.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1693</note></noteGrp></person>
-                <person xml:id="wkfm__46175">
-                     <persName>
-                        <forename>Maria Anna</forename>
-                        <surname>Einederin</surname>
-                        <surname type="alt">Krenn</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-0482.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0482</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

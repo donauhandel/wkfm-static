@@ -90,13 +90,16 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46206">
+    <back><listOrg><org xml:id="wkfm__46207">
+                     <orgName>Joseph Duvillard</orgName>
+                  <noteGrp><note target="wkfm-0521.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0521</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__46206">
                      <persName>
                         <forename>Joseph</forename>
                         <surname>Duvillard</surname>
-                        <surname type="alt">Duvullard</surname>
-                        <surname type="alt">Dovillar</surname>
                         <surname type="alt">Duwilard</surname>
+                        <surname type="alt">Dovillar</surname>
+                        <surname type="alt">Duvullard</surname>
                      </persName>
                      <death><date>1739/40</date></death>                    
                      <residence type="Geschäftsadresse">
@@ -117,8 +120,5 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 364 (5. November 1710 &amp;#34;Dovillar&amp;#34;)&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0521.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0521</note><note target="wkfm-0522.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0522</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46207">
-                     <orgName>Joseph Duvillard</orgName>
-                  <noteGrp><note target="wkfm-0521.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0521</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

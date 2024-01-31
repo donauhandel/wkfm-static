@@ -161,6 +161,23 @@
                         <bibl>&amp;lt;div&amp;gt;Scheiber, 600 Jahre, 67f.; &amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 479.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;&amp;lt;div&amp;gt;Harrer-Lucienfeld, Wien, seiner Häuser, Bd. 1.1, S. 178&amp;lt;br&amp;gt;&amp;lt;span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0196.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0196</note><note target="wkfm-0197.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0197</note><note target="wkfm-1645.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1645</note><note target="wkfm-1849.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1849</note></noteGrp></person>
+                <person xml:id="wkfm__47549">
+                     <persName>
+                        <forename>Helena</forename>
+                        <surname>Stofferin</surname>
+                        <surname type="alt">Peisserin</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-1645.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1645</note><note target="wkfm-1646.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1646</note></noteGrp></person>
+                <person xml:id="wkfm__47548" sameAs="#wkfm__12970 ">
+                     <persName>
+                        <forename>Joseph Anton</forename>
+                        <surname>Gluderer</surname>
+                     </persName>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Prokurist bei Franz Ludwig Stofferin</occupation>
+               <noteGrp><note target="wkfm-1645.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1645</note></noteGrp></person>
                 <person xml:id="wkfm__47546">
                      <persName>
                         <forename>Franz Ludwig</forename>
@@ -181,23 +198,6 @@
                      <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-1645.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1645</note><note target="wkfm-1646.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1646</note></noteGrp></person>
-                <person xml:id="wkfm__47548" sameAs="#wkfm__12970 ">
-                     <persName>
-                        <forename>Joseph Anton</forename>
-                        <surname>Gluderer</surname>
-                     </persName>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Prokurist bei Franz Ludwig Stofferin</occupation>
-               <noteGrp><note target="wkfm-1645.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1645</note></noteGrp></person>
-                <person xml:id="wkfm__47549">
-                     <persName>
-                        <forename>Helena</forename>
-                        <surname>Stofferin</surname>
-                        <surname type="alt">Peisserin</surname>
-                     </persName>
                <noteGrp><note target="wkfm-1645.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1645</note><note target="wkfm-1646.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1646</note></noteGrp></person>
                 </listPerson><listOrg><org xml:id="wkfm__47341">
                      <orgName>Joseph Peisser</orgName>

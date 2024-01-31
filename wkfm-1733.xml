@@ -88,7 +88,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__9489">
+    <back><listOrg><org xml:id="wkfm__46965">
+                     <orgName>Hans Jakob Wolfram</orgName>
+                  <noteGrp><note target="wkfm-1733.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1733</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__9489">
                      <persName>
                         <forename>Johann Jakob</forename>
                         <surname>Wolfram</surname>
@@ -113,8 +116,5 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 567.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1733.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1733</note><note target="wkfm-1734.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1734</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46965">
-                     <orgName>Hans Jakob Wolfram</orgName>
-                  <noteGrp><note target="wkfm-1733.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1733</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

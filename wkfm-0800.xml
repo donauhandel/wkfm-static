@@ -165,13 +165,6 @@
                         <bibl>Rauscher, Serles, Niederleger, 168.</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0070.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0070</note><note target="wkfm-0071.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0071</note><note target="wkfm-0760.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0760</note><note target="wkfm-0799.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0799</note><note target="wkfm-0800.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0800</note></noteGrp></person>
-                <person xml:id="wkfm__47177">
-                     <persName>
-                        <forename>Maria Rosa</forename>
-                        <surname>Perinetin</surname>
-                        <surname type="alt">Violand</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-0800.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0800</note></noteGrp></person>
                 <person xml:id="wkfm__42886">
                      <persName>
                         <forename>Bernhard</forename>
@@ -217,6 +210,20 @@
                         <bibl>&amp;lt;div&amp;gt;Rauscher, Serles, Niederleger, 168f.&amp;lt;/div&amp;gt;&amp;lt;div&amp;gt;Harrer-Lucienfeld, Wien, seiner Häuser, Bd. 1.3, S. 727&amp;lt;/div&amp;gt;&amp;lt;div&amp;gt;Raynaud, Savoyardische Einwanderungen, 216&amp;lt;br&amp;gt;&amp;lt;/div&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0070.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0070</note><note target="wkfm-0071.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0071</note><note target="wkfm-0251.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0251</note><note target="wkfm-0799.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0799</note><note target="wkfm-0800.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0800</note></noteGrp></person>
+                <person xml:id="wkfm__43815">
+                     <persName>
+                        <forename>Jakob</forename>
+                        <surname>Violand</surname>
+                     </persName>
+                     <occupation type="kaufmannsklasse"/>
+               <noteGrp><note target="wkfm-0071.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0071</note><note target="wkfm-0800.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0800</note></noteGrp></person>
+                <person xml:id="wkfm__47177">
+                     <persName>
+                        <forename>Maria Rosa</forename>
+                        <surname>Perinetin</surname>
+                        <surname type="alt">Violand</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0800.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0800</note></noteGrp></person>
                 <person xml:id="wkfm__30391">
                      <persName>
                         <forename>Franz</forename>
@@ -237,18 +244,11 @@
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Haemmerle, Hochzeitsbücher, 280, Nr. 3867.&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0071.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0071</note><note target="wkfm-0799.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0799</note><note target="wkfm-0800.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0800</note></noteGrp></person>
-                <person xml:id="wkfm__43815">
-                     <persName>
-                        <forename>Jakob</forename>
-                        <surname>Violand</surname>
-                     </persName>
-                     <occupation type="kaufmannsklasse"/>
-               <noteGrp><note target="wkfm-0071.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0071</note><note target="wkfm-0800.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0800</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__47176">
-                     <orgName>Gebrüder Violand</orgName>
-                  <noteGrp><note target="wkfm-0799.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0799</note><note target="wkfm-0800.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0800</note><note target="wkfm-0805.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0805</note></noteGrp></org>
-                <org xml:id="wkfm__23970">
+                </listPerson><listOrg><org xml:id="wkfm__23970">
                      <orgName>Falquet und Violand</orgName>
                   <noteGrp><note target="wkfm-0070.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0070</note><note target="wkfm-0759.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0759</note><note target="wkfm-0760.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0760</note><note target="wkfm-0799.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0799</note><note target="wkfm-0800.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0800</note></noteGrp></org>
+                <org xml:id="wkfm__47176">
+                     <orgName>Gebrüder Violand</orgName>
+                  <noteGrp><note target="wkfm-0799.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0799</note><note target="wkfm-0800.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0800</note><note target="wkfm-0805.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0805</note></noteGrp></org>
                 </listOrg></back></text>
 </TEI>

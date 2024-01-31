@@ -88,10 +88,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46332">
-                     <orgName>Johann Georg von der Glocken</orgName>
-                  <noteGrp><note target="wkfm-0863.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0863</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__46331">
+    <back><listPerson><person xml:id="wkfm__46331">
                      <persName>
                         <forename>Johann Georg</forename>
                         <surname>von der Glocken</surname>
@@ -113,5 +110,8 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 551 (September 1747: &amp;#34;von der Glockh&amp;#34;).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0863.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0863</note><note target="wkfm-0864.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0864</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46332">
+                     <orgName>Johann Georg von der Glocken</orgName>
+                  <noteGrp><note target="wkfm-0863.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0863</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

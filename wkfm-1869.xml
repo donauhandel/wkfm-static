@@ -88,10 +88,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46620">
-                     <orgName>Samuel Isaak Leidesdorf</orgName>
-                  <noteGrp><note target="wkfm-1869.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1869</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__43824">
+    <back><listPerson><person xml:id="wkfm__43824">
                      <persName>
                         <forename>Samuel Isaak</forename>
                         <surname>Leidersdorfer</surname>
@@ -109,5 +106,8 @@
                         <bibl>Wachstein, Die Wiener Juden in Handel und Industrie; Wachstein, Inschriften 2, Nr. 953, 429-431.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1869.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1869</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46620">
+                     <orgName>Samuel Isaak Leidesdorf</orgName>
+                  <noteGrp><note target="wkfm-1869.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1869</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

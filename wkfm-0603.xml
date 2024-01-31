@@ -90,15 +90,12 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46287">
-                     <orgName>Joseph Leopold Diewald</orgName>
-                  <noteGrp><note target="wkfm-0603.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0603</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__46286">
+    <back><listPerson><person xml:id="wkfm__46286">
                      <persName>
                         <forename>Joseph Leopold</forename>
                         <surname>Diewald</surname>
-                        <surname type="alt">Diewalt</surname>
                         <surname type="alt">Diwalt</surname>
+                        <surname type="alt">Diewalt</surname>
                      </persName>
                      <death><date>1773</date></death>                    
                      <residence type="Geschäftsadresse">
@@ -116,5 +113,8 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0603.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0603</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46287">
+                     <orgName>Joseph Leopold Diewald</orgName>
+                  <noteGrp><note target="wkfm-0603.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0603</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

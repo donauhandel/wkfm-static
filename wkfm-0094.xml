@@ -88,10 +88,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47286">
-                     <orgName>Franz Pior sel. Witwe</orgName>
-                  <noteGrp><note target="wkfm-0094.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0094</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__43842">
+    <back><listPerson><person xml:id="wkfm__43842">
                      <persName>
                         <forename>None</forename>
                         <surname>None</surname>
@@ -108,5 +105,8 @@
                      <occupation>Handelsfrau</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0094.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0094</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47286">
+                     <orgName>Franz Pior sel. Witwe</orgName>
+                  <noteGrp><note target="wkfm-0094.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0094</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

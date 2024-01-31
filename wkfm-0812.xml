@@ -98,12 +98,23 @@
          
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47196">
+    <back><listPerson><person xml:id="wkfm__26327">
+                     <persName>
+                        <forename>Franz</forename>
+                        <surname>Setti</surname>
+                     </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">hofbefreit</occupation>
+               <noteGrp><note target="wkfm-0811.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0811</note><note target="wkfm-0812.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0812</note><note target="wkfm-1597.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1597</note><note target="wkfm-1598.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1598</note></noteGrp></person>
+                <person xml:id="wkfm__47196">
                      <persName>
                         <forename>Matthias Karl</forename>
                         <surname>Ficker</surname>
-                        <surname type="alt">Fücker</surname>
                         <surname type="alt">Fikher</surname>
+                        <surname type="alt">Fücker</surname>
                      </persName>                    
                      <residence type="Geschäftsadresse">
                         <placeName>Zum 2. Austern nächst den PP. Carmelitern auf der Laimgrube (Calender 1758)</placeName>
@@ -120,16 +131,5 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0811.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0811</note><note target="wkfm-0812.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0812</note></noteGrp></person>
-                <person xml:id="wkfm__26327">
-                     <persName>
-                        <forename>Franz</forename>
-                        <surname>Setti</surname>
-                     </persName>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">hofbefreit</occupation>
-               <noteGrp><note target="wkfm-0811.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0811</note><note target="wkfm-0812.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0812</note><note target="wkfm-1597.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1597</note><note target="wkfm-1598.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1598</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

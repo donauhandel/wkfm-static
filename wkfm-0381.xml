@@ -87,15 +87,12 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47223">
-                     <orgName>Lorenz Kreitter</orgName>
-                  <noteGrp><note target="wkfm-0381.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0381</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__16003">
+    <back><listPerson><person xml:id="wkfm__16003">
                      <persName>
                         <forename>Lorenz</forename>
                         <surname>Kreitter</surname>
-                        <surname type="alt">Kreidter</surname>
                         <surname type="alt">Kreiter</surname>
+                        <surname type="alt">Kreidter</surname>
                      </persName>
                      <death><date>1727</date></death>                    
                      <residence type="Geschäftsadresse">
@@ -119,5 +116,8 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 436.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0381.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0381</note><note target="wkfm-0382.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0382</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47223">
+                     <orgName>Lorenz Kreitter</orgName>
+                  <noteGrp><note target="wkfm-0381.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0381</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

@@ -97,13 +97,16 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__24852">
+    <back><listOrg><org xml:id="wkfm__46909">
+                     <orgName>Stephan Manni</orgName>
+                  <noteGrp><note target="wkfm-1257.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1257</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__24852">
                      <persName>
                         <forename>Stephan</forename>
                         <surname>Manni</surname>
-                        <surname type="alt">Mannj</surname>
-                        <surname type="alt">Mani</surname>
                         <surname type="alt">Manny</surname>
+                        <surname type="alt">Mani</surname>
+                        <surname type="alt">Mannj</surname>
                      </persName>
                      <residence type="Geburtsort">
                         <placeName key="#wkfm-place__46">Baden (bei Wien)</placeName>
@@ -123,8 +126,5 @@
                         <bibl>Huchler, Bürgeraufnahmen, 453.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1257.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1257</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46909">
-                     <orgName>Stephan Manni</orgName>
-                  <noteGrp><note target="wkfm-1257.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1257</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

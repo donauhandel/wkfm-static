@@ -91,10 +91,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46899">
-                     <orgName>Peter Konrad Monath</orgName>
-                  <noteGrp><note target="wkfm-1249.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1249</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__8263">
+    <back><listPerson><person xml:id="wkfm__8263">
                      <persName>
                         <forename>Peter Konrad</forename>
                         <surname>Monath</surname>
@@ -124,5 +121,8 @@ Kauffmannschafft&amp;#34;, 258, unter &amp;#34;Wien&amp;#34; genannt, 233, unter
 Buchgewerbe (Nürnberg 2003) 671 u.ö.; &amp;lt;span&amp;gt;Kröpfel, Protestantismus, Anhang 1, S. 6 (Todesursache Wassersucht).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1249.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1249</note><note target="wkfm-1250.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1250</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46899">
+                     <orgName>Peter Konrad Monath</orgName>
+                  <noteGrp><note target="wkfm-1249.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1249</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

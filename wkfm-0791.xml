@@ -104,6 +104,21 @@
                         <surname>Bormastini</surname>
                      </persName>
                <noteGrp><note target="wkfm-0791.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0791</note></noteGrp></person>
+                <person xml:id="wkfm__15300">
+                     <persName>
+                        <forename>Johann Anton</forename>
+                        <surname>Bormastini</surname>
+                        <surname type="alt">Bormastino</surname>
+                     </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geburtsort">
+                        <placeName key="#wkfm-place__2542">Bormio</placeName>
+                     </residence>
+                     <occupation>Handelsmann, Prokurist für Johann Anton Bormastino d. J.</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+               <noteGrp><note target="wkfm-0076.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0076</note><note target="wkfm-0077.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0077</note><note target="wkfm-0078.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0078</note><note target="wkfm-0079.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0079</note><note target="wkfm-0194.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0194</note><note target="wkfm-0791.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0791</note></noteGrp></person>
                 <person xml:id="wkfm__43798">
                      <persName>
                         <forename>Dominicus Anton</forename>
@@ -129,21 +144,6 @@
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 375 (&amp;#34;Dominicus Ferari&amp;#34;)&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0048.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0048</note><note target="wkfm-0791.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0791</note><note target="wkfm-0792.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0792</note></noteGrp></person>
-                <person xml:id="wkfm__15300">
-                     <persName>
-                        <forename>Johann Anton</forename>
-                        <surname>Bormastini</surname>
-                        <surname type="alt">Bormastino</surname>
-                     </persName>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geburtsort">
-                        <placeName key="#wkfm-place__2542">Bormio</placeName>
-                     </residence>
-                     <occupation>Handelsmann, Prokurist für Johann Anton Bormastino d. J.</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-               <noteGrp><note target="wkfm-0076.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0076</note><note target="wkfm-0077.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0077</note><note target="wkfm-0078.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0078</note><note target="wkfm-0079.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0079</note><note target="wkfm-0194.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0194</note><note target="wkfm-0791.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0791</note></noteGrp></person>
                 </listPerson><listOrg><org xml:id="wkfm__47163">
                      <orgName>Dominicus Anton Ferrari</orgName>
                   <noteGrp><note target="wkfm-0791.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0791</note></noteGrp></org>

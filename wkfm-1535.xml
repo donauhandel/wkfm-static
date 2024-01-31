@@ -88,7 +88,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47448" sameAs="#wkfm__31918 ">
+    <back><listOrg><org xml:id="wkfm__47449">
+                     <orgName>Johann Georg Stüffer</orgName>
+                  <noteGrp><note target="wkfm-1535.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1535</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__47448" sameAs="#wkfm__31918 ">
                      <persName>
                         <forename>Johann Georg</forename>
                         <surname>Stüffer</surname>
@@ -105,8 +108,5 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1535.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1535</note><note target="wkfm-1536.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1536</note><note target="wkfm-1683.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1683</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__47449">
-                     <orgName>Johann Georg Stüffer</orgName>
-                  <noteGrp><note target="wkfm-1535.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1535</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

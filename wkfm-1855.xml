@@ -91,11 +91,11 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__43819">
-                     <orgName>Isaak Arnsteiner sel. Erben</orgName>
-                  <noteGrp><note target="wkfm-1855.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1855</note></noteGrp></org>
-                <org xml:id="wkfm__46613">
+    <back><listOrg><org xml:id="wkfm__46613">
                      <orgName>Isaak Arnsteiner</orgName>
+                  <noteGrp><note target="wkfm-1855.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1855</note></noteGrp></org>
+                <org xml:id="wkfm__43819">
+                     <orgName>Isaak Arnsteiner sel. Erben</orgName>
                   <noteGrp><note target="wkfm-1855.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1855</note></noteGrp></org>
                 </listOrg><listPerson><person xml:id="wkfm__8271">
                      <persName>

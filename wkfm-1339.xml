@@ -92,7 +92,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__8672" sameAs="#wkfm__22205 ">
+    <back><listOrg><org xml:id="wkfm__46648">
+                     <orgName>Barbara Orenghin (Orenghy)</orgName>
+                  <noteGrp><note target="wkfm-1339.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1339</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__8672" sameAs="#wkfm__22205 ">
                      <persName>
                         <forename>Barbara</forename>
                         <surname>Orenghin</surname>
@@ -104,8 +107,5 @@
                      <occupation>Handelsfrau</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
                <noteGrp><note target="wkfm-1339.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1339</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46648">
-                     <orgName>Barbara Orenghin (Orenghy)</orgName>
-                  <noteGrp><note target="wkfm-1339.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1339</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

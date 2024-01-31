@@ -91,7 +91,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__12360" sameAs="#wkfm__41173 ">
+    <back><listOrg><org xml:id="wkfm__47068">
+                     <orgName>Bernhard Fuchs und Sohn</orgName>
+                  <noteGrp><note target="wkfm-0693.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0693</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__12360" sameAs="#wkfm__41173 ">
                      <persName>
                         <forename>Bernhard</forename>
                         <surname>Fuchs</surname>
@@ -115,8 +118,5 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0693.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0693</note><note target="wkfm-0694.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0694</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__47068">
-                     <orgName>Bernhard Fuchs und Sohn</orgName>
-                  <noteGrp><note target="wkfm-0693.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0693</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

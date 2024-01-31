@@ -91,12 +91,12 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47105">
-                     <orgName>Franz Joseph Fünfer</orgName>
-                  <noteGrp><note target="wkfm-0741.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0741</note></noteGrp></org>
-                <org xml:id="wkfm__8264">
+    <back><listOrg><org xml:id="wkfm__8264">
                      <orgName>Fünfer und Pränkl</orgName>
                   <noteGrp><note target="wkfm-0741.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0741</note><note target="wkfm-0742.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0742</note></noteGrp></org>
+                <org xml:id="wkfm__47105">
+                     <orgName>Franz Joseph Fünfer</orgName>
+                  <noteGrp><note target="wkfm-0741.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0741</note></noteGrp></org>
                 </listOrg><listPerson><person xml:id="wkfm__30269">
                      <persName>
                         <forename>Franz Joseph</forename>

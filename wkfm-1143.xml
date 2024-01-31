@@ -87,7 +87,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46811">
+    <back><listOrg><org xml:id="wkfm__46812">
+                     <orgName>Johann Christian Loher</orgName>
+                  <noteGrp><note target="wkfm-1143.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1143</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__46811">
                      <persName>
                         <forename>Johann Christian</forename>
                         <surname>Loher</surname>
@@ -98,8 +101,5 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                <noteGrp><note target="wkfm-1143.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1143</note><note target="wkfm-1144.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1144</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46812">
-                     <orgName>Johann Christian Loher</orgName>
-                  <noteGrp><note target="wkfm-1143.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1143</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

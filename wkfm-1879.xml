@@ -154,11 +154,11 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">jüdisch</occupation>
                <noteGrp><note target="wkfm-1879.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1879</note><note target="wkfm-1880.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1880</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46625">
-                     <orgName>Leb Sinzheim</orgName>
-                  <noteGrp><note target="wkfm-1879.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1879</note></noteGrp></org>
-                <org xml:id="wkfm__43827">
+                </listPerson><listOrg><org xml:id="wkfm__43827">
                      <orgName>Leb Sinzheim sel. Erben und Verwalter</orgName>
                   <noteGrp><note target="wkfm-1879.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1879</note><note target="wkfm-1880.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1880</note></noteGrp></org>
+                <org xml:id="wkfm__46625">
+                     <orgName>Leb Sinzheim</orgName>
+                  <noteGrp><note target="wkfm-1879.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1879</note></noteGrp></org>
                 </listOrg></back></text>
 </TEI>

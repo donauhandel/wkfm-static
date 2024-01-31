@@ -87,10 +87,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46796">
-                     <orgName>Dominicus Lex</orgName>
-                  <noteGrp><note target="wkfm-1123.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1123</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__46795">
+    <back><listPerson><person xml:id="wkfm__46795">
                      <persName>
                         <forename>Dominicus</forename>
                         <surname>Lex</surname>
@@ -112,5 +109,8 @@
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <occupation type="aemter">Vorsteher der bürgerl. Handelsleute</occupation>
                <noteGrp><note target="wkfm-1123.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1123</note><note target="wkfm-1124.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1124</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46796">
+                     <orgName>Dominicus Lex</orgName>
+                  <noteGrp><note target="wkfm-1123.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1123</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

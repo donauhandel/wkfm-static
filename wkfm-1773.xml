@@ -104,13 +104,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__18158">
-                     <orgName>Wiesenhüter &amp; Co.</orgName>
-                  <noteGrp><note target="wkfm-1773.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1773</note></noteGrp></org>
-                <org xml:id="wkfm__46998">
-                     <orgName>Johann Friedrich Wiesenhüter</orgName>
-                  <noteGrp><note target="wkfm-1773.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1773</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__14589" sameAs="#wkfm__32094 ">
+    <back><listPerson><person xml:id="wkfm__14589" sameAs="#wkfm__32094 ">
                      <persName>
                         <forename>Johann Friedrich</forename>
                         <surname>von Wiesenhüter</surname>
@@ -136,6 +130,16 @@
                         <bibl>Dietz, Frankfurter Handelsgeschichte 4/1, 383f.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1773.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1773</note><note target="wkfm-1774.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1774</note></noteGrp></person>
+                <person xml:id="wkfm__46999">
+                     <persName>
+                        <forename>Johann Friedrich</forename>
+                        <surname>Böhler</surname>
+                     </persName>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Prokurist bei Johann Friedrich Wiesenhüter</occupation>
+               <noteGrp><note target="wkfm-1773.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1773</note></noteGrp></person>
                 <person xml:id="wkfm__39974">
                      <persName>
                         <forename>Franz</forename>
@@ -147,15 +151,11 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                <noteGrp><note target="wkfm-1773.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1773</note><note target="wkfm-1774.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1774</note></noteGrp></person>
-                <person xml:id="wkfm__46999">
-                     <persName>
-                        <forename>Johann Friedrich</forename>
-                        <surname>Böhler</surname>
-                     </persName>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Prokurist bei Johann Friedrich Wiesenhüter</occupation>
-               <noteGrp><note target="wkfm-1773.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1773</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__18158">
+                     <orgName>Wiesenhüter &amp; Co.</orgName>
+                  <noteGrp><note target="wkfm-1773.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1773</note></noteGrp></org>
+                <org xml:id="wkfm__46998">
+                     <orgName>Johann Friedrich Wiesenhüter</orgName>
+                  <noteGrp><note target="wkfm-1773.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1773</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

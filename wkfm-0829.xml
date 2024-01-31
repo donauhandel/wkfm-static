@@ -96,7 +96,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46308">
+    <back><listOrg><org xml:id="wkfm__46307">
+                     <orgName>Aurelio Gazzinelli</orgName>
+                  <noteGrp><note target="wkfm-0829.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0829</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__46308">
                      <persName>
                         <forename>Joseph</forename>
                         <surname>Gazzinelli</surname>
@@ -117,8 +120,5 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
                <noteGrp><note target="wkfm-0829.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0829</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46307">
-                     <orgName>Aurelio Gazzinelli</orgName>
-                  <noteGrp><note target="wkfm-0829.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0829</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>
