@@ -106,7 +106,16 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46385">
+    <back><listOrg><org xml:id="wkfm__46386">
+                     <orgName>Andreas Gruber</orgName>
+                  <noteGrp><note target="wkfm-0907.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0907</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__46387">
+                     <persName>
+                        <forename>Maria Elisabeth</forename>
+                        <surname>Vethin</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0907.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0907</note></noteGrp></person>
+                <person xml:id="wkfm__46385">
                      <persName>
                         <forename>Andre</forename>
                         <surname>Gruber</surname>
@@ -124,14 +133,5 @@
                      <occupation>Tuchhändler</occupation>
                      <occupation type="kaufmannsklasse">tuchlaubensverwandt/bürgerlich</occupation>
                <noteGrp><note target="wkfm-0907.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0907</note></noteGrp></person>
-                <person xml:id="wkfm__46387">
-                     <persName>
-                        <forename>Maria Elisabeth</forename>
-                        <surname>Vethin</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-0907.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0907</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46386">
-                     <orgName>Andreas Gruber</orgName>
-                  <noteGrp><note target="wkfm-0907.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0907</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

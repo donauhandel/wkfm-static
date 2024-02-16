@@ -90,13 +90,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46954">
-                     <orgName>Ferdinand Wührer</orgName>
-                  <noteGrp><note target="wkfm-1713.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1713</note></noteGrp></org>
-                <org xml:id="wkfm__10345">
-                     <orgName>Ferdinand Wührer &amp; Co.</orgName>
-                  <noteGrp><note target="wkfm-1713.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1713</note><note target="wkfm-1714.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1714</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__8272">
+    <back><listPerson><person xml:id="wkfm__8272">
                      <persName>
                         <forename>Ferdinand</forename>
                         <surname>Wührer</surname>
@@ -121,5 +115,11 @@ Christian Lünig, Theatrum Ceremoniale Historico-Politicum, Bd. 2
 (Leipzig 1720) 1576.</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1713.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1713</note><note target="wkfm-1714.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1714</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__10345">
+                     <orgName>Ferdinand Wührer &amp; Co.</orgName>
+                  <noteGrp><note target="wkfm-1713.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1713</note><note target="wkfm-1714.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1714</note></noteGrp></org>
+                <org xml:id="wkfm__46954">
+                     <orgName>Ferdinand Wührer</orgName>
+                  <noteGrp><note target="wkfm-1713.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1713</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

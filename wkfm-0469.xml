@@ -105,7 +105,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46167">
+    <back><listOrg><org xml:id="wkfm__47260">
+                     <orgName>Joseph Kollmann</orgName>
+                  <noteGrp><note target="wkfm-0469.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0469</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__46167">
                      <persName>
                         <forename>Johann Franz</forename>
                         <surname>Jaccoud</surname>
@@ -134,8 +137,5 @@
                         <bibl>&amp;lt;span&amp;gt;Joseph von Kurzböck, Neuste Beschreibung aller Merkwürdigkeiten Wiens. Ein Handbuch für Fremde und Inländer (Wien 1779) 186.&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0469.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0469</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__47260">
-                     <orgName>Joseph Kollmann</orgName>
-                  <noteGrp><note target="wkfm-0469.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0469</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

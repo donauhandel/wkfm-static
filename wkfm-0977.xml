@@ -88,10 +88,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46479">
-                     <orgName>Franz Huber</orgName>
-                  <noteGrp><note target="wkfm-0977.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0977</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__8107">
+    <back><listPerson><person xml:id="wkfm__8107">
                      <persName>
                         <forename>Franz</forename>
                         <surname>Huber</surname>
@@ -112,5 +109,8 @@
                         <bibl>Donabaum, Gehandeltes Wissen, 46; &amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 418 (5. Juli 1723); &amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Gericke, Wiener Musikalienhandel, 58.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0977.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0977</note><note target="wkfm-0978.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0978</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46479">
+                     <orgName>Franz Huber</orgName>
+                  <noteGrp><note target="wkfm-0977.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0977</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

@@ -88,7 +88,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46110" sameAs="#wkfm__18469 ">
+    <back><listOrg><org xml:id="wkfm__47209">
+                     <orgName>Johann Andreas König</orgName>
+                  <noteGrp><note target="wkfm-0351.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0351</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__46110" sameAs="#wkfm__18469 ">
                      <persName>
                         <forename>Johann Andre</forename>
                         <surname>König</surname>
@@ -102,8 +105,5 @@
                      <occupation>Goldarbeiter</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
                <noteGrp><note target="wkfm-0351.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0351</note><note target="wkfm-0352.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0352</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__47209">
-                     <orgName>Johann Andreas König</orgName>
-                  <noteGrp><note target="wkfm-0351.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0351</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

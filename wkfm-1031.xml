@@ -101,7 +101,13 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__30193" sameAs="#wkfm__43959 ">
+    <back><listOrg><org xml:id="wkfm__46533">
+                     <orgName>Martin Peter Hilleprand</orgName>
+                  <noteGrp><note target="wkfm-1031.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1031</note></noteGrp></org>
+                <org xml:id="wkfm__42340">
+                     <orgName>Beham und Hilleprand, Johann Beham und Martin Hilleprand</orgName>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__46532">Beham, Johann</persName></person></listPerson><noteGrp><note target="wkfm-1031.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1031</note><note target="wkfm-1032.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1032</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__30193" sameAs="#wkfm__43959 ">
                      <persName>
                         <forename>Martin Peter</forename>
                         <surname>Hilleprand</surname>
@@ -123,8 +129,8 @@
                      <persName>
                         <forename>Johann</forename>
                         <surname>Beham</surname>
-                        <surname type="alt">Pöhamb</surname>
                         <surname type="alt">Pehamb</surname>
+                        <surname type="alt">Pöhamb</surname>
                      </persName>
                      <death><date>1779?</date></death>
                      <affiliation>
@@ -144,11 +150,5 @@
                      <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                <noteGrp><note target="wkfm-1031.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1031</note><note target="wkfm-1032.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1032</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__42340">
-                     <orgName>Beham und Hilleprand, Johann Beham und Martin Hilleprand</orgName>
-                  <listPerson type="affiliated"><person><persName key="#wkfm__46532">Beham, Johann</persName></person></listPerson><noteGrp><note target="wkfm-1031.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1031</note><note target="wkfm-1032.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1032</note></noteGrp></org>
-                <org xml:id="wkfm__46533">
-                     <orgName>Martin Peter Hilleprand</orgName>
-                  <noteGrp><note target="wkfm-1031.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1031</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

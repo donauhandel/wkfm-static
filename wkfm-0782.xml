@@ -98,13 +98,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47147">
-                     <persName>
-                        <forename>Anna Barbara</forename>
-                        <surname>Grammerin</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-0782.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0782</note></noteGrp></person>
-                <person xml:id="wkfm__46838">
+    <back><listPerson><person xml:id="wkfm__46838">
                      <persName>
                         <forename>Franz</forename>
                         <surname>Franzoni</surname>
@@ -128,5 +122,11 @@
                         <bibl>Mittenzwei, Zwischen Gestern und Morgen, 194f.; &amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 380.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0781.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0781</note><note target="wkfm-0782.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0782</note><note target="wkfm-1175.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1175</note></noteGrp></person>
+                <person xml:id="wkfm__47147">
+                     <persName>
+                        <forename>Anna Barbara</forename>
+                        <surname>Grammerin</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0782.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0782</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

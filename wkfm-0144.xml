@@ -88,10 +88,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47313">
-                     <orgName>Joseph Perthold</orgName>
-                  <noteGrp><note target="wkfm-0144.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0144</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__14705">
+    <back><listPerson><person xml:id="wkfm__14705">
                      <persName>
                         <forename>Joseph</forename>
                         <surname>Perthold</surname>
@@ -115,5 +112,8 @@
                         <bibl>Huchler, Bürgeraufnahmen, 347 (20. März 1719: &amp;#34;Bertoldt&amp;#34;).&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0144.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0144</note><note target="wkfm-0145.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0145</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47313">
+                     <orgName>Joseph Perthold</orgName>
+                  <noteGrp><note target="wkfm-0144.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0144</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

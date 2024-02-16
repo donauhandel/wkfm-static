@@ -130,13 +130,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47057">
-                     <orgName>Johann Baptist Feroni sel. Witwe</orgName>
-                  <noteGrp><note target="wkfm-0681.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0681</note></noteGrp></org>
-                <org xml:id="wkfm__47056">
-                     <orgName>Johann Baptist Feroni</orgName>
-                  <noteGrp><note target="wkfm-0681.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0681</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__47058">
+    <back><listPerson><person xml:id="wkfm__47058">
                      <persName>
                         <forename>Eva Elisabeth</forename>
                         <surname>Feroni</surname>
@@ -146,26 +140,6 @@
                         <placeName key="#wkfm-place__925">Wien</placeName>
                      <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Prokuristin bei Johann Baptist Feroni, Handelsfrau</occupation>
-               <noteGrp><note target="wkfm-0681.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0681</note></noteGrp></person>
-                <person xml:id="wkfm__47061">
-                     <persName>
-                        <forename>Heinrich</forename>
-                        <surname>Jenisch</surname>
-                     </persName>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Angestellter und Prokurist bei Eval Elisabeth Feronin (Johann Baptist Feroni sel. Witwe)</occupation>
-               <noteGrp><note target="wkfm-0681.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0681</note></noteGrp></person>
-                <person xml:id="wkfm__47059">
-                     <persName>
-                        <forename>Joseph Kajetan</forename>
-                        <surname>Werndle</surname>
-                     </persName>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Angestellter und Prokurist bei Johann Baptist Feroni</occupation>
                <noteGrp><note target="wkfm-0681.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0681</note></noteGrp></person>
                 <person xml:id="wkfm__47060">
                      <persName>
@@ -207,5 +181,31 @@
                         <bibl>Dotter, Kaufleute (2017), 118–120; &amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 3&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;75 (14. Jänner 1715).</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0681.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0681</note></noteGrp></person>
-                </listPerson></back></text>
+                <person xml:id="wkfm__47059">
+                     <persName>
+                        <forename>Joseph Kajetan</forename>
+                        <surname>Werndle</surname>
+                     </persName>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Angestellter und Prokurist bei Johann Baptist Feroni</occupation>
+               <noteGrp><note target="wkfm-0681.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0681</note></noteGrp></person>
+                <person xml:id="wkfm__47061">
+                     <persName>
+                        <forename>Heinrich</forename>
+                        <surname>Jenisch</surname>
+                     </persName>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Angestellter und Prokurist bei Eval Elisabeth Feronin (Johann Baptist Feroni sel. Witwe)</occupation>
+               <noteGrp><note target="wkfm-0681.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0681</note></noteGrp></person>
+                </listPerson><listOrg><org xml:id="wkfm__47056">
+                     <orgName>Johann Baptist Feroni</orgName>
+                  <noteGrp><note target="wkfm-0681.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0681</note></noteGrp></org>
+                <org xml:id="wkfm__47057">
+                     <orgName>Johann Baptist Feroni sel. Witwe</orgName>
+                  <noteGrp><note target="wkfm-0681.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0681</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

@@ -126,19 +126,26 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__44048">
+    <back><listOrg><org xml:id="wkfm__37043">
+                     <orgName>Zacharias Kriner und Johann Georg Schmidt</orgName>
+                  <noteGrp><note target="wkfm-0321.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0321</note><note target="wkfm-0322.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0322</note></noteGrp></org>
+                <org xml:id="wkfm__44049">
+                     <orgName>Kriner, Schmidt und Scheidlin</orgName>
+                  <noteGrp><note target="wkfm-0321.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0321</note><note target="wkfm-0322.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0322</note><note target="wkfm-1667.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1667</note><note target="wkfm-1668.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1668</note><note target="wkfm-1669.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1669</note><note target="wkfm-1670.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1670</note></noteGrp></org>
+                <org xml:id="wkfm__44048">
                      <orgName>Zacharias Kriner, Schmidt &amp; Co.</orgName>
                   <noteGrp><note target="wkfm-0321.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0321</note><note target="wkfm-0322.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0322</note><note target="wkfm-1667.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1667</note><note target="wkfm-1668.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1668</note><note target="wkfm-1669.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1669</note><note target="wkfm-1670.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1670</note></noteGrp></org>
                 <org xml:id="wkfm__44050">
                      <orgName>Kriner und Schmidt</orgName>
                   <noteGrp><note target="wkfm-0321.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0321</note><note target="wkfm-0322.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0322</note><note target="wkfm-1667.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1667</note><note target="wkfm-1668.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1668</note><note target="wkfm-1669.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1669</note><note target="wkfm-1670.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1670</note></noteGrp></org>
-                <org xml:id="wkfm__44049">
-                     <orgName>Kriner, Schmidt und Scheidlin</orgName>
-                  <noteGrp><note target="wkfm-0321.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0321</note><note target="wkfm-0322.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0322</note><note target="wkfm-1667.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1667</note><note target="wkfm-1668.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1668</note><note target="wkfm-1669.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1669</note><note target="wkfm-1670.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1670</note></noteGrp></org>
-                <org xml:id="wkfm__37043">
-                     <orgName>Zacharias Kriner und Johann Georg Schmidt</orgName>
-                  <noteGrp><note target="wkfm-0321.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0321</note><note target="wkfm-0322.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0322</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__17422" sameAs="#wkfm__3193 ">
+                </listOrg><listPerson><person xml:id="wkfm__9744">
+                     <persName>
+                        <forename>Peter</forename>
+                        <surname>Kuzer</surname>
+                     </persName>
+                     <occupation>Kassier und Prokurist bei Kriner, Schmidt und Scheidlin</occupation>
+               <noteGrp><note target="wkfm-0321.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0321</note><note target="wkfm-1667.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1667</note><note target="wkfm-1669.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1669</note></noteGrp></person>
+                <person xml:id="wkfm__17422" sameAs="#wkfm__3193 ">
                      <persName>
                         <forename>Zacharias</forename>
                         <surname>Kriner</surname>
@@ -189,13 +196,6 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Seibold, Wirtschaftlicher Erfolg, Bd. 1, 453-455.&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0321.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0321</note><note target="wkfm-0322.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0322</note><note target="wkfm-1667.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1667</note><note target="wkfm-1668.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1668</note><note target="wkfm-1669.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1669</note><note target="wkfm-1670.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1670</note></noteGrp></person>
-                <person xml:id="wkfm__9744">
-                     <persName>
-                        <forename>Peter</forename>
-                        <surname>Kuzer</surname>
-                     </persName>
-                     <occupation>Kassier und Prokurist bei Kriner, Schmidt und Scheidlin</occupation>
-               <noteGrp><note target="wkfm-0321.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0321</note><note target="wkfm-1667.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1667</note><note target="wkfm-1669.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1669</note></noteGrp></person>
                 <person xml:id="wkfm__44051">
                      <persName>
                         <forename>Johann Kaspar</forename>

@@ -104,15 +104,15 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46761">
-                     <orgName>Georg Franz Razer</orgName>
-                  <noteGrp><note target="wkfm-1443.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1443</note><note target="wkfm-1444.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1444</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__46763">
+    <back><listPerson><person xml:id="wkfm__46763">
                      <persName>
                         <forename>Eva Margaretha</forename>
                         <surname>Muthin</surname>
                         <surname type="alt">Razer</surname>
                      </persName>
                <noteGrp><note target="wkfm-1444.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1444</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46761">
+                     <orgName>Georg Franz Razer</orgName>
+                  <noteGrp><note target="wkfm-1443.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1443</note><note target="wkfm-1444.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1444</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

@@ -88,12 +88,15 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__8598">
+    <back><listOrg><org xml:id="wkfm__46309">
+                     <orgName>Paul Guggenberger</orgName>
+                  <noteGrp><note target="wkfm-0831.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0831</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__8598">
                      <persName>
                         <forename>Paul</forename>
                         <surname>Guggenberger</surname>
-                        <surname type="alt">Guckenberger</surname>
                         <surname type="alt">Gugenberger</surname>
+                        <surname type="alt">Guckenberger</surname>
                      </persName>                    
                      <residence type="Geschäftsadresse">
                         <placeName>Zum halben Mondschein nächst dem Waaghaus (Calender 1723)</placeName>
@@ -117,8 +120,5 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 396.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0831.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0831</note><note target="wkfm-0832.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0832</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46309">
-                     <orgName>Paul Guggenberger</orgName>
-                  <noteGrp><note target="wkfm-0831.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0831</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

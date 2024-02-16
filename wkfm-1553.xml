@@ -88,10 +88,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47464">
-                     <orgName>Anna Rosina Saltzpaurin</orgName>
-                  <noteGrp><note target="wkfm-1553.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1553</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__47463">
+    <back><listPerson><person xml:id="wkfm__47463">
                      <persName>
                         <forename>Anna Rosina</forename>
                         <surname>Saltzpaurin</surname>
@@ -105,5 +102,8 @@
                      <occupation>Leinwandhändlerin</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1553.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1553</note><note target="wkfm-1554.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1554</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47464">
+                     <orgName>Anna Rosina Saltzpaurin</orgName>
+                  <noteGrp><note target="wkfm-1553.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1553</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

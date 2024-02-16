@@ -90,10 +90,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47435">
-                     <orgName>Maria Magdalena Stockhammerin</orgName>
-                  <noteGrp><note target="wkfm-1515.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1515</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__47434">
+    <back><listPerson><person xml:id="wkfm__47434">
                      <persName>
                         <forename>Maria Magdalena</forename>
                         <surname>Stockhammerin</surname>
@@ -107,5 +104,8 @@
                      <occupation>Handelsfrau</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1515.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1515</note><note target="wkfm-1516.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1516</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47435">
+                     <orgName>Maria Magdalena Stockhammerin</orgName>
+                  <noteGrp><note target="wkfm-1515.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1515</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

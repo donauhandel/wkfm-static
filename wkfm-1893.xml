@@ -88,10 +88,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46629">
-                     <orgName>Wolf Wertheimer</orgName>
-                  <noteGrp><note target="wkfm-1893.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1893</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__8492" sameAs="#wkfm__18691 ">
+    <back><listPerson><person xml:id="wkfm__8492" sameAs="#wkfm__18691 ">
                      <persName>
                         <forename>Wolf</forename>
                         <surname>Wertheimer</surname>
@@ -118,5 +115,8 @@
                         <bibl>Wachstein, Die Wiener Juden in Handel und Industrie.</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1893.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1893</note><note target="wkfm-1894.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1894</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46629">
+                     <orgName>Wolf Wertheimer</orgName>
+                  <noteGrp><note target="wkfm-1893.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1893</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

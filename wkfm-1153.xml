@@ -90,10 +90,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__20102">
-                     <orgName>Ludwig Liedl und Leopold Liedl</orgName>
-                  <noteGrp><note target="wkfm-0769.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0769</note><note target="wkfm-0771.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0771</note><note target="wkfm-1151.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1151</note><note target="wkfm-1152.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1152</note><note target="wkfm-1153.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1153</note><note target="wkfm-1154.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1154</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__18524">
+    <back><listPerson><person xml:id="wkfm__18524">
                      <persName>
                         <forename>Leopold</forename>
                         <surname>Liedl</surname>
@@ -108,5 +105,8 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 447 (Juli 1730: &amp;#34;Leopoldt Adam&amp;#34;).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1152.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1152</note><note target="wkfm-1153.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1153</note><note target="wkfm-1154.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1154</note><note target="wkfm-1165.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1165</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__20102">
+                     <orgName>Ludwig Liedl und Leopold Liedl</orgName>
+                  <noteGrp><note target="wkfm-0769.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0769</note><note target="wkfm-0771.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0771</note><note target="wkfm-1151.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1151</note><note target="wkfm-1152.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1152</note><note target="wkfm-1153.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1153</note><note target="wkfm-1154.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1154</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

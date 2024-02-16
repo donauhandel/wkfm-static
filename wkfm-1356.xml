@@ -102,27 +102,13 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46521">
-                     <persName>
-                        <forename>Philipp Albrecht</forename>
-                        <surname>Hößlin</surname>
-                        <surname type="alt">von Hösslin</surname>
-                     </persName>
-                     <birth><date>ca. 1688</date></birth>
-                     <death><date>1750</date></death>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__40">Augsburg</placeName>
-                     <location type="coords"><geo>48.37138888888889 10.898333333333333</geo></location></residence>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-                     <listBibl>
-                        <bibl>&amp;lt;span&amp;gt;Seibold, Wirtschaftlicher Erfolg, Bd 1, 245, 254; &amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Haemmerle, Hochzeitsbücher, 267, Nr. 3675; &amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Kröpfel, Protestsantismus, Anhang 1, S. 7.&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-1023.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1023</note><note target="wkfm-1024.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1024</note><note target="wkfm-1355.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1355</note><note target="wkfm-1356.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1356</note></noteGrp></person>
-                <person xml:id="wkfm__23197">
+    <back><listOrg><org xml:id="wkfm__30066">
+                     <orgName>Hößlin und Falck</orgName>
+                  <noteGrp><note target="wkfm-1023.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1023</note><note target="wkfm-1024.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1024</note><note target="wkfm-1356.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1356</note></noteGrp></org>
+                <org xml:id="wkfm__8148">
+                     <orgName>Rad und Hößlin</orgName>
+                  <noteGrp><note target="wkfm-1023.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1023</note><note target="wkfm-1024.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1024</note><note target="wkfm-1355.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1355</note><note target="wkfm-1356.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1356</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__23197">
                      <persName>
                         <forename>Bartholomäus</forename>
                         <surname>Falck</surname>
@@ -178,11 +164,25 @@
                         <bibl>Seibold, Wirtschaftlicher Erfolg, Bd 1, 243-248; &amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Haemmerle, Hochzeitsbücher, 256, Nr. 3480&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;; 259, Nr. 3538 (Christoph Rad d. Ä.); 261, Nr. 3568 (Christoph); 270, Nr. 3706 (Christoph von Rad, Witwer).&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1023.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1023</note><note target="wkfm-1024.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1024</note><note target="wkfm-1355.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1355</note><note target="wkfm-1356.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1356</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__30066">
-                     <orgName>Hößlin und Falck</orgName>
-                  <noteGrp><note target="wkfm-1023.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1023</note><note target="wkfm-1024.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1024</note><note target="wkfm-1356.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1356</note></noteGrp></org>
-                <org xml:id="wkfm__8148">
-                     <orgName>Rad und Hößlin</orgName>
-                  <noteGrp><note target="wkfm-1023.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1023</note><note target="wkfm-1024.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1024</note><note target="wkfm-1355.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1355</note><note target="wkfm-1356.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1356</note></noteGrp></org>
-                </listOrg></back></text>
+                <person xml:id="wkfm__46521">
+                     <persName>
+                        <forename>Philipp Albrecht</forename>
+                        <surname>Hößlin</surname>
+                        <surname type="alt">von Hösslin</surname>
+                     </persName>
+                     <birth><date>ca. 1688</date></birth>
+                     <death><date>1750</date></death>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__40">Augsburg</placeName>
+                     <location type="coords"><geo>48.37138888888889 10.898333333333333</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+                     <listBibl>
+                        <bibl>&amp;lt;span&amp;gt;Seibold, Wirtschaftlicher Erfolg, Bd 1, 245, 254; &amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Haemmerle, Hochzeitsbücher, 267, Nr. 3675; &amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Kröpfel, Protestsantismus, Anhang 1, S. 7.&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-1023.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1023</note><note target="wkfm-1024.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1024</note><note target="wkfm-1355.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1355</note><note target="wkfm-1356.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1356</note></noteGrp></person>
+                </listPerson></back></text>
 </TEI>

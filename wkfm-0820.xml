@@ -92,7 +92,24 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__8188" sameAs="#wkfm__11386 wkfm__9399 ">
+    <back><listPerson><person xml:id="wkfm__8421">
+                     <persName>
+                        <forename>Franz Anton</forename>
+                        <surname>Geramb</surname>
+                     </persName>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geburtsort">
+                        <placeName key="#wkfm-place__1662">Schemnitz</placeName>
+                     <location type="coords"><geo>48.44833333333333 18.91</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">hofbefreit</occupation>
+               <noteGrp><note target="wkfm-0819.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0819</note><note target="wkfm-0820.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0820</note></noteGrp></person>
+                <person xml:id="wkfm__8188" sameAs="#wkfm__11386 wkfm__9399 ">
                      <persName>
                         <forename>Ludwig Anton</forename>
                         <surname>Visconti</surname>
@@ -122,22 +139,5 @@
                         <bibl>&amp;lt;span&amp;gt;Dotter, Italienische Kaufleute, 137-139; Huchler, Bürgeraufnahmen, 550.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0709.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0709</note><note target="wkfm-0710.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0710</note><note target="wkfm-0820.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0820</note><note target="wkfm-1379.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1379</note></noteGrp></person>
-                <person xml:id="wkfm__8421">
-                     <persName>
-                        <forename>Franz Anton</forename>
-                        <surname>Geramb</surname>
-                     </persName>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geburtsort">
-                        <placeName key="#wkfm-place__1662">Schemnitz</placeName>
-                     <location type="coords"><geo>48.44833333333333 18.91</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">hofbefreit</occupation>
-               <noteGrp><note target="wkfm-0819.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0819</note><note target="wkfm-0820.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0820</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

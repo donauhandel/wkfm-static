@@ -94,20 +94,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43792">
-                     <persName>
-                        <forename>None</forename>
-                        <surname>None</surname>
-                     </persName>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsfrau</occupation>
-               <noteGrp><note target="wkfm-0036.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0036</note></noteGrp></person>
-                <person xml:id="wkfm__23558">
+    <back><listPerson><person xml:id="wkfm__23558">
                      <persName>
                         <forename>Matthias</forename>
                         <surname>Ankerl</surname>
@@ -138,6 +125,19 @@
                         <bibl>Huchler, Bürgeraufnahmen, 340.</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0036.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0036</note><note target="wkfm-0037.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0037</note></noteGrp></person>
+                <person xml:id="wkfm__43792">
+                     <persName>
+                        <forename>None</forename>
+                        <surname>None</surname>
+                     </persName>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsfrau</occupation>
+               <noteGrp><note target="wkfm-0036.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0036</note></noteGrp></person>
                 </listPerson><listOrg><org xml:id="wkfm__46593">
                      <orgName>Matthias Ankerl sel. Witwe</orgName>
                   <noteGrp><note target="wkfm-0032.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0032</note><note target="wkfm-0036.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0036</note></noteGrp></org>

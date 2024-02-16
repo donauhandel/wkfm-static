@@ -94,12 +94,12 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__44587">
-                     <orgName>Joachim Negri &amp; Co., Gioacchino Negri &amp; Co.</orgName>
-                  <listPerson type="affiliated"><person><persName key="#wkfm__4528">Patuzzi, Bartholomäus</persName></person></listPerson><noteGrp><note target="wkfm-1315.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1315</note></noteGrp></org>
-                <org xml:id="wkfm__46667">
+    <back><listOrg><org xml:id="wkfm__46667">
                      <orgName>Joachim Negri, Gioacchino Negri</orgName>
                   <noteGrp><note target="wkfm-1315.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1315</note></noteGrp></org>
+                <org xml:id="wkfm__44587">
+                     <orgName>Joachim Negri &amp; Co., Gioacchino Negri &amp; Co.</orgName>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__4528">Patuzzi, Bartholomäus</persName></person></listPerson><noteGrp><note target="wkfm-1315.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1315</note></noteGrp></org>
                 </listOrg><listPerson><person xml:id="wkfm__26325" sameAs="#wkfm__32059 ">
                      <persName>
                         <forename>Joachim</forename>

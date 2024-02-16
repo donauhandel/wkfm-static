@@ -89,10 +89,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47219">
-                     <orgName>Johann Adam Kürner</orgName>
-                  <noteGrp><note target="wkfm-0373.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0373</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__15573" sameAs="#wkfm__25031 ">
+    <back><listPerson><person xml:id="wkfm__15573" sameAs="#wkfm__25031 ">
                      <persName>
                         <forename>Johann Adam</forename>
                         <surname>Kürner</surname>
@@ -112,5 +109,8 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0373.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0373</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47219">
+                     <orgName>Johann Adam Kürner</orgName>
+                  <noteGrp><note target="wkfm-0373.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0373</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

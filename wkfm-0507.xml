@@ -88,7 +88,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__638">
+    <back><listOrg><org xml:id="wkfm__46193">
+                     <orgName>Ulrich Anton Deiß</orgName>
+                  <noteGrp><note target="wkfm-0507.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0507</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__638">
                      <persName>
                         <forename>Ulrich Anton</forename>
                         <surname>Deiß</surname>
@@ -119,8 +122,5 @@
                         <bibl>Huchler, Bürgeraufnahmen, 359 (20. März 1719).&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0507.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0507</note><note target="wkfm-0508.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0508</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46193">
-                     <orgName>Ulrich Anton Deiß</orgName>
-                  <noteGrp><note target="wkfm-0507.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0507</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

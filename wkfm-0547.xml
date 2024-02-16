@@ -88,10 +88,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46227">
-                     <orgName>Hieronymus Tonolino</orgName>
-                  <noteGrp><note target="wkfm-0547.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0547</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__41221" sameAs="#wkfm__13070 wkfm__44517 wkfm__36251 ">
+    <back><listPerson><person xml:id="wkfm__41221" sameAs="#wkfm__13070 wkfm__44517 wkfm__36251 ">
                      <persName>
                         <forename>Hieronymus</forename>
                         <surname>Tonolino</surname>
@@ -115,5 +112,8 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 546.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0547.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0547</note><note target="wkfm-0548.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0548</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46227">
+                     <orgName>Hieronymus Tonolino</orgName>
+                  <noteGrp><note target="wkfm-0547.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0547</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

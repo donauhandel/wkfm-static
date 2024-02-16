@@ -114,12 +114,27 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47034" sameAs="#wkfm__24868 wkfm__18219 wkfm__26931 ">
+    <back><listOrg><org xml:id="wkfm__47033">
+                     <orgName>Johann Weigart</orgName>
+                  <noteGrp><note target="wkfm-1811.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1811</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__47035" sameAs="#wkfm__47544 ">
                      <persName>
-                        <forename>Johann</forename>
-                        <surname>Scharnagl</surname>
+                        <forename>Martin Joseph</forename>
+                        <surname>Sensel</surname>
+                        <surname type="alt">Senssel</surname>
                      </persName>
-               <noteGrp><note target="wkfm-1811.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1811</note></noteGrp></person>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-0805.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0805</note><note target="wkfm-1811.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1811</note></noteGrp></person>
                 <person xml:id="wkfm__47032" sameAs="#wkfm__12611 ">
                      <persName>
                         <forename>Johann</forename>
@@ -142,26 +157,11 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 557 (Dezember 1746).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1811.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1811</note></noteGrp></person>
-                <person xml:id="wkfm__47035" sameAs="#wkfm__47544 ">
+                <person xml:id="wkfm__47034" sameAs="#wkfm__24868 wkfm__18219 wkfm__26931 ">
                      <persName>
-                        <forename>Martin Joseph</forename>
-                        <surname>Sensel</surname>
-                        <surname type="alt">Senssel</surname>
+                        <forename>Johann</forename>
+                        <surname>Scharnagl</surname>
                      </persName>
-                     <residence type="Bürgerrecht">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-0805.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0805</note><note target="wkfm-1811.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1811</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__47033">
-                     <orgName>Johann Weigart</orgName>
-                  <noteGrp><note target="wkfm-1811.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1811</note></noteGrp></org>
-                </listOrg></back></text>
+               <noteGrp><note target="wkfm-1811.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1811</note></noteGrp></person>
+                </listPerson></back></text>
 </TEI>

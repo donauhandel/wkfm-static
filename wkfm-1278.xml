@@ -90,7 +90,14 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46930">
+    <back><listPerson><person xml:id="wkfm__46931">
+                     <persName>
+                        <forename>Maria Anna Theresia</forename>
+                        <surname>Winklerin</surname>
+                        <surname type="alt">Müllnitsch</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-1278.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1278</note></noteGrp></person>
+                <person xml:id="wkfm__46930">
                      <persName>
                         <forename>Veit Anton</forename>
                         <surname>Müllnitsch</surname>
@@ -107,12 +114,5 @@
                      <occupation>Tuchhändler</occupation>
                      <occupation type="kaufmannsklasse">tuchlaubensverwandt/bürgerlich</occupation>
                <noteGrp><note target="wkfm-1277.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1277</note><note target="wkfm-1278.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1278</note></noteGrp></person>
-                <person xml:id="wkfm__46931">
-                     <persName>
-                        <forename>Maria Anna Theresia</forename>
-                        <surname>Winklerin</surname>
-                        <surname type="alt">Müllnitsch</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-1278.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1278</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

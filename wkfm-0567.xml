@@ -92,10 +92,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46244">
-                     <orgName>Joseph Dischendorfer</orgName>
-                  <noteGrp><note target="wkfm-0567.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0567</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__15535">
+    <back><listPerson><person xml:id="wkfm__15535">
                      <persName>
                         <forename>Joseph</forename>
                         <surname>Dischendorfer</surname>
@@ -115,5 +112,8 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 363.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0567.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0567</note><note target="wkfm-0568.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0568</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46244">
+                     <orgName>Joseph Dischendorfer</orgName>
+                  <noteGrp><note target="wkfm-0567.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0567</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

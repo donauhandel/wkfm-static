@@ -87,10 +87,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46395">
-                     <orgName>Maximilian Hucker</orgName>
-                  <noteGrp><note target="wkfm-0925.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0925</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__11600">
+    <back><listPerson><person xml:id="wkfm__11600">
                      <persName>
                         <forename>Maximilian</forename>
                         <surname>Hucker</surname>
@@ -106,5 +103,8 @@
                      <occupation>Leinwandhändler</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
                <noteGrp><note target="wkfm-0925.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0925</note><note target="wkfm-0926.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0926</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46395">
+                     <orgName>Maximilian Hucker</orgName>
+                  <noteGrp><note target="wkfm-0925.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0925</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

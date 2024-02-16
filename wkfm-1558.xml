@@ -90,18 +90,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47467">
-                     <persName>
-                        <forename>Domenico</forename>
-                        <surname>Bigongini</surname>
-                     </persName>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann, Wechsler</occupation>
-                     <occupation type="kaufmannsklasse">hofbefreit</occupation>
-               <noteGrp><note target="wkfm-1557.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1557</note><note target="wkfm-1558.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1558</note></noteGrp></person>
-                <person xml:id="wkfm__47468">
+    <back><listPerson><person xml:id="wkfm__47468">
                      <persName>
                         <forename>Johann</forename>
                         <surname>Carignani</surname>
@@ -129,5 +118,16 @@
                      <occupation>Prokurist bei Johann Peter Augustin, Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
                <noteGrp><note target="wkfm-0008.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0008</note><note target="wkfm-1557.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1557</note><note target="wkfm-1558.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1558</note></noteGrp></person>
+                <person xml:id="wkfm__47467">
+                     <persName>
+                        <forename>Domenico</forename>
+                        <surname>Bigongini</surname>
+                     </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann, Wechsler</occupation>
+                     <occupation type="kaufmannsklasse">hofbefreit</occupation>
+               <noteGrp><note target="wkfm-1557.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1557</note><note target="wkfm-1558.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1558</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

@@ -98,14 +98,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46552" sameAs="#wkfm__35116 ">
-                     <persName>
-                        <forename>Maria Eva</forename>
-                        <surname>Corloin</surname>
-                        <surname type="alt">Höcker</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-1044.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1044</note></noteGrp></person>
-                <person xml:id="wkfm__46162">
+    <back><listPerson><person xml:id="wkfm__46162">
                      <persName>
                         <forename>Johann Georg</forename>
                         <surname>Höcker</surname>
@@ -125,5 +118,12 @@
                         <bibl>Huchler, Bürgeraufnahmen, 412.</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0465.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0465</note><note target="wkfm-1043.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1043</note><note target="wkfm-1044.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1044</note></noteGrp></person>
+                <person xml:id="wkfm__46552" sameAs="#wkfm__35116 ">
+                     <persName>
+                        <forename>Maria Eva</forename>
+                        <surname>Corloin</surname>
+                        <surname type="alt">Höcker</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-1044.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1044</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

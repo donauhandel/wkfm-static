@@ -87,7 +87,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__484">
+    <back><listOrg><org xml:id="wkfm__47213">
+                     <orgName>Anton Cleas</orgName>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__484">Cleas, Anton</persName></person></listPerson><noteGrp><note target="wkfm-0361.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0361</note><note target="wkfm-0413.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0413</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__484">
                      <persName>
                         <forename>Anton</forename>
                         <surname>Cleas</surname>
@@ -122,8 +125,5 @@
                         <bibl>Raynaud, Einwanderungen, 151.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0361.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0361</note><note target="wkfm-0362.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0362</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__47213">
-                     <orgName>Anton Cleas</orgName>
-                  <listPerson type="affiliated"><person><persName key="#wkfm__484">Cleas, Anton</persName></person></listPerson><noteGrp><note target="wkfm-0361.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0361</note><note target="wkfm-0413.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0413</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

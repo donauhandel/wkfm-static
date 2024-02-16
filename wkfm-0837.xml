@@ -90,10 +90,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46312">
-                     <orgName>Michael Franz Güsser</orgName>
-                  <noteGrp><note target="wkfm-0837.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0837</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__1864" sameAs="#wkfm__19284 ">
+    <back><listPerson><person xml:id="wkfm__1864" sameAs="#wkfm__19284 ">
                      <persName>
                         <forename>Michael Franz</forename>
                         <surname>Güsser</surname>
@@ -113,5 +110,8 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0837.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0837</note><note target="wkfm-0838.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0838</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46312">
+                     <orgName>Michael Franz Güsser</orgName>
+                  <noteGrp><note target="wkfm-0837.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0837</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

@@ -90,12 +90,12 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__25274">
-                     <orgName>Höcksteiner und Hink</orgName>
-                  <listPerson type="affiliated"><person><persName key="#wkfm__23505">Höcksteiner, Karl</persName></person></listPerson><noteGrp><note target="wkfm-0975.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0975</note><note target="wkfm-0976.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0976</note></noteGrp></org>
-                <org xml:id="wkfm__46478">
+    <back><listOrg><org xml:id="wkfm__46478">
                      <orgName>Karl Höcksteiner</orgName>
                   <listPerson type="affiliated"><person><persName key="#wkfm__23505">Höcksteiner, Karl</persName></person></listPerson><noteGrp><note target="wkfm-0975.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0975</note></noteGrp></org>
+                <org xml:id="wkfm__25274">
+                     <orgName>Höcksteiner und Hink</orgName>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__23505">Höcksteiner, Karl</persName></person></listPerson><noteGrp><note target="wkfm-0975.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0975</note><note target="wkfm-0976.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0976</note></noteGrp></org>
                 </listOrg><listPerson><person xml:id="wkfm__23505">
                      <persName>
                         <forename>Karl</forename>

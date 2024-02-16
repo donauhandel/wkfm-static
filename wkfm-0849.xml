@@ -99,10 +99,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46318">
-                     <orgName>Franz Oswald Gropp</orgName>
-                  <noteGrp><note target="wkfm-0849.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0849</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__28222" sameAs="#wkfm__27273 ">
+    <back><listPerson><person xml:id="wkfm__28222" sameAs="#wkfm__27273 ">
                      <persName>
                         <forename>Franz Oswald</forename>
                         <surname>Gropp</surname>
@@ -123,5 +120,8 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0849.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0849</note><note target="wkfm-0850.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0850</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46318">
+                     <orgName>Franz Oswald Gropp</orgName>
+                  <noteGrp><note target="wkfm-0849.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0849</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

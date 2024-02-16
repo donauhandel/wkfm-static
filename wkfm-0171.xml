@@ -93,7 +93,28 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47327" sameAs="#wkfm__9675 ">
+    <back><listPerson><person xml:id="wkfm__12874" sameAs="#wkfm__21766 ">
+                     <persName>
+                        <forename>Michael</forename>
+                        <surname>Fieglmillner</surname>
+                        <surname type="alt">Figlmiller</surname>
+                        <surname type="alt">Fieglmielner</surname>
+                     </persName>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zum Drei Raben auf dem Katzensteig (Calender 1723)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Prokurist des Johann Michael Peck/Pöck, Handelsmann</occupation>
+               <noteGrp><note target="wkfm-0171.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0171</note><note target="wkfm-0701.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0701</note><note target="wkfm-0702.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0702</note></noteGrp></person>
+                <person xml:id="wkfm__47327" sameAs="#wkfm__9675 ">
                      <persName>
                         <forename>Johann Michael</forename>
                         <surname>Pöck</surname>
@@ -116,26 +137,5 @@
                      <occupation type="aemter">Vorsteher der bürgerl. Handelsleute</occupation>
                      <occupation type="aemter">Senior des bürgerl. Handelsstands</occupation>
                <noteGrp><note target="wkfm-0170.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0170</note><note target="wkfm-0171.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0171</note></noteGrp></person>
-                <person xml:id="wkfm__12874" sameAs="#wkfm__21766 ">
-                     <persName>
-                        <forename>Michael</forename>
-                        <surname>Fieglmillner</surname>
-                        <surname type="alt">Figlmiller</surname>
-                        <surname type="alt">Fieglmielner</surname>
-                     </persName>                    
-                     <residence type="Geschäftsadresse">
-                        <placeName>Zum Drei Raben auf dem Katzensteig (Calender 1723)</placeName>
-                     </residence>
-                     <residence type="Bürgerrecht">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Prokurist des Johann Michael Peck/Pöck, Handelsmann</occupation>
-               <noteGrp><note target="wkfm-0171.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0171</note><note target="wkfm-0701.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0701</note><note target="wkfm-0702.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0702</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

@@ -96,7 +96,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46218">
+    <back><listOrg><org xml:id="wkfm__46219">
+                     <orgName>Johann Bernhard Diewald</orgName>
+                  <noteGrp><note target="wkfm-0537.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0537</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__46218">
                      <persName>
                         <forename>Johann Bernhard</forename>
                         <surname>Diewald</surname>
@@ -122,8 +125,5 @@
                         <bibl>Huchler, Bürgeraufnahmen, 366.</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0537.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0537</note><note target="wkfm-0538.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0538</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46219">
-                     <orgName>Johann Bernhard Diewald</orgName>
-                  <noteGrp><note target="wkfm-0537.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0537</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

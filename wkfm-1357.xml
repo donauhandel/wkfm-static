@@ -88,7 +88,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__9869" sameAs="#wkfm__8491 ">
+    <back><listOrg><org xml:id="wkfm__46679">
+                     <orgName>Johann Friedrich Rottmann</orgName>
+                  <noteGrp><note target="wkfm-1357.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1357</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__9869" sameAs="#wkfm__8491 ">
                      <persName>
                         <forename>Johann Friedrich</forename>
                         <surname>Rottmann</surname>
@@ -99,8 +102,5 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                <noteGrp><note target="wkfm-1357.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1357</note><note target="wkfm-1358.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1358</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46679">
-                     <orgName>Johann Friedrich Rottmann</orgName>
-                  <noteGrp><note target="wkfm-1357.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1357</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

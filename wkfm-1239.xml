@@ -89,10 +89,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46888">
-                     <orgName>Dominicus a Marcha</orgName>
-                  <noteGrp><note target="wkfm-1239.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1239</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__46887">
+    <back><listPerson><person xml:id="wkfm__46887">
                      <persName>
                         <forename>Dominicus</forename>
                         <surname>a Marcha</surname>
@@ -114,5 +111,8 @@
                         <bibl>Huchler, Bürgeraufnahmen, 453.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1239.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1239</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46888">
+                     <orgName>Dominicus a Marcha</orgName>
+                  <noteGrp><note target="wkfm-1239.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1239</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

@@ -98,11 +98,14 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__17087">
+    <back><listOrg><org xml:id="wkfm__47203">
+                     <orgName>Angelo Maria Consoni</orgName>
+                  <noteGrp><note target="wkfm-0335.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0335</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__17087">
                      <persName>
                         <forename>Kaspar</forename>
-                        <forename type="alt">Kaspar Melichor Balthasar</forename>
                         <forename type="alt">Gasparo</forename>
+                        <forename type="alt">Kaspar Melichor Balthasar</forename>
                         <surname>Consoni</surname>
                      </persName>
                      <residence type="Geschäftsniederlassung">
@@ -125,8 +128,5 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                <noteGrp><note target="wkfm-0335.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0335</note><note target="wkfm-0336.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0336</note><note target="wkfm-0408.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0408</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__47203">
-                     <orgName>Angelo Maria Consoni</orgName>
-                  <noteGrp><note target="wkfm-0335.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0335</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

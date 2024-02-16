@@ -88,7 +88,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__10901" sameAs="#wkfm__9874 wkfm__10769 wkfm__12070 ">
+    <back><listOrg><org xml:id="wkfm__47443">
+                     <orgName>Anton Joseph Stiermb</orgName>
+                  <noteGrp><note target="wkfm-1529.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1529</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__10901" sameAs="#wkfm__9874 wkfm__10769 wkfm__12070 ">
                      <persName>
                         <forename>Anton Joseph</forename>
                         <surname>Stiermb</surname>
@@ -113,8 +116,5 @@
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 538 (20. September 1723).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1529.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1529</note><note target="wkfm-1530.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1530</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__47443">
-                     <orgName>Anton Joseph Stiermb</orgName>
-                  <noteGrp><note target="wkfm-1529.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1529</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

@@ -90,10 +90,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47504">
-                     <orgName>Johann Ignaz Seybaldt</orgName>
-                  <noteGrp><note target="wkfm-1603.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1603</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__47503">
+    <back><listPerson><person xml:id="wkfm__47503">
                      <persName>
                         <forename>Johann Ignaz</forename>
                         <surname>Seybaldt</surname>
@@ -104,5 +101,8 @@
                      <occupation>Leinwandhändler</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
                <noteGrp><note target="wkfm-1603.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1603</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47504">
+                     <orgName>Johann Ignaz Seybaldt</orgName>
+                  <noteGrp><note target="wkfm-1603.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1603</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

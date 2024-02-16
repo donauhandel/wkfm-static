@@ -1,2 +1,2 @@
 #FORMAT: BEACON
-#NAME:Digitale Edition des Merkantil und Wechselgericht Merkantilprotokoll
+#NAME:Digitale Edition des ersten Wiener Merkantilprotokolls

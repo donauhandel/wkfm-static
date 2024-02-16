@@ -84,30 +84,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43795">
-                     <persName>
-                        <forename>Joseph</forename>
-                        <surname>Pleyer</surname>
-                     </persName>                    
-                     <residence type="Geschäftsadresse">
-                        <placeName>Petersplatz 11 (alt: Nr 609)</placeName>
-                     </residence>
-                     <residence type="Bürgerrecht">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Tuchhändler</occupation>
-                     <occupation type="kaufmannsklasse">tuchlaubensverwandt/bürgerlich</occupation>
-                     <listBibl>
-                        <bibl>&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 486.&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Harrer-Lucienfeld, Wien, seiner Häuser, Bd. 1.1, S. 207&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-0047.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0047</note><note target="wkfm-0281.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0281</note><note target="wkfm-0282.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0282</note></noteGrp></person>
-                <person xml:id="wkfm__43793">
+    <back><listPerson><person xml:id="wkfm__43793">
                      <persName>
                         <forename>Johann Jakob</forename>
                         <surname>Appold</surname>
@@ -131,6 +108,29 @@
                         <bibl>&amp;lt;div&amp;gt;Huchler, Bürgeraufnahmen, 340 (September 1740).&amp;lt;/div&amp;gt;&amp;lt;div&amp;gt;Harrer-Lucienfeld, Wien, seiner Häuser, Bd. 1.1, S. 207&amp;lt;br&amp;gt;&amp;lt;/div&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0046.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0046</note><note target="wkfm-0047.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0047</note><note target="wkfm-0282.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0282</note><note target="wkfm-1399.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1399</note><note target="wkfm-1400.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1400</note></noteGrp></person>
+                <person xml:id="wkfm__43795">
+                     <persName>
+                        <forename>Joseph</forename>
+                        <surname>Pleyer</surname>
+                     </persName>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Petersplatz 11 (alt: Nr 609)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Tuchhändler</occupation>
+                     <occupation type="kaufmannsklasse">tuchlaubensverwandt/bürgerlich</occupation>
+                     <listBibl>
+                        <bibl>&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 486.&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Harrer-Lucienfeld, Wien, seiner Häuser, Bd. 1.1, S. 207&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0047.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0047</note><note target="wkfm-0281.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0281</note><note target="wkfm-0282.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0282</note></noteGrp></person>
                 <person xml:id="wkfm__43794">
                      <persName>
                         <forename>Joseph Leopold</forename>

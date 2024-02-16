@@ -105,7 +105,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46556">
+    <back><listOrg><org xml:id="wkfm__46557">
+                     <orgName>Johann Michael Hochenauer</orgName>
+                  <noteGrp><note target="wkfm-1047.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1047</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__46556">
                      <persName>
                         <forename>Johann Michael</forename>
                         <surname>Hochenauer</surname>
@@ -152,8 +155,5 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 570.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1047.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1047</note><note target="wkfm-1833.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1833</note><note target="wkfm-1834.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1834</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46557">
-                     <orgName>Johann Michael Hochenauer</orgName>
-                  <noteGrp><note target="wkfm-1047.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1047</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

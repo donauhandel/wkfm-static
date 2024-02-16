@@ -114,10 +114,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47191">
-                     <orgName>Johannes Fries</orgName>
-                  <noteGrp><note target="wkfm-0807.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0807</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__47192" sameAs="#wkfm__43528 ">
+    <back><listPerson><person xml:id="wkfm__47192" sameAs="#wkfm__43528 ">
                      <persName>
                         <forename>Johann Georg</forename>
                         <surname>Haas</surname>
@@ -152,5 +149,8 @@
                         <bibl>Matis, Grafen von Fries, 484-492; Matis, Ansätze der Industrialisierung, 195; Mikoletzky, Schweizer Händler, 169-171; Stökl, Protestantismus, 220f.; Mittenzwei, Zwischen Gestern und Morgen, passim; Dickson, Finance 1, passim; Matis, Manufakturen, 297.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0807.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0807</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47191">
+                     <orgName>Johannes Fries</orgName>
+                  <noteGrp><note target="wkfm-0807.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0807</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

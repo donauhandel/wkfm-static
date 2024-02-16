@@ -132,16 +132,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__43934">
-                     <orgName>Bender &amp; Co.</orgName>
-                  <noteGrp><note target="wkfm-0241.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0241</note></noteGrp></org>
-                <org xml:id="wkfm__47360">
-                     <orgName>Philipp Jakob Bender</orgName>
-                  <noteGrp><note target="wkfm-0241.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0241</note></noteGrp></org>
-                <org xml:id="wkfm__46389">
-                     <orgName>Johann Georg Helvetius</orgName>
-                  <noteGrp><note target="wkfm-0241.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0241</note><note target="wkfm-0921.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0921</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__43935">
+    <back><listPerson><person xml:id="wkfm__43935">
                      <persName>
                         <forename>Christian Rudolf</forename>
                         <surname>Eisenreich</surname>
@@ -152,17 +143,6 @@
                      <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Prokurist des Philipp Jakob Bender</occupation>
                <noteGrp><note target="wkfm-0241.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0241</note></noteGrp></person>
-                <person xml:id="wkfm__43936">
-                     <persName>
-                        <forename>Johann Karl</forename>
-                        <surname>Mühl</surname>
-                     </persName>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-               <noteGrp><note target="wkfm-0241.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0241</note><note target="wkfm-0242.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0242</note></noteGrp></person>
                 <person xml:id="wkfm__21476">
                      <persName>
                         <forename>Philipp Jakob</forename>
@@ -187,5 +167,25 @@
                         <bibl>&amp;lt;div&amp;gt;Albert Schuch, Zur Geschichte der Lederfabrikation im Gebiet des heutigen Burgenlandes (18. und 19. Jahrhundert) (Burgenländische Forschungen 85, Eisenstadt 2002) 100-103; &amp;lt;span&amp;gt;Stökl, Protestantismus, 228; Harrer-Lucienfeld, Wien, seiner Häuser, Bd. 6.1, 126; &amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Kröpfel, Protestantismus, Anhang 1, S. 4 (Tod des 2jährigen Sohnes Carl Christoph im Hilleprandischen Haus im Jahr 1741)&amp;lt;/span&amp;gt;.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0241.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0241</note><note target="wkfm-0242.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0242</note><note target="wkfm-0423.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0423</note><note target="wkfm-0424.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0424</note></noteGrp></person>
-                </listPerson></back></text>
+                <person xml:id="wkfm__43936">
+                     <persName>
+                        <forename>Johann Karl</forename>
+                        <surname>Mühl</surname>
+                     </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+               <noteGrp><note target="wkfm-0241.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0241</note><note target="wkfm-0242.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0242</note></noteGrp></person>
+                </listPerson><listOrg><org xml:id="wkfm__43934">
+                     <orgName>Bender &amp; Co.</orgName>
+                  <noteGrp><note target="wkfm-0241.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0241</note></noteGrp></org>
+                <org xml:id="wkfm__47360">
+                     <orgName>Philipp Jakob Bender</orgName>
+                  <noteGrp><note target="wkfm-0241.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0241</note></noteGrp></org>
+                <org xml:id="wkfm__46389">
+                     <orgName>Johann Georg Helvetius</orgName>
+                  <noteGrp><note target="wkfm-0241.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0241</note><note target="wkfm-0921.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0921</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

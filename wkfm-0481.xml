@@ -113,10 +113,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47263">
-                     <orgName>Franz Anton Krenn</orgName>
-                  <noteGrp><note target="wkfm-0481.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0481</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__43979">
+    <back><listPerson><person xml:id="wkfm__43979">
                      <persName>
                         <forename>Joseph</forename>
                         <surname>Pichler</surname>
@@ -161,5 +158,8 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0481.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0481</note><note target="wkfm-0482.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0482</note><note target="wkfm-1693.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1693</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47263">
+                     <orgName>Franz Anton Krenn</orgName>
+                  <noteGrp><note target="wkfm-0481.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0481</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

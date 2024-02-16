@@ -88,10 +88,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46642">
-                     <orgName>Franz Anton Ipiditsch (Ipditsch)</orgName>
-                  <noteGrp><note target="wkfm-1085.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1085</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__27714">
+    <back><listPerson><person xml:id="wkfm__27714">
                      <persName>
                         <forename>Franz Anton</forename>
                         <surname>Ipiditsch</surname>
@@ -116,5 +113,8 @@
                         <bibl>Huchler, Bürgeraufnahmen, 421 (Februar 1734)&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1085.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1085</note><note target="wkfm-1086.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1086</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46642">
+                     <orgName>Franz Anton Ipiditsch (Ipditsch)</orgName>
+                  <noteGrp><note target="wkfm-1085.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1085</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

@@ -106,35 +106,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47173">
-                     <persName>
-                        <forename>Joseph Karl</forename>
-                        <surname>von Fuchs</surname>
-                     </persName>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-               <noteGrp><note target="wkfm-0795.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0795</note></noteGrp></person>
-                <person xml:id="wkfm__47172">
-                     <persName>
-                        <forename>Johann Nepomuk</forename>
-                        <surname>Fuchs</surname>
-                        <surname type="alt">von Fuchs</surname>
-                     </persName>
-                     <residence type="Bürgerrecht">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-0795.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0795</note></noteGrp></person>
-                <person xml:id="wkfm__1411" sameAs="#wkfm__1402 ">
+    <back><listOrg><org xml:id="wkfm__47174">
+                     <orgName>Joseph Karl Fuchs sel. Söhne</orgName>
+                  <noteGrp><note target="wkfm-0795.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0795</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__1411" sameAs="#wkfm__1402 ">
                      <persName>
                         <forename>Joseph Karl</forename>
                         <surname>Fux</surname>
@@ -167,8 +142,33 @@
                         <bibl>&amp;lt;span&amp;gt;Mittenzwei, Zwischen gestern und morgen, 117; &amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 382 (13 November 1715)&amp;lt;/span&amp;gt;.&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0699.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0699</note><note target="wkfm-0700.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0700</note><note target="wkfm-0795.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0795</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__47174">
-                     <orgName>Joseph Karl Fuchs sel. Söhne</orgName>
-                  <noteGrp><note target="wkfm-0795.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0795</note></noteGrp></org>
-                </listOrg></back></text>
+                <person xml:id="wkfm__47172">
+                     <persName>
+                        <forename>Johann Nepomuk</forename>
+                        <surname>Fuchs</surname>
+                        <surname type="alt">von Fuchs</surname>
+                     </persName>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-0795.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0795</note></noteGrp></person>
+                <person xml:id="wkfm__47173">
+                     <persName>
+                        <forename>Joseph Karl</forename>
+                        <surname>von Fuchs</surname>
+                     </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+               <noteGrp><note target="wkfm-0795.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0795</note></noteGrp></person>
+                </listPerson></back></text>
 </TEI>

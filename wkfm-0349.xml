@@ -88,10 +88,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47208">
-                     <orgName>Karl Joseph Krazer</orgName>
-                  <noteGrp><note target="wkfm-0349.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0349</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__8515">
+    <back><listPerson><person xml:id="wkfm__8515">
                      <persName>
                         <forename>Karl Joseph</forename>
                         <surname>Krazer</surname>
@@ -111,5 +108,8 @@
                      <occupation>Leinwandhändler, Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
                <noteGrp><note target="wkfm-0349.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0349</note><note target="wkfm-0350.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0350</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47208">
+                     <orgName>Karl Joseph Krazer</orgName>
+                  <noteGrp><note target="wkfm-0349.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0349</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

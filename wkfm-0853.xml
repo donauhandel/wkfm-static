@@ -92,7 +92,30 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46321">
+    <back><listOrg><org xml:id="wkfm__46322">
+                     <orgName>Johann Michael Glück</orgName>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__46323">None, None</persName></person></listPerson><noteGrp><note target="wkfm-0853.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0853</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__46323">
+                     <persName>
+                        <forename>None</forename>
+                        <surname>None</surname>
+                     </persName>
+                     <affiliation>
+                        <orgName key="#wkfm__46322">Johann Michael Glück</orgName>
+                     </affiliation>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zur Heiligen Dreifaltigkeit in der Rossau (Calender 1758)</placeName>
+                     </residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsfrau</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-0853.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0853</note></noteGrp></person>
+                <person xml:id="wkfm__46321">
                      <persName>
                         <forename>Johann Michael</forename>
                         <surname>Glück</surname>
@@ -117,28 +140,5 @@
                         <bibl>Huchler, Bürgeraufnahmen, 388.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0853.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0853</note><note target="wkfm-0854.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0854</note></noteGrp></person>
-                <person xml:id="wkfm__46323">
-                     <persName>
-                        <forename>None</forename>
-                        <surname>None</surname>
-                     </persName>
-                     <affiliation>
-                        <orgName key="#wkfm__46322">Johann Michael Glück</orgName>
-                     </affiliation>                    
-                     <residence type="Geschäftsadresse">
-                        <placeName>Zur Heiligen Dreifaltigkeit in der Rossau (Calender 1758)</placeName>
-                     </residence>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsfrau</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-0853.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0853</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46322">
-                     <orgName>Johann Michael Glück</orgName>
-                  <listPerson type="affiliated"><person><persName key="#wkfm__46323">None, None</persName></person></listPerson><noteGrp><note target="wkfm-0853.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0853</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

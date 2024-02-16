@@ -88,15 +88,12 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46469">
-                     <orgName>Franz Wilhelm Häsl</orgName>
-                  <noteGrp><note target="wkfm-0963.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0963</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__23836">
+    <back><listPerson><person xml:id="wkfm__23836">
                      <persName>
                         <forename>Franz Wilhelm</forename>
                         <surname>Häsl</surname>
-                        <surname type="alt">Häßl</surname>
                         <surname type="alt">Haasl</surname>
+                        <surname type="alt">Häßl</surname>
                      </persName>
                      <residence type="Bürgerrecht">
                         <placeName key="#wkfm-place__925">Wien</placeName>
@@ -116,5 +113,8 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 403.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0963.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0963</note><note target="wkfm-0964.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0964</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46469">
+                     <orgName>Franz Wilhelm Häsl</orgName>
+                  <noteGrp><note target="wkfm-0963.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0963</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

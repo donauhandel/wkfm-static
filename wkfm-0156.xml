@@ -90,10 +90,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47319">
-                     <orgName>Johann Joseph Balthauser</orgName>
-                  <noteGrp><note target="wkfm-0156.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0156</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__43888" sameAs="#wkfm__25846 ">
+    <back><listPerson><person xml:id="wkfm__43888" sameAs="#wkfm__25846 ">
                      <persName>
                         <forename>Johann Joseph</forename>
                         <surname>Balthauser</surname>
@@ -112,5 +109,8 @@
                         <bibl>Huchler, Bürgeraufnahmen,&amp;amp;nbsp;344.</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0156.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0156</note><note target="wkfm-0157.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0157</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47319">
+                     <orgName>Johann Joseph Balthauser</orgName>
+                  <noteGrp><note target="wkfm-0156.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0156</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

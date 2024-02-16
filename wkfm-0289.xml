@@ -115,13 +115,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43975">
-                     <persName>
-                        <forename>Johann Franz</forename>
-                        <surname>Zobl</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-0289.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0289</note></noteGrp></person>
-                <person xml:id="wkfm__43974">
+    <back><listPerson><person xml:id="wkfm__43974">
                      <persName>
                         <forename>Johann Niklas</forename>
                         <surname>Plank</surname>
@@ -164,6 +158,12 @@
                         <placeName key="#wkfm-place__925">Wien</placeName>
                      <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
+               <noteGrp><note target="wkfm-0289.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0289</note></noteGrp></person>
+                <person xml:id="wkfm__43975">
+                     <persName>
+                        <forename>Johann Franz</forename>
+                        <surname>Zobl</surname>
+                     </persName>
                <noteGrp><note target="wkfm-0289.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0289</note></noteGrp></person>
                 </listPerson><listOrg><org xml:id="wkfm__47384">
                      <orgName>Johann Nikolaus Plank</orgName>

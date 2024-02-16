@@ -87,7 +87,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__11305">
+    <back><listOrg><org xml:id="wkfm__47063">
+                     <orgName>Johann Gaspard Fizès</orgName>
+                  <noteGrp><note target="wkfm-0685.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0685</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__11305">
                      <persName>
                         <forename>Johann Kaspar</forename>
                         <surname>Fizes</surname>
@@ -98,8 +101,5 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                <noteGrp><note target="wkfm-0685.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0685</note><note target="wkfm-0686.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0686</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__47063">
-                     <orgName>Johann Gaspard Fizès</orgName>
-                  <noteGrp><note target="wkfm-0685.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0685</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

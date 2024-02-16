@@ -134,21 +134,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43810">
-                     <persName>
-                        <forename>Bernhard Franz</forename>
-                        <surname>Violand</surname>
-                     </persName>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-                     <listBibl>
-                        <bibl>Rauscher, Serles, Niederleger, 168.</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-0070.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0070</note><note target="wkfm-0071.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0071</note><note target="wkfm-0760.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0760</note><note target="wkfm-0799.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0799</note><note target="wkfm-0800.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0800</note></noteGrp></person>
-                <person xml:id="wkfm__4694" sameAs="#wkfm__4693 ">
+    <back><listPerson><person xml:id="wkfm__4694" sameAs="#wkfm__4693 ">
                      <persName>
                         <forename>Johann Baptist</forename>
                         <surname>Perinet</surname>
@@ -171,38 +157,20 @@
                         <bibl>&amp;lt;div&amp;gt;Rauscher, Serles, Niederleger, 168f.&amp;lt;/div&amp;gt;&amp;lt;div&amp;gt;Harrer-Lucienfeld, Wien, seiner Häuser, Bd. 1.3, S. 727&amp;lt;/div&amp;gt;&amp;lt;div&amp;gt;Raynaud, Savoyardische Einwanderungen, 216&amp;lt;br&amp;gt;&amp;lt;/div&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0070.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0070</note><note target="wkfm-0071.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0071</note><note target="wkfm-0251.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0251</note><note target="wkfm-0799.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0799</note><note target="wkfm-0800.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0800</note></noteGrp></person>
-                <person xml:id="wkfm__47276" sameAs="#wkfm__43811 ">
+                <person xml:id="wkfm__43810">
                      <persName>
-                        <forename>Joachim Benedikt</forename>
-                        <surname>Perinet</surname>
+                        <forename>Bernhard Franz</forename>
+                        <surname>Violand</surname>
                      </persName>
                      <residence type="Geschäftsniederlassung">
                         <placeName key="#wkfm-place__925">Wien</placeName>
                      <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-               <noteGrp><note target="wkfm-0071.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0071</note></noteGrp></person>
-                <person xml:id="wkfm__43813">
-                     <persName>
-                        <forename>Anton</forename>
-                        <surname>Reitter</surname>
-                     </persName>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann, Angestellter bei Johan Baptist Perinet</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                      <listBibl>
-                        <bibl>https://transkribus.eu/lite/de/collection/84522/doc/560230/detail/17</bibl>
+                        <bibl>Rauscher, Serles, Niederleger, 168.</bibl>
                      </listBibl>
-               <noteGrp><note target="wkfm-0070.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0070</note><note target="wkfm-0071.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0071</note></noteGrp></person>
-                <person xml:id="wkfm__43815">
-                     <persName>
-                        <forename>Jakob</forename>
-                        <surname>Violand</surname>
-                     </persName>
-                     <occupation type="kaufmannsklasse"/>
-               <noteGrp><note target="wkfm-0071.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0071</note><note target="wkfm-0800.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0800</note></noteGrp></person>
+               <noteGrp><note target="wkfm-0070.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0070</note><note target="wkfm-0071.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0071</note><note target="wkfm-0760.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0760</note><note target="wkfm-0799.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0799</note><note target="wkfm-0800.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0800</note></noteGrp></person>
                 <person xml:id="wkfm__30391">
                      <persName>
                         <forename>Franz</forename>
@@ -234,6 +202,38 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                <noteGrp><note target="wkfm-0070.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0070</note><note target="wkfm-0071.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0071</note></noteGrp></person>
+                <person xml:id="wkfm__43813">
+                     <persName>
+                        <forename>Anton</forename>
+                        <surname>Reitter</surname>
+                     </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann, Angestellter bei Johan Baptist Perinet</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+                     <listBibl>
+                        <bibl>https://transkribus.eu/lite/de/collection/84522/doc/560230/detail/17</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0070.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0070</note><note target="wkfm-0071.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0071</note></noteGrp></person>
+                <person xml:id="wkfm__47276" sameAs="#wkfm__43811 ">
+                     <persName>
+                        <forename>Joachim Benedikt</forename>
+                        <surname>Perinet</surname>
+                     </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+               <noteGrp><note target="wkfm-0071.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0071</note></noteGrp></person>
+                <person xml:id="wkfm__43815">
+                     <persName>
+                        <forename>Jakob</forename>
+                        <surname>Violand</surname>
+                     </persName>
+                     <occupation type="kaufmannsklasse"/>
+               <noteGrp><note target="wkfm-0071.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0071</note><note target="wkfm-0800.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0800</note></noteGrp></person>
                 </listPerson><listOrg><org xml:id="wkfm__40012">
                      <orgName>Perinet und Violand</orgName>
                   <noteGrp><note target="wkfm-0070.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0070</note><note target="wkfm-0071.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0071</note><note target="wkfm-0799.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0799</note><note target="wkfm-1661.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1661</note></noteGrp></org>

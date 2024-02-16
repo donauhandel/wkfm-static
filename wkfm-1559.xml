@@ -90,7 +90,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__9138">
+    <back><listOrg><org xml:id="wkfm__47469">
+                     <orgName>Johann Stephan Schulz</orgName>
+                  <noteGrp><note target="wkfm-1559.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1559</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__9138">
                      <persName>
                         <forename>Johann Stephan</forename>
                         <surname>Schulz</surname>
@@ -110,8 +113,5 @@
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 525.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1559.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1559</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__47469">
-                     <orgName>Johann Stephan Schulz</orgName>
-                  <noteGrp><note target="wkfm-1559.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1559</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

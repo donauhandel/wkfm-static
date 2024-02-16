@@ -99,7 +99,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__9731" sameAs="#wkfm__29936 ">
+    <back><listOrg><org xml:id="wkfm__47146">
+                     <orgName>Franz Franzoni</orgName>
+                  <noteGrp><note target="wkfm-0781.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0781</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__9731" sameAs="#wkfm__29936 ">
                      <persName>
                         <forename>Johann Michael</forename>
                         <surname>Kienmayr</surname>
@@ -147,8 +150,5 @@
                         <bibl>Mittenzwei, Zwischen Gestern und Morgen, 194f.; &amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 380.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0781.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0781</note><note target="wkfm-0782.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0782</note><note target="wkfm-1175.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1175</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__47146">
-                     <orgName>Franz Franzoni</orgName>
-                  <noteGrp><note target="wkfm-0781.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0781</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

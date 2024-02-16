@@ -139,18 +139,6 @@
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 374.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0779.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0779</note></noteGrp></person>
-                <person xml:id="wkfm__47144">
-                     <persName>
-                        <forename>Wolfgang</forename>
-                        <surname>Oberhager</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-0779.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0779</note></noteGrp></person>
-                <person xml:id="wkfm__47145">
-                     <persName>
-                        <forename>Maria Magdalena</forename>
-                        <surname>Breunerin</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-0779.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0779</note></noteGrp></person>
                 <person xml:id="wkfm__43938" sameAs="#wkfm__13078 ">
                      <persName>
                         <forename>Johann Georg</forename>
@@ -171,6 +159,18 @@
                         <bibl>Huchler, Bürgeraufnahmen, 351.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0243.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0243</note><note target="wkfm-0779.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0779</note></noteGrp></person>
+                <person xml:id="wkfm__47145">
+                     <persName>
+                        <forename>Maria Magdalena</forename>
+                        <surname>Breunerin</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0779.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0779</note></noteGrp></person>
+                <person xml:id="wkfm__47144">
+                     <persName>
+                        <forename>Wolfgang</forename>
+                        <surname>Oberhager</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0779.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0779</note></noteGrp></person>
                 </listPerson><listOrg><org xml:id="wkfm__47143">
                      <orgName>Lorenz Fellinger</orgName>
                   <noteGrp><note target="wkfm-0779.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0779</note></noteGrp></org>

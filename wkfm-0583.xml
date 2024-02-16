@@ -110,7 +110,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46263">
+    <back><listOrg><org xml:id="wkfm__46262">
+                     <orgName>Franz Dellmor</orgName>
+                  <noteGrp><note target="wkfm-0583.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0583</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__46263">
                      <persName>
                         <forename>Leopoldina</forename>
                         <surname>Dellmor</surname>
@@ -141,8 +144,5 @@
                         <bibl>Huchler, Bürgeraufnahmen, 360.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0583.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0583</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46262">
-                     <orgName>Franz Dellmor</orgName>
-                  <noteGrp><note target="wkfm-0583.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0583</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

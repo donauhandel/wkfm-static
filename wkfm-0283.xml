@@ -131,16 +131,16 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47380">
-                     <orgName>Dominicus Polidoro</orgName>
-                  <noteGrp><note target="wkfm-0283.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0283</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__43966">
+    <back><listPerson><person xml:id="wkfm__9136">
                      <persName>
-                        <forename>Dominicus</forename>
-                        <surname>Polidoro</surname>
-                     </persName>                    
+                        <forename>Karl</forename>
+                        <forename type="alt">Carlo</forename>
+                        <surname>Barbieri</surname>
+                        <surname type="alt">Barbiri</surname>
+                     </persName>
+                     <death><date>1749</date></death>                    
                      <residence type="Geschäftsadresse">
-                        <placeName>Zum 7. Säulen auf dem Neuen Markt (Calender 1758)</placeName>
+                        <placeName>Zum Goldenen Stern auf dem Hof (Calender 1723)</placeName>
                      </residence>
                      <residence type="Bürgerrecht">
                         <placeName key="#wkfm-place__925">Wien</placeName>
@@ -151,13 +151,15 @@
                      <residence type="Geschäftsniederlassung">
                         <placeName key="#wkfm-place__925">Wien</placeName>
                      <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geburtsort">
+                        <placeName key="#wkfm-place__2551">Fasano</placeName>
+                     </residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
-                     <occupation type="aemter">Vorsteher der bürgerl. Handelsleute</occupation>
                      <listBibl>
-                        <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 487.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
+                        <bibl>&amp;lt;div&amp;gt;Dotter, Italienische Kaufleute, 109f.; Huchler, Bürgeraufnahmen, 344 (16. November 1711); Harrer-Lucienfeld, Wien, seiner Häuser, Bd. 2.2, S. 251.&amp;lt;/div&amp;gt;&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
-               <noteGrp><note target="wkfm-0283.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0283</note><note target="wkfm-0319.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0319</note></noteGrp></person>
+               <noteGrp><note target="wkfm-0102.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0102</note><note target="wkfm-0103.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0103</note><note target="wkfm-0215.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0215</note><note target="wkfm-0283.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0283</note><note target="wkfm-0305.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0305</note></noteGrp></person>
                 <person xml:id="wkfm__19355" sameAs="#wkfm__23789 wkfm__28994 ">
                      <persName>
                         <forename>Anton Lukas</forename>
@@ -204,16 +206,19 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 469.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0283.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0283</note><note target="wkfm-1315.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1315</note><note target="wkfm-1316.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1316</note></noteGrp></person>
-                <person xml:id="wkfm__9136">
+                <person xml:id="wkfm__43967">
                      <persName>
-                        <forename>Karl</forename>
-                        <forename type="alt">Carlo</forename>
-                        <surname>Barbieri</surname>
-                        <surname type="alt">Barbiri</surname>
+                        <forename>Anna Maria</forename>
+                        <surname>Leweckin</surname>
                      </persName>
-                     <death><date>1749</date></death>                    
+               <noteGrp><note target="wkfm-0283.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0283</note></noteGrp></person>
+                <person xml:id="wkfm__43966">
+                     <persName>
+                        <forename>Dominicus</forename>
+                        <surname>Polidoro</surname>
+                     </persName>                    
                      <residence type="Geschäftsadresse">
-                        <placeName>Zum Goldenen Stern auf dem Hof (Calender 1723)</placeName>
+                        <placeName>Zum 7. Säulen auf dem Neuen Markt (Calender 1758)</placeName>
                      </residence>
                      <residence type="Bürgerrecht">
                         <placeName key="#wkfm-place__925">Wien</placeName>
@@ -224,20 +229,15 @@
                      <residence type="Geschäftsniederlassung">
                         <placeName key="#wkfm-place__925">Wien</placeName>
                      <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geburtsort">
-                        <placeName key="#wkfm-place__2551">Fasano</placeName>
-                     </residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
+                     <occupation type="aemter">Vorsteher der bürgerl. Handelsleute</occupation>
                      <listBibl>
-                        <bibl>&amp;lt;div&amp;gt;Dotter, Italienische Kaufleute, 109f.; Huchler, Bürgeraufnahmen, 344 (16. November 1711); Harrer-Lucienfeld, Wien, seiner Häuser, Bd. 2.2, S. 251.&amp;lt;/div&amp;gt;&amp;lt;br&amp;gt;</bibl>
+                        <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 487.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
-               <noteGrp><note target="wkfm-0102.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0102</note><note target="wkfm-0103.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0103</note><note target="wkfm-0215.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0215</note><note target="wkfm-0283.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0283</note><note target="wkfm-0305.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0305</note></noteGrp></person>
-                <person xml:id="wkfm__43967">
-                     <persName>
-                        <forename>Anna Maria</forename>
-                        <surname>Leweckin</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-0283.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0283</note></noteGrp></person>
-                </listPerson></back></text>
+               <noteGrp><note target="wkfm-0283.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0283</note><note target="wkfm-0319.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0319</note></noteGrp></person>
+                </listPerson><listOrg><org xml:id="wkfm__47380">
+                     <orgName>Dominicus Polidoro</orgName>
+                  <noteGrp><note target="wkfm-0283.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0283</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

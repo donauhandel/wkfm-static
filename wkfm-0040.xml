@@ -92,13 +92,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46595">
-                     <orgName>Sebastian Johann Ambach</orgName>
-                  <noteGrp><note target="wkfm-0040.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0040</note></noteGrp></org>
-                <org xml:id="wkfm__20402">
-                     <orgName>Langwider und Ambach</orgName>
-                  <noteGrp><note target="wkfm-0040.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0040</note><note target="wkfm-1161.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1161</note><note target="wkfm-1162.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1162</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__28699" sameAs="#wkfm__40158 ">
+    <back><listPerson><person xml:id="wkfm__28699" sameAs="#wkfm__40158 ">
                      <persName>
                         <forename>Sebastian Johann</forename>
                         <surname>Ambach</surname>
@@ -119,5 +113,11 @@
                         <bibl>Huchler, Bürgeraufnahmen, 338.</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0040.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0040</note><note target="wkfm-0041.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0041</note><note target="wkfm-1161.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1161</note><note target="wkfm-1162.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1162</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__20402">
+                     <orgName>Langwider und Ambach</orgName>
+                  <noteGrp><note target="wkfm-0040.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0040</note><note target="wkfm-1161.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1161</note><note target="wkfm-1162.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1162</note></noteGrp></org>
+                <org xml:id="wkfm__46595">
+                     <orgName>Sebastian Johann Ambach</orgName>
+                  <noteGrp><note target="wkfm-0040.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0040</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

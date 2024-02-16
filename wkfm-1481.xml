@@ -90,7 +90,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47411">
+    <back><listOrg><org xml:id="wkfm__12698">
+                     <orgName>Michael Schick sel. Erben, Johann Michael Schick sel. Erben</orgName>
+                  <noteGrp><note target="wkfm-1481.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1481</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__47411">
                      <persName>
                         <forename>None</forename>
                         <surname>None</surname>
@@ -101,8 +104,5 @@
                      <occupation>Handelsleute</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1481.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1481</note><note target="wkfm-1482.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1482</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__12698">
-                     <orgName>Michael Schick sel. Erben, Johann Michael Schick sel. Erben</orgName>
-                  <noteGrp><note target="wkfm-1481.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1481</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

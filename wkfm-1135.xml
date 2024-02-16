@@ -99,17 +99,7 @@
     <back><listOrg><org xml:id="wkfm__46804">
                      <orgName>Georg Jakob Leeb</orgName>
                   <noteGrp><note target="wkfm-1135.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1135</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__46805" sameAs="#wkfm__41520 ">
-                     <persName>
-                        <forename>Ferdinand</forename>
-                        <surname>Moser</surname>
-                     </persName>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Angestellter und Prokurist bei Georg Jakob Leeb</occupation>
-               <noteGrp><note target="wkfm-1135.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1135</note></noteGrp></person>
-                <person xml:id="wkfm__13796">
+                </listOrg><listPerson><person xml:id="wkfm__13796">
                      <persName>
                         <forename>Georg Jakob</forename>
                         <surname>Leeb</surname>
@@ -132,5 +122,15 @@
                      <occupation type="aemter">Rat am NÖ Judicium Appellatorium Mercantile</occupation>
                      <occupation type="aemter">Vorsteher der bürgerl. Handelsleute</occupation>
                <noteGrp><note target="wkfm-1135.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1135</note><note target="wkfm-1136.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1136</note></noteGrp></person>
+                <person xml:id="wkfm__46805" sameAs="#wkfm__41520 ">
+                     <persName>
+                        <forename>Ferdinand</forename>
+                        <surname>Moser</surname>
+                     </persName>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Angestellter und Prokurist bei Georg Jakob Leeb</occupation>
+               <noteGrp><note target="wkfm-1135.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1135</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

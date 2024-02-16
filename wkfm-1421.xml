@@ -138,11 +138,11 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 496.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1421.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1421</note><note target="wkfm-1422.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1422</note><note target="wkfm-1430.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1430</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46702">
-                     <orgName>Balthasar Johann Rathgeb</orgName>
-                  <noteGrp><note target="wkfm-1383.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1383</note><note target="wkfm-1421.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1421</note><note target="wkfm-1422.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1422</note><note target="wkfm-1429.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1429</note><note target="wkfm-1430.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1430</note></noteGrp></org>
-                <org xml:id="wkfm__46730">
+                </listPerson><listOrg><org xml:id="wkfm__46730">
                      <orgName>Balthasar Johann Rathgeb sel. Söhne</orgName>
                   <noteGrp><note target="wkfm-1421.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1421</note><note target="wkfm-1422.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1422</note><note target="wkfm-1429.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1429</note><note target="wkfm-1430.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1430</note></noteGrp></org>
+                <org xml:id="wkfm__46702">
+                     <orgName>Balthasar Johann Rathgeb</orgName>
+                  <noteGrp><note target="wkfm-1383.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1383</note><note target="wkfm-1421.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1421</note><note target="wkfm-1422.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1422</note><note target="wkfm-1429.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1429</note><note target="wkfm-1430.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1430</note></noteGrp></org>
                 </listOrg></back></text>
 </TEI>

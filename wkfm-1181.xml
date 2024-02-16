@@ -115,13 +115,24 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46849">
-                     <orgName>Lang und Solderer</orgName>
-                  <noteGrp><note target="wkfm-1181.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1181</note><note target="wkfm-1182.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1182</note></noteGrp></org>
-                <org xml:id="wkfm__46848">
-                     <orgName>Jakob Lang</orgName>
-                  <noteGrp><note target="wkfm-1181.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1181</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__46170">
+    <back><listPerson><person xml:id="wkfm__46785">
+                     <persName>
+                        <forename>Jakob</forename>
+                        <surname>Lang</surname>
+                     </persName>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Tuchhändler</occupation>
+                     <occupation type="kaufmannsklasse">tuchlaubensverwandt/bürgerlich</occupation>
+               <noteGrp><note target="wkfm-1110.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1110</note><note target="wkfm-1181.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1181</note><note target="wkfm-1182.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1182</note><note target="wkfm-1286.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1286</note></noteGrp></person>
+                <person xml:id="wkfm__46170">
                      <persName>
                         <forename>Franz Joseph</forename>
                         <forename type="alt">Franz</forename>
@@ -143,22 +154,11 @@
                         <bibl>Huchler, Bürgeraufnahmen, 400.</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0471.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0471</note><note target="wkfm-0923.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0923</note><note target="wkfm-0924.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0924</note><note target="wkfm-1027.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1027</note><note target="wkfm-1028.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1028</note><note target="wkfm-1181.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1181</note></noteGrp></person>
-                <person xml:id="wkfm__46785">
-                     <persName>
-                        <forename>Jakob</forename>
-                        <surname>Lang</surname>
-                     </persName>
-                     <residence type="Bürgerrecht">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Tuchhändler</occupation>
-                     <occupation type="kaufmannsklasse">tuchlaubensverwandt/bürgerlich</occupation>
-               <noteGrp><note target="wkfm-1110.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1110</note><note target="wkfm-1181.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1181</note><note target="wkfm-1182.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1182</note><note target="wkfm-1286.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1286</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46849">
+                     <orgName>Lang und Solderer</orgName>
+                  <noteGrp><note target="wkfm-1181.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1181</note><note target="wkfm-1182.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1182</note></noteGrp></org>
+                <org xml:id="wkfm__46848">
+                     <orgName>Jakob Lang</orgName>
+                  <noteGrp><note target="wkfm-1181.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1181</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

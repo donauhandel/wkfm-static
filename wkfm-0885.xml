@@ -109,7 +109,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46352">
+    <back><listOrg><org xml:id="wkfm__46351">
+                     <orgName>Franz Joseph Graf</orgName>
+                  <noteGrp><note target="wkfm-0885.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0885</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__46352">
                      <persName>
                         <forename>Agnes</forename>
                         <surname>Graf</surname>
@@ -136,8 +139,5 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 391.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0885.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0885</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46351">
-                     <orgName>Franz Joseph Graf</orgName>
-                  <noteGrp><note target="wkfm-0885.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0885</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

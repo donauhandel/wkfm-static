@@ -93,7 +93,14 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46180">
+    <back><listPerson><person xml:id="wkfm__46181">
+                     <persName>
+                        <forename>Theresia</forename>
+                        <surname>Scheidienstin</surname>
+                        <surname type="alt">Kritsch</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0488.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0488</note></noteGrp></person>
+                <person xml:id="wkfm__46180">
                      <persName>
                         <forename>Franz</forename>
                         <surname>Kritsch</surname>
@@ -114,12 +121,5 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0487.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0487</note><note target="wkfm-0488.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0488</note></noteGrp></person>
-                <person xml:id="wkfm__46181">
-                     <persName>
-                        <forename>Theresia</forename>
-                        <surname>Scheidienstin</surname>
-                        <surname type="alt">Kritsch</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-0488.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0488</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

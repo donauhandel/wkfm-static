@@ -95,7 +95,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__10201" sameAs="#wkfm__8501 ">
+    <back><listOrg><org xml:id="wkfm__47305">
+                     <orgName>Johann Leonhard Bittoni</orgName>
+                  <noteGrp><note target="wkfm-0130.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0130</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__10201" sameAs="#wkfm__8501 ">
                      <persName>
                         <forename>Johann Leonhard</forename>
                         <surname>Bittoni</surname>
@@ -127,8 +130,5 @@
                      <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Angestellter und Prokurist des Johann Leonhard Bittoni</occupation>
                <noteGrp><note target="wkfm-0130.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0130</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__47305">
-                     <orgName>Johann Leonhard Bittoni</orgName>
-                  <noteGrp><note target="wkfm-0130.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0130</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

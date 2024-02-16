@@ -93,7 +93,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46791" sameAs="#wkfm__41135 ">
+    <back><listOrg><org xml:id="wkfm__46790">
+                     <orgName>Lorenz le Comte</orgName>
+                  <noteGrp><note target="wkfm-1117.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1117</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__46791" sameAs="#wkfm__41135 ">
                      <persName>
                         <forename>Johann Jakob</forename>
                         <surname>Leibel</surname>
@@ -120,8 +123,5 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
                <noteGrp><note target="wkfm-1117.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1117</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46790">
-                     <orgName>Lorenz le Comte</orgName>
-                  <noteGrp><note target="wkfm-1117.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1117</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

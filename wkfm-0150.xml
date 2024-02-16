@@ -88,7 +88,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__10321">
+    <back><listOrg><org xml:id="wkfm__47316">
+                     <orgName>Dominicus Peternader</orgName>
+                  <noteGrp><note target="wkfm-0150.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0150</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__10321">
                      <persName>
                         <forename>Dominicus</forename>
                         <surname>Peternader</surname>
@@ -112,8 +115,5 @@
                         <bibl>Huchler, Bürgeraufnahmen, 481 (12. Juli 1723).&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0150.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0150</note><note target="wkfm-0151.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0151</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__47316">
-                     <orgName>Dominicus Peternader</orgName>
-                  <noteGrp><note target="wkfm-0150.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0150</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

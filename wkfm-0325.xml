@@ -90,13 +90,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47198">
-                     <orgName>Christian Kaltschmidt</orgName>
-                  <noteGrp><note target="wkfm-0325.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0325</note></noteGrp></org>
-                <org xml:id="wkfm__44056">
-                     <orgName>Christian Kaltschmidt sel. Witwe</orgName>
-                  <noteGrp><note target="wkfm-0325.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0325</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__9950">
+    <back><listPerson><person xml:id="wkfm__9950">
                      <persName>
                         <forename>Christian</forename>
                         <surname>Kaltschmidt</surname>
@@ -110,5 +104,11 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                <noteGrp><note target="wkfm-0325.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0325</note><note target="wkfm-0326.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0326</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47198">
+                     <orgName>Christian Kaltschmidt</orgName>
+                  <noteGrp><note target="wkfm-0325.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0325</note></noteGrp></org>
+                <org xml:id="wkfm__44056">
+                     <orgName>Christian Kaltschmidt sel. Witwe</orgName>
+                  <noteGrp><note target="wkfm-0325.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0325</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

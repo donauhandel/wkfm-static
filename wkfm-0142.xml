@@ -88,15 +88,12 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47312">
-                     <orgName>Anton Piwanko</orgName>
-                  <noteGrp><note target="wkfm-0142.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0142</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__43881">
+    <back><listPerson><person xml:id="wkfm__43881">
                      <persName>
                         <forename>Anton</forename>
                         <surname>Piwanko</surname>
-                        <surname type="alt">Biwanckho</surname>
                         <surname type="alt">Piwankho</surname>
+                        <surname type="alt">Biwanckho</surname>
                      </persName>                    
                      <residence type="Geschäftsadresse">
                         <placeName>Bei der Stadt Belgrad in der Kärntnerstraße (Calender 1723)</placeName>
@@ -117,5 +114,8 @@
                         <bibl>Huchler, Bürgeraufnamen, 349 (14. März 1718: &amp;#34;Biwanckho&amp;#34;).&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0142.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0142</note><note target="wkfm-0143.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0143</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47312">
+                     <orgName>Anton Piwanko</orgName>
+                  <noteGrp><note target="wkfm-0142.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0142</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

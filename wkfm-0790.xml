@@ -115,23 +115,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47159">
-                     <persName>
-                        <forename>Maria Eleonora</forename>
-                        <surname>Mayrhoferin</surname>
-                        <surname type="alt">Fläschitz</surname>
-                        <surname type="alt">Stellmacher</surname>
-                     </persName>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsfrau</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-0789.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0789</note><note target="wkfm-0790.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0790</note></noteGrp></person>
-                <person xml:id="wkfm__47162">
+    <back><listPerson><person xml:id="wkfm__47162">
                      <persName>
                         <forename>Konrad</forename>
                         <surname>Schick</surname>
@@ -145,8 +129,8 @@
                      <persName>
                         <forename>Johann Peter</forename>
                         <surname>Fläschitz</surname>
-                        <surname type="alt">Flaschitz</surname>
                         <surname type="alt">Flatschitz</surname>
+                        <surname type="alt">Flaschitz</surname>
                      </persName>
                      <death><date>1766</date></death>                    
                      <residence type="Geschäftsadresse">
@@ -166,6 +150,22 @@
                      <listBibl>
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 377.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
+               <noteGrp><note target="wkfm-0789.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0789</note><note target="wkfm-0790.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0790</note></noteGrp></person>
+                <person xml:id="wkfm__47159">
+                     <persName>
+                        <forename>Maria Eleonora</forename>
+                        <surname>Mayrhoferin</surname>
+                        <surname type="alt">Fläschitz</surname>
+                        <surname type="alt">Stellmacher</surname>
+                     </persName>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsfrau</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0789.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0789</note><note target="wkfm-0790.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0790</note></noteGrp></person>
                 </listPerson><listOrg><org xml:id="wkfm__47157">
                      <orgName>Michael Schick sel. Erben &amp; Co.</orgName>

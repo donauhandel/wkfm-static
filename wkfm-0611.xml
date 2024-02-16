@@ -128,10 +128,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46297">
-                     <orgName>Franz Joseph Dick</orgName>
-                  <noteGrp><note target="wkfm-0611.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0611</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__37701">
+    <back><listPerson><person xml:id="wkfm__37701">
                      <persName>
                         <forename>Philipp Joseph</forename>
                         <surname>Langwider</surname>
@@ -177,5 +174,8 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0611.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0611</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46297">
+                     <orgName>Franz Joseph Dick</orgName>
+                  <noteGrp><note target="wkfm-0611.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0611</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

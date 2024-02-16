@@ -88,10 +88,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47343">
-                     <orgName>Andreas Pöttenberger</orgName>
-                  <noteGrp><note target="wkfm-0202.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0202</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__22697">
+    <back><listPerson><person xml:id="wkfm__22697">
                      <persName>
                         <forename>Andre</forename>
                         <surname>Pöttenberger</surname>
@@ -110,5 +107,8 @@
                         <bibl>Huchler, Bürgeraufnahmen,&amp;amp;nbsp;489.</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0202.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0202</note><note target="wkfm-0203.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0203</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47343">
+                     <orgName>Andreas Pöttenberger</orgName>
+                  <noteGrp><note target="wkfm-0202.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0202</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

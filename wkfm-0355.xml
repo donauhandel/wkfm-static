@@ -95,23 +95,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__18491">
-                     <persName>
-                        <forename>None</forename>
-                        <surname>Kern</surname>
-                     </persName>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsfrau</occupation>
-               <noteGrp><note target="wkfm-0355.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0355</note></noteGrp></person>
-                <person xml:id="wkfm__28228">
-                     <persName>
-                        <forename>Johann Kaspar</forename>
-                        <surname>Kern</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-0355.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0355</note></noteGrp></person>
-                <person xml:id="wkfm__2848">
+    <back><listPerson><person xml:id="wkfm__2848">
                      <persName>
                         <forename>Matthias</forename>
                         <surname>Kern</surname>
@@ -129,6 +113,22 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                <noteGrp><note target="wkfm-0355.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0355</note><note target="wkfm-0356.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0356</note></noteGrp></person>
+                <person xml:id="wkfm__28228">
+                     <persName>
+                        <forename>Johann Kaspar</forename>
+                        <surname>Kern</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0355.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0355</note></noteGrp></person>
+                <person xml:id="wkfm__18491">
+                     <persName>
+                        <forename>None</forename>
+                        <surname>Kern</surname>
+                     </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsfrau</occupation>
+               <noteGrp><note target="wkfm-0355.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0355</note></noteGrp></person>
                 </listPerson><listOrg><org xml:id="wkfm__47211">
                      <orgName>Matthias Kern</orgName>
                   <noteGrp><note target="wkfm-0355.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0355</note></noteGrp></org>

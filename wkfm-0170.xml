@@ -92,7 +92,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47327" sameAs="#wkfm__9675 ">
+    <back><listOrg><org xml:id="wkfm__47328">
+                     <orgName>Johann Michael Pöck</orgName>
+                  <noteGrp><note target="wkfm-0170.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0170</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__47327" sameAs="#wkfm__9675 ">
                      <persName>
                         <forename>Johann Michael</forename>
                         <surname>Pöck</surname>
@@ -115,8 +118,5 @@
                      <occupation type="aemter">Vorsteher der bürgerl. Handelsleute</occupation>
                      <occupation type="aemter">Senior des bürgerl. Handelsstands</occupation>
                <noteGrp><note target="wkfm-0170.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0170</note><note target="wkfm-0171.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0171</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__47328">
-                     <orgName>Johann Michael Pöck</orgName>
-                  <noteGrp><note target="wkfm-0170.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0170</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

@@ -91,13 +91,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46613">
-                     <orgName>Isaak Arnsteiner</orgName>
-                  <noteGrp><note target="wkfm-1855.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1855</note></noteGrp></org>
-                <org xml:id="wkfm__43819">
-                     <orgName>Isaak Arnsteiner sel. Erben</orgName>
-                  <noteGrp><note target="wkfm-1855.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1855</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__8271">
+    <back><listPerson><person xml:id="wkfm__8271">
                      <persName>
                         <forename>Isaak</forename>
                         <surname>Arnsteiner</surname>
@@ -114,5 +108,11 @@
                         <bibl>Wachstein, Die Wiener Juden in Handel und Industrie.</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1855.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1855</note><note target="wkfm-1856.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1856</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__43819">
+                     <orgName>Isaak Arnsteiner sel. Erben</orgName>
+                  <noteGrp><note target="wkfm-1855.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1855</note></noteGrp></org>
+                <org xml:id="wkfm__46613">
+                     <orgName>Isaak Arnsteiner</orgName>
+                  <noteGrp><note target="wkfm-1855.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1855</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

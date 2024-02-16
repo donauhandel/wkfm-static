@@ -90,10 +90,17 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46788">
-                     <orgName>Johann Lüders</orgName>
-                  <noteGrp><note target="wkfm-1115.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1115</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__26314">
+    <back><listPerson><person xml:id="wkfm__46789">
+                     <persName>
+                        <forename>Johann Samuel</forename>
+                        <surname>Bößler</surname>
+                     </persName>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Angestellter bei Johann Lüders</occupation>
+               <noteGrp><note target="wkfm-1115.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1115</note></noteGrp></person>
+                <person xml:id="wkfm__26314">
                      <persName>
                         <forename>Johann</forename>
                         <surname>Lüders</surname>
@@ -104,15 +111,8 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
                <noteGrp><note target="wkfm-1115.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1115</note></noteGrp></person>
-                <person xml:id="wkfm__46789">
-                     <persName>
-                        <forename>Johann Samuel</forename>
-                        <surname>Bößler</surname>
-                     </persName>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Angestellter bei Johann Lüders</occupation>
-               <noteGrp><note target="wkfm-1115.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1115</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46788">
+                     <orgName>Johann Lüders</orgName>
+                  <noteGrp><note target="wkfm-1115.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1115</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

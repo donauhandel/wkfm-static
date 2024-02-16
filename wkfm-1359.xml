@@ -90,7 +90,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__20834">
+    <back><listOrg><org xml:id="wkfm__46680">
+                     <orgName>Johann Michael Rieder sel. Witwe</orgName>
+                  <noteGrp><note target="wkfm-1359.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1359</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__20834">
                      <persName>
                         <forename>None</forename>
                         <surname>None</surname>
@@ -101,8 +104,5 @@
                      <occupation>Handelsfrau, Leinwandhändlerin</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
                <noteGrp><note target="wkfm-1359.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1359</note><note target="wkfm-1360.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1360</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46680">
-                     <orgName>Johann Michael Rieder sel. Witwe</orgName>
-                  <noteGrp><note target="wkfm-1359.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1359</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

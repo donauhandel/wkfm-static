@@ -88,7 +88,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__12565">
+    <back><listOrg><org xml:id="wkfm__47344">
+                     <orgName>Andreas Praun</orgName>
+                  <noteGrp><note target="wkfm-0204.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0204</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__12565">
                      <persName>
                         <forename>Andre</forename>
                         <surname>Praun</surname>
@@ -108,8 +111,5 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 351 (Juli 1733: &amp;#34;Braun&amp;#34;).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0204.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0204</note><note target="wkfm-0205.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0205</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__47344">
-                     <orgName>Andreas Praun</orgName>
-                  <noteGrp><note target="wkfm-0204.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0204</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

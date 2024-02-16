@@ -88,10 +88,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46864">
-                     <orgName>Michael Munier</orgName>
-                  <noteGrp><note target="wkfm-1205.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1205</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__8405">
+    <back><listPerson><person xml:id="wkfm__8405">
                      <persName>
                         <forename>Michael</forename>
                         <surname>Munier</surname>
@@ -712,5 +709,8 @@
 &amp;lt;![endif]--&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1205.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1205</note><note target="wkfm-1206.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1206</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46864">
+                     <orgName>Michael Munier</orgName>
+                  <noteGrp><note target="wkfm-1205.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1205</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

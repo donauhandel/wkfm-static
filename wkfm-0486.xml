@@ -135,38 +135,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43887">
-                     <persName>
-                        <forename>Franz</forename>
-                        <surname>Kleinrath</surname>
-                     </persName>
-                     <death><date>1761</date></death>
-                     <affiliation>
-                        <orgName key="#wkfm__43885">Johann Franz Prager sel. Witwe und Kleinrath</orgName>
-                     </affiliation>                    
-                     <residence type="Geschäftsadresse">
-                        <placeName>Zur Weißen Taube auf dem Graben (Calender 1758)</placeName>
-                     </residence>
-                     <residence type="Bürgerrecht">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-0155.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0155</note><note target="wkfm-0485.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0485</note><note target="wkfm-0486.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0486</note></noteGrp></person>
-                <person xml:id="wkfm__46179">
-                     <persName>
-                        <forename>Anna Maria</forename>
-                        <surname>Pragerin</surname>
-                        <surname type="alt">Kleinrath</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-0486.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0486</note></noteGrp></person>
-                <person xml:id="wkfm__9548">
+    <back><listPerson><person xml:id="wkfm__9548">
                      <persName>
                         <forename>Johann Franz</forename>
                         <surname>Prager</surname>
@@ -202,5 +171,36 @@
                      <occupation>Handelsfrau</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0155.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0155</note><note target="wkfm-0485.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0485</note><note target="wkfm-0486.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0486</note></noteGrp></person>
+                <person xml:id="wkfm__43887">
+                     <persName>
+                        <forename>Franz</forename>
+                        <surname>Kleinrath</surname>
+                     </persName>
+                     <death><date>1761</date></death>
+                     <affiliation>
+                        <orgName key="#wkfm__43885">Johann Franz Prager sel. Witwe und Kleinrath</orgName>
+                     </affiliation>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zur Weißen Taube auf dem Graben (Calender 1758)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-0155.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0155</note><note target="wkfm-0485.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0485</note><note target="wkfm-0486.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0486</note></noteGrp></person>
+                <person xml:id="wkfm__46179">
+                     <persName>
+                        <forename>Anna Maria</forename>
+                        <surname>Pragerin</surname>
+                        <surname type="alt">Kleinrath</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0486.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0486</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

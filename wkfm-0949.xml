@@ -171,11 +171,11 @@
                      <occupation>Handelsfrau</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0949.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0949</note><note target="wkfm-0950.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0950</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46453">
-                     <orgName>Joseph Höcksteiner sel. Witwe und Sohn</orgName>
-                  <listPerson type="affiliated"><person><persName key="#wkfm__46454">Höcksteiner, Franz Karl</persName></person></listPerson><noteGrp><note target="wkfm-0949.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0949</note><note target="wkfm-0950.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0950</note><note target="wkfm-1809.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1809</note></noteGrp></org>
-                <org xml:id="wkfm__46452">
+                </listPerson><listOrg><org xml:id="wkfm__46452">
                      <orgName>Joseph Höcksteiner</orgName>
                   <noteGrp><note target="wkfm-0949.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0949</note><note target="wkfm-0950.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0950</note></noteGrp></org>
+                <org xml:id="wkfm__46453">
+                     <orgName>Joseph Höcksteiner sel. Witwe und Sohn</orgName>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__46454">Höcksteiner, Franz Karl</persName></person></listPerson><noteGrp><note target="wkfm-0949.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0949</note><note target="wkfm-0950.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0950</note><note target="wkfm-1809.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1809</note></noteGrp></org>
                 </listOrg></back></text>
 </TEI>

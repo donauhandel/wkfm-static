@@ -33,7 +33,7 @@
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when="2023">2023</date>
+            <date when="2024-02-11">2024-02-11</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>
@@ -57,7 +57,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2024-01-29">template populated with script "create_listorg.py"</change>
+         <change who="pandorfer" when="2024-02-11">template populated with script "create_listorg.py"</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -267,7 +267,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   </org>
                 <org xml:id="wkfm__13208">
                      <orgName>Peisser und Rigotti</orgName>
-                  <listPerson type="affiliated"><person><persName key="#wkfm__5636">Rigotti, Hieronymus</persName></person><person><persName key="#wkfm__4646">Peisser, Joseph</persName></person></listPerson><noteGrp><note target="wkfm-0196.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0196</note><note target="wkfm-1405.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1405</note><note target="wkfm-1406.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1406</note></noteGrp></org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__4646">Peisser, Joseph</persName></person><person><persName key="#wkfm__5636">Rigotti, Hieronymus</persName></person></listPerson><noteGrp><note target="wkfm-0196.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0196</note><note target="wkfm-1405.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1405</note><note target="wkfm-1406.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1406</note></noteGrp></org>
                 <org xml:id="wkfm__13303">
                      <orgName>Paul Schedlberger sel. Erben</orgName>
                   </org>
@@ -330,7 +330,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   <noteGrp><note target="wkfm-0237.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0237</note></noteGrp></org>
                 <org xml:id="wkfm__17119">
                      <orgName>Gebrüder Orset</orgName>
-                  <listPerson type="affiliated"><person><persName key="#wkfm__43854">Orset, Niklas Michael</persName></person><person><persName key="#wkfm__15430">Orset, Johann</persName></person></listPerson><noteGrp><note target="wkfm-1331.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1331</note><note target="wkfm-1332.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1332</note><note target="wkfm-1333.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1333</note><note target="wkfm-1334.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1334</note></noteGrp></org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__15430">Orset, Johann</persName></person><person><persName key="#wkfm__43854">Orset, Niklas Michael</persName></person></listPerson><noteGrp><note target="wkfm-1331.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1331</note><note target="wkfm-1332.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1332</note><note target="wkfm-1333.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1333</note><note target="wkfm-1334.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1334</note></noteGrp></org>
                 <org xml:id="wkfm__17566">
                      <orgName>Martin und Raffeseder</orgName>
                   <noteGrp><note target="wkfm-1225.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1225</note><note target="wkfm-1226.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1226</note></noteGrp></org>
@@ -780,7 +780,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   <noteGrp><note target="wkfm-0299.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0299</note><note target="wkfm-1437.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1437</note><note target="wkfm-1438.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1438</note><note target="wkfm-1693.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1693</note></noteGrp></org>
                 <org xml:id="wkfm__44011">
                      <orgName>Karl Barbieri sel. Söhne und Erben, Barbieri sel. Söhne</orgName>
-                  <listPerson type="affiliated"><person><persName key="#wkfm__44015">Barbieri, Ignaz</persName></person><person><persName key="#wkfm__44012">Barbieri, Anton</persName></person></listPerson><noteGrp><note target="wkfm-0305.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0305</note><note target="wkfm-0306.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0306</note><note target="wkfm-1685.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1685</note></noteGrp></org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__44012">Barbieri, Anton</persName></person><person><persName key="#wkfm__44015">Barbieri, Ignaz</persName></person></listPerson><noteGrp><note target="wkfm-0305.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0305</note><note target="wkfm-0306.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0306</note><note target="wkfm-1685.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1685</note></noteGrp></org>
                 <org xml:id="wkfm__44048">
                      <orgName>Zacharias Kriner, Schmidt &amp; Co.</orgName>
                   <noteGrp><note target="wkfm-0321.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0321</note><note target="wkfm-0322.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0322</note><note target="wkfm-1667.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1667</note><note target="wkfm-1668.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1668</note><note target="wkfm-1669.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1669</note><note target="wkfm-1670.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1670</note></noteGrp></org>

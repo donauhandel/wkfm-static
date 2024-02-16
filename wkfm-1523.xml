@@ -90,10 +90,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47440">
-                     <orgName>Johann Georg Scharnagl</orgName>
-                  <noteGrp><note target="wkfm-1523.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1523</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__18219" sameAs="#wkfm__25080 ">
+    <back><listPerson><person xml:id="wkfm__18219" sameAs="#wkfm__25080 ">
                      <persName>
                         <forename>Johann Georg</forename>
                         <surname>Scharnagl</surname>
@@ -117,5 +114,8 @@
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 511.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1523.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1523</note><note target="wkfm-1524.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1524</note><note target="wkfm-1665.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1665</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47440">
+                     <orgName>Johann Georg Scharnagl</orgName>
+                  <noteGrp><note target="wkfm-1523.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1523</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

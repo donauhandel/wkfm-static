@@ -85,10 +85,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46787">
-                     <orgName>Philibert Legoux</orgName>
-                  <noteGrp><note target="wkfm-1113.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1113</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__8266">
+    <back><listPerson><person xml:id="wkfm__8266">
                      <persName>
                         <forename>Philipp</forename>
                         <surname>Le Goux</surname>
@@ -100,5 +97,8 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                <noteGrp><note target="wkfm-1113.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1113</note><note target="wkfm-1114.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1114</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46787">
+                     <orgName>Philibert Legoux</orgName>
+                  <noteGrp><note target="wkfm-1113.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1113</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

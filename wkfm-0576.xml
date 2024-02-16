@@ -150,55 +150,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__20159">
-                     <orgName>Decret und Crettier</orgName>
-                  <noteGrp><note target="wkfm-0575.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0575</note><note target="wkfm-0576.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0576</note></noteGrp></org>
-                <org xml:id="wkfm__46255">
-                     <orgName>Decret, Crettier und Ducrue</orgName>
-                  <noteGrp><note target="wkfm-0576.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0576</note></noteGrp></org>
-                <org xml:id="wkfm__46251">
-                     <orgName>Gebrüder Decret</orgName>
-                  <noteGrp><note target="wkfm-0575.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0575</note><note target="wkfm-0576.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0576</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__46150" sameAs="#wkfm__35989 ">
-                     <persName>
-                        <forename>Wilhelm</forename>
-                        <forename type="alt">Guillaume</forename>
-                        <surname>Crettier</surname>
-                     </persName>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__40">Augsburg</placeName>
-                     <location type="coords"><geo>48.37138888888889 10.898333333333333</geo></location></residence>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geburtsort">
-                        <placeName key="#wkfm-place__2502">Arâches-la-Frasse</placeName>
-                     </residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-                     <listBibl>
-                        <bibl>&amp;lt;span&amp;gt;Raynaud, Savoyardische Einwanderungen, 155.&amp;lt;/span&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-0457.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0457</note><note target="wkfm-0458.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0458</note><note target="wkfm-0576.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0576</note></noteGrp></person>
-                <person xml:id="wkfm__46250">
-                     <persName>
-                        <forename>Ludwig</forename>
-                        <surname>Decret</surname>
-                     </persName>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-               <noteGrp><note target="wkfm-0575.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0575</note><note target="wkfm-0576.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0576</note><note target="wkfm-1701.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1701</note></noteGrp></person>
-                <person xml:id="wkfm__46252">
-                     <persName>
-                        <forename>Maria</forename>
-                        <surname>Saliet</surname>
-                        <surname type="alt">Salliet</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-0576.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0576</note></noteGrp></person>
-                <person xml:id="wkfm__29551">
+    <back><listPerson><person xml:id="wkfm__29551">
                      <persName>
                         <forename>Franz</forename>
                         <surname>Decret</surname>
@@ -240,6 +192,17 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Raynaud, Savoyardische Einwanderungen, 160.&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0576.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0576</note></noteGrp></person>
+                <person xml:id="wkfm__46250">
+                     <persName>
+                        <forename>Ludwig</forename>
+                        <surname>Decret</surname>
+                     </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+               <noteGrp><note target="wkfm-0575.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0575</note><note target="wkfm-0576.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0576</note><note target="wkfm-1701.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1701</note></noteGrp></person>
                 <person xml:id="wkfm__46253">
                      <persName>
                         <forename>Aimé</forename>
@@ -258,5 +221,42 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                         <bibl>Raynaud, Savoyardische Einwanderungen, 155.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0576.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0576</note></noteGrp></person>
-                </listPerson></back></text>
+                <person xml:id="wkfm__46252">
+                     <persName>
+                        <forename>Maria</forename>
+                        <surname>Saliet</surname>
+                        <surname type="alt">Salliet</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0576.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0576</note></noteGrp></person>
+                <person xml:id="wkfm__46150" sameAs="#wkfm__35989 ">
+                     <persName>
+                        <forename>Wilhelm</forename>
+                        <forename type="alt">Guillaume</forename>
+                        <surname>Crettier</surname>
+                     </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__40">Augsburg</placeName>
+                     <location type="coords"><geo>48.37138888888889 10.898333333333333</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geburtsort">
+                        <placeName key="#wkfm-place__2502">Arâches-la-Frasse</placeName>
+                     </residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+                     <listBibl>
+                        <bibl>&amp;lt;span&amp;gt;Raynaud, Savoyardische Einwanderungen, 155.&amp;lt;/span&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0457.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0457</note><note target="wkfm-0458.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0458</note><note target="wkfm-0576.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0576</note></noteGrp></person>
+                </listPerson><listOrg><org xml:id="wkfm__20159">
+                     <orgName>Decret und Crettier</orgName>
+                  <noteGrp><note target="wkfm-0575.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0575</note><note target="wkfm-0576.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0576</note></noteGrp></org>
+                <org xml:id="wkfm__46251">
+                     <orgName>Gebrüder Decret</orgName>
+                  <noteGrp><note target="wkfm-0575.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0575</note><note target="wkfm-0576.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0576</note></noteGrp></org>
+                <org xml:id="wkfm__46255">
+                     <orgName>Decret, Crettier und Ducrue</orgName>
+                  <noteGrp><note target="wkfm-0576.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0576</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

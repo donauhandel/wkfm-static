@@ -88,7 +88,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__14199">
+    <back><listOrg><org xml:id="wkfm__47091">
+                     <orgName>Johann Fritsch</orgName>
+                  <noteGrp><note target="wkfm-0723.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0723</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__14199">
                      <persName>
                         <forename>Johann</forename>
                         <surname>Fritsch</surname>
@@ -106,8 +109,5 @@
                      <occupation>Eisenhändler</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0723.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0723</note><note target="wkfm-0724.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0724</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__47091">
-                     <orgName>Johann Fritsch</orgName>
-                  <noteGrp><note target="wkfm-0723.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0723</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

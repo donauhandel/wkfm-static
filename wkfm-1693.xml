@@ -112,7 +112,38 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__42662">
+    <back><listOrg><org xml:id="wkfm__43944">
+                     <orgName>Passy, Perinet &amp; Co.</orgName>
+                  <noteGrp><note target="wkfm-0251.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0251</note><note target="wkfm-0252.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0252</note><note target="wkfm-1693.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1693</note></noteGrp></org>
+                <org xml:id="wkfm__47604">
+                     <orgName>Johann Georg Steyrer</orgName>
+                  <noteGrp><note target="wkfm-1693.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1693</note></noteGrp></org>
+                <org xml:id="wkfm__43988">
+                     <orgName>Gebrüder Ruard</orgName>
+                  <noteGrp><note target="wkfm-0299.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0299</note><note target="wkfm-1437.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1437</note><note target="wkfm-1438.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1438</note><note target="wkfm-1693.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1693</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__47043">
+                     <persName>
+                        <forename>Johann Andre</forename>
+                        <surname>Weygant</surname>
+                        <surname type="alt">Weigant</surname>
+                     </persName>
+                     <death><date>1787</date></death>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Beim Weißen Rössel zu Mariahilf (Calender 1758)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-1693.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1693</note><note target="wkfm-1817.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1817</note><note target="wkfm-1818.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1818</note></noteGrp></person>
+                <person xml:id="wkfm__42662">
                      <persName>
                         <forename>Franz Ignaz</forename>
                         <surname>Kurz</surname>
@@ -137,49 +168,6 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 440.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0455.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0455</note><note target="wkfm-1433.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1433</note><note target="wkfm-1681.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1681</note><note target="wkfm-1693.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1693</note></noteGrp></person>
-                <person xml:id="wkfm__47603">
-                     <persName>
-                        <forename>Johann Georg</forename>
-                        <surname>Steyrer</surname>
-                     </persName>
-                     <death><date>1780</date></death>                    
-                     <residence type="Geschäftsadresse">
-                        <placeName>Zum Weißen Berg auf dem Graben (Calender 1758)</placeName>
-                     </residence>
-                     <residence type="Bürgerrecht">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-1693.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1693</note></noteGrp></person>
-                <person xml:id="wkfm__47043">
-                     <persName>
-                        <forename>Johann Andre</forename>
-                        <surname>Weygant</surname>
-                        <surname type="alt">Weigant</surname>
-                     </persName>
-                     <death><date>1787</date></death>                    
-                     <residence type="Geschäftsadresse">
-                        <placeName>Beim Weißen Rössel zu Mariahilf (Calender 1758)</placeName>
-                     </residence>
-                     <residence type="Bürgerrecht">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-1693.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1693</note><note target="wkfm-1817.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1817</note><note target="wkfm-1818.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1818</note></noteGrp></person>
                 <person xml:id="wkfm__46174">
                      <persName>
                         <forename>Franz Anton</forename>
@@ -201,14 +189,26 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0481.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0481</note><note target="wkfm-0482.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0482</note><note target="wkfm-1693.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1693</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__43988">
-                     <orgName>Gebrüder Ruard</orgName>
-                  <noteGrp><note target="wkfm-0299.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0299</note><note target="wkfm-1437.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1437</note><note target="wkfm-1438.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1438</note><note target="wkfm-1693.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1693</note></noteGrp></org>
-                <org xml:id="wkfm__47604">
-                     <orgName>Johann Georg Steyrer</orgName>
-                  <noteGrp><note target="wkfm-1693.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1693</note></noteGrp></org>
-                <org xml:id="wkfm__43944">
-                     <orgName>Passy, Perinet &amp; Co.</orgName>
-                  <noteGrp><note target="wkfm-0251.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0251</note><note target="wkfm-0252.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0252</note><note target="wkfm-1693.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1693</note></noteGrp></org>
-                </listOrg></back></text>
+                <person xml:id="wkfm__47603">
+                     <persName>
+                        <forename>Johann Georg</forename>
+                        <surname>Steyrer</surname>
+                     </persName>
+                     <death><date>1780</date></death>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zum Weißen Berg auf dem Graben (Calender 1758)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-1693.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1693</note></noteGrp></person>
+                </listPerson></back></text>
 </TEI>

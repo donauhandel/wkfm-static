@@ -166,6 +166,6 @@
                <noteGrp><note target="wkfm-0305.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0305</note><note target="wkfm-0306.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0306</note></noteGrp></person>
                 </listPerson><listOrg><org xml:id="wkfm__44011">
                      <orgName>Karl Barbieri sel. Söhne und Erben, Barbieri sel. Söhne</orgName>
-                  <listPerson type="affiliated"><person><persName key="#wkfm__44015">Barbieri, Ignaz</persName></person><person><persName key="#wkfm__44012">Barbieri, Anton</persName></person></listPerson><noteGrp><note target="wkfm-0305.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0305</note><note target="wkfm-0306.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0306</note><note target="wkfm-1685.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1685</note></noteGrp></org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__44012">Barbieri, Anton</persName></person><person><persName key="#wkfm__44015">Barbieri, Ignaz</persName></person></listPerson><noteGrp><note target="wkfm-0305.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0305</note><note target="wkfm-0306.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0306</note><note target="wkfm-1685.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1685</note></noteGrp></org>
                 </listOrg></back></text>
 </TEI>

@@ -90,7 +90,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46815">
+    <back><listOrg><org xml:id="wkfm__46816">
+                     <orgName>Johann Georg Landerer</orgName>
+                  <noteGrp><note target="wkfm-1147.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1147</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__46815">
                      <persName>
                         <forename>Johann Georg</forename>
                         <surname>Landerer</surname>
@@ -110,8 +113,5 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 441.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1147.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1147</note><note target="wkfm-1148.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1148</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46816">
-                     <orgName>Johann Georg Landerer</orgName>
-                  <noteGrp><note target="wkfm-1147.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1147</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

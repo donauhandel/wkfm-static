@@ -90,7 +90,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__14321" sameAs="#wkfm__8919 wkfm__28121 ">
+    <back><listOrg><org xml:id="wkfm__46300">
+                     <orgName>Johann Wilhelm Gestefeld</orgName>
+                  <noteGrp><note target="wkfm-0817.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0817</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__14321" sameAs="#wkfm__8919 wkfm__28121 ">
                      <persName>
                         <forename>Johann Wilhelm</forename>
                         <surname>Gestefeld</surname>
@@ -103,8 +106,5 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                <noteGrp><note target="wkfm-0817.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0817</note><note target="wkfm-0818.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0818</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46300">
-                     <orgName>Johann Wilhelm Gestefeld</orgName>
-                  <noteGrp><note target="wkfm-0817.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0817</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

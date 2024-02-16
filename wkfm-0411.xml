@@ -90,7 +90,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46126">
+    <back><listOrg><org xml:id="wkfm__47238">
+                     <orgName>Antoine Leopold Courtyn</orgName>
+                  <noteGrp><note target="wkfm-0411.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0411</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__46126">
                      <persName>
                         <forename>Anton Leopold</forename>
                         <forename type="alt">Antoinne Leopold</forename>
@@ -112,8 +115,5 @@
                         <bibl>Huchler, Bürgeraufnahmen, 356 (Februar 1727).&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0411.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0411</note><note target="wkfm-0412.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0412</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__47238">
-                     <orgName>Antoine Leopold Courtyn</orgName>
-                  <noteGrp><note target="wkfm-0411.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0411</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

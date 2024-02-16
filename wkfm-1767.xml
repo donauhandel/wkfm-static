@@ -88,7 +88,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46992">
+    <back><listOrg><org xml:id="wkfm__46993">
+                     <orgName>Benedikt Weigl</orgName>
+                  <noteGrp><note target="wkfm-1767.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1767</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__46992">
                      <persName>
                         <forename>Benedikt</forename>
                         <surname>Weigl</surname>
@@ -109,8 +112,5 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 557.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1767.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1767</note><note target="wkfm-1768.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1768</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46993">
-                     <orgName>Benedikt Weigl</orgName>
-                  <noteGrp><note target="wkfm-1767.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1767</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

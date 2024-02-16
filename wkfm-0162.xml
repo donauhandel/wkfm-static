@@ -88,10 +88,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47322">
-                     <orgName>Leopold Preisinger</orgName>
-                  <noteGrp><note target="wkfm-0162.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0162</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__23646">
+    <back><listPerson><person xml:id="wkfm__23646">
                      <persName>
                         <forename>Leopold</forename>
                         <surname>Preisinger</surname>
@@ -108,5 +105,8 @@
                      <occupation>Leinwandhändler</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0162.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0162</note><note target="wkfm-0163.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0163</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47322">
+                     <orgName>Leopold Preisinger</orgName>
+                  <noteGrp><note target="wkfm-0162.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0162</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

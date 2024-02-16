@@ -89,10 +89,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47401">
-                     <orgName>Martin Schwanner</orgName>
-                  <noteGrp><note target="wkfm-1467.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1467</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__10643">
+    <back><listPerson><person xml:id="wkfm__10643">
                      <persName>
                         <forename>Martin</forename>
                         <surname>Schwanner</surname>
@@ -107,5 +104,8 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
                <noteGrp><note target="wkfm-1467.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1467</note><note target="wkfm-1468.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1468</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47401">
+                     <orgName>Martin Schwanner</orgName>
+                  <noteGrp><note target="wkfm-1467.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1467</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

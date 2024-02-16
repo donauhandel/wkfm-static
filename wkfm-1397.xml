@@ -87,10 +87,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46712">
-                     <orgName>Ferdinand Rädl</orgName>
-                  <noteGrp><note target="wkfm-1397.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1397</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__18686">
+    <back><listPerson><person xml:id="wkfm__18686">
                      <persName>
                         <forename>Ferdinand</forename>
                         <surname>Rädl</surname>
@@ -111,5 +108,8 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 494.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1397.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1397</note><note target="wkfm-1398.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1398</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46712">
+                     <orgName>Ferdinand Rädl</orgName>
+                  <noteGrp><note target="wkfm-1397.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1397</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

@@ -86,7 +86,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47405">
+    <back><listOrg><org xml:id="wkfm__20968">
+                     <orgName>Niklas Saliet &amp; Co.</orgName>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__13222">Saliet, Niklas Nikolaus</persName></person></listPerson><noteGrp><note target="wkfm-1475.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1475</note><note target="wkfm-1476.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1476</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__47405">
                      <persName>
                         <forename>Peter</forename>
                         <surname>Vincent</surname>
@@ -152,8 +155,5 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1475.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1475</note><note target="wkfm-1476.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1476</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__20968">
-                     <orgName>Niklas Saliet &amp; Co.</orgName>
-                  <listPerson type="affiliated"><person><persName key="#wkfm__13222">Saliet, Niklas Nikolaus</persName></person></listPerson><noteGrp><note target="wkfm-1475.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1475</note><note target="wkfm-1476.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1476</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

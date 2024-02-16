@@ -118,7 +118,19 @@
                 <org xml:id="wkfm__46886">
                      <orgName>Christian Münch</orgName>
                   <noteGrp><note target="wkfm-1237.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1237</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__11940" sameAs="#wkfm__25749 ">
+                </listOrg><listPerson><person xml:id="wkfm__46700">
+                     <persName>
+                        <forename>Johann Wilhelm</forename>
+                        <forename type="alt">Adolf Wilhelm</forename>
+                        <surname>Henner</surname>
+                        <surname type="alt">Henne</surname>
+                     </persName>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Prokurist bei Rauner und Münch</occupation>
+               <noteGrp><note target="wkfm-1237.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1237</note><note target="wkfm-1381.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1381</note></noteGrp></person>
+                <person xml:id="wkfm__11940" sameAs="#wkfm__25749 ">
                      <persName>
                         <forename>Christian</forename>
                         <surname>Münch</surname>
@@ -139,17 +151,5 @@
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                      <occupation type="aemter">Ksl. Kupferadministrator</occupation>
                <noteGrp><note target="wkfm-1237.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1237</note><note target="wkfm-1238.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1238</note><note target="wkfm-1382.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1382</note></noteGrp></person>
-                <person xml:id="wkfm__46700">
-                     <persName>
-                        <forename>Johann Wilhelm</forename>
-                        <forename type="alt">Adolf Wilhelm</forename>
-                        <surname>Henner</surname>
-                        <surname type="alt">Henne</surname>
-                     </persName>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Prokurist bei Rauner und Münch</occupation>
-               <noteGrp><note target="wkfm-1237.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1237</note><note target="wkfm-1381.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1381</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

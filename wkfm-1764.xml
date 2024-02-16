@@ -84,7 +84,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__9643">
+    <back><listOrg><org xml:id="wkfm__46988">
+                     <orgName>Johann Jakob Wattau und Pejrand</orgName>
+                  <noteGrp><note target="wkfm-1763.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1763</note><note target="wkfm-1764.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1764</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__9643">
                      <persName>
                         <forename>Johann Jakob</forename>
                         <surname>Wattau</surname>
@@ -117,8 +120,5 @@
                      <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                <noteGrp><note target="wkfm-1764.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1764</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46988">
-                     <orgName>Johann Jakob Wattau und Pejrand</orgName>
-                  <noteGrp><note target="wkfm-1763.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1763</note><note target="wkfm-1764.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1764</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

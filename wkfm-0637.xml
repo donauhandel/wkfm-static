@@ -88,7 +88,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__9401">
+    <back><listOrg><org xml:id="wkfm__46413">
+                     <orgName>Jakob Eggendorfer</orgName>
+                  <noteGrp><note target="wkfm-0637.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0637</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__9401">
                      <persName>
                         <forename>Jakob</forename>
                         <surname>Eggendorfer</surname>
@@ -114,8 +117,5 @@
                         <bibl>Huchler, Bürgeraufnahmen, 368 (&amp;#34;Egendorffer&amp;#34;).&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0637.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0637</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46413">
-                     <orgName>Jakob Eggendorfer</orgName>
-                  <noteGrp><note target="wkfm-0637.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0637</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

@@ -114,18 +114,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__26327">
-                     <persName>
-                        <forename>Franz</forename>
-                        <surname>Setti</surname>
-                     </persName>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">hofbefreit</occupation>
-               <noteGrp><note target="wkfm-0811.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0811</note><note target="wkfm-0812.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0812</note><note target="wkfm-1597.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1597</note><note target="wkfm-1598.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1598</note></noteGrp></person>
-                <person xml:id="wkfm__23727">
+    <back><listPerson><person xml:id="wkfm__23727">
                      <persName>
                         <forename>Ferdinand</forename>
                         <surname>Setti</surname>
@@ -136,6 +125,17 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
                <noteGrp><note target="wkfm-1597.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1597</note><note target="wkfm-1598.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1598</note></noteGrp></person>
+                <person xml:id="wkfm__26327">
+                     <persName>
+                        <forename>Franz</forename>
+                        <surname>Setti</surname>
+                     </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">hofbefreit</occupation>
+               <noteGrp><note target="wkfm-0811.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0811</note><note target="wkfm-0812.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0812</note><note target="wkfm-1597.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1597</note><note target="wkfm-1598.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1598</note></noteGrp></person>
                 <person xml:id="wkfm__8802">
                      <persName>
                         <forename>Lukas Joseph</forename>

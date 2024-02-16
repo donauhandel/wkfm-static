@@ -114,6 +114,34 @@
                         <surname>von Heimerl</surname>
                      </persName>
                <noteGrp><note target="wkfm-0195.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0195</note><note target="wkfm-0934.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0934</note><note target="wkfm-0936.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0936</note></noteGrp></person>
+                <person xml:id="wkfm__24831">
+                     <persName>
+                        <forename>Johann Wolf</forename>
+                        <forename type="alt">Wolfgang</forename>
+                        <forename type="alt">Johann Wolfgang</forename>
+                        <surname>Heimerl</surname>
+                        <surname type="alt">Haymerl</surname>
+                     </persName>
+                     <birth><date>08.03.1672</date></birth>
+                     <death><date>02.05.1747</date></death>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Sterbeort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geburtsort">
+                        <placeName key="#wkfm-place__2545">Plan bei Marienbad</placeName>
+                     </residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__"/>
+                     </residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse"/>
+                     <listBibl>
+                        <bibl>Otto G. Schindler, Johann Wolfgang Hamymerle von Hamythal, in: Alena Jakubcová, Matthias J. Pernerstorfer (Hg.), Theater in Böhmen, Mähren und Schlesien. Von den Anfängen bis zum Ausgang des 18. Jahrhunderts. Ein Lexikon (Theatergeschichte Österreich 10: Donaumonarchie 6, Neu bearbeitete, deutschsprachige Ausgabe Wien 2013) 270-272; Sommer-Mathis, Hoftheater und Hofoper, 176.&amp;lt;br&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0078.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0078</note><note target="wkfm-0079.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0079</note><note target="wkfm-0195.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0195</note><note target="wkfm-0933.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0933</note><note target="wkfm-0934.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0934</note><note target="wkfm-0935.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0935</note><note target="wkfm-0936.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0936</note></noteGrp></person>
                 <person xml:id="wkfm__11795" sameAs="#wkfm__14432 ">
                      <persName>
                         <forename>Philipp Joseph</forename>
@@ -165,34 +193,6 @@ Donaumonarchie 6, Neu bearbeitete, deutschsprachige Ausgabe Wien 2013)
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                <noteGrp><note target="wkfm-0076.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0076</note><note target="wkfm-0077.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0077</note><note target="wkfm-0078.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0078</note><note target="wkfm-0079.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0079</note><note target="wkfm-0933.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0933</note><note target="wkfm-0934.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0934</note><note target="wkfm-0935.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0935</note><note target="wkfm-0936.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0936</note></noteGrp></person>
-                <person xml:id="wkfm__24831">
-                     <persName>
-                        <forename>Johann Wolf</forename>
-                        <forename type="alt">Johann Wolfgang</forename>
-                        <forename type="alt">Wolfgang</forename>
-                        <surname>Heimerl</surname>
-                        <surname type="alt">Haymerl</surname>
-                     </persName>
-                     <birth><date>08.03.1672</date></birth>
-                     <death><date>02.05.1747</date></death>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Sterbeort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geburtsort">
-                        <placeName key="#wkfm-place__2545">Plan bei Marienbad</placeName>
-                     </residence>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__"/>
-                     </residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse"/>
-                     <listBibl>
-                        <bibl>Otto G. Schindler, Johann Wolfgang Hamymerle von Hamythal, in: Alena Jakubcová, Matthias J. Pernerstorfer (Hg.), Theater in Böhmen, Mähren und Schlesien. Von den Anfängen bis zum Ausgang des 18. Jahrhunderts. Ein Lexikon (Theatergeschichte Österreich 10: Donaumonarchie 6, Neu bearbeitete, deutschsprachige Ausgabe Wien 2013) 270-272; Sommer-Mathis, Hoftheater und Hofoper, 176.&amp;lt;br&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-0078.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0078</note><note target="wkfm-0079.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0079</note><note target="wkfm-0195.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0195</note><note target="wkfm-0933.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0933</note><note target="wkfm-0934.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0934</note><note target="wkfm-0935.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0935</note><note target="wkfm-0936.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0936</note></noteGrp></person>
                 </listPerson><listOrg><org xml:id="wkfm__13569">
                      <orgName>Butterna und Heimerl</orgName>
                   <noteGrp><note target="wkfm-0078.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0078</note><note target="wkfm-0079.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0079</note><note target="wkfm-0933.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0933</note><note target="wkfm-0934.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0934</note><note target="wkfm-0935.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0935</note><note target="wkfm-0936.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0936</note></noteGrp></org>

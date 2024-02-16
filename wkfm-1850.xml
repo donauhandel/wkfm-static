@@ -96,14 +96,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43866">
-                     <persName>
-                        <forename>Anna Maria</forename>
-                        <surname>Assolin</surname>
-                        <surname type="alt">Zacher</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-1849.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1849</note><note target="wkfm-1850.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1850</note></noteGrp></person>
-                <person xml:id="wkfm__43865">
+    <back><listPerson><person xml:id="wkfm__43865">
                      <persName>
                         <forename>Matthias</forename>
                         <surname>Zacher</surname>
@@ -127,6 +120,13 @@
                      <listBibl>
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 569.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
+               <noteGrp><note target="wkfm-1849.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1849</note><note target="wkfm-1850.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1850</note></noteGrp></person>
+                <person xml:id="wkfm__43866">
+                     <persName>
+                        <forename>Anna Maria</forename>
+                        <surname>Assolin</surname>
+                        <surname type="alt">Zacher</surname>
+                     </persName>
                <noteGrp><note target="wkfm-1849.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1849</note><note target="wkfm-1850.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1850</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

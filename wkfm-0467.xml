@@ -103,13 +103,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46166">
-                     <persName>
-                        <forename>Theresia</forename>
-                        <surname>Kroyss</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-0467.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0467</note></noteGrp></person>
-                <person xml:id="wkfm__46165">
+    <back><listPerson><person xml:id="wkfm__46165">
                      <persName>
                         <forename>Franz Joseph</forename>
                         <surname>Kroyss</surname>
@@ -134,6 +128,12 @@
                      <listBibl>
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 438 (Dezember 1746).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
+               <noteGrp><note target="wkfm-0467.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0467</note></noteGrp></person>
+                <person xml:id="wkfm__46166">
+                     <persName>
+                        <forename>Theresia</forename>
+                        <surname>Kroyss</surname>
+                     </persName>
                <noteGrp><note target="wkfm-0467.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0467</note></noteGrp></person>
                 <person xml:id="wkfm__8802">
                      <persName>

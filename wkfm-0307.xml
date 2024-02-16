@@ -117,13 +117,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__44034">
-                     <persName>
-                        <forename>Heinrich</forename>
-                        <surname>Eibl</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-0307.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0307</note></noteGrp></person>
-                <person xml:id="wkfm__44025">
+    <back><listPerson><person xml:id="wkfm__44025">
                      <persName>
                         <forename>Paul</forename>
                         <forename type="alt">Johann Paul</forename>
@@ -144,6 +138,12 @@
                      <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann, ehemaliger Angestellter des Johann Sebastian Eibl</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-0307.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0307</note></noteGrp></person>
+                <person xml:id="wkfm__44034">
+                     <persName>
+                        <forename>Heinrich</forename>
+                        <surname>Eibl</surname>
+                     </persName>
                <noteGrp><note target="wkfm-0307.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0307</note></noteGrp></person>
                 <person xml:id="wkfm__24258" sameAs="#wkfm__22866 ">
                      <persName>

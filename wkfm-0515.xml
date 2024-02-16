@@ -99,17 +99,7 @@
     <back><listOrg><org xml:id="wkfm__46200">
                      <orgName>Johann Michael Dietmann</orgName>
                   <noteGrp><note target="wkfm-0515.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0515</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__46201" sameAs="#wkfm__11692 ">
-                     <persName>
-                        <forename>Jakob</forename>
-                        <surname>Schmidt</surname>
-                     </persName>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Angestellter und Prokurist des Johann Michael Dietmann</occupation>
-               <noteGrp><note target="wkfm-0515.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0515</note></noteGrp></person>
-                <person xml:id="wkfm__10359" sameAs="#wkfm__17863 ">
+                </listOrg><listPerson><person xml:id="wkfm__10359" sameAs="#wkfm__17863 ">
                      <persName>
                         <forename>Johann Michael</forename>
                         <surname>Dietmann</surname>
@@ -137,5 +127,15 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 362.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0515.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0515</note><note target="wkfm-0516.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0516</note></noteGrp></person>
+                <person xml:id="wkfm__46201" sameAs="#wkfm__11692 ">
+                     <persName>
+                        <forename>Jakob</forename>
+                        <surname>Schmidt</surname>
+                     </persName>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Angestellter und Prokurist des Johann Michael Dietmann</occupation>
+               <noteGrp><note target="wkfm-0515.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0515</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

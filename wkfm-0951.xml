@@ -133,11 +133,11 @@
                      <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Kassier und Prokurist des Johann Jakob Hauzenberger</occupation>
                <noteGrp><note target="wkfm-0951.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0951</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46457">
-                     <orgName>Johann Jakob Hauzenberger</orgName>
-                  <noteGrp><note target="wkfm-0951.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0951</note></noteGrp></org>
-                <org xml:id="wkfm__16778">
+                </listPerson><listOrg><org xml:id="wkfm__16778">
                      <orgName>Gaun und Zanchoni</orgName>
+                  <noteGrp><note target="wkfm-0951.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0951</note></noteGrp></org>
+                <org xml:id="wkfm__46457">
+                     <orgName>Johann Jakob Hauzenberger</orgName>
                   <noteGrp><note target="wkfm-0951.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0951</note></noteGrp></org>
                 </listOrg></back></text>
 </TEI>
