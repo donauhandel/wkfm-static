@@ -112,13 +112,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__8334">
-                     <orgName>Rauner und Münch</orgName>
-                  <noteGrp><note target="wkfm-1237.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1237</note><note target="wkfm-1238.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1238</note><note target="wkfm-1381.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1381</note><note target="wkfm-1382.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1382</note></noteGrp></org>
-                <org xml:id="wkfm__46886">
-                     <orgName>Christian Münch</orgName>
-                  <noteGrp><note target="wkfm-1237.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1237</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__46700">
+    <back><listPerson><person xml:id="wkfm__46700">
                      <persName>
                         <forename>Johann Wilhelm</forename>
                         <forename type="alt">Adolf Wilhelm</forename>
@@ -151,5 +145,11 @@
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                      <occupation type="aemter">Ksl. Kupferadministrator</occupation>
                <noteGrp><note target="wkfm-1237.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1237</note><note target="wkfm-1238.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1238</note><note target="wkfm-1382.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1382</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46886">
+                     <orgName>Christian Münch</orgName>
+                  <noteGrp><note target="wkfm-1237.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1237</note></noteGrp></org>
+                <org xml:id="wkfm__8334">
+                     <orgName>Rauner und Münch</orgName>
+                  <noteGrp><note target="wkfm-1237.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1237</note><note target="wkfm-1238.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1238</note><note target="wkfm-1381.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1381</note><note target="wkfm-1382.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1382</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

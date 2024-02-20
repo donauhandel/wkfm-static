@@ -113,7 +113,31 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__29325">
+    <back><listOrg><org xml:id="wkfm__46728">
+                     <orgName>Rebay und Mayr</orgName>
+                  <noteGrp><note target="wkfm-1275.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1275</note><note target="wkfm-1276.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1276</note><note target="wkfm-1419.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1419</note><note target="wkfm-1420.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1420</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__46729">
+                     <persName>
+                        <forename>Joseph</forename>
+                        <surname>Mayr</surname>
+                        <surname type="alt">Mayer</surname>
+                     </persName>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+                     <listBibl>
+                        <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 458 (April 1746).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-1275.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1275</note><note target="wkfm-1276.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1276</note><note target="wkfm-1420.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1420</note></noteGrp></person>
+                <person xml:id="wkfm__29325">
                      <persName>
                         <forename>Johann Heinrich</forename>
                         <surname>Rebay</surname>
@@ -137,29 +161,5 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 497 (&amp;#34;Rebai&amp;#34;).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1036.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1036</note><note target="wkfm-1275.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1275</note><note target="wkfm-1276.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1276</note><note target="wkfm-1419.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1419</note><note target="wkfm-1420.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1420</note></noteGrp></person>
-                <person xml:id="wkfm__46729">
-                     <persName>
-                        <forename>Joseph</forename>
-                        <surname>Mayr</surname>
-                        <surname type="alt">Mayer</surname>
-                     </persName>
-                     <residence type="Bürgerrecht">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-                     <listBibl>
-                        <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 458 (April 1746).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-1275.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1275</note><note target="wkfm-1276.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1276</note><note target="wkfm-1420.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1420</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46728">
-                     <orgName>Rebay und Mayr</orgName>
-                  <noteGrp><note target="wkfm-1275.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1275</note><note target="wkfm-1276.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1276</note><note target="wkfm-1419.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1419</note><note target="wkfm-1420.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1420</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

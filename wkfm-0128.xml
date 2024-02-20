@@ -87,10 +87,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47304">
-                     <orgName>Matthäus Paur</orgName>
-                  <noteGrp><note target="wkfm-0128.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0128</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__43879" sameAs="#wkfm__47644 ">
+    <back><listPerson><person xml:id="wkfm__43879" sameAs="#wkfm__47644 ">
                      <persName>
                         <forename>Matthäus</forename>
                         <surname>Paur</surname>
@@ -110,5 +107,8 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 476 (15. Juni 1712).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0128.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0128</note><note target="wkfm-0129.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0129</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47304">
+                     <orgName>Matthäus Paur</orgName>
+                  <noteGrp><note target="wkfm-0128.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0128</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

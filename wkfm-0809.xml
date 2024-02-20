@@ -136,23 +136,39 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46677">
+    <back><listPerson><person xml:id="wkfm__46846">
                      <persName>
-                        <forename>Johann Joseph</forename>
-                        <surname>Pelser</surname>
+                        <forename>Johann</forename>
+                        <surname>Lölly</surname>
+                        <surname type="alt">Lelli</surname>
+                        <surname type="alt">Lolly</surname>
+                     </persName>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zum Goldenen Pfauen nächst dem Kärtnertor (Calender 1758)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-0809.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0809</note><note target="wkfm-1179.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1179</note></noteGrp></person>
+                <person xml:id="wkfm__47194">
+                     <persName>
+                        <forename>Johann Georg</forename>
+                        <surname>Unterholzer</surname>
                      </persName>
-               <noteGrp><note target="wkfm-0809.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0809</note><note target="wkfm-1323.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1323</note></noteGrp></person>
+               <noteGrp><note target="wkfm-0809.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0809</note></noteGrp></person>
                 <person xml:id="wkfm__47195">
                      <persName>
                         <forename>Joseph Martin</forename>
                         <surname>Seyrl</surname>
                         <surname type="alt">Seyerl</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-0809.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0809</note></noteGrp></person>
-                <person xml:id="wkfm__47194">
-                     <persName>
-                        <forename>Johann Georg</forename>
-                        <surname>Unterholzer</surname>
                      </persName>
                <noteGrp><note target="wkfm-0809.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0809</note></noteGrp></person>
                 <person xml:id="wkfm__43919">
@@ -197,27 +213,11 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0809.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0809</note></noteGrp></person>
-                <person xml:id="wkfm__46846">
+                <person xml:id="wkfm__46677">
                      <persName>
-                        <forename>Johann</forename>
-                        <surname>Lölly</surname>
-                        <surname type="alt">Lolly</surname>
-                        <surname type="alt">Lelli</surname>
-                     </persName>                    
-                     <residence type="Geschäftsadresse">
-                        <placeName>Zum Goldenen Pfauen nächst dem Kärtnertor (Calender 1758)</placeName>
-                     </residence>
-                     <residence type="Bürgerrecht">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-0809.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0809</note><note target="wkfm-1179.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1179</note></noteGrp></person>
+                        <forename>Johann Joseph</forename>
+                        <surname>Pelser</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0809.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0809</note><note target="wkfm-1323.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1323</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

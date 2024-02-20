@@ -96,16 +96,6 @@
                      <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                <noteGrp><note target="wkfm-0304.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0304</note></noteGrp></person>
-                <person xml:id="wkfm__44005" sameAs="#wkfm__15315 ">
-                     <persName>
-                        <forename>Anton</forename>
-                        <surname>Unger</surname>
-                     </persName>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Angestellter bei Franz Joseph Bargehr</occupation>
-               <noteGrp><note target="wkfm-0304.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0304</note></noteGrp></person>
                 <person xml:id="wkfm__43996">
                      <persName>
                         <forename>Franz Joseph</forename>
@@ -128,5 +118,15 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0303.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0303</note><note target="wkfm-0304.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0304</note></noteGrp></person>
+                <person xml:id="wkfm__44005" sameAs="#wkfm__15315 ">
+                     <persName>
+                        <forename>Anton</forename>
+                        <surname>Unger</surname>
+                     </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Angestellter bei Franz Joseph Bargehr</occupation>
+               <noteGrp><note target="wkfm-0304.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0304</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

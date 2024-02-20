@@ -88,7 +88,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43872" sameAs="#wkfm__21908 ">
+    <back><listOrg><org xml:id="wkfm__46641">
+                     <orgName>Andreas Anton Jordan</orgName>
+                  <noteGrp><note target="wkfm-1083.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1083</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__43872" sameAs="#wkfm__21908 ">
                      <persName>
                         <forename>Andre Anton</forename>
                         <surname>Jordan</surname>
@@ -109,8 +112,5 @@
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 422 (Juni 1731).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1083.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1083</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46641">
-                     <orgName>Andreas Anton Jordan</orgName>
-                  <noteGrp><note target="wkfm-1083.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1083</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

@@ -105,24 +105,7 @@
     <back><listOrg><org xml:id="wkfm__47597">
                      <orgName>Joseph Anton Stüffer</orgName>
                   <noteGrp><note target="wkfm-1683.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1683</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__47596">
-                     <persName>
-                        <forename>Joseph Anton</forename>
-                        <surname>Stüffer</surname>
-                     </persName>
-                     <residence type="Bürgerrecht">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-1683.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1683</note></noteGrp></person>
-                <person xml:id="wkfm__47448" sameAs="#wkfm__31918 ">
+                </listOrg><listPerson><person xml:id="wkfm__47448" sameAs="#wkfm__31918 ">
                      <persName>
                         <forename>Johann Georg</forename>
                         <surname>Stüffer</surname>
@@ -139,5 +122,22 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1535.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1535</note><note target="wkfm-1536.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1536</note><note target="wkfm-1683.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1683</note></noteGrp></person>
+                <person xml:id="wkfm__47596">
+                     <persName>
+                        <forename>Joseph Anton</forename>
+                        <surname>Stüffer</surname>
+                     </persName>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-1683.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1683</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

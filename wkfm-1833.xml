@@ -90,10 +90,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__9739">
-                     <orgName>Albert Zehetner</orgName>
-                  <noteGrp><note target="wkfm-1833.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1833</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__10090">
+    <back><listPerson><person xml:id="wkfm__10090">
                      <persName>
                         <forename>Albrecht</forename>
                         <forename type="alt">Albert</forename>
@@ -119,5 +116,8 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 570.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1047.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1047</note><note target="wkfm-1833.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1833</note><note target="wkfm-1834.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1834</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__9739">
+                     <orgName>Albert Zehetner</orgName>
+                  <noteGrp><note target="wkfm-1833.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1833</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

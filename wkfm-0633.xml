@@ -94,7 +94,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46410">
+    <back><listOrg><org xml:id="wkfm__46411">
+                     <orgName>Johann Anton Enns</orgName>
+                  <noteGrp><note target="wkfm-0633.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0633</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__46410">
                      <persName>
                         <forename>Johann Anton</forename>
                         <surname>Enns</surname>
@@ -118,8 +121,5 @@
                         <bibl>Huchler, Bürgeraufnahmen, 371.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0633.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0633</note><note target="wkfm-0634.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0634</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46411">
-                     <orgName>Johann Anton Enns</orgName>
-                  <noteGrp><note target="wkfm-0633.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0633</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

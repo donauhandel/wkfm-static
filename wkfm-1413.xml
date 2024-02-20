@@ -100,10 +100,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46722">
-                     <orgName>Franz Zacharias Rögler</orgName>
-                  <noteGrp><note target="wkfm-1413.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1413</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__22544">
+    <back><listPerson><person xml:id="wkfm__22544">
                      <persName>
                         <forename>Franz Zacharias</forename>
                         <surname>Rögler</surname>
@@ -132,5 +129,8 @@
                         <surname>Rögler</surname>
                      </persName>
                <noteGrp><note target="wkfm-1413.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1413</note><note target="wkfm-1414.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1414</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46722">
+                     <orgName>Franz Zacharias Rögler</orgName>
+                  <noteGrp><note target="wkfm-1413.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1413</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

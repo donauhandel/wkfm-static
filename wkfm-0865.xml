@@ -90,7 +90,13 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__19817">
+    <back><listOrg><org xml:id="wkfm__46335">
+                     <orgName>Franz Gouttro</orgName>
+                  <noteGrp><note target="wkfm-0865.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0865</note></noteGrp></org>
+                <org xml:id="wkfm__46333">
+                     <orgName>Gouttro und Schußböck</orgName>
+                  <noteGrp><note target="wkfm-0865.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0865</note><note target="wkfm-0866.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0866</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__19817">
                      <persName>
                         <forename>Franz</forename>
                         <surname>Gouttro</surname>
@@ -118,11 +124,5 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 390 (Februar 1727); Raynaud, Savoyardische Einwanderungen, 87.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0865.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0865</note><note target="wkfm-0866.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0866</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46333">
-                     <orgName>Gouttro und Schußböck</orgName>
-                  <noteGrp><note target="wkfm-0865.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0865</note><note target="wkfm-0866.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0866</note></noteGrp></org>
-                <org xml:id="wkfm__46335">
-                     <orgName>Franz Gouttro</orgName>
-                  <noteGrp><note target="wkfm-0865.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0865</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

@@ -88,7 +88,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__1411" sameAs="#wkfm__1402 ">
+    <back><listOrg><org xml:id="wkfm__47074">
+                     <orgName>Joseph Karl Fuchs</orgName>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__1411">Fux, Joseph Karl</persName></person></listPerson><noteGrp><note target="wkfm-0699.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0699</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__1411" sameAs="#wkfm__1402 ">
                      <persName>
                         <forename>Joseph Karl</forename>
                         <surname>Fux</surname>
@@ -121,8 +124,5 @@
                         <bibl>&amp;lt;span&amp;gt;Mittenzwei, Zwischen gestern und morgen, 117; &amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 382 (13 November 1715)&amp;lt;/span&amp;gt;.&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0699.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0699</note><note target="wkfm-0700.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0700</note><note target="wkfm-0795.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0795</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__47074">
-                     <orgName>Joseph Karl Fuchs</orgName>
-                  <listPerson type="affiliated"><person><persName key="#wkfm__1411">Fux, Joseph Karl</persName></person></listPerson><noteGrp><note target="wkfm-0699.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0699</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

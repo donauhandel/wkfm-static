@@ -90,7 +90,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__9224" sameAs="#wkfm__14715 ">
+    <back><listOrg><org xml:id="wkfm__46708">
+                     <orgName>Johann Rubacker</orgName>
+                  <noteGrp><note target="wkfm-1389.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1389</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__9224" sameAs="#wkfm__14715 ">
                      <persName>
                         <forename>Johann</forename>
                         <surname>Rubacker</surname>
@@ -115,8 +118,5 @@
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 507.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1389.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1389</note><note target="wkfm-1390.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1390</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46708">
-                     <orgName>Johann Rubacker</orgName>
-                  <noteGrp><note target="wkfm-1389.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1389</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

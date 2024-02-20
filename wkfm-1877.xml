@@ -90,7 +90,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43826">
+    <back><listOrg><org xml:id="wkfm__46624">
+                     <orgName>Samuel Emanuel Oppenheimer</orgName>
+                  <noteGrp><note target="wkfm-1877.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1877</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__43826">
                      <persName>
                         <forename>Samuel Emanuel</forename>
                         <surname>Oppenheimer</surname>
@@ -107,8 +110,5 @@
                         <bibl>Wachstein, Die Wiener Juden in Handel und Industrie.</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1877.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1877</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46624">
-                     <orgName>Samuel Emanuel Oppenheimer</orgName>
-                  <noteGrp><note target="wkfm-1877.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1877</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

@@ -96,12 +96,12 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47103">
-                     <orgName>Peter Vernay</orgName>
-                  <noteGrp><note target="wkfm-0739.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0739</note></noteGrp></org>
-                <org xml:id="wkfm__15206">
+    <back><listOrg><org xml:id="wkfm__15206">
                      <orgName>Peter Vernay und Pörner</orgName>
                   <noteGrp><note target="wkfm-0210.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0210</note><note target="wkfm-0212.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0212</note><note target="wkfm-0739.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0739</note><note target="wkfm-0740.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0740</note></noteGrp></org>
+                <org xml:id="wkfm__47103">
+                     <orgName>Peter Vernay</orgName>
+                  <noteGrp><note target="wkfm-0739.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0739</note></noteGrp></org>
                 </listOrg><listPerson><person xml:id="wkfm__21998">
                      <persName>
                         <forename>Peter</forename>

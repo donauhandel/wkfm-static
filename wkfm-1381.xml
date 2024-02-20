@@ -98,10 +98,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__8334">
-                     <orgName>Rauner und Münch</orgName>
-                  <noteGrp><note target="wkfm-1237.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1237</note><note target="wkfm-1238.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1238</note><note target="wkfm-1381.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1381</note><note target="wkfm-1382.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1382</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__46700">
+    <back><listPerson><person xml:id="wkfm__46700">
                      <persName>
                         <forename>Johann Wilhelm</forename>
                         <forename type="alt">Adolf Wilhelm</forename>
@@ -132,5 +129,8 @@
                         <bibl>&amp;lt;div&amp;gt;Seibold, Wirtschaftlicher Erfolg, Bd. 1, 268-282; &amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Haemmerle, Hochzeitsbücher, 257, Nr. 3499; 267, Nr. 3669&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;.&amp;lt;/div&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1238.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1238</note><note target="wkfm-1381.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1381</note><note target="wkfm-1382.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1382</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__8334">
+                     <orgName>Rauner und Münch</orgName>
+                  <noteGrp><note target="wkfm-1237.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1237</note><note target="wkfm-1238.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1238</note><note target="wkfm-1381.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1381</note><note target="wkfm-1382.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1382</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

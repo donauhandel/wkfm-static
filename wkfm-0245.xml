@@ -99,10 +99,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47362">
-                     <orgName>Joseph Praunschmid</orgName>
-                  <noteGrp><note target="wkfm-0245.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0245</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__43939">
+    <back><listPerson><person xml:id="wkfm__43939">
                      <persName>
                         <forename>Maria Anna</forename>
                         <surname>Mayerin</surname>
@@ -132,5 +129,8 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 490 (März 1738).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0245.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0245</note><note target="wkfm-0246.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0246</note><note target="wkfm-1283.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1283</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47362">
+                     <orgName>Joseph Praunschmid</orgName>
+                  <noteGrp><note target="wkfm-0245.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0245</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

@@ -100,7 +100,16 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__24741" sameAs="#wkfm__19329 wkfm__25413 wkfm__8849 ">
+    <back><listPerson><person xml:id="wkfm__46832">
+                     <persName>
+                        <forename>Anna Christina</forename>
+                        <surname>Veronesin</surname>
+                        <surname type="alt">Lanser</surname>
+                        <surname type="alt">Wagnerin</surname>
+                        <surname type="alt"/>
+                     </persName>
+               <noteGrp><note target="wkfm-0754.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0754</note><note target="wkfm-1171.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1171</note><note target="wkfm-1172.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1172</note></noteGrp></person>
+                <person xml:id="wkfm__24741" sameAs="#wkfm__19329 wkfm__25413 wkfm__8849 ">
                      <persName>
                         <forename>Anton Gabriel</forename>
                         <surname>Veronese</surname>
@@ -124,14 +133,5 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 549.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0753.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0753</note><note target="wkfm-0754.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0754</note><note target="wkfm-1427.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1427</note></noteGrp></person>
-                <person xml:id="wkfm__46832">
-                     <persName>
-                        <forename>Anna Christina</forename>
-                        <surname>Veronesin</surname>
-                        <surname type="alt">Lanser</surname>
-                        <surname type="alt">Wagnerin</surname>
-                        <surname type="alt"/>
-                     </persName>
-               <noteGrp><note target="wkfm-0754.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0754</note><note target="wkfm-1171.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1171</note><note target="wkfm-1172.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1172</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

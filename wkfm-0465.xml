@@ -119,7 +119,31 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46162">
+    <back><listPerson><person xml:id="wkfm__46164">
+                     <persName>
+                        <forename>Johann Willibald</forename>
+                        <surname>Schiettler</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0465.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0465</note></noteGrp></person>
+                <person xml:id="wkfm__37670">
+                     <persName>
+                        <forename>Franz Joseph</forename>
+                        <surname>Ferner</surname>
+                        <surname type="alt">Fehrner</surname>
+                     </persName>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Tuchhändler</occupation>
+                     <occupation type="kaufmannsklasse">tuchlaubensverwandt/bürgerlich</occupation>
+               <noteGrp><note target="wkfm-0465.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0465</note><note target="wkfm-0671.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0671</note><note target="wkfm-0672.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0672</note></noteGrp></person>
+                <person xml:id="wkfm__46162">
                      <persName>
                         <forename>Johann Georg</forename>
                         <surname>Höcker</surname>
@@ -146,30 +170,6 @@
                         <surname type="alt"/>
                      </persName>
                <noteGrp><note target="wkfm-0465.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0465</note></noteGrp></person>
-                <person xml:id="wkfm__46164">
-                     <persName>
-                        <forename>Johann Willibald</forename>
-                        <surname>Schiettler</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-0465.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0465</note></noteGrp></person>
-                <person xml:id="wkfm__37670">
-                     <persName>
-                        <forename>Franz Joseph</forename>
-                        <surname>Ferner</surname>
-                        <surname type="alt">Fehrner</surname>
-                     </persName>
-                     <residence type="Bürgerrecht">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Tuchhändler</occupation>
-                     <occupation type="kaufmannsklasse">tuchlaubensverwandt/bürgerlich</occupation>
-               <noteGrp><note target="wkfm-0465.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0465</note><note target="wkfm-0671.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0671</note><note target="wkfm-0672.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0672</note></noteGrp></person>
                 <person xml:id="wkfm__46161">
                      <persName>
                         <forename>Ferdinand</forename>

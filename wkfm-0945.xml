@@ -89,7 +89,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46449">
+    <back><listOrg><org xml:id="wkfm__46450">
+                     <orgName>Matthias Joseph Hölbling</orgName>
+                  <noteGrp><note target="wkfm-0945.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0945</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__46449">
                      <persName>
                         <forename>Matthias Joseph</forename>
                         <surname>Hölbling</surname>
@@ -104,8 +107,5 @@
                      <occupation>Leinwandhändler</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
                <noteGrp><note target="wkfm-0945.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0945</note><note target="wkfm-0946.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0946</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46450">
-                     <orgName>Matthias Joseph Hölbling</orgName>
-                  <noteGrp><note target="wkfm-0945.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0945</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

@@ -115,16 +115,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46750">
-                     <persName>
-                        <forename>Wolfgang</forename>
-                        <surname>Riesch</surname>
-                     </persName>
-                     <listBibl>
-                        <bibl>Mittenzwei, Zwischen Gestern und Morgen, 58.&amp;lt;br&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-1435.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1435</note><note target="wkfm-1436.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1436</note></noteGrp></person>
-                <person xml:id="wkfm__34454">
+    <back><listPerson><person xml:id="wkfm__34454">
                      <persName>
                         <forename>Erhard</forename>
                         <surname>Riesch</surname>
@@ -139,6 +130,15 @@
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Kröpfel, Protestsantismus, Anhang 1, S. 8.&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1435.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1435</note><note target="wkfm-1436.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1436</note><note target="wkfm-1447.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1447</note></noteGrp></person>
+                <person xml:id="wkfm__46750">
+                     <persName>
+                        <forename>Wolfgang</forename>
+                        <surname>Riesch</surname>
+                     </persName>
+                     <listBibl>
+                        <bibl>Mittenzwei, Zwischen Gestern und Morgen, 58.&amp;lt;br&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-1435.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1435</note><note target="wkfm-1436.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1436</note></noteGrp></person>
                 </listPerson><listOrg><org xml:id="wkfm__46749">
                      <orgName>Erhard Riesch</orgName>
                   <noteGrp><note target="wkfm-1435.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1435</note><note target="wkfm-1447.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1447</note><note target="wkfm-1448.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1448</note></noteGrp></org>

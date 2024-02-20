@@ -90,10 +90,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47511">
-                     <orgName>Jakob Stockholzer (Stöckholzer)</orgName>
-                  <noteGrp><note target="wkfm-1617.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1617</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__25582">
+    <back><listPerson><person xml:id="wkfm__25582">
                      <persName>
                         <forename>Jakob</forename>
                         <surname>Stockholzer</surname>
@@ -118,5 +115,8 @@
                         <bibl>Topographie von Niederösterreich, Bd. 5, 167; &amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 539 (Juni 1731).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1197.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1197</note><note target="wkfm-1617.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1617</note><note target="wkfm-1618.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1618</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47511">
+                     <orgName>Jakob Stockholzer (Stöckholzer)</orgName>
+                  <noteGrp><note target="wkfm-1617.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1617</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

@@ -89,7 +89,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47426" sameAs="#wkfm__11692 wkfm__46201 ">
+    <back><listOrg><org xml:id="wkfm__47427">
+                     <orgName>Jakob Schmid</orgName>
+                  <noteGrp><note target="wkfm-1503.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1503</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__47426" sameAs="#wkfm__11692 wkfm__46201 ">
                      <persName>
                         <forename>Jakob</forename>
                         <surname>Schmid</surname>
@@ -112,8 +115,5 @@
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 517.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1503.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1503</note><note target="wkfm-1504.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1504</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__47427">
-                     <orgName>Jakob Schmid</orgName>
-                  <noteGrp><note target="wkfm-1503.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1503</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

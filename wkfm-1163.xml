@@ -88,7 +88,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__21313">
+    <back><listOrg><org xml:id="wkfm__46825">
+                     <orgName>Wolf Michael Lobmayr</orgName>
+                  <noteGrp><note target="wkfm-1163.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1163</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__21313">
                      <persName>
                         <forename>Wolf Michael</forename>
                         <surname>Lobmayr</surname>
@@ -108,8 +111,5 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 449.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1163.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1163</note><note target="wkfm-1164.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1164</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46825">
-                     <orgName>Wolf Michael Lobmayr</orgName>
-                  <noteGrp><note target="wkfm-1163.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1163</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

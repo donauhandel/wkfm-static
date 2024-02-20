@@ -33,7 +33,7 @@
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when="2024-02-11">2024-02-11</date>
+            <date when="2024-02-18">2024-02-18</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>
@@ -57,7 +57,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2024-02-11">template populated with script "create_listorg.py"</change>
+         <change who="pandorfer" when="2024-02-18">template populated with script "create_listorg.py"</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -67,57 +67,12 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                 <org xml:id="wkfm__43820">
                      <orgName>Lazarus Hirschl Erben</orgName>
                   <noteGrp><note target="wkfm-1861.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1861</note><note target="wkfm-1862.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1862</note><note target="wkfm-1863.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1863</note><note target="wkfm-1864.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1864</note></noteGrp></org>
-                <org xml:id="wkfm__47855">
-                     <orgName>Abraham und Salomon</orgName>
-                  </org>
-                <org xml:id="wkfm__47856">
-                     <orgName>Marx und Isak</orgName>
-                  </org>
-                <org xml:id="wkfm__47857">
-                     <orgName>Adam und Valentin</orgName>
-                  </org>
-                <org xml:id="wkfm__47861">
-                     <orgName>Lebl, Heinrich und Hirschl</orgName>
-                  </org>
-                <org xml:id="wkfm__47870">
-                     <orgName>Simon und Jakob</orgName>
-                  </org>
-                <org xml:id="wkfm__47948">
-                     <orgName>David Oberlender und Gespan</orgName>
-                  </org>
-                <org xml:id="wkfm__47973">
-                     <orgName>3 Juden</orgName>
-                  </org>
-                <org xml:id="wkfm__48008">
-                     <orgName>2 Juden</orgName>
-                  </org>
-                <org xml:id="wkfm__48009">
-                     <orgName>Nathan Moises und Gespan</orgName>
-                  </org>
-                <org xml:id="wkfm__48028">
-                     <orgName>Israel Zacharias und Koppl Fränkl</orgName>
-                  </org>
-                <org xml:id="wkfm__48035">
-                     <orgName>Zacharias Isak und Gespan</orgName>
-                  </org>
-                <org xml:id="wkfm__48047">
-                     <orgName>David Hirschl und Samuel Hirschl</orgName>
-                  </org>
-                <org xml:id="wkfm__48049">
-                     <orgName>Hirschl Fränkel und Jakob Samson</orgName>
-                  </org>
-                <org xml:id="wkfm__48051">
-                     <orgName>Samuel Israel und Löwl Mayr</orgName>
-                  </org>
                 <org xml:id="wkfm__47390">
                      <orgName>Franz Joseph Pürker</orgName>
                   <noteGrp><note target="wkfm-0299.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0299</note></noteGrp></org>
                 <org xml:id="wkfm__46688">
                      <orgName>Paul Rössler</orgName>
                   <noteGrp><note target="wkfm-1371.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1371</note></noteGrp></org>
-                <org xml:id="wkfm__8065">
-                     <orgName>Kriner und Schmidt</orgName>
-                  </org>
                 <org xml:id="wkfm__8067">
                      <orgName>Hess und Tech</orgName>
                   <noteGrp><note target="wkfm-0581.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0581</note><note target="wkfm-0582.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0582</note><note target="wkfm-1015.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1015</note><note target="wkfm-1016.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1016</note></noteGrp></org>
@@ -133,30 +88,15 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                 <org xml:id="wkfm__8264">
                      <orgName>Fünfer und Pränkl</orgName>
                   <noteGrp><note target="wkfm-0741.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0741</note><note target="wkfm-0742.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0742</note></noteGrp></org>
-                <org xml:id="wkfm__8292">
-                     <orgName>Perinet und Falquet</orgName>
-                  </org>
                 <org xml:id="wkfm__8334">
                      <orgName>Rauner und Münch</orgName>
                   <noteGrp><note target="wkfm-1237.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1237</note><note target="wkfm-1238.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1238</note><note target="wkfm-1381.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1381</note><note target="wkfm-1382.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1382</note></noteGrp></org>
-                <org xml:id="wkfm__8384">
-                     <orgName>Depra Ducrue &amp; Co.</orgName>
-                  </org>
                 <org xml:id="wkfm__8416">
                      <orgName>Gebrüder Martinelli, Fratelli Martinelli</orgName>
                   <noteGrp><note target="wkfm-1189.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1189</note><note target="wkfm-1190.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1190</note><note target="wkfm-1191.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1191</note><note target="wkfm-1192.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1192</note></noteGrp></org>
-                <org xml:id="wkfm__8632">
-                     <orgName>Cimarolli und Zuana</orgName>
-                  </org>
                 <org xml:id="wkfm__8670">
                      <orgName>Gindl und Hink, Gündl und Hink, Stephan Gündl und Joseph Hink</orgName>
                   <noteGrp><note target="wkfm-0821.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0821</note><note target="wkfm-0822.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0822</note></noteGrp></org>
-                <org xml:id="wkfm__8953">
-                     <orgName>Kreidemann und Liebert</orgName>
-                  </org>
-                <org xml:id="wkfm__8970">
-                     <orgName>Heinrich Krochmann &amp; Co., Krochmann &amp; Co.</orgName>
-                  </org>
                 <org xml:id="wkfm__9030">
                      <orgName>Föhr und Wanner</orgName>
                   <noteGrp><note target="wkfm-0669.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0669</note><note target="wkfm-0670.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0670</note><note target="wkfm-1721.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1721</note><note target="wkfm-1723.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1723</note></noteGrp></org>
@@ -169,69 +109,24 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                 <org xml:id="wkfm__9133">
                      <orgName>Bormastini und Butterna, Johann Anton Bormastini und Butterna</orgName>
                   <noteGrp><note target="wkfm-0077.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0077</note><note target="wkfm-0078.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0078</note><note target="wkfm-0079.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0079</note><note target="wkfm-0194.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0194</note><note target="wkfm-0195.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0195</note><note target="wkfm-1471.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1471</note><note target="wkfm-1472.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1472</note></noteGrp></org>
-                <org xml:id="wkfm__9166">
-                     <orgName>Depra Ducrue</orgName>
-                  </org>
                 <org xml:id="wkfm__9690">
                      <orgName>Gebrüder Palm</orgName>
                   <noteGrp><note target="wkfm-0068.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0068</note></noteGrp></org>
                 <org xml:id="wkfm__9739">
                      <orgName>Albert Zehetner</orgName>
                   <noteGrp><note target="wkfm-1833.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1833</note></noteGrp></org>
-                <org xml:id="wkfm__9837">
-                     <orgName>Kreidemann &amp; Co.</orgName>
-                  </org>
-                <org xml:id="wkfm__9971">
-                     <orgName>Gebrüder Gutermann</orgName>
-                  </org>
-                <org xml:id="wkfm__10029">
-                     <orgName>None</orgName>
-                  </org>
                 <org xml:id="wkfm__10272">
                      <orgName>Gebrüder Buirette</orgName>
                   <noteGrp><note target="wkfm-0086.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0086</note><note target="wkfm-0087.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0087</note><note target="wkfm-0088.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0088</note><note target="wkfm-0089.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0089</note></noteGrp></org>
                 <org xml:id="wkfm__10345">
                      <orgName>Ferdinand Wührer &amp; Co.</orgName>
                   <noteGrp><note target="wkfm-1713.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1713</note><note target="wkfm-1714.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1714</note></noteGrp></org>
-                <org xml:id="wkfm__10392">
-                     <orgName>Paul Schedlberger sel. Witwe</orgName>
-                  </org>
-                <org xml:id="wkfm__10754">
-                     <orgName>Fabrik (ksl.)/Manufakturhandlung (ksl.)</orgName>
-                  </org>
-                <org xml:id="wkfm__10878">
-                     <orgName>Böller und Wallstorff</orgName>
-                  </org>
                 <org xml:id="wkfm__10900">
                      <orgName>Dohm und Ely</orgName>
                   <noteGrp><note target="wkfm-0565.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0565</note><note target="wkfm-0566.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0566</note></noteGrp></org>
                 <org xml:id="wkfm__10906">
                      <orgName>Farovino &amp; Co.</orgName>
                   <noteGrp><note target="wkfm-0683.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0683</note><note target="wkfm-0684.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0684</note></noteGrp></org>
-                <org xml:id="wkfm__10985">
-                     <orgName>Passy, Decret &amp; Co.</orgName>
-                  </org>
-                <org xml:id="wkfm__11008">
-                     <orgName>Hochmayr und Lang</orgName>
-                  </org>
-                <org xml:id="wkfm__11279">
-                     <orgName>Schwanesini und Gritti</orgName>
-                  </org>
-                <org xml:id="wkfm__11310">
-                     <orgName>Tobias Rezer sel. Witwe</orgName>
-                  </org>
-                <org xml:id="wkfm__11708">
-                     <orgName>Peter Ducrue &amp; Co.</orgName>
-                  </org>
-                <org xml:id="wkfm__11769">
-                     <orgName>Gebrüder Greiff</orgName>
-                  </org>
-                <org xml:id="wkfm__11799">
-                     <orgName>Della Rua und de Augusti</orgName>
-                  </org>
-                <org xml:id="wkfm__12064">
-                     <orgName>Preu und Scheidlin</orgName>
-                  </org>
                 <org xml:id="wkfm__12131">
                      <orgName>Gebrüder Rappatsch</orgName>
                   <noteGrp><note target="wkfm-1395.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1395</note><note target="wkfm-1396.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1396</note></noteGrp></org>
@@ -241,12 +136,6 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                 <org xml:id="wkfm__12271">
                      <orgName>Trevano und Consoni</orgName>
                   <noteGrp><note target="wkfm-0407.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0407</note><note target="wkfm-0408.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0408</note><note target="wkfm-0501.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0501</note><note target="wkfm-0502.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0502</note></noteGrp></org>
-                <org xml:id="wkfm__12290">
-                     <orgName>Fingerlin und Brandhofer</orgName>
-                  </org>
-                <org xml:id="wkfm__12321">
-                     <orgName>Fuchs und Leypold</orgName>
-                  </org>
                 <org xml:id="wkfm__12421">
                      <orgName>Isenflamm und Küner</orgName>
                   <noteGrp><note target="wkfm-0423.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0423</note><note target="wkfm-0424.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0424</note><note target="wkfm-1067.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1067</note><note target="wkfm-1068.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1068</note></noteGrp></org>
@@ -256,72 +145,27 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                 <org xml:id="wkfm__12708">
                      <orgName>Sebastian Vetter sel. Erben</orgName>
                   <noteGrp><note target="wkfm-0679.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0679</note></noteGrp></org>
-                <org xml:id="wkfm__12787">
-                     <orgName>Bartholomäi &amp; Sohn</orgName>
-                  </org>
-                <org xml:id="wkfm__13048">
-                     <orgName>Roux sel. Witwe</orgName>
-                  </org>
-                <org xml:id="wkfm__13171">
-                     <orgName>Leopold Schedlberger sel. Witwe</orgName>
-                  </org>
                 <org xml:id="wkfm__13208">
                      <orgName>Peisser und Rigotti</orgName>
                   <listPerson type="affiliated"><person><persName key="#wkfm__4646">Peisser, Joseph</persName></person><person><persName key="#wkfm__5636">Rigotti, Hieronymus</persName></person></listPerson><noteGrp><note target="wkfm-0196.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0196</note><note target="wkfm-1405.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1405</note><note target="wkfm-1406.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1406</note></noteGrp></org>
-                <org xml:id="wkfm__13303">
-                     <orgName>Paul Schedlberger sel. Erben</orgName>
-                  </org>
-                <org xml:id="wkfm__13324">
-                     <orgName>Finale Ducrue</orgName>
-                  </org>
                 <org xml:id="wkfm__13569">
                      <orgName>Butterna und Heimerl</orgName>
                   <noteGrp><note target="wkfm-0078.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0078</note><note target="wkfm-0079.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0079</note><note target="wkfm-0933.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0933</note><note target="wkfm-0934.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0934</note><note target="wkfm-0935.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0935</note><note target="wkfm-0936.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0936</note></noteGrp></org>
-                <org xml:id="wkfm__14614">
-                     <orgName>Vienne und Balde</orgName>
-                  </org>
                 <org xml:id="wkfm__14642">
                      <orgName>Kaspar Würth sel. Erben</orgName>
                   <noteGrp><note target="wkfm-1721.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1721</note><note target="wkfm-1723.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1723</note></noteGrp></org>
-                <org xml:id="wkfm__14658">
-                     <orgName>Finale Ducrue &amp; Co.</orgName>
-                  </org>
-                <org xml:id="wkfm__14690">
-                     <orgName>Adam Vogl und David Ostermayr</orgName>
-                  </org>
                 <org xml:id="wkfm__14941">
                      <orgName>Lammer und Klezl</orgName>
                   <noteGrp><note target="wkfm-0439.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0439</note><note target="wkfm-0440.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0440</note><note target="wkfm-1159.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1159</note><note target="wkfm-1160.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1160</note></noteGrp></org>
-                <org xml:id="wkfm__15042">
-                     <orgName>Lorenz Vollmayr sel. Erben</orgName>
-                  </org>
                 <org xml:id="wkfm__15206">
                      <orgName>Peter Vernay und Pörner</orgName>
                   <noteGrp><note target="wkfm-0210.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0210</note><note target="wkfm-0212.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0212</note><note target="wkfm-0739.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0739</note><note target="wkfm-0740.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0740</note></noteGrp></org>
                 <org xml:id="wkfm__15308">
                      <orgName>Brandegski und Pöttenberger</orgName>
                   <noteGrp><note target="wkfm-0060.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0060</note><note target="wkfm-0174.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0174</note><note target="wkfm-0175.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0175</note></noteGrp></org>
-                <org xml:id="wkfm__15664">
-                     <orgName>Gebrüder Greiff &amp; Co.</orgName>
-                  </org>
-                <org xml:id="wkfm__15920">
-                     <orgName>Johann Friedrich Schmidhammer &amp; Co.</orgName>
-                  </org>
-                <org xml:id="wkfm__15985">
-                     <orgName>Duboin und Stephani</orgName>
-                  </org>
                 <org xml:id="wkfm__16083">
                      <orgName>Kramer und Wellner</orgName>
                   <noteGrp><note target="wkfm-0347.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0347</note><note target="wkfm-1765.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1765</note></noteGrp></org>
-                <org xml:id="wkfm__16473">
-                     <orgName>Bormastini &amp; Co.</orgName>
-                  </org>
-                <org xml:id="wkfm__16762">
-                     <orgName>Georg Hilleprand sel. Erben</orgName>
-                  </org>
-                <org xml:id="wkfm__16774">
-                     <orgName>Gebrüder von Schnurbein</orgName>
-                  </org>
                 <org xml:id="wkfm__16778">
                      <orgName>Gaun und Zanchoni</orgName>
                   <noteGrp><note target="wkfm-0951.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0951</note></noteGrp></org>
@@ -330,43 +174,19 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   <noteGrp><note target="wkfm-0237.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0237</note></noteGrp></org>
                 <org xml:id="wkfm__17119">
                      <orgName>Gebrüder Orset</orgName>
-                  <listPerson type="affiliated"><person><persName key="#wkfm__15430">Orset, Johann</persName></person><person><persName key="#wkfm__43854">Orset, Niklas Michael</persName></person></listPerson><noteGrp><note target="wkfm-1331.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1331</note><note target="wkfm-1332.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1332</note><note target="wkfm-1333.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1333</note><note target="wkfm-1334.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1334</note></noteGrp></org>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__43854">Orset, Niklas Michael</persName></person><person><persName key="#wkfm__15430">Orset, Johann</persName></person></listPerson><noteGrp><note target="wkfm-1331.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1331</note><note target="wkfm-1332.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1332</note><note target="wkfm-1333.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1333</note><note target="wkfm-1334.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1334</note></noteGrp></org>
                 <org xml:id="wkfm__17566">
                      <orgName>Martin und Raffeseder</orgName>
                   <noteGrp><note target="wkfm-1225.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1225</note><note target="wkfm-1226.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1226</note></noteGrp></org>
-                <org xml:id="wkfm__17610">
-                     <orgName>Schedlberger sel. Witwe</orgName>
-                  </org>
-                <org xml:id="wkfm__17743">
-                     <orgName>Gebrüder Auracher</orgName>
-                  </org>
                 <org xml:id="wkfm__17801">
                      <orgName>Johann Christoph Löschenkohl sel. Erben</orgName>
                   <noteGrp><note target="wkfm-1101.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1101</note><note target="wkfm-1102.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1102</note></noteGrp></org>
-                <org xml:id="wkfm__18100">
-                     <orgName>Fabrik (ksl.)</orgName>
-                  </org>
                 <org xml:id="wkfm__18158">
                      <orgName>Wiesenhüter &amp; Co.</orgName>
                   <noteGrp><note target="wkfm-1773.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1773</note></noteGrp></org>
                 <org xml:id="wkfm__19149">
                      <orgName>Wilkens und Bosquet</orgName>
                   <noteGrp><note target="wkfm-1789.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1789</note><note target="wkfm-1790.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1790</note></noteGrp></org>
-                <org xml:id="wkfm__19170">
-                     <orgName>Fynn und Will</orgName>
-                  </org>
-                <org xml:id="wkfm__19422">
-                     <orgName>Leopold Karl Spitzer &amp; Co.</orgName>
-                  </org>
-                <org xml:id="wkfm__19630">
-                     <orgName>Orientalische Kompanie</orgName>
-                  </org>
-                <org xml:id="wkfm__20058">
-                     <orgName>Loschge und Renz</orgName>
-                  </org>
-                <org xml:id="wkfm__20077">
-                     <orgName>Stoy und Fischer</orgName>
-                  </org>
                 <org xml:id="wkfm__20102">
                      <orgName>Ludwig Liedl und Leopold Liedl</orgName>
                   <noteGrp><note target="wkfm-0769.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0769</note><note target="wkfm-0771.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0771</note><note target="wkfm-1151.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1151</note><note target="wkfm-1152.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1152</note><note target="wkfm-1153.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1153</note><note target="wkfm-1154.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1154</note></noteGrp></org>
@@ -379,39 +199,12 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                 <org xml:id="wkfm__20610">
                      <orgName>Peter und Krazer</orgName>
                   <listPerson type="affiliated"><person><persName key="#wkfm__43895">Krazer, Michael Justus</persName></person></listPerson><noteGrp><note target="wkfm-0182.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0182</note><note target="wkfm-0183.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0183</note><note target="wkfm-0459.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0459</note><note target="wkfm-0460.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0460</note></noteGrp></org>
-                <org xml:id="wkfm__20612">
-                     <orgName>Veit Müllnitsch sel. Erben</orgName>
-                  </org>
                 <org xml:id="wkfm__20653">
                      <orgName>Stephan Knoll &amp; Co.</orgName>
                   <noteGrp><note target="wkfm-0339.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0339</note></noteGrp></org>
-                <org xml:id="wkfm__20814">
-                     <orgName>Andre Kirchmayr &amp; Co</orgName>
-                  </org>
                 <org xml:id="wkfm__20968">
                      <orgName>Niklas Saliet &amp; Co.</orgName>
                   <listPerson type="affiliated"><person><persName key="#wkfm__13222">Saliet, Niklas Nikolaus</persName></person></listPerson><noteGrp><note target="wkfm-1475.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1475</note><note target="wkfm-1476.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1476</note></noteGrp></org>
-                <org xml:id="wkfm__21676">
-                     <orgName>Bäumler und Lothes</orgName>
-                  </org>
-                <org xml:id="wkfm__21876">
-                     <orgName>Niklas Orset und Michael Orset</orgName>
-                  </org>
-                <org xml:id="wkfm__22017">
-                     <orgName>Johann Heinrich Allius &amp; Co.</orgName>
-                  </org>
-                <org xml:id="wkfm__22157">
-                     <orgName>Franz Wintersteiner &amp; Co.</orgName>
-                  </org>
-                <org xml:id="wkfm__22195">
-                     <orgName>Ducrue und de L'Espine</orgName>
-                  </org>
-                <org xml:id="wkfm__22385">
-                     <orgName>David Vienne sel. Witwe</orgName>
-                  </org>
-                <org xml:id="wkfm__22492">
-                     <orgName>David Vienne sel. Erben</orgName>
-                  </org>
                 <org xml:id="wkfm__23395">
                      <orgName>Rotta und Reismiller, Rotta und Reißmillner</orgName>
                   <noteGrp><note target="wkfm-1361.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1361</note><note target="wkfm-1362.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1362</note><note target="wkfm-1363.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1363</note><note target="wkfm-1364.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1364</note></noteGrp></org>
@@ -421,288 +214,75 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                 <org xml:id="wkfm__23520">
                      <orgName>Küner und Bender</orgName>
                   <noteGrp><note target="wkfm-0423.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0423</note><note target="wkfm-0424.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0424</note></noteGrp></org>
-                <org xml:id="wkfm__23550">
-                     <orgName>Recknagel und Muscat</orgName>
-                  </org>
                 <org xml:id="wkfm__23672">
                      <orgName>Pingizer und Bittoni (Junior)</orgName>
                   <noteGrp><note target="wkfm-0198.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0198</note><note target="wkfm-0199.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0199</note><note target="wkfm-1263.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1263</note></noteGrp></org>
-                <org xml:id="wkfm__23796">
-                     <orgName>Friedrich Weider sel. Erben</orgName>
-                  </org>
                 <org xml:id="wkfm__23970">
                      <orgName>Falquet und Violand</orgName>
                   <noteGrp><note target="wkfm-0070.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0070</note><note target="wkfm-0759.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0759</note><note target="wkfm-0760.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0760</note><note target="wkfm-0799.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0799</note><note target="wkfm-0800.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0800</note></noteGrp></org>
-                <org xml:id="wkfm__24149">
-                     <orgName>Matthias Kern &amp; Co.</orgName>
-                  </org>
-                <org xml:id="wkfm__24272">
-                     <orgName>Paul Rössler sel. Erben</orgName>
-                  </org>
-                <org xml:id="wkfm__24506">
-                     <orgName>Andre Kürmayr &amp; Co.</orgName>
-                  </org>
-                <org xml:id="wkfm__24776">
-                     <orgName>Augustin Friedrich Weider sel. Erben</orgName>
-                  </org>
-                <org xml:id="wkfm__24993">
-                     <orgName>Wolfgang Hilleprand sel. Witwe</orgName>
-                  </org>
-                <org xml:id="wkfm__25193">
-                     <orgName>Gebrüder Setti</orgName>
-                  </org>
                 <org xml:id="wkfm__25274">
                      <orgName>Höcksteiner und Hink</orgName>
                   <listPerson type="affiliated"><person><persName key="#wkfm__23505">Höcksteiner, Karl</persName></person></listPerson><noteGrp><note target="wkfm-0975.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0975</note><note target="wkfm-0976.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0976</note></noteGrp></org>
-                <org xml:id="wkfm__25501">
-                     <orgName>Briffant &amp; Co.</orgName>
-                  </org>
-                <org xml:id="wkfm__26143">
-                     <orgName>Augustin Weider sel. Erben</orgName>
-                  </org>
                 <org xml:id="wkfm__26242">
                      <orgName>Gebrüder Crettier (Freres/Fratres Crettier), Gebrüder Crettier &amp; Co.</orgName>
                   <noteGrp><note target="wkfm-0457.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0457</note><note target="wkfm-0458.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0458</note><note target="wkfm-1651.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1651</note></noteGrp></org>
-                <org xml:id="wkfm__26300">
-                     <orgName>Bauch und Dornheck</orgName>
-                  </org>
                 <org xml:id="wkfm__26954">
                      <orgName>Andre Coith &amp; Co.</orgName>
                   <noteGrp><note target="wkfm-0357.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0357</note><note target="wkfm-0358.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0358</note></noteGrp></org>
-                <org xml:id="wkfm__27182">
-                     <orgName>Hartelweck und Gebrüder</orgName>
-                  </org>
-                <org xml:id="wkfm__27231">
-                     <orgName>Hilleprand und Mödlhammer</orgName>
-                  </org>
-                <org xml:id="wkfm__27315">
-                     <orgName>Andre Mayr sel. Erben</orgName>
-                  </org>
-                <org xml:id="wkfm__27345">
-                     <orgName>Fabrik (ksl.)</orgName>
-                  </org>
-                <org xml:id="wkfm__27474">
-                     <orgName>Prandstetter und Pöttenberger</orgName>
-                  </org>
                 <org xml:id="wkfm__27516">
                      <orgName>(Johann) Wilhelm Buirette sel. Erben</orgName>
                   <noteGrp><note target="wkfm-0086.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0086</note><note target="wkfm-0087.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0087</note></noteGrp></org>
                 <org xml:id="wkfm__27575">
                      <orgName>Thomas Wellner &amp; Co.</orgName>
                   <noteGrp><note target="wkfm-1765.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1765</note><note target="wkfm-1766.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1766</note></noteGrp></org>
-                <org xml:id="wkfm__27632">
-                     <orgName>Christophori Erben</orgName>
-                  </org>
-                <org xml:id="wkfm__27826">
-                     <orgName>Johann Wolfgang Hilleprand sel. Witwe</orgName>
-                  </org>
                 <org xml:id="wkfm__28424">
                      <orgName>Anton Neuner &amp; Co.</orgName>
                   <noteGrp><note target="wkfm-1311.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1311</note><note target="wkfm-1312.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1312</note></noteGrp></org>
-                <org xml:id="wkfm__28755">
-                     <orgName>Fabrik (ksl.)</orgName>
-                  </org>
-                <org xml:id="wkfm__29618">
-                     <orgName>Patuzzi sel. Erben</orgName>
-                  </org>
                 <org xml:id="wkfm__29682">
                      <orgName>Perinet und Passy</orgName>
                   <noteGrp><note target="wkfm-0251.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0251</note></noteGrp></org>
                 <org xml:id="wkfm__29793">
                      <orgName>Rozzio sel. Erben</orgName>
                   <noteGrp><note target="wkfm-0215.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0215</note></noteGrp></org>
-                <org xml:id="wkfm__29800">
-                     <orgName>Johann Georg Fischer sel. Erben</orgName>
-                  </org>
-                <org xml:id="wkfm__29900">
-                     <orgName>Gebrüder Wiesenhüter</orgName>
-                  </org>
-                <org xml:id="wkfm__29947">
-                     <orgName>Hindemann und Kreidemann</orgName>
-                  </org>
                 <org xml:id="wkfm__29979">
                      <orgName>Veigl und Farquet</orgName>
                   <noteGrp><note target="wkfm-0769.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0769</note><note target="wkfm-0770.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0770</note><note target="wkfm-0771.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0771</note><note target="wkfm-0772.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0772</note></noteGrp></org>
                 <org xml:id="wkfm__30066">
                      <orgName>Hößlin und Falck</orgName>
                   <noteGrp><note target="wkfm-1023.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1023</note><note target="wkfm-1024.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1024</note><note target="wkfm-1356.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1356</note></noteGrp></org>
-                <org xml:id="wkfm__30068">
-                     <orgName>Martin Schwänkl &amp; Co.</orgName>
-                  </org>
-                <org xml:id="wkfm__30274">
-                     <orgName>Joseph Rottigin und Franz Rottigin</orgName>
-                  </org>
-                <org xml:id="wkfm__30390">
-                     <orgName>Carli &amp; Co.</orgName>
-                  </org>
                 <org xml:id="wkfm__30430">
                      <orgName>Gebrüder Franz Gottlieb von Palm und Leopold Karl von Palm</orgName>
                   <noteGrp><note target="wkfm-0069.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0069</note></noteGrp></org>
                 <org xml:id="wkfm__30445">
                      <orgName>Herculiano Amadei &amp; Co.</orgName>
                   <listPerson type="affiliated"><person><persName key="#wkfm__43783">Spätl, Melchior</persName></person><person><persName key="#wkfm__8591">Amadei, Herculiano Kilian</persName></person></listPerson><noteGrp><note target="wkfm-0016.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0016</note><note target="wkfm-0017.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0017</note><note target="wkfm-1619.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1619</note><note target="wkfm-1620.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1620</note></noteGrp></org>
-                <org xml:id="wkfm__30766">
-                     <orgName>Vinzenz Joanelli und Benedikt Joanelli</orgName>
-                  </org>
-                <org xml:id="wkfm__31492">
-                     <orgName>Crettier und Ducrue</orgName>
-                  </org>
-                <org xml:id="wkfm__32583">
-                     <orgName>Kopp und Koch</orgName>
-                  </org>
-                <org xml:id="wkfm__32645">
-                     <orgName>Christoph Schweyer &amp; Sohn</orgName>
-                  </org>
-                <org xml:id="wkfm__33028">
-                     <orgName>Volkamer und Seutter</orgName>
-                  </org>
-                <org xml:id="wkfm__33365">
-                     <orgName>Johann Christoph Sind sel. Witwe</orgName>
-                  </org>
-                <org xml:id="wkfm__33536">
-                     <orgName>Johann Georg Hilleprand sel. Erben</orgName>
-                  </org>
-                <org xml:id="wkfm__34602">
-                     <orgName>Franz Jakob Martinelli und Anton Martinelli</orgName>
-                  </org>
-                <org xml:id="wkfm__34683">
-                     <orgName>Revena und Saliet</orgName>
-                  </org>
-                <org xml:id="wkfm__34696">
-                     <orgName>Kopp und Koch sel. Witwe</orgName>
-                  </org>
-                <org xml:id="wkfm__34750">
-                     <orgName>Degeler und Fynn</orgName>
-                  </org>
-                <org xml:id="wkfm__34979">
-                     <orgName>Jakob Blommart und Franz Blommart</orgName>
-                  </org>
-                <org xml:id="wkfm__35164">
-                     <orgName>Gebrüder Greiff und Johann Köpff, Gebrüder Greiff und Köpff</orgName>
-                  </org>
-                <org xml:id="wkfm__35228">
-                     <orgName>Christoph Lotter und Johann Georg Lotter</orgName>
-                  </org>
-                <org xml:id="wkfm__36411">
-                     <orgName>Ramut und Bergin</orgName>
-                  </org>
-                <org xml:id="wkfm__36969">
-                     <orgName>Grassy &amp; Blattner</orgName>
-                  </org>
-                <org xml:id="wkfm__36981">
-                     <orgName>Gebrüder Blommart</orgName>
-                  </org>
                 <org xml:id="wkfm__37043">
                      <orgName>Zacharias Kriner und Johann Georg Schmidt</orgName>
                   <noteGrp><note target="wkfm-0321.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0321</note><note target="wkfm-0322.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0322</note></noteGrp></org>
-                <org xml:id="wkfm__37327">
-                     <orgName>Johann Georg Fischer sel. Witwe</orgName>
-                  </org>
-                <org xml:id="wkfm__37691">
-                     <orgName>Johann Georg Hilleprand sel. Witwe</orgName>
-                  </org>
                 <org xml:id="wkfm__37828">
                      <orgName>Egger und Babitsch</orgName>
                   <listPerson type="affiliated"><person><persName key="#wkfm__27912">Babitsch, Johann Ignaz</persName></person></listPerson><noteGrp><note target="wkfm-0647.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0647</note><note target="wkfm-0648.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0648</note></noteGrp></org>
-                <org xml:id="wkfm__37941">
-                     <orgName>Segalla und Bingingini, Segalla e Bigongini</orgName>
-                  </org>
-                <org xml:id="wkfm__37959">
-                     <orgName>Arbaur Dassardi</orgName>
-                  </org>
-                <org xml:id="wkfm__37961">
-                     <orgName>Ludwig Pürkl &amp; Co</orgName>
-                  </org>
-                <org xml:id="wkfm__38020">
-                     <orgName>Joseph Kreuzmayr &amp; Co</orgName>
-                  </org>
-                <org xml:id="wkfm__38220">
-                     <orgName>Heimerl und Hochmayr</orgName>
-                  </org>
                 <org xml:id="wkfm__38549">
                      <orgName>Mayr und Hölzl</orgName>
                   <noteGrp><note target="wkfm-1037.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1037</note><note target="wkfm-1038.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1038</note><note target="wkfm-1263.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1263</note><note target="wkfm-1264.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1264</note><note target="wkfm-1647.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1647</note><note target="wkfm-1649.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1649</note></noteGrp></org>
-                <org xml:id="wkfm__38704">
-                     <orgName>Rachel und Hentschel</orgName>
-                  </org>
-                <org xml:id="wkfm__38849">
-                     <orgName>Gebrüder Schweyer</orgName>
-                  </org>
-                <org xml:id="wkfm__39044">
-                     <orgName>Sebastian Oberhuber sel. Erben</orgName>
-                  </org>
-                <org xml:id="wkfm__39056">
-                     <orgName>Kaspar Würth sel. Witwe</orgName>
-                  </org>
-                <org xml:id="wkfm__39089">
-                     <orgName>Mayrhofer und Kriegner</orgName>
-                  </org>
-                <org xml:id="wkfm__39338">
-                     <orgName>Volkamer und Münch</orgName>
-                  </org>
                 <org xml:id="wkfm__39394">
                      <orgName>Falquet und Puthon</orgName>
                   <noteGrp><note target="wkfm-0759.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0759</note><note target="wkfm-0760.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0760</note></noteGrp></org>
-                <org xml:id="wkfm__39424">
-                     <orgName>Johann Wilhelm Hauber sel. Erben</orgName>
-                  </org>
-                <org xml:id="wkfm__39546">
-                     <orgName>Dallensteiner und Löschenkohl</orgName>
-                  </org>
-                <org xml:id="wkfm__39787">
-                     <orgName>Loschge und Benz</orgName>
-                  </org>
-                <org xml:id="wkfm__39960">
-                     <orgName>Adam Vogl und Ostermayr</orgName>
-                  </org>
                 <org xml:id="wkfm__40012">
                      <orgName>Perinet und Violand</orgName>
                   <noteGrp><note target="wkfm-0070.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0070</note><note target="wkfm-0071.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0071</note><note target="wkfm-0799.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0799</note><note target="wkfm-1661.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1661</note></noteGrp></org>
-                <org xml:id="wkfm__40395">
-                     <orgName>Johann Anton Jäger (Pressburg), Franz Edlmann (Laufen), Michael Schedlberger (Ottensheim)</orgName>
-                  </org>
                 <org xml:id="wkfm__40640">
                      <orgName>Küner &amp; Co.</orgName>
                   <noteGrp><note target="wkfm-0423.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0423</note><note target="wkfm-0424.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0424</note></noteGrp></org>
-                <org xml:id="wkfm__40773">
-                     <orgName>Anton Jäger (Pressburg), Michael Schedlberger (Ottensheim)</orgName>
-                  </org>
-                <org xml:id="wkfm__40824">
-                     <orgName>Paul Schedlberger und Matthias Viechtbauer</orgName>
-                  </org>
-                <org xml:id="wkfm__41627">
-                     <orgName>Christoph Freysauf sel. Erben</orgName>
-                  </org>
-                <org xml:id="wkfm__41647">
-                     <orgName>Philipp Kiblböck &amp; Co.</orgName>
-                  </org>
                 <org xml:id="wkfm__41779">
                      <orgName>Appold und Gnädl</orgName>
                   <noteGrp><note target="wkfm-0046.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0046</note></noteGrp></org>
                 <org xml:id="wkfm__42340">
                      <orgName>Beham und Hilleprand, Johann Beham und Martin Hilleprand</orgName>
                   <listPerson type="affiliated"><person><persName key="#wkfm__46532">Beham, Johann</persName></person></listPerson><noteGrp><note target="wkfm-1031.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1031</note><note target="wkfm-1032.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1032</note></noteGrp></org>
-                <org xml:id="wkfm__42526">
-                     <orgName>Hilleprand und Isenflamm</orgName>
-                  </org>
-                <org xml:id="wkfm__43125">
-                     <orgName>Johann Wagner sel. Witwe</orgName>
-                  </org>
                 <org xml:id="wkfm__43229">
                      <orgName>Johann Georg Grones &amp; Co.</orgName>
                   <listPerson type="affiliated"><person><persName key="#wkfm__5636">Rigotti, Hieronymus</persName></person></listPerson><noteGrp><note target="wkfm-0875.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0875</note><note target="wkfm-0876.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0876</note></noteGrp></org>
-                <org xml:id="wkfm__43410">
-                     <orgName>Georg Hilleprand sel. Witwe</orgName>
-                  </org>
-                <org xml:id="wkfm__43420">
-                     <orgName>Elias Näzer sel. Erben</orgName>
-                  </org>
-                <org xml:id="wkfm__43450">
-                     <orgName>Gebrüder Wolf Marina und Jakob Marina</orgName>
-                  </org>
-                <org xml:id="wkfm__43577">
-                     <orgName>Jünger und Stephani</orgName>
-                  </org>
                 <org xml:id="wkfm__43800">
                      <orgName>Johann Thaddäus Aichinger</orgName>
                   <noteGrp><note target="wkfm-0050.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0050</note></noteGrp></org>
@@ -763,9 +343,6 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                 <org xml:id="wkfm__43944">
                      <orgName>Passy, Perinet &amp; Co.</orgName>
                   <noteGrp><note target="wkfm-0251.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0251</note><note target="wkfm-0252.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0252</note><note target="wkfm-1693.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1693</note></noteGrp></org>
-                <org xml:id="wkfm__43945">
-                     <orgName>Passy und Perinet</orgName>
-                  </org>
                 <org xml:id="wkfm__43951">
                      <orgName>Baciller und Pichler</orgName>
                   <noteGrp><note target="wkfm-0253.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0253</note><note target="wkfm-0254.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0254</note><note target="wkfm-0255.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0255</note><note target="wkfm-0256.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0256</note></noteGrp></org>
@@ -793,9 +370,6 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                 <org xml:id="wkfm__44056">
                      <orgName>Christian Kaltschmidt sel. Witwe</orgName>
                   <noteGrp><note target="wkfm-0325.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0325</note></noteGrp></org>
-                <org xml:id="wkfm__44069">
-                     <orgName>Johann Schwalb &amp; Co.</orgName>
-                  </org>
                 <org xml:id="wkfm__44080">
                      <orgName>Kaspar Würth sel. Söhne</orgName>
                   <noteGrp><note target="wkfm-1721.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1721</note><note target="wkfm-1722.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1722</note><note target="wkfm-1723.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1723</note><note target="wkfm-1724.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1724</note></noteGrp></org>
@@ -808,21 +382,6 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                 <org xml:id="wkfm__44788">
                      <orgName>Johann Baptist Bolza und Johann Peter Bolza</orgName>
                   <noteGrp><note target="wkfm-0092.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0092</note><note target="wkfm-0093.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0093</note></noteGrp></org>
-                <org xml:id="wkfm__44948">
-                     <orgName>Georg Gutermann und Jakob Friedrich Gutermann</orgName>
-                  </org>
-                <org xml:id="wkfm__44996">
-                     <orgName>Tognola und Nissolo</orgName>
-                  </org>
-                <org xml:id="wkfm__45057">
-                     <orgName>von Pöllern und Wolfstorff</orgName>
-                  </org>
-                <org xml:id="wkfm__45244">
-                     <orgName>Zuana sel. Erben</orgName>
-                  </org>
-                <org xml:id="wkfm__45266">
-                     <orgName>Niklas Revena und Saliet</orgName>
-                  </org>
                 <org xml:id="wkfm__46106">
                      <orgName>Andrea Castelmur</orgName>
                   <noteGrp><note target="wkfm-0341.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0341</note><note target="wkfm-0342.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0342</note><note target="wkfm-0343.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0343</note><note target="wkfm-0344.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0344</note></noteGrp></org>
@@ -1456,9 +1015,6 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                 <org xml:id="wkfm__46591">
                      <orgName>Johann Gottlieb Arminger</orgName>
                   <noteGrp><note target="wkfm-0034.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0034</note></noteGrp></org>
-                <org xml:id="wkfm__46592">
-                     <orgName>Matthias Ankerl</orgName>
-                  </org>
                 <org xml:id="wkfm__46593">
                      <orgName>Matthias Ankerl sel. Witwe</orgName>
                   <noteGrp><note target="wkfm-0032.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0032</note><note target="wkfm-0036.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0036</note></noteGrp></org>
@@ -1483,9 +1039,6 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                 <org xml:id="wkfm__46602">
                      <orgName>Johann Zacher</orgName>
                   <noteGrp><note target="wkfm-1831.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1831</note></noteGrp></org>
-                <org xml:id="wkfm__46603">
-                     <orgName>Joseph Karl Zeillner</orgName>
-                  </org>
                 <org xml:id="wkfm__46605">
                      <orgName>Johann Georg Zöhrer</orgName>
                   <noteGrp><note target="wkfm-1837.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1837</note></noteGrp></org>
@@ -2308,9 +1861,6 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                 <org xml:id="wkfm__47109">
                      <orgName>Johann Isaak Vareille</orgName>
                   <noteGrp><note target="wkfm-0747.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0747</note></noteGrp></org>
-                <org xml:id="wkfm__47111">
-                     <orgName>Ignaz Franz Anton Feigl</orgName>
-                  </org>
                 <org xml:id="wkfm__47114">
                      <orgName>Georg Forster</orgName>
                   <noteGrp><note target="wkfm-0751.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0751</note></noteGrp></org>
@@ -2800,9 +2350,6 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                 <org xml:id="wkfm__47336">
                      <orgName>Ignaz Pillitschotti</orgName>
                   <noteGrp><note target="wkfm-0186.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0186</note></noteGrp></org>
-                <org xml:id="wkfm__47337">
-                     <orgName>Johann Kaspar Praun</orgName>
-                  </org>
                 <org xml:id="wkfm__47338">
                      <orgName>Matthäus Johannes Pitter </orgName>
                   <noteGrp><note target="wkfm-0190.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0190</note></noteGrp></org>
@@ -2914,9 +2461,6 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                 <org xml:id="wkfm__47380">
                      <orgName>Dominicus Polidoro</orgName>
                   <noteGrp><note target="wkfm-0283.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0283</note></noteGrp></org>
-                <org xml:id="wkfm__47381">
-                     <orgName>Joseph Pillitschotti</orgName>
-                  </org>
                 <org xml:id="wkfm__47383">
                      <orgName>Joseph Patuzzi, Guiseppe Patuzzi</orgName>
                   <noteGrp><note target="wkfm-0287.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0287</note></noteGrp></org>
@@ -3274,1078 +2818,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                 <org xml:id="wkfm__47613">
                      <orgName>Johann Gottfried Scherr</orgName>
                   <noteGrp><note target="wkfm-1699.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1699</note></noteGrp></org>
-                <org xml:id="wkfm__47639">
-                     <orgName>Johann Pfandtner sel. Frau Witwe</orgName>
-                  </org>
-                <org xml:id="wkfm__47641">
-                     <orgName>Matthias Zacharias Pingizer (Pingitzer) sel. Witwe</orgName>
-                  </org>
-                <org xml:id="wkfm__47647">
-                     <orgName>Johann Karl Rappatsch sel. Erben</orgName>
-                  </org>
-                <org xml:id="wkfm__47650">
-                     <orgName>Franz Sturm sel. Erben</orgName>
-                  </org>
-                <org xml:id="wkfm__47657">
-                     <orgName>Johann Andreas Trethan sel. Witwe</orgName>
-                  </org>
-                <org xml:id="wkfm__47658">
-                     <orgName>Mattheo Vanossi sel. Erben</orgName>
-                  </org>
-                <org xml:id="wkfm__47659">
-                     <orgName>Simon Weidinger sel. Witwe</orgName>
-                  </org>
-                <org xml:id="wkfm__47661">
-                     <orgName>Matthias Weickard sel. Witwe</orgName>
-                  </org>
-                <org xml:id="wkfm__47666">
-                     <orgName>Niklas d.Ä. Zollikofer, Georg d.J. Zollikofer und Gebrüder</orgName>
-                  </org>
-                <org xml:id="wkfm__47667">
-                     <orgName>Fruner und Neugepaur</orgName>
-                  </org>
-                <org xml:id="wkfm__47671">
-                     <orgName>Rathgeb &amp; Co.</orgName>
-                  </org>
-                <org xml:id="wkfm__47672">
-                     <orgName>Wenzel Exner sel. Erben</orgName>
-                  </org>
-                <org xml:id="wkfm__47676">
-                     <orgName>Johann Christoph Dauling sel. Witwe und Tobias Dauling</orgName>
-                  </org>
-                <org xml:id="wkfm__47678">
-                     <orgName>Johann Friedrich Hadammer sel. Witwe</orgName>
-                  </org>
-                <org xml:id="wkfm__47679">
-                     <orgName>Stephan Hölzl und Leopold Hölzl</orgName>
-                  </org>
-                <org xml:id="wkfm__47681">
-                     <orgName>Johann Ferber und Söhne</orgName>
-                  </org>
-                <org xml:id="wkfm__47682">
-                     <orgName>Farovino und Gläutsching</orgName>
-                  </org>
-                <org xml:id="wkfm__47683">
-                     <orgName>Patzer und Eisenreich</orgName>
-                  </org>
-                <org xml:id="wkfm__47684">
-                     <orgName>Streckenraif &amp; Co.</orgName>
-                  </org>
-                <org xml:id="wkfm__47686">
-                     <orgName>Pino und Prestinari</orgName>
-                  </org>
-                <org xml:id="wkfm__47688">
-                     <orgName>Rüdel und Huth</orgName>
-                  </org>
-                <org xml:id="wkfm__47689">
-                     <orgName>Ruffini &amp; Co.</orgName>
-                  </org>
-                <org xml:id="wkfm__47690">
-                     <orgName>Buirette und Söhne</orgName>
-                  </org>
-                <org xml:id="wkfm__47691">
-                     <orgName>Berlin und Ebermayr</orgName>
-                  </org>
-                <org xml:id="wkfm__47692">
-                     <orgName>Kaspar Würth sel. Erben</orgName>
-                  </org>
-                <org xml:id="wkfm__47693">
-                     <orgName>Jakob Johann Anton Zili Sohn &amp; Witwe</orgName>
-                  </org>
-                <org xml:id="wkfm__47694">
-                     <orgName>Erasmus Volgnad und Gottfried Volgnad</orgName>
-                  </org>
-                <org xml:id="wkfm__47695">
-                     <orgName>Jakob Johann Anton Zili Söhne &amp; Co.</orgName>
-                  </org>
-                <org xml:id="wkfm__47696">
-                     <orgName>Maximilian Luckner und Georg Mittermayr</orgName>
-                  </org>
-                <org xml:id="wkfm__47697">
-                     <orgName>Anton Zili &amp; Co.</orgName>
-                  </org>
-                <org xml:id="wkfm__47698">
-                     <orgName>Georg Zollikofer d.Ä. Gebrüder und Söhne</orgName>
-                  </org>
-                <org xml:id="wkfm__47699">
-                     <orgName>Johann Dupre und Johann de Ruiquidor</orgName>
-                  </org>
-                <org xml:id="wkfm__47700">
-                     <orgName>Claudius Engelender und Peter Engelender</orgName>
-                  </org>
-                <org xml:id="wkfm__47701">
-                     <orgName>Johann Eckenbrecht und Kaspar Gillen</orgName>
-                  </org>
-                <org xml:id="wkfm__47705">
-                     <orgName>Andre Georgio und Gebrüder</orgName>
-                  </org>
-                <org xml:id="wkfm__47706">
-                     <orgName>Georg Endter d.J. sel. Erben</orgName>
-                  </org>
-                <org xml:id="wkfm__47707">
-                     <orgName>Abraham Siess, Ambrosius Stenzmann &amp; Co.</orgName>
-                  </org>
-                <org xml:id="wkfm__47708">
-                     <orgName>Johann Teufel und Gottfried Teufel</orgName>
-                  </org>
-                <org xml:id="wkfm__47710">
-                     <orgName>Samuel Schmarofsky, Simon Peer und Johann Schmidt</orgName>
-                  </org>
-                <org xml:id="wkfm__47711">
-                     <orgName>Erasmus Volgnad, Gottfried Volgnad und Johann Friedrich Hadammer</orgName>
-                  </org>
-                <org xml:id="wkfm__47712">
-                     <orgName>Johann Engllohner und Wolf Haidnprunner</orgName>
-                  </org>
-                <org xml:id="wkfm__47713">
-                     <orgName>Kaspar Landmann und Andre Redl</orgName>
-                  </org>
-                <org xml:id="wkfm__47714">
-                     <orgName>Johann Purghauser und Stephan Strasser</orgName>
-                  </org>
-                <org xml:id="wkfm__47715">
-                     <orgName>Johann Friedrich Hadammer sel. Erben</orgName>
-                  </org>
-                <org xml:id="wkfm__47716">
-                     <orgName>Saviolli und Fantaci</orgName>
-                  </org>
-                <org xml:id="wkfm__47717">
-                     <orgName>Conrad und Richter</orgName>
-                  </org>
-                <org xml:id="wkfm__47718">
-                     <orgName>Johann Georg Friedrich Graf und Martin Graf</orgName>
-                  </org>
-                <org xml:id="wkfm__47719">
-                     <orgName>Strodt und Gebrüder</orgName>
-                  </org>
-                <org xml:id="wkfm__47722">
-                     <orgName>Wenzel Exner sel. Witwe</orgName>
-                  </org>
-                <org xml:id="wkfm__47723">
-                     <orgName>Christoph Jakob sel. Witwe</orgName>
-                  </org>
-                <org xml:id="wkfm__47727">
-                     <orgName>Daniel Huber sel. Witwe</orgName>
-                  </org>
-                <org xml:id="wkfm__47728">
-                     <orgName>Rochus und Prestinari</orgName>
-                  </org>
-                <org xml:id="wkfm__47729">
-                     <orgName>Sales und Contessa</orgName>
-                  </org>
-                <org xml:id="wkfm__47730">
-                     <orgName>Georg Christoph Sindt sel. Witwe</orgName>
-                  </org>
-                <org xml:id="wkfm__47732">
-                     <orgName>Erasmus Pühler sel. Erben</orgName>
-                  </org>
-                <org xml:id="wkfm__47734">
-                     <orgName>Zacharias Gretzl sel. Erben</orgName>
-                  </org>
-                <org xml:id="wkfm__47736">
-                     <orgName>Ludwig Hoda sel. Witwe</orgName>
-                  </org>
-                <org xml:id="wkfm__47737">
-                     <orgName>Anton Hoda sel. Witwe</orgName>
-                  </org>
-                <org xml:id="wkfm__47739">
-                     <orgName>Carone und Bordollo</orgName>
-                  </org>
-                <org xml:id="wkfm__47740">
-                     <orgName>Cognolla und Bianchi</orgName>
-                  </org>
-                <org xml:id="wkfm__47742">
-                     <orgName>Sebastian Zacherla &amp; Co.</orgName>
-                  </org>
-                <org xml:id="wkfm__47743">
-                     <orgName>Wilhelm Orsetti &amp; Co.</orgName>
-                  </org>
-                <org xml:id="wkfm__47744">
-                     <orgName>Johann Gionnotti &amp; Co.</orgName>
-                  </org>
-                <org xml:id="wkfm__47745">
-                     <orgName>Moriconi und Manfredi</orgName>
-                  </org>
-                <org xml:id="wkfm__47746">
-                     <orgName>Jakob Hormayr sel. Erben</orgName>
-                  </org>
-                <org xml:id="wkfm__47747">
-                     <orgName>Kaspar Feldner sel. Erben</orgName>
-                  </org>
-                <org xml:id="wkfm__47748">
-                     <orgName>Göllner sel. Erben</orgName>
-                  </org>
-                <org xml:id="wkfm__47749">
-                     <orgName>Wolf Feyrtag sel. Erben</orgName>
-                  </org>
-                <org xml:id="wkfm__47750">
-                     <orgName>Wolf Strauß und Michael Brueder</orgName>
-                  </org>
-                <org xml:id="wkfm__47751">
-                     <orgName>Johann Baptista Amoreti, Moriconi, Bottini &amp; Co.</orgName>
-                  </org>
-                <org xml:id="wkfm__47752">
-                     <orgName>Bottini, Orsetti, Manfredi &amp; Co.</orgName>
-                  </org>
-                <org xml:id="wkfm__47753">
-                     <orgName>Wolf Mahlknecht und Bartholomäus Streckenraif</orgName>
-                  </org>
-                <org xml:id="wkfm__47754">
-                     <orgName>Christoph Kraus und Franz Cortini</orgName>
-                  </org>
-                <org xml:id="wkfm__47757">
-                     <orgName>Johann Kayser sel. Erben</orgName>
-                  </org>
-                <org xml:id="wkfm__47758">
-                     <orgName>Zollikofer und Söhne</orgName>
-                  </org>
-                <org xml:id="wkfm__47759">
-                     <orgName>Michael Hölzl und Fridl Hölzl</orgName>
-                  </org>
-                <org xml:id="wkfm__47760">
-                     <orgName>Maximilian Rädinger &amp; Co.</orgName>
-                  </org>
-                <org xml:id="wkfm__47761">
-                     <orgName>Niklas Zollikofer &amp; Co.</orgName>
-                  </org>
-                <org xml:id="wkfm__47762">
-                     <orgName>Johann Dupre &amp; Co.</orgName>
-                  </org>
-                <org xml:id="wkfm__47763">
-                     <orgName>Marco Moriconi, Francesco Moriconi, Antonio Moriconi &amp; Co.</orgName>
-                  </org>
-                <org xml:id="wkfm__47765">
-                     <orgName>Heidl und Sachs</orgName>
-                  </org>
-                <org xml:id="wkfm__47766">
-                     <orgName>Exner &amp; Co.</orgName>
-                  </org>
-                <org xml:id="wkfm__47767">
-                     <orgName>Strobl &amp; Co.</orgName>
-                  </org>
-                <org xml:id="wkfm__47768">
-                     <orgName>Ventura Morpurgo &amp; Co.</orgName>
-                  </org>
-                <org xml:id="wkfm__47769">
-                     <orgName>Riemer und Miller</orgName>
-                  </org>
-                <org xml:id="wkfm__47772">
-                     <orgName>Grange und Passy</orgName>
-                  </org>
-                <org xml:id="wkfm__47776">
-                     <orgName>Johann Gsellhofer und Ferdinand Albrecht Gebl</orgName>
-                  </org>
-                <org xml:id="wkfm__47777">
-                     <orgName>Raphael del Pace &amp; Co.</orgName>
-                  </org>
-                <org xml:id="wkfm__47779">
-                     <orgName>Ree &amp; Co.</orgName>
-                  </org>
-                <org xml:id="wkfm__47780">
-                     <orgName>Johann Pollner und Gottfried Pollner</orgName>
-                  </org>
-                <org xml:id="wkfm__47781">
-                     <orgName>Bartholomäus Bottini und Heinrich Moriconi</orgName>
-                  </org>
-                <org xml:id="wkfm__47782">
-                     <orgName>Kaspar Schlumpf d.Ä. und Daniel Zollikofer d.Ä.</orgName>
-                  </org>
-                <org xml:id="wkfm__47783">
-                     <orgName>Wolf Dietrich Appl sel. Erben</orgName>
-                  </org>
-                <org xml:id="wkfm__47784">
-                     <orgName>Raphael del Pace und Hieronimo Pinocci</orgName>
-                  </org>
-                <org xml:id="wkfm__47785">
-                     <orgName>Kaspar Schlumpf &amp; Co.</orgName>
-                  </org>
-                <org xml:id="wkfm__47786">
-                     <orgName>Johann Baptista Pestaluzzi, Stephan Pestaluzzi und Caesar Pestaluzzi</orgName>
-                  </org>
-                <org xml:id="wkfm__47787">
-                     <orgName>Sebastian Zacherla und Johann Andre Cotti</orgName>
-                  </org>
-                <org xml:id="wkfm__47788">
-                     <orgName>Rudolf Cortini und Wilhelm Orsetti</orgName>
-                  </org>
-                <org xml:id="wkfm__47789">
-                     <orgName>Michael Stellner und Virgilio Winkler</orgName>
-                  </org>
-                <org xml:id="wkfm__47790">
-                     <orgName>Kaspar Schlumpf sel. Erben</orgName>
-                  </org>
-                <org xml:id="wkfm__47791">
-                     <orgName>Adam Masla und Gespan</orgName>
-                  </org>
-                <org xml:id="wkfm__47792">
-                     <orgName>Zacharias Hilger und Christian Hilger</orgName>
-                  </org>
-                <org xml:id="wkfm__47793">
-                     <orgName>Joseph Achtmark und Matthias Rieß</orgName>
-                  </org>
-                <org xml:id="wkfm__47794">
-                     <orgName>Johann Georg Müller und Gespan</orgName>
-                  </org>
-                <org xml:id="wkfm__47795">
-                     <orgName>Lorenz Tucci und Johann Baptista Facineti</orgName>
-                  </org>
-                <org xml:id="wkfm__47797">
-                     <orgName>Johann Koch sel. Erben &amp; Co.</orgName>
-                  </org>
-                <org xml:id="wkfm__47798">
-                     <orgName>Georg Embser sel. Erben</orgName>
-                  </org>
-                <org xml:id="wkfm__47799">
-                     <orgName>Salomon Großditz &amp; Co.</orgName>
-                  </org>
-                <org xml:id="wkfm__47800">
-                     <orgName>Bartholomäus Schnabl sel. Erben</orgName>
-                  </org>
-                <org xml:id="wkfm__47801">
-                     <orgName>Festa und Werdemann</orgName>
-                  </org>
-                <org xml:id="wkfm__47802">
-                     <orgName>Bartholomäus Viatis Erben</orgName>
-                  </org>
-                <org xml:id="wkfm__47803">
-                     <orgName>Johann Favre und Andre Caille</orgName>
-                  </org>
-                <org xml:id="wkfm__47804">
-                     <orgName>Johann Baptista Flanderini sel. Erben</orgName>
-                  </org>
-                <org xml:id="wkfm__47805">
-                     <orgName>Valentin Immerdruff und Gespan</orgName>
-                  </org>
-                <org xml:id="wkfm__47806">
-                     <orgName>Juden Gespanschaft</orgName>
-                  </org>
-                <org xml:id="wkfm__47808">
-                     <orgName>Kopp und Hautsch</orgName>
-                  </org>
-                <org xml:id="wkfm__47809">
-                     <orgName>Elias Hörmann und Heinrich Escher</orgName>
-                  </org>
-                <org xml:id="wkfm__47811">
-                     <orgName>Moriconi &amp; Co.</orgName>
-                  </org>
-                <org xml:id="wkfm__47812">
-                     <orgName>Georg Rohm sel. Erben</orgName>
-                  </org>
-                <org xml:id="wkfm__47813">
-                     <orgName>Jakob Zollikofer und Johann Jakob Knopf</orgName>
-                  </org>
-                <org xml:id="wkfm__47814">
-                     <orgName>Georg Rohm sel. Witwe</orgName>
-                  </org>
-                <org xml:id="wkfm__47815">
-                     <orgName>Johann Baptista Reschkali und Bernhard Pestaluzzi</orgName>
-                  </org>
-                <org xml:id="wkfm__47816">
-                     <orgName>Wolf Gsellhofer &amp; Co.</orgName>
-                  </org>
-                <org xml:id="wkfm__47817">
-                     <orgName>Lorenz Tucci &amp; Co.</orgName>
-                  </org>
-                <org xml:id="wkfm__47818">
-                     <orgName>Bartholomäus Muederach und Flanderini</orgName>
-                  </org>
-                <org xml:id="wkfm__47820">
-                     <orgName>Paul Krembser und Johann Kamroth</orgName>
-                  </org>
-                <org xml:id="wkfm__47821">
-                     <orgName>Christoph Beer und Johann Wolf Beer sel. Erben</orgName>
-                  </org>
-                <org xml:id="wkfm__47822">
-                     <orgName>Johann Baptist Falchetti und Gebrüder</orgName>
-                  </org>
-                <org xml:id="wkfm__47824">
-                     <orgName>Christian Wittick sel. Witwe</orgName>
-                  </org>
-                <org xml:id="wkfm__47825">
-                     <orgName>Schiebel und Koschke</orgName>
-                  </org>
-                <org xml:id="wkfm__47828">
-                     <orgName>Johann Österreicher sel. Erben</orgName>
-                  </org>
-                <org xml:id="wkfm__47829">
-                     <orgName>Friedrich Endorffer und Johann Endorffer</orgName>
-                  </org>
-                <org xml:id="wkfm__47830">
-                     <orgName>Johann Nidermayr und Reiser</orgName>
-                  </org>
-                <org xml:id="wkfm__47831">
-                     <orgName>Georg Ludwig Masco &amp; Co.</orgName>
-                  </org>
-                <org xml:id="wkfm__47832">
-                     <orgName>Johann Pionseck &amp; Co.</orgName>
-                  </org>
-                <org xml:id="wkfm__47833">
-                     <orgName>Johann Mayr und Erasmus Zöllinger</orgName>
-                  </org>
-                <org xml:id="wkfm__47834">
-                     <orgName>Johannes Kraus und Gespan</orgName>
-                  </org>
-                <org xml:id="wkfm__47835">
-                     <orgName>Bartholomäus Bottini &amp; Co.</orgName>
-                  </org>
-                <org xml:id="wkfm__47838">
-                     <orgName>Final &amp; Co.</orgName>
-                  </org>
-                <org xml:id="wkfm__47839">
-                     <orgName>Pino und Condesse</orgName>
-                  </org>
-                <org xml:id="wkfm__47840">
-                     <orgName>Wolf Prämer sel. Erben</orgName>
-                  </org>
-                <org xml:id="wkfm__47842">
-                     <orgName>Daniel Gutschi und Andreas Jon</orgName>
-                  </org>
-                <org xml:id="wkfm__47843">
-                     <orgName>Flanderini und Bartholomäus Mueterach sel. Erben</orgName>
-                  </org>
-                <org xml:id="wkfm__47844">
-                     <orgName>Anna Huberin &amp; Co.</orgName>
-                  </org>
-                <org xml:id="wkfm__47845">
-                     <orgName>Andre Leb und Johann Ramler</orgName>
-                  </org>
-                <org xml:id="wkfm__47847">
-                     <orgName>Gottfried Exner &amp; Co.</orgName>
-                  </org>
-                <org xml:id="wkfm__47849">
-                     <orgName>Stockowinz und Simon Wollini</orgName>
-                  </org>
-                <org xml:id="wkfm__47851">
-                     <orgName>Paetiplinzi und Wielandt</orgName>
-                  </org>
-                <org xml:id="wkfm__47852">
-                     <orgName>Matthias Friesacher und Johann Lenepeck</orgName>
-                  </org>
-                <org xml:id="wkfm__47853">
-                     <orgName>Jakob Pollner und Johann Pollner</orgName>
-                  </org>
-                <org xml:id="wkfm__47859">
-                     <orgName>Jakob Müllner und Kriegl</orgName>
-                  </org>
-                <org xml:id="wkfm__47860">
-                     <orgName>Georg Langer, Christoph Huphmann und Urban Schall</orgName>
-                  </org>
-                <org xml:id="wkfm__47863">
-                     <orgName>Michael de la Foga und Johann de la Foga</orgName>
-                  </org>
-                <org xml:id="wkfm__47864">
-                     <orgName>Wolf Pommer und Johann Pommer</orgName>
-                  </org>
-                <org xml:id="wkfm__47866">
-                     <orgName>Christoph Lüntner und Johann Pfluch</orgName>
-                  </org>
-                <org xml:id="wkfm__47868">
-                     <orgName>Matthias Primbster &amp; Co.</orgName>
-                  </org>
-                <org xml:id="wkfm__47869">
-                     <orgName>Jörg Hiemayr und Gallus Mayrhofer</orgName>
-                  </org>
-                <org xml:id="wkfm__47872">
-                     <orgName>Kielmann</orgName>
-                  </org>
-                <org xml:id="wkfm__47874">
-                     <orgName>Schlumpf</orgName>
-                  </org>
-                <org xml:id="wkfm__47876">
-                     <orgName>Zacharias Platner und Hieronymus Platner</orgName>
-                  </org>
-                <org xml:id="wkfm__47877">
-                     <orgName>Christoph Müllner sel. Erben</orgName>
-                  </org>
-                <org xml:id="wkfm__47878">
-                     <orgName>Kofflerische Erben</orgName>
-                  </org>
-                <org xml:id="wkfm__47879">
-                     <orgName>Werdemannische</orgName>
-                  </org>
-                <org xml:id="wkfm__47880">
-                     <orgName>Melchart Dosso sel. Erben</orgName>
-                  </org>
-                <org xml:id="wkfm__47881">
-                     <orgName>Julius Sonner sel. Erben</orgName>
-                  </org>
-                <org xml:id="wkfm__47883">
-                     <orgName>Stephan von Tetschin und Nikolas Crieg</orgName>
-                  </org>
-                <org xml:id="wkfm__47886">
-                     <orgName>Lucchini und Mechoni</orgName>
-                  </org>
-                <org xml:id="wkfm__47887">
-                     <orgName>Schweyer und Riehl</orgName>
-                  </org>
-                <org xml:id="wkfm__47888">
-                     <orgName>Zollikofer und Goldast</orgName>
-                  </org>
-                <org xml:id="wkfm__47889">
-                     <orgName>Hölbling und Stromüllner</orgName>
-                  </org>
-                <org xml:id="wkfm__47890">
-                     <orgName>Ferber und Schweyer</orgName>
-                  </org>
-                <org xml:id="wkfm__47891">
-                     <orgName>Johann Schinnagl und Wolf Wilhelm Schinnagl</orgName>
-                  </org>
-                <org xml:id="wkfm__47892">
-                     <orgName>Felber und Eisenhuet</orgName>
-                  </org>
-                <org xml:id="wkfm__47893">
-                     <orgName>Wolf Sauttermaister und Friedrich Sauttermaister</orgName>
-                  </org>
-                <org xml:id="wkfm__47894">
-                     <orgName>Herling und Werling</orgName>
-                  </org>
-                <org xml:id="wkfm__47895">
-                     <orgName>Kaspar Gillen und Söhne</orgName>
-                  </org>
-                <org xml:id="wkfm__47896">
-                     <orgName>Gottfried Volgnad und Johann Christian Volgnad</orgName>
-                  </org>
-                <org xml:id="wkfm__47897">
-                     <orgName>Lorenz Mayr und Gerhard Mayr</orgName>
-                  </org>
-                <org xml:id="wkfm__47898">
-                     <orgName>Johann Häckl und Adam Ziegler</orgName>
-                  </org>
-                <org xml:id="wkfm__47899">
-                     <orgName>Rick und Grubmüller</orgName>
-                  </org>
-                <org xml:id="wkfm__47902">
-                     <orgName>Georg Pock und Michael Pock</orgName>
-                  </org>
-                <org xml:id="wkfm__47904">
-                     <orgName>Gelb und Mächerl</orgName>
-                  </org>
-                <org xml:id="wkfm__47905">
-                     <orgName>Haignet und Freneau</orgName>
-                  </org>
-                <org xml:id="wkfm__47907">
-                     <orgName>Paumgartner und Wendenzweig</orgName>
-                  </org>
-                <org xml:id="wkfm__47908">
-                     <orgName>Johann Adam Meyr und Anton Vital</orgName>
-                  </org>
-                <org xml:id="wkfm__47909">
-                     <orgName>Theodor Georgio und Söhne</orgName>
-                  </org>
-                <org xml:id="wkfm__47910">
-                     <orgName>Behm und Merckl</orgName>
-                  </org>
-                <org xml:id="wkfm__47913">
-                     <orgName>Moser und Ernst</orgName>
-                  </org>
-                <org xml:id="wkfm__47914">
-                     <orgName>Löschenkohl und Dallensteiner</orgName>
-                  </org>
-                <org xml:id="wkfm__47915">
-                     <orgName>Brandt und von Burgl</orgName>
-                  </org>
-                <org xml:id="wkfm__47917">
-                     <orgName>Johann Kaspar Hieronymus Gill(en) und Achaz Gill(en)</orgName>
-                  </org>
-                <org xml:id="wkfm__47918">
-                     <orgName>Gsellhofer und Riemer</orgName>
-                  </org>
-                <org xml:id="wkfm__47920">
-                     <orgName>Rigotti &amp; Co.</orgName>
-                  </org>
-                <org xml:id="wkfm__47921">
-                     <orgName>Johann Rudolf Heyss sel. Witwe</orgName>
-                  </org>
-                <org xml:id="wkfm__47922">
-                     <orgName>Warnberger und Mayr</orgName>
-                  </org>
-                <org xml:id="wkfm__47923">
-                     <orgName>Johann Schweikhard Pürkl sel. Söhne</orgName>
-                  </org>
-                <org xml:id="wkfm__47925">
-                     <orgName>Verget und Meinberger</orgName>
-                  </org>
-                <org xml:id="wkfm__47926">
-                     <orgName>Johann Kaspar Fries und Johann Konrad Fries</orgName>
-                  </org>
-                <org xml:id="wkfm__47927">
-                     <orgName>Georg Pock &amp; Co.</orgName>
-                  </org>
-                <org xml:id="wkfm__47928">
-                     <orgName>Kaspar Schulz und Kaspar Herzog</orgName>
-                  </org>
-                <org xml:id="wkfm__47929">
-                     <orgName>Zacharias Kriner &amp; Co.</orgName>
-                  </org>
-                <org xml:id="wkfm__47930">
-                     <orgName>Carl Ferdinand Muhr und Sebastian Poll</orgName>
-                  </org>
-                <org xml:id="wkfm__47931">
-                     <orgName>Ferdinand Dyr sel. Witwe</orgName>
-                  </org>
-                <org xml:id="wkfm__47932">
-                     <orgName>Antoni und Karzenhausen</orgName>
-                  </org>
-                <org xml:id="wkfm__47933">
-                     <orgName>Daniel und Karzenhausen</orgName>
-                  </org>
-                <org xml:id="wkfm__47934">
-                     <orgName>Johann Christoph Dauling sel. Witwe</orgName>
-                  </org>
-                <org xml:id="wkfm__47935">
-                     <orgName>Guaitta &amp; Co.</orgName>
-                  </org>
-                <org xml:id="wkfm__47936">
-                     <orgName>Schwarzenberger und Zöhrer</orgName>
-                  </org>
-                <org xml:id="wkfm__47938">
-                     <orgName>Johann Jakob Albrecht Schobinger und Johann Kaspar Zili</orgName>
-                  </org>
-                <org xml:id="wkfm__47939">
-                     <orgName>Johann Siebenhaar und Georg Siebenhaar</orgName>
-                  </org>
-                <org xml:id="wkfm__47941">
-                     <orgName>Manfrezani und Peterzoll</orgName>
-                  </org>
-                <org xml:id="wkfm__47942">
-                     <orgName>Franz Cortini und Rudolf Foppa</orgName>
-                  </org>
-                <org xml:id="wkfm__47943">
-                     <orgName>Controni und Manzi</orgName>
-                  </org>
-                <org xml:id="wkfm__47945">
-                     <orgName>Johann Christoph Mayr und Johann Georg Mayr</orgName>
-                  </org>
-                <org xml:id="wkfm__47950">
-                     <orgName>Schinnerer und Heidl</orgName>
-                  </org>
-                <org xml:id="wkfm__47951">
-                     <orgName>Silvester Pino sel. Witwe und Erben</orgName>
-                  </org>
-                <org xml:id="wkfm__47952">
-                     <orgName>Wendenzweig &amp; Co.</orgName>
-                  </org>
-                <org xml:id="wkfm__47953">
-                     <orgName>Schinnerer und Khueffarth</orgName>
-                  </org>
-                <org xml:id="wkfm__47954">
-                     <orgName>Antonio Lucchini und Jakob Sardini</orgName>
-                  </org>
-                <org xml:id="wkfm__47955">
-                     <orgName>Augustin Manzi und Stephan Mechoni</orgName>
-                  </org>
-                <org xml:id="wkfm__47956">
-                     <orgName>Engelender &amp; Co.</orgName>
-                  </org>
-                <org xml:id="wkfm__47957">
-                     <orgName>Johann Richter sel. Witwe</orgName>
-                  </org>
-                <org xml:id="wkfm__47958">
-                     <orgName>Eckenbrecht &amp; Co.</orgName>
-                  </org>
-                <org xml:id="wkfm__47959">
-                     <orgName>Michael Pinkes und Daniel Pinkes</orgName>
-                  </org>
-                <org xml:id="wkfm__47960">
-                     <orgName>Claudius Engelender und Hektor Poisson</orgName>
-                  </org>
-                <org xml:id="wkfm__47961">
-                     <orgName>Wolf Feyrtag sel. Witwe</orgName>
-                  </org>
-                <org xml:id="wkfm__47963">
-                     <orgName>Johann Feylater sel. Erben</orgName>
-                  </org>
-                <org xml:id="wkfm__47964">
-                     <orgName>Johann Cinacchi und Bianchi</orgName>
-                  </org>
-                <org xml:id="wkfm__47967">
-                     <orgName>Weißgärber &amp; Co.</orgName>
-                  </org>
-                <org xml:id="wkfm__47969">
-                     <orgName>Wildenser und Posquet</orgName>
-                  </org>
-                <org xml:id="wkfm__47971">
-                     <orgName>Curra &amp; Co.</orgName>
-                  </org>
-                <org xml:id="wkfm__47974">
-                     <orgName>Abraham Siess, Söhne &amp; Co.</orgName>
-                  </org>
-                <org xml:id="wkfm__47978">
-                     <orgName>Tremanino und Speranza Compagnia</orgName>
-                  </org>
-                <org xml:id="wkfm__47979">
-                     <orgName>Moder &amp; Co.</orgName>
-                  </org>
-                <org xml:id="wkfm__47980">
-                     <orgName>Johann Glax sel. Witwe</orgName>
-                  </org>
-                <org xml:id="wkfm__47981">
-                     <orgName>Matthias Hammerschmid Gebrüder</orgName>
-                  </org>
-                <org xml:id="wkfm__47983">
-                     <orgName>Dominico Della Seda und Alberto Della Seda</orgName>
-                  </org>
-                <org xml:id="wkfm__47984">
-                     <orgName>Kaspar Mayr und Georg Mayr</orgName>
-                  </org>
-                <org xml:id="wkfm__47985">
-                     <orgName>Jakob D'Orville und Johann Wolf Grienseisen</orgName>
-                  </org>
-                <org xml:id="wkfm__47986">
-                     <orgName>Antonio Affitati und Ant. Maffi</orgName>
-                  </org>
-                <org xml:id="wkfm__47987">
-                     <orgName>Michael Zollikofer und Georg Goldast</orgName>
-                  </org>
-                <org xml:id="wkfm__47989">
-                     <orgName>Johann Nohan und Valentin Lattermann</orgName>
-                  </org>
-                <org xml:id="wkfm__47991">
-                     <orgName>Simon Pix und Johann Adam Rämbsl</orgName>
-                  </org>
-                <org xml:id="wkfm__47992">
-                     <orgName>Jakob D'Orville &amp; Co.</orgName>
-                  </org>
-                <org xml:id="wkfm__47994">
-                     <orgName>Eschner sel. Witwe</orgName>
-                  </org>
-                <org xml:id="wkfm__47996">
-                     <orgName>Johann Georg Meyer und Gottfried Zauner</orgName>
-                  </org>
-                <org xml:id="wkfm__47997">
-                     <orgName>Wolf Mahlknecht &amp; Co.</orgName>
-                  </org>
-                <org xml:id="wkfm__47998">
-                     <orgName>Samuel Parofsky und Heinrich Plagezky</orgName>
-                  </org>
-                <org xml:id="wkfm__47999">
-                     <orgName>Niklas Wollwein sel. Sohn</orgName>
-                  </org>
-                <org xml:id="wkfm__48001">
-                     <orgName>Sensenkompanie</orgName>
-                  </org>
-                <org xml:id="wkfm__48002">
-                     <orgName>Heinrich Olivet und Görb</orgName>
-                  </org>
-                <org xml:id="wkfm__48003">
-                     <orgName>Cornelius de Walpergen und Johann Christoph Peck</orgName>
-                  </org>
-                <org xml:id="wkfm__48004">
-                     <orgName>Wolf Strauß sel. Erben</orgName>
-                  </org>
-                <org xml:id="wkfm__48006">
-                     <orgName>Menhardt Söhne</orgName>
-                  </org>
-                <org xml:id="wkfm__48010">
-                     <orgName>Johann Maria Carobel &amp; Co.</orgName>
-                  </org>
-                <org xml:id="wkfm__48012">
-                     <orgName>Paganini und Georgio</orgName>
-                  </org>
-                <org xml:id="wkfm__48013">
-                     <orgName>Gregor Schinnerer &amp; Co.</orgName>
-                  </org>
-                <org xml:id="wkfm__48015">
-                     <orgName>Wolf Doppler &amp; Co.</orgName>
-                  </org>
-                <org xml:id="wkfm__48016">
-                     <orgName>Kompanie von Sierninghofen</orgName>
-                  </org>
-                <org xml:id="wkfm__48019">
-                     <orgName>Georg Wenzl und Thomas Friedl</orgName>
-                  </org>
-                <org xml:id="wkfm__48020">
-                     <orgName>Wolf Schinnagl &amp; Co.</orgName>
-                  </org>
-                <org xml:id="wkfm__48022">
-                     <orgName>Wolf Heidl &amp; Co.</orgName>
-                  </org>
-                <org xml:id="wkfm__48023">
-                     <orgName>Wolf Fuertmüllner &amp; Co.</orgName>
-                  </org>
-                <org xml:id="wkfm__48024">
-                     <orgName>Andre Quardin und Peter Quardin</orgName>
-                  </org>
-                <org xml:id="wkfm__48025">
-                     <orgName>Leonhardt Scharer, Georg Zaller und Elexius Ecker</orgName>
-                  </org>
-                <org xml:id="wkfm__48026">
-                     <orgName>Marin Scheunäst sel. Erben</orgName>
-                  </org>
-                <org xml:id="wkfm__48027">
-                     <orgName>Ludwig Meyer und Gottfried Zauner</orgName>
-                  </org>
-                <org xml:id="wkfm__48031">
-                     <orgName>Heinrich Olivet &amp; Co.</orgName>
-                  </org>
-                <org xml:id="wkfm__48032">
-                     <orgName>Johann Pino und Andre Sales</orgName>
-                  </org>
-                <org xml:id="wkfm__48033">
-                     <orgName>Johann Wolf Hollfelder &amp; Co.</orgName>
-                  </org>
-                <org xml:id="wkfm__48034">
-                     <orgName>Löwl Hirschl und Gespan</orgName>
-                  </org>
-                <org xml:id="wkfm__48036">
-                     <orgName>Jakob Löwl und Gespan</orgName>
-                  </org>
-                <org xml:id="wkfm__48037">
-                     <orgName>Georg Schlosser und Daniel Müllner</orgName>
-                  </org>
-                <org xml:id="wkfm__48038">
-                     <orgName>Dominico Cetti und Antonio Cetti</orgName>
-                  </org>
-                <org xml:id="wkfm__48039">
-                     <orgName>Johann Maria Graue und Carolo Prenten</orgName>
-                  </org>
-                <org xml:id="wkfm__48040">
-                     <orgName>Johann Pino und Anton Pino</orgName>
-                  </org>
-                <org xml:id="wkfm__48041">
-                     <orgName>Samuel Börich und Löwl Moises</orgName>
-                  </org>
-                <org xml:id="wkfm__48043">
-                     <orgName>Prämer</orgName>
-                  </org>
-                <org xml:id="wkfm__48045">
-                     <orgName>Friedrich von Ohl sel. Witwe</orgName>
-                  </org>
-                <org xml:id="wkfm__48048">
-                     <orgName>Georg Humbler und Johann Geiger</orgName>
-                  </org>
-                <org xml:id="wkfm__48050">
-                     <orgName>Gebrüder Georgio</orgName>
-                  </org>
-                <org xml:id="wkfm__48054">
-                     <orgName>Claudius Engelender, Hektor Poisson und Niklas Menageot</orgName>
-                  </org>
-                <org xml:id="wkfm__48055">
-                     <orgName>Sebastian Zacherla und Gaudenz Zacherla</orgName>
-                  </org>
-                <org xml:id="wkfm__48058">
-                     <orgName>Johann Fux sel. Erben</orgName>
-                  </org>
-                <org xml:id="wkfm__48059">
-                     <orgName>Melßheimer und Gillen</orgName>
-                  </org>
-                <org xml:id="wkfm__48060">
-                     <orgName>Johann Wilhelm Pögl sel. Witwe</orgName>
-                  </org>
-                <org xml:id="wkfm__48061">
-                     <orgName>Johann Ferdinand Paur sel. Witwe</orgName>
-                  </org>
-                <org xml:id="wkfm__48062">
-                     <orgName>Balthasar Vogl und Gespan</orgName>
-                  </org>
-                <org xml:id="wkfm__48063">
-                     <orgName>Manfre Zuana sel. Erben</orgName>
-                  </org>
-                <org xml:id="wkfm__48064">
-                     <orgName>Georg Illing und Gottfried Gruner</orgName>
-                  </org>
-                <org xml:id="wkfm__48065">
-                     <orgName>Zacharias Kriner und Schmidt</orgName>
-                  </org>
-                <org xml:id="wkfm__48066">
-                     <orgName>Speck und Ullich</orgName>
-                  </org>
-                <org xml:id="wkfm__48067">
-                     <orgName>Florentin und Tausch</orgName>
-                  </org>
-                <org xml:id="wkfm__48068">
-                     <orgName>Zacharias Gretzl sel. Witwe</orgName>
-                  </org>
-                <org xml:id="wkfm__48069">
-                     <orgName>Paur und Gabelier</orgName>
-                  </org>
-                <org xml:id="wkfm__48071">
-                     <orgName>Orlando und Zondonati</orgName>
-                  </org>
-                <org xml:id="wkfm__48072">
-                     <orgName>Johann Michael Wolf sel. Witwe</orgName>
-                  </org>
-                <org xml:id="wkfm__48073">
-                     <orgName>Johann Jäckisch und Adam Sailer</orgName>
-                  </org>
-                <org xml:id="wkfm__48079">
-                     <orgName>Elias Georgio sel. Erben</orgName>
-                  </org>
-                <org xml:id="wkfm__48080">
-                     <orgName>Kueffartische Erben und Molterer</orgName>
-                  </org>
-                <org xml:id="wkfm__48081">
-                     <orgName>Messinghandlung</orgName>
-                  </org>
-                <org xml:id="wkfm__48082">
-                     <orgName>Jakob Leon sel. Erben</orgName>
-                  </org>
-                <org xml:id="wkfm__48083">
-                     <orgName>Johann Perger und Matthias Perger</orgName>
-                  </org>
-                <org xml:id="wkfm__48084">
-                     <orgName>Johann Georg Mitterer sel. Witwe</orgName>
-                  </org>
-                <org xml:id="wkfm__48085">
-                     <orgName>Andre Trunzer und Gespan</orgName>
-                  </org>
-                <org xml:id="wkfm__48086">
-                     <orgName>Johann Georg Köck und Gespan</orgName>
-                  </org>
-                <org xml:id="wkfm__48087">
-                     <orgName>Andre Fromwald sel. Witwe</orgName>
-                  </org>
-                <org xml:id="wkfm__48088">
-                     <orgName>Fossato und Borgin</orgName>
-                  </org>
-                <org xml:id="wkfm__48089">
-                     <orgName>Johann Leon sel. Witwe</orgName>
-                  </org>
-                <org xml:id="wkfm__48090">
-                     <orgName>Leonhard Moser sel. Witwe</orgName>
-                  </org>
-                <org xml:id="wkfm__48091">
-                     <orgName>Ignaz Näzer sel. Witwe</orgName>
-                  </org>
-                <org xml:id="wkfm__48092">
-                     <orgName>Michael Würfl sel. Witwe</orgName>
-                  </org>
-                <org xml:id="wkfm__48093">
-                     <orgName>Johann Michael Gedon und Gespan</orgName>
-                  </org>
-                <org xml:id="wkfm__48095">
-                     <orgName>Wilhelm Orsetti, Zacherla, Bottini &amp; Co.</orgName>
-                  </org>
-                <org xml:id="wkfm__48096">
-                     <orgName>Martin Grienseisen sel. Witwe</orgName>
-                  </org>
-                <org xml:id="wkfm__48097">
-                     <orgName>Wolf Koller sel. Erben</orgName>
-                  </org>
-                <org xml:id="wkfm__48098">
-                     <orgName>Courtet und Abrie</orgName>
-                  </org>
-                <org xml:id="wkfm__48099">
-                     <orgName>Christian Puzer und Gespan</orgName>
-                  </org>
-                <org xml:id="wkfm__48100">
-                     <orgName>Strobl, Weiß &amp; Co.</orgName>
-                  </org>
-                <org xml:id="wkfm__48101">
-                     <orgName>Matthias Hölzl sel. Erben</orgName>
-                  </org>
-                <org xml:id="wkfm__48102">
-                     <orgName>Balthasar Läck und Gespan</orgName>
-                  </org>
-                <org xml:id="wkfm__48103">
-                     <orgName>Jeremias Gämauff und Gespan</orgName>
-                  </org>
-                <org xml:id="wkfm__48104">
-                     <orgName>Simon Weyrer und Gespan</orgName>
-                  </org>
-                <org xml:id="wkfm__48105">
-                     <orgName>Zacharias Joseph Deitmayr sel. Witwe</orgName>
-                  </org>
-                <org xml:id="wkfm__48106">
-                     <orgName>Peter Schwalli und Paul Schwalli</orgName>
-                  </org>
-                <org xml:id="wkfm__48107">
-                     <orgName>Matthias Pautisch und Gespan</orgName>
-                  </org>
-                <org xml:id="wkfm__48108">
-                     <orgName>Johann Georg Hoffmann und Andre Lang</orgName>
-                  </org>
-                <org xml:id="wkfm__48109">
-                     <orgName>Franz Ertl sel. Witwe</orgName>
-                  </org>
-                <org xml:id="wkfm__48110">
-                     <orgName>Replinski und Weillandt</orgName>
-                  </org>
-                <org xml:id="wkfm__48111">
-                     <orgName>Martin Strobl &amp; Co.</orgName>
-                  </org>
-                <org xml:id="wkfm__48115">
-                     <orgName>Elias Berndonner sel. Witwe</orgName>
-                  </org>
-                <org xml:id="wkfm__48116">
-                     <orgName>Steyrer Eisenkompanie</orgName>
-                  </org>
-                <org xml:id="wkfm__48117">
-                     <orgName>Matthias Kropfberger und Thomas Wagner</orgName>
-                  </org>
-                <org xml:id="wkfm__48118">
-                     <orgName>Bartholomäus Strobl &amp; Co.</orgName>
-                  </org>
-                <org xml:id="wkfm__48120">
-                     <orgName>Stephan Knoll &amp; Co.</orgName>
-                  </org>
-                <org xml:id="wkfm__48121">
-                     <orgName>Georg Wilhelm Pellham sel. Witwe</orgName>
-                  </org>
-                <org xml:id="wkfm__48122">
-                     <orgName>Georg Matthias Strasser sel. Witwe</orgName>
-                  </org>
-                <org xml:id="wkfm__48123">
-                     <orgName>Wolf Stephan Gsellhofer sel. Witwe und Samuel Goßke</orgName>
-                  </org>
-                <org xml:id="wkfm__48124">
-                     <orgName>Johann Laiminger und Martin Laiminger</orgName>
-                  </org>
-                <org xml:id="wkfm__48126">
-                     <orgName>Leopold Prändl und Gespan</orgName>
-                  </org>
-                <org xml:id="wkfm__48127">
-                     <orgName>Simon Zöhrer sel. Witwe</orgName>
-                  </org>
-                <org xml:id="wkfm__48131">
-                     <orgName>Stephan Gevatter und Ferdinand Sigmundt</orgName>
-                  </org>
-                <org xml:id="wkfm__48132">
-                     <orgName>Johann Andre Feyrtag sel. Witwe</orgName>
-                  </org>
-                <org xml:id="wkfm__48133">
-                     <orgName>Elias Näzer sel. Witwe</orgName>
-                  </org>
-                <org xml:id="wkfm__48134">
-                     <orgName>Dominikus Kaufmann sel. Erben</orgName>
-                  </org>
-                <org xml:id="wkfm__48135">
-                     <orgName>Melchior Liebhardt &amp; Co.</orgName>
-                  </org>
-                <org xml:id="wkfm__48136">
-                     <orgName>Bartholomäus Strobl, Weiß &amp; Co.</orgName>
-                  </org>
-                <org xml:id="wkfm__48137">
-                     <orgName>Johann Michael Grueber und Ignaz Grußmayr</orgName>
-                  </org>
-                <org xml:id="wkfm__48139">
-                     <orgName>Franz Meyr und Gespan</orgName>
-                  </org>
-                <org xml:id="wkfm__48142">
-                     <orgName>Niklas Seidl und Gespan</orgName>
-                  </org>
-                <org xml:id="wkfm__48143">
-                     <orgName>Franz Lisson und Gespan</orgName>
-                  </org>
-                <org xml:id="wkfm__48144">
-                     <orgName>Leopold Promberger und Gespan</orgName>
-                  </org>
-                <org xml:id="wkfm__48145">
-                     <orgName>Ferdinand Jas und Gespan</orgName>
-                  </org>
-                <org xml:id="wkfm__48146">
-                     <orgName>Johann Pfeiffer und Gespan</orgName>
-                  </org>
-                <org xml:id="wkfm__48147">
-                     <orgName>Franz Schaccomo und Gespan</orgName>
-                  </org>
-                <org xml:id="wkfm__48149">
-                     <orgName>Johann Pursch und Ambros Paur</orgName>
-                  </org>
-                <org xml:id="wkfm__48151">
-                     <orgName>Matthias Fromwald und Gespan</orgName>
-                  </org>
-            </listOrg>
+                </listOrg>
         </div>
       </body>
    </text>

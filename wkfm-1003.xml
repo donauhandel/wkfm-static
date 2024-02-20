@@ -88,7 +88,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46498">
+    <back><listOrg><org xml:id="wkfm__46499">
+                     <orgName>Thomas Halbax</orgName>
+                  <noteGrp><note target="wkfm-1003.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1003</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__46498">
                      <persName>
                         <forename>Thomas</forename>
                         <surname>Halbax</surname>
@@ -108,8 +111,5 @@
                         <bibl>Huchler, Bürgeraufnahmen, 400.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1003.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1003</note><note target="wkfm-1004.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1004</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46499">
-                     <orgName>Thomas Halbax</orgName>
-                  <noteGrp><note target="wkfm-1003.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1003</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

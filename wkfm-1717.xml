@@ -96,7 +96,24 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43611">
+    <back><listPerson><person xml:id="wkfm__12636">
+                     <persName>
+                        <forename>Franz Anton</forename>
+                        <surname>Wolf</surname>
+                     </persName>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Spiegelhändler</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-1717.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1717</note><note target="wkfm-1718.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1718</note></noteGrp></person>
+                <person xml:id="wkfm__43611">
                      <persName>
                         <forename>Johann Heinrich</forename>
                         <surname>Rang</surname>
@@ -115,23 +132,6 @@
                         <placeName key="#wkfm-place__2593">Hammelburg</placeName>
                      </residence>
                      <occupation>Handelsmann, Spiegelhändler</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-1717.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1717</note><note target="wkfm-1718.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1718</note></noteGrp></person>
-                <person xml:id="wkfm__12636">
-                     <persName>
-                        <forename>Franz Anton</forename>
-                        <surname>Wolf</surname>
-                     </persName>
-                     <residence type="Bürgerrecht">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Spiegelhändler</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1717.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1717</note><note target="wkfm-1718.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1718</note></noteGrp></person>
                 </listPerson><listOrg><org xml:id="wkfm__46956">

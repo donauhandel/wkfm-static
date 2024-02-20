@@ -108,7 +108,14 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43906">
+    <back><listPerson><person xml:id="wkfm__43905">
+                     <persName>
+                        <forename>Sigmund Joachim</forename>
+                        <surname>von Heimerl</surname>
+                     </persName>
+                     <occupation>N.Ö. Regierungssekretär</occupation>
+               <noteGrp><note target="wkfm-0195.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0195</note><note target="wkfm-0934.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0934</note><note target="wkfm-0936.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0936</note></noteGrp></person>
+                <person xml:id="wkfm__43906">
                      <persName>
                         <forename>Bernhard</forename>
                         <surname>von Heimerl</surname>
@@ -117,8 +124,8 @@
                 <person xml:id="wkfm__24831">
                      <persName>
                         <forename>Johann Wolf</forename>
-                        <forename type="alt">Wolfgang</forename>
                         <forename type="alt">Johann Wolfgang</forename>
+                        <forename type="alt">Wolfgang</forename>
                         <surname>Heimerl</surname>
                         <surname type="alt">Haymerl</surname>
                      </persName>
@@ -175,13 +182,6 @@ Donaumonarchie 6, Neu bearbeitete, deutschsprachige Ausgabe Wien 2013)
 270-272&amp;lt;/span&amp;gt;.&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0078.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0078</note><note target="wkfm-0079.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0079</note><note target="wkfm-0933.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0933</note><note target="wkfm-0934.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0934</note><note target="wkfm-0935.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0935</note><note target="wkfm-0936.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0936</note></noteGrp></person>
-                <person xml:id="wkfm__43905">
-                     <persName>
-                        <forename>Sigmund Joachim</forename>
-                        <surname>von Heimerl</surname>
-                     </persName>
-                     <occupation>N.Ö. Regierungssekretär</occupation>
-               <noteGrp><note target="wkfm-0195.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0195</note><note target="wkfm-0934.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0934</note><note target="wkfm-0936.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0936</note></noteGrp></person>
                 <person xml:id="wkfm__40680">
                      <persName>
                         <forename>Johann Matthias</forename>

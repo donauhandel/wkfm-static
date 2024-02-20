@@ -104,7 +104,13 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46536" sameAs="#wkfm__46729 ">
+    <back><listOrg><org xml:id="wkfm__46538">
+                     <orgName>Franz Hackl</orgName>
+                  <noteGrp><note target="wkfm-1035.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1035</note></noteGrp></org>
+                <org xml:id="wkfm__46537">
+                     <orgName>Mayr und Hackl</orgName>
+                  <noteGrp><note target="wkfm-1035.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1035</note><note target="wkfm-1036.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1036</note><note target="wkfm-1275.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1275</note><note target="wkfm-1276.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1276</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__46536" sameAs="#wkfm__46729 ">
                      <persName>
                         <forename>Joseph</forename>
                         <surname>Mayr</surname>
@@ -140,11 +146,5 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 398.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1035.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1035</note><note target="wkfm-1036.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1036</note><note target="wkfm-1275.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1275</note><note target="wkfm-1276.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1276</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46537">
-                     <orgName>Mayr und Hackl</orgName>
-                  <noteGrp><note target="wkfm-1035.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1035</note><note target="wkfm-1036.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1036</note><note target="wkfm-1275.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1275</note><note target="wkfm-1276.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1276</note></noteGrp></org>
-                <org xml:id="wkfm__46538">
-                     <orgName>Franz Hackl</orgName>
-                  <noteGrp><note target="wkfm-1035.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1035</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

@@ -132,7 +132,16 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43935">
+    <back><listOrg><org xml:id="wkfm__46389">
+                     <orgName>Johann Georg Helvetius</orgName>
+                  <noteGrp><note target="wkfm-0241.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0241</note><note target="wkfm-0921.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0921</note></noteGrp></org>
+                <org xml:id="wkfm__47360">
+                     <orgName>Philipp Jakob Bender</orgName>
+                  <noteGrp><note target="wkfm-0241.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0241</note></noteGrp></org>
+                <org xml:id="wkfm__43934">
+                     <orgName>Bender &amp; Co.</orgName>
+                  <noteGrp><note target="wkfm-0241.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0241</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__43935">
                      <persName>
                         <forename>Christian Rudolf</forename>
                         <surname>Eisenreich</surname>
@@ -178,14 +187,5 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                <noteGrp><note target="wkfm-0241.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0241</note><note target="wkfm-0242.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0242</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__43934">
-                     <orgName>Bender &amp; Co.</orgName>
-                  <noteGrp><note target="wkfm-0241.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0241</note></noteGrp></org>
-                <org xml:id="wkfm__47360">
-                     <orgName>Philipp Jakob Bender</orgName>
-                  <noteGrp><note target="wkfm-0241.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0241</note></noteGrp></org>
-                <org xml:id="wkfm__46389">
-                     <orgName>Johann Georg Helvetius</orgName>
-                  <noteGrp><note target="wkfm-0241.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0241</note><note target="wkfm-0921.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0921</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

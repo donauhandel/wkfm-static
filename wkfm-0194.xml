@@ -168,7 +168,29 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__16922">
+    <back><listOrg><org xml:id="wkfm__9133">
+                     <orgName>Bormastini und Butterna, Johann Anton Bormastini und Butterna</orgName>
+                  <noteGrp><note target="wkfm-0077.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0077</note><note target="wkfm-0078.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0078</note><note target="wkfm-0079.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0079</note><note target="wkfm-0194.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0194</note><note target="wkfm-0195.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0195</note><note target="wkfm-1471.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1471</note><note target="wkfm-1472.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1472</note></noteGrp></org>
+                <org xml:id="wkfm__47340">
+                     <orgName>Johann Anton Bormastino der Jüngere</orgName>
+                  <noteGrp><note target="wkfm-0194.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0194</note></noteGrp></org>
+                <org xml:id="wkfm__43903">
+                     <orgName>Karl Joseph Stark &amp; Co.</orgName>
+                  <noteGrp><note target="wkfm-0194.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0194</note><note target="wkfm-0195.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0195</note><note target="wkfm-1471.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1471</note><note target="wkfm-1472.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1472</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__8593">
+                     <persName>
+                        <forename>Johann Maria</forename>
+                        <surname>von Tinti</surname>
+                        <surname type="alt">Tinti</surname>
+                     </persName>
+                     <death><date>1733</date></death>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+               <noteGrp><note target="wkfm-0194.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0194</note><note target="wkfm-0195.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0195</note><note target="wkfm-0997.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0997</note><note target="wkfm-0998.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0998</note><note target="wkfm-1471.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1471</note><note target="wkfm-1472.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1472</note></noteGrp></person>
+                <person xml:id="wkfm__16922">
                      <persName>
                         <forename>Maximilian</forename>
                         <forename type="alt">Johann Maximilian</forename>
@@ -179,20 +201,6 @@
                      <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann, Prokurist des Johann Anton Bormastino d. J.</occupation>
                <noteGrp><note target="wkfm-0194.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0194</note><note target="wkfm-0195.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0195</note><note target="wkfm-0777.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0777</note></noteGrp></person>
-                <person xml:id="wkfm__36354">
-                     <persName>
-                        <forename>Johann Anton</forename>
-                        <forename type="alt">Anton</forename>
-                        <surname>Bormastini</surname>
-                        <surname type="alt">Wormastin</surname>
-                        <surname type="alt">Bormastino</surname>
-                     </persName>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">hofbefreit</occupation>
-               <noteGrp><note target="wkfm-0194.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0194</note><note target="wkfm-0195.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0195</note><note target="wkfm-1471.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1471</note><note target="wkfm-1472.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1472</note></noteGrp></person>
                 <person xml:id="wkfm__43904" sameAs="#wkfm__10646 ">
                      <persName>
                         <forename>Franz Ferdinand</forename>
@@ -229,27 +237,19 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
                <noteGrp><note target="wkfm-0194.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0194</note><note target="wkfm-0195.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0195</note><note target="wkfm-1471.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1471</note><note target="wkfm-1472.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1472</note></noteGrp></person>
-                <person xml:id="wkfm__8593">
+                <person xml:id="wkfm__36354">
                      <persName>
-                        <forename>Johann Maria</forename>
-                        <surname>von Tinti</surname>
-                        <surname type="alt">Tinti</surname>
+                        <forename>Johann Anton</forename>
+                        <forename type="alt">Anton</forename>
+                        <surname>Bormastini</surname>
+                        <surname type="alt">Wormastin</surname>
+                        <surname type="alt">Bormastino</surname>
                      </persName>
-                     <death><date>1733</date></death>
                      <residence type="Geschäftsniederlassung">
                         <placeName key="#wkfm-place__925">Wien</placeName>
                      <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-               <noteGrp><note target="wkfm-0194.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0194</note><note target="wkfm-0195.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0195</note><note target="wkfm-0997.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0997</note><note target="wkfm-0998.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0998</note><note target="wkfm-1471.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1471</note><note target="wkfm-1472.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1472</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__9133">
-                     <orgName>Bormastini und Butterna, Johann Anton Bormastini und Butterna</orgName>
-                  <noteGrp><note target="wkfm-0077.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0077</note><note target="wkfm-0078.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0078</note><note target="wkfm-0079.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0079</note><note target="wkfm-0194.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0194</note><note target="wkfm-0195.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0195</note><note target="wkfm-1471.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1471</note><note target="wkfm-1472.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1472</note></noteGrp></org>
-                <org xml:id="wkfm__47340">
-                     <orgName>Johann Anton Bormastino der Jüngere</orgName>
-                  <noteGrp><note target="wkfm-0194.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0194</note></noteGrp></org>
-                <org xml:id="wkfm__43903">
-                     <orgName>Karl Joseph Stark &amp; Co.</orgName>
-                  <noteGrp><note target="wkfm-0194.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0194</note><note target="wkfm-0195.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0195</note><note target="wkfm-1471.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1471</note><note target="wkfm-1472.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1472</note></noteGrp></org>
-                </listOrg></back></text>
+                     <occupation type="kaufmannsklasse">hofbefreit</occupation>
+               <noteGrp><note target="wkfm-0194.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0194</note><note target="wkfm-0195.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0195</note><note target="wkfm-1471.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1471</note><note target="wkfm-1472.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1472</note></noteGrp></person>
+                </listPerson></back></text>
 </TEI>

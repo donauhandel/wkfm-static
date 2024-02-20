@@ -88,10 +88,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47124">
-                     <orgName>Ignaz Christoph Fischer</orgName>
-                  <noteGrp><note target="wkfm-0761.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0761</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__28972">
+    <back><listPerson><person xml:id="wkfm__28972">
                      <persName>
                         <forename>Ignaz Christoph</forename>
                         <surname>Fischer</surname>
@@ -111,5 +108,8 @@
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 377.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0761.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0761</note><note target="wkfm-0762.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0762</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47124">
+                     <orgName>Ignaz Christoph Fischer</orgName>
+                  <noteGrp><note target="wkfm-0761.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0761</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

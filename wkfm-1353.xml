@@ -90,7 +90,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__10181" sameAs="#wkfm__8750 wkfm__11520 ">
+    <back><listOrg><org xml:id="wkfm__46678">
+                     <orgName>Johann Zacharias Rohrwürth</orgName>
+                  <noteGrp><note target="wkfm-1353.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1353</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__10181" sameAs="#wkfm__8750 wkfm__11520 ">
                      <persName>
                         <forename>Johann Zacharias</forename>
                         <surname>Rohrwürth</surname>
@@ -114,8 +117,5 @@
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 504.&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1353.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1353</note><note target="wkfm-1354.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1354</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46678">
-                     <orgName>Johann Zacharias Rohrwürth</orgName>
-                  <noteGrp><note target="wkfm-1353.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1353</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

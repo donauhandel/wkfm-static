@@ -115,10 +115,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46915">
-                     <orgName>Matthäus Franz Mäninger</orgName>
-                  <noteGrp><note target="wkfm-1261.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1261</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__46914" sameAs="#wkfm__32085 wkfm__40628 ">
+    <back><listPerson><person xml:id="wkfm__46914" sameAs="#wkfm__32085 wkfm__40628 ">
                      <persName>
                         <forename>Matthäus Franz</forename>
                         <surname>Manninger</surname>
@@ -147,5 +144,8 @@
                         <surname type="alt">Lintz</surname>
                      </persName>
                <noteGrp><note target="wkfm-1261.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1261</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46915">
+                     <orgName>Matthäus Franz Mäninger</orgName>
+                  <noteGrp><note target="wkfm-1261.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1261</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

@@ -91,10 +91,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46948">
-                     <orgName>Christian Friedrich Wallstorff</orgName>
-                  <noteGrp><note target="wkfm-1707.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1707</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__17762" sameAs="#wkfm__20469 ">
+    <back><listPerson><person xml:id="wkfm__17762" sameAs="#wkfm__20469 ">
                      <persName>
                         <forename>Christian Friedrich</forename>
                         <surname>Wallstorff</surname>
@@ -111,5 +108,8 @@
                         <bibl>&amp;lt;span&amp;gt;Staats- und Standeskalender 1723, 243; Senfelder, Gottesacker, 241.&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1707.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1707</note><note target="wkfm-1708.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1708</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46948">
+                     <orgName>Christian Friedrich Wallstorff</orgName>
+                  <noteGrp><note target="wkfm-1707.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1707</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

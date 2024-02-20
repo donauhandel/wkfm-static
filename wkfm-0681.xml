@@ -201,11 +201,11 @@
                      <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Angestellter und Prokurist bei Eval Elisabeth Feronin (Johann Baptist Feroni sel. Witwe)</occupation>
                <noteGrp><note target="wkfm-0681.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0681</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__47056">
-                     <orgName>Johann Baptist Feroni</orgName>
-                  <noteGrp><note target="wkfm-0681.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0681</note></noteGrp></org>
-                <org xml:id="wkfm__47057">
+                </listPerson><listOrg><org xml:id="wkfm__47057">
                      <orgName>Johann Baptist Feroni sel. Witwe</orgName>
+                  <noteGrp><note target="wkfm-0681.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0681</note></noteGrp></org>
+                <org xml:id="wkfm__47056">
+                     <orgName>Johann Baptist Feroni</orgName>
                   <noteGrp><note target="wkfm-0681.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0681</note></noteGrp></org>
                 </listOrg></back></text>
 </TEI>

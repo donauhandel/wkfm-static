@@ -95,7 +95,17 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47512">
+    <back><listPerson><person xml:id="wkfm__47514">
+                     <persName>
+                        <forename>Jakob Michael</forename>
+                        <surname>Smitmer</surname>
+                     </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Hofjuwelier, Wechsler/Bankier</occupation>
+               <noteGrp><note target="wkfm-1621.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1621</note><note target="wkfm-1622.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1622</note><note target="wkfm-1704.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1704</note></noteGrp></person>
+                <person xml:id="wkfm__47512">
                      <persName>
                         <forename>Franz Michael</forename>
                         <surname>Smitmer</surname>
@@ -119,15 +129,5 @@
                      <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                <noteGrp><note target="wkfm-1622.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1622</note><note target="wkfm-1704.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1704</note></noteGrp></person>
-                <person xml:id="wkfm__47514">
-                     <persName>
-                        <forename>Jakob Michael</forename>
-                        <surname>Smitmer</surname>
-                     </persName>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Hofjuwelier, Wechsler/Bankier</occupation>
-               <noteGrp><note target="wkfm-1621.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1621</note><note target="wkfm-1622.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1622</note><note target="wkfm-1704.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1704</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

@@ -92,7 +92,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__10909" sameAs="#wkfm__17808 ">
+    <back><listOrg><org xml:id="wkfm__46232">
+                     <orgName>Kaspar Teibler</orgName>
+                  <noteGrp><note target="wkfm-0555.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0555</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__10909" sameAs="#wkfm__17808 ">
                      <persName>
                         <forename>Kaspar</forename>
                         <surname>Teibler</surname>
@@ -115,8 +118,5 @@
                      <occupation>Leinwandhändler</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0555.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0555</note><note target="wkfm-0556.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0556</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46232">
-                     <orgName>Kaspar Teibler</orgName>
-                  <noteGrp><note target="wkfm-0555.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0555</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

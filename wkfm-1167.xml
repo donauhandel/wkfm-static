@@ -104,10 +104,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46828">
-                     <orgName>Urban Laßnig</orgName>
-                  <noteGrp><note target="wkfm-1167.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1167</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__46827">
+    <back><listPerson><person xml:id="wkfm__46827">
                      <persName>
                         <forename>Urban</forename>
                         <surname>Laßnig</surname>
@@ -129,5 +126,8 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1167.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1167</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46828">
+                     <orgName>Urban Laßnig</orgName>
+                  <noteGrp><note target="wkfm-1167.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1167</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

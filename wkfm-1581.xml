@@ -88,7 +88,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__23508">
+    <back><listOrg><org xml:id="wkfm__47486">
+                     <orgName>Joseph Stidl</orgName>
+                  <noteGrp><note target="wkfm-1581.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1581</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__23508">
                      <persName>
                         <forename>Joseph</forename>
                         <surname>Stidl</surname>
@@ -106,8 +109,5 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1581.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1581</note><note target="wkfm-1582.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1582</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__47486">
-                     <orgName>Joseph Stidl</orgName>
-                  <noteGrp><note target="wkfm-1581.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1581</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

@@ -107,13 +107,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46968">
-                     <orgName>Johann Wagner</orgName>
-                  <noteGrp><note target="wkfm-1737.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1737</note></noteGrp></org>
-                <org xml:id="wkfm__46969">
-                     <orgName>Johann Wagner sel. Witwe und Sohn</orgName>
-                  <noteGrp><note target="wkfm-1737.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1737</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__8599">
+    <back><listPerson><person xml:id="wkfm__8599">
                      <persName>
                         <forename>Johann</forename>
                         <surname>Wagner</surname>
@@ -140,5 +134,11 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 553.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1737.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1737</note><note target="wkfm-1738.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1738</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46969">
+                     <orgName>Johann Wagner sel. Witwe und Sohn</orgName>
+                  <noteGrp><note target="wkfm-1737.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1737</note></noteGrp></org>
+                <org xml:id="wkfm__46968">
+                     <orgName>Johann Wagner</orgName>
+                  <noteGrp><note target="wkfm-1737.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1737</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

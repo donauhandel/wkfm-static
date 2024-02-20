@@ -88,10 +88,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46448">
-                     <orgName>Gregor Horvath</orgName>
-                  <noteGrp><note target="wkfm-0943.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0943</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__25805">
+    <back><listPerson><person xml:id="wkfm__25805">
                      <persName>
                         <forename>Gregor</forename>
                         <surname>Horvath</surname>
@@ -106,5 +103,8 @@
                      <occupation>Leinwandhändler</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
                <noteGrp><note target="wkfm-0943.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0943</note><note target="wkfm-0944.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0944</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46448">
+                     <orgName>Gregor Horvath</orgName>
+                  <noteGrp><note target="wkfm-0943.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0943</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

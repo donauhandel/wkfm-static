@@ -90,7 +90,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__9051">
+    <back><listOrg><org xml:id="wkfm__47442">
+                     <orgName>Johann Michael Spann</orgName>
+                  <noteGrp><note target="wkfm-1527.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1527</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__9051">
                      <persName>
                         <forename>Johann Michael</forename>
                         <surname>Spann</surname>
@@ -115,8 +118,5 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 533 (&amp;#34;Span&amp;#34;).&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1527.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1527</note><note target="wkfm-1528.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1528</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__47442">
-                     <orgName>Johann Michael Spann</orgName>
-                  <noteGrp><note target="wkfm-1527.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1527</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

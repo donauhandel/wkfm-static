@@ -114,13 +114,7 @@
     <back><listOrg><org xml:id="wkfm__47526">
                      <orgName>Pietro Francesco Scatti (Scotti)</orgName>
                   <noteGrp><note target="wkfm-1627.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1627</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__47528">
-                     <persName>
-                        <forename>None</forename>
-                        <surname>Wanner</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-1627.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1627</note></noteGrp></person>
-                <person xml:id="wkfm__47527">
+                </listOrg><listPerson><person xml:id="wkfm__47527">
                      <persName>
                         <forename>Clara Aloisia</forename>
                         <surname>Scattin</surname>
@@ -143,6 +137,12 @@
                      <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-1627.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1627</note></noteGrp></person>
+                <person xml:id="wkfm__47528">
+                     <persName>
+                        <forename>None</forename>
+                        <surname>Wanner</surname>
+                     </persName>
                <noteGrp><note target="wkfm-1627.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1627</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

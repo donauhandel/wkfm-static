@@ -88,12 +88,15 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__8514">
+    <back><listOrg><org xml:id="wkfm__46803">
+                     <orgName>Matthias Lindner</orgName>
+                  <noteGrp><note target="wkfm-1133.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1133</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__8514">
                      <persName>
                         <forename>Matthias</forename>
                         <surname>Lindner</surname>
-                        <surname type="alt">Lindtner</surname>
                         <surname type="alt">Lintner</surname>
+                        <surname type="alt">Lindtner</surname>
                         <surname type="alt">Linttner</surname>
                      </persName>
                      <death><date>1765?</date></death>                    
@@ -115,8 +118,5 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 448 (13. November 1722).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1133.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1133</note><note target="wkfm-1134.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1134</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46803">
-                     <orgName>Matthias Lindner</orgName>
-                  <noteGrp><note target="wkfm-1133.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1133</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

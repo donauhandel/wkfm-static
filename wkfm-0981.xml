@@ -88,10 +88,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46481">
-                     <orgName>Franz Johann Hilger</orgName>
-                  <noteGrp><note target="wkfm-0981.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0981</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__29389" sameAs="#wkfm__28903 ">
+    <back><listPerson><person xml:id="wkfm__29389" sameAs="#wkfm__28903 ">
                      <persName>
                         <forename>Franz Johann</forename>
                         <surname>Hilger</surname>
@@ -108,5 +105,8 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0981.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0981</note><note target="wkfm-0982.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0982</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46481">
+                     <orgName>Franz Johann Hilger</orgName>
+                  <noteGrp><note target="wkfm-0981.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0981</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

@@ -94,7 +94,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47055">
+    <back><listOrg><org xml:id="wkfm__12708">
+                     <orgName>Sebastian Vetter sel. Erben</orgName>
+                  <noteGrp><note target="wkfm-0679.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0679</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__47055">
                      <persName>
                         <forename>Maria Rosina</forename>
                         <surname>Vetterin</surname>
@@ -120,8 +123,5 @@
                      </persName>
                      <occupation>Tuchhändler</occupation>
                <noteGrp><note target="wkfm-0679.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0679</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__12708">
-                     <orgName>Sebastian Vetter sel. Erben</orgName>
-                  <noteGrp><note target="wkfm-0679.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0679</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

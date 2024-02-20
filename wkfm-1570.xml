@@ -84,10 +84,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47478">
-                     <orgName>Schell und Appold</orgName>
-                  <noteGrp><note target="wkfm-1569.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1569</note><note target="wkfm-1570.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1570</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__47479">
+    <back><listPerson><person xml:id="wkfm__47479">
                      <persName>
                         <forename>None</forename>
                         <surname>Appold</surname>
@@ -121,5 +118,8 @@
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 512 (&amp;#34;Johann Schell&amp;#34;).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1569.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1569</note><note target="wkfm-1570.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1570</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47478">
+                     <orgName>Schell und Appold</orgName>
+                  <noteGrp><note target="wkfm-1569.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1569</note><note target="wkfm-1570.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1570</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

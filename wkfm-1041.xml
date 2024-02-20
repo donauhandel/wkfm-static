@@ -91,7 +91,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46550">
+    <back><listOrg><org xml:id="wkfm__46551">
+                     <orgName>Martin Haberpichler</orgName>
+                  <noteGrp><note target="wkfm-1041.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1041</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__46550">
                      <persName>
                         <forename>Martin</forename>
                         <surname>Haberpichler</surname>
@@ -111,8 +114,5 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1041.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1041</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46551">
-                     <orgName>Martin Haberpichler</orgName>
-                  <noteGrp><note target="wkfm-1041.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1041</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

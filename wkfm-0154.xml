@@ -94,13 +94,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47318">
-                     <orgName>Johann Franz Prager</orgName>
-                  <noteGrp><note target="wkfm-0154.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0154</note></noteGrp></org>
-                <org xml:id="wkfm__43885">
-                     <orgName>Johann Franz Prager sel. Witwe und Kleinrath</orgName>
-                  <listPerson type="affiliated"><person><persName key="#wkfm__43887">Kleinrath, Franz</persName></person></listPerson><noteGrp><note target="wkfm-0154.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0154</note><note target="wkfm-0485.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0485</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__9548">
+    <back><listPerson><person xml:id="wkfm__9548">
                      <persName>
                         <forename>Johann Franz</forename>
                         <surname>Prager</surname>
@@ -121,5 +115,11 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 489.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0154.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0154</note><note target="wkfm-0155.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0155</note><note target="wkfm-0486.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0486</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47318">
+                     <orgName>Johann Franz Prager</orgName>
+                  <noteGrp><note target="wkfm-0154.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0154</note></noteGrp></org>
+                <org xml:id="wkfm__43885">
+                     <orgName>Johann Franz Prager sel. Witwe und Kleinrath</orgName>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__43887">Kleinrath, Franz</persName></person></listPerson><noteGrp><note target="wkfm-0154.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0154</note><note target="wkfm-0485.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0485</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

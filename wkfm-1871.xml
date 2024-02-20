@@ -98,10 +98,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46621">
-                     <orgName>Herz Leb Manasses</orgName>
-                  <noteGrp><note target="wkfm-1871.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1871</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__43825">
+    <back><listPerson><person xml:id="wkfm__43825">
                      <persName>
                         <forename>Veronika</forename>
                         <surname>None</surname>
@@ -132,5 +129,8 @@
                         <bibl>&amp;lt;div&amp;gt;Grunwald, Oppenheimer, S. 202.&amp;lt;/div&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1871.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1871</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46621">
+                     <orgName>Herz Leb Manasses</orgName>
+                  <noteGrp><note target="wkfm-1871.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1871</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

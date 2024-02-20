@@ -90,10 +90,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46852">
-                     <orgName>Johann Andreas von Mayern</orgName>
-                  <noteGrp><note target="wkfm-1185.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1185</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__46243">
+    <back><listPerson><person xml:id="wkfm__46243">
                      <persName>
                         <forename>Johann Andre</forename>
                         <surname>von Mayern</surname>
@@ -103,6 +100,12 @@
                      <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+                     <listBibl>
+                        <bibl>Friedrich Leitschuh, Führer durch die Königliche Bibliothek zu Bamberg (2. Aufl. Bamberg 1889) 196f.&amp;lt;br&amp;gt;</bibl>
+                     </listBibl>
                <noteGrp><note target="wkfm-0565.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0565</note><note target="wkfm-0566.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0566</note><note target="wkfm-1185.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1185</note><note target="wkfm-1186.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1186</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46852">
+                     <orgName>Johann Andreas von Mayern</orgName>
+                  <noteGrp><note target="wkfm-1185.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1185</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

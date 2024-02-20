@@ -86,10 +86,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47321">
-                     <orgName>Paul Pänckl</orgName>
-                  <noteGrp><note target="wkfm-0160.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0160</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__39771">
+    <back><listPerson><person xml:id="wkfm__39771">
                      <persName>
                         <forename>Paul</forename>
                         <surname>Pänckl</surname>
@@ -111,5 +108,8 @@
                         <bibl>Huchler, Bürgeraufnahmen,&amp;amp;nbsp;476.</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0160.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0160</note><note target="wkfm-0161.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0161</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47321">
+                     <orgName>Paul Pänckl</orgName>
+                  <noteGrp><note target="wkfm-0160.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0160</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

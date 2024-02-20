@@ -97,7 +97,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__29648">
+    <back><listOrg><org xml:id="wkfm__47128">
+                     <orgName>Leopold Vetter</orgName>
+                  <noteGrp><note target="wkfm-0765.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0765</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__29648">
                      <persName>
                         <forename>Leopold</forename>
                         <surname>Vetter</surname>
@@ -122,8 +125,5 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 553 (März 1738: &amp;#34;Vötter&amp;#34;).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0765.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0765</note><note target="wkfm-0766.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0766</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__47128">
-                     <orgName>Leopold Vetter</orgName>
-                  <noteGrp><note target="wkfm-0765.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0765</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

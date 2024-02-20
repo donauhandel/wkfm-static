@@ -86,9 +86,9 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43890">
+    <back><listPerson><person xml:id="wkfm__8574">
                      <persName>
-                        <forename>Stephan</forename>
+                        <forename>Joseph</forename>
                         <surname>von Bernini</surname>
                      </persName>
                      <residence type="Geschäftsniederlassung">
@@ -96,9 +96,9 @@
                      <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                <noteGrp><note target="wkfm-0165.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0165</note></noteGrp></person>
-                <person xml:id="wkfm__8574">
+                <person xml:id="wkfm__43890">
                      <persName>
-                        <forename>Joseph</forename>
+                        <forename>Stephan</forename>
                         <surname>von Bernini</surname>
                      </persName>
                      <residence type="Geschäftsniederlassung">

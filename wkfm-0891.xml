@@ -102,7 +102,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46361">
+    <back><listOrg><org xml:id="wkfm__46360">
+                     <orgName>Anton Jakob Gumpinger</orgName>
+                  <noteGrp><note target="wkfm-0891.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0891</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__46361">
                      <persName>
                         <forename>Gottfried</forename>
                         <surname>Thurner</surname>
@@ -130,8 +133,5 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0891.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0891</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46360">
-                     <orgName>Anton Jakob Gumpinger</orgName>
-                  <noteGrp><note target="wkfm-0891.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0891</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

@@ -116,7 +116,14 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__35115">
+    <back><listPerson><person xml:id="wkfm__46144" sameAs="#wkfm__40527 ">
+                     <persName>
+                        <forename>Johann</forename>
+                        <surname>Bader</surname>
+                        <surname type="alt">Baader</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0445.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0445</note></noteGrp></person>
+                <person xml:id="wkfm__35115">
                      <persName>
                         <forename>Franz</forename>
                         <surname>Klebinder</surname>
@@ -138,13 +145,6 @@
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 430.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0445.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0445</note><note target="wkfm-0446.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0446</note></noteGrp></person>
-                <person xml:id="wkfm__46144" sameAs="#wkfm__40527 ">
-                     <persName>
-                        <forename>Johann</forename>
-                        <surname>Bader</surname>
-                        <surname type="alt">Baader</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-0445.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0445</note></noteGrp></person>
                 <person xml:id="wkfm__8802">
                      <persName>
                         <forename>Lukas Joseph</forename>

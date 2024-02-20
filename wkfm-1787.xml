@@ -88,7 +88,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47008">
+    <back><listOrg><org xml:id="wkfm__47009">
+                     <orgName>Philipp Wels</orgName>
+                  <noteGrp><note target="wkfm-1787.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1787</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__47008">
                      <persName>
                         <forename>Philipp</forename>
                         <surname>Wels</surname>
@@ -110,8 +113,5 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 559 (September 1734: &amp;#34;Philipp Johann&amp;#34;).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1787.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1787</note><note target="wkfm-1788.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1788</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__47009">
-                     <orgName>Philipp Wels</orgName>
-                  <noteGrp><note target="wkfm-1787.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1787</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

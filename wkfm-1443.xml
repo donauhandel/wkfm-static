@@ -118,7 +118,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46760">
+    <back><listOrg><org xml:id="wkfm__46761">
+                     <orgName>Georg Franz Razer</orgName>
+                  <noteGrp><note target="wkfm-1443.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1443</note><note target="wkfm-1444.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1444</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__46760">
                      <persName>
                         <forename>Georg Franz</forename>
                         <surname>Razer</surname>
@@ -188,8 +191,5 @@
                         <bibl>Harrer-Lucienfeld, Wien, seiner Häuser, Bd. 1.3, S. 708.; Huchler, Bürgeraufnahmen,&amp;amp;nbsp;531.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0455.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0455</note><note target="wkfm-1305.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1305</note><note target="wkfm-1306.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1306</note><note target="wkfm-1433.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1433</note><note target="wkfm-1443.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1443</note><note target="wkfm-1449.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1449</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46761">
-                     <orgName>Georg Franz Razer</orgName>
-                  <noteGrp><note target="wkfm-1443.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1443</note><note target="wkfm-1444.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1444</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

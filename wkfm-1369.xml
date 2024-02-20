@@ -88,7 +88,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__9826" sameAs="#wkfm__26421 wkfm__27396 ">
+    <back><listOrg><org xml:id="wkfm__46686">
+                     <orgName>Joseph Anton Rotter</orgName>
+                  <noteGrp><note target="wkfm-1369.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1369</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__9826" sameAs="#wkfm__26421 wkfm__27396 ">
                      <persName>
                         <forename>Joseph Anton</forename>
                         <surname>Rotter</surname>
@@ -108,8 +111,5 @@
                         <bibl>Huchler, Bürgeraufnahmen, 506.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1369.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1369</note><note target="wkfm-1370.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1370</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46686">
-                     <orgName>Joseph Anton Rotter</orgName>
-                  <noteGrp><note target="wkfm-1369.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1369</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

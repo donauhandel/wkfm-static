@@ -96,21 +96,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__8416">
-                     <orgName>Gebrüder Martinelli, Fratelli Martinelli</orgName>
-                  <noteGrp><note target="wkfm-1189.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1189</note><note target="wkfm-1190.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1190</note><note target="wkfm-1191.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1191</note><note target="wkfm-1192.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1192</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__34278" sameAs="#wkfm__36168 ">
-                     <persName>
-                        <forename>Johann Anton</forename>
-                        <surname>Martinelli</surname>
-                     </persName>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">hofbefreit</occupation>
-               <noteGrp><note target="wkfm-1190.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1190</note><note target="wkfm-1191.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1191</note><note target="wkfm-1192.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1192</note></noteGrp></person>
-                <person xml:id="wkfm__10730">
+    <back><listPerson><person xml:id="wkfm__10730">
                      <persName>
                         <forename>Anton</forename>
                         <surname>Mader</surname>
@@ -140,5 +126,19 @@
                         <bibl>Huchler, Bürgeraufnahmen, 451.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1089.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1089</note><note target="wkfm-1189.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1189</note><note target="wkfm-1191.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1191</note><note target="wkfm-1227.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1227</note><note target="wkfm-1228.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1228</note><note target="wkfm-1679.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1679</note></noteGrp></person>
-                </listPerson></back></text>
+                <person xml:id="wkfm__34278" sameAs="#wkfm__36168 ">
+                     <persName>
+                        <forename>Johann Anton</forename>
+                        <surname>Martinelli</surname>
+                     </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">hofbefreit</occupation>
+               <noteGrp><note target="wkfm-1190.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1190</note><note target="wkfm-1191.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1191</note><note target="wkfm-1192.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1192</note></noteGrp></person>
+                </listPerson><listOrg><org xml:id="wkfm__8416">
+                     <orgName>Gebrüder Martinelli, Fratelli Martinelli</orgName>
+                  <noteGrp><note target="wkfm-1189.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1189</note><note target="wkfm-1190.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1190</note><note target="wkfm-1191.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1191</note><note target="wkfm-1192.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1192</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

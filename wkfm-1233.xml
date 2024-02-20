@@ -88,10 +88,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46883">
-                     <orgName>Sebastian Matessi</orgName>
-                  <noteGrp><note target="wkfm-1233.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1233</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__18974">
+    <back><listPerson><person xml:id="wkfm__18974">
                      <persName>
                         <forename>Sebastian</forename>
                         <surname>Matessi</surname>
@@ -112,5 +109,8 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen 455 (April 1730: &amp;#34;Mathesi&amp;#34;).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1233.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1233</note><note target="wkfm-1234.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1234</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46883">
+                     <orgName>Sebastian Matessi</orgName>
+                  <noteGrp><note target="wkfm-1233.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1233</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

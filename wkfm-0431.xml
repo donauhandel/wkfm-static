@@ -88,10 +88,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47246">
-                     <orgName>Johann Georg Klebinder</orgName>
-                  <noteGrp><note target="wkfm-0431.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0431</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__46138">
+    <back><listPerson><person xml:id="wkfm__46138">
                      <persName>
                         <forename>Johann Georg</forename>
                         <surname>Klebinder</surname>
@@ -114,5 +111,8 @@
                         <bibl>Huchler, Bürgeraufnahmen,&amp;amp;nbsp;356 (&amp;#34;Clebinder&amp;#34;).</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0431.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0431</note><note target="wkfm-0432.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0432</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47246">
+                     <orgName>Johann Georg Klebinder</orgName>
+                  <noteGrp><note target="wkfm-0431.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0431</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

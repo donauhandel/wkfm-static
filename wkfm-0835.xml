@@ -91,10 +91,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46311">
-                     <orgName>Georg Philipp Gallermayr</orgName>
-                  <noteGrp><note target="wkfm-0835.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0835</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__17436">
+    <back><listPerson><person xml:id="wkfm__17436">
                      <persName>
                         <forename>Georg Philipp</forename>
                         <surname>Gallermayr</surname>
@@ -114,5 +111,8 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0835.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0835</note><note target="wkfm-0836.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0836</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46311">
+                     <orgName>Georg Philipp Gallermayr</orgName>
+                  <noteGrp><note target="wkfm-0835.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0835</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

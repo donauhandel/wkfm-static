@@ -88,10 +88,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47375">
-                     <orgName>Johann Adam Pieller</orgName>
-                  <noteGrp><note target="wkfm-0271.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0271</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__43928">
+    <back><listPerson><person xml:id="wkfm__43928">
                      <persName>
                         <forename>Johann Adam</forename>
                         <surname>Pieller</surname>
@@ -109,5 +106,8 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0271.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0271</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47375">
+                     <orgName>Johann Adam Pieller</orgName>
+                  <noteGrp><note target="wkfm-0271.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0271</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

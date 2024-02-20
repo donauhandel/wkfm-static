@@ -88,10 +88,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46211">
-                     <orgName>Franz Karl Deck</orgName>
-                  <noteGrp><note target="wkfm-0527.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0527</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__46210">
+    <back><listPerson><person xml:id="wkfm__46210">
                      <persName>
                         <forename>Franz Karl</forename>
                         <surname>Deck</surname>
@@ -113,5 +110,8 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0527.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0527</note><note target="wkfm-0528.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0528</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46211">
+                     <orgName>Franz Karl Deck</orgName>
+                  <noteGrp><note target="wkfm-0527.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0527</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

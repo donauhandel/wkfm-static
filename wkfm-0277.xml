@@ -94,10 +94,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__43962">
-                     <orgName>Perkmann und Perzinger</orgName>
-                  <noteGrp><note target="wkfm-0277.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0277</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__43961">
+    <back><listPerson><person xml:id="wkfm__43961">
                      <persName>
                         <forename>Johann Karl</forename>
                         <surname>Perzinger</surname>
@@ -125,5 +122,8 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0277.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0277</note><note target="wkfm-0278.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0278</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__43962">
+                     <orgName>Perkmann und Perzinger</orgName>
+                  <noteGrp><note target="wkfm-0277.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0277</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

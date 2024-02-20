@@ -92,12 +92,18 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__8116">
+    <back><listOrg><org xml:id="wkfm__47292">
+                     <orgName>Matthias Beham</orgName>
+                  <noteGrp><note target="wkfm-0106.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0106</note><note target="wkfm-0107.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0107</note></noteGrp></org>
+                <org xml:id="wkfm__43847">
+                     <orgName>Matthias Beham sel. Witwe und Franz Gerdill</orgName>
+                  <noteGrp><note target="wkfm-0106.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0106</note><note target="wkfm-0107.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0107</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__8116">
                      <persName>
                         <forename>Matthias</forename>
                         <surname>Beham</surname>
-                        <surname type="alt">Böheimb</surname>
                         <surname type="alt">Pehamb</surname>
+                        <surname type="alt">Böheimb</surname>
                      </persName>                    
                      <residence type="Geschäftsadresse">
                         <placeName>Zum Goldenen Brunnen auf dem Kohlmarkt (Calender 1723)</placeName>
@@ -114,11 +120,5 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0106.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0106</note><note target="wkfm-0107.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0107</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__47292">
-                     <orgName>Matthias Beham</orgName>
-                  <noteGrp><note target="wkfm-0106.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0106</note><note target="wkfm-0107.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0107</note></noteGrp></org>
-                <org xml:id="wkfm__43847">
-                     <orgName>Matthias Beham sel. Witwe und Franz Gerdill</orgName>
-                  <noteGrp><note target="wkfm-0106.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0106</note><note target="wkfm-0107.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0107</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

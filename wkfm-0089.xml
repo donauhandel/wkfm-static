@@ -88,29 +88,14 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__12424">
-                     <persName>
-                        <forename>Johann Bernhard</forename>
-                        <forename type="alt">Bernhard</forename>
-                        <surname>Degelmann</surname>
-                     </persName>
-                     <residence type="Geburtsort">
-                        <placeName key="#wkfm-place__566">Nürnberg</placeName>
-                     <location type="coords"><geo>49.45416666666667 11.0775</geo></location></residence>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Prokurist von Gebrüder Buirette, Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-                     <listBibl>
-                        <bibl>Senfelder, Gottesacker, 268.&amp;lt;br&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-0086.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0086</note><note target="wkfm-0087.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0087</note><note target="wkfm-0088.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0088</note><note target="wkfm-0089.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0089</note></noteGrp></person>
-                <person xml:id="wkfm__47283">
+    <back><listOrg><org xml:id="wkfm__10272">
+                     <orgName>Gebrüder Buirette</orgName>
+                  <noteGrp><note target="wkfm-0086.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0086</note><note target="wkfm-0087.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0087</note><note target="wkfm-0088.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0088</note><note target="wkfm-0089.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0089</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__47283">
                      <persName>
                         <forename>Johann Noah (I.)</forename>
-                        <forename type="alt">Johann Noe</forename>
                         <forename type="alt">Noe</forename>
+                        <forename type="alt">Johann Noe</forename>
                         <surname>Buirette</surname>
                      </persName>
                      <residence type="Geschäftsniederlassung">
@@ -139,8 +124,23 @@
                         <bibl>Seibold, Wirtschaftlicher Erfolg, 1, 391-394; 2 (Blommart, Buirette)&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0086.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0086</note><note target="wkfm-0087.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0087</note><note target="wkfm-0089.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0089</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__10272">
-                     <orgName>Gebrüder Buirette</orgName>
-                  <noteGrp><note target="wkfm-0086.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0086</note><note target="wkfm-0087.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0087</note><note target="wkfm-0088.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0088</note><note target="wkfm-0089.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0089</note></noteGrp></org>
-                </listOrg></back></text>
+                <person xml:id="wkfm__12424">
+                     <persName>
+                        <forename>Johann Bernhard</forename>
+                        <forename type="alt">Bernhard</forename>
+                        <surname>Degelmann</surname>
+                     </persName>
+                     <residence type="Geburtsort">
+                        <placeName key="#wkfm-place__566">Nürnberg</placeName>
+                     <location type="coords"><geo>49.45416666666667 11.0775</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Prokurist von Gebrüder Buirette, Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+                     <listBibl>
+                        <bibl>Senfelder, Gottesacker, 268.&amp;lt;br&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0086.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0086</note><note target="wkfm-0087.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0087</note><note target="wkfm-0088.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0088</note><note target="wkfm-0089.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0089</note></noteGrp></person>
+                </listPerson></back></text>
 </TEI>

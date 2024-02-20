@@ -112,57 +112,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47570">
-                     <persName>
-                        <forename>Bartholomäus</forename>
-                        <surname>Ackerl</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-1661.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1661</note></noteGrp></person>
-                <person xml:id="wkfm__9731" sameAs="#wkfm__29936 ">
-                     <persName>
-                        <forename>Johann Michael</forename>
-                        <surname>Kienmayr</surname>
-                        <surname type="alt">Kyenmayr</surname>
-                     </persName>
-                     <residence type="Bürgerrecht">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geburtsort">
-                        <placeName key="#wkfm-place__2561">Jagenbach</placeName>
-                     </residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-                     <listBibl>
-                        <bibl>Historische und topographische Darstellung von Schönbrunn und seiner Umgegend (...) (Wien 1824) 153; &amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 428&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;.</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-0383.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0383</note><note target="wkfm-0384.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0384</note><note target="wkfm-0477.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0477</note><note target="wkfm-0781.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0781</note><note target="wkfm-1059.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1059</note><note target="wkfm-1661.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1661</note></noteGrp></person>
-                <person xml:id="wkfm__46543" sameAs="#wkfm__43880 wkfm__22087 ">
-                     <persName>
-                        <forename>Johann Michael</forename>
-                        <surname>Mayr</surname>
-                     </persName>
-                     <residence type="Bürgerrecht">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-                     <listBibl>
-                        <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 458.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-1037.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1037</note><note target="wkfm-1263.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1263</note><note target="wkfm-1264.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1264</note><note target="wkfm-1661.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1661</note></noteGrp></person>
-                <person xml:id="wkfm__47568">
+    <back><listPerson><person xml:id="wkfm__47568">
                      <persName>
                         <forename>Johann Georg</forename>
                         <surname>Schuller</surname>
@@ -193,11 +143,61 @@
                         <bibl>Budischowsky, Johann Georg Schuller; Mittenzwei, Zwischen Gestern und Morgen, 38 und passim; &amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 524&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1661.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1661</note><note target="wkfm-1662.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1662</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__40012">
-                     <orgName>Perinet und Violand</orgName>
-                  <noteGrp><note target="wkfm-0070.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0070</note><note target="wkfm-0071.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0071</note><note target="wkfm-0799.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0799</note><note target="wkfm-1661.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1661</note></noteGrp></org>
-                <org xml:id="wkfm__47569">
+                <person xml:id="wkfm__46543" sameAs="#wkfm__43880 wkfm__22087 ">
+                     <persName>
+                        <forename>Johann Michael</forename>
+                        <surname>Mayr</surname>
+                     </persName>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+                     <listBibl>
+                        <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 458.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-1037.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1037</note><note target="wkfm-1263.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1263</note><note target="wkfm-1264.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1264</note><note target="wkfm-1661.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1661</note></noteGrp></person>
+                <person xml:id="wkfm__47570">
+                     <persName>
+                        <forename>Bartholomäus</forename>
+                        <surname>Ackerl</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-1661.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1661</note></noteGrp></person>
+                <person xml:id="wkfm__9731" sameAs="#wkfm__29936 ">
+                     <persName>
+                        <forename>Johann Michael</forename>
+                        <surname>Kienmayr</surname>
+                        <surname type="alt">Kyenmayr</surname>
+                     </persName>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geburtsort">
+                        <placeName key="#wkfm-place__2561">Jagenbach</placeName>
+                     </residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+                     <listBibl>
+                        <bibl>Historische und topographische Darstellung von Schönbrunn und seiner Umgegend (...) (Wien 1824) 153; &amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 428&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;.</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0383.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0383</note><note target="wkfm-0384.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0384</note><note target="wkfm-0477.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0477</note><note target="wkfm-0781.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0781</note><note target="wkfm-1059.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1059</note><note target="wkfm-1661.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1661</note></noteGrp></person>
+                </listPerson><listOrg><org xml:id="wkfm__47569">
                      <orgName>Johann Georg Schuller</orgName>
                   <noteGrp><note target="wkfm-1661.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1661</note></noteGrp></org>
+                <org xml:id="wkfm__40012">
+                     <orgName>Perinet und Violand</orgName>
+                  <noteGrp><note target="wkfm-0070.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0070</note><note target="wkfm-0071.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0071</note><note target="wkfm-0799.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0799</note><note target="wkfm-1661.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1661</note></noteGrp></org>
                 </listOrg></back></text>
 </TEI>

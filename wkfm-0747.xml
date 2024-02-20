@@ -88,7 +88,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__9478" sameAs="#wkfm__8200 ">
+    <back><listOrg><org xml:id="wkfm__47109">
+                     <orgName>Johann Isaak Vareille</orgName>
+                  <noteGrp><note target="wkfm-0747.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0747</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__9478" sameAs="#wkfm__8200 ">
                      <persName>
                         <forename>Johann Isaak</forename>
                         <surname>Vareille</surname>
@@ -99,8 +102,5 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                <noteGrp><note target="wkfm-0747.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0747</note><note target="wkfm-0748.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0748</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__47109">
-                     <orgName>Johann Isaak Vareille</orgName>
-                  <noteGrp><note target="wkfm-0747.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0747</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

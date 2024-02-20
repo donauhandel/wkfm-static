@@ -116,7 +116,13 @@
     <back><listOrg><org xml:id="wkfm__47038">
                      <orgName>Bernhard Weidinger</orgName>
                   <noteGrp><note target="wkfm-1815.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1815</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__47037">
+                </listOrg><listPerson><person xml:id="wkfm__47040">
+                     <persName>
+                        <forename>Theresia Josepha</forename>
+                        <surname>Weidinger</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-1815.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1815</note></noteGrp></person>
+                <person xml:id="wkfm__47037">
                      <persName>
                         <forename>Bernhard</forename>
                         <surname>Weidinger</surname>
@@ -135,12 +141,6 @@
                      <listBibl>
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 557.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
-               <noteGrp><note target="wkfm-1815.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1815</note></noteGrp></person>
-                <person xml:id="wkfm__47040">
-                     <persName>
-                        <forename>Theresia Josepha</forename>
-                        <surname>Weidinger</surname>
-                     </persName>
                <noteGrp><note target="wkfm-1815.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1815</note></noteGrp></person>
                 <person xml:id="wkfm__10599">
                      <persName>

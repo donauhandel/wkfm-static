@@ -109,10 +109,16 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46831">
-                     <orgName>Sebastian Lanser</orgName>
-                  <noteGrp><note target="wkfm-1171.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1171</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__46830">
+    <back><listPerson><person xml:id="wkfm__46832">
+                     <persName>
+                        <forename>Anna Christina</forename>
+                        <surname>Veronesin</surname>
+                        <surname type="alt">Lanser</surname>
+                        <surname type="alt">Wagnerin</surname>
+                        <surname type="alt"/>
+                     </persName>
+               <noteGrp><note target="wkfm-0754.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0754</note><note target="wkfm-1171.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1171</note><note target="wkfm-1172.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1172</note></noteGrp></person>
+                <person xml:id="wkfm__46830">
                      <persName>
                         <forename>Sebastian</forename>
                         <surname>Lanser</surname>
@@ -136,14 +142,8 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 443 (Februar 1744: &amp;#34;Sebastian Laußer&amp;#34;).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1171.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1171</note><note target="wkfm-1172.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1172</note></noteGrp></person>
-                <person xml:id="wkfm__46832">
-                     <persName>
-                        <forename>Anna Christina</forename>
-                        <surname>Veronesin</surname>
-                        <surname type="alt">Lanser</surname>
-                        <surname type="alt">Wagnerin</surname>
-                        <surname type="alt"/>
-                     </persName>
-               <noteGrp><note target="wkfm-0754.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0754</note><note target="wkfm-1171.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1171</note><note target="wkfm-1172.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1172</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46831">
+                     <orgName>Sebastian Lanser</orgName>
+                  <noteGrp><note target="wkfm-1171.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1171</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

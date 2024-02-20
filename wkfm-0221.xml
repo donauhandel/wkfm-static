@@ -90,7 +90,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43918">
+    <back><listOrg><org xml:id="wkfm__46863">
+                     <orgName>Franz Martinelli</orgName>
+                  <noteGrp><note target="wkfm-0221.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0221</note><note target="wkfm-1203.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1203</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__43918">
                      <persName>
                         <forename>Johann Baptist</forename>
                         <surname>Prestinari</surname>
@@ -114,8 +117,5 @@
                         <bibl>&amp;lt;div&amp;gt;Dotter, Italienische Kaufleute im Donauhandel, 118f.; Huchler, Bürgeraufnahmen, 491.&amp;lt;/div&amp;gt;&amp;lt;div&amp;gt;Harrer-Lucienfeld, Wien, seiner Häuser, Bd. 4.1, S. 73.&amp;lt;br&amp;gt;&amp;lt;/div&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0221.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0221</note><note target="wkfm-0222.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0222</note><note target="wkfm-1203.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1203</note><note target="wkfm-1204.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1204</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46863">
-                     <orgName>Franz Martinelli</orgName>
-                  <noteGrp><note target="wkfm-0221.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0221</note><note target="wkfm-1203.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1203</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

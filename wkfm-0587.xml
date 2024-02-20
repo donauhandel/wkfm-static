@@ -108,13 +108,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46269">
-                     <persName>
-                        <forename>Maria Theresia</forename>
-                        <surname>Diewald</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-0587.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0587</note></noteGrp></person>
-                <person xml:id="wkfm__46267">
+    <back><listPerson><person xml:id="wkfm__46267">
                      <persName>
                         <forename>Johann Ferdinand</forename>
                         <surname>Diewald</surname>
@@ -135,6 +129,12 @@
                      <listBibl>
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 363 (April 1738).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
+               <noteGrp><note target="wkfm-0587.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0587</note></noteGrp></person>
+                <person xml:id="wkfm__46269">
+                     <persName>
+                        <forename>Maria Theresia</forename>
+                        <surname>Diewald</surname>
+                     </persName>
                <noteGrp><note target="wkfm-0587.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0587</note></noteGrp></person>
                 </listPerson><listOrg><org xml:id="wkfm__46268">
                      <orgName>Johann Ferdinand Diewald</orgName>

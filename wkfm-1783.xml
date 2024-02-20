@@ -90,10 +90,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47006">
-                     <orgName>Lorenz Wogrändt</orgName>
-                  <noteGrp><note target="wkfm-1783.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1783</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__47005">
+    <back><listPerson><person xml:id="wkfm__47005">
                      <persName>
                         <forename>Lorenz</forename>
                         <surname>Wogrändt</surname>
@@ -114,5 +111,8 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1783.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1783</note><note target="wkfm-1784.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1784</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47006">
+                     <orgName>Lorenz Wogrändt</orgName>
+                  <noteGrp><note target="wkfm-1783.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1783</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

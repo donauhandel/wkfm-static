@@ -82,10 +82,11 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46329" sameAs="#wkfm__23879 ">
+    <back><listPerson><person xml:id="wkfm__46329">
                      <persName>
                         <forename>Johann Jakob</forename>
                         <surname>Gäbler</surname>
+                        <surname type="alt">Gobler</surname>
                      </persName>
                      <residence type="Bürgerrecht">
                         <placeName key="#wkfm-place__925">Wien</placeName>

@@ -92,10 +92,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47336">
-                     <orgName>Ignaz Pillitschotti</orgName>
-                  <noteGrp><note target="wkfm-0186.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0186</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__43896">
+    <back><listPerson><person xml:id="wkfm__43896">
                      <persName>
                         <forename>Ignaz</forename>
                         <forename type="alt">Ignaz Matthias</forename>
@@ -139,5 +136,8 @@
                      <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsfrau</occupation>
                <noteGrp><note target="wkfm-0186.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0186</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47336">
+                     <orgName>Ignaz Pillitschotti</orgName>
+                  <noteGrp><note target="wkfm-0186.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0186</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

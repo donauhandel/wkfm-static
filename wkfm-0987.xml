@@ -88,7 +88,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__16579">
+    <back><listOrg><org xml:id="wkfm__46485">
+                     <orgName>Georg Franz Hauer</orgName>
+                  <noteGrp><note target="wkfm-0987.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0987</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__16579">
                      <persName>
                         <forename>Georg Franz</forename>
                         <surname>Hauer</surname>
@@ -108,8 +111,5 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 404.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0987.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0987</note><note target="wkfm-0988.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0988</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46485">
-                     <orgName>Georg Franz Hauer</orgName>
-                  <noteGrp><note target="wkfm-0987.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0987</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

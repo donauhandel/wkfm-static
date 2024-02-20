@@ -123,32 +123,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46392">
-                     <orgName>Stephan von Haydern sel. Witwe und Hammer</orgName>
-                  <noteGrp><note target="wkfm-0923.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0923</note><note target="wkfm-0924.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0924</note><note target="wkfm-1027.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1027</note><note target="wkfm-1028.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1028</note></noteGrp></org>
-                <org xml:id="wkfm__46525">
-                     <orgName>Franz Joseph Hammer</orgName>
-                  <noteGrp><note target="wkfm-1027.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1027</note><note target="wkfm-1028.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1028</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__46393">
-                     <persName>
-                        <forename>Anna Susanna</forename>
-                        <surname>von Haydern</surname>
-                        <surname type="alt">Hammer</surname>
-                        <surname type="alt">Haider</surname>
-                     </persName>
-                     <residence type="Bürgerrecht">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Tuchhändlerin</occupation>
-                     <occupation type="kaufmannsklasse">tuchlaubensverwandt/bürgerlich</occupation>
-               <noteGrp><note target="wkfm-0923.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0923</note><note target="wkfm-0924.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0924</note><note target="wkfm-1027.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1027</note><note target="wkfm-1028.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1028</note></noteGrp></person>
-                <person xml:id="wkfm__46170">
+    <back><listPerson><person xml:id="wkfm__46170">
                      <persName>
                         <forename>Franz Joseph</forename>
                         <forename type="alt">Franz</forename>
@@ -170,5 +145,30 @@
                         <bibl>Huchler, Bürgeraufnahmen, 400.</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0471.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0471</note><note target="wkfm-0923.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0923</note><note target="wkfm-0924.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0924</note><note target="wkfm-1027.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1027</note><note target="wkfm-1028.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1028</note><note target="wkfm-1181.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1181</note></noteGrp></person>
-                </listPerson></back></text>
+                <person xml:id="wkfm__46393">
+                     <persName>
+                        <forename>Anna Susanna</forename>
+                        <surname>von Haydern</surname>
+                        <surname type="alt">Haider</surname>
+                        <surname type="alt">Hammer</surname>
+                     </persName>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Tuchhändlerin</occupation>
+                     <occupation type="kaufmannsklasse">tuchlaubensverwandt/bürgerlich</occupation>
+               <noteGrp><note target="wkfm-0923.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0923</note><note target="wkfm-0924.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0924</note><note target="wkfm-1027.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1027</note><note target="wkfm-1028.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1028</note></noteGrp></person>
+                </listPerson><listOrg><org xml:id="wkfm__46392">
+                     <orgName>Stephan von Haydern sel. Witwe und Hammer</orgName>
+                  <noteGrp><note target="wkfm-0923.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0923</note><note target="wkfm-0924.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0924</note><note target="wkfm-1027.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1027</note><note target="wkfm-1028.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1028</note></noteGrp></org>
+                <org xml:id="wkfm__46525">
+                     <orgName>Franz Joseph Hammer</orgName>
+                  <noteGrp><note target="wkfm-1027.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1027</note><note target="wkfm-1028.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1028</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

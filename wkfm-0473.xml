@@ -116,20 +116,13 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46172">
-                     <persName>
-                        <forename>Maria Anna</forename>
-                        <surname>Graßerin</surname>
-                        <surname type="alt">Kannigießer</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-0473.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0473</note><note target="wkfm-0474.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0474</note></noteGrp></person>
-                <person xml:id="wkfm__46171">
+    <back><listPerson><person xml:id="wkfm__46171">
                      <persName>
                         <forename>Franz Joseph</forename>
                         <surname>Kannigießer</surname>
+                        <surname type="alt">Kanngießer</surname>
                         <surname type="alt">Kannegiesser</surname>
                         <surname type="alt">Kanniggiesser</surname>
-                        <surname type="alt">Kanngießer</surname>
                      </persName>                    
                      <residence type="Geschäftsadresse">
                         <placeName>Beim Guten Hirten zu Mariahilf (Calender 1758)</placeName>
@@ -173,5 +166,12 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 549 (August 1726).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0363.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0363</note><note target="wkfm-0473.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0473</note><note target="wkfm-0725.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0725</note><note target="wkfm-0726.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0726</note></noteGrp></person>
+                <person xml:id="wkfm__46172">
+                     <persName>
+                        <forename>Maria Anna</forename>
+                        <surname>Graßerin</surname>
+                        <surname type="alt">Kannigießer</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0473.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0473</note><note target="wkfm-0474.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0474</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

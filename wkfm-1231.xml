@@ -89,10 +89,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46882">
-                     <orgName>Joseph Muffat</orgName>
-                  <noteGrp><note target="wkfm-1231.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1231</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__11956">
+    <back><listPerson><person xml:id="wkfm__11956">
                      <persName>
                         <forename>Joseph</forename>
                         <surname>Muffat</surname>
@@ -112,5 +109,8 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 467 (Juli 1730).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0172.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0172</note><note target="wkfm-1231.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1231</note><note target="wkfm-1232.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1232</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46882">
+                     <orgName>Joseph Muffat</orgName>
+                  <noteGrp><note target="wkfm-1231.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1231</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

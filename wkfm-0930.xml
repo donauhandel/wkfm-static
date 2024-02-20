@@ -105,21 +105,21 @@
                      <occupation>Handelsmann, Wechsler</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                <noteGrp><note target="wkfm-0929.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0929</note><note target="wkfm-0930.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0930</note></noteGrp></person>
-                <person xml:id="wkfm__37974">
+                <person xml:id="wkfm__46397">
                      <persName>
-                        <forename>Benedikt</forename>
-                        <surname>Mons</surname>
-                        <surname type="alt">Monss</surname>
+                        <forename>Georg</forename>
+                        <surname>von Prunauer</surname>
                      </persName>
                      <residence type="Geschäftsniederlassung">
                         <placeName key="#wkfm-place__925">Wien</placeName>
                      <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                <noteGrp><note target="wkfm-0930.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0930</note></noteGrp></person>
-                <person xml:id="wkfm__46397">
+                <person xml:id="wkfm__37974">
                      <persName>
-                        <forename>Georg</forename>
-                        <surname>von Prunauer</surname>
+                        <forename>Benedikt</forename>
+                        <surname>Mons</surname>
+                        <surname type="alt">Monss</surname>
                      </persName>
                      <residence type="Geschäftsniederlassung">
                         <placeName key="#wkfm-place__925">Wien</placeName>

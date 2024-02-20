@@ -88,12 +88,15 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46112" sameAs="#wkfm__15682 wkfm__18186 wkfm__44104 ">
+    <back><listOrg><org xml:id="wkfm__47218">
+                     <orgName>Franz Wilhelm Kunerth</orgName>
+                  <noteGrp><note target="wkfm-0371.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0371</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__46112" sameAs="#wkfm__15682 wkfm__18186 wkfm__44104 ">
                      <persName>
                         <forename>Franz Wilhelm</forename>
                         <surname>Kunerth</surname>
-                        <surname type="alt">Kunath</surname>
                         <surname type="alt">Kunert</surname>
+                        <surname type="alt">Kunath</surname>
                      </persName>                    
                      <residence type="Geschäftsadresse">
                         <placeName>Zum Goldenen Bären auf dem alten Fleischmarkt (Calender 1723)</placeName>
@@ -113,8 +116,5 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 439.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0371.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0371</note><note target="wkfm-0372.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0372</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__47218">
-                     <orgName>Franz Wilhelm Kunerth</orgName>
-                  <noteGrp><note target="wkfm-0371.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0371</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

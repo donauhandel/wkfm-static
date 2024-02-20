@@ -95,7 +95,21 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46463">
+    <back><listPerson><person xml:id="wkfm__46465">
+                     <persName>
+                        <forename>None</forename>
+                        <surname>None</surname>
+                     </persName>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsfrau</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-0957.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0957</note></noteGrp></person>
+                <person xml:id="wkfm__46463">
                      <persName>
                         <forename>Martin Wilhelm</forename>
                         <surname>Hofgartner</surname>
@@ -119,20 +133,6 @@
                      <listBibl>
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 412.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
-               <noteGrp><note target="wkfm-0957.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0957</note></noteGrp></person>
-                <person xml:id="wkfm__46465">
-                     <persName>
-                        <forename>None</forename>
-                        <surname>None</surname>
-                     </persName>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsfrau</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0957.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0957</note></noteGrp></person>
                 </listPerson><listOrg><org xml:id="wkfm__46464">
                      <orgName>Martin Wilhelm Hofgartner</orgName>

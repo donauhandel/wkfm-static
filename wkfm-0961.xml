@@ -88,10 +88,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46468">
-                     <orgName>Ludwig Dominicus Held</orgName>
-                  <noteGrp><note target="wkfm-0961.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0961</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__13519" sameAs="#wkfm__17864 ">
+    <back><listPerson><person xml:id="wkfm__13519" sameAs="#wkfm__17864 ">
                      <persName>
                         <forename>Ludwig Dominicus</forename>
                         <surname>Held</surname>
@@ -111,5 +108,8 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0961.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0961</note><note target="wkfm-0962.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0962</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46468">
+                     <orgName>Ludwig Dominicus Held</orgName>
+                  <noteGrp><note target="wkfm-0961.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0961</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

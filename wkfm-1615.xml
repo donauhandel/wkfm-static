@@ -90,10 +90,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47510">
-                     <orgName>Franz Ignaz Sinabell</orgName>
-                  <noteGrp><note target="wkfm-1615.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1615</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__23529">
+    <back><listPerson><person xml:id="wkfm__23529">
                      <persName>
                         <forename>Franz Ignaz</forename>
                         <surname>Sinabell</surname>
@@ -107,5 +104,8 @@
                      <occupation>Angestellter und Prokurist der Firma Joseph Bernini und Gebrüder, Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
                <noteGrp><note target="wkfm-0164.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0164</note><note target="wkfm-0279.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0279</note><note target="wkfm-1615.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1615</note><note target="wkfm-1616.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1616</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47510">
+                     <orgName>Franz Ignaz Sinabell</orgName>
+                  <noteGrp><note target="wkfm-1615.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1615</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>
