@@ -36,26 +36,21 @@
                             <div class="row">
                                 <div class="col-2"/>
                                 <div class="col-8">
-                                    <p>Bei den hier gelisteten Firmen handelt es sich um alle
-                                        identifizierten Firmen/Handelshäuser sämtlicher <a
-                                            href="https://donauhandel.univie.ac.at/"
-                                            title="Link zur Donauhandel Projekt Website">Projekte zum
-                                            Donauhandel</a>. Firmen, die im Merkantilprotokoll erwähnt
-                                        werden, können über die Spalte <strong>Erwähnungen</strong>
-                                        identifiziert/gefiltert werden. Die Spalte
+                                    <p>Bei den hier gelisteten Firmen handelt es sich um alle identifizierten und nicht identifizierten Firmen/Handelshäuser/Kompanien, die im Merkantilprotokoll erwähnt
+                                        werden. Die Spalte
                                         <strong>Beteiligte</strong> gibt Auskunft darüber, ob und
-                                        wie vielen <a href="listperson.html"
+                                        wie viele <a href="listperson.html"
                                             title="Link zum Personenregister">Personen</a> zur jeweiligen
                                         Firma in Beziehung stehen.</p>
                                 </div>
                                 <div class="col-2"/>
                             </div>
-                            
+                            <h2 class="text-center"><xsl:value-of select="count(.//tei:org[@xml:id])"/> Firmen</h2>
                             <table class="table" id="myTable">
                                 <thead>
                                     <tr>
                                         <th scope="col" width="20" tabulator-formatter="html" tabulator-headerSort="false" tabulator-download="false">#</th>
-                                        <th scope="col" tabulator-headerFilter="input">Name</th>
+                                        <th scope="col" tabulator-formatter="html" tabulator-headerFilter="input">Name</th>
                                         <th scope="col" tabulator-headerFilter="input">Erwähnungen</th>
                                         <th scope="col" tabulator-headerFilter="input">Beteiligte</th>
                                         <th scope="col" tabulator-headerFilter="input">ID</th>

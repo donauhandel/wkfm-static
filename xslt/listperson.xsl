@@ -39,12 +39,8 @@
                             <div class="col-2"/>
                             <div class="col-8">
                                 <p>Bei den hier gelisteten Personen handelt es sich um alle
-                                    identifizierten Personen sämtlicher <a
-                                        href="https://donauhandel.univie.ac.at/"
-                                        title="Link zur Donauhandel Projekt Website">Projekte zum
-                                        Donauhandel</a>. Personen, die im Merkantilprotokoll erwähnt
-                                    werden, können über die Spalte <strong>Erwähnungen</strong>
-                                    identifiziert/gefiltert werden. Die Spalte
+                                    identifizierten und nicht identifizierten Personen, die im Merkantilprotokoll erwähnt
+                                    werden. Die Spalte
                                         <strong>Beteiligungen</strong> gibt Auskunft darüber, ob und
                                     zu wie vielen <a href="listorg.html"
                                         title="Link zum Firmenregister">Firmen</a> die jeweilige
@@ -52,7 +48,8 @@
                             </div>
                             <div class="col-2"/>
                         </div>
-
+                        
+                        <h2 class="text-center"><xsl:value-of select="count(.//tei:person[@xml:id])"/> Personen</h2>
                         <table class="table" id="myTable">
                             <thead>
                                 <tr>

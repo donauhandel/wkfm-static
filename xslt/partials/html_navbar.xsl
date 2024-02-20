@@ -39,9 +39,6 @@
                                     <li>
                                         <a class="dropdown-item" href="listorg.html">Firmenregiser</a>
                                     </li>
-                                    <li>
-                                        <a class="dropdown-item" href="listplace.html">Ortsregister</a>
-                                    </li>
                                 </ul>
                             </li>
 
