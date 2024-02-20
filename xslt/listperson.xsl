@@ -53,9 +53,11 @@
                         <table class="table" id="myTable">
                             <thead>
                                 <tr>
-                                    <th scope="col" width="20" tabulator-formatter="html"
+                                    <th scope="col"
                                         tabulator-headerSort="false" tabulator-download="false"
-                                        >#</th>
+                                        tabulator-visible="false">
+                                        itemId
+                                    </th>
                                     <th scope="col" tabulator-headerFilter="input">Nachname</th>
                                     <th scope="col" tabulator-headerFilter="input">Vorname</th>
                                     <th scope="col" tabulator-headerFilter="input">geboren</th>
@@ -74,12 +76,7 @@
                                     </xsl:variable>
                                     <tr>
                                         <td>
-                                            <a>
-                                                <xsl:attribute name="href">
-                                                  <xsl:value-of select="concat($id, '.html')"/>
-                                                </xsl:attribute>
-                                                <i class="bi bi-link-45deg"/>
-                                            </a>
+                                            <xsl:value-of select="concat($id, '.html')"/>
                                         </td>
                                         <td>
                                             <xsl:value-of select=".//tei:surname[1]/text()"/>

@@ -49,7 +49,7 @@
                             <table class="table" id="myTable">
                                 <thead>
                                     <tr>
-                                        <th scope="col" width="20" tabulator-formatter="html" tabulator-headerSort="false" tabulator-download="false">#</th>
+                                        <th scope="col" width="20" tabulator-headerSort="false" tabulator-download="false" tabulator-visible="false">itemId</th>
                                         <th scope="col" tabulator-formatter="html" tabulator-headerFilter="input">Name</th>
                                         <th scope="col" tabulator-headerFilter="input">Erwähnungen</th>
                                         <th scope="col" tabulator-headerFilter="input">Beteiligte</th>
@@ -63,12 +63,7 @@
                                         </xsl:variable>
                                         <tr>
                                             <td>
-                                                <a>
-                                                  <xsl:attribute name="href">
-                                                  <xsl:value-of select="concat($id, '.html')"/>
-                                                  </xsl:attribute>
-                                                  <i class="bi bi-link-45deg"/>
-                                                </a>
+                                                <xsl:value-of select="concat($id, '.html')"/>
                                             </td>
                                             <td>
                                                 <xsl:value-of select=".//tei:orgName[1]/text()"/>

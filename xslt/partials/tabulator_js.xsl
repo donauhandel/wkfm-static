@@ -24,6 +24,13 @@
             document.getElementById("download-html").addEventListener("click", function(){
             table.download("html", "data.html", {style:true});
             });
+            
+            // link to detail view on row click
+            table.on("rowClick", function(e, row){
+            var data = row.getData();
+            var url = data["itemid"]
+            window.open(url);
+            });
         </script>
     </xsl:template>
 </xsl:stylesheet>
