@@ -38,10 +38,10 @@
                         <table class="table" id="myTable">
                             <thead>
                                 <tr>
-                                    <th scope="col" tabulator-formatter="html" tabulator-headerFilter="input">Titel</th>
-                                    <th scope="col" tabulator-formatter="html" tabulator-headerFilter="input">erwähnte Personen</th>
+                                    <th scope="col" tabulator-formatter="html" tabulator-headerFilter="input" tabulator-minWidth="350">Titel</th>
+                                    <th scope="col" tabulator-formatter="html" tabulator-headerFilter="input"  tabulator-minWidth="350">erwähnte Personen</th>
                                     <th scope="col" tabulator-formatter="html" tabulator-headerFilter="input">Anzahl erwähnter Personen</th>
-                                    <th scope="col" tabulator-formatter="html" tabulator-headerFilter="input">erwähnte Firmen</th>
+                                    <th scope="col" tabulator-formatter="html" tabulator-headerFilter="input"  tabulator-minWidth="350">erwähnte Firmen</th>
                                     <th scope="col" tabulator-formatter="html" tabulator-headerFilter="input">Anzahl erwähnter Firmen</th>
                                 </tr>
                             </thead>
@@ -100,7 +100,27 @@
                     </div>
                 </main>
                 <xsl:call-template name="html_footer"/>
-                <xsl:call-template name="tabulator_js"/>
+                <link href="https://unpkg.com/tabulator-tables@5.5.2/dist/css/tabulator.min.css" rel="stylesheet"></link>
+                <link href="https://unpkg.com/tabulator-tables@5.5.0/dist/css/tabulator_bootstrap5.min.css" rel="stylesheet"></link>
+                <script type="text/javascript" src="https://unpkg.com/tabulator-tables@5.5.2/dist/js/tabulator.min.js"></script>
+                <script src="tabulator-js/config.js"></script>
+                <script>
+                    var table = new Tabulator("#myTable", config);
+                    //trigger download of data.csv file
+                    document.getElementById("download-csv").addEventListener("click", function(){
+                    table.download("csv", "data.csv");
+                    });
+                    
+                    //trigger download of data.json file
+                    document.getElementById("download-json").addEventListener("click", function(){
+                    table.download("json", "data.json");
+                    });
+                    
+                    //trigger download of data.html file
+                    document.getElementById("download-html").addEventListener("click", function(){
+                    table.download("html", "data.html", {style:true});
+                    });
+                </script>
             </body>
         </html>
     </xsl:template>

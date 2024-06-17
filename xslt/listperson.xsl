@@ -58,8 +58,8 @@
                                         tabulator-visible="false">
                                         itemId
                                     </th>
-                                    <th scope="col" tabulator-headerFilter="input">Nachname</th>
-                                    <th scope="col" tabulator-headerFilter="input">Vorname</th>
+                                    <th scope="col" tabulator-headerFilter="input" tabulator-minWidth="250">Nachname</th>
+                                    <th scope="col" tabulator-headerFilter="input" tabulator-minWidth="250">Vorname</th>
                                     <th scope="col" tabulator-headerFilter="input">geboren</th>
                                     <th scope="col" tabulator-headerFilter="input">gestorben</th>
                                     <th scope="col" tabulator-headerFilter="input">Beruf/Amt</th>

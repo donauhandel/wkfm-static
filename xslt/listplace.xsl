@@ -48,7 +48,7 @@
                             <thead>
                                 <tr>
                                     <th scope="col" width="20" tabulator-formatter="html" tabulator-headerSort="false" tabulator-download="false">#</th>
-                                    <th scope="col" tabulator-headerFilter="input">Ortsname</th>
+                                    <th scope="col" tabulator-headerFilter="input" tabulator-minWidth="350">Ortsname</th>
                                     <th scope="col" tabulator-headerFilter="input">Verbundene Personen</th>
                                     <th scope="col" tabulator-headerFilter="input">Lat</th>
                                     <th scope="col" tabulator-headerFilter="input">Long</th>
