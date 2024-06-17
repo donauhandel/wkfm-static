@@ -149,6 +149,5 @@ html/*.txt
 data/indices/*.xml
 data/editions/*.xml
 data/*/*.rdf
-html/images/favicons
 *.ipynb
 secret.sh
