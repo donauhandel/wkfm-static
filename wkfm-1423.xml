@@ -90,10 +90,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46734">
-                     <orgName>Joseph Reich</orgName>
-                  <noteGrp><note target="wkfm-1423.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1423</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__46733" sameAs="#wkfm__15894 ">
+    <back><listPerson><person xml:id="wkfm__46733" sameAs="#wkfm__15894 ">
                      <persName>
                         <forename>Joseph</forename>
                         <surname>Reich</surname>
@@ -107,5 +104,8 @@
                      <occupation>Leinwandhändler</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
                <noteGrp><note target="wkfm-1423.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1423</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46734">
+                     <orgName>Joseph Reich</orgName>
+                  <noteGrp><note target="wkfm-1423.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1423</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

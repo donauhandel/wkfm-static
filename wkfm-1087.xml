@@ -110,10 +110,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46643">
-                     <orgName>Johann Adam Jezinger</orgName>
-                  <noteGrp><note target="wkfm-1087.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1087</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__43874">
+    <back><listPerson><person xml:id="wkfm__43874">
                      <persName>
                         <forename>Johann Adam</forename>
                         <surname>Jezinger</surname>
@@ -142,5 +139,8 @@
                         <surname>Jezingerin</surname>
                      </persName>
                <noteGrp><note target="wkfm-1087.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1087</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46643">
+                     <orgName>Johann Adam Jezinger</orgName>
+                  <noteGrp><note target="wkfm-1087.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1087</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

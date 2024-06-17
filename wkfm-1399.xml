@@ -108,10 +108,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__9089">
-                     <orgName>Ruffini &amp; Co.</orgName>
-                  <noteGrp><note target="wkfm-1399.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1399</note><note target="wkfm-1400.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1400</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__43793">
+    <back><listPerson><person xml:id="wkfm__43793">
                      <persName>
                         <forename>Johann Jakob</forename>
                         <surname>Appold</surname>
@@ -139,8 +136,8 @@
                      <persName>
                         <forename>Sebastian</forename>
                         <surname>Ruffini</surname>
-                        <surname type="alt">von Rufin</surname>
                         <surname type="alt">Rufin</surname>
+                        <surname type="alt">von Rufin</surname>
                      </persName>
                      <residence type="Geschäftsniederlassung">
                         <placeName key="#wkfm-place__925">Wien</placeName>
@@ -148,5 +145,8 @@
                      <occupation>Tuchhändler</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
                <noteGrp><note target="wkfm-1399.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1399</note><note target="wkfm-1400.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1400</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__9089">
+                     <orgName>Ruffini &amp; Co.</orgName>
+                  <noteGrp><note target="wkfm-1399.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1399</note><note target="wkfm-1400.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1400</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

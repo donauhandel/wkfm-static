@@ -92,7 +92,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46800" sameAs="#wkfm__8274 ">
+    <back><listOrg><org xml:id="wkfm__46801">
+                     <orgName>Franz Joseph Lehner</orgName>
+                  <noteGrp><note target="wkfm-1129.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1129</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__46800" sameAs="#wkfm__8274 ">
                      <persName>
                         <forename>Franz Joseph</forename>
                         <surname>Lehner</surname>
@@ -115,8 +118,5 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 444.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1129.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1129</note><note target="wkfm-1130.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1130</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46801">
-                     <orgName>Franz Joseph Lehner</orgName>
-                  <noteGrp><note target="wkfm-1129.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1129</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

@@ -88,7 +88,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46202">
+    <back><listOrg><org xml:id="wkfm__46203">
+                     <orgName>Johann Georg Dybalt</orgName>
+                  <noteGrp><note target="wkfm-0517.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0517</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__46202">
                      <persName>
                         <forename>Johann Georg</forename>
                         <surname>Dybalt</surname>
@@ -105,8 +108,5 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0517.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0517</note><note target="wkfm-0518.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0518</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46203">
-                     <orgName>Johann Georg Dybalt</orgName>
-                  <noteGrp><note target="wkfm-0517.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0517</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

@@ -92,14 +92,14 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46666">
-                     <orgName>Matthias Neuhauser sel. Wite und Sohn</orgName>
-                  <noteGrp><note target="wkfm-1313.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1313</note></noteGrp></org>
-                <org xml:id="wkfm__46662">
+    <back><listOrg><org xml:id="wkfm__46662">
                      <orgName>Matthias Neuhauser</orgName>
                   <noteGrp><note target="wkfm-1313.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1313</note></noteGrp></org>
                 <org xml:id="wkfm__46663">
                      <orgName>Matthias Neuhauser sel. Witwe</orgName>
+                  <noteGrp><note target="wkfm-1313.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1313</note></noteGrp></org>
+                <org xml:id="wkfm__46666">
+                     <orgName>Matthias Neuhauser sel. Wite und Sohn</orgName>
                   <noteGrp><note target="wkfm-1313.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1313</note></noteGrp></org>
                 </listOrg></back></text>
 </TEI>

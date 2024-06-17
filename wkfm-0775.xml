@@ -91,10 +91,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47140">
-                     <orgName>Johann Kaspar Vogl</orgName>
-                  <noteGrp><note target="wkfm-0775.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0775</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__37086">
+    <back><listPerson><person xml:id="wkfm__37086">
                      <persName>
                         <forename>Johann Kaspar</forename>
                         <surname>Vogl</surname>
@@ -115,5 +112,8 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 550.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0775.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0775</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47140">
+                     <orgName>Johann Kaspar Vogl</orgName>
+                  <noteGrp><note target="wkfm-0775.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0775</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

@@ -100,20 +100,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47394">
-                     <orgName>Emmerich Felix Bader</orgName>
-                  <noteGrp><note target="wkfm-0311.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0311</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__44038">
-                     <persName>
-                        <forename>David</forename>
-                        <surname>Fink</surname>
-                     </persName>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Kassier und Prokurist bei Emmerich Felix Bader</occupation>
-               <noteGrp><note target="wkfm-0311.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0311</note></noteGrp></person>
-                <person xml:id="wkfm__44037">
+    <back><listPerson><person xml:id="wkfm__44037">
                      <persName>
                         <forename>Emmerich Felix</forename>
                         <surname>Bader</surname>
@@ -131,5 +118,18 @@
                         <bibl>Frank, Frimmel, Buchwesen in Wien, 10f.; Gericke, Wiener Musikalienhandel, 55-58.</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0311.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0311</note></noteGrp></person>
-                </listPerson></back></text>
+                <person xml:id="wkfm__44038">
+                     <persName>
+                        <forename>David</forename>
+                        <surname>Fink</surname>
+                     </persName>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Kassier und Prokurist bei Emmerich Felix Bader</occupation>
+               <noteGrp><note target="wkfm-0311.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0311</note></noteGrp></person>
+                </listPerson><listOrg><org xml:id="wkfm__47394">
+                     <orgName>Emmerich Felix Bader</orgName>
+                  <noteGrp><note target="wkfm-0311.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0311</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

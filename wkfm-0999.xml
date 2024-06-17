@@ -90,10 +90,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46497">
-                     <orgName>Johann Adam Himmelberger</orgName>
-                  <noteGrp><note target="wkfm-0999.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0999</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__46496">
+    <back><listPerson><person xml:id="wkfm__46496">
                      <persName>
                         <forename>Johann Adam</forename>
                         <surname>Himmelberger</surname>
@@ -110,5 +107,8 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0999.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0999</note><note target="wkfm-1000.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1000</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46497">
+                     <orgName>Johann Adam Himmelberger</orgName>
+                  <noteGrp><note target="wkfm-0999.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0999</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

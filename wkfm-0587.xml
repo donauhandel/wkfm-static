@@ -108,7 +108,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46267">
+    <back><listOrg><org xml:id="wkfm__46268">
+                     <orgName>Johann Ferdinand Diewald</orgName>
+                  <noteGrp><note target="wkfm-0587.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0587</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__46267">
                      <persName>
                         <forename>Johann Ferdinand</forename>
                         <surname>Diewald</surname>
@@ -136,8 +139,5 @@
                         <surname>Diewald</surname>
                      </persName>
                <noteGrp><note target="wkfm-0587.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0587</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46268">
-                     <orgName>Johann Ferdinand Diewald</orgName>
-                  <noteGrp><note target="wkfm-0587.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0587</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

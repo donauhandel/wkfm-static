@@ -111,17 +111,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47526">
-                     <orgName>Pietro Francesco Scatti (Scotti)</orgName>
-                  <noteGrp><note target="wkfm-1627.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1627</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__47527">
-                     <persName>
-                        <forename>Clara Aloisia</forename>
-                        <surname>Scattin</surname>
-                        <surname type="alt">Wannerin</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-1627.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1627</note></noteGrp></person>
-                <person xml:id="wkfm__47525">
+    <back><listPerson><person xml:id="wkfm__47525">
                      <persName>
                         <forename>Pietro Francesco</forename>
                         <surname>Scatti</surname>
@@ -138,11 +128,21 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1627.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1627</note></noteGrp></person>
+                <person xml:id="wkfm__47527">
+                     <persName>
+                        <forename>Clara Aloisia</forename>
+                        <surname>Scattin</surname>
+                        <surname type="alt">Wannerin</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-1627.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1627</note></noteGrp></person>
                 <person xml:id="wkfm__47528">
                      <persName>
                         <forename>None</forename>
                         <surname>Wanner</surname>
                      </persName>
                <noteGrp><note target="wkfm-1627.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1627</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47526">
+                     <orgName>Pietro Francesco Scatti (Scotti)</orgName>
+                  <noteGrp><note target="wkfm-1627.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1627</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

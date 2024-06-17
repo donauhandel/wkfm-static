@@ -107,7 +107,13 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43940" sameAs="#wkfm__17290 ">
+    <back><listPerson><person xml:id="wkfm__43941">
+                     <persName>
+                        <forename>Maria Theresia</forename>
+                        <surname>Praun</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0247.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0247</note></noteGrp></person>
+                <person xml:id="wkfm__43940" sameAs="#wkfm__17290 ">
                      <persName>
                         <forename>Johann</forename>
                         <surname>Praun</surname>
@@ -126,12 +132,6 @@
                      <listBibl>
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 490 (April 1738: Handelsmann; 489: 16. April 1701: Tuchhändler).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
-               <noteGrp><note target="wkfm-0247.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0247</note></noteGrp></person>
-                <person xml:id="wkfm__43941">
-                     <persName>
-                        <forename>Maria Theresia</forename>
-                        <surname>Praun</surname>
-                     </persName>
                <noteGrp><note target="wkfm-0247.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0247</note></noteGrp></person>
                 </listPerson><listOrg><org xml:id="wkfm__47363">
                      <orgName>Johann Praun</orgName>

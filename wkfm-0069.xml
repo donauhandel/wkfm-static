@@ -108,7 +108,19 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43805">
+    <back><listPerson><person xml:id="wkfm__43808">
+                     <persName>
+                        <forename>Jonathan</forename>
+                        <surname>von Palm</surname>
+                     </persName>
+                     <birth><date>1671</date></birth>
+                     <death><date>1740</date></death>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+                     <listBibl>
+                        <bibl>Kollmer, Familie Palm, 43 und passim.&amp;lt;br&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0069.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0069</note></noteGrp></person>
+                <person xml:id="wkfm__43805">
                      <persName>
                         <forename>Franz Gottlieb</forename>
                         <surname>Palm</surname>
@@ -144,16 +156,18 @@
                         <bibl>Kollmer, Familie Palm, 55 und passim (Tagebuch 6/Anm. 12).&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0069.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0069</note></noteGrp></person>
-                <person xml:id="wkfm__43808">
+                <person xml:id="wkfm__22880">
                      <persName>
-                        <forename>Jonathan</forename>
+                        <forename>Johann Heinrich</forename>
                         <surname>von Palm</surname>
                      </persName>
-                     <birth><date>1671</date></birth>
-                     <death><date>1740</date></death>
+                     <birth><date>1687</date></birth>
+                     <death><date>1744</date></death>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                      <listBibl>
-                        <bibl>Kollmer, Familie Palm, 43 und passim.&amp;lt;br&amp;gt;</bibl>
+                        <bibl>Kollmer, Familie Palm, passim; &amp;lt;span&amp;gt;Kröpfel, Protestantismus, Anhang 1, S. 5; &amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Kühnert, Taufbuch, 106; &amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;&amp;#34;...daß er uns einen Correspondenten in Wien ausmache&amp;#34;. Berichte, Briefe
+ und Aufzeichnungen von dänischen und schwedischen 
+Gesandtschaftspredigern in Wien 1705–1755), hg. von Zoltán &amp;lt;span style=&amp;#34;font-variant: small-caps;&amp;#34;&amp;gt;Csepregi&amp;lt;/span&amp;gt;–Julianna &amp;lt;span style=&amp;#34;font-variant: small-caps;&amp;#34;&amp;gt;Orsós (&amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;Budapest 2021) 685/Anm. 136. &amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0069.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0069</note></noteGrp></person>
                 <person xml:id="wkfm__24663">
@@ -169,22 +183,11 @@
                         <bibl>Kollmer, Familie Palm, 45-90.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0069.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0069</note></noteGrp></person>
-                <person xml:id="wkfm__22880">
-                     <persName>
-                        <forename>Johann Heinrich</forename>
-                        <surname>von Palm</surname>
-                     </persName>
-                     <birth><date>1687</date></birth>
-                     <death><date>1744</date></death>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-                     <listBibl>
-                        <bibl>Kollmer, Familie Palm, passim; &amp;lt;span&amp;gt;Kröpfel, Protestantismus, Anhang 1, S. 5; &amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Kühnert, Taufbuch, 106.&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-0069.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0069</note></noteGrp></person>
                 <person xml:id="wkfm__13459">
                      <persName>
                         <forename>Johann Heinrich</forename>
                         <surname>Stametz</surname>
+                        <surname type="alt">Stammetz</surname>
                      </persName>
                      <death><date>1782</date></death>
                      <residence type="Wohnort">
@@ -196,14 +199,16 @@
                      <occupation>Handelsmann, Prokurist der Gebrüder Palm</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                      <listBibl>
-                        <bibl>Mittenzwei, Zwischen gestern und morgen, S. 116; Stökl, Protestantismus, 229. Ein Heinrich Stametz (der Vater?) ist erwähnt bei Senfelder, Gottesacker, 269.&amp;lt;br&amp;gt;</bibl>
+                        <bibl>Mittenzwei, Zwischen gestern und morgen, S. 116; Stökl, Protestantismus, 229. Ein Heinrich Stametz (der Vater?) ist erwähnt bei Senfelder, Gottesacker, 269; &amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;#34;...daß er uns einen Correspondenten in Wien ausmache&amp;#34;. Berichte, Briefe
+ und Aufzeichnungen von dänischen und schwedischen 
+Gesandtschaftspredigern in Wien 1705–1755), hg. von Zoltán &amp;lt;span style=&amp;#34;font-variant: small-caps;&amp;#34;&amp;gt;Csepregi&amp;lt;/span&amp;gt;–Julianna &amp;lt;span style=&amp;#34;font-variant: small-caps;&amp;#34;&amp;gt;Orsós (&amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;Budapest 2021) 685/Anm. 150. &amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0068.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0068</note><note target="wkfm-0069.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0069</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__30430">
-                     <orgName>Gebrüder Franz Gottlieb von Palm und Leopold Karl von Palm</orgName>
-                  <noteGrp><note target="wkfm-0069.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0069</note></noteGrp></org>
-                <org xml:id="wkfm__43807">
+                </listPerson><listOrg><org xml:id="wkfm__43807">
                      <orgName>Christian Kaltschmidt sel. Witwe &amp; Co.</orgName>
                   <noteGrp><note target="wkfm-0068.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0068</note><note target="wkfm-0069.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0069</note></noteGrp></org>
+                <org xml:id="wkfm__30430">
+                     <orgName>Gebrüder Franz Gottlieb von Palm und Leopold Karl von Palm</orgName>
+                  <noteGrp><note target="wkfm-0069.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0069</note></noteGrp></org>
                 </listOrg></back></text>
 </TEI>

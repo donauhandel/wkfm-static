@@ -87,7 +87,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__12477">
+    <back><listOrg><org xml:id="wkfm__47222">
+                     <orgName>Karl Kleinhunger</orgName>
+                  <noteGrp><note target="wkfm-0379.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0379</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__12477">
                      <persName>
                         <forename>Karl</forename>
                         <surname>Kleinhunger</surname>
@@ -110,8 +113,5 @@
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 430.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0379.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0379</note><note target="wkfm-0380.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0380</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__47222">
-                     <orgName>Karl Kleinhunger</orgName>
-                  <noteGrp><note target="wkfm-0379.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0379</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

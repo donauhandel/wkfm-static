@@ -88,10 +88,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46975">
-                     <orgName>Augustin Wittiber</orgName>
-                  <noteGrp><note target="wkfm-1745.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1745</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__8924">
+    <back><listPerson><person xml:id="wkfm__8924">
                      <persName>
                         <forename>Augustin</forename>
                         <surname>Wittiber</surname>
@@ -118,5 +115,8 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 566.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1745.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1745</note><note target="wkfm-1746.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1746</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46975">
+                     <orgName>Augustin Wittiber</orgName>
+                  <noteGrp><note target="wkfm-1745.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1745</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

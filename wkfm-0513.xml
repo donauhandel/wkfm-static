@@ -89,10 +89,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46199">
-                     <orgName>Marco Hermann Dietz</orgName>
-                  <noteGrp><note target="wkfm-0513.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0513</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__46198" sameAs="#wkfm__25706 wkfm__28363 ">
+    <back><listPerson><person xml:id="wkfm__46198" sameAs="#wkfm__25706 wkfm__28363 ">
                      <persName>
                         <forename>Markus Hermann</forename>
                         <forename type="alt">Marco Hermann</forename>
@@ -113,5 +110,8 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 362 (23. Februar 1701: &amp;#34;Marx/Marius Dietz&amp;#34;)&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0513.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0513</note><note target="wkfm-0514.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0514</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46199">
+                     <orgName>Marco Hermann Dietz</orgName>
+                  <noteGrp><note target="wkfm-0513.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0513</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

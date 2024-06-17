@@ -91,10 +91,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46874">
-                     <orgName>Johann Baptist Mariano</orgName>
-                  <noteGrp><note target="wkfm-1221.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1221</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__46873">
+    <back><listPerson><person xml:id="wkfm__46873">
                      <persName>
                         <forename>Johann Baptist</forename>
                         <surname>Mariano</surname>
@@ -104,5 +101,8 @@
                      <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                <noteGrp><note target="wkfm-1221.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1221</note><note target="wkfm-1222.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1222</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46874">
+                     <orgName>Johann Baptist Mariano</orgName>
+                  <noteGrp><note target="wkfm-1221.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1221</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

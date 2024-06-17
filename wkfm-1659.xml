@@ -114,15 +114,12 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47566">
-                     <orgName>Franz Anton Schnierer</orgName>
-                  <noteGrp><note target="wkfm-1659.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1659</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__23922" sameAs="#wkfm__26471 wkfm__28011 ">
+    <back><listPerson><person xml:id="wkfm__23922" sameAs="#wkfm__26471 wkfm__28011 ">
                      <persName>
                         <forename>Wolf Karl</forename>
                         <surname>von Nideröst</surname>
-                        <surname type="alt">Nedorost</surname>
                         <surname type="alt">von Nedorost</surname>
+                        <surname type="alt">Nedorost</surname>
                      </persName>                    
                      <residence type="Geschäftsadresse">
                         <placeName>Zum Weißen Schwan in der Brandstatt (Calender 1723)</placeName>
@@ -165,5 +162,8 @@
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 520.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1659.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1659</note><note target="wkfm-1660.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1660</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47566">
+                     <orgName>Franz Anton Schnierer</orgName>
+                  <noteGrp><note target="wkfm-1659.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1659</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

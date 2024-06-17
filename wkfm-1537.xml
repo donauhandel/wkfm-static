@@ -90,10 +90,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47451">
-                     <orgName>Johann Egidius Schuster</orgName>
-                  <noteGrp><note target="wkfm-1537.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1537</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__47450">
+    <back><listPerson><person xml:id="wkfm__47450">
                      <persName>
                         <forename>Johann Egidius</forename>
                         <surname>Schuster</surname>
@@ -114,5 +111,8 @@
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 524.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1537.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1537</note><note target="wkfm-1538.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1538</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47451">
+                     <orgName>Johann Egidius Schuster</orgName>
+                  <noteGrp><note target="wkfm-1537.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1537</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

@@ -101,10 +101,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47323">
-                     <orgName>Philipp Bazzani</orgName>
-                  <noteGrp><note target="wkfm-0239.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0239</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__28746">
+    <back><listPerson><person xml:id="wkfm__28746">
                      <persName>
                         <forename>Philipp</forename>
                         <surname>Bazzani</surname>
@@ -137,5 +134,8 @@
                      <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                <noteGrp><note target="wkfm-0164.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0164</note><note target="wkfm-0165.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0165</note><note target="wkfm-0239.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0239</note><note target="wkfm-0240.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0240</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47323">
+                     <orgName>Philipp Bazzani</orgName>
+                  <noteGrp><note target="wkfm-0239.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0239</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

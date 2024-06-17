@@ -88,7 +88,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46104">
+    <back><listOrg><org xml:id="wkfm__47199">
+                     <orgName>La Veuve d'Estienne Capieu (Stephan Capieu sel. Witwe)</orgName>
+                  <noteGrp><note target="wkfm-0327.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0327</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__46104">
                      <persName>
                         <forename>None</forename>
                         <surname>Capieu</surname>
@@ -99,8 +102,5 @@
                      <occupation>Handelsfrau</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                <noteGrp><note target="wkfm-0327.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0327</note><note target="wkfm-0328.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0328</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__47199">
-                     <orgName>La Veuve d'Estienne Capieu (Stephan Capieu sel. Witwe)</orgName>
-                  <noteGrp><note target="wkfm-0327.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0327</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

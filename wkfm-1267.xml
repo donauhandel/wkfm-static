@@ -105,14 +105,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46924">
-                     <persName>
-                        <forename>Elisabeth</forename>
-                        <surname>Mayrhofer</surname>
-                     </persName>
-                     <death><date>1759</date></death>
-               <noteGrp><note target="wkfm-1267.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1267</note></noteGrp></person>
-                <person xml:id="wkfm__46922" sameAs="#wkfm__9103 ">
+    <back><listPerson><person xml:id="wkfm__46922" sameAs="#wkfm__9103 ">
                      <persName>
                         <forename>Johann</forename>
                         <surname>Mayrhofer</surname>
@@ -135,6 +128,13 @@
                      <listBibl>
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 459.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
+               <noteGrp><note target="wkfm-1267.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1267</note></noteGrp></person>
+                <person xml:id="wkfm__46924">
+                     <persName>
+                        <forename>Elisabeth</forename>
+                        <surname>Mayrhofer</surname>
+                     </persName>
+                     <death><date>1759</date></death>
                <noteGrp><note target="wkfm-1267.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1267</note></noteGrp></person>
                 </listPerson><listOrg><org xml:id="wkfm__46923">
                      <orgName>Johann Mayrhofer</orgName>

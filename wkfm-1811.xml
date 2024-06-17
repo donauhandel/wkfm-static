@@ -114,10 +114,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47033">
-                     <orgName>Johann Weigart</orgName>
-                  <noteGrp><note target="wkfm-1811.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1811</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__47035" sameAs="#wkfm__47544 ">
+    <back><listPerson><person xml:id="wkfm__47035" sameAs="#wkfm__47544 ">
                      <persName>
                         <forename>Martin Joseph</forename>
                         <surname>Sensel</surname>
@@ -163,5 +160,8 @@
                         <surname>Scharnagl</surname>
                      </persName>
                <noteGrp><note target="wkfm-1811.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1811</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47033">
+                     <orgName>Johann Weigart</orgName>
+                  <noteGrp><note target="wkfm-1811.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1811</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

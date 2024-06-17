@@ -121,13 +121,21 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46951">
-                     <orgName>Wenzell &amp; Co.</orgName>
-                  <noteGrp><note target="wkfm-1711.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1711</note><note target="wkfm-1712.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1712</note></noteGrp></org>
-                <org xml:id="wkfm__46952">
-                     <orgName>Arnold Philipp de Wenzelli</orgName>
-                  <noteGrp><note target="wkfm-1621.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1621</note><note target="wkfm-1622.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1622</note><note target="wkfm-1711.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1711</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__46950">
+    <back><listPerson><person xml:id="wkfm__44148" sameAs="#wkfm__19875 ">
+                     <persName>
+                        <forename>Giulio Maria</forename>
+                        <forename type="alt">Julius Maria</forename>
+                        <surname>Sonzogno</surname>
+                        <surname type="alt">von Sonzogno</surname>
+                        <surname type="alt">Sonzogna</surname>
+                     </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann, Wechsler</occupation>
+                     <occupation type="kaufmannsklasse">hofbefreit</occupation>
+               <noteGrp><note target="wkfm-1711.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1711</note><note target="wkfm-1712.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1712</note></noteGrp></person>
+                <person xml:id="wkfm__46950">
                      <persName>
                         <forename>Arnold Philipp</forename>
                         <surname>de Wenzelli</surname>
@@ -143,20 +151,6 @@
                         <bibl>Staats- und Standeskalender 1723, 241.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1622.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1622</note><note target="wkfm-1711.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1711</note><note target="wkfm-1712.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1712</note></noteGrp></person>
-                <person xml:id="wkfm__44148" sameAs="#wkfm__19875 ">
-                     <persName>
-                        <forename>Giulio Maria</forename>
-                        <forename type="alt">Julius Maria</forename>
-                        <surname>Sonzogno</surname>
-                        <surname type="alt">Sonzogna</surname>
-                        <surname type="alt">von Sonzogno</surname>
-                     </persName>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann, Wechsler</occupation>
-                     <occupation type="kaufmannsklasse">hofbefreit</occupation>
-               <noteGrp><note target="wkfm-1711.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1711</note><note target="wkfm-1712.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1712</note></noteGrp></person>
                 <person xml:id="wkfm__46953">
                      <persName>
                         <forename>Dominicus</forename>
@@ -167,5 +161,11 @@
                      <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Prokurist bei Wenzell &amp; Co. (Arnold Philipp de Werzelli)</occupation>
                <noteGrp><note target="wkfm-1711.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1711</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46952">
+                     <orgName>Arnold Philipp de Wenzelli</orgName>
+                  <noteGrp><note target="wkfm-1621.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1621</note><note target="wkfm-1622.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1622</note><note target="wkfm-1711.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1711</note></noteGrp></org>
+                <org xml:id="wkfm__46951">
+                     <orgName>Wenzell &amp; Co.</orgName>
+                  <noteGrp><note target="wkfm-1711.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1711</note><note target="wkfm-1712.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1712</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

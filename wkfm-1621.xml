@@ -129,14 +129,13 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47516">
-                     <persName>
-                        <forename>Maria Barbara</forename>
-                        <surname>Preisingerin</surname>
-                        <surname type="alt">Smitmer</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-1621.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1621</note><note target="wkfm-1622.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1622</note></noteGrp></person>
-                <person xml:id="wkfm__47512">
+    <back><listOrg><org xml:id="wkfm__46952">
+                     <orgName>Arnold Philipp de Wenzelli</orgName>
+                  <noteGrp><note target="wkfm-1621.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1621</note><note target="wkfm-1622.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1622</note><note target="wkfm-1711.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1711</note></noteGrp></org>
+                <org xml:id="wkfm__47513">
+                     <orgName>Gebrüder Smitmer, Fratelli Smitmer (Smittmer)</orgName>
+                  <noteGrp><note target="wkfm-1621.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1621</note><note target="wkfm-1622.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1622</note><note target="wkfm-1703.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1703</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__47512">
                      <persName>
                         <forename>Franz Michael</forename>
                         <surname>Smitmer</surname>
@@ -155,6 +154,13 @@
                         <surname>Smitmer</surname>
                      </persName>
                <noteGrp><note target="wkfm-1621.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1621</note><note target="wkfm-1622.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1622</note></noteGrp></person>
+                <person xml:id="wkfm__47516">
+                     <persName>
+                        <forename>Maria Barbara</forename>
+                        <surname>Preisingerin</surname>
+                        <surname type="alt">Smitmer</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-1621.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1621</note><note target="wkfm-1622.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1622</note></noteGrp></person>
                 <person xml:id="wkfm__47514">
                      <persName>
                         <forename>Jakob Michael</forename>
@@ -165,11 +171,5 @@
                      <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Hofjuwelier, Wechsler/Bankier</occupation>
                <noteGrp><note target="wkfm-1621.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1621</note><note target="wkfm-1622.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1622</note><note target="wkfm-1704.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1704</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46952">
-                     <orgName>Arnold Philipp de Wenzelli</orgName>
-                  <noteGrp><note target="wkfm-1621.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1621</note><note target="wkfm-1622.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1622</note><note target="wkfm-1711.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1711</note></noteGrp></org>
-                <org xml:id="wkfm__47513">
-                     <orgName>Gebrüder Smitmer, Fratelli Smitmer (Smittmer)</orgName>
-                  <noteGrp><note target="wkfm-1621.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1621</note><note target="wkfm-1622.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1622</note><note target="wkfm-1703.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1703</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

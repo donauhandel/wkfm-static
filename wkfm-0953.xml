@@ -107,9 +107,9 @@
                      <occupation>Handelsmann, Prokurist der Firma Johann Christoph Haas</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                <noteGrp><note target="wkfm-0953.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0953</note><note target="wkfm-0954.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0954</note></noteGrp></person>
-                <person xml:id="wkfm__20866">
+                <person xml:id="wkfm__46460">
                      <persName>
-                        <forename>Johann Christoph</forename>
+                        <forename>Franz Anton</forename>
                         <surname>Haas</surname>
                      </persName>
                      <residence type="Geschäftsniederlassung">
@@ -118,9 +118,9 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                <noteGrp><note target="wkfm-0953.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0953</note><note target="wkfm-0954.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0954</note></noteGrp></person>
-                <person xml:id="wkfm__46460">
+                <person xml:id="wkfm__20866">
                      <persName>
-                        <forename>Franz Anton</forename>
+                        <forename>Johann Christoph</forename>
                         <surname>Haas</surname>
                      </persName>
                      <residence type="Geschäftsniederlassung">

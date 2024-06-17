@@ -90,13 +90,16 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__34859" sameAs="#wkfm__15571 wkfm__16401 ">
+    <back><listOrg><org xml:id="wkfm__47217">
+                     <orgName>Johann Michael Kutzilinger</orgName>
+                  <noteGrp><note target="wkfm-0369.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0369</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__34859" sameAs="#wkfm__15571 wkfm__16401 ">
                      <persName>
                         <forename>Johann Michael</forename>
                         <surname>Kutzilinger</surname>
+                        <surname type="alt">Kuttinger</surname>
                         <surname type="alt">Kutzlinger</surname>
                         <surname type="alt">Kutzillinger</surname>
-                        <surname type="alt">Kuttinger</surname>
                      </persName>
                      <death><date>1742</date></death>                    
                      <residence type="Geschäftsadresse">
@@ -117,8 +120,5 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 440.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0369.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0369</note><note target="wkfm-0370.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0370</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__47217">
-                     <orgName>Johann Michael Kutzilinger</orgName>
-                  <noteGrp><note target="wkfm-0369.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0369</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

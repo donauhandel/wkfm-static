@@ -92,7 +92,13 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__8096">
+    <back><listOrg><org xml:id="wkfm__46114">
+                     <orgName>Claudius Cheret &amp; Co.</orgName>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__8096">Cheret, Claudius</persName></person></listPerson><noteGrp><note target="wkfm-0385.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0385</note><note target="wkfm-0386.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0386</note></noteGrp></org>
+                <org xml:id="wkfm__47225">
+                     <orgName>Claudius Cheret</orgName>
+                  <noteGrp><note target="wkfm-0385.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0385</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__8096">
                      <persName>
                         <forename>Claudius</forename>
                         <surname>Cheret</surname>
@@ -117,11 +123,5 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0385.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0385</note><note target="wkfm-0386.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0386</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__47225">
-                     <orgName>Claudius Cheret</orgName>
-                  <noteGrp><note target="wkfm-0385.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0385</note></noteGrp></org>
-                <org xml:id="wkfm__46114">
-                     <orgName>Claudius Cheret &amp; Co.</orgName>
-                  <listPerson type="affiliated"><person><persName key="#wkfm__8096">Cheret, Claudius</persName></person></listPerson><noteGrp><note target="wkfm-0385.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0385</note><note target="wkfm-0386.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0386</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

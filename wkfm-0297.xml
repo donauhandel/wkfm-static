@@ -111,27 +111,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43984">
-                     <persName>
-                        <forename>Joseph Karl</forename>
-                        <surname>Puz</surname>
-                     </persName>                    
-                     <residence type="Geschäftsadresse">
-                        <placeName>Zum Roten Krebs nächst dem schönen Brunnen unter den Tuchlauben (Calender 1758)</placeName>
-                     </residence>
-                     <residence type="Bürgerrecht">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-0297.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0297</note></noteGrp></person>
-                <person xml:id="wkfm__37701">
+    <back><listPerson><person xml:id="wkfm__37701">
                      <persName>
                         <forename>Philipp Joseph</forename>
                         <surname>Langwider</surname>
@@ -156,6 +136,26 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 442.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0041.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0041</note><note target="wkfm-0297.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0297</note><note target="wkfm-0611.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0611</note><note target="wkfm-1161.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1161</note><note target="wkfm-1162.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1162</note></noteGrp></person>
+                <person xml:id="wkfm__43984">
+                     <persName>
+                        <forename>Joseph Karl</forename>
+                        <surname>Puz</surname>
+                     </persName>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zum Roten Krebs nächst dem schönen Brunnen unter den Tuchlauben (Calender 1758)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-0297.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0297</note></noteGrp></person>
                 </listPerson><listOrg><org xml:id="wkfm__47389">
                      <orgName>Joseph Karl Puz</orgName>
                   <noteGrp><note target="wkfm-0297.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0297</note></noteGrp></org>

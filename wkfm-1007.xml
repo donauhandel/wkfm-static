@@ -90,10 +90,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46503">
-                     <orgName>Johann Georg Hubmer</orgName>
-                  <noteGrp><note target="wkfm-1007.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1007</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__46502">
+    <back><listPerson><person xml:id="wkfm__46502">
                      <persName>
                         <forename>Johann Georg</forename>
                         <surname>Hubmer</surname>
@@ -117,5 +114,8 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 419 (September 1731) (Huebner).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1007.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1007</note><note target="wkfm-1008.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1008</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46503">
+                     <orgName>Johann Georg Hubmer</orgName>
+                  <noteGrp><note target="wkfm-1007.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1007</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

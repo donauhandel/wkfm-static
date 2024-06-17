@@ -96,10 +96,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46307">
-                     <orgName>Aurelio Gazzinelli</orgName>
-                  <noteGrp><note target="wkfm-0829.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0829</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__8592">
+    <back><listPerson><person xml:id="wkfm__8592">
                      <persName>
                         <forename>Aurelio</forename>
                         <surname>Gazzinelli</surname>
@@ -120,5 +117,8 @@
                      <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Prokurist der Firma Aurelio Gazzinelli</occupation>
                <noteGrp><note target="wkfm-0829.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0829</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46307">
+                     <orgName>Aurelio Gazzinelli</orgName>
+                  <noteGrp><note target="wkfm-0829.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0829</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

@@ -98,7 +98,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__11007" sameAs="#wkfm__10610 wkfm__23712 ">
+    <back><listOrg><org xml:id="wkfm__46298">
+                     <orgName>Lambert Guissart</orgName>
+                  <noteGrp><note target="wkfm-0813.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0813</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__11007" sameAs="#wkfm__10610 wkfm__23712 ">
                      <persName>
                         <forename>Lambert</forename>
                         <surname>Guissart</surname>
@@ -109,8 +112,5 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
                <noteGrp><note target="wkfm-0813.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0813</note><note target="wkfm-0814.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0814</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46298">
-                     <orgName>Lambert Guissart</orgName>
-                  <noteGrp><note target="wkfm-0813.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0813</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

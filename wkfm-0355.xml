@@ -95,7 +95,32 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__2848">
+    <back><listOrg><org xml:id="wkfm__47211">
+                     <orgName>Matthias Kern</orgName>
+                  <noteGrp><note target="wkfm-0355.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0355</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__18491">
+                     <persName>
+                        <forename>None</forename>
+                        <surname>Kern</surname>
+                     </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsfrau</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+                     <listBibl>
+                        <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;#34;...daß er uns einen Correspondenten in Wien ausmache&amp;#34;. Berichte, Briefe
+ und Aufzeichnungen von dänischen und schwedischen 
+Gesandtschaftspredigern in Wien 1705–1755), hg. von Zoltán &amp;lt;span style=&amp;#34;font-variant: small-caps;&amp;#34;&amp;gt;Csepregi&amp;lt;/span&amp;gt;–Julianna &amp;lt;span style=&amp;#34;font-variant: small-caps;&amp;#34;&amp;gt;Orsós (&amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;Budapest 2021) 685/Anm. 144. &amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0355.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0355</note></noteGrp></person>
+                <person xml:id="wkfm__28228">
+                     <persName>
+                        <forename>Johann Kaspar</forename>
+                        <surname>Kern</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0355.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0355</note></noteGrp></person>
+                <person xml:id="wkfm__2848">
                      <persName>
                         <forename>Matthias</forename>
                         <surname>Kern</surname>
@@ -112,25 +137,11 @@
                      <location type="coords"><geo>47.684999999999995 16.590277777777775</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+                     <listBibl>
+                        <bibl>&amp;#34;...daß er uns einen Correspondenten in Wien ausmache&amp;#34;. Berichte, Briefe
+ und Aufzeichnungen von dänischen und schwedischen 
+Gesandtschaftspredigern in Wien 1705–1755), hg. von Zoltán &amp;lt;span style=&amp;#34;font-variant: small-caps;&amp;#34;&amp;gt;Csepregi&amp;lt;/span&amp;gt;–Julianna &amp;lt;span style=&amp;#34;font-variant: small-caps;&amp;#34;&amp;gt;Orsós (&amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;Budapest 2021) 220/Anm. 4. &amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
+                     </listBibl>
                <noteGrp><note target="wkfm-0355.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0355</note><note target="wkfm-0356.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0356</note></noteGrp></person>
-                <person xml:id="wkfm__28228">
-                     <persName>
-                        <forename>Johann Kaspar</forename>
-                        <surname>Kern</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-0355.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0355</note></noteGrp></person>
-                <person xml:id="wkfm__18491">
-                     <persName>
-                        <forename>None</forename>
-                        <surname>Kern</surname>
-                     </persName>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsfrau</occupation>
-               <noteGrp><note target="wkfm-0355.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0355</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__47211">
-                     <orgName>Matthias Kern</orgName>
-                  <noteGrp><note target="wkfm-0355.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0355</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

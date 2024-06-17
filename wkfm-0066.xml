@@ -93,10 +93,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47273">
-                     <orgName>Georg Prunner</orgName>
-                  <noteGrp><note target="wkfm-0066.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0066</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__8412" sameAs="#wkfm__10731 wkfm__12382 ">
+    <back><listPerson><person xml:id="wkfm__8412" sameAs="#wkfm__10731 wkfm__12382 ">
                      <persName>
                         <forename>Georg</forename>
                         <surname>Prunner</surname>
@@ -131,5 +128,8 @@
                      </residence>
                      <occupation>Wechselsensal, Prokurist bei Georg Prunner</occupation>
                <noteGrp><note target="wkfm-0066.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0066</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47273">
+                     <orgName>Georg Prunner</orgName>
+                  <noteGrp><note target="wkfm-0066.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0066</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

@@ -94,15 +94,15 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__9030">
-                     <orgName>Föhr und Wanner</orgName>
-                  <noteGrp><note target="wkfm-0669.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0669</note><note target="wkfm-0670.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0670</note><note target="wkfm-1721.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1721</note><note target="wkfm-1723.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1723</note></noteGrp></org>
+    <back><listOrg><org xml:id="wkfm__44080">
+                     <orgName>Kaspar Würth sel. Söhne</orgName>
+                  <noteGrp><note target="wkfm-1721.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1721</note><note target="wkfm-1722.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1722</note><note target="wkfm-1723.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1723</note><note target="wkfm-1724.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1724</note></noteGrp></org>
                 <org xml:id="wkfm__14642">
                      <orgName>Kaspar Würth sel. Erben</orgName>
                   <noteGrp><note target="wkfm-1721.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1721</note><note target="wkfm-1723.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1723</note></noteGrp></org>
-                <org xml:id="wkfm__44080">
-                     <orgName>Kaspar Würth sel. Söhne</orgName>
-                  <noteGrp><note target="wkfm-1721.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1721</note><note target="wkfm-1722.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1722</note><note target="wkfm-1723.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1723</note><note target="wkfm-1724.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1724</note></noteGrp></org>
+                <org xml:id="wkfm__9030">
+                     <orgName>Föhr und Wanner</orgName>
+                  <noteGrp><note target="wkfm-0669.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0669</note><note target="wkfm-0670.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0670</note><note target="wkfm-1721.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1721</note><note target="wkfm-1723.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1723</note></noteGrp></org>
                 </listOrg><listPerson><person xml:id="wkfm__46959">
                      <persName>
                         <forename>Georg Christoph</forename>

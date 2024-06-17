@@ -90,7 +90,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__12722">
+    <back><listOrg><org xml:id="wkfm__47395">
+                     <orgName>Philipp Scheigl</orgName>
+                  <noteGrp><note target="wkfm-1459.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1459</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__12722">
                      <persName>
                         <forename>Philipp</forename>
                         <surname>Scheigl</surname>
@@ -101,8 +104,5 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
                <noteGrp><note target="wkfm-0253.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0253</note><note target="wkfm-0254.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0254</note><note target="wkfm-0255.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0255</note><note target="wkfm-1459.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1459</note><note target="wkfm-1460.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1460</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__47395">
-                     <orgName>Philipp Scheigl</orgName>
-                  <noteGrp><note target="wkfm-1459.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1459</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

@@ -95,12 +95,12 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46338">
-                     <orgName>Matthias Franz Gschaider</orgName>
-                  <noteGrp><note target="wkfm-0869.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0869</note></noteGrp></org>
-                <org xml:id="wkfm__46339">
+    <back><listOrg><org xml:id="wkfm__46339">
                      <orgName>Gschaider und Wippacher</orgName>
                   <noteGrp><note target="wkfm-0869.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0869</note><note target="wkfm-0870.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0870</note><note target="wkfm-1779.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1779</note><note target="wkfm-1780.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1780</note></noteGrp></org>
+                <org xml:id="wkfm__46338">
+                     <orgName>Matthias Franz Gschaider</orgName>
+                  <noteGrp><note target="wkfm-0869.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0869</note></noteGrp></org>
                 </listOrg><listPerson><person xml:id="wkfm__25454" sameAs="#wkfm__21999 ">
                      <persName>
                         <forename>Matthias Franz</forename>

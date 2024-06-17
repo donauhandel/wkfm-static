@@ -128,7 +128,16 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43806">
+    <back><listOrg><org xml:id="wkfm__47274">
+                     <orgName>Johann Heinrich Stametz</orgName>
+                  <noteGrp><note target="wkfm-0068.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0068</note></noteGrp></org>
+                <org xml:id="wkfm__43807">
+                     <orgName>Christian Kaltschmidt sel. Witwe &amp; Co.</orgName>
+                  <noteGrp><note target="wkfm-0068.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0068</note><note target="wkfm-0069.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0069</note></noteGrp></org>
+                <org xml:id="wkfm__9690">
+                     <orgName>Gebrüder Palm</orgName>
+                  <noteGrp><note target="wkfm-0068.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0068</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__43806">
                      <persName>
                         <forename>Leopold Karl</forename>
                         <surname>von Palm</surname>
@@ -168,6 +177,7 @@
                      <persName>
                         <forename>Johann Heinrich</forename>
                         <surname>Stametz</surname>
+                        <surname type="alt">Stammetz</surname>
                      </persName>
                      <death><date>1782</date></death>
                      <residence type="Wohnort">
@@ -179,17 +189,10 @@
                      <occupation>Handelsmann, Prokurist der Gebrüder Palm</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                      <listBibl>
-                        <bibl>Mittenzwei, Zwischen gestern und morgen, S. 116; Stökl, Protestantismus, 229. Ein Heinrich Stametz (der Vater?) ist erwähnt bei Senfelder, Gottesacker, 269.&amp;lt;br&amp;gt;</bibl>
+                        <bibl>Mittenzwei, Zwischen gestern und morgen, S. 116; Stökl, Protestantismus, 229. Ein Heinrich Stametz (der Vater?) ist erwähnt bei Senfelder, Gottesacker, 269; &amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;#34;...daß er uns einen Correspondenten in Wien ausmache&amp;#34;. Berichte, Briefe
+ und Aufzeichnungen von dänischen und schwedischen 
+Gesandtschaftspredigern in Wien 1705–1755), hg. von Zoltán &amp;lt;span style=&amp;#34;font-variant: small-caps;&amp;#34;&amp;gt;Csepregi&amp;lt;/span&amp;gt;–Julianna &amp;lt;span style=&amp;#34;font-variant: small-caps;&amp;#34;&amp;gt;Orsós (&amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;Budapest 2021) 685/Anm. 150. &amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0068.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0068</note><note target="wkfm-0069.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0069</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__47274">
-                     <orgName>Johann Heinrich Stametz</orgName>
-                  <noteGrp><note target="wkfm-0068.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0068</note></noteGrp></org>
-                <org xml:id="wkfm__9690">
-                     <orgName>Gebrüder Palm</orgName>
-                  <noteGrp><note target="wkfm-0068.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0068</note></noteGrp></org>
-                <org xml:id="wkfm__43807">
-                     <orgName>Christian Kaltschmidt sel. Witwe &amp; Co.</orgName>
-                  <noteGrp><note target="wkfm-0068.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0068</note><note target="wkfm-0069.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0069</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

@@ -87,16 +87,13 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47314">
-                     <orgName>Wenzel Preissl</orgName>
-                  <noteGrp><note target="wkfm-0146.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0146</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__9952">
+    <back><listPerson><person xml:id="wkfm__9952">
                      <persName>
                         <forename>Wenzel</forename>
                         <forename type="alt">Wenzel Cleophas</forename>
                         <surname>Preissl</surname>
-                        <surname type="alt">Preytzl</surname>
                         <surname type="alt">Preyßel</surname>
+                        <surname type="alt">Preytzl</surname>
                      </persName>                    
                      <residence type="Geschäftsadresse">
                         <placeName>Beim Goldenen Wagen auf dem Bauernmarkt (Calender 1723)</placeName>
@@ -116,5 +113,8 @@
                         <bibl>Huchler, Bürgeraufnahmen, 490 (20. 9. 1720: &amp;#34;Johann Cleophas Preisl, Kurzmesserschmid/Handelsmann&amp;#34;)&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0146.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0146</note><note target="wkfm-0147.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0147</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47314">
+                     <orgName>Wenzel Preissl</orgName>
+                  <noteGrp><note target="wkfm-0146.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0146</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

@@ -113,13 +113,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46369">
-                     <persName>
-                        <forename>Franz</forename>
-                        <surname>Ott</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-0895.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0895</note></noteGrp></person>
-                <person xml:id="wkfm__46366">
+    <back><listOrg><org xml:id="wkfm__46367">
+                     <orgName>Johann Gülschwendt</orgName>
+                  <noteGrp><note target="wkfm-0895.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0895</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__46366">
                      <persName>
                         <forename>Johann</forename>
                         <surname>Gülschwendt</surname>
@@ -129,10 +126,10 @@
                      <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                <noteGrp><note target="wkfm-0895.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0895</note></noteGrp></person>
-                <person xml:id="wkfm__46370">
+                <person xml:id="wkfm__46369">
                      <persName>
-                        <forename>None</forename>
-                        <surname>Klingerin</surname>
+                        <forename>Franz</forename>
+                        <surname>Ott</surname>
                      </persName>
                <noteGrp><note target="wkfm-0895.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0895</note></noteGrp></person>
                 <person xml:id="wkfm__46368">
@@ -141,8 +138,11 @@
                         <surname>Aichler</surname>
                      </persName>
                <noteGrp><note target="wkfm-0895.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0895</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46367">
-                     <orgName>Johann Gülschwendt</orgName>
-                  <noteGrp><note target="wkfm-0895.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0895</note></noteGrp></org>
-                </listOrg></back></text>
+                <person xml:id="wkfm__46370">
+                     <persName>
+                        <forename>None</forename>
+                        <surname>Klingerin</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0895.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0895</note></noteGrp></person>
+                </listPerson></back></text>
 </TEI>

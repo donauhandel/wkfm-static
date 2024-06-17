@@ -90,14 +90,17 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__22393" sameAs="#wkfm__44648 ">
+    <back><listOrg><org xml:id="wkfm__46317">
+                     <orgName>Wenzel Franz von Gotsching</orgName>
+                  <noteGrp><note target="wkfm-0847.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0847</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__22393" sameAs="#wkfm__44648 ">
                      <persName>
                         <forename>Wenzel Franz</forename>
                         <surname>von Gotteschnig</surname>
-                        <surname type="alt">von Gotsching</surname>
                         <surname type="alt">Goteschnig</surname>
                         <surname type="alt">Gotesching</surname>
                         <surname type="alt">von Gotesching</surname>
+                        <surname type="alt">von Gotsching</surname>
                      </persName>                    
                      <residence type="Geschäftsadresse">
                         <placeName>Im Margarethenhof auf dem alten Bauernmarkt (Calender 1723)</placeName>
@@ -117,8 +120,5 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0847.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0847</note><note target="wkfm-0848.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0848</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46317">
-                     <orgName>Wenzel Franz von Gotsching</orgName>
-                  <noteGrp><note target="wkfm-0847.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0847</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

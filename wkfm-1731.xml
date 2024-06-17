@@ -100,7 +100,9 @@
                         <forename>Johann Jakob</forename>
                         <surname>Weiss</surname>
                         <surname type="alt">Weiß</surname>
-                     </persName>                    
+                     </persName>
+                     <birth><date>28.06.1668</date></birth>
+                     <death><date>06.1734</date></death>                    
                      <residence type="Geschäftsadresse">
                         <placeName>Zum Grünen Kranz auf dem Graben (Calender 1723)</placeName>
                      </residence>
@@ -116,6 +118,9 @@
                      <residence type="Herkunft-Krems">
                         <placeName key="#wkfm-place__925">Wien</placeName>
                      <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geburtsort">
+                        <placeName key="#wkfm-place__2640">Brüx</placeName>
+                     </residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <listBibl>

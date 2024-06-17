@@ -88,7 +88,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43920" sameAs="#wkfm__10586 wkfm__11460 ">
+    <back><listOrg><org xml:id="wkfm__47353">
+                     <orgName>Joseph Ferdinand Peinagl</orgName>
+                  <noteGrp><note target="wkfm-0225.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0225</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__43920" sameAs="#wkfm__10586 wkfm__11460 ">
                      <persName>
                         <forename>Joseph Ferdinand</forename>
                         <surname>Peinagl</surname>
@@ -108,8 +111,5 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 479.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0225.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0225</note><note target="wkfm-0226.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0226</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__47353">
-                     <orgName>Joseph Ferdinand Peinagl</orgName>
-                  <noteGrp><note target="wkfm-0225.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0225</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

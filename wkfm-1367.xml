@@ -88,10 +88,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46684">
-                     <orgName>Johann Rambstorfer</orgName>
-                  <noteGrp><note target="wkfm-1367.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1367</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__46685">
+    <back><listPerson><person xml:id="wkfm__46685">
                      <persName>
                         <forename>Johann</forename>
                         <surname>Rambstorfer</surname>
@@ -102,5 +99,8 @@
                      <occupation>Leinwandhändler</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
                <noteGrp><note target="wkfm-1367.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1367</note><note target="wkfm-1368.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1368</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46684">
+                     <orgName>Johann Rambstorfer</orgName>
+                  <noteGrp><note target="wkfm-1367.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1367</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

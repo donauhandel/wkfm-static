@@ -109,7 +109,16 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47529">
+    <back><listOrg><org xml:id="wkfm__47530">
+                     <orgName>Johann Joseph Stäninger</orgName>
+                  <noteGrp><note target="wkfm-1629.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1629</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__47531">
+                     <persName>
+                        <forename>Maria Magdalena</forename>
+                        <surname>Stäninger</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-1629.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1629</note></noteGrp></person>
+                <person xml:id="wkfm__47529">
                      <persName>
                         <forename>Johann Joseph</forename>
                         <surname>Stäninger</surname>
@@ -128,14 +137,5 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1629.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1629</note></noteGrp></person>
-                <person xml:id="wkfm__47531">
-                     <persName>
-                        <forename>Maria Magdalena</forename>
-                        <surname>Stäninger</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-1629.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1629</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__47530">
-                     <orgName>Johann Joseph Stäninger</orgName>
-                  <noteGrp><note target="wkfm-1629.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1629</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

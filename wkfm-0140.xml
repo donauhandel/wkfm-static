@@ -87,10 +87,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47311">
-                     <orgName>Leopold Pfefferl</orgName>
-                  <noteGrp><note target="wkfm-0140.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0140</note><note target="wkfm-0141.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0141</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__9488" sameAs="#wkfm__17236 ">
+    <back><listPerson><person xml:id="wkfm__9488" sameAs="#wkfm__17236 ">
                      <persName>
                         <forename>Leopold</forename>
                         <surname>Pfefferl</surname>
@@ -118,5 +115,8 @@
                         <bibl>&amp;lt;div&amp;gt;Huchler, Bürgeraufnahmen, 482 (14. Jänner 1715: &amp;#34;Pfefferle&amp;#34;).&amp;lt;/div&amp;gt;&amp;lt;div&amp;gt;Harrer-Lucienfeld, Wien, seiner Häuser, Bd. 1.3, S. 772.&amp;lt;br&amp;gt;&amp;lt;/div&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0140.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0140</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47311">
+                     <orgName>Leopold Pfefferl</orgName>
+                  <noteGrp><note target="wkfm-0140.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0140</note><note target="wkfm-0141.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0141</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

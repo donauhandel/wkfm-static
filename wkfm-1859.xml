@@ -90,6 +90,8 @@
     <back><listPerson><person xml:id="wkfm__16033">
                      <persName>
                         <forename>Marx Lion</forename>
+                        <forename type="alt">Markus Löw</forename>
+                        <forename type="alt">Markus Lion</forename>
                         <surname>Gumpertz</surname>
                      </persName>
                      <residence type="Wohnort">

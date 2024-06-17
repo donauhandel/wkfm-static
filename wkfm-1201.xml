@@ -100,7 +100,17 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__8583" sameAs="#wkfm__9621 ">
+    <back><listPerson><person xml:id="wkfm__35690" sameAs="#wkfm__34998 wkfm__38216 ">
+                     <persName>
+                        <forename>Peter</forename>
+                        <surname>Scanzoni</surname>
+                     </persName>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Prokurist bei Dominicus Malengo</occupation>
+               <noteGrp><note target="wkfm-1201.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1201</note></noteGrp></person>
+                <person xml:id="wkfm__8583" sameAs="#wkfm__9621 ">
                      <persName>
                         <forename>Dominicus</forename>
                         <surname>Malengo</surname>
@@ -119,16 +129,6 @@
                      <listBibl>
                         <bibl>Dotter, Kaufleute, 106f.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
-               <noteGrp><note target="wkfm-1201.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1201</note></noteGrp></person>
-                <person xml:id="wkfm__35690" sameAs="#wkfm__34998 wkfm__38216 ">
-                     <persName>
-                        <forename>Peter</forename>
-                        <surname>Scanzoni</surname>
-                     </persName>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Prokurist bei Dominicus Malengo</occupation>
                <noteGrp><note target="wkfm-1201.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1201</note></noteGrp></person>
                 </listPerson><listOrg><org xml:id="wkfm__46862">
                      <orgName>Dominicus Malengo</orgName>

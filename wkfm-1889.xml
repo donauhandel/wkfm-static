@@ -107,22 +107,32 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43832">
+    <back><listPerson><person xml:id="wkfm__18390">
+                     <persName>
+                        <forename>Samuel</forename>
+                        <surname>Seligman</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-1889.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1889</note></noteGrp></person>
+                <person xml:id="wkfm__43832">
                      <persName>
                         <forename>Butla</forename>
                         <surname>Seligmannin</surname>
                      </persName>
                <noteGrp><note target="wkfm-1889.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1889</note></noteGrp></person>
+                <person xml:id="wkfm__43830">
+                     <persName>
+                        <forename>Abraham</forename>
+                        <surname>Leidesdorf</surname>
+                     </persName>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Prokurist des Nathan Seligmann</occupation>
+               <noteGrp><note target="wkfm-1889.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1889</note></noteGrp></person>
                 <person xml:id="wkfm__43831">
                      <persName>
                         <forename>Simon</forename>
                         <surname>Ables</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-1889.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1889</note></noteGrp></person>
-                <person xml:id="wkfm__18390">
-                     <persName>
-                        <forename>Samuel</forename>
-                        <surname>Seligman</surname>
                      </persName>
                <noteGrp><note target="wkfm-1889.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1889</note></noteGrp></person>
                 <person xml:id="wkfm__30361">
@@ -142,15 +152,5 @@
                         <bibl>Wachstein, Die Wiener Juden in Handel und Industrie.</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1881.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1881</note><note target="wkfm-1889.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1889</note></noteGrp></person>
-                <person xml:id="wkfm__43830">
-                     <persName>
-                        <forename>Abraham</forename>
-                        <surname>Leidesdorf</surname>
-                     </persName>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Prokurist des Nathan Seligmann</occupation>
-               <noteGrp><note target="wkfm-1889.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1889</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

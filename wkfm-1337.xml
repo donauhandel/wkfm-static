@@ -94,7 +94,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__29746">
+    <back><listOrg><org xml:id="wkfm__46647">
+                     <orgName>David Ostermayr</orgName>
+                  <noteGrp><note target="wkfm-1337.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1337</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__29746">
                      <persName>
                         <forename>David</forename>
                         <surname>Niggus</surname>
@@ -124,8 +127,5 @@
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Haemmerle, Hochzeitsbücher, 260, Nr. 3550.&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1337.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1337</note><note target="wkfm-1338.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1338</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46647">
-                     <orgName>David Ostermayr</orgName>
-                  <noteGrp><note target="wkfm-1337.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1337</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

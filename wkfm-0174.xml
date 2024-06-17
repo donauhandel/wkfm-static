@@ -95,12 +95,12 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__15308">
-                     <orgName>Brandegski und Pöttenberger</orgName>
-                  <noteGrp><note target="wkfm-0060.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0060</note><note target="wkfm-0174.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0174</note><note target="wkfm-0175.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0175</note></noteGrp></org>
-                <org xml:id="wkfm__47330">
+    <back><listOrg><org xml:id="wkfm__47330">
                      <orgName>Franz Pöttenberger</orgName>
                   <noteGrp><note target="wkfm-0174.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0174</note></noteGrp></org>
+                <org xml:id="wkfm__15308">
+                     <orgName>Brandegski und Pöttenberger</orgName>
+                  <noteGrp><note target="wkfm-0060.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0060</note><note target="wkfm-0174.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0174</note><note target="wkfm-0175.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0175</note></noteGrp></org>
                 </listOrg><listPerson><person xml:id="wkfm__43785">
                      <persName>
                         <forename>Franz</forename>

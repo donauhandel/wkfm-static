@@ -96,10 +96,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__15308">
-                     <orgName>Brandegski und Pöttenberger</orgName>
-                  <noteGrp><note target="wkfm-0060.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0060</note><note target="wkfm-0174.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0174</note><note target="wkfm-0175.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0175</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__43785">
+    <back><listPerson><person xml:id="wkfm__43785">
                      <persName>
                         <forename>Franz</forename>
                         <surname>Pöttenberger</surname>
@@ -136,5 +133,8 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
 205-211, 211.&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Harrer-Lucienfeld, Wien, seiner Häuser, Bd. 4.1, S. 153&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0060.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0060</note><note target="wkfm-0061.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0061</note><note target="wkfm-0174.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0174</note><note target="wkfm-0175.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0175</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__15308">
+                     <orgName>Brandegski und Pöttenberger</orgName>
+                  <noteGrp><note target="wkfm-0060.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0060</note><note target="wkfm-0174.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0174</note><note target="wkfm-0175.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0175</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

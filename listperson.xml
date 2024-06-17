@@ -33,7 +33,7 @@
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when="2024-02-18">2024-02-18</date>
+            <date when="2024-06-16">2024-06-16</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
                   <p>
@@ -57,7 +57,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2024-02-18">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2024-06-16">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -253,6 +253,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                 <person xml:id="wkfm__16033">
                      <persName>
                         <forename>Marx Lion</forename>
+                        <forename type="alt">Markus Löw</forename>
+                        <forename type="alt">Markus Lion</forename>
                         <surname>Gumpertz</surname>
                      </persName>
                      <residence type="Wohnort">
@@ -656,8 +658,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <persName>
                         <forename>Ulrich Anton</forename>
                         <surname>Deiß</surname>
-                        <surname type="alt">Deyß</surname>
                         <surname type="alt">Deyss</surname>
+                        <surname type="alt">Deyß</surname>
                      </persName>                    
                      <residence type="Geschäftsadresse">
                         <placeName>Zum Goldenen Rössel in der Kärntnerstraße (Calender 1723)</placeName>
@@ -1158,7 +1160,9 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                         <forename>Johann Jakob</forename>
                         <surname>Weiss</surname>
                         <surname type="alt">Weiß</surname>
-                     </persName>                    
+                     </persName>
+                     <birth><date>28.06.1668</date></birth>
+                     <death><date>06.1734</date></death>                    
                      <residence type="Geschäftsadresse">
                         <placeName>Zum Grünen Kranz auf dem Graben (Calender 1723)</placeName>
                      </residence>
@@ -1174,6 +1178,9 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                      <residence type="Herkunft-Krems">
                         <placeName key="#wkfm-place__925">Wien</placeName>
                      <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geburtsort">
+                        <placeName key="#wkfm-place__2640">Brüx</placeName>
+                     </residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <listBibl>
@@ -2431,6 +2438,31 @@ Inventaris van het familie-archief Brants, 111; &amp;lt;span&amp;gt;Huchler, Bü
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1513.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1513</note><note target="wkfm-1514.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1514</note></noteGrp></person>
+                <person xml:id="wkfm__8487">
+                     <persName>
+                        <forename>Joseph</forename>
+                        <surname>Schwarzleithner</surname>
+                     </persName>
+                     <birth><date>07.02.1698</date></birth>
+                     <death><date>15.07.1752</date></death>
+                     <residence type="Geburtsort">
+                        <placeName key="#wkfm-place__816">Steyr</placeName>
+                     <location type="coords"><geo>48.0425 14.421111111111111</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Sterbeort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+                     <listBibl>
+                        <bibl>&amp;lt;div&amp;gt;Mittenzwei, Zwischen Gestern und Morgen, 23f.; Kallbrunner, 200 Jahre Fabrik Leonischer Waren, 153; Otruba, Manufakturenbestand, 534; Franz Maurer, Wiens erste Maulbeerbaumschule und Fabrik leonischer Waren in Margareten, in: Berichte und Mitteilungen des Altertums-Vereines zu Wien XLII (1909)&amp;amp;nbsp; 89-95, hier 92-95.&amp;lt;/div&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-1671.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1671</note><note target="wkfm-1672.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1672</note><note target="wkfm-1690.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1690</note></noteGrp></person>
                 <person xml:id="wkfm__8490">
                      <persName>
                         <forename>Michael</forename>
@@ -2461,9 +2493,9 @@ Inventaris van het familie-archief Brants, 111; &amp;lt;span&amp;gt;Huchler, Bü
                      <persName>
                         <forename>Matthias</forename>
                         <surname>Lindner</surname>
-                        <surname type="alt">Lintner</surname>
-                        <surname type="alt">Lindtner</surname>
                         <surname type="alt">Linttner</surname>
+                        <surname type="alt">Lindtner</surname>
+                        <surname type="alt">Lintner</surname>
                      </persName>
                      <death><date>1765?</date></death>                    
                      <residence type="Geschäftsadresse">
@@ -2804,6 +2836,35 @@ Inventaris van het familie-archief Brants, 111; &amp;lt;span&amp;gt;Huchler, Bü
 Schaumburgerhof und dem Freigrunde Hungerbrunn (Wien 1863) 365; &amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 366 (12. April 1717)&amp;lt;/span&amp;gt;.</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0531.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0531</note><note target="wkfm-0532.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0532</note></noteGrp></person>
+                <person xml:id="wkfm__8615" sameAs="#wkfm__35724 ">
+                     <persName>
+                        <forename>Georg</forename>
+                        <surname>Prenz</surname>
+                        <surname type="alt">Pranz</surname>
+                        <surname type="alt">Prantz</surname>
+                        <surname type="alt">Pränz</surname>
+                     </persName>
+                     <death><date>ca. 1743</date></death>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Herkunft-Aschach">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geburtsort">
+                        <placeName key="#wkfm-place__2641">Pöttsching</placeName>
+                     </residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">hofbefreit</occupation>
+                     <occupation type="aemter">Assessor am NÖ Wechselgericht (1. Instanz)</occupation>
+                     <occupation type="aemter">Deputierter der Hofhandelsleute</occupation>
+                     <listBibl>
+                        <bibl>Johann Christian Lünig, Theatrum Ceremoniale Historico-Politicum, Bd. 2 (Leipzig 1720) 1575; Staats- und Standeskalender 1723, 242.</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0074.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0074</note><note target="wkfm-0075.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0075</note></noteGrp></person>
                 <person xml:id="wkfm__8671" sameAs="#wkfm__14757 wkfm__44529 ">
                      <persName>
                         <forename>Joseph Alois</forename>
@@ -2916,8 +2977,8 @@ Schaumburgerhof und dem Freigrunde Hungerbrunn (Wien 1863) 365; &amp;lt;span&amp
                         <forename>Johann Peter</forename>
                         <surname>Käpler</surname>
                         <surname type="alt">Kepler</surname>
-                        <surname type="alt">Käppler</surname>
                         <surname type="alt">Kapler</surname>
+                        <surname type="alt">Käppler</surname>
                      </persName>
                      <death><date>1768</date></death>
                      <residence type="Geburtsort">
@@ -2985,8 +3046,8 @@ Schaumburgerhof und dem Freigrunde Hungerbrunn (Wien 1863) 365; &amp;lt;span&amp
                      <persName>
                         <forename>Anton</forename>
                         <surname>Fries</surname>
-                        <surname type="alt">Frins</surname>
                         <surname type="alt">Früeß</surname>
+                        <surname type="alt">Frins</surname>
                      </persName>
                      <residence type="Bürgerrecht">
                         <placeName key="#wkfm-place__925">Wien</placeName>
@@ -4128,8 +4189,8 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <persName>
                         <forename>Johann Baptist</forename>
                         <surname>Schwanesini</surname>
-                        <surname type="alt">Schwannasini</surname>
                         <surname type="alt">Schwanasini</surname>
+                        <surname type="alt">Schwannasini</surname>
                      </persName>
                      <residence type="Geburtsort">
                         <placeName key="#wkfm-place__647">Prag</placeName>
@@ -4151,8 +4212,8 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                         <forename>Wenzel</forename>
                         <forename type="alt">Wenzel Cleophas</forename>
                         <surname>Preissl</surname>
-                        <surname type="alt">Preytzl</surname>
                         <surname type="alt">Preyßel</surname>
+                        <surname type="alt">Preytzl</surname>
                      </persName>                    
                      <residence type="Geschäftsadresse">
                         <placeName>Beim Goldenen Wagen auf dem Bauernmarkt (Calender 1723)</placeName>
@@ -5098,9 +5159,9 @@ Donaumonarchie 6, Neu bearbeitete, deutschsprachige Ausgabe Wien 2013)
                      <persName>
                         <forename>Andreas</forename>
                         <surname>Neumaister</surname>
+                        <surname type="alt">Neumeister</surname>
                         <surname type="alt">Neymaister</surname>
                         <surname type="alt">Neymayster</surname>
-                        <surname type="alt">Neumeister</surname>
                      </persName>
                      <death><date>1766</date></death>
                      <residence type="Geburtsort">
@@ -5125,8 +5186,8 @@ Donaumonarchie 6, Neu bearbeitete, deutschsprachige Ausgabe Wien 2013)
                      <persName>
                         <forename>Michael</forename>
                         <surname>Fieglmillner</surname>
-                        <surname type="alt">Fieglmielner</surname>
                         <surname type="alt">Figlmiller</surname>
+                        <surname type="alt">Fieglmielner</surname>
                      </persName>                    
                      <residence type="Geschäftsadresse">
                         <placeName>Zum Drei Raben auf dem Katzensteig (Calender 1723)</placeName>
@@ -5712,8 +5773,8 @@ Donaumonarchie 6, Neu bearbeitete, deutschsprachige Ausgabe Wien 2013)
                      <persName>
                         <forename>Lorenz</forename>
                         <surname>Kreitter</surname>
-                        <surname type="alt">Kreidter</surname>
                         <surname type="alt">Kreiter</surname>
+                        <surname type="alt">Kreidter</surname>
                      </persName>
                      <death><date>1727</date></death>                    
                      <residence type="Geschäftsadresse">
@@ -5829,8 +5890,8 @@ Donaumonarchie 6, Neu bearbeitete, deutschsprachige Ausgabe Wien 2013)
                 <person xml:id="wkfm__17087">
                      <persName>
                         <forename>Kaspar</forename>
-                        <forename type="alt">Gasparo</forename>
                         <forename type="alt">Kaspar Melichor Balthasar</forename>
+                        <forename type="alt">Gasparo</forename>
                         <surname>Consoni</surname>
                      </persName>
                      <residence type="Geschäftsniederlassung">
@@ -6528,10 +6589,10 @@ Donaumonarchie 6, Neu bearbeitete, deutschsprachige Ausgabe Wien 2013)
                      <persName>
                         <forename>Wenzel Franz</forename>
                         <surname>von Gotteschnig</surname>
-                        <surname type="alt">von Gotsching</surname>
                         <surname type="alt">Goteschnig</surname>
                         <surname type="alt">Gotesching</surname>
                         <surname type="alt">von Gotesching</surname>
+                        <surname type="alt">von Gotsching</surname>
                      </persName>                    
                      <residence type="Geschäftsadresse">
                         <placeName>Im Margarethenhof auf dem alten Bauernmarkt (Calender 1723)</placeName>
@@ -6781,8 +6842,8 @@ Donaumonarchie 6, Neu bearbeitete, deutschsprachige Ausgabe Wien 2013)
                      <persName>
                         <forename>Matthias</forename>
                         <surname>Ankerl</surname>
-                        <surname type="alt">Ancker</surname>
                         <surname type="alt">Anckherl</surname>
+                        <surname type="alt">Ancker</surname>
                      </persName>                    
                      <residence type="Geschäftsadresse">
                         <placeName>Zum Goldenen Kranz auf der Brandstatt (Calender 1758)</placeName>
@@ -6901,8 +6962,8 @@ Donaumonarchie 6, Neu bearbeitete, deutschsprachige Ausgabe Wien 2013)
                      <persName>
                         <forename>Franz Wilhelm</forename>
                         <surname>Häsl</surname>
-                        <surname type="alt">Häßl</surname>
                         <surname type="alt">Haasl</surname>
+                        <surname type="alt">Häßl</surname>
                      </persName>
                      <residence type="Bürgerrecht">
                         <placeName key="#wkfm-place__925">Wien</placeName>
@@ -6926,8 +6987,8 @@ Donaumonarchie 6, Neu bearbeitete, deutschsprachige Ausgabe Wien 2013)
                      <persName>
                         <forename>Wolf Karl</forename>
                         <surname>von Nideröst</surname>
-                        <surname type="alt">Nedorost</surname>
                         <surname type="alt">von Nedorost</surname>
+                        <surname type="alt">Nedorost</surname>
                      </persName>                    
                      <residence type="Geschäftsadresse">
                         <placeName>Zum Weißen Schwan in der Brandstatt (Calender 1723)</placeName>
@@ -7226,15 +7287,15 @@ Donaumonarchie 6, Neu bearbeitete, deutschsprachige Ausgabe Wien 2013)
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse"/>
                      <listBibl>
-                        <bibl>Otto G. Schindler, Johann Wolfgang Hamymerle von Hamythal, in: Alena Jakubcová, Matthias J. Pernerstorfer (Hg.), Theater in Böhmen, Mähren und Schlesien. Von den Anfängen bis zum Ausgang des 18. Jahrhunderts. Ein Lexikon (Theatergeschichte Österreich 10: Donaumonarchie 6, Neu bearbeitete, deutschsprachige Ausgabe Wien 2013) 270-272; Sommer-Mathis, Hoftheater und Hofoper, 176.&amp;lt;br&amp;gt;</bibl>
+                        <bibl>Otto G. Schindler, Johann Wolfgang Haymerle von Hamythal, in: Alena Jakubcová, Matthias J. Pernerstorfer (Hg.), Theater in Böhmen, Mähren und Schlesien. Von den Anfängen bis zum Ausgang des 18. Jahrhunderts. Ein Lexikon (Theatergeschichte Österreich 10: Donaumonarchie 6, Neu bearbeitete, deutschsprachige Ausgabe Wien 2013) 270-272; Sommer-Mathis, Hoftheater und Hofoper, 176.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0078.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0078</note><note target="wkfm-0079.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0079</note><note target="wkfm-0195.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0195</note><note target="wkfm-0933.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0933</note><note target="wkfm-0934.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0934</note><note target="wkfm-0935.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0935</note><note target="wkfm-0936.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0936</note></noteGrp></person>
                 <person xml:id="wkfm__24852">
                      <persName>
                         <forename>Stephan</forename>
                         <surname>Manni</surname>
-                        <surname type="alt">Manny</surname>
                         <surname type="alt">Mannj</surname>
+                        <surname type="alt">Manny</surname>
                         <surname type="alt">Mani</surname>
                      </persName>
                      <residence type="Geburtsort">
@@ -7490,8 +7551,8 @@ Donaumonarchie 6, Neu bearbeitete, deutschsprachige Ausgabe Wien 2013)
                      <persName>
                         <forename>Johann Gregor</forename>
                         <surname>Grindler</surname>
-                        <surname type="alt">Gründler</surname>
                         <surname type="alt">Grindtler</surname>
+                        <surname type="alt">Gründler</surname>
                      </persName>                    
                      <residence type="Geschäftsadresse">
                         <placeName>Zum Goldenen Pfau nächst dem Kärtnertor in eigener Behausung (Calender 1758), Zum Pfauen nächst dem Kärntnertor (Calender 1723)</placeName>
@@ -7515,10 +7576,10 @@ Donaumonarchie 6, Neu bearbeitete, deutschsprachige Ausgabe Wien 2013)
                      <persName>
                         <forename>Fabrizius</forename>
                         <surname>Wurmseher</surname>
+                        <surname type="alt">Wurmbsecher</surname>
                         <surname type="alt">Wurmseger</surname>
                         <surname type="alt">Wurmscher</surname>
                         <surname type="alt">Wurmbsegger</surname>
-                        <surname type="alt">Wurmbsecher</surname>
                      </persName>
                      <death><date>1749/50</date></death>                    
                      <residence type="Geschäftsadresse">
@@ -7650,7 +7711,7 @@ Donaumonarchie 6, Neu bearbeitete, deutschsprachige Ausgabe Wien 2013)
                      <listBibl>
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 558 (Dezember 1742).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
-               <noteGrp><note target="wkfm-1663.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1663</note><note target="wkfm-1663.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1663</note><note target="wkfm-1797.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1797</note><note target="wkfm-1798.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1798</note></noteGrp></person>
+               <noteGrp><note target="wkfm-1663.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1663</note><note target="wkfm-1797.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1797</note><note target="wkfm-1798.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1798</note></noteGrp></person>
                 <person xml:id="wkfm__27548">
                      <persName>
                         <forename>Johann Michael</forename>
@@ -7672,8 +7733,8 @@ Donaumonarchie 6, Neu bearbeitete, deutschsprachige Ausgabe Wien 2013)
                      <persName>
                         <forename>Franz Anton</forename>
                         <surname>Ipiditsch</surname>
-                        <surname type="alt">Ipdisch</surname>
                         <surname type="alt">Ipditsch</surname>
+                        <surname type="alt">Ipdisch</surname>
                      </persName>
                      <residence type="Bürgerrecht">
                         <placeName key="#wkfm-place__925">Wien</placeName>
@@ -7697,8 +7758,8 @@ Donaumonarchie 6, Neu bearbeitete, deutschsprachige Ausgabe Wien 2013)
                      <persName>
                         <forename>Johann Ignaz</forename>
                         <surname>Babitsch</surname>
-                        <surname type="alt">Babisch</surname>
                         <surname type="alt">Bäbitsch</surname>
+                        <surname type="alt">Babisch</surname>
                      </persName>
                      <death><date>1779</date></death>
                      <affiliation>
@@ -7943,8 +8004,8 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <persName>
                         <forename>Franz Anton</forename>
                         <surname>Gräsl</surname>
-                        <surname type="alt">Grässl</surname>
                         <surname type="alt">Graßl</surname>
+                        <surname type="alt">Grässl</surname>
                      </persName>
                      <death><date>1778</date></death>                    
                      <residence type="Geschäftsadresse">
@@ -8267,9 +8328,9 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <persName>
                         <forename>Johann Michael</forename>
                         <surname>Kutzilinger</surname>
+                        <surname type="alt">Kuttinger</surname>
                         <surname type="alt">Kutzlinger</surname>
                         <surname type="alt">Kutzillinger</surname>
-                        <surname type="alt">Kuttinger</surname>
                      </persName>
                      <death><date>1742</date></death>                    
                      <residence type="Geschäftsadresse">
@@ -10038,6 +10099,9 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <residence type="Geschäftsadresse">
                         <placeName>Martinellisches Haus auf dem Lugeck (Calender 1758: "Lubeg")</placeName>
                      </residence>
+                     <residence type="Geburtsort">
+                        <placeName key="#wkfm-place__657">Proßnitz</placeName>
+                     <location type="coords"><geo>49.47166666666667 17.111666666666668</geo></location></residence>
                      <residence type="Bürgerrecht">
                         <placeName key="#wkfm-place__925">Wien</placeName>
                      <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
@@ -10747,8 +10811,8 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <persName>
                         <forename>Anna Katharina</forename>
                         <surname>Preysolin</surname>
-                        <surname type="alt">Benvenuti</surname>
                         <surname type="alt">Mänzin</surname>
+                        <surname type="alt">Benvenuti</surname>
                      </persName>
                <noteGrp><note target="wkfm-0310.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0310</note></noteGrp></person>
                 <person xml:id="wkfm__44039">
@@ -11296,8 +11360,8 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <persName>
                         <forename>Franz Karl</forename>
                         <surname>Kriner</surname>
-                        <surname type="alt">Krüner</surname>
                         <surname type="alt">Krinner</surname>
+                        <surname type="alt">Krüner</surname>
                      </persName>
                      <residence type="Bürgerrecht">
                         <placeName key="#wkfm-place__925">Wien</placeName>
@@ -11451,8 +11515,8 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <persName>
                         <forename>Franz Joseph</forename>
                         <surname>Kroyss</surname>
-                        <surname type="alt">Kroyß</surname>
                         <surname type="alt">Kroiß</surname>
+                        <surname type="alt">Kroyß</surname>
                      </persName>
                      <death><date>1764</date></death>                    
                      <residence type="Geschäftsadresse">
@@ -11542,8 +11606,8 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <persName>
                         <forename>Franz Joseph</forename>
                         <surname>Kannigießer</surname>
-                        <surname type="alt">Kanngießer</surname>
                         <surname type="alt">Kannegiesser</surname>
+                        <surname type="alt">Kanngießer</surname>
                         <surname type="alt">Kanniggiesser</surname>
                      </persName>                    
                      <residence type="Geschäftsadresse">
@@ -11776,9 +11840,9 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <persName>
                         <forename>Joseph</forename>
                         <surname>Duvillard</surname>
-                        <surname type="alt">Duvullard</surname>
                         <surname type="alt">Dovillar</surname>
                         <surname type="alt">Duwilard</surname>
+                        <surname type="alt">Duvullard</surname>
                      </persName>
                      <death><date>1739/40</date></death>                    
                      <residence type="Geschäftsadresse">
@@ -11825,8 +11889,8 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <persName>
                         <forename>Johann Karl</forename>
                         <surname>Della Roverre</surname>
-                        <surname type="alt">Dela Rofere</surname>
                         <surname type="alt">Della Rovere</surname>
+                        <surname type="alt">Dela Rofere</surname>
                      </persName>                    
                      <residence type="Geschäftsadresse">
                         <placeName>Zum 3. König am Stock am Eisen (Calender 1723)</placeName>
@@ -11869,8 +11933,8 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <persName>
                         <forename>Johann Bernhard</forename>
                         <surname>Diewald</surname>
-                        <surname type="alt">Diwalt</surname>
                         <surname type="alt">Dywaldt</surname>
+                        <surname type="alt">Diwalt</surname>
                      </persName>
                      <death><date>1776</date></death>                    
                      <residence type="Geschäftsadresse">
@@ -12199,8 +12263,8 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <persName>
                         <forename>Joseph Leopold</forename>
                         <surname>Diewald</surname>
-                        <surname type="alt">Diwalt</surname>
                         <surname type="alt">Diewalt</surname>
+                        <surname type="alt">Diwalt</surname>
                      </persName>
                      <death><date>1773</date></death>                    
                      <residence type="Geschäftsadresse">
@@ -12524,8 +12588,8 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <persName>
                         <forename>Johann</forename>
                         <surname>Gunrisch</surname>
-                        <surname type="alt">Günrisch</surname>
                         <surname type="alt">Gürisch</surname>
+                        <surname type="alt">Günrisch</surname>
                      </persName>
                      <residence type="Bürgerrecht">
                         <placeName key="#wkfm-place__925">Wien</placeName>
@@ -12831,8 +12895,8 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <persName>
                         <forename>Anna Susanna</forename>
                         <surname>von Haydern</surname>
-                        <surname type="alt">Haider</surname>
                         <surname type="alt">Hammer</surname>
+                        <surname type="alt">Haider</surname>
                      </persName>
                      <residence type="Bürgerrecht">
                         <placeName key="#wkfm-place__925">Wien</placeName>
@@ -12915,8 +12979,8 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <persName>
                         <forename>Andre</forename>
                         <surname>Erwart</surname>
-                        <surname type="alt">Erwarth</surname>
                         <surname type="alt">Erbarth</surname>
+                        <surname type="alt">Erwarth</surname>
                      </persName>                    
                      <residence type="Geschäftsadresse">
                         <placeName>Zum Goldenen Cameel nächst den Fleischbänken (Calender 1723)</placeName>
@@ -14851,8 +14915,8 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <persName>
                         <forename>Johann</forename>
                         <surname>Lölly</surname>
-                        <surname type="alt">Lelli</surname>
                         <surname type="alt">Lolly</surname>
+                        <surname type="alt">Lelli</surname>
                      </persName>                    
                      <residence type="Geschäftsadresse">
                         <placeName>Zum Goldenen Pfauen nächst dem Kärtnertor (Calender 1758)</placeName>
@@ -15202,8 +15266,8 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <persName>
                         <forename>Johann Michael</forename>
                         <surname>Müllner</surname>
-                        <surname type="alt">Müller</surname>
                         <surname type="alt">Mülner</surname>
+                        <surname type="alt">Müller</surname>
                         <surname type="alt">Millner</surname>
                      </persName>
                      <death><date>1779?</date></death>                    
@@ -15985,9 +16049,9 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <persName>
                         <forename>Eva Barbara</forename>
                         <surname>Peisserin</surname>
-                        <surname type="alt">Peisser von Wertenau</surname>
                         <surname type="alt">Puthon</surname>
                         <surname type="alt">Schuller</surname>
+                        <surname type="alt">Peisser von Wertenau</surname>
                      </persName>
                      <birth><date>26.10.1723</date></birth>
                      <death><date>29.10.1803</date></death>
@@ -16219,8 +16283,8 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <persName>
                         <forename>Johann Peter</forename>
                         <surname>Fläschitz</surname>
-                        <surname type="alt">Flaschitz</surname>
                         <surname type="alt">Flatschitz</surname>
+                        <surname type="alt">Flaschitz</surname>
                      </persName>
                      <death><date>1766</date></death>                    
                      <residence type="Geschäftsadresse">
@@ -16368,8 +16432,8 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <persName>
                         <forename>Matthias Karl</forename>
                         <surname>Ficker</surname>
-                        <surname type="alt">Fikher</surname>
                         <surname type="alt">Fücker</surname>
+                        <surname type="alt">Fikher</surname>
                      </persName>                    
                      <residence type="Geschäftsadresse">
                         <placeName>Zum 2. Austern nächst den PP. Carmelitern auf der Laimgrube (Calender 1758)</placeName>
@@ -17018,8 +17082,8 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <persName>
                         <forename>Johann Gottlieb</forename>
                         <surname>Schönthann</surname>
-                        <surname type="alt">Schenthan</surname>
                         <surname type="alt">Schönthan von Pernwaldt</surname>
+                        <surname type="alt">Schenthan</surname>
                      </persName>
                      <death><date>1772</date></death>
                      <affiliation>
@@ -17103,8 +17167,8 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <persName>
                         <forename>Franz Peter</forename>
                         <surname>Siechheit</surname>
-                        <surname type="alt">Siecheit</surname>
                         <surname type="alt">Sichnitt</surname>
+                        <surname type="alt">Siecheit</surname>
                      </persName>
                      <death><date>1764</date></death>                    
                      <residence type="Geschäftsadresse">
@@ -17621,6 +17685,11 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <location type="coords"><geo>47.684999999999995 16.590277777777775</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+                     <listBibl>
+                        <bibl>&amp;#34;...daß er uns einen Correspondenten in Wien ausmache&amp;#34;. Berichte, Briefe
+ und Aufzeichnungen von dänischen und schwedischen 
+Gesandtschaftspredigern in Wien 1705–1755), hg. von Zoltán &amp;lt;span style=&amp;#34;font-variant: small-caps;&amp;#34;&amp;gt;Csepregi&amp;lt;/span&amp;gt;–Julianna &amp;lt;span style=&amp;#34;font-variant: small-caps;&amp;#34;&amp;gt;Orsós (&amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;Budapest 2021) 220/Anm. 4. &amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
+                     </listBibl>
                <noteGrp><note target="wkfm-0355.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0355</note><note target="wkfm-0356.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0356</note></noteGrp></person>
                 <person xml:id="wkfm__3431" sameAs="#wkfm__22226 ">
                      <persName>
@@ -17655,6 +17724,7 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <persName>
                         <forename>Johann</forename>
                         <surname>Luz</surname>
+                        <surname type="alt">Lutz</surname>
                      </persName>
                      <residence type="Geschäftsniederlassung">
                         <placeName key="#wkfm-place__925">Wien</placeName>
@@ -17668,7 +17738,9 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <occupation>Handelsmann, Wechsler</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                      <listBibl>
-                        <bibl>Stökl, Protestantismus, 227/Anm. 38 meint wahrscheinlich ihn. Mittenzwei, Zwischen Gestern und Morgen, 38, 74 (Abschlussbilanz der Handlung Johann Luz), 86 (Luz war Kassierer der lutherischen Gemeinde); Senfelder, Gottesacker, 261; &amp;lt;span&amp;gt;Haemmerle, Hochzeitsbücher, 281, Nr. 3894 (Johann Lutz von Lindau, in Wien); &amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;Jetztlebende Kauffmannschafft 1. Versuch, 258.&amp;lt;/span&amp;gt;</bibl>
+                        <bibl>Stökl, Protestantismus, 227/Anm. 38 meint wahrscheinlich ihn. Mittenzwei, Zwischen Gestern und Morgen, 38, 74 (Abschlussbilanz der Handlung Johann Luz), 86 (Luz war Kassierer der lutherischen Gemeinde); Senfelder, Gottesacker, 261; &amp;lt;span&amp;gt;Haemmerle, Hochzeitsbücher, 281, Nr. 3894 (Johann Lutz von Lindau, in Wien); &amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;Jetztlebende Kauffmannschafft 1. Versuch, 258; &amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;#34;...daß er uns einen Correspondenten in Wien ausmache&amp;#34;. Berichte, Briefe
+ und Aufzeichnungen von dänischen und schwedischen 
+Gesandtschaftspredigern in Wien 1705–1755), hg. von Zoltán &amp;lt;span style=&amp;#34;font-variant: small-caps;&amp;#34;&amp;gt;Csepregi&amp;lt;/span&amp;gt;–Julianna &amp;lt;span style=&amp;#34;font-variant: small-caps;&amp;#34;&amp;gt;Orsós (&amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;Budapest 2021) 686/Anm. 156. &amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1105.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1105</note><note target="wkfm-1106.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1106</note></noteGrp></person>
                 <person xml:id="wkfm__8097">
@@ -17715,7 +17787,9 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <listBibl>
                         <bibl>Paisey, Buchdrucker, 178 (Monath). In &amp;#34;Jetztlebende 
 Kauffmannschafft&amp;#34;, 258, unter &amp;#34;Wien&amp;#34; genannt, 233, unter &amp;#34;Nürnberg&amp;#34;; siehe zu den Niederlassungen Gericke, Wiener Musikalienhandel, 36-42, hier 36; Michael Diefenbacher u.a., Das Nürnberger 
-Buchgewerbe (Nürnberg 2003) 671 u.ö.; &amp;lt;span&amp;gt;Kröpfel, Protestantismus, Anhang 1, S. 6 (Todesursache Wassersucht).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
+Buchgewerbe (Nürnberg 2003) 671 u.ö.; &amp;lt;span&amp;gt;Kröpfel, Protestantismus, Anhang 1, S. 6 (Todesursache Wassersucht); &amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;#34;...daß er uns einen Correspondenten in Wien ausmache&amp;#34;. Berichte, Briefe
+ und Aufzeichnungen von dänischen und schwedischen 
+Gesandtschaftspredigern in Wien 1705–1755), hg. von Zoltán &amp;lt;span style=&amp;#34;font-variant: small-caps;&amp;#34;&amp;gt;Csepregi&amp;lt;/span&amp;gt;–Julianna &amp;lt;span style=&amp;#34;font-variant: small-caps;&amp;#34;&amp;gt;Orsós (&amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;Budapest 2021) 685/Anm. 140. &amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1249.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1249</note><note target="wkfm-1250.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1250</note></noteGrp></person>
                 <person xml:id="wkfm__8324" sameAs="#wkfm__9692 wkfm__15506 ">
@@ -17734,7 +17808,9 @@ Buchgewerbe (Nürnberg 2003) 671 u.ö.; &amp;lt;span&amp;gt;Kröpfel, Protestant
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                      <listBibl>
-                        <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Kröpfel, Protestsantismus, Anhang 1, S. 7; Kühnert, Taufbuch, 106; Albert Sting, Geschichte der Stadt Ludwigsburg, Bd. 1: Von der Vorgeschichte bis zum Jahr 1816 (2. Aufl. Ludwigsburg 2005) 517.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
+                        <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Kröpfel, Protestsantismus, Anhang 1, S. 7; Kühnert, Taufbuch, 106; Albert Sting, Geschichte der Stadt Ludwigsburg, Bd. 1: Von der Vorgeschichte bis zum Jahr 1816 (2. Aufl. Ludwigsburg 2005) 517; &amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;#34;...daß er uns einen Correspondenten in Wien ausmache&amp;#34;. Berichte, Briefe
+ und Aufzeichnungen von dänischen und schwedischen 
+Gesandtschaftspredigern in Wien 1705–1755), hg. von Zoltán &amp;lt;span style=&amp;#34;font-variant: small-caps;&amp;#34;&amp;gt;Csepregi&amp;lt;/span&amp;gt;–Julianna &amp;lt;span style=&amp;#34;font-variant: small-caps;&amp;#34;&amp;gt;Orsós (&amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;Budapest 2021) 686/Anm. 158. &amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1067.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1067</note><note target="wkfm-1068.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1068</note></noteGrp></person>
                 <person xml:id="wkfm__8333" sameAs="#wkfm__32230 ">
@@ -17753,7 +17829,9 @@ Buchgewerbe (Nürnberg 2003) 671 u.ö.; &amp;lt;span&amp;gt;Kröpfel, Protestant
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                      <listBibl>
-                        <bibl>Senfelder, Gottesacker, 258; &amp;lt;span&amp;gt;Kröpfel, Protestantismus, Anhang 1 , S. 6 (Merkantil-Wechselgerichts-Assessor); Zollinger, Kriegsfuß&amp;lt;/span&amp;gt;; Zorn, Handels- und Industriegeschichte, 86f.&amp;lt;br&amp;gt;</bibl>
+                        <bibl>Senfelder, Gottesacker, 258; &amp;lt;span&amp;gt;Kröpfel, Protestantismus, Anhang 1 , S. 6 (Merkantil-Wechselgerichts-Assessor); Zollinger, Kriegsfuß&amp;lt;/span&amp;gt;; Zorn, Handels- und Industriegeschichte, 86f.; &amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;#34;...daß er uns einen Correspondenten in Wien ausmache&amp;#34;. Berichte, Briefe
+ und Aufzeichnungen von dänischen und schwedischen 
+Gesandtschaftspredigern in Wien 1705–1755), hg. von Zoltán &amp;lt;span style=&amp;#34;font-variant: small-caps;&amp;#34;&amp;gt;Csepregi&amp;lt;/span&amp;gt;–Julianna &amp;lt;span style=&amp;#34;font-variant: small-caps;&amp;#34;&amp;gt;Orsós (&amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;Budapest 2021) 685/Anm. 147. &amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0669.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0669</note><note target="wkfm-0670.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0670</note></noteGrp></person>
                 <person xml:id="wkfm__8489" sameAs="#wkfm__17462 ">
@@ -17775,13 +17853,24 @@ Buchgewerbe (Nürnberg 2003) 671 u.ö.; &amp;lt;span&amp;gt;Kröpfel, Protestant
                         <forename>Daniel</forename>
                         <surname>Wohlgemut</surname>
                      </persName>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__651">Pressburg</placeName>
+                     <location type="coords"><geo>48.14805555555556 17.10666666666667</geo></location></residence>
                      <residence type="Geschäftsniederlassung">
                         <placeName key="#wkfm-place__925">Wien</placeName>
                      <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__1617">Ödenburg</placeName>
+                     <location type="coords"><geo>47.684999999999995 16.590277777777775</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                      <listBibl>
-                        <bibl>Senfelder, Gottesacker, 260.</bibl>
+                        <bibl>&amp;lt;div&amp;gt;Senfelder, Gottesacker, 260; &amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;#34;...daß er uns einen Correspondenten in Wien ausmache&amp;#34;. Berichte, Briefe
+ und Aufzeichnungen von dänischen und schwedischen 
+Gesandtschaftspredigern in Wien 1705–1755), hg. von Zoltán &amp;lt;span style=&amp;#34;font-variant: small-caps;&amp;#34;&amp;gt;Csepregi&amp;lt;/span&amp;gt;–Julianna &amp;lt;span style=&amp;#34;font-variant: small-caps;&amp;#34;&amp;gt;Orsós (&amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;Budapest 2021) 685/Anm. 148. &amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;Albrecht Ranft, Zur Geschichte der Familie Coith. Ein Beitrag zur 
+Geschichte erzgebirgischer Familien, in: Familiengeschichtliche Blätter.
+ Monatsschrift zur Förderung der Familiengeschichtsforschung 8 (1910) 
+164-167, hier 166.&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0289.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0289</note><note target="wkfm-1279.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1279</note><note target="wkfm-1280.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1280</note><note target="wkfm-1709.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1709</note><note target="wkfm-1710.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1710</note></noteGrp></person>
                 <person xml:id="wkfm__9950">
@@ -17798,6 +17887,22 @@ Buchgewerbe (Nürnberg 2003) 671 u.ö.; &amp;lt;span&amp;gt;Kröpfel, Protestant
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                <noteGrp><note target="wkfm-0325.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0325</note><note target="wkfm-0326.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0326</note></noteGrp></person>
+                <person xml:id="wkfm__10013" sameAs="#wkfm__12857 ">
+                     <persName>
+                        <forename>Johann Christian</forename>
+                        <surname>Bahn</surname>
+                     </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+                     <listBibl>
+                        <bibl>Wolfram Koeppe, Vienna circa 1780. An Imperial Silver Service Rediscovered (New York u.a. 2010) 26; &amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;#34;...daß er uns einen Correspondenten in Wien ausmache&amp;#34;. Berichte, Briefe
+ und Aufzeichnungen von dänischen und schwedischen 
+Gesandtschaftspredigern in Wien 1705–1755), hg. von Zoltán &amp;lt;span style=&amp;#34;font-variant: small-caps;&amp;#34;&amp;gt;Csepregi&amp;lt;/span&amp;gt;–Julianna &amp;lt;span style=&amp;#34;font-variant: small-caps;&amp;#34;&amp;gt;Orsós (&amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;Budapest 2021) 686/Anm. 155. &amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0180.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0180</note><note target="wkfm-0181.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0181</note></noteGrp></person>
                 <person xml:id="wkfm__10385" sameAs="#wkfm__9979 ">
                      <persName>
                         <forename>Johann Kaspar</forename>
@@ -17815,7 +17920,9 @@ Buchgewerbe (Nürnberg 2003) 671 u.ö.; &amp;lt;span&amp;gt;Kröpfel, Protestant
                      <occupation>Handelsmann, Hofjuwelier</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                      <listBibl>
-                        <bibl>Senfelder, Gottesacker, 259; &amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Haemmerle, Hochzeitsbücher, 273, Nr. 3765; &amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Kühnert, Taufbuch, 106.&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;br&amp;gt;</bibl>
+                        <bibl>Senfelder, Gottesacker, 259; &amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Haemmerle, Hochzeitsbücher, 273, Nr. 3765; &amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Kühnert, Taufbuch, 106; &amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;&amp;#34;...daß er uns einen Correspondenten in Wien ausmache&amp;#34;. Berichte, Briefe
+ und Aufzeichnungen von dänischen und schwedischen 
+Gesandtschaftspredigern in Wien 1705–1755), hg. von Zoltán &amp;lt;span style=&amp;#34;font-variant: small-caps;&amp;#34;&amp;gt;Csepregi&amp;lt;/span&amp;gt;–Julianna &amp;lt;span style=&amp;#34;font-variant: small-caps;&amp;#34;&amp;gt;Orsós (&amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;Budapest 2021) 684/Anm. 134. &amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0323.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0323</note><note target="wkfm-0324.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0324</note></noteGrp></person>
                 <person xml:id="wkfm__11940" sameAs="#wkfm__25749 ">
@@ -17871,13 +17978,16 @@ Buchgewerbe (Nürnberg 2003) 671 u.ö.; &amp;lt;span&amp;gt;Kröpfel, Protestant
                      <occupation>Prokurist von Gebrüder Buirette, Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                      <listBibl>
-                        <bibl>Senfelder, Gottesacker, 268.&amp;lt;br&amp;gt;</bibl>
+                        <bibl>Senfelder, Gottesacker, 268; &amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;#34;...daß er uns einen Correspondenten in Wien ausmache&amp;#34;. Berichte, Briefe
+ und Aufzeichnungen von dänischen und schwedischen 
+Gesandtschaftspredigern in Wien 1705–1755), hg. von Zoltán &amp;lt;span style=&amp;#34;font-variant: small-caps;&amp;#34;&amp;gt;Csepregi&amp;lt;/span&amp;gt;–Julianna &amp;lt;span style=&amp;#34;font-variant: small-caps;&amp;#34;&amp;gt;Orsós (&amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;Budapest 2021) 686/Anm. 154. &amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0086.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0086</note><note target="wkfm-0087.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0087</note><note target="wkfm-0088.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0088</note><note target="wkfm-0089.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0089</note></noteGrp></person>
                 <person xml:id="wkfm__13459">
                      <persName>
                         <forename>Johann Heinrich</forename>
                         <surname>Stametz</surname>
+                        <surname type="alt">Stammetz</surname>
                      </persName>
                      <death><date>1782</date></death>
                      <residence type="Wohnort">
@@ -17889,7 +17999,9 @@ Buchgewerbe (Nürnberg 2003) 671 u.ö.; &amp;lt;span&amp;gt;Kröpfel, Protestant
                      <occupation>Handelsmann, Prokurist der Gebrüder Palm</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                      <listBibl>
-                        <bibl>Mittenzwei, Zwischen gestern und morgen, S. 116; Stökl, Protestantismus, 229. Ein Heinrich Stametz (der Vater?) ist erwähnt bei Senfelder, Gottesacker, 269.&amp;lt;br&amp;gt;</bibl>
+                        <bibl>Mittenzwei, Zwischen gestern und morgen, S. 116; Stökl, Protestantismus, 229. Ein Heinrich Stametz (der Vater?) ist erwähnt bei Senfelder, Gottesacker, 269; &amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;#34;...daß er uns einen Correspondenten in Wien ausmache&amp;#34;. Berichte, Briefe
+ und Aufzeichnungen von dänischen und schwedischen 
+Gesandtschaftspredigern in Wien 1705–1755), hg. von Zoltán &amp;lt;span style=&amp;#34;font-variant: small-caps;&amp;#34;&amp;gt;Csepregi&amp;lt;/span&amp;gt;–Julianna &amp;lt;span style=&amp;#34;font-variant: small-caps;&amp;#34;&amp;gt;Orsós (&amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;Budapest 2021) 685/Anm. 150. &amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0068.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0068</note><note target="wkfm-0069.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0069</note></noteGrp></person>
                 <person xml:id="wkfm__14033">
@@ -17902,6 +18014,11 @@ Buchgewerbe (Nürnberg 2003) 671 u.ö.; &amp;lt;span&amp;gt;Kröpfel, Protestant
                      <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+                     <listBibl>
+                        <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;#34;...daß er uns einen Correspondenten in Wien ausmache&amp;#34;. Berichte, Briefe
+ und Aufzeichnungen von dänischen und schwedischen 
+Gesandtschaftspredigern in Wien 1705–1755), hg. von Zoltán &amp;lt;span style=&amp;#34;font-variant: small-caps;&amp;#34;&amp;gt;Csepregi&amp;lt;/span&amp;gt;–Julianna &amp;lt;span style=&amp;#34;font-variant: small-caps;&amp;#34;&amp;gt;Orsós (&amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;Budapest 2021) 685/Anm. 146. &amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
+                     </listBibl>
                <noteGrp><note target="wkfm-1613.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1613</note><note target="wkfm-1614.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1614</note></noteGrp></person>
                 <person xml:id="wkfm__14104">
                      <persName>
@@ -17917,15 +18034,15 @@ Buchgewerbe (Nürnberg 2003) 671 u.ö.; &amp;lt;span&amp;gt;Kröpfel, Protestant
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                      <listBibl>
-                        <bibl>Christian Meltzern, Historia Schneebergensis renovata. Da ist: Erneuerte Stadt- u. Berg-Chronica Der im Ober-Ertz-Gebürge des belobten Meißens gelegenen Wohl-löbl. Freyen Berg-Stadt Schneeberg (...) (Schneeberg 1716). Mittenzwei, Zwischen Gestern und Morgen, 85 (zur ev. Religion der Coith)&amp;lt;br&amp;gt;</bibl>
+                        <bibl>Christian Meltzern, Historia Schneebergensis renovata. Da ist: Erneuerte Stadt- u. Berg-Chronica Der im Ober-Ertz-Gebürge des belobten Meißens gelegenen Wohl-löbl. Freyen Berg-Stadt Schneeberg (...) (Schneeberg 1716). Mittenzwei, Zwischen Gestern und Morgen, 85 (zur ev. Religion der Coith); Albrecht Ranft, Zur Geschichte der Familie Coith. Ein Beitrag zur Geschichte erzgebirgischer Familien, in: Familiengeschichtliche Blätter. Monatsschrift zur Förderung der Familiengeschichtsforschung 8 (1910) 164-167.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0357.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0357</note><note target="wkfm-0358.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0358</note></noteGrp></person>
                 <person xml:id="wkfm__14321" sameAs="#wkfm__8919 wkfm__28121 ">
                      <persName>
                         <forename>Johann Wilhelm</forename>
                         <surname>Gestefeld</surname>
-                        <surname type="alt">Gerstenfeld</surname>
                         <surname type="alt">Gestenfeld</surname>
+                        <surname type="alt">Gerstenfeld</surname>
                      </persName>
                      <residence type="Geschäftsniederlassung">
                         <placeName key="#wkfm-place__925">Wien</placeName>
@@ -17937,8 +18054,8 @@ Buchgewerbe (Nürnberg 2003) 671 u.ö.; &amp;lt;span&amp;gt;Kröpfel, Protestant
                      <persName>
                         <forename>Johann Friedrich</forename>
                         <surname>von Wiesenhüter</surname>
-                        <surname type="alt">von Wiesenhütten</surname>
                         <surname type="alt">Wiesenhüter</surname>
+                        <surname type="alt">von Wiesenhütten</surname>
                      </persName>
                      <death><date>1742</date></death>
                      <residence type="Wohnort">
@@ -17956,7 +18073,9 @@ Buchgewerbe (Nürnberg 2003) 671 u.ö.; &amp;lt;span&amp;gt;Kröpfel, Protestant
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                      <listBibl>
-                        <bibl>Dietz, Frankfurter Handelsgeschichte 4/1, 383f.&amp;lt;br&amp;gt;</bibl>
+                        <bibl>Dietz, Frankfurter Handelsgeschichte 4/1, 383f.; &amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;#34;...daß er uns einen Correspondenten in Wien ausmache&amp;#34;. Berichte, Briefe
+ und Aufzeichnungen von dänischen und schwedischen 
+Gesandtschaftspredigern in Wien 1705–1755), hg. von Zoltán &amp;lt;span style=&amp;#34;font-variant: small-caps;&amp;#34;&amp;gt;Csepregi&amp;lt;/span&amp;gt;–Julianna &amp;lt;span style=&amp;#34;font-variant: small-caps;&amp;#34;&amp;gt;Orsós (&amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;Budapest 2021) 686/Anm. 159. &amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1773.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1773</note><note target="wkfm-1774.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1774</note></noteGrp></person>
                 <person xml:id="wkfm__14663">
@@ -17975,7 +18094,9 @@ Buchgewerbe (Nürnberg 2003) 671 u.ö.; &amp;lt;span&amp;gt;Kröpfel, Protestant
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                      <listBibl>
-                        <bibl>&amp;lt;span&amp;gt;Kröpfel, Protestantismus, Anhang 1, S. 4.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
+                        <bibl>&amp;lt;span&amp;gt;Kröpfel, Protestantismus, Anhang 1, S. 4; &amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;&amp;#34;...daß er uns einen Correspondenten in Wien ausmache&amp;#34;. Berichte, Briefe
+ und Aufzeichnungen von dänischen und schwedischen 
+Gesandtschaftspredigern in Wien 1705–1755), hg. von Zoltán &amp;lt;span style=&amp;#34;font-variant: small-caps;&amp;#34;&amp;gt;Csepregi&amp;lt;/span&amp;gt;–Julianna &amp;lt;span style=&amp;#34;font-variant: small-caps;&amp;#34;&amp;gt;Orsós (&amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;Budapest 2021) 684/Anm. 135. &amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1101.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1101</note><note target="wkfm-1102.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1102</note></noteGrp></person>
                 <person xml:id="wkfm__17568">
@@ -17992,6 +18113,22 @@ Buchgewerbe (Nürnberg 2003) 671 u.ö.; &amp;lt;span&amp;gt;Kröpfel, Protestant
                         <bibl>&amp;lt;span&amp;gt;Kröpfel, Protestantismus, Anhang 1, S. 5.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0044.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0044</note></noteGrp></person>
+                <person xml:id="wkfm__18491">
+                     <persName>
+                        <forename>None</forename>
+                        <surname>Kern</surname>
+                     </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsfrau</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+                     <listBibl>
+                        <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;#34;...daß er uns einen Correspondenten in Wien ausmache&amp;#34;. Berichte, Briefe
+ und Aufzeichnungen von dänischen und schwedischen 
+Gesandtschaftspredigern in Wien 1705–1755), hg. von Zoltán &amp;lt;span style=&amp;#34;font-variant: small-caps;&amp;#34;&amp;gt;Csepregi&amp;lt;/span&amp;gt;–Julianna &amp;lt;span style=&amp;#34;font-variant: small-caps;&amp;#34;&amp;gt;Orsós (&amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;Budapest 2021) 685/Anm. 144. &amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0355.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0355</note></noteGrp></person>
                 <person xml:id="wkfm__20473">
                      <persName>
                         <forename>None</forename>
@@ -18041,7 +18178,9 @@ Buchgewerbe (Nürnberg 2003) 671 u.ö.; &amp;lt;span&amp;gt;Kröpfel, Protestant
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                      <occupation type="aemter">Edler</occupation>
                      <listBibl>
-                        <bibl>&amp;lt;div&amp;gt;Albert Schuch, Zur Geschichte der Lederfabrikation im Gebiet des heutigen Burgenlandes (18. und 19. Jahrhundert) (Burgenländische Forschungen 85, Eisenstadt 2002) 100-103; &amp;lt;span&amp;gt;Stökl, Protestantismus, 228; Harrer-Lucienfeld, Wien, seiner Häuser, Bd. 6.1, 126; &amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Kröpfel, Protestantismus, Anhang 1, S. 4 (Tod des 2jährigen Sohnes Carl Christoph im Hilleprandischen Haus im Jahr 1741)&amp;lt;/span&amp;gt;.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;</bibl>
+                        <bibl>&amp;lt;div&amp;gt;Albert Schuch, Zur Geschichte der Lederfabrikation im Gebiet des heutigen Burgenlandes (18. und 19. Jahrhundert) (Burgenländische Forschungen 85, Eisenstadt 2002) 100-103; &amp;lt;span&amp;gt;Stökl, Protestantismus, 228; Harrer-Lucienfeld, Wien, seiner Häuser, Bd. 6.1, 126; &amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Kröpfel, Protestantismus, Anhang 1, S. 4 (Tod des 2jährigen Sohnes Carl Christoph im Hilleprandischen Haus im Jahr 1741)&amp;lt;/span&amp;gt;; &amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;#34;...daß er uns einen Correspondenten in Wien ausmache&amp;#34;. Berichte, Briefe
+ und Aufzeichnungen von dänischen und schwedischen 
+Gesandtschaftspredigern in Wien 1705–1755), hg. von Zoltán &amp;lt;span style=&amp;#34;font-variant: small-caps;&amp;#34;&amp;gt;Csepregi&amp;lt;/span&amp;gt;–Julianna &amp;lt;span style=&amp;#34;font-variant: small-caps;&amp;#34;&amp;gt;Orsós (&amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;Budapest 2021) 686/Anm. 160. &amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0241.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0241</note><note target="wkfm-0242.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0242</note><note target="wkfm-0423.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0423</note><note target="wkfm-0424.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0424</note></noteGrp></person>
                 <person xml:id="wkfm__22543">
@@ -18060,7 +18199,28 @@ Buchgewerbe (Nürnberg 2003) 671 u.ö.; &amp;lt;span&amp;gt;Kröpfel, Protestant
                      <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+                     <listBibl>
+                        <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;#34;...daß er uns einen Correspondenten in Wien ausmache&amp;#34;. Berichte, Briefe
+ und Aufzeichnungen von dänischen und schwedischen 
+Gesandtschaftspredigern in Wien 1705–1755), hg. von Zoltán &amp;lt;span style=&amp;#34;font-variant: small-caps;&amp;#34;&amp;gt;Csepregi&amp;lt;/span&amp;gt;–Julianna &amp;lt;span style=&amp;#34;font-variant: small-caps;&amp;#34;&amp;gt;Orsós (&amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;Budapest 2021) 686/Anm. 157.&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
+                     </listBibl>
                <noteGrp><note target="wkfm-0042.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0042</note><note target="wkfm-0043.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0043</note></noteGrp></person>
+                <person xml:id="wkfm__22683">
+                     <persName>
+                        <forename>Johann Georg</forename>
+                        <surname>Ely</surname>
+                     </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+                     <listBibl>
+                        <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;#34;...daß er uns einen Correspondenten in Wien ausmache&amp;#34;. Berichte, Briefe
+ und Aufzeichnungen von dänischen und schwedischen 
+Gesandtschaftspredigern in Wien 1705–1755), hg. von Zoltán &amp;lt;span style=&amp;#34;font-variant: small-caps;&amp;#34;&amp;gt;Csepregi&amp;lt;/span&amp;gt;–Julianna &amp;lt;span style=&amp;#34;font-variant: small-caps;&amp;#34;&amp;gt;Orsós (&amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;Budapest 2021) 685/Anm. 139. &amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0565.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0565</note><note target="wkfm-0566.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0566</note></noteGrp></person>
                 <person xml:id="wkfm__22880">
                      <persName>
                         <forename>Johann Heinrich</forename>
@@ -18070,7 +18230,9 @@ Buchgewerbe (Nürnberg 2003) 671 u.ö.; &amp;lt;span&amp;gt;Kröpfel, Protestant
                      <death><date>1744</date></death>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                      <listBibl>
-                        <bibl>Kollmer, Familie Palm, passim; &amp;lt;span&amp;gt;Kröpfel, Protestantismus, Anhang 1, S. 5; &amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Kühnert, Taufbuch, 106.&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
+                        <bibl>Kollmer, Familie Palm, passim; &amp;lt;span&amp;gt;Kröpfel, Protestantismus, Anhang 1, S. 5; &amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Kühnert, Taufbuch, 106; &amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;&amp;#34;...daß er uns einen Correspondenten in Wien ausmache&amp;#34;. Berichte, Briefe
+ und Aufzeichnungen von dänischen und schwedischen 
+Gesandtschaftspredigern in Wien 1705–1755), hg. von Zoltán &amp;lt;span style=&amp;#34;font-variant: small-caps;&amp;#34;&amp;gt;Csepregi&amp;lt;/span&amp;gt;–Julianna &amp;lt;span style=&amp;#34;font-variant: small-caps;&amp;#34;&amp;gt;Orsós (&amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;Budapest 2021) 685/Anm. 136. &amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0069.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0069</note></noteGrp></person>
                 <person xml:id="wkfm__23197">
@@ -18114,7 +18276,9 @@ Buchgewerbe (Nürnberg 2003) 671 u.ö.; &amp;lt;span&amp;gt;Kröpfel, Protestant
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                      <listBibl>
-                        <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Kröpfel, Protestsantismus, Anhang 1, S. 8.&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
+                        <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Kröpfel, Protestsantismus, Anhang 1, S. 8; &amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;#34;...daß er uns einen Correspondenten in Wien ausmache&amp;#34;. Berichte, Briefe
+ und Aufzeichnungen von dänischen und schwedischen 
+Gesandtschaftspredigern in Wien 1705–1755), hg. von Zoltán &amp;lt;span style=&amp;#34;font-variant: small-caps;&amp;#34;&amp;gt;Csepregi&amp;lt;/span&amp;gt;–Julianna &amp;lt;span style=&amp;#34;font-variant: small-caps;&amp;#34;&amp;gt;Orsós (&amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;Budapest 2021) 685/Anm. 153. &amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1435.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1435</note><note target="wkfm-1436.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1436</note><note target="wkfm-1447.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1447</note></noteGrp></person>
                 <person xml:id="wkfm__37955">
@@ -18178,6 +18342,11 @@ Buchgewerbe (Nürnberg 2003) 671 u.ö.; &amp;lt;span&amp;gt;Kröpfel, Protestant
                         <placeName key="#wkfm-place__925">Wien</placeName>
                      <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Buchhalter und Prokurist des Johann Baptist Bolza, Kassier und Prokurist des Joseph Bolza</occupation>
+                     <listBibl>
+                        <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;#34;...daß er uns einen Correspondenten in Wien ausmache&amp;#34;. Berichte, Briefe
+ und Aufzeichnungen von dänischen und schwedischen 
+Gesandtschaftspredigern in Wien 1705–1755), hg. von Zoltán &amp;lt;span style=&amp;#34;font-variant: small-caps;&amp;#34;&amp;gt;Csepregi&amp;lt;/span&amp;gt;–Julianna &amp;lt;span style=&amp;#34;font-variant: small-caps;&amp;#34;&amp;gt;Orsós (&amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;Budapest 2021) 685/Anm. 141. &amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
+                     </listBibl>
                <noteGrp><note target="wkfm-0092.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0092</note><note target="wkfm-0259.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0259</note></noteGrp></person>
                 <person xml:id="wkfm__41865">
                      <persName>
@@ -18282,6 +18451,24 @@ Buchgewerbe (Nürnberg 2003) 671 u.ö.; &amp;lt;span&amp;gt;Kröpfel, Protestant
                         <bibl>Seibold, Wirtschaftlicher Erfolg, Bd. 1, 452f.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0322.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0322</note><note target="wkfm-1668.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1668</note><note target="wkfm-1670.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1670</note></noteGrp></person>
+                <person xml:id="wkfm__46239">
+                     <persName>
+                        <forename>Hermann Friedrich</forename>
+                        <surname>Dohm</surname>
+                        <surname type="alt">Dohm von Dohmkirchen</surname>
+                     </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann, Wechsler</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+                     <occupation type="aemter">Kommerzienrat</occupation>
+                     <listBibl>
+                        <bibl>Johann Christian von Hellbach, Adels-Lexikon (...), Bd. 1: A bis K (Ilmenau 1825) 287, &amp;#34;Dohm von Dohmkirchen&amp;#34;; &amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;#34;...daß er uns einen Correspondenten in Wien ausmache&amp;#34;. Berichte, Briefe
+ und Aufzeichnungen von dänischen und schwedischen 
+Gesandtschaftspredigern in Wien 1705–1755), hg. von Zoltán &amp;lt;span style=&amp;#34;font-variant: small-caps;&amp;#34;&amp;gt;Csepregi&amp;lt;/span&amp;gt;–Julianna &amp;lt;span style=&amp;#34;font-variant: small-caps;&amp;#34;&amp;gt;Orsós (&amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;Budapest 2021) 685/Anm. 138. &amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0565.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0565</note><note target="wkfm-0566.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0566</note></noteGrp></person>
                 <person xml:id="wkfm__46521">
                      <persName>
                         <forename>Philipp Albrecht</forename>
@@ -18363,6 +18550,22 @@ Buchgewerbe (Nürnberg 2003) 671 u.ö.; &amp;lt;span&amp;gt;Kröpfel, Protestant
                         <bibl>&amp;lt;span&amp;gt;Mittenzwei, Zwischen Gestern und Morgen, 25 (zum Todesjahr) 85 (zur ev. Religion der Coith)&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1279.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1279</note><note target="wkfm-1280.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1280</note></noteGrp></person>
+                <person xml:id="wkfm__47049">
+                     <persName>
+                        <forename>Johann</forename>
+                        <surname>Wanner</surname>
+                     </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+                     <listBibl>
+                        <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;#34;...daß er uns einen Correspondenten in Wien ausmache&amp;#34;. Berichte, Briefe
+ und Aufzeichnungen von dänischen und schwedischen 
+Gesandtschaftspredigern in Wien 1705–1755), hg. von Zoltán &amp;lt;span style=&amp;#34;font-variant: small-caps;&amp;#34;&amp;gt;Csepregi&amp;lt;/span&amp;gt;–Julianna &amp;lt;span style=&amp;#34;font-variant: small-caps;&amp;#34;&amp;gt;Orsós (&amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;Budapest 2021) 685/Anm. 147. &amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0669.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0669</note><note target="wkfm-0670.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0670</note></noteGrp></person>
                 <person xml:id="wkfm__47178">
                      <persName>
                         <forename>Adam Christian</forename>
@@ -18405,7 +18608,9 @@ Buchgewerbe (Nürnberg 2003) 671 u.ö.; &amp;lt;span&amp;gt;Kröpfel, Protestant
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                      <listBibl>
-                        <bibl>&amp;lt;span&amp;gt;Kröpfel, Protestsantismus, Anhang 1, S. 6.&amp;lt;/span&amp;gt;</bibl>
+                        <bibl>&amp;lt;span&amp;gt;Kröpfel, Protestsantismus, Anhang 1, S. 6; &amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;#34;...daß er uns einen Correspondenten in Wien ausmache&amp;#34;. Berichte, Briefe
+ und Aufzeichnungen von dänischen und schwedischen 
+Gesandtschaftspredigern in Wien 1705–1755), hg. von Zoltán &amp;lt;span style=&amp;#34;font-variant: small-caps;&amp;#34;&amp;gt;Csepregi&amp;lt;/span&amp;gt;–Julianna &amp;lt;span style=&amp;#34;font-variant: small-caps;&amp;#34;&amp;gt;Orsós (&amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;Budapest 2021) 685/Anm. 145. &amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0801.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0801</note><note target="wkfm-1609.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1609</note><note target="wkfm-1610.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1610</note></noteGrp></person>
                 <person xml:id="wkfm__47190" sameAs="#wkfm__23466 ">
@@ -18437,8 +18642,8 @@ Buchgewerbe (Nürnberg 2003) 671 u.ö.; &amp;lt;span&amp;gt;Kröpfel, Protestant
                      <persName>
                         <forename>Stephan</forename>
                         <surname>Knoll</surname>
-                        <surname type="alt">Kholl</surname>
                         <surname type="alt">Khnoll</surname>
+                        <surname type="alt">Kholl</surname>
                      </persName>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                      <listBibl>
@@ -18467,6 +18672,13 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                         <forename>Erdmann</forename>
                         <surname>Tech</surname>
                      </persName>
+                     <death><date>1762</date></death>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__690">Regensburg</placeName>
+                     <location type="coords"><geo>49.015 12.101388888888888</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__690">Regensburg</placeName>
+                     <location type="coords"><geo>49.015 12.101388888888888</geo></location></residence>
                      <residence type="Herkunft-Krems">
                         <placeName key="#wkfm-place__690">Regensburg</placeName>
                      <location type="coords"><geo>49.015 12.101388888888888</geo></location></residence>
@@ -18524,6 +18736,9 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                         <surname>Marei</surname>
                         <surname type="alt">Marci</surname>
                      </persName>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__566">Nürnberg</placeName>
+                     <location type="coords"><geo>49.45416666666667 11.0775</geo></location></residence>
                      <residence type="Geschäftsniederlassung">
                         <placeName key="#wkfm-place__925">Wien</placeName>
                      <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
@@ -18542,21 +18757,6 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
                <noteGrp><note target="wkfm-0825.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0825</note><note target="wkfm-0826.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0826</note></noteGrp></person>
-                <person xml:id="wkfm__8487">
-                     <persName>
-                        <forename>Joseph</forename>
-                        <surname>Schwarzleithner</surname>
-                     </persName>
-                     <death><date>07.1752</date></death>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-                     <listBibl>
-                        <bibl>Mittenzwei, Zwischen Gestern und Morgen, 23f.; Kallbrunner, 200 Jahre Fabrik Leonischer Waren, 153; Otruba, Manufakturenbestand, 534.&amp;lt;br&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-1671.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1671</note><note target="wkfm-1672.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1672</note><note target="wkfm-1690.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1690</note></noteGrp></person>
                 <person xml:id="wkfm__8495">
                      <persName>
                         <forename>Johann Heinrich</forename>
@@ -18619,25 +18819,6 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                <noteGrp><note target="wkfm-0194.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0194</note><note target="wkfm-0195.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0195</note><note target="wkfm-0997.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0997</note><note target="wkfm-0998.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0998</note><note target="wkfm-1471.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1471</note><note target="wkfm-1472.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1472</note></noteGrp></person>
-                <person xml:id="wkfm__8615" sameAs="#wkfm__35157 wkfm__35724 ">
-                     <persName>
-                        <forename>Georg</forename>
-                        <surname>Prenz</surname>
-                        <surname type="alt">Pränz</surname>
-                     </persName>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">hofbefreit</occupation>
-                     <occupation type="aemter">Assessor am NÖ Wechselgericht (1. Instanz)</occupation>
-                     <listBibl>
-                        <bibl>Johann Christian Lünig, Theatrum Ceremoniale Historico-Politicum, Bd. 2 (Leipzig 1720) 1575; Staats- und Standeskalender 1723, 242..</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-0074.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0074</note><note target="wkfm-0075.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0075</note></noteGrp></person>
                 <person xml:id="wkfm__8672" sameAs="#wkfm__22205 ">
                      <persName>
                         <forename>Barbara</forename>
@@ -18917,20 +19098,6 @@ Oberdeutsche Selbstzeugnisse 1500-1850 5, Basel 2012) 39 [mit Hinweis auf Wien u
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
                <noteGrp><note target="wkfm-1187.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1187</note><note target="wkfm-1188.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1188</note></noteGrp></person>
-                <person xml:id="wkfm__10013" sameAs="#wkfm__12857 ">
-                     <persName>
-                        <forename>Johann Christian</forename>
-                        <surname>Bahn</surname>
-                     </persName>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-                     <listBibl>
-                        <bibl>Wolfram Koeppe, Vienna circa 1780. An Imperial Silver Service Rediscovered (New York u.a. 2010) 26.&amp;lt;br&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-0180.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0180</note><note target="wkfm-0181.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0181</note></noteGrp></person>
                 <person xml:id="wkfm__10346">
                      <persName>
                         <forename>Marco</forename>
@@ -19126,7 +19293,7 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <occupation>Tuchhändlerin, Handelsfrau</occupation>
                      <occupation type="kaufmannsklasse">tuchlaubensverwandt/bürgerlich</occupation>
                <noteGrp><note target="wkfm-1111.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1111</note><note target="wkfm-1112.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1112</note></noteGrp></person>
-                <person xml:id="wkfm__12542" sameAs="#wkfm__29848 ">
+                <person xml:id="wkfm__12542">
                      <persName>
                         <forename>Karl</forename>
                         <surname>Wöss</surname>
@@ -19340,16 +19507,6 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                <noteGrp><note target="wkfm-0335.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0335</note><note target="wkfm-0336.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0336</note><note target="wkfm-0408.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0408</note></noteGrp></person>
-                <person xml:id="wkfm__18491">
-                     <persName>
-                        <forename>None</forename>
-                        <surname>Kern</surname>
-                     </persName>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsfrau</occupation>
-               <noteGrp><note target="wkfm-0355.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0355</note></noteGrp></person>
                 <person xml:id="wkfm__18530">
                      <persName>
                         <forename>Franz Anton</forename>
@@ -19460,23 +19617,12 @@ Porzellan des Klassizismus. Die Ära Conrad von Sorgenthal 1784-1805 (Wien
                      <occupation>Handelsmann, Prokurist bei Johann Fortunat Heller</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                <noteGrp><note target="wkfm-0757.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0757</note><note target="wkfm-0758.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0758</note><note target="wkfm-0997.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0997</note></noteGrp></person>
-                <person xml:id="wkfm__22683">
-                     <persName>
-                        <forename>Johann Georg</forename>
-                        <surname>Ely</surname>
-                     </persName>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-               <noteGrp><note target="wkfm-0565.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0565</note><note target="wkfm-0566.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0566</note></noteGrp></person>
                 <person xml:id="wkfm__23214">
                      <persName>
                         <forename>Sebastian</forename>
                         <surname>Ruffini</surname>
-                        <surname type="alt">von Rufin</surname>
                         <surname type="alt">Rufin</surname>
+                        <surname type="alt">von Rufin</surname>
                      </persName>
                      <residence type="Geschäftsniederlassung">
                         <placeName key="#wkfm-place__925">Wien</placeName>
@@ -19821,8 +19967,8 @@ Porzellan des Klassizismus. Die Ära Conrad von Sorgenthal 1784-1805 (Wien
                         <forename>Johann Anton</forename>
                         <forename type="alt">Anton</forename>
                         <surname>Bormastini</surname>
-                        <surname type="alt">Wormastin</surname>
                         <surname type="alt">Bormastino</surname>
+                        <surname type="alt">Wormastin</surname>
                      </persName>
                      <residence type="Geschäftsniederlassung">
                         <placeName key="#wkfm-place__925">Wien</placeName>
@@ -20931,8 +21077,8 @@ Porzellan des Klassizismus. Die Ära Conrad von Sorgenthal 1784-1805 (Wien
                         <forename>Giulio Maria</forename>
                         <forename type="alt">Julius Maria</forename>
                         <surname>Sonzogno</surname>
-                        <surname type="alt">Sonzogna</surname>
                         <surname type="alt">von Sonzogno</surname>
+                        <surname type="alt">Sonzogna</surname>
                      </persName>
                      <residence type="Geschäftsniederlassung">
                         <placeName key="#wkfm-place__925">Wien</placeName>
@@ -21324,22 +21470,6 @@ Porzellan des Klassizismus. Die Ära Conrad von Sorgenthal 1784-1805 (Wien
                      <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Prokurist des Ruprecht Traunpauer</occupation>
                <noteGrp><note target="wkfm-0561.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0561</note></noteGrp></person>
-                <person xml:id="wkfm__46239">
-                     <persName>
-                        <forename>Hermann Friedrich</forename>
-                        <surname>Dohm</surname>
-                        <surname type="alt">Dohm von Dohmkirchen</surname>
-                     </persName>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann, Wechsler</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-                     <occupation type="aemter">Kommerzienrat</occupation>
-                     <listBibl>
-                        <bibl>Johann Christian von Hellbach, Adels-Lexikon (...), Bd. 1: A bis K (Ilmenau 1825) 287, &amp;#34;Dohm von Dohmkirchen&amp;#34;.&amp;lt;br&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-0565.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0565</note><note target="wkfm-0566.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0566</note></noteGrp></person>
                 <person xml:id="wkfm__46241">
                      <persName>
                         <forename>Johann Ludolph</forename>
@@ -22317,8 +22447,8 @@ Porzellan des Klassizismus. Die Ära Conrad von Sorgenthal 1784-1805 (Wien
                      <persName>
                         <forename>Eva Theresia</forename>
                         <surname>Hayderin</surname>
-                        <surname type="alt">Krexlerin</surname>
                         <surname type="alt">Rathgeb</surname>
+                        <surname type="alt">Krexlerin</surname>
                      </persName>
                <noteGrp><note target="wkfm-1430.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1430</note></noteGrp></person>
                 <person xml:id="wkfm__46750">
@@ -22396,8 +22526,8 @@ Porzellan des Klassizismus. Die Ära Conrad von Sorgenthal 1784-1805 (Wien
                      <persName>
                         <forename>Maria Anna</forename>
                         <surname>Gartnerin</surname>
-                        <surname type="alt">Raindinger</surname>
                         <surname type="alt">Truklerin (?)</surname>
+                        <surname type="alt">Raindinger</surname>
                      </persName>
                <noteGrp><note target="wkfm-1446.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1446</note></noteGrp></person>
                 <person xml:id="wkfm__46773">
@@ -22514,8 +22644,8 @@ Porzellan des Klassizismus. Die Ära Conrad von Sorgenthal 1784-1805 (Wien
                      <persName>
                         <forename>Anna Christina</forename>
                         <surname>Veronesin</surname>
-                        <surname type="alt">Lanser</surname>
                         <surname type="alt">Wagnerin</surname>
+                        <surname type="alt">Lanser</surname>
                         <surname type="alt"/>
                      </persName>
                <noteGrp><note target="wkfm-0754.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0754</note><note target="wkfm-1171.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1171</note><note target="wkfm-1172.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1172</note></noteGrp></person>
@@ -22992,8 +23122,8 @@ Porzellan des Klassizismus. Die Ära Conrad von Sorgenthal 1784-1805 (Wien
                      <persName>
                         <forename>Maria Anna</forename>
                         <surname>Jenamy</surname>
-                        <surname type="alt">Waizmann</surname>
                         <surname type="alt">Jenamin</surname>
+                        <surname type="alt">Waizmann</surname>
                      </persName>
                <noteGrp><note target="wkfm-1804.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1804</note></noteGrp></person>
                 <person xml:id="wkfm__47029">
@@ -23058,17 +23188,6 @@ Porzellan des Klassizismus. Die Ära Conrad von Sorgenthal 1784-1805 (Wien
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1818.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1818</note></noteGrp></person>
-                <person xml:id="wkfm__47049">
-                     <persName>
-                        <forename>Johann</forename>
-                        <surname>Wanner</surname>
-                     </persName>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-               <noteGrp><note target="wkfm-0669.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0669</note><note target="wkfm-0670.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0670</note></noteGrp></person>
                 <person xml:id="wkfm__47051">
                      <persName>
                         <forename>Johann Georg</forename>
@@ -23262,8 +23381,8 @@ Porzellan des Klassizismus. Die Ära Conrad von Sorgenthal 1784-1805 (Wien
                      <persName>
                         <forename>Maria Eleonora</forename>
                         <surname>Mayrhoferin</surname>
-                        <surname type="alt">Stellmacher</surname>
                         <surname type="alt">Fläschitz</surname>
+                        <surname type="alt">Stellmacher</surname>
                      </persName>
                      <residence type="Wohnort">
                         <placeName key="#wkfm-place__925">Wien</placeName>
@@ -23416,8 +23535,8 @@ Porzellan des Klassizismus. Die Ära Conrad von Sorgenthal 1784-1805 (Wien
                 <person xml:id="wkfm__47283">
                      <persName>
                         <forename>Johann Noah (I.)</forename>
-                        <forename type="alt">Noe</forename>
                         <forename type="alt">Johann Noe</forename>
+                        <forename type="alt">Noe</forename>
                         <surname>Buirette</surname>
                      </persName>
                      <residence type="Geschäftsniederlassung">
@@ -23443,8 +23562,8 @@ Porzellan des Klassizismus. Die Ära Conrad von Sorgenthal 1784-1805 (Wien
                      <persName>
                         <forename>Maria Anna</forename>
                         <surname>Freisin [?]</surname>
-                        <surname type="alt">Freißin [?]</surname>
                         <surname type="alt">Piller</surname>
+                        <surname type="alt">Freißin [?]</surname>
                      </persName>
                <noteGrp><note target="wkfm-0230.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0230</note></noteGrp></person>
                 <person xml:id="wkfm__47359">
@@ -23534,8 +23653,8 @@ Porzellan des Klassizismus. Die Ära Conrad von Sorgenthal 1784-1805 (Wien
                         <forename>Maria Agnes</forename>
                         <surname>Kratschin</surname>
                         <surname type="alt">Humblin</surname>
-                        <surname type="alt">Stockinger</surname>
                         <surname type="alt">Herzogin</surname>
+                        <surname type="alt">Stockinger</surname>
                      </persName>
                <noteGrp><note target="wkfm-1498.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1498</note></noteGrp></person>
                 <person xml:id="wkfm__47429">

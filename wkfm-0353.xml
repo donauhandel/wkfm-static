@@ -94,7 +94,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__32417">
+    <back><listOrg><org xml:id="wkfm__47210">
+                     <orgName>Johann Michael Körgl</orgName>
+                  <noteGrp><note target="wkfm-0353.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0353</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__32417">
                      <persName>
                         <forename>Johann Michael</forename>
                         <surname>Körgl</surname>
@@ -111,8 +114,5 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
                <noteGrp><note target="wkfm-0353.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0353</note><note target="wkfm-0354.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0354</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__47210">
-                     <orgName>Johann Michael Körgl</orgName>
-                  <noteGrp><note target="wkfm-0353.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0353</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

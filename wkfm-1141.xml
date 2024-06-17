@@ -88,10 +88,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46810">
-                     <orgName>Wilhelm Konrad Lochner</orgName>
-                  <noteGrp><note target="wkfm-1141.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1141</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__46809">
+    <back><listPerson><person xml:id="wkfm__46809">
                      <persName>
                         <forename>Wilhelm Konrad</forename>
                         <surname>Lochner</surname>
@@ -108,5 +105,8 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1141.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1141</note><note target="wkfm-1142.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1142</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46810">
+                     <orgName>Wilhelm Konrad Lochner</orgName>
+                  <noteGrp><note target="wkfm-1141.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1141</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

@@ -105,18 +105,28 @@
     <back><listOrg><org xml:id="wkfm__47157">
                      <orgName>Michael Schick sel. Erben &amp; Co.</orgName>
                   <noteGrp><note target="wkfm-0789.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0789</note><note target="wkfm-0790.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0790</note></noteGrp></org>
-                <org xml:id="wkfm__47161">
-                     <orgName>Johann Peter Fläschitz sel. Witwe</orgName>
-                  <noteGrp><note target="wkfm-0789.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0789</note></noteGrp></org>
                 <org xml:id="wkfm__47158">
                      <orgName>Johann Peter Fläschitz</orgName>
                   <noteGrp><note target="wkfm-0789.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0789</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__47159">
+                <org xml:id="wkfm__47161">
+                     <orgName>Johann Peter Fläschitz sel. Witwe</orgName>
+                  <noteGrp><note target="wkfm-0789.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0789</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__47160">
+                     <persName>
+                        <forename>Johann Georg</forename>
+                        <surname>Stellmacher</surname>
+                     </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann, Prokurist der Firma Johann Peter Fläschitz sel. Witwe</occupation>
+               <noteGrp><note target="wkfm-0789.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0789</note></noteGrp></person>
+                <person xml:id="wkfm__47159">
                      <persName>
                         <forename>Maria Eleonora</forename>
                         <surname>Mayrhoferin</surname>
-                        <surname type="alt">Stellmacher</surname>
                         <surname type="alt">Fläschitz</surname>
+                        <surname type="alt">Stellmacher</surname>
                      </persName>
                      <residence type="Wohnort">
                         <placeName key="#wkfm-place__925">Wien</placeName>
@@ -127,22 +137,12 @@
                      <occupation>Handelsfrau</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0789.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0789</note><note target="wkfm-0790.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0790</note></noteGrp></person>
-                <person xml:id="wkfm__47160">
-                     <persName>
-                        <forename>Johann Georg</forename>
-                        <surname>Stellmacher</surname>
-                     </persName>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann, Prokurist der Firma Johann Peter Fläschitz sel. Witwe</occupation>
-               <noteGrp><note target="wkfm-0789.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0789</note></noteGrp></person>
                 <person xml:id="wkfm__47156">
                      <persName>
                         <forename>Johann Peter</forename>
                         <surname>Fläschitz</surname>
-                        <surname type="alt">Flaschitz</surname>
                         <surname type="alt">Flatschitz</surname>
+                        <surname type="alt">Flaschitz</surname>
                      </persName>
                      <death><date>1766</date></death>                    
                      <residence type="Geschäftsadresse">

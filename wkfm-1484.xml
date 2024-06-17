@@ -86,18 +86,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47413">
-                     <persName>
-                        <forename>Eva Rosina</forename>
-                        <surname>Schmidt</surname>
-                     </persName>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsfrau</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-1484.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1484</note><note target="wkfm-1485.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1485</note><note target="wkfm-1486.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1486</note></noteGrp></person>
-                <person xml:id="wkfm__47409">
+    <back><listPerson><person xml:id="wkfm__47409">
                      <persName>
                         <forename>None</forename>
                         <surname>None</surname>
@@ -111,5 +100,16 @@
                      <occupation>Handelsfrau</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1483.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1483</note><note target="wkfm-1484.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1484</note></noteGrp></person>
+                <person xml:id="wkfm__47413">
+                     <persName>
+                        <forename>Eva Rosina</forename>
+                        <surname>Schmidt</surname>
+                     </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsfrau</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-1484.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1484</note><note target="wkfm-1485.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1485</note><note target="wkfm-1486.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1486</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

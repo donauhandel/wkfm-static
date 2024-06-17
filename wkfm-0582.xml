@@ -96,6 +96,13 @@
                         <forename>Erdmann</forename>
                         <surname>Tech</surname>
                      </persName>
+                     <death><date>1762</date></death>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__690">Regensburg</placeName>
+                     <location type="coords"><geo>49.015 12.101388888888888</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__690">Regensburg</placeName>
+                     <location type="coords"><geo>49.015 12.101388888888888</geo></location></residence>
                      <residence type="Herkunft-Krems">
                         <placeName key="#wkfm-place__690">Regensburg</placeName>
                      <location type="coords"><geo>49.015 12.101388888888888</geo></location></residence>

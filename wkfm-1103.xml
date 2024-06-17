@@ -88,7 +88,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__3431" sameAs="#wkfm__22226 ">
+    <back><listOrg><org xml:id="wkfm__46777">
+                     <orgName>Georg Lehmann</orgName>
+                  <noteGrp><note target="wkfm-1103.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1103</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__3431" sameAs="#wkfm__22226 ">
                      <persName>
                         <forename>Georg</forename>
                         <surname>Lehmann</surname>
@@ -117,8 +120,5 @@
                         <bibl>Bachleitner/Eybl/Fischer, Geschichte des Buchhandels in Österreich, 71f.; Paisey, Buchdrucker, 153 (Lehmann), &amp;lt;span&amp;gt;Senfelder, Gottesacker, 260&amp;lt;/span&amp;gt;; Diefenbacher u.a., Nürnberger Buchgewerbe, 673; Senfelder, Gottesacker, 260.</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1103.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1103</note><note target="wkfm-1104.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1104</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46777">
-                     <orgName>Georg Lehmann</orgName>
-                  <noteGrp><note target="wkfm-1103.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1103</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

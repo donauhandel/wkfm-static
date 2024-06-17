@@ -92,6 +92,11 @@
                      <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+                     <listBibl>
+                        <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;#34;...daß er uns einen Correspondenten in Wien ausmache&amp;#34;. Berichte, Briefe
+ und Aufzeichnungen von dänischen und schwedischen 
+Gesandtschaftspredigern in Wien 1705–1755), hg. von Zoltán &amp;lt;span style=&amp;#34;font-variant: small-caps;&amp;#34;&amp;gt;Csepregi&amp;lt;/span&amp;gt;–Julianna &amp;lt;span style=&amp;#34;font-variant: small-caps;&amp;#34;&amp;gt;Orsós (&amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;Budapest 2021) 685/Anm. 146. &amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
+                     </listBibl>
                <noteGrp><note target="wkfm-1613.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1613</note><note target="wkfm-1614.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1614</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

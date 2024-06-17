@@ -92,15 +92,12 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46409">
-                     <orgName>Andreas Erwart</orgName>
-                  <noteGrp><note target="wkfm-0631.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0631</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__46408">
+    <back><listPerson><person xml:id="wkfm__46408">
                      <persName>
                         <forename>Andre</forename>
                         <surname>Erwart</surname>
-                        <surname type="alt">Erwarth</surname>
                         <surname type="alt">Erbarth</surname>
+                        <surname type="alt">Erwarth</surname>
                      </persName>                    
                      <residence type="Geschäftsadresse">
                         <placeName>Zum Goldenen Cameel nächst den Fleischbänken (Calender 1723)</placeName>
@@ -120,5 +117,8 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 372 (!).&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0631.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0631</note><note target="wkfm-0632.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0632</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46409">
+                     <orgName>Andreas Erwart</orgName>
+                  <noteGrp><note target="wkfm-0631.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0631</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

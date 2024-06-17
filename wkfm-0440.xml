@@ -110,7 +110,17 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__13619">
+    <back><listPerson><person xml:id="wkfm__46141">
+                     <persName>
+                        <forename>Theresia</forename>
+                        <surname>Wührerin</surname>
+                        <surname type="alt">Klezl</surname>
+                     </persName>
+                     <listBibl>
+                        <bibl>https://transkribus.eu/lite/de/collection/84522/doc/560252/detail/120 (MKP, fol. 217v)&amp;lt;br&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0440.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0440</note></noteGrp></person>
+                <person xml:id="wkfm__13619">
                      <persName>
                         <forename>Franz Anton</forename>
                         <surname>Klezl</surname>
@@ -128,16 +138,6 @@
                      <occupation>Tuchhändler</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
                <noteGrp><note target="wkfm-0439.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0439</note><note target="wkfm-0440.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0440</note><note target="wkfm-1159.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1159</note><note target="wkfm-1160.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1160</note></noteGrp></person>
-                <person xml:id="wkfm__46141">
-                     <persName>
-                        <forename>Theresia</forename>
-                        <surname>Wührerin</surname>
-                        <surname type="alt">Klezl</surname>
-                     </persName>
-                     <listBibl>
-                        <bibl>https://transkribus.eu/lite/de/collection/84522/doc/560252/detail/120 (MKP, fol. 217v)&amp;lt;br&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-0440.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0440</note></noteGrp></person>
                 <person xml:id="wkfm__10693">
                      <persName>
                         <forename>Joseph</forename>

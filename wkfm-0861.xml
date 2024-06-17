@@ -88,10 +88,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46330">
-                     <orgName>Johann Jakob Gäbler</orgName>
-                  <noteGrp><note target="wkfm-0861.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0861</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__46329">
+    <back><listPerson><person xml:id="wkfm__46329">
                      <persName>
                         <forename>Johann Jakob</forename>
                         <surname>Gäbler</surname>
@@ -109,5 +106,8 @@
                      <occupation>Eisenhändler</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0861.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0861</note><note target="wkfm-0862.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0862</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46330">
+                     <orgName>Johann Jakob Gäbler</orgName>
+                  <noteGrp><note target="wkfm-0861.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0861</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

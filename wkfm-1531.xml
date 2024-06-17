@@ -90,10 +90,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47446">
-                     <orgName>Gottlieb Sperrl</orgName>
-                  <noteGrp><note target="wkfm-1531.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1531</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__47445">
+    <back><listPerson><person xml:id="wkfm__47445">
                      <persName>
                         <forename>Gottlieb</forename>
                         <surname>Sperrl</surname>
@@ -113,5 +110,8 @@
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 533 (28. April 1724).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1531.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1531</note><note target="wkfm-1532.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1532</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47446">
+                     <orgName>Gottlieb Sperrl</orgName>
+                  <noteGrp><note target="wkfm-1531.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1531</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

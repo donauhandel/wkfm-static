@@ -88,7 +88,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__8096">
+    <back><listOrg><org xml:id="wkfm__46114">
+                     <orgName>Claudius Cheret &amp; Co.</orgName>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__8096">Cheret, Claudius</persName></person></listPerson><noteGrp><note target="wkfm-0385.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0385</note><note target="wkfm-0386.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0386</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__8096">
                      <persName>
                         <forename>Claudius</forename>
                         <surname>Cheret</surname>
@@ -133,8 +136,5 @@
                         <bibl>Huchler, Bürgeraufnahmen, 356 (Juni 1732 &amp;#34;Contary&amp;#34;).&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0386.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0386</note><note target="wkfm-0449.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0449</note><note target="wkfm-0450.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0450</note><note target="wkfm-0452.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0452</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46114">
-                     <orgName>Claudius Cheret &amp; Co.</orgName>
-                  <listPerson type="affiliated"><person><persName key="#wkfm__8096">Cheret, Claudius</persName></person></listPerson><noteGrp><note target="wkfm-0385.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0385</note><note target="wkfm-0386.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0386</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

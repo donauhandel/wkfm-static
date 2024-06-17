@@ -90,24 +90,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43787">
-                     <persName>
-                        <forename>Paul</forename>
-                        <surname>Sorbait</surname>
-                        <surname type="alt">de Sorbait</surname>
-                     </persName>
-                     <residence type="Bürgerrecht">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-               <noteGrp><note target="wkfm-0013.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0013</note><note target="wkfm-1567.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1567</note><note target="wkfm-1568.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1568</note></noteGrp></person>
-                <person xml:id="wkfm__43786">
+    <back><listOrg><org xml:id="wkfm__46580">
+                     <orgName>Johann Peter Au</orgName>
+                  <noteGrp><note target="wkfm-0012.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0012</note><note target="wkfm-0013.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0013</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__43786">
                      <persName>
                         <forename>Johann Peter</forename>
                         <surname>Au</surname>
@@ -124,8 +110,22 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0012.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0012</note><note target="wkfm-0013.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0013</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46580">
-                     <orgName>Johann Peter Au</orgName>
-                  <noteGrp><note target="wkfm-0012.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0012</note><note target="wkfm-0013.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0013</note></noteGrp></org>
-                </listOrg></back></text>
+                <person xml:id="wkfm__43787">
+                     <persName>
+                        <forename>Paul</forename>
+                        <surname>Sorbait</surname>
+                        <surname type="alt">de Sorbait</surname>
+                     </persName>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+               <noteGrp><note target="wkfm-0013.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0013</note><note target="wkfm-1567.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1567</note><note target="wkfm-1568.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1568</note></noteGrp></person>
+                </listPerson></back></text>
 </TEI>

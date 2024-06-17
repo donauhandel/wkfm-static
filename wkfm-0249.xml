@@ -101,7 +101,24 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__9481" sameAs="#wkfm__8422 wkfm__21682 ">
+    <back><listPerson><person xml:id="wkfm__36092">
+                     <persName>
+                        <forename>Joseph</forename>
+                        <surname>Premlechner</surname>
+                     </persName>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Tuchhändler, Prokurist des Lorenz Anton Premlechner</occupation>
+                     <occupation type="kaufmannsklasse">tuchlaubensverwandt/bürgerlich</occupation>
+               <noteGrp><note target="wkfm-0064.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0064</note><note target="wkfm-0249.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0249</note></noteGrp></person>
+                <person xml:id="wkfm__9481" sameAs="#wkfm__8422 wkfm__21682 ">
                      <persName>
                         <forename>Lorenz Anton</forename>
                         <surname>Premlechner</surname>
@@ -124,23 +141,6 @@
                         <bibl>Huchler, Bürgeraufnahmen, 491.</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0064.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0064</note><note target="wkfm-0065.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0065</note><note target="wkfm-0249.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0249</note></noteGrp></person>
-                <person xml:id="wkfm__36092">
-                     <persName>
-                        <forename>Joseph</forename>
-                        <surname>Premlechner</surname>
-                     </persName>
-                     <residence type="Bürgerrecht">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Tuchhändler, Prokurist des Lorenz Anton Premlechner</occupation>
-                     <occupation type="kaufmannsklasse">tuchlaubensverwandt/bürgerlich</occupation>
-               <noteGrp><note target="wkfm-0064.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0064</note><note target="wkfm-0249.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0249</note></noteGrp></person>
                 </listPerson><listOrg><org xml:id="wkfm__47364">
                      <orgName>Joseph Premlechner</orgName>
                   <noteGrp><note target="wkfm-0249.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0249</note></noteGrp></org>

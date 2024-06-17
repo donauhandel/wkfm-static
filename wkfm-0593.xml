@@ -114,7 +114,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__37748">
+    <back><listOrg><org xml:id="wkfm__46274">
+                     <orgName>Johann Dietschi</orgName>
+                  <noteGrp><note target="wkfm-0593.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0593</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__37748">
                      <persName>
                         <forename>Johann</forename>
                         <surname>Dietschi</surname>
@@ -172,8 +175,5 @@
                         <bibl>Huchler, Bürgeraufnahmen,&amp;amp;nbsp;362.</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0303.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0303</note><note target="wkfm-0553.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0553</note><note target="wkfm-0554.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0554</note><note target="wkfm-0593.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0593</note><note target="wkfm-0594.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0594</note><note target="wkfm-0596.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0596</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46274">
-                     <orgName>Johann Dietschi</orgName>
-                  <noteGrp><note target="wkfm-0593.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0593</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

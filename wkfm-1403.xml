@@ -88,7 +88,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__38711">
+    <back><listOrg><org xml:id="wkfm__46715">
+                     <orgName>Johann Baptist Roschat</orgName>
+                  <noteGrp><note target="wkfm-1403.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1403</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__38711">
                      <persName>
                         <forename>Johann Baptist</forename>
                         <forename type="alt">Jean Babtiste</forename>
@@ -106,8 +109,5 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1403.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1403</note><note target="wkfm-1404.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1404</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46715">
-                     <orgName>Johann Baptist Roschat</orgName>
-                  <noteGrp><note target="wkfm-1403.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1403</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

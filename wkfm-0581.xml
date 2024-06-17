@@ -112,7 +112,16 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46260">
+    <back><listOrg><org xml:id="wkfm__46261">
+                     <orgName>Johann Ludwig Pürkl &amp; Co.</orgName>
+                  <noteGrp><note target="wkfm-0581.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0581</note></noteGrp></org>
+                <org xml:id="wkfm__8067">
+                     <orgName>Hess und Tech</orgName>
+                  <noteGrp><note target="wkfm-0581.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0581</note><note target="wkfm-0582.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0582</note><note target="wkfm-1015.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1015</note><note target="wkfm-1016.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1016</note></noteGrp></org>
+                <org xml:id="wkfm__46259">
+                     <orgName>Erdmann Tech</orgName>
+                  <noteGrp><note target="wkfm-0581.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0581</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__46260">
                      <persName>
                         <forename>Johann Konrad</forename>
                         <surname>Caspar</surname>
@@ -138,6 +147,13 @@
                         <forename>Erdmann</forename>
                         <surname>Tech</surname>
                      </persName>
+                     <death><date>1762</date></death>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__690">Regensburg</placeName>
+                     <location type="coords"><geo>49.015 12.101388888888888</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__690">Regensburg</placeName>
+                     <location type="coords"><geo>49.015 12.101388888888888</geo></location></residence>
                      <residence type="Herkunft-Krems">
                         <placeName key="#wkfm-place__690">Regensburg</placeName>
                      <location type="coords"><geo>49.015 12.101388888888888</geo></location></residence>
@@ -147,14 +163,5 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                <noteGrp><note target="wkfm-0581.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0581</note><note target="wkfm-0582.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0582</note><note target="wkfm-1015.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1015</note><note target="wkfm-1016.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1016</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__8067">
-                     <orgName>Hess und Tech</orgName>
-                  <noteGrp><note target="wkfm-0581.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0581</note><note target="wkfm-0582.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0582</note><note target="wkfm-1015.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1015</note><note target="wkfm-1016.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1016</note></noteGrp></org>
-                <org xml:id="wkfm__46261">
-                     <orgName>Johann Ludwig Pürkl &amp; Co.</orgName>
-                  <noteGrp><note target="wkfm-0581.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0581</note></noteGrp></org>
-                <org xml:id="wkfm__46259">
-                     <orgName>Erdmann Tech</orgName>
-                  <noteGrp><note target="wkfm-0581.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0581</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

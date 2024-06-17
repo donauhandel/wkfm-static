@@ -106,7 +106,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47540" sameAs="#wkfm__32427 ">
+    <back><listOrg><org xml:id="wkfm__47539">
+                     <orgName>Franz Strobl</orgName>
+                  <noteGrp><note target="wkfm-1637.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1637</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__47540" sameAs="#wkfm__32427 ">
                      <persName>
                         <forename>Peter</forename>
                         <surname>Schmalz</surname>
@@ -132,8 +135,5 @@
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 542.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1637.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1637</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__47539">
-                     <orgName>Franz Strobl</orgName>
-                  <noteGrp><note target="wkfm-1637.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1637</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

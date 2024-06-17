@@ -87,10 +87,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47269">
-                     <orgName>Franz Babas</orgName>
-                  <noteGrp><note target="wkfm-0058.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0058</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__11869" sameAs="#wkfm__39486 ">
+    <back><listPerson><person xml:id="wkfm__11869" sameAs="#wkfm__39486 ">
                      <persName>
                         <forename>Franz</forename>
                         <surname>Babas</surname>
@@ -101,5 +98,8 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                <noteGrp><note target="wkfm-0058.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0058</note><note target="wkfm-0059.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0059</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47269">
+                     <orgName>Franz Babas</orgName>
+                  <noteGrp><note target="wkfm-0058.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0058</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

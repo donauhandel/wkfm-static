@@ -88,12 +88,19 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__27912" sameAs="#wkfm__30184 ">
+    <back><listPerson><person xml:id="wkfm__43923">
+                     <persName>
+                        <forename>Maria Franziska</forename>
+                        <surname>Dietzin</surname>
+                        <surname type="alt">Babitsch</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0234.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0234</note></noteGrp></person>
+                <person xml:id="wkfm__27912" sameAs="#wkfm__30184 ">
                      <persName>
                         <forename>Johann Ignaz</forename>
                         <surname>Babitsch</surname>
-                        <surname type="alt">Babisch</surname>
                         <surname type="alt">Bäbitsch</surname>
+                        <surname type="alt">Babisch</surname>
                      </persName>
                      <death><date>1779</date></death>
                      <affiliation>
@@ -117,12 +124,5 @@
                         <bibl>&amp;lt;div&amp;gt;Huchler, Bürgeraufnahmen, 343.&amp;lt;/div&amp;gt;&amp;lt;div&amp;gt;Harrer-Lucienfeld, Wien, seiner Häuser, Bd. 2.4, S. 770.&amp;lt;br&amp;gt;&amp;lt;/div&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0233.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0233</note><note target="wkfm-0234.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0234</note><note target="wkfm-0648.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0648</note><note target="wkfm-1179.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1179</note></noteGrp></person>
-                <person xml:id="wkfm__43923">
-                     <persName>
-                        <forename>Maria Franziska</forename>
-                        <surname>Dietzin</surname>
-                        <surname type="alt">Babitsch</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-0234.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0234</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

@@ -88,7 +88,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46966" sameAs="#wkfm__12949 ">
+    <back><listOrg><org xml:id="wkfm__46967">
+                     <orgName>Joachim Waldhör</orgName>
+                  <noteGrp><note target="wkfm-1735.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1735</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__46966" sameAs="#wkfm__12949 ">
                      <persName>
                         <forename>Joachim</forename>
                         <surname>Waldhör</surname>
@@ -110,8 +113,5 @@
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <occupation type="aemter">Vorsteher der bürgerl. Handelsleute</occupation>
                <noteGrp><note target="wkfm-1735.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1735</note><note target="wkfm-1736.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1736</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46967">
-                     <orgName>Joachim Waldhör</orgName>
-                  <noteGrp><note target="wkfm-1735.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1735</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

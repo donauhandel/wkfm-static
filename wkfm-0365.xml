@@ -88,10 +88,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47215">
-                     <orgName>Tobias Klingenbrunner</orgName>
-                  <noteGrp><note target="wkfm-0365.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0365</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__8744" sameAs="#wkfm__20101 wkfm__13750 ">
+    <back><listPerson><person xml:id="wkfm__8744" sameAs="#wkfm__20101 wkfm__13750 ">
                      <persName>
                         <forename>Tobias</forename>
                         <surname>Klingenbrunner</surname>
@@ -114,5 +111,8 @@
                         <bibl>&amp;lt;span&amp;gt; Budischowsky, Der bürgerliche Handelsmann und Fabrikant Bernhard Falquet, 10; &amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 430&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;. &amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0365.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0365</note><note target="wkfm-0366.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0366</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47215">
+                     <orgName>Tobias Klingenbrunner</orgName>
+                  <noteGrp><note target="wkfm-0365.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0365</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

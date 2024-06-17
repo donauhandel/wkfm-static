@@ -91,7 +91,7 @@
     <back><listOrg><org xml:id="wkfm__46955">
                      <orgName>Karl Wöss</orgName>
                   <noteGrp><note target="wkfm-1715.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1715</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__12542" sameAs="#wkfm__29848 ">
+                </listOrg><listPerson><person xml:id="wkfm__12542">
                      <persName>
                         <forename>Karl</forename>
                         <surname>Wöss</surname>

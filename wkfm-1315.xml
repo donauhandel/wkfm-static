@@ -94,13 +94,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__44587">
-                     <orgName>Joachim Negri &amp; Co., Gioacchino Negri &amp; Co.</orgName>
-                  <listPerson type="affiliated"><person><persName key="#wkfm__4528">Patuzzi, Bartholomäus</persName></person></listPerson><noteGrp><note target="wkfm-1315.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1315</note></noteGrp></org>
-                <org xml:id="wkfm__46667">
-                     <orgName>Joachim Negri, Gioacchino Negri</orgName>
-                  <noteGrp><note target="wkfm-1315.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1315</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__26325" sameAs="#wkfm__32059 ">
+    <back><listPerson><person xml:id="wkfm__26325" sameAs="#wkfm__32059 ">
                      <persName>
                         <forename>Joachim</forename>
                         <forename type="alt">Gioacchino</forename>
@@ -125,5 +119,11 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 469.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0283.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0283</note><note target="wkfm-1315.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1315</note><note target="wkfm-1316.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1316</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46667">
+                     <orgName>Joachim Negri, Gioacchino Negri</orgName>
+                  <noteGrp><note target="wkfm-1315.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1315</note></noteGrp></org>
+                <org xml:id="wkfm__44587">
+                     <orgName>Joachim Negri &amp; Co., Gioacchino Negri &amp; Co.</orgName>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__4528">Patuzzi, Bartholomäus</persName></person></listPerson><noteGrp><note target="wkfm-1315.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1315</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

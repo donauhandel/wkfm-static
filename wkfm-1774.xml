@@ -87,12 +87,23 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__14589" sameAs="#wkfm__32094 ">
+    <back><listPerson><person xml:id="wkfm__39974">
+                     <persName>
+                        <forename>Franz</forename>
+                        <surname>von Wiesenhüter</surname>
+                     </persName>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+               <noteGrp><note target="wkfm-1773.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1773</note><note target="wkfm-1774.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1774</note></noteGrp></person>
+                <person xml:id="wkfm__14589" sameAs="#wkfm__32094 ">
                      <persName>
                         <forename>Johann Friedrich</forename>
                         <surname>von Wiesenhüter</surname>
-                        <surname type="alt">von Wiesenhütten</surname>
                         <surname type="alt">Wiesenhüter</surname>
+                        <surname type="alt">von Wiesenhütten</surname>
                      </persName>
                      <death><date>1742</date></death>
                      <residence type="Wohnort">
@@ -110,19 +121,10 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                      <listBibl>
-                        <bibl>Dietz, Frankfurter Handelsgeschichte 4/1, 383f.&amp;lt;br&amp;gt;</bibl>
+                        <bibl>Dietz, Frankfurter Handelsgeschichte 4/1, 383f.; &amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;#34;...daß er uns einen Correspondenten in Wien ausmache&amp;#34;. Berichte, Briefe
+ und Aufzeichnungen von dänischen und schwedischen 
+Gesandtschaftspredigern in Wien 1705–1755), hg. von Zoltán &amp;lt;span style=&amp;#34;font-variant: small-caps;&amp;#34;&amp;gt;Csepregi&amp;lt;/span&amp;gt;–Julianna &amp;lt;span style=&amp;#34;font-variant: small-caps;&amp;#34;&amp;gt;Orsós (&amp;lt;/span&amp;gt;&amp;lt;span&amp;gt;Budapest 2021) 686/Anm. 159. &amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
-               <noteGrp><note target="wkfm-1773.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1773</note><note target="wkfm-1774.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1774</note></noteGrp></person>
-                <person xml:id="wkfm__39974">
-                     <persName>
-                        <forename>Franz</forename>
-                        <surname>von Wiesenhüter</surname>
-                     </persName>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                <noteGrp><note target="wkfm-1773.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1773</note><note target="wkfm-1774.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1774</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

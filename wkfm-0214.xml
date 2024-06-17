@@ -125,7 +125,28 @@
     <back><listOrg><org xml:id="wkfm__43913">
                      <orgName>Anton Polidoro &amp; Co.</orgName>
                   <noteGrp><note target="wkfm-0213.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0213</note><note target="wkfm-0214.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0214</note><note target="wkfm-0215.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0215</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__25146">
+                </listOrg><listPerson><person xml:id="wkfm__19355" sameAs="#wkfm__23789 wkfm__28994 ">
+                     <persName>
+                        <forename>Anton Lukas</forename>
+                        <forename type="alt">Anton</forename>
+                        <surname>Polidoro</surname>
+                     </persName>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geburtsort">
+                        <placeName key="#wkfm-place__2600">Torbole</placeName>
+                     </residence>
+                     <occupation>Handelsmann, Spezereihändler</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-0213.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0213</note><note target="wkfm-0214.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0214</note><note target="wkfm-0215.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0215</note><note target="wkfm-0216.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0216</note><note target="wkfm-0283.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0283</note></noteGrp></person>
+                <person xml:id="wkfm__25146">
                      <persName>
                         <forename>Joseph</forename>
                         <surname>Barbieri</surname>
@@ -161,26 +182,5 @@
                         <surname>Kazberin</surname>
                      </persName>
                <noteGrp><note target="wkfm-0214.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0214</note></noteGrp></person>
-                <person xml:id="wkfm__19355" sameAs="#wkfm__23789 wkfm__28994 ">
-                     <persName>
-                        <forename>Anton Lukas</forename>
-                        <forename type="alt">Anton</forename>
-                        <surname>Polidoro</surname>
-                     </persName>
-                     <residence type="Bürgerrecht">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geburtsort">
-                        <placeName key="#wkfm-place__2600">Torbole</placeName>
-                     </residence>
-                     <occupation>Handelsmann, Spezereihändler</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-0213.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0213</note><note target="wkfm-0214.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0214</note><note target="wkfm-0215.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0215</note><note target="wkfm-0216.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0216</note><note target="wkfm-0283.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0283</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

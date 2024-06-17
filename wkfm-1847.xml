@@ -117,13 +117,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46610">
-                     <persName>
-                        <forename>Andre</forename>
-                        <surname>Ziegler</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-1847.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1847</note></noteGrp></person>
-                <person xml:id="wkfm__43862">
+    <back><listPerson><person xml:id="wkfm__43862">
                      <persName>
                         <forename>Philipp Matthias</forename>
                         <surname>Ziegler</surname>
@@ -146,16 +140,22 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 571 (&amp;#34;Philipp&amp;#34;).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1847.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1847</note><note target="wkfm-1848.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1848</note></noteGrp></person>
-                <person xml:id="wkfm__43863">
-                     <persName>
-                        <forename>Franz Anton</forename>
-                        <surname>Groß</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-1847.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1847</note></noteGrp></person>
                 <person xml:id="wkfm__31013" sameAs="#wkfm__46610 ">
                      <persName>
                         <forename>Andre</forename>
                         <surname>Ziegler</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-1847.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1847</note></noteGrp></person>
+                <person xml:id="wkfm__46610">
+                     <persName>
+                        <forename>Andre</forename>
+                        <surname>Ziegler</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-1847.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1847</note></noteGrp></person>
+                <person xml:id="wkfm__43863">
+                     <persName>
+                        <forename>Franz Anton</forename>
+                        <surname>Groß</surname>
                      </persName>
                <noteGrp><note target="wkfm-1847.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1847</note></noteGrp></person>
                 </listPerson><listOrg><org xml:id="wkfm__46611">

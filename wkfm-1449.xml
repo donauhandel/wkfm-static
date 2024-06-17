@@ -122,7 +122,34 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46771">
+    <back><listPerson><person xml:id="wkfm__8109" sameAs="#wkfm__17837 ">
+                     <persName>
+                        <forename>Johann Michael</forename>
+                        <surname>Niller</surname>
+                     </persName>
+                     <death><date>1770, 1780 ?</date></death>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Zum Weißen Lämmel auf dem alten Bauernmarkt (Calender 1758)</placeName>
+                     </residence>                    
+                     <residence type="Geschäftsadresse">
+                        <placeName>Bauernmarkt 9 (alt: Nr. 580)</placeName>
+                     </residence>
+                     <residence type="Bürgerrecht">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Wohnort">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+                     <listBibl>
+                        <bibl>Harrer-Lucienfeld, Wien, seiner Häuser, Bd. 1.3, S. 708.; Huchler, Bürgeraufnahmen,&amp;amp;nbsp;531.&amp;lt;br&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0455.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0455</note><note target="wkfm-1305.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1305</note><note target="wkfm-1306.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1306</note><note target="wkfm-1433.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1433</note><note target="wkfm-1443.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1443</note><note target="wkfm-1449.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1449</note></noteGrp></person>
+                <person xml:id="wkfm__46771">
                      <persName>
                         <forename>Franz</forename>
                         <surname>Lazarus</surname>
@@ -167,33 +194,6 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1449.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1449</note><note target="wkfm-1450.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1450</note></noteGrp></person>
-                <person xml:id="wkfm__8109" sameAs="#wkfm__17837 ">
-                     <persName>
-                        <forename>Johann Michael</forename>
-                        <surname>Niller</surname>
-                     </persName>
-                     <death><date>1770, 1780 ?</date></death>                    
-                     <residence type="Geschäftsadresse">
-                        <placeName>Zum Weißen Lämmel auf dem alten Bauernmarkt (Calender 1758)</placeName>
-                     </residence>                    
-                     <residence type="Geschäftsadresse">
-                        <placeName>Bauernmarkt 9 (alt: Nr. 580)</placeName>
-                     </residence>
-                     <residence type="Bürgerrecht">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Wohnort">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <residence type="Geschäftsniederlassung">
-                        <placeName key="#wkfm-place__925">Wien</placeName>
-                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-                     <listBibl>
-                        <bibl>Harrer-Lucienfeld, Wien, seiner Häuser, Bd. 1.3, S. 708.; Huchler, Bürgeraufnahmen,&amp;amp;nbsp;531.&amp;lt;br&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-0455.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0455</note><note target="wkfm-1305.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1305</note><note target="wkfm-1306.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1306</note><note target="wkfm-1433.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1433</note><note target="wkfm-1443.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1443</note><note target="wkfm-1449.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1449</note></noteGrp></person>
                 </listPerson><listOrg><org xml:id="wkfm__46770">
                      <orgName>Johann Friedrich Razer</orgName>
                   <noteGrp><note target="wkfm-1449.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1449</note></noteGrp></org>

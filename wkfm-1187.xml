@@ -88,7 +88,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__9918">
+    <back><listOrg><org xml:id="wkfm__46853">
+                     <orgName>Franz Joseph Moser &amp; Co.</orgName>
+                  <noteGrp><note target="wkfm-1187.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1187</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__9918">
                      <persName>
                         <forename>Franz Joseph</forename>
                         <surname>Moser</surname>
@@ -105,8 +108,5 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
                <noteGrp><note target="wkfm-1187.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1187</note><note target="wkfm-1188.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1188</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46853">
-                     <orgName>Franz Joseph Moser &amp; Co.</orgName>
-                  <noteGrp><note target="wkfm-1187.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1187</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

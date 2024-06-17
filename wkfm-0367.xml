@@ -88,10 +88,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__47216">
-                     <orgName>Johann Konrad Klingler</orgName>
-                  <noteGrp><note target="wkfm-0367.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0367</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__14080" sameAs="#wkfm__19019 ">
+    <back><listPerson><person xml:id="wkfm__14080" sameAs="#wkfm__19019 ">
                      <persName>
                         <forename>Johann Konrad</forename>
                         <surname>Klingler</surname>
@@ -115,5 +112,8 @@
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 430.&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0367.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0367</note><note target="wkfm-0368.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0368</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__47216">
+                     <orgName>Johann Konrad Klingler</orgName>
+                  <noteGrp><note target="wkfm-0367.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0367</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

@@ -87,7 +87,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__25660">
+    <back><listOrg><org xml:id="wkfm__43930">
+                     <orgName>Franz Beda</orgName>
+                  <listPerson type="affiliated"><person><persName key="#wkfm__25660">Beda, Franz</persName></person></listPerson><noteGrp><note target="wkfm-0275.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0275</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__25660">
                      <persName>
                         <forename>Franz</forename>
                         <surname>Beda</surname>
@@ -111,8 +114,5 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0275.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0275</note><note target="wkfm-0276.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0276</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__43930">
-                     <orgName>Franz Beda</orgName>
-                  <listPerson type="affiliated"><person><persName key="#wkfm__25660">Beda, Franz</persName></person></listPerson><noteGrp><note target="wkfm-0275.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0275</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

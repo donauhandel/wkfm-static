@@ -108,10 +108,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46354">
-                     <orgName>Johann Sigmund Gewey</orgName>
-                  <noteGrp><note target="wkfm-0887.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0887</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__46353">
+    <back><listPerson><person xml:id="wkfm__46353">
                      <persName>
                         <forename>Johann Sigmund</forename>
                         <surname>Gewey</surname>
@@ -138,5 +135,8 @@
                         <surname type="alt">Kracherin</surname>
                      </persName>
                <noteGrp><note target="wkfm-0887.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0887</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46354">
+                     <orgName>Johann Sigmund Gewey</orgName>
+                  <noteGrp><note target="wkfm-0887.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0887</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

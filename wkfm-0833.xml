@@ -92,10 +92,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46310">
-                     <orgName>Georg Götz</orgName>
-                  <noteGrp><note target="wkfm-0833.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0833</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__8955" sameAs="#wkfm__13814 ">
+    <back><listPerson><person xml:id="wkfm__8955" sameAs="#wkfm__13814 ">
                      <persName>
                         <forename>Georg</forename>
                         <surname>Götz</surname>
@@ -119,5 +116,8 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0833.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0833</note><note target="wkfm-0834.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0834</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46310">
+                     <orgName>Georg Götz</orgName>
+                  <noteGrp><note target="wkfm-0833.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0833</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

@@ -115,6 +115,12 @@
                         <surname type="alt">Jenamj</surname>
                      </persName>
                <noteGrp><note target="wkfm-0276.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0276</note></noteGrp></person>
+                <person xml:id="wkfm__47377">
+                     <persName>
+                        <forename>Johann Karl</forename>
+                        <surname>Ristlisch</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0276.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0276</note></noteGrp></person>
                 <person xml:id="wkfm__43932">
                      <persName>
                         <forename>Maria Anna</forename>
@@ -149,12 +155,6 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0275.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0275</note><note target="wkfm-0276.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0276</note></noteGrp></person>
-                <person xml:id="wkfm__47377">
-                     <persName>
-                        <forename>Johann Karl</forename>
-                        <surname>Ristlisch</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-0276.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0276</note></noteGrp></person>
                 </listPerson><listOrg><org xml:id="wkfm__43933">
                      <orgName>Franz Beda sel. Witwe</orgName>
                   <noteGrp><note target="wkfm-0276.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0276</note></noteGrp></org>

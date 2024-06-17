@@ -90,7 +90,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__8817" sameAs="#wkfm__15495 ">
+    <back><listOrg><org xml:id="wkfm__46314">
+                     <orgName>Johannes Joseph Gnädl</orgName>
+                  <noteGrp><note target="wkfm-0841.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0841</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__8817" sameAs="#wkfm__15495 ">
                      <persName>
                         <forename>Johann Joseph</forename>
                         <surname>Gnädl</surname>
@@ -112,8 +115,5 @@
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                      <occupation type="aemter">Äußerer Rat</occupation>
                <noteGrp><note target="wkfm-0841.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0841</note><note target="wkfm-0842.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0842</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__46314">
-                     <orgName>Johannes Joseph Gnädl</orgName>
-                  <noteGrp><note target="wkfm-0841.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0841</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

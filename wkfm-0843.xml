@@ -88,10 +88,7 @@
             
         </div>
       </body>
-    <back><listOrg><org xml:id="wkfm__46315">
-                     <orgName>Pietro Girardi</orgName>
-                  <noteGrp><note target="wkfm-0843.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0843</note></noteGrp></org>
-                </listOrg><listPerson><person xml:id="wkfm__41439">
+    <back><listPerson><person xml:id="wkfm__41439">
                      <persName>
                         <forename>Peter</forename>
                         <forename type="alt">Pietro</forename>
@@ -110,5 +107,8 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0843.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0843</note><note target="wkfm-0844.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0844</note></noteGrp></person>
-                </listPerson></back></text>
+                </listPerson><listOrg><org xml:id="wkfm__46315">
+                     <orgName>Pietro Girardi</orgName>
+                  <noteGrp><note target="wkfm-0843.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0843</note></noteGrp></org>
+                </listOrg></back></text>
 </TEI>

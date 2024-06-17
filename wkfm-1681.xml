@@ -116,7 +116,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__42662">
+    <back><listOrg><org xml:id="wkfm__47594">
+                     <orgName>Franz Karl Sotscheck</orgName>
+                  <noteGrp><note target="wkfm-1681.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1681</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__42662">
                      <persName>
                         <forename>Franz Ignaz</forename>
                         <surname>Kurz</surname>
@@ -159,8 +162,5 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1681.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1681</note><note target="wkfm-1682.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1682</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__47594">
-                     <orgName>Franz Karl Sotscheck</orgName>
-                  <noteGrp><note target="wkfm-1681.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1681</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>

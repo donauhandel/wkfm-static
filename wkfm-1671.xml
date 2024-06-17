@@ -131,14 +131,24 @@
                         <forename>Joseph</forename>
                         <surname>Schwarzleithner</surname>
                      </persName>
-                     <death><date>07.1752</date></death>
+                     <birth><date>07.02.1698</date></birth>
+                     <death><date>15.07.1752</date></death>
+                     <residence type="Geburtsort">
+                        <placeName key="#wkfm-place__816">Steyr</placeName>
+                     <location type="coords"><geo>48.0425 14.421111111111111</geo></location></residence>
                      <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Geschäftsniederlassung">
+                        <placeName key="#wkfm-place__925">Wien</placeName>
+                     <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
+                     <residence type="Sterbeort">
                         <placeName key="#wkfm-place__925">Wien</placeName>
                      <location type="coords"><geo>48.208333333333336 16.371944444444445</geo></location></residence>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                      <listBibl>
-                        <bibl>Mittenzwei, Zwischen Gestern und Morgen, 23f.; Kallbrunner, 200 Jahre Fabrik Leonischer Waren, 153; Otruba, Manufakturenbestand, 534.&amp;lt;br&amp;gt;</bibl>
+                        <bibl>&amp;lt;div&amp;gt;Mittenzwei, Zwischen Gestern und Morgen, 23f.; Kallbrunner, 200 Jahre Fabrik Leonischer Waren, 153; Otruba, Manufakturenbestand, 534; Franz Maurer, Wiens erste Maulbeerbaumschule und Fabrik leonischer Waren in Margareten, in: Berichte und Mitteilungen des Altertums-Vereines zu Wien XLII (1909)&amp;amp;nbsp; 89-95, hier 92-95.&amp;lt;/div&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1671.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1671</note><note target="wkfm-1672.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1672</note><note target="wkfm-1690.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1690</note></noteGrp></person>
                 </listPerson><listOrg><org xml:id="wkfm__43987">

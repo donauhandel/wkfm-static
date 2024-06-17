@@ -87,7 +87,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__20719">
+    <back><listOrg><org xml:id="wkfm__47295">
+                     <orgName>Johann Franz Brigenti</orgName>
+                  <noteGrp><note target="wkfm-0110.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0110</note></noteGrp></org>
+                </listOrg><listPerson><person xml:id="wkfm__20719">
                      <persName>
                         <forename>Johann Franz</forename>
                         <surname>Brigenti</surname>
@@ -108,8 +111,5 @@
                         <bibl>Huchler, Bürgeraufnahmen, 352.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0110.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0110</note><note target="wkfm-0111.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0111</note></noteGrp></person>
-                </listPerson><listOrg><org xml:id="wkfm__47295">
-                     <orgName>Johann Franz Brigenti</orgName>
-                  <noteGrp><note target="wkfm-0110.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0110</note></noteGrp></org>
-                </listOrg></back></text>
+                </listPerson></back></text>
 </TEI>
