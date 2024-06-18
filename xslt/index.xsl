@@ -47,7 +47,7 @@
                         </div>
                         <div class="col">
                             <figure class="figure">
-                                <img src="images/wstla__mkp.jpg" class="float-end img-fluid rounded"/>
+                                <img src="./images/wstla__mkp.jpg" class="float-end img-fluid rounded"/>
                                 <figcaption class="figure-caption text-end">Wiener Stadt- und Landesarchiv (WStLA), Bestand 2.3.2 - Merkantil- und Wechselgericht | 1725-1850-(1863) CC BY-NC-ND 4.0 WStLA</figcaption>
                             </figure>
                         </div>
