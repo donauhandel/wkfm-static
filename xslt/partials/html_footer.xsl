@@ -8,12 +8,11 @@
     <xsl:template match="/" name="html_footer">
         <footer class="footer mt-auto py-3 bg-body-tertiary">
             <div class="container p-4">
-
                 <div class="row my-4">
                     <div class="col-lg-2 col-md-6 mb-4 mb-md-0" align="right">
                         <div>
                             <a href="https://geschichtsforschung.univie.ac.at/">
-                                <img src="./logos/uni_logo_220@2x.jpg" class="footerimage" />
+                                <img src="logos/uni_wien_logo.png" class="footerimage" />
                             </a>
                         </div>
                     </div>
@@ -36,7 +35,7 @@
                     <div class="col-lg-1 col-md-6 mb-4 mb-md-0" align="right">
                         <div>
                             <a href="https://www.oeaw.ac.at/acdh/acdh-ch-home">
-                                <img src="./logos/ACDHCH_logo.png" class="footerimage"></img>
+                                <img src="logos/acdhch_logo.png" class="footerimage"></img>
                             </a>
                         </div>
                     </div>
@@ -62,7 +61,7 @@
                     <div class="col-lg-3 col-md-6 mb-4 mb-md-0" align="right">
                         <div>
                             <a href="https://www.fwf.ac.at/forschungsradar/10.55776/P33980">
-                                <img src="./logos/FWF_Logo_Zusatz_Dunkelblau_RGB_EN.png" class="footerimage"></img>
+                                <img src="logos/fwf_logo.png" class="footerimage"></img>
                             </a>
                             <p>
                                 <br></br>
@@ -72,8 +71,8 @@
                     </div>
                 </div>
             </div>
-            <div class="float-end me-3">
-                <a href="{$github_url}"><i class="bi bi-github"></i></a>
+            <div class="text-center">
+                <a href="{$github_url}"><i class="bi bi-github fs-2"></i></a>
             </div>
         </footer>
         <script src="https://code.jquery.com/jquery-3.6.3.min.js" integrity="sha256-pvPw+upLPUjgMXY0G+8O0xUf+/Im1MZjXxxgOcBQBXU=" crossorigin="anonymous"></script>

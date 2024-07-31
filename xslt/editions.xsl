@@ -89,11 +89,11 @@
                         </div>
                         
                         <div class="row pt-5">
-                            <div class="col">
+                            <div class="col-md">
                                 <div style="width: 100%; height: 800px" id="osd_viewer"/>
                                 <figcaption class="figure-caption text-center">Wiener Stadt- und Landesarchiv (WStLA), Bestand 2.3.2 - Merkantil- und Wechselgericht | 1725-1850-(1863) CC BY-NC-ND 4.0 WStLA </figcaption>
                             </div>
-                            <div class="col">
+                            <div class="col-md">
                                 <div class="transcript pb-5">
                                     <xsl:apply-templates select=".//tei:body"></xsl:apply-templates>
                                 </div>
@@ -132,7 +132,7 @@
                 </main>
                 <xsl:call-template name="html_footer"/>                
                 <script type="text/javascript">
-                    var source = "<xsl:value-of select="$facs-url"/>";
+                    var source = "<xsl:value-of select="concat($facs-url, '?format=iiif')"/>";
                     var viewer = OpenSeadragon({
                     id: "osd_viewer",
                     tileSources: {
