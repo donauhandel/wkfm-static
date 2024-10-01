@@ -1,0 +1,17 @@
+@prefix acdh: <https://vocabs.acdh.oeaw.ac.at/schema#> .
+@prefix acdhi: <https://id.acdh.oeaw.ac.at/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+
+<https://id.acdh.oeaw.ac.at/wmp1/title-img.jpg> a acdh:Resource ;
+    acdh:hasTitle """Titelbild zu: Schnitzler-Briefe"""@de ;
+    acdh:isPartOf <https://id.acdh.oeaw.ac.at/wmp1> ;
+    acdh:isTitleImageOf <https://id.acdh.oeaw.ac.at/wmp1> ;
+    acdh:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    acdh:hasLicensor <https://id.acdh.oeaw.ac.at/acdh> ;
+    acdh:hasCreator <https://id.acdh.oeaw.ac.at/slehecka> ;
+    acdh:hasOwner <https://id.acdh.oeaw.ac.at/acdh> ;
+    acdh:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/image> ;
+    acdh:hasDepositor <https://d-nb.info/gnd/1043833846> ;
+    acdh:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
+    acdh:hasRightsHolder <https://id.acdh.oeaw.ac.at/oeaw> .
