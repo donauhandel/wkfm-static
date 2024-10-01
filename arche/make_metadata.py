@@ -58,8 +58,6 @@ files = glob.glob("data/editions/*.xml")
 files = files[:20]
 for i, x in enumerate(tqdm(sorted(files), total=len(files)), start=1):
     fname = os.path.split(x)[-1]
-    cur_numb = f"{i:04}"
-    print(cur_numb)
     shutil.copyfile(x, os.path.join(TO_INGEST, fname))
     doc = TeiReader(x)
     uri = URIRef(f"{ID}/{fname}")
@@ -105,19 +103,34 @@ g.parse("arche/title_image.ttl")
 
 files = files[:20]
 for i, x in enumerate(tqdm(sorted(files), total=len(files)), start=1):
+    cur_numb = f"{i:04}"
     uri = URIRef(f"{ID}/{IMG_NAME}{cur_numb}.jpeg")
     g.add((uri, RDF.type, ACDH["Resource"]))
+    g.add((uri, ACDH["isSourceOf"], URIRef(f"{ID}/wkfm-{cur_numb}.xml")))
     title = f"""WSTLA, {uri.split("/")[-1]
                         .replace("_", " ")
                         .replace("Reihe  Reihe", "Reihe")
                         .replace("Merkantilprotokoll 1 ", "Merkantilprotokoll 1, ")}"""
     g.add((uri, ACDH["hasTitle"], Literal(title, lang="de")))
     g.add((uri, ACDH["isPartOf"], URIRef(f"{ID}/facs")))
-    g.add((uri, ACDH["hasCategory"], URIRef("https://vocabs.acdh.oeaw.ac.at/archecategory/image")))
-    g.add((uri, ACDH["hasLicense"], URIRef("https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-nd-4-0")))
+    g.add(
+        (
+            uri,
+            ACDH["hasCategory"],
+            URIRef("https://vocabs.acdh.oeaw.ac.at/archecategory/image"),
+        )
+    )
+    g.add(
+        (
+            uri,
+            ACDH["hasLicense"],
+            URIRef("https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-nd-4-0"),
+        )
+    )
     g.add((uri, ACDH["hasLicensor"], URIRef("https://d-nb.info/gnd/2060831-7")))
     g.add((uri, ACDH["hasOwner"], URIRef("https://d-nb.info/gnd/2060831-7")))
     g.add((uri, ACDH["hasRightsHolder"], URIRef("https://d-nb.info/gnd/2060831-7")))
     g.add((uri, ACDH["hasDepositor"], URIRef("https://d-nb.info/gnd/13140007X")))
     g.add((uri, ACDH["hasMetadataCreator"], URIRef("https://d-nb.info/gnd/1043833846")))
+
 g.serialize(os.path.join(TO_INGEST, "arche.ttl"))
