@@ -47,3 +47,6 @@
 <https://d-nb.info/gnd/13140007X> a acdh:Person ;
     acdh:hasFirstName "Peter"@de ;
     acdh:hasLastName "Rauscher"@de .
+
+<https://d-nb.info/gnd/2060831-7> a acdh:Organisation ;
+    acdh:hasTitle "Wiener Stadt- und Landesarchiv"@de .

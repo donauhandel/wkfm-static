@@ -1,0 +1,26 @@
+name: ARCHE-Metadata-Ingest
+
+on:
+  workflow_dispatch
+
+jobs:
+  build_pages:
+    name: Ingest Data into ARCHE
+    runs-on: ubuntu-latest
+    env:
+      ARCHE_USER: pandorfer
+      ARCHE_PASSWORD: ${{secrets.ARCHE_PASSWORD}}
+      ARCHE: https://arche-curation.acdh-dev.oeaw.ac.at/api
+      TOPCOLID: https://id.acdh.oeaw.ac.at/wmp1
+    steps:
+    - name: Perform Checkout
+      uses: actions/checkout@v4
+    - name: install python things
+      run: pip install -r requirements.txt
+    - name: Fetch the data
+      run: ./fetch_data.sh
+    - name: create arche metadata
+      run: python arche/make_metadata.py
+    - name: run metadata import
+      run: ./arche/arche__ingest_md.sh
+    
