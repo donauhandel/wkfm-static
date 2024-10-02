@@ -8,6 +8,7 @@
     acdh:hasDescription "TEI/XML codierte Transkription des ersten Wiener Merkantilprotokolls (Wiener Stadt- und Landesarchiv, Bestand 2.3.2 – Merkantil- und Wechselgericht B6.1) samt Fakismiles."@de ;
     acdh:hasTemporalCoverage "Neuzeit"@und;
     acdh:hasSubject "Edition"@de;
+    acdh:hasUrl "https://wmp1.acdh.oeaw.ac.at/" ;
     acdh:hasCoverageStartDate "1725-01-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
     acdh:hasCoverageEndDate "1758-12-31"^^<http://www.w3.org/2001/XMLSchema#date> ;
     acdh:hasCreatedStartDate "2021-04-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
