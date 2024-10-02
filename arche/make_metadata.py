@@ -1,10 +1,8 @@
 import glob
 import os
 import shutil
-from datetime import datetime
-from AcdhArcheAssets.uri_norm_rules import get_normalized_uri
 from acdh_tei_pyutils.tei import TeiReader
-from acdh_tei_pyutils.utils import normalize_string, make_entity_label, nsmap, get_xmlid
+from acdh_tei_pyutils.utils import normalize_string
 from rdflib import Graph, Namespace, URIRef, RDF, Literal, XSD
 from tqdm import tqdm
 
@@ -132,5 +130,10 @@ for i, x in enumerate(tqdm(sorted(files), total=len(files)), start=1):
     g.add((uri, ACDH["hasRightsHolder"], URIRef("https://d-nb.info/gnd/2060831-7")))
     g.add((uri, ACDH["hasDepositor"], URIRef("https://d-nb.info/gnd/13140007X")))
     g.add((uri, ACDH["hasMetadataCreator"], URIRef("https://d-nb.info/gnd/1043833846")))
+    if i == len(files):
+        pass
+    else:
+        next_numb = f"{i + 1:04}"
+        g.add((uri, ACDH["hasNextItem"], URIRef(f"{ID}/{IMG_NAME}{next_numb}.jpeg")))
 
 g.serialize(os.path.join(TO_INGEST, "arche.ttl"))
