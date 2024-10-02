@@ -1,9 +1,15 @@
 import glob
 import os
 import shutil
+
 from acdh_tei_pyutils.tei import TeiReader
 from acdh_tei_pyutils.utils import normalize_string
-from rdflib import Graph, Namespace, URIRef, RDF, Literal, XSD
+from rdflib import RDF
+from rdflib import XSD
+from rdflib import Graph
+from rdflib import Literal
+from rdflib import Namespace
+from rdflib import URIRef
 from tqdm import tqdm
 
 IMG_NAME = (
@@ -52,9 +58,9 @@ for x in tqdm(files, total=len(files)):
 
 
 print("processing data/editions")
-files = glob.glob("data/editions/*.xml")
+files = sorted(glob.glob("data/editions/*.xml"))
 files = files[:20]
-for i, x in enumerate(tqdm(sorted(files), total=len(files)), start=1):
+for i, x in enumerate(tqdm(files, total=len(files)), start=1):
     fname = os.path.split(x)[-1]
     shutil.copyfile(x, os.path.join(TO_INGEST, fname))
     doc = TeiReader(x)
@@ -99,8 +105,7 @@ for x in COL_URIS:
 
 g.parse("arche/title_image.ttl")
 
-files = files[:20]
-for i, x in enumerate(tqdm(sorted(files), total=len(files)), start=1):
+for i, x in enumerate(tqdm(files, total=len(files)), start=1):
     cur_numb = f"{i:04}"
     uri = URIRef(f"{ID}/{IMG_NAME}{cur_numb}.jpeg")
     g.add((uri, RDF.type, ACDH["Resource"]))
