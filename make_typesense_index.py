@@ -9,7 +9,7 @@ from tqdm import tqdm
 from typesense.api_call import ObjectNotFound
 
 files = glob.glob("./data/editions/*.xml")
-tag_blacklist = ["{http://www.tei-c.org/ns/1.0}abbr"]
+tag_blacklist = ["{http://www.tei-c.org/ns/1.0}abbr", "{http://www.tei-c.org/ns/1.0}del"]
 
 
 try:
