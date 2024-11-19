@@ -31,7 +31,7 @@
         <xsl:value-of select=".//tei:titleStmt/tei:title[1]/text()"/>
     </xsl:variable>
     <xsl:variable name="facs-url">
-        <xsl:value-of select="data(.//tei:pb[1]/@corresp)"/>
+        <xsl:value-of select="data(.//tei:graphic[1]/@n)"/>
     </xsl:variable>
 
     <xsl:template match="/">
@@ -132,7 +132,7 @@
                 </main>
                 <xsl:call-template name="html_footer"/>                
                 <script type="text/javascript">
-                    var source = "<xsl:value-of select="concat($facs-url, '?format=iiif')"/>";
+                    var source = "<xsl:value-of select="$facs-url"/>";
                     var viewer = OpenSeadragon({
                     id: "osd_viewer",
                     tileSources: {
