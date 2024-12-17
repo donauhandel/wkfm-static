@@ -99,7 +99,7 @@ files = sorted(glob.glob("data/editions/*.xml"))
 for i, x in enumerate(tqdm(files, total=len(files)), start=1):
     doc = TeiReader(x)
     img_id = doc.any_xpath(".//tei:graphic/@url")[0]
-    doc_id = img_id.replace(".jpg", ".xml")
+    doc_id = img_id.replace(".jpg", ".xml").replace("/wkfm/", "/wmp1/")
     uri = URIRef(img_id)
     page_nr = img_id.split("-")[-1]
 
@@ -129,7 +129,7 @@ for i, x in enumerate(tqdm(files, total=len(files)), start=1):
     g.add((uri, ACDH["hasMetadataCreator"], URIRef("https://d-nb.info/gnd/1043833846")))
     try:
         next = doc.any_xpath("/tei:TEI")[0].attrib["next"]
-        g.add((uri, ACDH["hasNextItem"], URIRef(f"{next.replace('.xml', '.jpg')}")))
+        g.add((uri, ACDH["hasNextItem"], URIRef(f"{next.replace('.xml', '.jpg').replace("/wkfm/", "/wmp1/")}")))
     except KeyError:
         pass
 
