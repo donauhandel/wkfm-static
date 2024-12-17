@@ -27,4 +27,8 @@ jobs:
       run: python arche/make_metadata.py
     - name: run metadata import
       run: ./arche/arche__ingest_md.sh
+    - uses: actions/upload-artifact@v4
+      with:
+        name: filechecker-report
+        path: to_ingest/arche.ttl
     
