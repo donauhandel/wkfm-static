@@ -31,7 +31,7 @@
         <xsl:value-of select=".//tei:titleStmt/tei:title[1]/text()"/>
     </xsl:variable>
     <xsl:variable name="facs-url">
-        <xsl:value-of select="data(.//tei:graphic[1]/@n)"/>
+        <xsl:value-of select="data(.//tei:pb[1]/@source)"/>
     </xsl:variable>
 
     <xsl:template match="/">
