@@ -12,15 +12,13 @@ from rdflib import Namespace
 from rdflib import URIRef
 from tqdm import tqdm
 
-IMG_NAME = (
-    "Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_"
-)
 
 g = Graph().parse("arche/arche_constants.ttl")
 ACDH = Namespace("https://vocabs.acdh.oeaw.ac.at/schema#")
 G_REPO_OBJECTS = Graph().parse("arche/repo_objects_constants.ttl")
 ID = Namespace("https://id.acdh.oeaw.ac.at/wmp1")
 TO_INGEST = "to_ingest"
+OUTFILE = os.path.join(TO_INGEST, "arche.ttl")
 
 shutil.rmtree(TO_INGEST, ignore_errors=True)
 os.makedirs(TO_INGEST, exist_ok=True)
@@ -29,48 +27,39 @@ shutil.copy("html/images/wstla__mkp.jpg", "to_ingest/title-img.jpg")
 print("processing data/indices")
 files = glob.glob("data/indices/*.xml")
 for x in tqdm(files, total=len(files)):
-    if "siglen" in x:
-        continue
-    else:
-        fname = os.path.split(x)[-1]
-        shutil.copyfile(x, os.path.join(TO_INGEST, fname))
-        doc = TeiReader(x)
-        uri = URIRef(f"{ID}/{fname}")
-        g.add((uri, RDF.type, ACDH["Resource"]))
-        g.add((uri, ACDH["isPartOf"], URIRef(f"{ID}/indices")))
-        g.add((uri, ACDH["hasIdentifier"], URIRef(f"{ID}/{fname}")))
-        g.add(
-            (
-                uri,
-                ACDH["hasCategory"],
-                URIRef("https://vocabs.acdh.oeaw.ac.at/archecategory/text/tei"),
-            )
+    fname = os.path.split(x)[-1]
+    shutil.copyfile(x, os.path.join(TO_INGEST, fname))
+    doc = TeiReader(x)
+    uri = URIRef(f"{ID}/{fname}")
+    g.add((uri, RDF.type, ACDH["Resource"]))
+    g.add((uri, ACDH["isPartOf"], URIRef(f"{ID}/indices")))
+    g.add((uri, ACDH["hasIdentifier"], URIRef(f"{ID}/{fname}")))
+    g.add(
+        (
+            uri,
+            ACDH["hasCategory"],
+            URIRef("https://vocabs.acdh.oeaw.ac.at/archecategory/text/tei"),
         )
-        try:
-            has_title = normalize_string(
-                doc.any_xpath(".//tei:titleStmt[1]/tei:title[@type='main']/text()")[0]
-            )
-        except IndexError:
-            has_title = normalize_string(
-                doc.any_xpath(".//tei:titleStmt[1]/tei:title[1]/text()")[0]
-            )
-        g.add((uri, ACDH["hasTitle"], Literal(has_title, lang="de")))
+    )
+    try:
+        has_title = normalize_string(
+            doc.any_xpath(".//tei:titleStmt[1]/tei:title[@type='main']/text()")[0]
+        )
+    except IndexError:
+        has_title = normalize_string(
+            doc.any_xpath(".//tei:titleStmt[1]/tei:title[1]/text()")[0]
+        )
+    g.add((uri, ACDH["hasTitle"], Literal(has_title, lang="de")))
 
 
 print("processing data/editions")
 files = sorted(glob.glob("data/editions/*.xml"))
-files = files[:20]
+files = files
 for i, x in enumerate(tqdm(files, total=len(files)), start=1):
     fname = os.path.split(x)[-1]
     shutil.copyfile(x, os.path.join(TO_INGEST, fname))
     doc = TeiReader(x)
     uri = URIRef(f"{ID}/{fname}")
-    try:
-        pid = doc.any_xpath(".//tei:idno[@type='handle']/text()")[0]
-    except IndexError:
-        pid = "XXXX"
-    if pid.startswith("http"):
-        g.add((uri, ACDH["hasPid"], Literal(pid)))
     g.add((uri, RDF.type, ACDH["Resource"]))
     url = f"https://wmp1.acdh.oeaw.ac.at/{fname.replace('.xml', '.html')}"
     g.add((uri, ACDH["hasUrl"], Literal(url, datatype=XSD.anyURI)))
@@ -105,15 +94,18 @@ for x in COL_URIS:
 
 g.parse("arche/title_image.ttl")
 
+print("processing images")
+files = sorted(glob.glob("data/editions/*.xml"))
 for i, x in enumerate(tqdm(files, total=len(files)), start=1):
-    cur_numb = f"{i:04}"
-    uri = URIRef(f"{ID}/{IMG_NAME}{cur_numb}.jpeg")
+    doc = TeiReader(x)
+    img_id = doc.any_xpath(".//tei:graphic/@url")[0]
+    doc_id = img_id.replace(".jpg", ".xml")
+    uri = URIRef(img_id)
+    page_nr = img_id.split("-")[-1]
+
     g.add((uri, RDF.type, ACDH["Resource"]))
-    g.add((uri, ACDH["isSourceOf"], URIRef(f"{ID}/wkfm-{cur_numb}.xml")))
-    title = f"""WSTLA, {uri.split("/")[-1]
-                        .replace("_", " ")
-                        .replace("Reihe  Reihe", "Reihe")
-                        .replace("Merkantilprotokoll 1 ", "Merkantilprotokoll 1, ")}"""
+    g.add((uri, ACDH["isSourceOf"], URIRef(doc_id)))
+    title = f"WSTLA, Bestand 2.3.2 – Merkantil- und Wechselgericht B6.1, Bild Nr. {page_nr}"
     g.add((uri, ACDH["hasTitle"], Literal(title, lang="de")))
     g.add((uri, ACDH["isPartOf"], URIRef(f"{ID}/facs")))
     g.add(
@@ -135,10 +127,11 @@ for i, x in enumerate(tqdm(files, total=len(files)), start=1):
     g.add((uri, ACDH["hasRightsHolder"], URIRef("https://d-nb.info/gnd/2060831-7")))
     g.add((uri, ACDH["hasDepositor"], URIRef("https://d-nb.info/gnd/13140007X")))
     g.add((uri, ACDH["hasMetadataCreator"], URIRef("https://d-nb.info/gnd/1043833846")))
-    if i == len(files):
+    try:
+        next = doc.any_xpath("/tei:TEI")[0].attrib["next"]
+        g.add((uri, ACDH["hasNext"], URIRef(f"{next.replace('.xml', '.jpg')}")))
+    except KeyError:
         pass
-    else:
-        next_numb = f"{i + 1:04}"
-        g.add((uri, ACDH["hasNextItem"], URIRef(f"{ID}/{IMG_NAME}{next_numb}.jpeg")))
 
-g.serialize(os.path.join(TO_INGEST, "arche.ttl"))
+print(f"saving graph into {OUTFILE}")
+g.serialize(OUTFILE)
