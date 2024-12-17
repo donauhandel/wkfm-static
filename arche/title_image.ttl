@@ -17,7 +17,7 @@
 
 
 <https://id.acdh.oeaw.ac.at/wmp1/facs> a acdh:Collection ;
-    acdh:hasNextItem <https://id.acdh.oeaw.ac.at/wmp1/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0001.jpeg> ;
+    acdh:hasNextItem <https://id.acdh.oeaw.ac.at/wmp1/wkfm-0001.jpg> ;
     acdh:hasTitle "Fakismiles von: Wiener Stadt- und Landesarchiv (WStLA), Bestand 2.3.2 - Merkantil- und Wechselgericht"@de ;
     acdh:hasPid "https://hdl.handle.net/21.11115/0000-0012-F713-0";
     acdh:hasDescription "Diese Sammlung enthält die Scans des ersten Wiener Merkantilprotokolls, angefertigt vom Wiener Stadt- und Landesarchiv"@de ;
