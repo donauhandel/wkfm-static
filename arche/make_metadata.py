@@ -129,7 +129,7 @@ for i, x in enumerate(tqdm(files, total=len(files)), start=1):
     g.add((uri, ACDH["hasMetadataCreator"], URIRef("https://d-nb.info/gnd/1043833846")))
     try:
         next = doc.any_xpath("/tei:TEI")[0].attrib["next"]
-        g.add((uri, ACDH["hasNext"], URIRef(f"{next.replace('.xml', '.jpg')}")))
+        g.add((uri, ACDH["hasNextItem"], URIRef(f"{next.replace('.xml', '.jpg')}")))
     except KeyError:
         pass
 
