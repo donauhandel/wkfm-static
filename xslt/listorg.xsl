@@ -57,7 +57,7 @@
                                     </tr>
                                 </thead>
                                 <tbody>
-                                    <xsl:for-each select=".//tei:org">
+                                    <xsl:for-each select=".//tei:org[./tei:noteGrp]">
                                         <xsl:variable name="id">
                                             <xsl:value-of select="data(@xml:id)"/>
                                         </xsl:variable>
