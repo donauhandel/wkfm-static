@@ -14,7 +14,9 @@ unzip main
 mv ./krems-data-main/data/indices/ ./data
 rm main.zip
 rm -rf ./krems-data-main
+python add_iso_dates.py
 
+echo "adding xml-ids"
 add-attributes -g "data/editions/*.xml" -b "https://id.acdh.oeaw.ac.at/wkfm"
 python fix_entity_types.py
 denormalize-indices -f "./data/editions/*.xml" -i "./data/indices/*.xml" -m ".//*[@ref]/@ref" -x ".//tei:titleStmt/tei:title[1]/text()"
