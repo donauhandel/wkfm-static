@@ -115,7 +115,7 @@ for x in tqdm(items, total=len(items)):
 
     # residences
 
-    for y in x.xpath(".//tei:residence/tei:placeName", namespaces=NSMAP):
+    for y in x.xpath(".//tei:residence/tei:placeName[@key]", namespaces=NSMAP):
         place_id = check_for_hash(y.attrib["key"])
         place_uri = URIRef(f"{domain}{place_id}")
         g.add((subj, CIDOC["P74_has_current_or_former_residence"], place_uri))
