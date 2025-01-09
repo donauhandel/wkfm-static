@@ -13,6 +13,8 @@ from rdflib.namespace import RDF
 
 from config import OUT_FILE, SARI, PU
 
+print("serializing PLACES")
+
 
 g = Graph()
 g.bind("sari", SARI)
@@ -40,7 +42,6 @@ for x in tqdm(items, total=len(items)):
     item_id = f"{PU}{xml_id}"
     subj = URIRef(item_id)
     g.add((subj, RDF.type, CIDOC["E53_Place"]))
-    print(subj)
 
     # ids
     g += make_e42_identifiers(
@@ -59,5 +60,5 @@ for x in tqdm(items, total=len(items)):
     g += coordinates_to_p168(subj, x)
 
 
-print(f"saving graph as {OUT_FILE}")
+print(f"saving {entity_type}-graph as {OUT_FILE}")
 g.serialize(OUT_FILE)

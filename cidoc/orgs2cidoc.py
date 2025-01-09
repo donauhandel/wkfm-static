@@ -13,11 +13,14 @@ from rdflib.namespace import RDF
 
 from config import OUT_FILE, SARI, PU
 
+print("serializing ORGS")
+rdf_dir = "./datasets"
+os.makedirs(rdf_dir, exist_ok=True)
+
 
 g = Graph()
 g.bind("sari", SARI)
 g.bind("crm", CIDOC)
-g.parse(OUT_FILE)
 
 
 if os.environ.get("NO_LIMIT"):
@@ -40,7 +43,6 @@ for x in tqdm(items, total=len(items)):
     item_id = f"{PU}{xml_id}"
     subj = URIRef(item_id)
     g.add((subj, RDF.type, CIDOC["E74_Group"]))
-    print(subj)
 
     # ids
     g += make_e42_identifiers(
@@ -62,5 +64,5 @@ for x in tqdm(items, total=len(items)):
         g.add((subj, CIDOC["P74_has_current_or_former_residence"], URIRef(f"{PU}{y}")))
 
 
-print(f"saving graph as {OUT_FILE}")
+print(f"saving {entity_type}-graph as {OUT_FILE}")
 g.serialize(OUT_FILE)

@@ -18,10 +18,12 @@ from rdflib.namespace import RDF, RDFS
 
 from config import OUT_FILE, SARI, PU, domain
 
+print("serializing PERSONS")
 
 g = Graph()
 g.bind("sari", SARI)
 g.bind("crm", CIDOC)
+g.parse(OUT_FILE)
 
 
 if os.environ.get("NO_LIMIT"):
@@ -30,13 +32,8 @@ if os.environ.get("NO_LIMIT"):
 else:
     LIMIT = 1000
 
-rdf_dir = "./datasets"
-os.makedirs(rdf_dir, exist_ok=True)
-
 index_file = os.path.join("data", "indices", "listperson.xml")
 entity_type = "person"
-
-
 doc = TeiReader(index_file)
 items = doc.any_xpath(f".//tei:{entity_type}[@xml:id]")
 if LIMIT:
@@ -142,5 +139,5 @@ for x in doc.any_xpath(".//tei:relation"):
         g.add((source_uri, CIDOC["P152_has_parent"], target_uri))
 
 
-print(f"saving graph as {OUT_FILE}")
+print(f"saving {entity_type}-graph as {OUT_FILE}")
 g.serialize(OUT_FILE)
