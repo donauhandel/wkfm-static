@@ -98,6 +98,7 @@ for x in tqdm(items, total=len(items)):
     # occupations
     g += make_occupations(subj, x)[0]
 
+    # birth/death places
     for y in x.xpath(".//tei:residence[@type='Geburtsort']/tei:placeName", namespaces=NSMAP):
         place_id = check_for_hash(y.attrib["key"])
         place_uri = URIRef(f"{domain}{place_id}")
@@ -107,6 +108,15 @@ for x in tqdm(items, total=len(items)):
         place_id = check_for_hash(y.attrib["key"])
         place_uri = URIRef(f"{domain}{place_id}")
         g.add((URIRef(f"{subj}/death"), CIDOC["P7_took_place_at"], place_uri))
+    
+    # residences
+
+    for y in x.xpath(".//tei:residence/tei:placeName", namespaces=NSMAP):
+        place_id = check_for_hash(y.attrib["key"])
+        place_uri = URIRef(f"{domain}{place_id}")
+        g.add(
+            (subj, CIDOC["P74_has_current_or_former_residence"], place_uri)
+        )
 
 
 for x in doc.any_xpath(".//tei:relation"):
