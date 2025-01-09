@@ -79,10 +79,8 @@ for x in tqdm(items, total=len(items)):
         x,
         f"{PU}place__",
         event_type="birth",
-        verbose=True,
         default_prefix="Geburt von",
         date_node_xpath="/tei:date[1]",
-        place_id_xpath="//tei:settlement[1]/@key",
     )
     g += event_graph
 
@@ -92,15 +90,24 @@ for x in tqdm(items, total=len(items)):
         x,
         f"{PU}place__",
         event_type="death",
-        verbose=True,
         default_prefix="Tod von",
         date_node_xpath="/tei:date[1]",
-        place_id_xpath="//tei:settlement[1]/@key",
     )
     g += event_graph
 
     # occupations
     g += make_occupations(subj, x)[0]
+
+    for y in x.xpath(".//tei:residence[@type='Geburtsort']/tei:placeName", namespaces=NSMAP):
+        place_id = check_for_hash(y.attrib["key"])
+        place_uri = URIRef(f"{domain}{place_id}")
+        g.add((URIRef(f"{subj}/birth"), CIDOC["P7_took_place_at"], place_uri))
+
+    for y in x.xpath(".//tei:residence[@type='Sterbeort']/tei:placeName", namespaces=NSMAP):
+        place_id = check_for_hash(y.attrib["key"])
+        place_uri = URIRef(f"{domain}{place_id}")
+        g.add((URIRef(f"{subj}/death"), CIDOC["P7_took_place_at"], place_uri))
+
 
 for x in doc.any_xpath(".//tei:relation"):
     rel_type = slugify(x.attrib["name"])
