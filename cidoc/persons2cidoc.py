@@ -7,7 +7,7 @@ from acdh_cidoc_pyutils import (
     make_birth_death_entities,
     make_affiliations,
     make_entity_label,
-    # make_occupations,
+    make_occupations,
 )
 from acdh_xml_pyutils.xml import NSMAP
 from acdh_cidoc_pyutils.namespaces import CIDOC
@@ -16,9 +16,11 @@ from acdh_tei_pyutils.utils import get_xmlid, check_for_hash
 from rdflib import Graph, Namespace, URIRef, Literal
 from rdflib.namespace import RDF, RDFS
 
-SARI = Namespace("http://w3id.org/sari")
+SARI = Namespace("http://w3id.org/sari#")
 
 g = Graph()
+g.bind("sari", SARI)
+g.bind("crm", CIDOC)
 domain = "https://wmp1.acdh.oeaw.ac.at/"
 PU = Namespace(domain)
 
@@ -98,16 +100,19 @@ for x in tqdm(items, total=len(items)):
     g += event_graph
 
     # occupations
-    # g += make_occupations(subj, x, id_xpath="./@type")[0]
+    g += make_occupations(subj, x)[0]
 
 for x in doc.any_xpath(".//tei:relation"):
     rel_type = slugify(x.attrib["name"])
     source = check_for_hash(x.attrib["active"])
-    target = check_for_hash(x.attrib["passive"])
+    target = check_for_hash(x.attrib["passiv"])
     label = x.attrib["name"]
     relation_class = URIRef(f"{domain}srpc3/{source}/{rel_type}/{target}")
     relation_type = URIRef(f"{domain}srpc3/{rel_type}")
-    source_uri = URIRef(f"{domain}{target}")
+    g.add(
+        (relation_type, RDF.type, CIDOC["E55_Type"])
+    )
+    source_uri = URIRef(f"{domain}{source}")
     target_uri = URIRef(f"{domain}{target}")
     g.add(
         (relation_class, RDF.type, SARI["SRPC3_in_social_relation"])
@@ -116,7 +121,7 @@ for x in doc.any_xpath(".//tei:relation"):
         (relation_class, RDFS.label, Literal(label, lang="de"))
     )
     g.add(
-        (relation_class, SARI["SRP3.1_had_relation_type"], relation_type)
+        (relation_class, SARI["SRP3_relation_type"], relation_type)
     )
     g.add(
         (relation_class, CIDOC["P01_has_domain"], source_uri)
@@ -124,9 +129,15 @@ for x in doc.any_xpath(".//tei:relation"):
     g.add(
         (relation_class, CIDOC["P02_has_range"], target_uri)
     )
-    
-    print(rel_type)
+    if rel_type in ["vater-von", "mutter-von"]:
+        g.add(
+            (target_uri, CIDOC["P152_has_parent"], source_uri)
+        )
+    if rel_type in ["kind-von"]:
+        g.add(
+            (source_uri, CIDOC["P152_has_parent"], target_uri)
+        )
 
-# save_path = os.path.join(rdf_dir, f"wmp1_{entity_type}.ttl")
-# print(f"saving graph as {save_path}")
-# g.serialize(save_path)
+save_path = os.path.join(rdf_dir, f"wmp1_{entity_type}.ttl")
+print(f"saving graph as {save_path}")
+g.serialize(save_path)
