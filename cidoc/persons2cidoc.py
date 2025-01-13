@@ -27,7 +27,7 @@ g.parse(OUT_FILE)
 
 
 if os.environ.get("NO_LIMIT"):
-    LIMIT = 10
+    LIMIT = False
     print("no limit")
 else:
     LIMIT = 1000
