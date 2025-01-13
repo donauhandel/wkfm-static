@@ -1,6 +1,7 @@
 import os
-from slugify import slugify
+from rdflib import Graph, URIRef, RDF
 from tqdm import tqdm
+from slugify import slugify
 from acdh_cidoc_pyutils import (
     make_e42_identifiers,
     make_appellations,
@@ -8,13 +9,12 @@ from acdh_cidoc_pyutils import (
     make_affiliations,
     make_entity_label,
     make_occupations,
+    tei_relation_to_SRPC3_in_social_relation,
 )
 from acdh_xml_pyutils.xml import NSMAP
 from acdh_cidoc_pyutils.namespaces import CIDOC
 from acdh_tei_pyutils.tei import TeiReader
 from acdh_tei_pyutils.utils import get_xmlid, check_for_hash
-from rdflib import Graph, URIRef, Literal
-from rdflib.namespace import RDF, RDFS
 
 from config import OUT_FILE, SARI, PU, domain
 
@@ -27,7 +27,7 @@ g.parse(OUT_FILE)
 
 
 if os.environ.get("NO_LIMIT"):
-    LIMIT = False
+    LIMIT = 10
     print("no limit")
 else:
     LIMIT = 1000
@@ -118,25 +118,30 @@ for x in tqdm(items, total=len(items)):
         g.add((subj, CIDOC["P74_has_current_or_former_residence"], place_uri))
 
 
+lookup_dict = {
+    "kind-von": "Is-child-of",
+    "mutter-von": "Is-parent-of",
+    "cousin-von": "Is-cousin-of",
+    "schwiegersohn-von": "Is-child-in-law-of",
+    "stiefsohn-von": "Is-stepchild-of",
+    "schwiegervater-von": "Is-parent-in-law-of",
+    "neffe-von": "Is-nephew-niece-of",
+    "schwager-von": "Is-related-by-marriage-to",
+    "bruder-von": "Is-sibling-of",
+    "enkel-von": "Is-grandchild-of",
+    "vater-von": "Is-parent-of",
+    "onkel-von": "Is-uncle-aunt-of",
+    "schwagerin-von": "Is-related-by-marriage-to",
+    "schwester-von": "Is-sibling-of",
+    "schwiegermutter-von": "Is-parent-in-law-of",
+    "grossmutter-von": "Is-grandparent-of",
+    "grossvater-von": "Is-grandparent-of",
+    "stiefvater-von": "Is-stepparent-of",
+    "schwiegertochter-von": "Is-child-in-law-of",
+}
+
 for x in doc.any_xpath(".//tei:relation"):
-    rel_type = slugify(x.attrib["name"])
-    source = check_for_hash(x.attrib["active"])
-    target = check_for_hash(x.attrib["passiv"])
-    label = x.attrib["name"]
-    relation_class = URIRef(f"{domain}srpc3/{source}/{rel_type}/{target}")
-    relation_type = URIRef(f"{domain}srpc3/{rel_type}")
-    g.add((relation_type, RDF.type, CIDOC["E55_Type"]))
-    source_uri = URIRef(f"{domain}{source}")
-    target_uri = URIRef(f"{domain}{target}")
-    g.add((relation_class, RDF.type, SARI["SRPC3_in_social_relation"]))
-    g.add((relation_class, RDFS.label, Literal(label, lang="de")))
-    g.add((relation_class, SARI["SRP3_relation_type"], relation_type))
-    g.add((relation_class, CIDOC["P01_has_domain"], source_uri))
-    g.add((relation_class, CIDOC["P02_has_range"], target_uri))
-    if rel_type in ["vater-von", "mutter-von"]:
-        g.add((target_uri, CIDOC["P152_has_parent"], source_uri))
-    if rel_type in ["kind-von"]:
-        g.add((source_uri, CIDOC["P152_has_parent"], target_uri))
+    g += tei_relation_to_SRPC3_in_social_relation(x, domain=domain, lookup_dict=lookup_dict)
 
 
 print(f"saving {entity_type}-graph as {OUT_FILE}")
