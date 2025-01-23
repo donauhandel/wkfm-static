@@ -5,6 +5,8 @@
     version="2.0" exclude-result-prefixes="xsl tei xs">
     
     <xsl:template match="tei:person" name="person_detail">
+        <xsl:variable name="entId" select="@xml:id"/>
+        <xsl:variable name="entPointer" select="concat('#', $entId)"></xsl:variable>
         <table class="table entity-table">
             <tbody>
                 
@@ -66,6 +68,31 @@
                 <tr>
                     <th>bibliographische Angaben</th>
                     <td><xsl:value-of select="normalize-space(string-join(.//tei:bibl//text(), ' '))"/></td>
+                </tr>
+                <tr>
+                    <th>Familiäre Beziehungen</th>
+                    <td>
+                        <ul>
+                            <xsl:for-each select="root()//tei:relation[@active=$entPointer or @passive=$entPointer]">
+                                <xsl:variable name="relationParts" select="tokenize(@n, ' — ')"/>
+                                <li>
+                                    <a>
+                                        <xsl:attribute name="href">
+                                            <xsl:value-of select="concat(replace(@active, '#', ''), '.html')"/>
+                                        </xsl:attribute>
+                                        <xsl:value-of select="$relationParts[1]"/> 
+                                    </a>
+                                    — <xsl:value-of select="$relationParts[2]"/> — 
+                                    <a>
+                                        <xsl:attribute name="href">
+                                            <xsl:value-of select="concat(replace(@passive, '#', ''), '.html')"/>
+                                        </xsl:attribute>
+                                        <xsl:value-of select="$relationParts[3]"/> 
+                                    </a>
+                                </li>
+                            </xsl:for-each>
+                        </ul>
+                    </td>
                 </tr>
                 <tr>
                     <th>potentielle Doublette von</th>
