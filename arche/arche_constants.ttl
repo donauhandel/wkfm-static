@@ -4,8 +4,10 @@
 
 <https://id.acdh.oeaw.ac.at/wmp1> a acdh:TopCollection ;
     acdh:hasTitle "Das erste Wiener Merkantilprotokoll"@de ;
+    acdh:hasTitle "The first Vienna mercantile protocol"@en ;
     acdh:hasPid "https://hdl.handle.net/21.11115/0000-0012-F710-3" ;
-    acdh:hasDescription "TEI/XML codierte Transkription des ersten Wiener Merkantilprotokolls (Wiener Stadt- und Landesarchiv, Bestand 2.3.2 – Merkantil- und Wechselgericht B6.1) samt Fakismiles."@de ;
+    acdh:hasDescription """TEI/XML codierte Transkription des ersten Wiener Merkantilprotokolls (Wiener Stadt- und Landesarchiv, Bestand 2.3.2 – Merkantil- und Wechselgericht B6.1) samt Fakismiles."""@de ;
+    acdh:hasDescription """TEI/XML encoded transcription of the first Viennese merchant register (Vienna City and Provincial Archives, fonds 2.3.2 - Commercial and Exchange Court B6.1) including facsimiles and registers. The data was collected as part of the FWF-funded project (P35546) “Prosopographie der Wiener Kaufmannschaft (1725-1758)” by Peter Rauscher, Sandra Hoislbauer and Martin Kienbauer. The facsimiles were produced by the Vienna City and Provincial Archives on behalf of Peter Rauscher."""@en ;
     acdh:hasTemporalCoverage "Neuzeit"@und;
     acdh:hasSubject "Edition"@de;
     acdh:hasUrl "https://wmp1.acdh.oeaw.ac.at/" ;
@@ -22,7 +24,7 @@
 <https://id.acdh.oeaw.ac.at/wmp1/editions> a acdh:Collection ;
     acdh:hasTitle "Editionen"@de ;
     acdh:hasPid "https://hdl.handle.net/21.11115/0000-0012-F711-2";
-    acdh:hasDescription "TEI/XML Dokumente des Merkantilprotokolls"@de ;
+    acdh:hasDescription "TEI/XML Dokumente des Merkantilprotokolls."@de ;
     acdh:hasLanguage <https://vocabs.acdh.oeaw.ac.at/iso6393/deu> ;
     acdh:hasCoverageStartDate "1725-01-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
     acdh:hasCoverageEndDate "1758-12-31"^^<http://www.w3.org/2001/XMLSchema#date> ;
@@ -48,6 +50,14 @@
 <https://d-nb.info/gnd/13140007X> a acdh:Person ;
     acdh:hasFirstName "Peter"@de ;
     acdh:hasLastName "Rauscher"@de .
+
+<https://id.acdh.oeaw.ac.at/shoislbauer> a acdh:Person ;
+    acdh:hasFirstName "Sandra"@de ;
+    acdh:hasLastName "Hoislbauer"@de .
+
+<https://orcid.org/0000-0001-7081-2280> a acdh:Person ;
+    acdh:hasFirstName "Martin"@de ;
+    acdh:hasLastName "Kirnbauer"@de . 
 
 <https://d-nb.info/gnd/2060831-7> a acdh:Organisation ;
     acdh:hasTitle "Wiener Stadt- und Landesarchiv"@de .
