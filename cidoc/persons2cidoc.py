@@ -54,10 +54,11 @@ for x in tqdm(items, total=len(items)):
     affilliations = make_affiliations(
         subj,
         x,
-        f"{PU}org__",
+        f"{PU}",
         item_label,
         org_id_xpath="./tei:orgName/@key",
         org_label_xpath="./tei:orgName/text()",
+        add_org_object=True
     )
     g += affilliations
 
