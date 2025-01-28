@@ -3,3 +3,4 @@ acdh-cfts-pyutils
 rdflib
 acdh-arche-assets
 acdh-cidoc-pyutils
+pyocclient

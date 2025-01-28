@@ -1,7 +1,7 @@
 import os
+import glob
 from rdflib import Graph, URIRef, RDF
 from tqdm import tqdm
-from slugify import slugify
 from acdh_cidoc_pyutils import (
     make_e42_identifiers,
     make_appellations,
@@ -17,6 +17,10 @@ from acdh_tei_pyutils.tei import TeiReader
 from acdh_tei_pyutils.utils import get_xmlid, check_for_hash
 
 from config import OUT_FILE, SARI, PU, domain
+from utils import upload_files_to_owncloud
+
+user = os.environ["OWNCLOUD_USER"]
+pw = os.environ["OWNCLOUD_PW"]
 
 print("serializing PERSONS")
 
@@ -141,8 +145,13 @@ lookup_dict = {
 }
 
 for x in doc.any_xpath(".//tei:relation"):
-    g += tei_relation_to_SRPC3_in_social_relation(x, domain=domain, lookup_dict=lookup_dict)
+    g += tei_relation_to_SRPC3_in_social_relation(
+        x, domain=domain, lookup_dict=lookup_dict
+    )
 
 
 print(f"saving {entity_type}-graph as {OUT_FILE}")
-g.serialize(OUT_FILE)
+g.serialize(OUT_FILE, format="nt", encoding="utf-8")
+files = glob.glob("./datasets/*.nt")
+upload = upload_files_to_owncloud(files, user, pw, folder="pfp-data")
+print(upload)

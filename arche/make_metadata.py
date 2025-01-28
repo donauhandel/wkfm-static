@@ -105,7 +105,9 @@ for i, x in enumerate(tqdm(files, total=len(files)), start=1):
 
     g.add((uri, RDF.type, ACDH["Resource"]))
     g.add((uri, ACDH["isSourceOf"], URIRef(doc_id)))
-    title = f"WSTLA, Bestand 2.3.2 – Merkantil- und Wechselgericht B6.1, Bild Nr. {page_nr}"
+    title = (
+        f"WSTLA, Bestand 2.3.2 – Merkantil- und Wechselgericht B6.1, Bild Nr. {page_nr}"
+    )
     g.add((uri, ACDH["hasTitle"], Literal(title, lang="de")))
     g.add((uri, ACDH["isPartOf"], URIRef(f"{ID}/facs")))
     g.add(
@@ -129,7 +131,13 @@ for i, x in enumerate(tqdm(files, total=len(files)), start=1):
     g.add((uri, ACDH["hasMetadataCreator"], URIRef("https://d-nb.info/gnd/1043833846")))
     try:
         next = doc.any_xpath("/tei:TEI")[0].attrib["next"]
-        g.add((uri, ACDH["hasNextItem"], URIRef(f"{next.replace('.xml', '.jpg').replace("/wkfm/", "/wmp1/")}")))
+        g.add(
+            (
+                uri,
+                ACDH["hasNextItem"],
+                URIRef(f"{next.replace('.xml', '.jpg').replace("/wkfm/", "/wmp1/")}"),
+            )
+        )
     except KeyError:
         pass
 

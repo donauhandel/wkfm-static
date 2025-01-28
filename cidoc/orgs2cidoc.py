@@ -65,4 +65,4 @@ for x in tqdm(items, total=len(items)):
 
 
 print(f"saving {entity_type}-graph as {OUT_FILE}")
-g.serialize(OUT_FILE)
+g.serialize(OUT_FILE, format="nt", encoding="utf-8")
