@@ -1,4 +1,4 @@
-name: Delete data from ARCHE
+name: ARCHE-Delete
 
 on:
   workflow_dispatch
