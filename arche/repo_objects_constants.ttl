@@ -10,7 +10,7 @@
     acdh:hasRelatedDiscipline <https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/601> ;
     acdh:hasCreator <https://d-nb.info/gnd/13140007X> ;
     acdh:hasContributor <https://orcid.org/0000-0001-7081-2280> ; # mkirnbauer
-    acdh:hasContributor <https://id.acdh.oeaw.ac.at/shoislbauer> ;
+    # acdh:hasContributor <https://id.acdh.oeaw.ac.at/shoislbauer> ;
     acdh:hasContributor <https://d-nb.info/gnd/1043833846> ;
     acdh:hasCurator <https://d-nb.info/gnd/1043833846> ;
     acdh:hasDepositor <https://d-nb.info/gnd/13140007X> ;

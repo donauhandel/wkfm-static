@@ -56,9 +56,9 @@
     acdh:hasFirstName "Peter"@de ;
     acdh:hasLastName "Rauscher"@de .
 
-<https://id.acdh.oeaw.ac.at/shoislbauer> a acdh:Person ;
-    acdh:hasFirstName "Sandra"@de ;
-    acdh:hasLastName "Hoislbauer"@de .
+# <https://id.acdh.oeaw.ac.at/shoislbauer> a acdh:Person ;
+#     acdh:hasFirstName "Sandra"@de ;
+#     acdh:hasLastName "Hoislbauer"@de .
 
 <https://orcid.org/0000-0001-7081-2280> a acdh:Person ;
     acdh:hasFirstName "Martin"@de ;
