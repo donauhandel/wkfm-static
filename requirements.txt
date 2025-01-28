@@ -1,4 +1,5 @@
 acdh-tei-pyutils
 acdh-cfts-pyutils
 acdh-arche-assets
+acdh-cidoc-pyutils
 pyocclient
