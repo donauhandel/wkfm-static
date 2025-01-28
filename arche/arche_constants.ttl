@@ -6,7 +6,7 @@
     acdh:hasTitle "Das erste Wiener Merkantilprotokoll"@de ;
     acdh:hasTitle "The first Vienna mercantile protocol"@en ;
     acdh:hasPid "https://hdl.handle.net/21.11115/0000-0012-F710-3" ;
-    acdh:hasDescription """TEI/XML codierte Transkription des ersten Wiener Merkantilprotokolls (Wiener Stadt- und Landesarchiv, Bestand 2.3.2 – Merkantil- und Wechselgericht B6.1) samt Fakismiles."""@de ;
+    acdh:hasDescription """TEI/XML kodierte Transkription des ersten Wiener Merkantilprotokolls (Wiener Stadt- und Landesarchiv, Bestand 2.3.2 - Handels- und Wechselgericht B6.1) mit Faksimiles und Registern. Die Daten wurden im Rahmen des vom FWF geförderten Projekts (P35546) „Prosopographie der Wiener Kaufmannschaft (1725-1758)“ von Peter Rauscher, Sandra Hoislbauer und Martin Kienbauer erhoben. Die Faksimiles wurden vom Wiener Stadt- und Landesarchiv im Auftrag von Peter Rauscher erstellt."""@de ;
     acdh:hasDescription """TEI/XML encoded transcription of the first Viennese merchant register (Vienna City and Provincial Archives, fonds 2.3.2 - Commercial and Exchange Court B6.1) including facsimiles and registers. The data was collected as part of the FWF-funded project (P35546) “Prosopographie der Wiener Kaufmannschaft (1725-1758)” by Peter Rauscher, Sandra Hoislbauer and Martin Kienbauer. The facsimiles were produced by the Vienna City and Provincial Archives on behalf of Peter Rauscher."""@en ;
     acdh:hasTemporalCoverage "Neuzeit"@und;
     acdh:hasSubject "Edition"@de;
@@ -18,6 +18,11 @@
     acdh:hasLanguage <https://vocabs.acdh.oeaw.ac.at/iso6393/deu> ;
     acdh:hasRelatedDiscipline <https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/601016> ;
     acdh:hasRelatedDiscipline <https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/601009> ;
+    acdh:hasLicensor <https://d-nb.info/gnd/2060831-7> ;
+    acdh:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
+    acdh:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-nd-4-0> ;
+    acdh:hasOwner <https://d-nb.info/gnd/2060831-7> ;
+    acdh:hasRightsHolder <https://d-nb.info/gnd/2060831-7> ;
     acdh:hasRelatedDiscipline <https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/601> .
 
 
