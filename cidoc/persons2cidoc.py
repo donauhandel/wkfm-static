@@ -54,10 +54,11 @@ for x in tqdm(items, total=len(items)):
     affilliations = make_affiliations(
         subj,
         x,
-        f"{PU}org__",
+        f"{PU}",
         item_label,
         org_id_xpath="./tei:orgName/@key",
         org_label_xpath="./tei:orgName/text()",
+        add_org_object=True
     )
     g += affilliations
 
@@ -75,26 +76,34 @@ for x in tqdm(items, total=len(items)):
     )
 
     # birth
-    event_graph, birth_uri, birth_timestamp = make_birth_death_entities(
-        subj,
-        x,
-        f"{PU}place__",
-        event_type="birth",
-        default_prefix="Geburt von",
-        date_node_xpath="/tei:date[1]",
-    )
-    g += event_graph
+    try:
+        x.xpath(".//tei:birth/tei:date", namespaces=NSMAP)[0]
+        event_graph, birth_uri, birth_timestamp = make_birth_death_entities(
+            subj,
+            x,
+            f"{PU}place__",
+            event_type="birth",
+            default_prefix="Geburt von",
+            date_node_xpath="/tei:date[1]",
+        )
+        g += event_graph
+    except IndexError:
+        pass
 
     # death
-    event_graph, birth_uri, birth_timestamp = make_birth_death_entities(
-        subj,
-        x,
-        f"{PU}place__",
-        event_type="death",
-        default_prefix="Tod von",
-        date_node_xpath="/tei:date[1]",
-    )
-    g += event_graph
+    try:
+        x.xpath(".//tei:death/tei:date", namespaces=NSMAP)[0]
+        event_graph, birth_uri, birth_timestamp = make_birth_death_entities(
+            subj,
+            x,
+            f"{PU}place__",
+            event_type="death",
+            default_prefix="Tod von",
+            date_node_xpath="/tei:date[1]",
+        )
+        g += event_graph
+    except IndexError:
+        pass
 
     # occupations
     g += make_occupations(subj, x)[0]
