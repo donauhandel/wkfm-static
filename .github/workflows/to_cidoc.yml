@@ -7,6 +7,10 @@ jobs:
   to_cidoc:
     name: Serialize as CIDOC
     runs-on: ubuntu-latest
+    env:
+      OWNCLOUD_USER: ${{ secrets.OWNCLOUD_USER }}
+      OWNCLOUD_PW: ${{ secrets.OWNCLOUD_PW }}
+      RDF_FILE_NAME: wmp1.nt
     steps:
     - name: Perform Checkout
       uses: actions/checkout@v4
@@ -19,10 +23,16 @@ jobs:
     - name: Fetch the data
       run: ./fetch_data.sh
     - name: create cidoc data set
-      run: ./to_cidoc.sh
+      run: ./cidoc/build_graph.sh
     - uses: actions/upload-artifact@v4
       with:
-        name: wmp1.ttl
-        path: datasets/wmp1.ttl
+        name: ${{ env.RDF_FILE_NAME }}
+        path: datasets/${{ env.RDF_FILE_NAME }}
+    - name: validate cidoc data set
+      run: ./cidoc/validate.sh
+    - uses: actions/upload-artifact@v4
+      with:
+        name: validation_report.txt
+        path: datasets/validation_report.txt
     
     
