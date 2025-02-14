@@ -54,7 +54,7 @@
                         <div id="map"/>
                         <div class="text-center p-1">
                             <span id="counter1"/> von <span id="counter2"/>
-                            Personen
+                            Orte
                         </div>
                         <table class="table" id="myTable">
                             <thead>
