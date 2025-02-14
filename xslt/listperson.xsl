@@ -49,7 +49,10 @@
                             <div class="col-2"/>
                         </div>
                         
-                        <h2 class="text-center"><xsl:value-of select="count(.//tei:person[@xml:id])"/> Personen</h2>
+                        <div class="text-center p-1">
+                            <span id="counter1"/> von <span id="counter2"/>
+                            Personen
+                        </div>
                         <table class="table" id="myTable">
                             <thead>
                                 <tr>
