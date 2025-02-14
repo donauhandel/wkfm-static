@@ -30,6 +30,14 @@
                 <xsl:call-template name="nav_bar"/>
 
                 <main>
+                    <nav style="--bs-breadcrumb-divider: '>';" aria-label="breadcrumb" class="ps-5 p-3">
+                        <ol class="breadcrumb">
+                            <li class="breadcrumb-item">
+                                <a href="index.html">Merkantilprotokoll</a>
+                            </li>
+                            <li class="breadcrumb-item active" aria-current="page"><xsl:value-of select="$doc_title"/></li>
+                        </ol>
+                    </nav>
                     <div class="container pt-5 pb-5">
 
                         <h1 class="text-center display-3 pb-3">
@@ -61,7 +69,9 @@
                                         tabulator-visible="false">
                                         itemId
                                     </th>
-                                    <th scope="col" tabulator-headerFilter="input" tabulator-minWidth="250">Nachname</th>
+                                    <th scope="col" tabulator-visible="false" tabulator-download="true"
+                                        >Nachname_</th>
+                                    <th scope="col" tabulator-headerFilter="input" tabulator-formatter="html" tabulator-download="false" tabulator-minWidth="250">Nachname</th>
                                     <th scope="col" tabulator-headerFilter="input" tabulator-minWidth="250">Vorname</th>
                                     <th scope="col" tabulator-headerFilter="input">geboren</th>
                                     <th scope="col" tabulator-headerFilter="input">gestorben</th>
@@ -83,6 +93,12 @@
                                         </td>
                                         <td>
                                             <xsl:value-of select=".//tei:surname[1]/text()"/>
+                                        </td>
+                                        <td>
+                                            <a href="{$id || '.html'}">
+                                                <xsl:value-of select=".//tei:surname[1]/text()"/>
+                                            </a>
+                                            
                                         </td>
                                         <td>
                                             <xsl:value-of select=".//tei:forename[1]/text()"/>
@@ -136,6 +152,16 @@
                     <body class="d-flex flex-column h-100">
                         <xsl:call-template name="nav_bar"/>
                         <main>
+                            <nav style="--bs-breadcrumb-divider: '>';" aria-label="breadcrumb" class="ps-5 p-3">
+                                <ol class="breadcrumb">
+                                    <li class="breadcrumb-item">
+                                        <a href="index.html">Merkantilprotokoll</a>
+                                    </li>
+                                    <li class="breadcrumb-item">
+                                        <a href="listperson.html"><xsl:value-of select="$doc_title"/></a>
+                                    </li>
+                                </ol>
+                            </nav>
                             <div class="container pt-5 pb-5">
                                 <h1 class="text-center display-3 pb-3">
                                     <xsl:value-of select="$name"/>

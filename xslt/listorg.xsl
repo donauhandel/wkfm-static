@@ -29,6 +29,14 @@
             <body class="d-flex flex-column h-100">
                 <xsl:call-template name="nav_bar"/>
                     <main>
+                        <nav style="--bs-breadcrumb-divider: '>';" aria-label="breadcrumb" class="ps-5 p-3">
+                            <ol class="breadcrumb">
+                                <li class="breadcrumb-item">
+                                    <a href="index.html">Merkantilprotokoll</a>
+                                </li>
+                                <li class="breadcrumb-item active" aria-current="page"><xsl:value-of select="$doc_title"/></li>
+                            </ol>
+                        </nav>
                         <div class="container pt-5 pb-5">                        
                             <h1 class="text-center display-3 pb-3">
                                 <xsl:value-of select="$doc_title"/>
@@ -45,12 +53,17 @@
                                 </div>
                                 <div class="col-2"/>
                             </div>
-                            <h2 class="text-center"><xsl:value-of select="count(.//tei:org[@xml:id])"/> Firmen</h2>
+                            <div class="text-center p-1">
+                                <span id="counter1"/> von <span id="counter2"/>
+                                Firmen
+                            </div>
                             <table class="table" id="myTable">
                                 <thead>
                                     <tr>
                                         <th scope="col" width="20" tabulator-headerSort="false" tabulator-download="false" tabulator-visible="false">itemId</th>
-                                        <th scope="col" tabulator-formatter="html" tabulator-headerFilter="input" tabulator-minWidth="250">Name</th>
+                                        <th scope="col" tabulator-formatter="html" tabulator-download="false" tabulator-headerFilter="input" tabulator-minWidth="250">Name</th>
+                                        <th scope="col" tabulator-visible="false" tabulator-download="true"
+                                            >Nachname_</th>
                                         <th scope="col" tabulator-headerFilter="input">Erwähnungen</th>
                                         <th scope="col" tabulator-headerFilter="input">Beteiligte</th>
                                         <th scope="col" tabulator-headerFilter="input">ID</th>
@@ -64,6 +77,11 @@
                                         <tr>
                                             <td>
                                                 <xsl:value-of select="concat($id, '.html')"/>
+                                            </td>
+                                            <td>
+                                                <a href="{$id || '.html'}">
+                                                    <xsl:value-of select=".//tei:orgName[1]/text()"/>
+                                                </a>
                                             </td>
                                             <td>
                                                 <xsl:value-of select=".//tei:orgName[1]/text()"/>
@@ -101,6 +119,16 @@
                     <body class="d-flex flex-column h-100">
                         <xsl:call-template name="nav_bar"/>
                         <main>
+                            <nav style="--bs-breadcrumb-divider: '>';" aria-label="breadcrumb" class="ps-5 p-3">
+                                <ol class="breadcrumb">
+                                    <li class="breadcrumb-item">
+                                        <a href="index.html">Merkantilprotokoll</a>
+                                    </li>
+                                    <li class="breadcrumb-item">
+                                        <a href="listorg.html"><xsl:value-of select="$doc_title"/></a>
+                                    </li>
+                                </ol>
+                            </nav>
                             <div class="container pt-5 pb-5">
                                 <h1 class="text-center display-3 pb-3">
                                     <xsl:value-of select="$name"/>

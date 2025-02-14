@@ -49,6 +49,17 @@
             <body class="d-flex flex-column h-100">
                 <xsl:call-template name="nav_bar"/>
                 <main class="flex-shrink-0">
+                    <nav style="--bs-breadcrumb-divider: '>';" aria-label="breadcrumb"
+                        class="ps-5 p-3">
+                        <ol class="breadcrumb">
+                            <li class="breadcrumb-item">
+                                <a href="index.html">Merkantilprotokoll</a>
+                            </li>
+                            <li class="breadcrumb-item">
+                                <a href="toc.html">Übersicht</a>
+                            </li>
+                        </ol>
+                    </nav>
                     <div class="container pt-5 pb-5">
 
                         <div class="row">

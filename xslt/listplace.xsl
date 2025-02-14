@@ -30,6 +30,14 @@
             <body class="d-flex flex-column h-100">
                 <xsl:call-template name="nav_bar"/>
                 <main>
+                    <nav style="--bs-breadcrumb-divider: '>';" aria-label="breadcrumb" class="ps-5 p-3">
+                        <ol class="breadcrumb">
+                            <li class="breadcrumb-item">
+                                <a href="index.html">Merkantilprotokoll</a>
+                            </li>
+                            <li class="breadcrumb-item active" aria-current="page"><xsl:value-of select="$doc_title"/></li>
+                        </ol>
+                    </nav>
                     <div class="container pt-5 pb-5">
                         <h1 class="text-center display-3 pb-3">
                             <xsl:value-of select="$doc_title"/>
@@ -44,11 +52,15 @@
                         
                         
                         <div id="map"/>
+                        <div class="text-center p-1">
+                            <span id="counter1"/> von <span id="counter2"/>
+                            Personen
+                        </div>
                         <table class="table" id="myTable">
                             <thead>
                                 <tr>
-                                    <th scope="col" width="20" tabulator-formatter="html" tabulator-headerSort="false" tabulator-download="false">#</th>
-                                    <th scope="col" tabulator-headerFilter="input" tabulator-minWidth="350">Ortsname</th>
+                                    <th scope="col" tabulator-formatter="html"  tabulator-headerFilter="input" tabulator-minWidth="350" tabulator-download="false">Ortsname</th>
+                                    <th scope="col" tabulator-visible="false">Ortsname_</th>
                                     <th scope="col" tabulator-headerFilter="input">Verbundene Personen</th>
                                     <th scope="col" tabulator-headerFilter="input">Lat</th>
                                     <th scope="col" tabulator-headerFilter="input">Long</th>
@@ -63,10 +75,10 @@
                                     <tr>
                                         <td>
                                             <a>
-                                              <xsl:attribute name="href">
-                                              <xsl:value-of select="concat($id, '.html')"/>
-                                              </xsl:attribute>
-                                              <i class="bi bi-link-45deg"/>
+                                                <xsl:attribute name="href">
+                                                    <xsl:value-of select="concat($id, '.html')"/>
+                                                </xsl:attribute>
+                                                <xsl:value-of select="./tei:placeName[1]/text()"/>
                                             </a>
                                         </td>
                                         <td>
@@ -117,6 +129,16 @@
                     <body class="d-flex flex-column h-100">
                         <xsl:call-template name="nav_bar"/>
                         <main>
+                            <nav style="--bs-breadcrumb-divider: '>';" aria-label="breadcrumb" class="ps-5 p-3">
+                                <ol class="breadcrumb">
+                                    <li class="breadcrumb-item">
+                                        <a href="index.html">Merkantilprotokoll</a>
+                                    </li>
+                                    <li class="breadcrumb-item">
+                                        <a href="listplace.html"><xsl:value-of select="$doc_title"/></a>
+                                    </li>
+                                </ol>
+                            </nav>
                             <div class="container pt-5 pb-5">
                                 <h1 class="text-center display-3 pb-3">
                                     <xsl:value-of select="$name"/>

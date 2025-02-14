@@ -31,12 +31,22 @@
             <body class="d-flex flex-column h-100">
                 <xsl:call-template name="nav_bar"/>
                 <main>
+                    <nav style="--bs-breadcrumb-divider: '>';" aria-label="breadcrumb" class="ps-5 p-3">
+                        <ol class="breadcrumb">
+                            <li class="breadcrumb-item">
+                                <a href="index.html">Merkantilprotokoll</a>
+                            </li>
+                            <li class="breadcrumb-item active" aria-current="page">Übersicht</li>
+                        </ol>
+                    </nav>
                     <div class="container pt-5 pb-5">
                         <h1 class="display-5 text-center">
                             <xsl:value-of select="$doc_title"/>
                         </h1>
-                        <div class="text-center p-1"><span id="counter1"/> von <span id="counter2"/>
-                            Seiten</div>
+                        <div class="text-center p-1">
+                            <span id="counter1"/> von <span id="counter2"/>
+                            Seiten
+                        </div>
                         <table class="table" id="myTable">
                             <thead>
                                 <tr>
