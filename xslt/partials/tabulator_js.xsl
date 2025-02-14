@@ -3,7 +3,9 @@
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
     exclude-result-prefixes="xs"
     version="2.0">
+    
     <xsl:template match="/" name="tabulator_js">
+        <xsl:param name="clickme" select="true()"></xsl:param>
         <link href="https://unpkg.com/tabulator-tables@5.5.2/dist/css/tabulator.min.css" rel="stylesheet"></link>
         <link href="https://unpkg.com/tabulator-tables@5.5.0/dist/css/tabulator_bootstrap5.min.css" rel="stylesheet"></link>
         <script type="text/javascript" src="https://unpkg.com/tabulator-tables@5.5.2/dist/js/tabulator.min.js"></script>
@@ -25,12 +27,26 @@
             table.download("html", "data.html", {style:true});
             });
             
-            // link to detail view on row click
-            table.on("rowClick", function(e, row){
-            var data = row.getData();
-            var url = data["itemid"]
-            window.open(url);
+            <xsl:if test="$clickme">
+                table.on("rowClick", function(e, row){
+                var data = row.getData();
+                var url = `${data["id"]}.html`;
+                window.open(url, "_self");
+                });
+            </xsl:if>
+            
+            
+            table.on("dataLoaded", function (data) {
+            var el = document.getElementById("counter1");
+            el.innerHTML = `${data.length}`;
+            var el = document.getElementById("counter2");
+            el.innerHTML = `${data.length}`;
             });
+            
+            table.on("dataFiltered", function (filters, data) {
+            var el = document.getElementById("counter1");
+            el.innerHTML = `${data.length}`;
+            }); 
         </script>
     </xsl:template>
 </xsl:stylesheet>
