@@ -3,29 +3,81 @@
 
 
 <https://id.acdh.oeaw.ac.at/wmp1> a acdh:TopCollection ;
-    acdh:hasTitle "Das erste Wiener Merkantilprotokoll"@de ;
-    acdh:hasTitle "The first Vienna mercantile protocol"@en ;
+    acdh:hasTitle "Prosopographie der Wiener Kaufleute (1725-1758): Das erste Wiener Merkantilprotokoll"@de ;
+    acdh:hasTitle "Prosopography of the Viennese Merchants (1725–1758): The First Viennese Mercantile Record"@en ;
     acdh:hasPid "https://hdl.handle.net/21.11115/0000-0012-F710-3" ;
-    acdh:hasDescription """TEI/XML kodierte Transkription des ersten Wiener Merkantilprotokolls (Wiener Stadt- und Landesarchiv, Bestand 2.3.2 - Handels- und Wechselgericht B6.1) mit Faksimiles und Registern. Die Daten wurden im Rahmen des vom FWF geförderten Projekts (P35546) „Prosopographie der Wiener Kaufmannschaft (1725-1758)“ von Peter Rauscher, Sandra Hoislbauer und Martin Kienbauer erhoben. Die Faksimiles wurden vom Wiener Stadt- und Landesarchiv im Auftrag von Peter Rauscher erstellt."""@de ;
-    acdh:hasDescription """TEI/XML encoded transcription of the first Viennese merchant register (Vienna City and Provincial Archives, fonds 2.3.2 - Commercial and Exchange Court B6.1) including facsimiles and registers. The data was collected as part of the FWF-funded project (P35546) “Prosopographie der Wiener Kaufmannschaft (1725-1758)” by Peter Rauscher, Sandra Hoislbauer and Martin Kienbauer. The facsimiles were produced by the Vienna City and Provincial Archives on behalf of Peter Rauscher."""@en ;
-    acdh:hasTemporalCoverage "Neuzeit"@und;
-    acdh:hasSubject "Edition"@de;
+    acdh:hasDescription """Die Sammlung enthält die Digitalisate, die Transkription und die Metadaten des ersten Wiener Kaufmannsregisters. Diese Quelle, der Vorläufer des Handelsregisters, liefert das erste (mehr oder weniger) vollständige Verzeichnis der in Wien ansässigen Kaufleute und ihrer Handelsgesellschaften für die Zeit von 1725 bis 1758 ohne die Untertanen des Osmanischen Reiches.
+    Es bildet daher die Grundlage für prosopographische Forschungen zu Wiener Kaufleuten. Aufgrund der teilweise erhaltenen Informationen zu Unternehmensbeteiligungen, Eigenkapitalausstattung und Heiratsverträgen bietet das Kaufmannsverzeichnis weit mehr als eine bloße Auflistung der Wiener Handelsunternehmen.
+    Das Register ist alphabetisch geordnet, die jüdischen Kaufleute sind am Ende aufgeführt. Ein Index bildet den Abschluss.
+    Da es sich beim ersten Band des Wiener Kaufmannsregisters nicht um eine Reinschrift, sondern um eine spätere Zusammenstellung handelt, die durch zahlreiche Abkürzungen, Streichungen, Einfügungen und Querverweise gekennzeichnet ist, ist der Text manchmal schwer zu lesen. Die erstellte Transkription ist daher keine wissenschaftliche Ausgabe, sondern ein mit Metadaten angereicherter Lesevorschlag. Das Originalprotokoll befindet sich im Wiener Stadt- und Landesarchiv (2.3.2.B6.1 - Protokoll I, 1725-1758)."""@de ;
+    acdh:hasDescription """The collection contains the digital copies, the transcription and metadata of the first Vienna Mercantile Record. This source, the forerunner of the commercial register, provides the first (more or less) complete list of merchants and their trading companies based in Vienna for the period from 1725 to 1758 without the subjects of the Ottoman Empire.
+    It therefore forms the basis for any prosopographical research into Viennese merchants. Due to partially preserved information on business holdings, equity capitalisation and marriage contracts, the mercantile record offers far more than a mere list of Viennese commercial enterprises.
+    The register is organised alphabetically, the Jewish merchants are listed at the end. An index forms the conclusion.
+    As the first volume of the Viennese Mercantile Record is not a fair copy, but a later compilation characterised by numerous abbreviations, deletions, insertions and cross-references, the text is sometimes difficult to read. The transcription produced is therefore not a scholarly edition, but a suggested reading enriched with metadata. The original record is preserved in the Vienna City and Provincial Archives (2.3.2.B6.1 – Protokoll I, 1725–1758)."""@en ;
+    acdh:hasTemporalCoverage "Early modern times"@en;
+    acdh:hasTemporalCoverage "Frühe Neuzeit"@de;
+    acdh:hasSubject "Trade"@en;
+    acdh:hasSubject "Viennese Merchants"@en;
+    acdh:hasSubject "Merchant Communities"@en;
+    acdh:hasSubject "Handel"@de;
+    acdh:hasSubject "Wiener Kaufleute"@de;
+    acdh:hasSubject "Kaufmännische Gemeinschaften"@de;
     acdh:hasUrl "https://wmp1.acdh.oeaw.ac.at/" ;
+    acdh:hasUrl "https://donauhandel.univie.ac.at/wiener-merkantilprotokolle/" ;
     acdh:hasCoverageStartDate "1725-01-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
     acdh:hasCoverageEndDate "1758-12-31"^^<http://www.w3.org/2001/XMLSchema#date> ;
     acdh:hasCreatedStartDate "2021-04-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
     acdh:hasCreatedEndDate "2024-10-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
     acdh:hasLanguage <https://vocabs.acdh.oeaw.ac.at/iso6393/deu> ;
+    acdh:hasRelatedDiscipline <https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/601005> ;
     acdh:hasRelatedDiscipline <https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/601016> ;
-    acdh:hasRelatedDiscipline <https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/601009> ;
+    acdh:hasRelatedDiscipline <https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/601014> ;
+    acdh:hasRelatedDiscipline <https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/502049> ;
+    acdh:hasRelatedDiscipline <https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/601029> ;
     acdh:hasLicensor <https://d-nb.info/gnd/2060831-7> ;
     acdh:hasOwner <https://d-nb.info/gnd/2060831-7> ;
     acdh:hasRightsHolder <https://d-nb.info/gnd/2060831-7> ;
+    acdh:hasSpatialCoverage <http://www.wikidata.org/entity/Q932005> ;
+    acdh:hasSpatialCoverage <https://sws.geonames.org/2761369/> ;
+    acdh:hasSpatialCoverage <https://sws.geonames.org/719819/> ;
+    acdh:hasSpatialCoverage <https://sws.geonames.org/2921044/> ;
+    acdh:hasSpatialCoverage <https://sws.geonames.org/3175395/> ;
+    acdh:hasSpatialCoverage <https://sws.geonames.org/2658434/> ;
+    acdh:hasSpatialCoverage <https://www.wikidata.org/wiki/Q153136> ;
     acdh:hasRelatedDiscipline <https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/601> .
 
 
+<http://www.wikidata.org/entity/Q932005> a acdh:Place ;
+    acdh:hasTitle "Habsburgische Erblande"@de ;
+    acdh:hasTitle "Habsburg Hereditary Lands"@en .
+
+<https://sws.geonames.org/2761369/> a acdh:Place ;
+    acdh:hasTitle "Wien"@de .
+
+<https://sws.geonames.org/719819/> a acdh:Place ;
+    acdh:hasTitle "Ungarn"@de .
+
+<https://sws.geonames.org/2921044/> a acdh:Place ;
+    acdh:hasTitle "Deutschland"@de .
+
+<https://sws.geonames.org/3175395/> a acdh:Place ;
+    acdh:hasTitle "Italien"@de .
+
+<https://sws.geonames.org/2658434/> a acdh:Place ;
+    acdh:hasTitle "Schweiz"@de .
+
+<https://sws.geonames.org/2658434/> a acdh:Place ;
+    acdh:hasTitle "Schweiz"@de .
+
+<https://www.wikidata.org/wiki/Q14118> a acdh:Place ;
+    acdh:hasTitle "Savoyen"@de .
+
+<https://www.wikidata.org/wiki/Q153136> a acdh:Place ;
+    acdh:hasTitle "Habsburgermonarchie"@de .
+
+
 <https://id.acdh.oeaw.ac.at/wmp1/editions> a acdh:Collection ;
-    acdh:hasTitle "Editionen"@de ;
+    acdh:hasTitle "TEI/XML kodierte Transkriptionen"@de ;
     acdh:hasPid "https://hdl.handle.net/21.11115/0000-0012-F711-2";
     acdh:hasDescription "TEI/XML Dokumente des Merkantilprotokolls."@de ;
     acdh:hasLanguage <https://vocabs.acdh.oeaw.ac.at/iso6393/deu> ;
@@ -37,7 +89,7 @@
 
 
 <https://id.acdh.oeaw.ac.at/wmp1/indices> a acdh:Collection ;
-    acdh:hasTitle "Register"@de ;
+    acdh:hasTitle "TEI/XML kodierte Register"@de ;
     acdh:hasPid "https://hdl.handle.net/21.11115/0000-0012-F712-1";
     acdh:hasDescription "TEI/XML kodiertes Orts-, Institutions- und Personenregister"@de ;
     acdh:hasLanguage <https://vocabs.acdh.oeaw.ac.at/iso6393/deu> ;
