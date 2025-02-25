@@ -92,7 +92,7 @@ for x in COL_URIS:
     for p, o in G_REPO_OBJECTS.predicate_objects():
         g.add((x, p, o))
 
-g.parse("arche/title_image.ttl")
+g.parse("arche/other_things.ttl")
 
 print("processing images")
 files = sorted(glob.glob("data/editions/*.xml"))
