@@ -121,7 +121,7 @@ for i, x in enumerate(tqdm(files, total=len(files)), start=1):
         (
             uri,
             ACDH["hasLicense"],
-            URIRef("https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-nd-4-0"),
+            URIRef("https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-nc-nd-4-0"),
         )
     )
     g.add((uri, ACDH["hasLicensor"], URIRef("https://d-nb.info/gnd/2060831-7")))
