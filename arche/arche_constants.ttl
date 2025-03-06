@@ -43,6 +43,7 @@
     acdh:hasSpatialCoverage <https://sws.geonames.org/2921044/> ;
     acdh:hasSpatialCoverage <https://sws.geonames.org/3175395/> ;
     acdh:hasSpatialCoverage <https://sws.geonames.org/2658434/> ;
+    acdh:hasSpatialCoverage <https://www.wikidata.org/wiki/Q14118> ;
     acdh:hasSpatialCoverage <https://www.wikidata.org/wiki/Q153136> ;
     acdh:hasRelatedDiscipline <https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/601> .
 
@@ -66,14 +67,13 @@
 <https://sws.geonames.org/2658434/> a acdh:Place ;
     acdh:hasTitle "Schweiz"@de .
 
-<https://sws.geonames.org/2658434/> a acdh:Place ;
-    acdh:hasTitle "Schweiz"@de .
-
 <https://www.wikidata.org/wiki/Q14118> a acdh:Place ;
-    acdh:hasTitle "Savoyen"@de .
+    acdh:hasTitle "Savoyen"@de ;
+     acdh:hasTitle "Savoy"@en .
 
 <https://www.wikidata.org/wiki/Q153136> a acdh:Place ;
-    acdh:hasTitle "Habsburgermonarchie"@de .
+    acdh:hasTitle "Habsburgermonarchie"@de ;
+    acdh:hasTitle "Habsburg monarchy"@en .
 
 
 <https://id.acdh.oeaw.ac.at/wmp1/editions> a acdh:Collection ;
@@ -99,20 +99,33 @@
 
 <https://d-nb.info/gnd/1043833846> a acdh:Person ;
     acdh:hasIdentifier <https://id.acdh.oeaw.ac.at/pandorfer> ;
-    acdh:hasFirstName "Peter"@de ;
-    acdh:hasLastName "Andorfer"@de .
+    acdh:hasFirstName "Peter"@und ;
+    acdh:hasLastName "Andorfer"@und ;
+    acdh:hasFirstName "Peter"@und ;
+    acdh:hasTitle "Peter Andorfer"@und .
 
 <https://d-nb.info/gnd/13140007X> a acdh:Person ;
-    acdh:hasFirstName "Peter"@de ;
-    acdh:hasLastName "Rauscher"@de .
+    acdh:hasFirstName "Peter"@und ;
+    acdh:hasLastName "Rauscher"@und .
 
 # <https://id.acdh.oeaw.ac.at/shoislbauer> a acdh:Person ;
-#     acdh:hasFirstName "Sandra"@de ;
-#     acdh:hasLastName "Hoislbauer"@de .
+#     acdh:hasFirstName "Sandra"@und ;
+#     acdh:hasLastName "Hoislbauer"@und .
 
+# Not sure if this will work - it has worked in the past
 <https://orcid.org/0000-0001-7081-2280> a acdh:Person ;
-    acdh:hasFirstName "Martin"@de ;
-    acdh:hasLastName "Kirnbauer"@de . 
+    acdh:hasFirstName "Martin"@und ;
+    acdh:hasLastName "Kirnbauer"@und ;
+    <delete://delete> acdh:hasAddressLine1 ;
+    <delete://delete> acdh:hasAddressLine2 ;
+    <delete://delete> acdh:hasCity ;
+    <delete://delete> acdh:hasCountry ;
+    <delete://delete> acdh:hasEmail ;
+    <delete://delete> acdh:hasPersonalTitle ;
+    <delete://delete> acdh:hasPostcode ;
+    <delete://delete> acdh:hasRegion ;
+    <delete://delete> acdh:hasUrl ;
+    <delete://delete> acdh:isMemberOf .
 
 <https://d-nb.info/gnd/2060831-7> a acdh:Organisation ;
     acdh:hasTitle "Wiener Stadt- und Landesarchiv"@de .
