@@ -126,6 +126,7 @@ for i, x in enumerate(tqdm(files, total=len(files)), start=1):
     )
     g.add((uri, ACDH["hasLicensor"], URIRef("https://d-nb.info/gnd/2060831-7")))
     g.add((uri, ACDH["hasOwner"], URIRef("https://d-nb.info/gnd/2060831-7")))
+    g.add((uri, ACDH["hashasDigitisingAgent"], URIRef("https://d-nb.info/gnd/2060831-7")))
     g.add((uri, ACDH["hasRightsHolder"], URIRef("https://d-nb.info/gnd/2060831-7")))
     g.add((uri, ACDH["hasDepositor"], URIRef("https://d-nb.info/gnd/13140007X")))
     g.add((uri, ACDH["hasMetadataCreator"], URIRef("https://d-nb.info/gnd/1043833846")))
