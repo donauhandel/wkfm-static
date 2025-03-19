@@ -20,5 +20,7 @@ add-attributes -g "data/editions/*.xml" -b "https://id.acdh.oeaw.ac.at/wkfm"
 python fix_entity_types.py
 denormalize-indices -f "./data/editions/*.xml" -i "./data/indices/*.xml" -m ".//*[@ref]/@ref" -x ".//tei:titleStmt/tei:title[1]/text()"
 
+python oai-pmh/make_files.py
+
 # echo "delete not mentioned entities"
 # python delete_not_mentioned_entities.py
