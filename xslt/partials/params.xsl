@@ -9,6 +9,6 @@
     <xsl:param name="github_url">https://github.com/donauhandel/wkfm-static</xsl:param>
     <xsl:param name="html_title">Wiener Merkantilprotokoll</xsl:param>
     <xsl:param name="project_logo">images/logo.png</xsl:param>
-    <xsl:param name="base_url">https://wkfm.acdh.oeaw.ac.at</xsl:param>
+    <xsl:param name="base_url">https://wmp1.acdh.oeaw.ac.at</xsl:param>
     <xsl:param name="data_repo">https://github.com/donauhandel/wkfm-working-data</xsl:param>
 </xsl:stylesheet>
