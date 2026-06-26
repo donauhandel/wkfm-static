@@ -22,6 +22,11 @@ except ObjectNotFound:
 
 current_schema = {
     "name": "wkfm",
+    "metadata": {
+        "owners": ["Peter Andorfer"],
+        "description": "https://github.com/donauhandel/wkfm-static",
+        "service_ids": [20289],
+    },
     "fields": [
         {"name": "id", "type": "string"},
         {"name": "rec_id", "type": "string"},
